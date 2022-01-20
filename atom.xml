@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-20T19:54:58.784Z</updated>
+    <updated>2022-01-20T20:29:54.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[获得HN用户的最新回复]]></title>
+        <id>https://news.ycombinator.com/item?id=30014298</id>
+        <link href="https://news.ycombinator.com/item?id=30014298"/>
+        <updated>2022-01-20T20:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Get latest replies to an HN user]]></summary>
+        <author>
+            <name>ggerganov</name>
+            <uri>https://news.ycombinator.com/user?id=ggerganov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Go泛型技术构建的无锁环形缓冲器]]></title>
+        <id>https://news.ycombinator.com/item?id=30014108</id>
+        <link href="https://news.ycombinator.com/item?id=30014108"/>
+        <updated>2022-01-20T20:14:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lockless Ringbuffer Built with Go Generics]]></summary>
+        <author>
+            <name>gavinclarke0</name>
+            <uri>https://news.ycombinator.com/user?id=gavinclarke0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FlowForge 0.1版发布]]></title>
+        <id>https://news.ycombinator.com/item?id=30013678</id>
+        <link href="https://news.ycombinator.com/item?id=30013678"/>
+        <updated>2022-01-20T19:40:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: FlowForge 0.1 Released]]></summary>
+        <author>
+            <name>devrelavocados</name>
+            <uri>https://news.ycombinator.com/user?id=devrelavocados</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anders CCHM/HTS 定理验证器]]></title>
         <id>https://news.ycombinator.com/item?id=30012832</id>

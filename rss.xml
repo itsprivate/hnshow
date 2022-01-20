@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 20 Jan 2022 19:54:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 20:29:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[获得HN用户的最新回复]]></title>
+            <link>https://news.ycombinator.com/item?id=30014298</link>
+            <guid>https://news.ycombinator.com/item?id=30014298</guid>
+            <pubDate>Thu, 20 Jan 2022 20:25:08 GMT</pubDate>
+            <description><![CDATA[Show HN: Get latest replies to an HN user]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Go泛型技术构建的无锁环形缓冲器]]></title>
+            <link>https://news.ycombinator.com/item?id=30014108</link>
+            <guid>https://news.ycombinator.com/item?id=30014108</guid>
+            <pubDate>Thu, 20 Jan 2022 20:14:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Lockless Ringbuffer Built with Go Generics]]></description>
+        </item>
+        <item>
+            <title><![CDATA[FlowForge 0.1版发布]]></title>
+            <link>https://news.ycombinator.com/item?id=30013678</link>
+            <guid>https://news.ycombinator.com/item?id=30013678</guid>
+            <pubDate>Thu, 20 Jan 2022 19:40:40 GMT</pubDate>
+            <description><![CDATA[Show HN: FlowForge 0.1 Released]]></description>
+        </item>
         <item>
             <title><![CDATA[Anders CCHM/HTS 定理验证器]]></title>
             <link>https://news.ycombinator.com/item?id=30012832</link>
