@@ -1,207 +1,158 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>👋 HN Show!</title>
-        <link>https://hnshow.buzzing.cc</link>
-        <description>HN Show 中文摘要，用中文浏览Hacker News Show最新作品</description>
-        <lastBuildDate>Thu, 20 Jan 2022 18:11:34 GMT</lastBuildDate>
+        <title>👋 Show HN!</title>
+        <link>https://showhn.buzzing.cc</link>
+        <description>Show HN 中文摘要，用中文浏览Hacker News Show HN 最新作品</description>
+        <lastBuildDate>Thu, 20 Jan 2022 19:41:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
         <image>
-            <title>👋 HN Show!</title>
+            <title>👋 Show HN!</title>
             <url>http://example.com/image.png</url>
-            <link>https://hnshow.buzzing.cc</link>
+            <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
         <item>
-            <title><![CDATA[Show HN: Wordle Solver Bookmarklet]]></title>
+            <title><![CDATA[Anders CCHM/HTS 定理驗證器]]></title>
+            <link>https://news.ycombinator.com/item?id=30012832</link>
+            <guid>https://news.ycombinator.com/item?id=30012832</guid>
+            <pubDate>Thu, 20 Jan 2022 18:41:49 GMT</pubDate>
+            <description><![CDATA[Show HN: Anders CCHM/HTS Theorem Prover]]></description>
+        </item>
+        <item>
+            <title><![CDATA[電木--讓你更容易與你的固件溝通]]></title>
+            <link>https://news.ycombinator.com/item?id=30012737</link>
+            <guid>https://news.ycombinator.com/item?id=30012737</guid>
+            <pubDate>Thu, 20 Jan 2022 18:34:52 GMT</pubDate>
+            <description><![CDATA[Show HN: Bakelite – making it easier to communicate with your firmware]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Wordle Solver Bookmarklet]]></title>
             <link>https://news.ycombinator.com/item?id=30012182</link>
             <guid>https://news.ycombinator.com/item?id=30012182</guid>
             <pubDate>Thu, 20 Jan 2022 17:50:51 GMT</pubDate>
             <description><![CDATA[Show HN: Wordle Solver Bookmarklet]]></description>
         </item>
         <item>
-            <title><![CDATA[Show HN: 問保羅-格雷厄姆]]></title>
+            <title><![CDATA[問保羅-格雷厄姆]]></title>
             <link>https://news.ycombinator.com/item?id=30012003</link>
             <guid>https://news.ycombinator.com/item?id=30012003</guid>
             <pubDate>Thu, 20 Jan 2022 17:37:25 GMT</pubDate>
             <description><![CDATA[Show HN: AskPaulGraham]]></description>
         </item>
         <item>
-            <title><![CDATA[Show HN: Cursor - 一個人工智能電子郵件伴侶]]></title>
+            <title><![CDATA[Cursor - 一個人工智能電子郵件伴侶]]></title>
             <link>https://news.ycombinator.com/item?id=30011965</link>
             <guid>https://news.ycombinator.com/item?id=30011965</guid>
             <pubDate>Thu, 20 Jan 2022 17:35:04 GMT</pubDate>
             <description><![CDATA[Show HN: Cursor – An AI Email Companion]]></description>
         </item>
         <item>
-            <title><![CDATA[Show HN: 在幾分鐘內為你的網站添加一個通知源]]></title>
+            <title><![CDATA[在幾分鐘內為你的網站添加一個通知源]]></title>
             <link>https://news.ycombinator.com/item?id=30011901</link>
             <guid>https://news.ycombinator.com/item?id=30011901</guid>
             <pubDate>Thu, 20 Jan 2022 17:30:21 GMT</pubDate>
             <description><![CDATA[Show HN: Add a notifications feed to your website in minutes]]></description>
         </item>
         <item>
-            <title><![CDATA[Show HN: 我採訪了Pieter Levels]]></title>
+            <title><![CDATA[我採訪了Pieter Levels]]></title>
             <link>https://news.ycombinator.com/item?id=30011740</link>
             <guid>https://news.ycombinator.com/item?id=30011740</guid>
             <pubDate>Thu, 20 Jan 2022 17:17:58 GMT</pubDate>
             <description><![CDATA[Show HN: I Interviewed Pieter Levels]]></description>
         </item>
         <item>
-            <title><![CDATA[Show HN: 最佳SaaS演示跟進（自動 "高光片 "總結）]]></title>
+            <title><![CDATA[最佳SaaS演示跟進（自動 "高光片 "總結）]]></title>
             <link>https://news.ycombinator.com/item?id=30011611</link>
             <guid>https://news.ycombinator.com/item?id=30011611</guid>
             <pubDate>Thu, 20 Jan 2022 17:08:00 GMT</pubDate>
             <description><![CDATA[Show HN: Best SaaS demo follow-up (automatic “highlight reel” summary)]]></description>
         </item>
         <item>
-            <title><![CDATA[Show HN: 字謎排行榜]]></title>
+            <title><![CDATA[字謎排行榜]]></title>
             <link>https://news.ycombinator.com/item?id=30011511</link>
             <guid>https://news.ycombinator.com/item?id=30011511</guid>
             <pubDate>Thu, 20 Jan 2022 17:00:11 GMT</pubDate>
             <description><![CDATA[Show HN: Wordle Leaderboard]]></description>
         </item>
         <item>
-            <title><![CDATA[Show HN: Quantile - 一個用於預測的網絡應用程序]]></title>
+            <title><![CDATA[Quantile - 一個用於預測的網絡應用程序]]></title>
             <link>https://news.ycombinator.com/item?id=30011150</link>
             <guid>https://news.ycombinator.com/item?id=30011150</guid>
             <pubDate>Thu, 20 Jan 2022 16:35:45 GMT</pubDate>
             <description><![CDATA[Show HN: Quantile – A Web App for Forecasting]]></description>
         </item>
         <item>
-            <title><![CDATA[Show HN: 在購買食品時做出更好的食物選擇]]></title>
+            <title><![CDATA[在購買食品時做出更好的食物選擇]]></title>
             <link>https://news.ycombinator.com/item?id=30011149</link>
             <guid>https://news.ycombinator.com/item?id=30011149</guid>
             <pubDate>Thu, 20 Jan 2022 16:35:39 GMT</pubDate>
             <description><![CDATA[Show HN: Make better food choices when grocery shopping]]></description>
         </item>
         <item>
-            <title><![CDATA[Show HN: 分享登陸頁面以獲得SEO策略]]></title>
+            <title><![CDATA[分享登陸頁面以獲得SEO策略]]></title>
             <link>https://news.ycombinator.com/item?id=30009841</link>
             <guid>https://news.ycombinator.com/item?id=30009841</guid>
             <pubDate>Thu, 20 Jan 2022 15:12:01 GMT</pubDate>
             <description><![CDATA[Show HN: Share landing page to get SEO strategy]]></description>
         </item>
         <item>
-            <title><![CDATA[Show HN: Terminordle (多人終端詞庫)]]></title>
+            <title><![CDATA[Terminordle (多人終端詞庫)]]></title>
             <link>https://news.ycombinator.com/item?id=30009828</link>
             <guid>https://news.ycombinator.com/item?id=30009828</guid>
             <pubDate>Thu, 20 Jan 2022 15:11:01 GMT</pubDate>
             <description><![CDATA[Show HN: Terminordle (Multiplayer Terminal Wordle)]]></description>
         </item>
         <item>
-            <title><![CDATA[Show HN: 美國國家航空航天局的每日天文圖片API文件]]></title>
+            <title><![CDATA[美國國家航空航天局的每日天文圖片API文件]]></title>
             <link>https://news.ycombinator.com/item?id=30009738</link>
             <guid>https://news.ycombinator.com/item?id=30009738</guid>
             <pubDate>Thu, 20 Jan 2022 15:04:45 GMT</pubDate>
             <description><![CDATA[Show HN: API Docs for NASA's Astronomy Picture of the Day API]]></description>
         </item>
         <item>
-            <title><![CDATA[Show HN: 我對新家的硬件和軟件設置]]></title>
+            <title><![CDATA[我對新家的硬件和軟件設置]]></title>
             <link>https://news.ycombinator.com/item?id=30009613</link>
             <guid>https://news.ycombinator.com/item?id=30009613</guid>
             <pubDate>Thu, 20 Jan 2022 14:55:03 GMT</pubDate>
             <description><![CDATA[Show HN: My hardware and software setup for a new home]]></description>
         </item>
         <item>
-            <title><![CDATA[Show HN: 革命性的參數化3D打印的磁性鑰匙開關和刺針]]></title>
+            <title><![CDATA[革命性的參數化3D打印的磁性鑰匙開關和刺針]]></title>
             <link>https://news.ycombinator.com/item?id=30009496</link>
             <guid>https://news.ycombinator.com/item?id=30009496</guid>
             <pubDate>Thu, 20 Jan 2022 14:45:37 GMT</pubDate>
             <description><![CDATA[Show HN: Revolutionary parametric 3D printable magnetic key switches and stabs]]></description>
         </item>
         <item>
-            <title><![CDATA[Show HN: Gitamic hits v1.8: 在你的平面文件CMS中提供更好的Git服務]]></title>
+            <title><![CDATA[Gitamic hits v1.8: 在你的平面文件CMS中提供更好的Git服務]]></title>
             <link>https://news.ycombinator.com/item?id=30009263</link>
             <guid>https://news.ycombinator.com/item?id=30009263</guid>
             <pubDate>Thu, 20 Jan 2022 14:24:43 GMT</pubDate>
             <description><![CDATA[Show HN: Gitamic hits v1.8: Even better Git inside your flat-file CMS]]></description>
         </item>
         <item>
-            <title><![CDATA[Show HN: Yarr - React 路由器，實現了邊獲取邊渲染。]]></title>
+            <title><![CDATA[Yarr - React 路由器，實現了邊獲取邊渲染。]]></title>
             <link>https://news.ycombinator.com/item?id=30008900</link>
             <guid>https://news.ycombinator.com/item?id=30008900</guid>
             <pubDate>Thu, 20 Jan 2022 13:55:53 GMT</pubDate>
             <description><![CDATA[Show HN: Yarr – React router enabling render-as-you-fetch]]></description>
         </item>
         <item>
-            <title><![CDATA[Show HN: OCaml中的Wordle解算器]]></title>
+            <title><![CDATA[OCaml中的Wordle解算器]]></title>
             <link>https://news.ycombinator.com/item?id=30008851</link>
             <guid>https://news.ycombinator.com/item?id=30008851</guid>
             <pubDate>Thu, 20 Jan 2022 13:51:37 GMT</pubDate>
             <description><![CDATA[Show HN: A Wordle Solver in OCaml]]></description>
         </item>
         <item>
-            <title><![CDATA[Show HN: 改變遊戲規則的類型化GraphQL]]></title>
+            <title><![CDATA[改變遊戲規則的類型化GraphQL]]></title>
             <link>https://news.ycombinator.com/item?id=30008766</link>
             <guid>https://news.ycombinator.com/item?id=30008766</guid>
             <pubDate>Thu, 20 Jan 2022 13:44:05 GMT</pubDate>
             <description><![CDATA[Show HN: Game Changing Typed GraphQL]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: Traefik Docker保護器]]></title>
-            <link>https://news.ycombinator.com/item?id=30007820</link>
-            <guid>https://news.ycombinator.com/item?id=30007820</guid>
-            <pubDate>Thu, 20 Jan 2022 12:03:33 GMT</pubDate>
-            <description><![CDATA[Show HN: Traefik Docker Protector]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: Mercury - 通過添加YAML頭將Jupyter筆記本發佈為Web應用]]></title>
-            <link>https://news.ycombinator.com/item?id=30007523</link>
-            <guid>https://news.ycombinator.com/item?id=30007523</guid>
-            <pubDate>Thu, 20 Jan 2022 11:26:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Mercury – Publish Jupyter Notebook as web app by adding YAML header]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: Kerneltool - Ubuntu的主線內核安裝程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30006494</link>
-            <guid>https://news.ycombinator.com/item?id=30006494</guid>
-            <pubDate>Thu, 20 Jan 2022 08:57:40 GMT</pubDate>
-            <description><![CDATA[Show HN: Kerneltool – A Ubuntu mainline kernel installer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: Wordlet - 一個Wordle小書籤]]></title>
-            <link>https://news.ycombinator.com/item?id=30004743</link>
-            <guid>https://news.ycombinator.com/item?id=30004743</guid>
-            <pubDate>Thu, 20 Jan 2022 04:41:31 GMT</pubDate>
-            <description><![CDATA[Show HN: Wordlet – A Wordle Bookmarklet]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: Progress.org]]></title>
-            <link>https://news.ycombinator.com/item?id=30004661</link>
-            <guid>https://news.ycombinator.com/item?id=30004661</guid>
-            <pubDate>Thu, 20 Jan 2022 04:30:08 GMT</pubDate>
-            <description><![CDATA[Show HN: Progress.org]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: 吉他標籤搜索引擎]]></title>
-            <link>https://news.ycombinator.com/item?id=30003755</link>
-            <guid>https://news.ycombinator.com/item?id=30003755</guid>
-            <pubDate>Thu, 20 Jan 2022 02:41:54 GMT</pubDate>
-            <description><![CDATA[Show HN: Guitar Tabs Search Engine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: Orthofast。追蹤東正教禁食日並獲得膳食建議]]></title>
-            <link>https://news.ycombinator.com/item?id=30001643</link>
-            <guid>https://news.ycombinator.com/item?id=30001643</guid>
-            <pubDate>Wed, 19 Jan 2022 22:56:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Orthofast: Keep track of Orthodox fasting days and get meal suggestions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: 一個用native-image編譯的Clojure解釋器]]></title>
-            <link>https://news.ycombinator.com/item?id=30000078</link>
-            <guid>https://news.ycombinator.com/item?id=30000078</guid>
-            <pubDate>Wed, 19 Jan 2022 21:03:06 GMT</pubDate>
-            <description><![CDATA[Show HN: A Clojure interpreter compiled with native-image]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Show HN: 推特克隆社交應用]]></title>
-            <link>https://news.ycombinator.com/item?id=29999267</link>
-            <guid>https://news.ycombinator.com/item?id=29999267</guid>
-            <pubDate>Wed, 19 Jan 2022 20:07:51 GMT</pubDate>
-            <description><![CDATA[Show HN: Twitter Clone Social App]]></description>
         </item>
     </channel>
 </rss>
