@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-21T17:31:46.672Z</updated>
+    <updated>2022-01-21T18:09:08.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Wordlet，一個用Rust編寫的Wordle的命令行克隆版]]></title>
+        <id>https://news.ycombinator.com/item?id=30027307</id>
+        <link href="https://news.ycombinator.com/item?id=30027307"/>
+        <updated>2022-01-21T17:59:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Wordlet, a command-line clone of Wordle written in Rust]]></summary>
+        <author>
+            <name>scottluptowski</name>
+            <uri>https://news.ycombinator.com/user?id=scottluptowski</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Threlte - 一個用於Svelte的Three.js組件庫]]></title>
         <id>https://news.ycombinator.com/item?id=30026356</id>
