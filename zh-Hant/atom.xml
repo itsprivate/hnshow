@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-21T18:09:08.153Z</updated>
+    <updated>2022-01-21T18:32:37.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Dryft- 唯一有追隨者的鏈接頁面]]></title>
+        <id>https://news.ycombinator.com/item?id=30027713</id>
+        <link href="https://news.ycombinator.com/item?id=30027713"/>
+        <updated>2022-01-21T18:21:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dryft- The only link page with followers]]></summary>
+        <author>
+            <name>cauthenblake</name>
+            <uri>https://news.ycombinator.com/user?id=cauthenblake</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wordlet，一個用Rust編寫的Wordle的命令行克隆版]]></title>
         <id>https://news.ycombinator.com/item?id=30027307</id>
