@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-20T23:27:16.623Z</updated>
+    <updated>2022-01-21T00:25:02.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[公共雲供應商的區域服務可用性]]></title>
+        <id>https://news.ycombinator.com/item?id=30017183</id>
+        <link href="https://news.ycombinator.com/item?id=30017183"/>
+        <updated>2022-01-20T23:54:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Regional Service Availability of Public Cloud Providers]]></summary>
+        <author>
+            <name>tobilg</name>
+            <uri>https://news.ycombinator.com/user?id=tobilg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozapp - 適用於Linux的Firefox Webapps]]></title>
+        <id>https://news.ycombinator.com/item?id=30016962</id>
+        <link href="https://news.ycombinator.com/item?id=30016962"/>
+        <updated>2022-01-20T23:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mozapp – Firefox Webapps for Linux]]></summary>
+        <author>
+            <name>marten-de-vries</name>
+            <uri>https://news.ycombinator.com/user?id=marten-de-vries</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帶有各種架構的Linux Syscall信息的API]]></title>
         <id>https://news.ycombinator.com/item?id=30016794</id>
