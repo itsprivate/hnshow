@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-22T11:06:39.559Z</updated>
+    <updated>2022-01-22T13:00:46.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[kube-green，K8s运营商，减少集群的二氧化碳足迹]]></title>
+        <id>https://news.ycombinator.com/item?id=30036197</id>
+        <link href="https://news.ycombinator.com/item?id=30036197"/>
+        <updated>2022-01-22T12:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: kube-green, K8s operator to reduce CO2 footprint of your clusters]]></summary>
+        <author>
+            <name>davidebianchi</name>
+            <uri>https://news.ycombinator.com/user?id=davidebianchi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[获取研究论文细节的Chrome扩展]]></title>
         <id>https://news.ycombinator.com/item?id=30035608</id>
