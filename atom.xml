@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-22T03:08:33.670Z</updated>
+    <updated>2022-01-22T07:48:50.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌分析后端的一个开源替代方案]]></title>
+        <id>https://news.ycombinator.com/item?id=30034561</id>
+        <link href="https://news.ycombinator.com/item?id=30034561"/>
+        <updated>2022-01-22T07:38:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An open source alternative to Google Analytics back end]]></summary>
+        <author>
+            <name>DaniDaniel5005</name>
+            <uri>https://news.ycombinator.com/user?id=DaniDaniel5005</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于Terraform的WireGuard+PiHole设置]]></title>
+        <id>https://news.ycombinator.com/item?id=30034539</id>
+        <link href="https://news.ycombinator.com/item?id=30034539"/>
+        <updated>2022-01-22T07:34:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Terraform-based WireGuard+PiHole Setup]]></summary>
+        <author>
+            <name>madduci</name>
+            <uri>https://news.ycombinator.com/user?id=madduci</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不使用JavaScript在网站上添加评论]]></title>
         <id>https://news.ycombinator.com/item?id=30032790</id>
