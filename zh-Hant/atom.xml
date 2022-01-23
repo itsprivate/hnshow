@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-23T13:19:58.195Z</updated>
+    <updated>2022-01-23T14:48:54.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為每個人學習編程，沒有安裝的麻煩]]></title>
+        <id>https://news.ycombinator.com/item?id=30046455</id>
+        <link href="https://news.ycombinator.com/item?id=30046455"/>
+        <updated>2022-01-23T14:44:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Learn programming for everyone, without the hassle of installations]]></summary>
+        <author>
+            <name>chkas</name>
+            <uri>https://news.ycombinator.com/user?id=chkas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無代碼的API市場--從任何API中提取數據，只需3次點擊即可完成]]></title>
         <id>https://news.ycombinator.com/item?id=30045923</id>
