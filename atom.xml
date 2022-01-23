@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-23T09:35:06.741Z</updated>
+    <updated>2022-01-23T13:19:58.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[无代码的API市场--从任何API中提取数据，只需3次点击即可完成]]></title>
+        <id>https://news.ycombinator.com/item?id=30045923</id>
+        <link href="https://news.ycombinator.com/item?id=30045923"/>
+        <updated>2022-01-23T13:16:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: No-code API marketplace - extract data from any API in under 3 clicks]]></summary>
+        <author>
+            <name>david_abaev</name>
+            <uri>https://news.ycombinator.com/user?id=david_abaev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在线批量转换图片，无需发送至服务器]]></title>
+        <id>https://news.ycombinator.com/item?id=30045901</id>
+        <link href="https://news.ycombinator.com/item?id=30045901"/>
+        <updated>2022-01-23T13:13:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bulk convert images online without sending to server]]></summary>
+        <author>
+            <name>akmittal</name>
+            <uri>https://news.ycombinator.com/user?id=akmittal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从静态视频中估计WebRTC的带宽]]></title>
+        <id>https://news.ycombinator.com/item?id=30045843</id>
+        <link href="https://news.ycombinator.com/item?id=30045843"/>
+        <updated>2022-01-23T13:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WebRTC bandwidth estimation from static videos]]></summary>
+        <author>
+            <name>Sean-Der</name>
+            <uri>https://news.ycombinator.com/user?id=Sean-Der</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flowbite - 使用Tailwind CSS构建的开源组件 [MIT]]]></title>
         <id>https://news.ycombinator.com/item?id=30044848</id>
