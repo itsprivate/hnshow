@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-23T22:48:49.321Z</updated>
+    <updated>2022-01-23T23:27:23.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Denoflow - 基於Deno與YAML的簡單而強大的自動化工作流程]]></title>
+        <id>https://news.ycombinator.com/item?id=30051683</id>
+        <link href="https://news.ycombinator.com/item?id=30051683"/>
+        <updated>2022-01-23T23:20:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Denoflow – Simple Powerful automated workflow based on Deno with YAML]]></summary>
+        <author>
+            <name>theowenyoung</name>
+            <uri>https://news.ycombinator.com/user?id=theowenyoung</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SwiftBook - Swift的故事書克隆版]]></title>
         <id>https://news.ycombinator.com/item?id=30051282</id>
