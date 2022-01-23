@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-23T23:27:23.905Z</updated>
+    <updated>2022-01-23T23:48:40.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Maroofy - 搜索听起来相似的歌曲]]></title>
+        <id>https://news.ycombinator.com/item?id=30051909</id>
+        <link href="https://news.ycombinator.com/item?id=30051909"/>
+        <updated>2022-01-23T23:44:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Maroofy – Search for songs that sound similar]]></summary>
+        <author>
+            <name>subtech</name>
+            <uri>https://news.ycombinator.com/user?id=subtech</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在神经网络射杀你之前射杀它]]></title>
+        <id>https://news.ycombinator.com/item?id=30051902</id>
+        <link href="https://news.ycombinator.com/item?id=30051902"/>
+        <updated>2022-01-23T23:44:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Shoot the neural network before it shoots you]]></summary>
+        <author>
+            <name>atum47</name>
+            <uri>https://news.ycombinator.com/user?id=atum47</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Denoflow - 基于Deno与YAML的简单而强大的自动化工作流程]]></title>
         <id>https://news.ycombinator.com/item?id=30051683</id>
