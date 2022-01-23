@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-23T19:21:48.875Z</updated>
+    <updated>2022-01-23T21:26:16.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MongoDB ObjectID到时间戳，反之亦然]]></title>
+        <id>https://news.ycombinator.com/item?id=30049803</id>
+        <link href="https://news.ycombinator.com/item?id=30049803"/>
+        <updated>2022-01-23T19:51:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MongoDB ObjectID to Timestamp and Vice Versa]]></summary>
+        <author>
+            <name>s-xyz</name>
+            <uri>https://news.ycombinator.com/user?id=s-xyz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wordle Assist - 获得一些帮助来解决这个问题]]></title>
         <id>https://news.ycombinator.com/item?id=30049359</id>
