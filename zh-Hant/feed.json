@@ -1,0 +1,818 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "👋 Show HN!",
+    "home_page_url": "https://showhn.buzzing.cc",
+    "feed_url": "https://showhn.buzzing.cc/feed.json",
+    "description": "用中文浏览Hacker News Show HN 最新作品",
+    "icon": "http://example.com/image.png",
+    "author": {
+        "name": "Buzzing",
+        "url": "https://showhn.buzzing.cc"
+    },
+    "items": [
+        {
+            "id": "https://news.ycombinator.com/item?id=30043085",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30043085",
+            "title": "Buymeadomain.com - 一個籌集 \"域名輪融資 \"的平臺",
+            "summary": "Show HN: Buymeadomain.com – a platform to raise “domain-name round funding”",
+            "date_modified": "2022-01-23T02:36:51.000Z",
+            "author": {
+                "name": "hammadn",
+                "url": "https://news.ycombinator.com/user?id=hammadn"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30041511",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30041511",
+            "title": "Rust/egui中的桌面HN閱讀器客戶端",
+            "summary": "Show HN: A desktop HN reader client in Rust/egui",
+            "date_modified": "2022-01-22T22:36:21.000Z",
+            "author": {
+                "name": "rektdeckard",
+                "url": "https://news.ycombinator.com/user?id=rektdeckard"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30041480",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30041480",
+            "title": "預測趨勢性話題的人工智能",
+            "summary": "Show HN: AI for Predicting Trending Topics",
+            "date_modified": "2022-01-22T22:32:12.000Z",
+            "author": {
+                "name": "jfhb",
+                "url": "https://news.ycombinator.com/user?id=jfhb"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30041206",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30041206",
+            "title": "Perspec - 可編寫腳本的桌面應用程序，用於糾正圖像的透視。",
+            "summary": "Show HN: Perspec – Scriptable desktop app to correct the perspective of images",
+            "date_modified": "2022-01-22T21:57:06.000Z",
+            "author": {
+                "name": "adius",
+                "url": "https://news.ycombinator.com/user?id=adius"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30040726",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30040726",
+            "title": "在Python命令行中的簡單Wordle求解器",
+            "summary": "Show HN: Simple Wordle solver in commandline in Python",
+            "date_modified": "2022-01-22T20:55:28.000Z",
+            "author": {
+                "name": "fzxu22",
+                "url": "https://news.ycombinator.com/user?id=fzxu22"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30039946",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30039946",
+            "title": "為Twitter鑄造你自己的NFT PFP，零氣費",
+            "summary": "Show HN: Mint your own NFT PFP for Twitter with zero gas fees",
+            "date_modified": "2022-01-22T19:24:35.000Z",
+            "author": {
+                "name": "darnfish",
+                "url": "https://news.ycombinator.com/user?id=darnfish"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30039692",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30039692",
+            "title": "Hacker XP - 黑客新聞的風格是Windows XP的Outlook電子郵件客戶端",
+            "summary": "Show HN: Hacker XP – Hacker News styled as a Windows XP Outlook email client",
+            "date_modified": "2022-01-22T18:58:19.000Z",
+            "author": {
+                "name": "assemblylang",
+                "url": "https://news.ycombinator.com/user?id=assemblylang"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30038888",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30038888",
+            "title": "編程語言趨勢",
+            "summary": "Show HN: Programming Language Trends",
+            "date_modified": "2022-01-22T17:42:16.000Z",
+            "author": {
+                "name": "bmaupin",
+                "url": "https://news.ycombinator.com/user?id=bmaupin"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30038627",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30038627",
+            "title": "在儘可能小的雲實例上運行的VF",
+            "summary": "Show HN: VF running on smallest possible cloud instances",
+            "date_modified": "2022-01-22T17:18:36.000Z",
+            "author": {
+                "name": "graderjs",
+                "url": "https://news.ycombinator.com/user?id=graderjs"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30037652",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30037652",
+            "title": "用於在Mac狀態欄上顯示進程流量的監視器",
+            "summary": "Show HN: Monitor for displaying process traffic on Mac Status bar",
+            "date_modified": "2022-01-22T15:49:42.000Z",
+            "author": {
+                "name": "foamzou",
+                "url": "https://news.ycombinator.com/user?id=foamzou"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30037554",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30037554",
+            "title": "使用Python，當亞馬遜願望清單上的物品降價時得到提醒",
+            "summary": "Show HN: Use Python to get alerted when an Amazon wishlist item drops in price",
+            "date_modified": "2022-01-22T15:37:15.000Z",
+            "author": {
+                "name": "edent",
+                "url": "https://news.ycombinator.com/user?id=edent"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30037501",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30037501",
+            "title": "一個用於命令行的Wordle（西班牙語和英語）",
+            "summary": "Show HN: A Wordle for the command line (Spanish and English)",
+            "date_modified": "2022-01-22T15:30:15.000Z",
+            "author": {
+                "name": "flyingpumba",
+                "url": "https://news.ycombinator.com/user?id=flyingpumba"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30036452",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30036452",
+            "title": "Howtoweb3.guide - 黑客的資源集合",
+            "summary": "Show HN: Howtoweb3.guide – A collection of resources for hackers",
+            "date_modified": "2022-01-22T13:34:25.000Z",
+            "author": {
+                "name": "fryingneurons",
+                "url": "https://news.ycombinator.com/user?id=fryingneurons"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30036358",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30036358",
+            "title": "今天和明天的Wordle答案",
+            "summary": "Show HN: Wordle Answer for Today and Tomorrow",
+            "date_modified": "2022-01-22T13:17:38.000Z",
+            "author": {
+                "name": "ganessh",
+                "url": "https://news.ycombinator.com/user?id=ganessh"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30036197",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30036197",
+            "title": "kube-green，K8s運營商，減少集群的二氧化碳足跡",
+            "summary": "Show HN: kube-green, K8s operator to reduce CO2 footprint of your clusters",
+            "date_modified": "2022-01-22T12:45:18.000Z",
+            "author": {
+                "name": "davidebianchi",
+                "url": "https://news.ycombinator.com/user?id=davidebianchi"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30035608",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30035608",
+            "title": "獲取研究論文細節的Chrome擴展",
+            "summary": "Show HN: Chrome extension to get research paper details",
+            "date_modified": "2022-01-22T11:00:39.000Z",
+            "author": {
+                "name": "vpj",
+                "url": "https://news.ycombinator.com/user?id=vpj"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30034561",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30034561",
+            "title": "谷歌分析後端的一個開源替代方案",
+            "summary": "Show HN: An open source alternative to Google Analytics back end",
+            "date_modified": "2022-01-22T07:38:20.000Z",
+            "author": {
+                "name": "DaniDaniel5005",
+                "url": "https://news.ycombinator.com/user?id=DaniDaniel5005"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30034539",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30034539",
+            "title": "基於Terraform的WireGuard+PiHole設置",
+            "summary": "Show HN: A Terraform-based WireGuard+PiHole Setup",
+            "date_modified": "2022-01-22T07:34:28.000Z",
+            "author": {
+                "name": "madduci",
+                "url": "https://news.ycombinator.com/user?id=madduci"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30032790",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30032790",
+            "title": "不使用JavaScript在網站上添加評論",
+            "summary": "Show HN: Add Commenting to a Site Without JavaScript",
+            "date_modified": "2022-01-22T02:46:07.000Z",
+            "author": {
+                "name": "winrid",
+                "url": "https://news.ycombinator.com/user?id=winrid"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30032729",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30032729",
+            "title": "Pianobar-remote-control - 用於Pianobar的低價位網絡遙控器",
+            "summary": "Show HN: Pianobar-remote-control – low-frills go web remote for pianobar",
+            "date_modified": "2022-01-22T02:38:32.000Z",
+            "author": {
+                "name": "jc0101",
+                "url": "https://news.ycombinator.com/user?id=jc0101"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30031569",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30031569",
+            "title": "關注開源項目",
+            "summary": "Show HN: Follow Open Source Projects",
+            "date_modified": "2022-01-21T23:56:57.000Z",
+            "author": {
+                "name": "leits",
+                "url": "https://news.ycombinator.com/user?id=leits"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30030812",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30030812",
+            "title": "qme：用於排隊的長運行命令的簡單工具",
+            "summary": "Show HN: qme: simple utility for queueing long-running commands",
+            "date_modified": "2022-01-21T22:31:42.000Z",
+            "author": {
+                "name": "abdusco",
+                "url": "https://news.ycombinator.com/user?id=abdusco"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30030150",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30030150",
+            "title": "Ahoy 2.0 - 每個網站的虛擬評論箱",
+            "summary": "Show HN: Ahoy 2.0 – virtual comment box for every website",
+            "date_modified": "2022-01-21T21:20:35.000Z",
+            "author": {
+                "name": "jefflee0127",
+                "url": "https://news.ycombinator.com/user?id=jefflee0127"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30030113",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30030113",
+            "title": "電影布夫。電影知識問答；世界上最大的電影知識問答超級應用",
+            "summary": "Show HN: Movie Buff: Film Quiz Trivia; The world's largest movie quiz superapp",
+            "date_modified": "2022-01-21T21:17:11.000Z",
+            "author": {
+                "name": "AppFounder",
+                "url": "https://news.ycombinator.com/user?id=AppFounder"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30029892",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30029892",
+            "title": "免費的Slack應用，讓你的團隊一鍵就能看到狀態儀表板",
+            "summary": "Show HN: Free Slack app to keep a status dashboard one click away from your team",
+            "date_modified": "2022-01-21T20:57:23.000Z",
+            "author": {
+                "name": "messutied",
+                "url": "https://news.ycombinator.com/user?id=messutied"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30029526",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30029526",
+            "title": "繆斯，一種製作音樂的簡單語言",
+            "summary": "Show HN: Muse, a simple language for making music",
+            "date_modified": "2022-01-21T20:27:18.000Z",
+            "author": {
+                "name": "apexedison",
+                "url": "https://news.ycombinator.com/user?id=apexedison"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30028980",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30028980",
+            "title": "北極分析--改造網絡刮削和NLP的世界",
+            "summary": "Show HN: Arctic Analytics – Transforming the World of Web Scraping and NLP",
+            "date_modified": "2022-01-21T19:46:36.000Z",
+            "author": {
+                "name": "ArcticAnalytics",
+                "url": "https://news.ycombinator.com/user?id=ArcticAnalytics"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30027713",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30027713",
+            "title": "Dryft- 唯一有追隨者的鏈接頁面",
+            "summary": "Show HN: Dryft- The only link page with followers",
+            "date_modified": "2022-01-21T18:21:59.000Z",
+            "author": {
+                "name": "cauthenblake",
+                "url": "https://news.ycombinator.com/user?id=cauthenblake"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30027307",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30027307",
+            "title": "Wordlet，一個用Rust編寫的Wordle的命令行克隆版",
+            "summary": "Show HN: Wordlet, a command-line clone of Wordle written in Rust",
+            "date_modified": "2022-01-21T17:59:18.000Z",
+            "author": {
+                "name": "scottluptowski",
+                "url": "https://news.ycombinator.com/user?id=scottluptowski"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30026356",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30026356",
+            "title": "Threlte - 一個用於Svelte的Three.js組件庫",
+            "summary": "Show HN: Threlte – A Three.js component library for Svelte",
+            "date_modified": "2022-01-21T17:03:32.000Z",
+            "author": {
+                "name": "legrisch",
+                "url": "https://news.ycombinator.com/user?id=legrisch"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30025804",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30025804",
+            "title": "Loadjitsu--JMeter的現代負載測試替代品",
+            "summary": "Show HN: Loadjitsu – a modern load testing alternative to JMeter",
+            "date_modified": "2022-01-21T16:28:38.000Z",
+            "author": {
+                "name": "rhl314",
+                "url": "https://news.ycombinator.com/user?id=rhl314"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30025352",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30025352",
+            "title": "用於Python的聲明式儀表盤",
+            "summary": "Show HN: Declarative Instrumentation for Python",
+            "date_modified": "2022-01-21T16:02:38.000Z",
+            "author": {
+                "name": "smacke",
+                "url": "https://news.ycombinator.com/user?id=smacke"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30023030",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30023030",
+            "title": "簡單的自動屏幕截圖測試工具，適用於gameboy遊戲",
+            "summary": "Show HN: Simple automated screenshot testing tool for gameboy games",
+            "date_modified": "2022-01-21T13:15:36.000Z",
+            "author": {
+                "name": "mrmattyboy",
+                "url": "https://news.ycombinator.com/user?id=mrmattyboy"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30022161",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30022161",
+            "title": "puppeteer的交互式用戶界面，無需客戶端JS",
+            "summary": "Show HN: An interactive UI for puppeteer sans client-side JS",
+            "date_modified": "2022-01-21T11:38:37.000Z",
+            "author": {
+                "name": "graderjs",
+                "url": "https://news.ycombinator.com/user?id=graderjs"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30021270",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30021270",
+            "title": "懸停在cashtags上就能看到實時股票數據的Chrome擴展程序",
+            "summary": "Show HN: Chrome Extension to see real-time stock data with a hover over cashtags",
+            "date_modified": "2022-01-21T09:41:53.000Z",
+            "author": {
+                "name": "hkamal516",
+                "url": "https://news.ycombinator.com/user?id=hkamal516"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30020990",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30020990",
+            "title": "檢查你的網站副本的小型工具",
+            "summary": "Show HN: Mini tool to check the copy of your website",
+            "date_modified": "2022-01-21T09:04:56.000Z",
+            "author": {
+                "name": "laurinw",
+                "url": "https://news.ycombinator.com/user?id=laurinw"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30019552",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30019552",
+            "title": "一個旨在開啟有意義的對話的數字卡片遊戲",
+            "summary": "Show HN: A digital card game designed to unlock meaningful conversation",
+            "date_modified": "2022-01-21T05:33:30.000Z",
+            "author": {
+                "name": "millionhari",
+                "url": "https://news.ycombinator.com/user?id=millionhari"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30019284",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30019284",
+            "title": "Aamu.app - 一體化的生產力工具",
+            "summary": "Show HN: Aamu.app – all-in-one productivity tool",
+            "date_modified": "2022-01-21T04:46:24.000Z",
+            "author": {
+                "name": "ile",
+                "url": "https://news.ycombinator.com/user?id=ile"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30019218",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30019218",
+            "title": "嗶哩嗶哩 - 視覺上收集一切",
+            "summary": "Show HN: Bleep – Collect Everything Visually",
+            "date_modified": "2022-01-21T04:35:46.000Z",
+            "author": {
+                "name": "sirwinsley",
+                "url": "https://news.ycombinator.com/user?id=sirwinsley"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30017183",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30017183",
+            "title": "公共雲供應商的區域服務可用性",
+            "summary": "Show HN: Regional Service Availability of Public Cloud Providers",
+            "date_modified": "2022-01-20T23:54:56.000Z",
+            "author": {
+                "name": "tobilg",
+                "url": "https://news.ycombinator.com/user?id=tobilg"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30016962",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30016962",
+            "title": "Mozapp - 適用於Linux的Firefox Webapps",
+            "summary": "Show HN: Mozapp – Firefox Webapps for Linux",
+            "date_modified": "2022-01-20T23:31:03.000Z",
+            "author": {
+                "name": "marten-de-vries",
+                "url": "https://news.ycombinator.com/user?id=marten-de-vries"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30016794",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30016794",
+            "title": "帶有各種架構的Linux Syscall信息的API",
+            "summary": "Show HN: API with Linux Syscall information for various architectures",
+            "date_modified": "2022-01-20T23:18:46.000Z",
+            "author": {
+                "name": "guitmz",
+                "url": "https://news.ycombinator.com/user?id=guitmz"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30015803",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30015803",
+            "title": "Pytagmapper - 用於方形靶標的python3 SLAM庫",
+            "summary": "Show HN: Pytagmapper – python3 SLAM library for square fiducial tags",
+            "date_modified": "2022-01-20T22:05:28.000Z",
+            "author": {
+                "name": "markisus",
+                "url": "https://news.ycombinator.com/user?id=markisus"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30015795",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30015795",
+            "title": "用於Python的簡單而直觀的代碼儀表",
+            "summary": "Show HN: Simple and intuitive code instrumentation for Python",
+            "date_modified": "2022-01-20T22:04:53.000Z",
+            "author": {
+                "name": "smacke",
+                "url": "https://news.ycombinator.com/user?id=smacke"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30014298",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30014298",
+            "title": "獲得HN用戶的最新回覆",
+            "summary": "Show HN: Get latest replies to an HN user",
+            "date_modified": "2022-01-20T20:25:08.000Z",
+            "author": {
+                "name": "ggerganov",
+                "url": "https://news.ycombinator.com/user?id=ggerganov"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30014108",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30014108",
+            "title": "用Go泛型技術構建的無鎖環形緩衝器",
+            "summary": "Show HN: Lockless Ringbuffer Built with Go Generics",
+            "date_modified": "2022-01-20T20:14:16.000Z",
+            "author": {
+                "name": "gavinclarke0",
+                "url": "https://news.ycombinator.com/user?id=gavinclarke0"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30013678",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30013678",
+            "title": "FlowForge 0.1版發佈",
+            "summary": "Show HN: FlowForge 0.1 Released",
+            "date_modified": "2022-01-20T19:40:40.000Z",
+            "author": {
+                "name": "devrelavocados",
+                "url": "https://news.ycombinator.com/user?id=devrelavocados"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30012832",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30012832",
+            "title": "Anders CCHM/HTS 定理驗證器",
+            "summary": "Show HN: Anders CCHM/HTS Theorem Prover",
+            "date_modified": "2022-01-20T18:41:49.000Z",
+            "author": {
+                "name": "5HT",
+                "url": "https://news.ycombinator.com/user?id=5HT"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30012737",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30012737",
+            "title": "電木--讓你更容易與你的固件溝通",
+            "summary": "Show HN: Bakelite – making it easier to communicate with your firmware",
+            "date_modified": "2022-01-20T18:34:52.000Z",
+            "author": {
+                "name": "brendan0powers",
+                "url": "https://news.ycombinator.com/user?id=brendan0powers"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30012182",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30012182",
+            "title": "Wordle Solver Bookmarklet",
+            "summary": "Show HN: Wordle Solver Bookmarklet",
+            "date_modified": "2022-01-20T17:50:51.000Z",
+            "author": {
+                "name": "nfriend",
+                "url": "https://news.ycombinator.com/user?id=nfriend"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30012003",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30012003",
+            "title": "問保羅-格雷厄姆",
+            "summary": "Show HN: AskPaulGraham",
+            "date_modified": "2022-01-20T17:37:25.000Z",
+            "author": {
+                "name": "forstmeier",
+                "url": "https://news.ycombinator.com/user?id=forstmeier"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30011965",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30011965",
+            "title": "Cursor - 一個人工智能電子郵件伴侶",
+            "summary": "Show HN: Cursor – An AI Email Companion",
+            "date_modified": "2022-01-20T17:35:04.000Z",
+            "author": {
+                "name": "mntruell",
+                "url": "https://news.ycombinator.com/user?id=mntruell"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30011901",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30011901",
+            "title": "在幾分鐘內為你的網站添加一個通知源",
+            "summary": "Show HN: Add a notifications feed to your website in minutes",
+            "date_modified": "2022-01-20T17:30:21.000Z",
+            "author": {
+                "name": "aceelric",
+                "url": "https://news.ycombinator.com/user?id=aceelric"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30011740",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30011740",
+            "title": "我採訪了Pieter Levels",
+            "summary": "Show HN: I Interviewed Pieter Levels",
+            "date_modified": "2022-01-20T17:17:58.000Z",
+            "author": {
+                "name": "wbespace",
+                "url": "https://news.ycombinator.com/user?id=wbespace"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30011611",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30011611",
+            "title": "最佳SaaS演示跟進（自動 \"高光片 \"總結）",
+            "summary": "Show HN: Best SaaS demo follow-up (automatic “highlight reel” summary)",
+            "date_modified": "2022-01-20T17:08:00.000Z",
+            "author": {
+                "name": "bluelightning2k",
+                "url": "https://news.ycombinator.com/user?id=bluelightning2k"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30011511",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30011511",
+            "title": "字謎排行榜",
+            "summary": "Show HN: Wordle Leaderboard",
+            "date_modified": "2022-01-20T17:00:11.000Z",
+            "author": {
+                "name": "neilpomerleau",
+                "url": "https://news.ycombinator.com/user?id=neilpomerleau"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30011150",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30011150",
+            "title": "Quantile - 一個用於預測的網絡應用程序",
+            "summary": "Show HN: Quantile – A Web App for Forecasting",
+            "date_modified": "2022-01-20T16:35:45.000Z",
+            "author": {
+                "name": "ntlind",
+                "url": "https://news.ycombinator.com/user?id=ntlind"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30011149",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30011149",
+            "title": "在購買食品時做出更好的食物選擇",
+            "summary": "Show HN: Make better food choices when grocery shopping",
+            "date_modified": "2022-01-20T16:35:39.000Z",
+            "author": {
+                "name": "Carrieroberts",
+                "url": "https://news.ycombinator.com/user?id=Carrieroberts"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30009841",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30009841",
+            "title": "分享登陸頁面以獲得SEO策略",
+            "summary": "Show HN: Share landing page to get SEO strategy",
+            "date_modified": "2022-01-20T15:12:01.000Z",
+            "author": {
+                "name": "Quack123",
+                "url": "https://news.ycombinator.com/user?id=Quack123"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30009828",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30009828",
+            "title": "Terminordle (多人終端詞庫)",
+            "summary": "Show HN: Terminordle (Multiplayer Terminal Wordle)",
+            "date_modified": "2022-01-20T15:11:01.000Z",
+            "author": {
+                "name": "hp4k1h5",
+                "url": "https://news.ycombinator.com/user?id=hp4k1h5"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30009738",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30009738",
+            "title": "美國國家航空航天局的每日天文圖片API文件",
+            "summary": "Show HN: API Docs for NASA's Astronomy Picture of the Day API",
+            "date_modified": "2022-01-20T15:04:45.000Z",
+            "author": {
+                "name": "vrepsys",
+                "url": "https://news.ycombinator.com/user?id=vrepsys"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30009613",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30009613",
+            "title": "我對新家的硬件和軟件設置",
+            "summary": "Show HN: My hardware and software setup for a new home",
+            "date_modified": "2022-01-20T14:55:03.000Z",
+            "author": {
+                "name": "giuliomagnifico",
+                "url": "https://news.ycombinator.com/user?id=giuliomagnifico"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30009496",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30009496",
+            "title": "革命性的參數化3D打印的磁性鑰匙開關和刺針",
+            "summary": "Show HN: Revolutionary parametric 3D printable magnetic key switches and stabs",
+            "date_modified": "2022-01-20T14:45:37.000Z",
+            "author": {
+                "name": "riskable",
+                "url": "https://news.ycombinator.com/user?id=riskable"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30009263",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30009263",
+            "title": "Gitamic hits v1.8: 在你的平面文件CMS中提供更好的Git服務",
+            "summary": "Show HN: Gitamic hits v1.8: Even better Git inside your flat-file CMS",
+            "date_modified": "2022-01-20T14:24:43.000Z",
+            "author": {
+                "name": "simonhamp",
+                "url": "https://news.ycombinator.com/user?id=simonhamp"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30008900",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30008900",
+            "title": "Yarr - React 路由器，實現了邊獲取邊渲染。",
+            "summary": "Show HN: Yarr – React router enabling render-as-you-fetch",
+            "date_modified": "2022-01-20T13:55:53.000Z",
+            "author": {
+                "name": "gajus",
+                "url": "https://news.ycombinator.com/user?id=gajus"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30008851",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30008851",
+            "title": "OCaml中的Wordle解算器",
+            "summary": "Show HN: A Wordle Solver in OCaml",
+            "date_modified": "2022-01-20T13:51:37.000Z",
+            "author": {
+                "name": "jtanza",
+                "url": "https://news.ycombinator.com/user?id=jtanza"
+            }
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=30008766",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=30008766",
+            "title": "改變遊戲規則的類型化GraphQL",
+            "summary": "Show HN: Game Changing Typed GraphQL",
+            "date_modified": "2022-01-20T13:44:05.000Z",
+            "author": {
+                "name": "aexol",
+                "url": "https://news.ycombinator.com/user?id=aexol"
+            }
+        }
+    ]
+}
