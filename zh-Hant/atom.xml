@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-23T22:09:00.690Z</updated>
+    <updated>2022-01-23T22:27:39.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[由你投票選出的最佳新聞通訊]]></title>
+        <id>https://news.ycombinator.com/item?id=30051121</id>
+        <link href="https://news.ycombinator.com/item?id=30051121"/>
+        <updated>2022-01-23T22:22:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The best of newsletters as voted by you]]></summary>
+        <author>
+            <name>quinto_quarto</name>
+            <uri>https://news.ycombinator.com/user?id=quinto_quarto</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Insta - 一個令人愉快的Rust快照測試工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30051110</id>
+        <link href="https://news.ycombinator.com/item?id=30051110"/>
+        <updated>2022-01-23T22:20:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Insta – an enjoyable snapshot testing tool for Rust]]></summary>
+        <author>
+            <name>the_mitsuhiko</name>
+            <uri>https://news.ycombinator.com/user?id=the_mitsuhiko</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Termle。終端中的Wordle]]></title>
         <id>https://news.ycombinator.com/item?id=30050900</id>
