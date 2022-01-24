@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-24T22:09:38.742Z</updated>
+    <updated>2022-01-24T22:28:51.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个网站来检查一个NFT的去中心化程度]]></title>
+        <id>https://news.ycombinator.com/item?id=30064787</id>
+        <link href="https://news.ycombinator.com/item?id=30064787"/>
+        <updated>2022-01-24T22:12:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a website to check how decentralized an NFT is]]></summary>
+        <author>
+            <name>royosherove</name>
+            <uri>https://news.ycombinator.com/user?id=royosherove</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我写了一本关于网站可靠性工程的书]]></title>
         <id>https://news.ycombinator.com/item?id=30064570</id>
