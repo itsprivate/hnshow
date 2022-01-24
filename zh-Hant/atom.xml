@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-24T07:28:28.082Z</updated>
+    <updated>2022-01-24T07:48:54.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Word.rodeo - 自定義字謎]]></title>
+        <id>https://news.ycombinator.com/item?id=30054597</id>
+        <link href="https://news.ycombinator.com/item?id=30054597"/>
+        <updated>2022-01-24T07:39:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Word.rodeo – Custom Word Puzzles]]></summary>
+        <author>
+            <name>julianwachholz</name>
+            <uri>https://news.ycombinator.com/user?id=julianwachholz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用NestJS、React和Redux編寫的無頭CMS-Saga]]></title>
         <id>https://news.ycombinator.com/item?id=30054467</id>
