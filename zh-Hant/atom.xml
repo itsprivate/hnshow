@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-25T07:27:21.014Z</updated>
+    <updated>2022-01-25T08:49:53.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用OpenTelemetry和ClickHouse進行追蹤]]></title>
+        <id>https://news.ycombinator.com/item?id=30069620</id>
+        <link href="https://news.ycombinator.com/item?id=30069620"/>
+        <updated>2022-01-25T08:37:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tracing Using OpenTelemetry and ClickHouse]]></summary>
+        <author>
+            <name>vmihailenco</name>
+            <uri>https://news.ycombinator.com/user?id=vmihailenco</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pip--將Web3與社交媒體連接起來，使每個人都能訪問它。]]></title>
         <id>https://news.ycombinator.com/item?id=30069082</id>
