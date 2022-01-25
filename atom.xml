@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-25T13:49:06.043Z</updated>
+    <updated>2022-01-25T14:08:40.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[浏览器扩展，按分钟计算生产力的游戏化]]></title>
+        <id>https://news.ycombinator.com/item?id=30071874</id>
+        <link href="https://news.ycombinator.com/item?id=30071874"/>
+        <updated>2022-01-25T14:04:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Chrome extension that gamifies productivity by the minute]]></summary>
+        <author>
+            <name>derekni</name>
+            <uri>https://news.ycombinator.com/user?id=derekni</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blogstatic.io - 在一个平台上发表博客和发送新闻简报]]></title>
+        <id>https://news.ycombinator.com/item?id=30071791</id>
+        <link href="https://news.ycombinator.com/item?id=30071791"/>
+        <updated>2022-01-25T13:57:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Blogstatic.io – Blogging and Sending Newsletters from a single platform]]></summary>
+        <author>
+            <name>octobereleven</name>
+            <uri>https://news.ycombinator.com/user?id=octobereleven</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[单向加密，我的第一个Rust项目]]></title>
         <id>https://news.ycombinator.com/item?id=30071607</id>
