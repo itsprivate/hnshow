@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-25T08:49:53.543Z</updated>
+    <updated>2022-01-25T09:49:02.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Re:places (Algolia Places) - 在内存中更快地搜索41,000个城市]]></title>
+        <id>https://news.ycombinator.com/item?id=30070043</id>
+        <link href="https://news.ycombinator.com/item?id=30070043"/>
+        <updated>2022-01-25T09:43:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Re:places (Algolia Places) – faster in-memory search of 41,000 cities]]></summary>
+        <author>
+            <name>somishere</name>
+            <uri>https://news.ycombinator.com/user?id=somishere</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用OpenTelemetry和ClickHouse进行追踪]]></title>
         <id>https://news.ycombinator.com/item?id=30069620</id>
