@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-24T23:08:30.689Z</updated>
+    <updated>2022-01-25T01:45:45.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個新的高性能的Golang Redis庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30066739</id>
+        <link href="https://news.ycombinator.com/item?id=30066739"/>
+        <updated>2022-01-25T01:36:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A new high performance Golang Redis library]]></summary>
+        <author>
+            <name>rueian</name>
+            <uri>https://news.ycombinator.com/user?id=rueian</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看起來和工作起來更像一個論壇的社交網絡]]></title>
+        <id>https://news.ycombinator.com/item?id=30066184</id>
+        <link href="https://news.ycombinator.com/item?id=30066184"/>
+        <updated>2022-01-25T00:25:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Social network that looks and works more like a forum]]></summary>
+        <author>
+            <name>anr13</name>
+            <uri>https://news.ycombinator.com/user?id=anr13</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於Wordle的貪婪算法，至少能解決99.5%的單詞]]></title>
+        <id>https://news.ycombinator.com/item?id=30066101</id>
+        <link href="https://news.ycombinator.com/item?id=30066101"/>
+        <updated>2022-01-25T00:17:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Greedy algo for Wordle that solves at least 99.5% words]]></summary>
+        <author>
+            <name>whurdler</name>
+            <uri>https://news.ycombinator.com/user?id=whurdler</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[投票選出最佳替代物]]></title>
         <id>https://news.ycombinator.com/item?id=30065263</id>
