@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-25T17:34:15.442Z</updated>
+    <updated>2022-01-25T18:10:51.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Codestamp - 与语言无关的工具，用于签署你的（编码的）文件]]></title>
+        <id>https://news.ycombinator.com/item?id=30075409</id>
+        <link href="https://news.ycombinator.com/item?id=30075409"/>
+        <updated>2022-01-25T18:05:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Codestamp – language-agnostic tool for signing your (codegen'd) files]]></summary>
+        <author>
+            <name>keyanz</name>
+            <uri>https://news.ycombinator.com/user?id=keyanz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用由Python驱动的SQL查询任何类型的数据]]></title>
         <id>https://news.ycombinator.com/item?id=30074787</id>
