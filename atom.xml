@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-25T17:04:53.154Z</updated>
+    <updated>2022-01-25T17:34:15.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用由Python驱动的SQL查询任何类型的数据]]></title>
+        <id>https://news.ycombinator.com/item?id=30074787</id>
+        <link href="https://news.ycombinator.com/item?id=30074787"/>
+        <updated>2022-01-25T17:29:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Query any kind of data with SQL powered by Python]]></summary>
+        <author>
+            <name>dmoura</name>
+            <uri>https://news.ycombinator.com/user?id=dmoura</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glove80在Kickstarter上--500次迭代，制作分体式轮廓键盘]]></title>
+        <id>https://news.ycombinator.com/item?id=30074568</id>
+        <link href="https://news.ycombinator.com/item?id=30074568"/>
+        <updated>2022-01-25T17:17:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Glove80 on Kickstarter-500 iterations to make split contoured keyboards]]></summary>
+        <author>
+            <name>moergo</name>
+            <uri>https://news.ycombinator.com/user?id=moergo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用VS代码检查自己的情况]]></title>
+        <id>https://news.ycombinator.com/item?id=30074345</id>
+        <link href="https://news.ycombinator.com/item?id=30074345"/>
+        <updated>2022-01-25T17:02:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Use VS Code to Check in with Yourself]]></summary>
+        <author>
+            <name>sourishkrout</name>
+            <uri>https://news.ycombinator.com/user?id=sourishkrout</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Google Colab中玩Wordle，或者建立一个AI代理来做这件事]]></title>
         <id>https://news.ycombinator.com/item?id=30074307</id>
