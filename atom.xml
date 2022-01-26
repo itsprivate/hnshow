@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-26T04:36:44.730Z</updated>
+    <updated>2022-01-26T07:27:02.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Jrosclient ROS（机器人操作系统）的Java客户端]]></title>
+        <id>https://news.ycombinator.com/item?id=30082750</id>
+        <link href="https://news.ycombinator.com/item?id=30082750"/>
+        <updated>2022-01-26T07:20:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Jrosclient Java Client for ROS (Robotic Operation System)]]></summary>
+        <author>
+            <name>lambdaprime</name>
+            <uri>https://news.ycombinator.com/user?id=lambdaprime</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Visual Python 2.0 - 用于数据科学的GUI Python代码生成器]]></title>
         <id>https://news.ycombinator.com/item?id=30081740</id>
