@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-26T16:11:42.896Z</updated>
+    <updated>2022-01-26T16:46:27.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一個應用程序，將我的淋浴時間從30分鐘減少到5分鐘]]></title>
+        <id>https://news.ycombinator.com/item?id=30087553</id>
+        <link href="https://news.ycombinator.com/item?id=30087553"/>
+        <updated>2022-01-26T16:28:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built an app that reduced my shower time from 30 minutes to 5]]></summary>
+        <author>
+            <name>briancldo</name>
+            <uri>https://news.ycombinator.com/user?id=briancldo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Drumcircle - 個性化的候選人登陸頁面，實現更好的面試效果]]></title>
         <id>https://news.ycombinator.com/item?id=30087201</id>
