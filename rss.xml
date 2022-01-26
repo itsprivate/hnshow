@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 26 Jan 2022 22:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 23:09:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我的博客]]></title>
+            <link>https://news.ycombinator.com/item?id=30093411</link>
+            <guid>https://news.ycombinator.com/item?id=30093411</guid>
+            <pubDate>Wed, 26 Jan 2022 23:06:41 GMT</pubDate>
+            <description><![CDATA[Show HN: My Blog]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Thor-Event，像Redux，但有事件。]]></title>
+            <link>https://news.ycombinator.com/item?id=30093216</link>
+            <guid>https://news.ycombinator.com/item?id=30093216</guid>
+            <pubDate>Wed, 26 Jan 2022 22:46:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Thor-Event, like Redux but with events]]></description>
+        </item>
         <item>
             <title><![CDATA[具有实时编辑功能的开源Markdown编辑器]]></title>
             <link>https://news.ycombinator.com/item?id=30092538</link>

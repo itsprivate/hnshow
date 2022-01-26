@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-26T22:09:47.034Z</updated>
+    <updated>2022-01-26T23:09:03.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的博客]]></title>
+        <id>https://news.ycombinator.com/item?id=30093411</id>
+        <link href="https://news.ycombinator.com/item?id=30093411"/>
+        <updated>2022-01-26T23:06:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My Blog]]></summary>
+        <author>
+            <name>blmayer</name>
+            <uri>https://news.ycombinator.com/user?id=blmayer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thor-Event，像Redux，但有事件。]]></title>
+        <id>https://news.ycombinator.com/item?id=30093216</id>
+        <link href="https://news.ycombinator.com/item?id=30093216"/>
+        <updated>2022-01-26T22:46:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Thor-Event, like Redux but with events]]></summary>
+        <author>
+            <name>jimmy2020</name>
+            <uri>https://news.ycombinator.com/user?id=jimmy2020</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[具有實時編輯功能的開源Markdown編輯器]]></title>
         <id>https://news.ycombinator.com/item?id=30092538</id>
