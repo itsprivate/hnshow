@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-26T07:27:02.744Z</updated>
+    <updated>2022-01-26T08:09:51.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Bytle - 一個類似於Wordle的遊戲，你可以猜測一個無符號的8位二進位。]]></title>
+        <id>https://news.ycombinator.com/item?id=30082963</id>
+        <link href="https://news.ycombinator.com/item?id=30082963"/>
+        <updated>2022-01-26T07:58:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bytle – A Wordle-like game where you guess an unsigned 8-bit binary int]]></summary>
+        <author>
+            <name>James-Livesey</name>
+            <uri>https://news.ycombinator.com/user?id=James-Livesey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jrosclient ROS（機器人操作系統）的Java客戶端]]></title>
         <id>https://news.ycombinator.com/item?id=30082750</id>
