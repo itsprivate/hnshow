@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-27T16:46:21.619Z</updated>
+    <updated>2022-01-27T18:34:20.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[神經進化論]]></title>
+        <id>https://news.ycombinator.com/item?id=30103979</id>
+        <link href="https://news.ycombinator.com/item?id=30103979"/>
+        <updated>2022-01-27T18:14:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Neuroevolution]]></summary>
+        <author>
+            <name>defrex</name>
+            <uri>https://news.ycombinator.com/user?id=defrex</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hibiki HTML - 新的前端框架（無腳手架，無webpack）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30103906</id>
+        <link href="https://news.ycombinator.com/item?id=30103906"/>
+        <updated>2022-01-27T18:09:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hibiki HTML – New Frontend Framework (no scaffolding, no webpack)]]></summary>
+        <author>
+            <name>sawka</name>
+            <uri>https://news.ycombinator.com/user?id=sawka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每個網站的Cookie通知。在一分鐘內成為符合歐盟要求的網站]]></title>
         <id>https://news.ycombinator.com/item?id=30102504</id>
