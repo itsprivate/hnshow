@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-28T20:49:23.383Z</updated>
+    <updated>2022-01-28T21:49:32.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Go編寫的用於tmux的會話管理器和任務運行器]]></title>
+        <id>https://news.ycombinator.com/item?id=30120759</id>
+        <link href="https://news.ycombinator.com/item?id=30120759"/>
+        <updated>2022-01-28T21:42:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Session manager and task runner for tmux written in Go]]></summary>
+        <author>
+            <name>iillexial</name>
+            <uri>https://news.ycombinator.com/user?id=iillexial</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jig - 實時編碼你的業務儀表板（現在有演示視頻）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30120664</id>
+        <link href="https://news.ycombinator.com/item?id=30120664"/>
+        <updated>2022-01-28T21:33:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Jig – Live coding your business dashboards (now with demo video)]]></summary>
+        <author>
+            <name>d--b</name>
+            <uri>https://news.ycombinator.com/user?id=d--b</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Firmconnect - DEI&B、人力資源和職業發展市場]]></title>
         <id>https://news.ycombinator.com/item?id=30120101</id>
