@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-28T21:49:32.062Z</updated>
+    <updated>2022-01-28T23:09:38.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[将音频或视频文件转换为文本]]></title>
+        <id>https://news.ycombinator.com/item?id=30121697</id>
+        <link href="https://news.ycombinator.com/item?id=30121697"/>
+        <updated>2022-01-28T23:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Convert audio or video files to text]]></summary>
+        <author>
+            <name>userhacker</name>
+            <uri>https://news.ycombinator.com/user?id=userhacker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Go编写的用于tmux的会话管理器和任务运行器]]></title>
         <id>https://news.ycombinator.com/item?id=30120759</id>
