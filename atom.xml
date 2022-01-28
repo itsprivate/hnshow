@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-28T18:35:18.292Z</updated>
+    <updated>2022-01-28T19:08:13.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为IRC提供一致的文件上传体验]]></title>
+        <id>https://news.ycombinator.com/item?id=30118929</id>
+        <link href="https://news.ycombinator.com/item?id=30118929"/>
+        <updated>2022-01-28T19:04:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Consistent file uploading experience for IRC]]></summary>
+        <author>
+            <name>fallat</name>
+            <uri>https://news.ycombinator.com/user?id=fallat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Statz--将个性化的足球内容纳入一个饲料中]]></title>
+        <id>https://news.ycombinator.com/item?id=30118913</id>
+        <link href="https://news.ycombinator.com/item?id=30118913"/>
+        <updated>2022-01-28T19:02:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Statz – personalized football content into one feed]]></summary>
+        <author>
+            <name>Cashncarry</name>
+            <uri>https://news.ycombinator.com/user?id=Cashncarry</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hexle - 一个类似于Wordle的游戏，你可以猜测一个16位的十六进制数字。]]></title>
+        <id>https://news.ycombinator.com/item?id=30118898</id>
+        <link href="https://news.ycombinator.com/item?id=30118898"/>
+        <updated>2022-01-28T19:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hexle ­- A Wordle-like game where you guess a 16-bit hex int]]></summary>
+        <author>
+            <name>James-Livesey</name>
+            <uri>https://news.ycombinator.com/user?id=James-Livesey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TeXMe演示。自我渲染的Markdown和MathJax文档]]></title>
         <id>https://news.ycombinator.com/item?id=30118474</id>
