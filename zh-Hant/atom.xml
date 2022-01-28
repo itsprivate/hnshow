@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-28T13:49:32.113Z</updated>
+    <updated>2022-01-28T15:32:14.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的博客]]></title>
+        <id>https://news.ycombinator.com/item?id=30115755</id>
+        <link href="https://news.ycombinator.com/item?id=30115755"/>
+        <updated>2022-01-28T15:26:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My Blog]]></summary>
+        <author>
+            <name>pankajtanwar</name>
+            <uri>https://news.ycombinator.com/user?id=pankajtanwar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bookee - 用屏幕截圖和拇指搜索你的書籤（適用於Chrome瀏覽器）]]></title>
+        <id>https://news.ycombinator.com/item?id=30115530</id>
+        <link href="https://news.ycombinator.com/item?id=30115530"/>
+        <updated>2022-01-28T15:10:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bookee – Search your bookmarks with screenshots and thumbs (for Chrome)]]></summary>
+        <author>
+            <name>onassar</name>
+            <uri>https://news.ycombinator.com/user?id=onassar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密的文件。接收受端對端加密保護的文件]]></title>
+        <id>https://news.ycombinator.com/item?id=30115492</id>
+        <link href="https://news.ycombinator.com/item?id=30115492"/>
+        <updated>2022-01-28T15:07:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Encrypted Filedrop: Receive files protected by end-to-end encryption]]></summary>
+        <author>
+            <name>nmb-se</name>
+            <uri>https://news.ycombinator.com/user?id=nmb-se</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[服務水平協議/正常運行時間計算器]]></title>
         <id>https://news.ycombinator.com/item?id=30114393</id>
