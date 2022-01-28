@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-28T13:35:36.601Z</updated>
+    <updated>2022-01-28T13:49:32.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[服務水平協議/正常運行時間計算器]]></title>
+        <id>https://news.ycombinator.com/item?id=30114393</id>
+        <link href="https://news.ycombinator.com/item?id=30114393"/>
+        <updated>2022-01-28T13:38:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SLA / Uptime Calculator]]></summary>
+        <author>
+            <name>km</name>
+            <uri>https://news.ycombinator.com/user?id=km</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RandomCoin - 一種每秒都會改變其價格的加密貨幣]]></title>
+        <id>https://news.ycombinator.com/item?id=30114358</id>
+        <link href="https://news.ycombinator.com/item?id=30114358"/>
+        <updated>2022-01-28T13:35:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: RandomCoin – A cryptocurrency that changes its price every second]]></summary>
+        <author>
+            <name>eugenekudashev</name>
+            <uri>https://news.ycombinator.com/user?id=eugenekudashev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Playwright進行負載測試]]></title>
         <id>https://news.ycombinator.com/item?id=30114252</id>
