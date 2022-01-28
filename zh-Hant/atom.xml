@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-28T18:10:17.442Z</updated>
+    <updated>2022-01-28T18:35:18.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TeXMe演示。自我渲染的Markdown和MathJax文檔]]></title>
+        <id>https://news.ycombinator.com/item?id=30118474</id>
+        <link href="https://news.ycombinator.com/item?id=30118474"/>
+        <updated>2022-01-28T18:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: TeXMe Demo: Self-Rendering Markdown and MathJax Document]]></summary>
+        <author>
+            <name>susam</name>
+            <uri>https://news.ycombinator.com/user?id=susam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emojraw - 用表情符號調色板作畫]]></title>
+        <id>https://news.ycombinator.com/item?id=30118450</id>
+        <link href="https://news.ycombinator.com/item?id=30118450"/>
+        <updated>2022-01-28T18:24:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Emojraw – Draw with an Emoji Palette]]></summary>
+        <author>
+            <name>brrrrrm</name>
+            <uri>https://news.ycombinator.com/user?id=brrrrrm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP的連續調試器]]></title>
+        <id>https://news.ycombinator.com/item?id=30118309</id>
+        <link href="https://news.ycombinator.com/item?id=30118309"/>
+        <updated>2022-01-28T18:12:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Continuous Debugger for PHP]]></summary>
+        <author>
+            <name>iforgotmypass</name>
+            <uri>https://news.ycombinator.com/user?id=iforgotmypass</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Loophook。更簡單的背景工作]]></title>
         <id>https://news.ycombinator.com/item?id=30118122</id>
