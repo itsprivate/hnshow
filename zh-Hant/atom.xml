@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-28T19:22:33.483Z</updated>
+    <updated>2022-01-28T19:35:38.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們需要為我們多年來開發的東西提供資金，怎麼問？]]></title>
+        <id>https://news.ycombinator.com/item?id=30119251</id>
+        <link href="https://news.ycombinator.com/item?id=30119251"/>
+        <updated>2022-01-28T19:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We need funding for what we have developed over years, how ask?]]></summary>
+        <author>
+            <name>samstave</name>
+            <uri>https://news.ycombinator.com/user?id=samstave</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在PyTorch和TensorFlow 2中實現更快的R-CNN物體檢測器]]></title>
         <id>https://news.ycombinator.com/item?id=30119088</id>
