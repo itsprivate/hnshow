@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-28T12:13:13.549Z</updated>
+    <updated>2022-01-28T13:35:36.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Playwright進行負載測試]]></title>
+        <id>https://news.ycombinator.com/item?id=30114252</id>
+        <link href="https://news.ycombinator.com/item?id=30114252"/>
+        <updated>2022-01-28T13:25:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Load Testing with Playwright]]></summary>
+        <author>
+            <name>hassy</name>
+            <uri>https://news.ycombinator.com/user?id=hassy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於Jupyter筆記本的數據科學組合，沒有HML/CSS只有Python]]></title>
         <id>https://news.ycombinator.com/item?id=30113596</id>
