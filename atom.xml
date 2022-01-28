@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-28T19:08:13.315Z</updated>
+    <updated>2022-01-28T19:22:33.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在PyTorch和TensorFlow 2中实现更快的R-CNN物体检测器]]></title>
+        <id>https://news.ycombinator.com/item?id=30119088</id>
+        <link href="https://news.ycombinator.com/item?id=30119088"/>
+        <updated>2022-01-28T19:19:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Faster R-CNN object detector implemented in PyTorch and TensorFlow 2]]></summary>
+        <author>
+            <name>trzy</name>
+            <uri>https://news.ycombinator.com/user?id=trzy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CraftBox，在你的手机上运行一个Minecraft服务器]]></title>
+        <id>https://news.ycombinator.com/item?id=30119029</id>
+        <link href="https://news.ycombinator.com/item?id=30119029"/>
+        <updated>2022-01-28T19:13:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: CraftBox, Run a Minecraft Server on Your Phone]]></summary>
+        <author>
+            <name>userland_tech</name>
+            <uri>https://news.ycombinator.com/user?id=userland_tech</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为IRC提供一致的文件上传体验]]></title>
         <id>https://news.ycombinator.com/item?id=30118929</id>
