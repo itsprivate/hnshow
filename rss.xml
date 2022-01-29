@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 29 Jan 2022 16:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 16:44:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用于在通用语言中创建、访问和管理命名空间的工具]]></title>
+            <link>https://news.ycombinator.com/item?id=30127722</link>
+            <guid>https://news.ycombinator.com/item?id=30127722</guid>
+            <pubDate>Sat, 29 Jan 2022 16:40:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Utility for creating, accessing, and managing namespaces in Common Lisp]]></description>
+        </item>
+        <item>
+            <title><![CDATA[你是否受到保护，免受未来Log4j漏洞的影响？]]></title>
+            <link>https://news.ycombinator.com/item?id=30127713</link>
+            <guid>https://news.ycombinator.com/item?id=30127713</guid>
+            <pubDate>Sat, 29 Jan 2022 16:40:17 GMT</pubDate>
+            <description><![CDATA[Show HN: Are you protected from Future Log4j Vulnerabilities?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Rust编写的攻击性安全工具箱]]></title>
+            <link>https://news.ycombinator.com/item?id=30127710</link>
+            <guid>https://news.ycombinator.com/item?id=30127710</guid>
+            <pubDate>Sat, 29 Jan 2022 16:40:06 GMT</pubDate>
+            <description><![CDATA[Show HN: An offensive security toolkit written in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[一个跨平台的多目标dotfiles管理器]]></title>
             <link>https://news.ycombinator.com/item?id=30127356</link>
