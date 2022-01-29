@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 29 Jan 2022 20:50:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 21:49:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用碰撞数据集绘制纽约的地图]]></title>
+            <link>https://news.ycombinator.com/item?id=30130851</link>
+            <guid>https://news.ycombinator.com/item?id=30130851</guid>
+            <pubDate>Sat, 29 Jan 2022 21:44:02 GMT</pubDate>
+            <description><![CDATA[Show HN: Plotting New York using a collision dataset]]></description>
+        </item>
+        <item>
+            <title><![CDATA[允许你的团队轻松创建Airflow DAG的用户界面，无需代码]]></title>
+            <link>https://news.ycombinator.com/item?id=30130836</link>
+            <guid>https://news.ycombinator.com/item?id=30130836</guid>
+            <pubDate>Sat, 29 Jan 2022 21:42:34 GMT</pubDate>
+            <description><![CDATA[Show HN: UI to allow your team to easily create Airflow DAGs with no code]]></description>
+        </item>
         <item>
             <title><![CDATA[TypeSchema 一种JSON格式，用于描述代码生成的数据模型]]></title>
             <link>https://news.ycombinator.com/item?id=30130195</link>

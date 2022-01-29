@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-29T20:50:17.978Z</updated>
+    <updated>2022-01-29T21:49:28.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用碰撞數據集繪製紐約的地圖]]></title>
+        <id>https://news.ycombinator.com/item?id=30130851</id>
+        <link href="https://news.ycombinator.com/item?id=30130851"/>
+        <updated>2022-01-29T21:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Plotting New York using a collision dataset]]></summary>
+        <author>
+            <name>richhaar</name>
+            <uri>https://news.ycombinator.com/user?id=richhaar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[允許你的團隊輕鬆創建Airflow DAG的用戶界面，無需代碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30130836</id>
+        <link href="https://news.ycombinator.com/item?id=30130836"/>
+        <updated>2022-01-29T21:42:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: UI to allow your team to easily create Airflow DAGs with no code]]></summary>
+        <author>
+            <name>91dylwyn</name>
+            <uri>https://news.ycombinator.com/user?id=91dylwyn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeSchema 一種JSON格式，用於描述代碼生成的數據模型]]></title>
         <id>https://news.ycombinator.com/item?id=30130195</id>
