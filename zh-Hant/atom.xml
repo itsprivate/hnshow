@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-29T20:32:36.832Z</updated>
+    <updated>2022-01-29T20:50:17.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TypeSchema 一種JSON格式，用於描述代碼生成的數據模型]]></title>
+        <id>https://news.ycombinator.com/item?id=30130195</id>
+        <link href="https://news.ycombinator.com/item?id=30130195"/>
+        <updated>2022-01-29T20:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: TypeSchema a JSON format to describe data models for code generation]]></summary>
+        <author>
+            <name>k42b3</name>
+            <uri>https://news.ycombinator.com/user?id=k42b3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pdm-Django, Django的命令快捷鍵為pdm]]></title>
         <id>https://news.ycombinator.com/item?id=30129917</id>
