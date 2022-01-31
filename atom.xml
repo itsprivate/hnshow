@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-31T13:37:46.947Z</updated>
+    <updated>2022-01-31T13:49:33.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Rust构建的用于API规范验证的开源CLI工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30147774</id>
+        <link href="https://news.ycombinator.com/item?id=30147774"/>
+        <updated>2022-01-31T13:46:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Rust built open-sourced CLI tool for API specification validation]]></summary>
+        <author>
+            <name>GuyL99</name>
+            <uri>https://news.ycombinator.com/user?id=GuyL99</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鞭炮 v1.0.0 发布]]></title>
         <id>https://news.ycombinator.com/item?id=30147652</id>
