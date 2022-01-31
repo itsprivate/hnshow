@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-31T04:54:44.929Z</updated>
+    <updated>2022-01-31T05:08:21.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[VSCode的C/C++时间旅行调试扩展]]></title>
+        <id>https://news.ycombinator.com/item?id=30144663</id>
+        <link href="https://news.ycombinator.com/item?id=30144663"/>
+        <updated>2022-01-31T04:58:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: C/C++ Time Travel debug extension for VSCode]]></summary>
+        <author>
+            <name>cambridgeramin</name>
+            <uri>https://news.ycombinator.com/user?id=cambridgeramin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sqlui-native - 一个简单的桌面Electron应用来管理你的SQL conns]]></title>
         <id>https://news.ycombinator.com/item?id=30144525</id>
