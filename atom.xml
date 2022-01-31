@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-01-31T13:49:33.346Z</updated>
+    <updated>2022-01-31T14:08:29.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通过聊天和更好的发现增强Zillow房源的功能]]></title>
+        <id>https://news.ycombinator.com/item?id=30147950</id>
+        <link href="https://news.ycombinator.com/item?id=30147950"/>
+        <updated>2022-01-31T14:03:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Augment Zillow listings with chat and better discovery]]></summary>
+        <author>
+            <name>halfmatthalfcat</name>
+            <uri>https://news.ycombinator.com/user?id=halfmatthalfcat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[厌倦了一遍又一遍地看到同样的NFT吗？]]></title>
+        <id>https://news.ycombinator.com/item?id=30147822</id>
+        <link href="https://news.ycombinator.com/item?id=30147822"/>
+        <updated>2022-01-31T13:50:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bored of seeing the same NFTs over and over again?]]></summary>
+        <author>
+            <name>gpirescampos</name>
+            <uri>https://news.ycombinator.com/user?id=gpirescampos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rust构建的用于API规范验证的开源CLI工具]]></title>
         <id>https://news.ycombinator.com/item?id=30147774</id>
