@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-01T09:09:01.624Z</updated>
+    <updated>2022-02-01T10:31:03.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[带有社交预览的免费链接缩短器]]></title>
+        <id>https://news.ycombinator.com/item?id=30160741</id>
+        <link href="https://news.ycombinator.com/item?id=30160741"/>
+        <updated>2022-02-01T10:27:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A free link shortener with social previews]]></summary>
+        <author>
+            <name>p013370</name>
+            <uri>https://news.ycombinator.com/user?id=p013370</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于Twitter数据的Wordle Stats]]></title>
+        <id>https://news.ycombinator.com/item?id=30160740</id>
+        <link href="https://news.ycombinator.com/item?id=30160740"/>
+        <updated>2022-02-01T10:26:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Wordle Stats based on Twitter data]]></summary>
+        <author>
+            <name>Stoot98</name>
+            <uri>https://news.ycombinator.com/user?id=Stoot98</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeployWithFlags - 单一玩家功能标志服务]]></title>
+        <id>https://news.ycombinator.com/item?id=30160622</id>
+        <link href="https://news.ycombinator.com/item?id=30160622"/>
+        <updated>2022-02-01T10:09:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: DeployWithFlags – Single Player Feature Flag Service]]></summary>
+        <author>
+            <name>rozenmd</name>
+            <uri>https://news.ycombinator.com/user?id=rozenmd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从CSV生成SQL表定义（在浏览器和WASM）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30160545</id>
+        <link href="https://news.ycombinator.com/item?id=30160545"/>
+        <updated>2022-02-01T09:58:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Generate SQL table definition from CSV (in-browser and WASM)]]></summary>
+        <author>
+            <name>mattewong</name>
+            <uri>https://news.ycombinator.com/user?id=mattewong</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moqueries - Go的无锁接口和函数模拟]]></title>
+        <id>https://news.ycombinator.com/item?id=30160477</id>
+        <link href="https://news.ycombinator.com/item?id=30160477"/>
+        <updated>2022-02-01T09:49:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Moqueries – Lock-free interface and function mocks for Go]]></summary>
+        <author>
+            <name>myshkin5</name>
+            <uri>https://news.ycombinator.com/user?id=myshkin5</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在一个地方了解科技界正在发生的事情]]></title>
         <id>https://news.ycombinator.com/item?id=30160174</id>
