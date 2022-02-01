@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-01T16:11:55.923Z</updated>
+    <updated>2022-02-01T16:47:43.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,72 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[纯粹的Rust Ksuid实现]]></title>
+        <id>https://news.ycombinator.com/item?id=30165089</id>
+        <link href="https://news.ycombinator.com/item?id=30165089"/>
+        <updated>2022-02-01T16:39:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Pure Rust Ksuid Implementation]]></summary>
+        <author>
+            <name>tasn</name>
+            <uri>https://news.ycombinator.com/user?id=tasn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haven现在有一个内置的饲料阅读器]]></title>
+        <id>https://news.ycombinator.com/item?id=30164953</id>
+        <link href="https://news.ycombinator.com/item?id=30164953"/>
+        <updated>2022-02-01T16:33:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Haven now has a built-in feed reader]]></summary>
+        <author>
+            <name>mawise</name>
+            <uri>https://news.ycombinator.com/user?id=mawise</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[创建实时光标的凤凰网教程（如图所示）]]></title>
+        <id>https://news.ycombinator.com/item?id=30164938</id>
+        <link href="https://news.ycombinator.com/item?id=30164938"/>
+        <updated>2022-02-01T16:32:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Phoenix tutorial for creating live cursors (as seen in Figma)]]></summary>
+        <author>
+            <name>vnglst</name>
+            <uri>https://news.ycombinator.com/user?id=vnglst</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[主体颜色GUI]]></title>
+        <id>https://news.ycombinator.com/item?id=30164909</id>
+        <link href="https://news.ycombinator.com/item?id=30164909"/>
+        <updated>2022-02-01T16:30:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dominant Colors GUI]]></summary>
+        <author>
+            <name>stuartmscott</name>
+            <uri>https://news.ycombinator.com/user?id=stuartmscott</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[等待审查的PR的每日摘要，通过电子邮件发给你的队友]]></title>
+        <id>https://news.ycombinator.com/item?id=30164476</id>
+        <link href="https://news.ycombinator.com/item?id=30164476"/>
+        <updated>2022-02-01T16:12:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Daily digest of PRs waiting for review, emailed to your teammates]]></summary>
+        <author>
+            <name>vdemedes</name>
+            <uri>https://news.ycombinator.com/user?id=vdemedes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atlas - 一个建立在Argo CD上的部署管道平台]]></title>
+        <id>https://news.ycombinator.com/item?id=30164420</id>
+        <link href="https://news.ycombinator.com/item?id=30164420"/>
+        <updated>2022-02-01T16:09:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Atlas – A deployment pipeline platform built on Argo CD]]></summary>
+        <author>
+            <name>mihirpandya</name>
+            <uri>https://news.ycombinator.com/user?id=mihirpandya</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peel - 浏览器中的分布式无服务器社交网络]]></title>
         <id>https://news.ycombinator.com/item?id=30164179</id>

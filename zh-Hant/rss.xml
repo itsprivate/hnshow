@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 01 Feb 2022 16:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 16:47:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,48 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[純粹的Rust Ksuid實現]]></title>
+            <link>https://news.ycombinator.com/item?id=30165089</link>
+            <guid>https://news.ycombinator.com/item?id=30165089</guid>
+            <pubDate>Tue, 01 Feb 2022 16:39:19 GMT</pubDate>
+            <description><![CDATA[Show HN: A Pure Rust Ksuid Implementation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Haven現在有一個內置的飼料閱讀器]]></title>
+            <link>https://news.ycombinator.com/item?id=30164953</link>
+            <guid>https://news.ycombinator.com/item?id=30164953</guid>
+            <pubDate>Tue, 01 Feb 2022 16:33:10 GMT</pubDate>
+            <description><![CDATA[Show HN: Haven now has a built-in feed reader]]></description>
+        </item>
+        <item>
+            <title><![CDATA[創建實時光標的鳳凰網教程（如圖所示）]]></title>
+            <link>https://news.ycombinator.com/item?id=30164938</link>
+            <guid>https://news.ycombinator.com/item?id=30164938</guid>
+            <pubDate>Tue, 01 Feb 2022 16:32:31 GMT</pubDate>
+            <description><![CDATA[Show HN: Phoenix tutorial for creating live cursors (as seen in Figma)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[主體顏色GUI]]></title>
+            <link>https://news.ycombinator.com/item?id=30164909</link>
+            <guid>https://news.ycombinator.com/item?id=30164909</guid>
+            <pubDate>Tue, 01 Feb 2022 16:30:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Dominant Colors GUI]]></description>
+        </item>
+        <item>
+            <title><![CDATA[等待審查的PR的每日摘要，通過電子郵件發給你的隊友]]></title>
+            <link>https://news.ycombinator.com/item?id=30164476</link>
+            <guid>https://news.ycombinator.com/item?id=30164476</guid>
+            <pubDate>Tue, 01 Feb 2022 16:12:08 GMT</pubDate>
+            <description><![CDATA[Show HN: Daily digest of PRs waiting for review, emailed to your teammates]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Atlas - 一個建立在Argo CD上的部署管道平臺]]></title>
+            <link>https://news.ycombinator.com/item?id=30164420</link>
+            <guid>https://news.ycombinator.com/item?id=30164420</guid>
+            <pubDate>Tue, 01 Feb 2022 16:09:19 GMT</pubDate>
+            <description><![CDATA[Show HN: Atlas – A deployment pipeline platform built on Argo CD]]></description>
+        </item>
         <item>
             <title><![CDATA[Peel - 瀏覽器中的分佈式無服務器社交網絡]]></title>
             <link>https://news.ycombinator.com/item?id=30164179</link>
