@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-02T11:49:08.544Z</updated>
+    <updated>2022-02-02T12:13:26.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個Chrome瀏覽器擴展，以專注於我的目標]]></title>
+        <id>https://news.ycombinator.com/item?id=30176388</id>
+        <link href="https://news.ycombinator.com/item?id=30176388"/>
+        <updated>2022-02-02T11:56:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I have made a Chrome extension to focus on my goals]]></summary>
+        <author>
+            <name>Geeta2101</name>
+            <uri>https://news.ycombinator.com/user?id=Geeta2101</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hexle - 一個類似於Wordle的遊戲，你可以猜測一個16位的十六進制數字。]]></title>
+        <id>https://news.ycombinator.com/item?id=30176353</id>
+        <link href="https://news.ycombinator.com/item?id=30176353"/>
+        <updated>2022-02-02T11:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hexle ­- A Wordle-like game where you guess a 16-bit hex int]]></summary>
+        <author>
+            <name>James-Livesey</name>
+            <uri>https://news.ycombinator.com/user?id=James-Livesey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尋找Log4j漏洞的GitHub行動]]></title>
         <id>https://news.ycombinator.com/item?id=30176226</id>
