@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-02T17:22:09.572Z</updated>
+    <updated>2022-02-02T18:10:16.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在你的Hacker News URL上添加一个 "1"，以获得花哨的社交预览。]]></title>
+        <id>https://news.ycombinator.com/item?id=30181167</id>
+        <link href="https://news.ycombinator.com/item?id=30181167"/>
+        <updated>2022-02-02T17:52:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Add a “1” to your Hacker News URL to get fancy social previews]]></summary>
+        <author>
+            <name>statico</name>
+            <uri>https://news.ycombinator.com/user?id=statico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[联邦主义者和鲍勃 - 使用webtorrent和Handshake的不可审查的网站]]></title>
         <id>https://news.ycombinator.com/item?id=30180399</id>
