@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-02T16:11:48.681Z</updated>
+    <updated>2022-02-02T17:22:09.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[联邦主义者和鲍勃 - 使用webtorrent和Handshake的不可审查的网站]]></title>
+        <id>https://news.ycombinator.com/item?id=30180399</id>
+        <link href="https://news.ycombinator.com/item?id=30180399"/>
+        <updated>2022-02-02T17:08:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Federalist and Bob – uncensorable website with webtorrent and Handshake]]></summary>
+        <author>
+            <name>chikeichan</name>
+            <uri>https://news.ycombinator.com/user?id=chikeichan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GreenJS，在现有网站上添加高性能的React页面]]></title>
+        <id>https://news.ycombinator.com/item?id=30180372</id>
+        <link href="https://news.ycombinator.com/item?id=30180372"/>
+        <updated>2022-02-02T17:06:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GreenJS, add performant React pages to an existing site]]></summary>
+        <author>
+            <name>colinchartier</name>
+            <uri>https://news.ycombinator.com/user?id=colinchartier</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[咖啡屋，与随机的HN用户进行一对一的语音聊天]]></title>
         <id>https://news.ycombinator.com/item?id=30179355</id>
