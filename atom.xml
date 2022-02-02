@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-02T09:28:40.970Z</updated>
+    <updated>2022-02-02T10:40:12.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你觉得我的新社交应用怎么样？]]></title>
+        <id>https://news.ycombinator.com/item?id=30175863</id>
+        <link href="https://news.ycombinator.com/item?id=30175863"/>
+        <updated>2022-02-02T10:32:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: What do you think of my new social app?]]></summary>
+        <author>
+            <name>jstrafy</name>
+            <uri>https://news.ycombinator.com/user?id=jstrafy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一次性的Dyno Metrics Heroku Add-On]]></title>
         <id>https://news.ycombinator.com/item?id=30175445</id>
