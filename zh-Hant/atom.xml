@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-02T01:40:03.137Z</updated>
+    <updated>2022-02-02T02:18:49.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用同步和異步Python調用官方HN API]]></title>
+        <id>https://news.ycombinator.com/item?id=30172433</id>
+        <link href="https://news.ycombinator.com/item?id=30172433"/>
+        <updated>2022-02-02T01:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Calling the official HN API using sync and async Python]]></summary>
+        <author>
+            <name>gabrielsroka</name>
+            <uri>https://news.ycombinator.com/user?id=gabrielsroka</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TaCo - 所有Gmails和Slacks都在一個地方。]]></title>
+        <id>https://news.ycombinator.com/item?id=30172417</id>
+        <link href="https://news.ycombinator.com/item?id=30172417"/>
+        <updated>2022-02-02T01:43:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: TaCo - All Gmails and Slacks in one place]]></summary>
+        <author>
+            <name>harryx113</name>
+            <uri>https://news.ycombinator.com/user?id=harryx113</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[像素分揀機]]></title>
         <id>https://news.ycombinator.com/item?id=30171198</id>
