@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-02T14:34:12.586Z</updated>
+    <updated>2022-02-02T15:14:59.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[剛剛推出了一款針對父親的應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30178571</id>
+        <link href="https://news.ycombinator.com/item?id=30178571"/>
+        <updated>2022-02-02T15:09:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Just Launched an App for Dads]]></summary>
+        <author>
+            <name>pbarondadditude</name>
+            <uri>https://news.ycombinator.com/user?id=pbarondadditude</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testigma - 在幾分鐘內為任何應用程序創建一個自動化測試]]></title>
+        <id>https://news.ycombinator.com/item?id=30178468</id>
+        <link href="https://news.ycombinator.com/item?id=30178468"/>
+        <updated>2022-02-02T15:01:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Testsigma – Create an automated test in minutes for any app]]></summary>
+        <author>
+            <name>rukmangada</name>
+            <uri>https://news.ycombinator.com/user?id=rukmangada</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在PyTorch中從頭開始的GPT-2 - 視頻教程]]></title>
         <id>https://news.ycombinator.com/item?id=30177968</id>
