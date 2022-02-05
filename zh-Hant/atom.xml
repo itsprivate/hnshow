@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-05T18:27:01.212Z</updated>
+    <updated>2022-02-05T18:33:58.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[發送代碼的速度提高10倍]]></title>
+        <id>https://news.ycombinator.com/item?id=30224026</id>
+        <link href="https://news.ycombinator.com/item?id=30224026"/>
+        <updated>2022-02-05T18:24:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Ship Code 10x Faster]]></summary>
+        <author>
+            <name>prontodeveloper</name>
+            <uri>https://news.ycombinator.com/user?id=prontodeveloper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WunderHub - 用於API的軟件包管理器]]></title>
         <id>https://news.ycombinator.com/item?id=30223855</id>
