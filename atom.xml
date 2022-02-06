@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-06T18:31:23.527Z</updated>
+    <updated>2022-02-06T20:28:41.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[BBC航运预测的EBNF规范]]></title>
+        <id>https://news.ycombinator.com/item?id=30236630</id>
+        <link href="https://news.ycombinator.com/item?id=30236630"/>
+        <updated>2022-02-06T20:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: EBNF Specification of the BBC Shipping Forecast]]></summary>
+        <author>
+            <name>jamespwilliams</name>
+            <uri>https://news.ycombinator.com/user?id=jamespwilliams</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kube-green，K8s运营商，减少集群的二氧化碳足迹]]></title>
         <id>https://news.ycombinator.com/item?id=30235108</id>
