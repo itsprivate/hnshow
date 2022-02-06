@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-06T01:56:58.743Z</updated>
+    <updated>2022-02-06T02:31:20.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Python中的数控G和M代码解析器]]></title>
+        <id>https://news.ycombinator.com/item?id=30228606</id>
+        <link href="https://news.ycombinator.com/item?id=30228606"/>
+        <updated>2022-02-06T02:15:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: CNC G and M Code Parser in Python]]></summary>
+        <author>
+            <name>mpcy-me</name>
+            <uri>https://news.ycombinator.com/user?id=mpcy-me</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[创建rust-app：现在支持poem-web后端]]></title>
         <id>https://news.ycombinator.com/item?id=30228325</id>
