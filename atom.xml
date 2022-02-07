@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-07T10:30:51.256Z</updated>
+    <updated>2022-02-07T11:49:29.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[将一个概念网页变成一个网站（在10个SEC中）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30243487</id>
+        <link href="https://news.ycombinator.com/item?id=30243487"/>
+        <updated>2022-02-07T11:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Turn a Notion page into a website (in 10 SEC)]]></summary>
+        <author>
+            <name>moemin</name>
+            <uri>https://news.ycombinator.com/user?id=moemin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个VS Code扩展，可以帮助你重构JavaScript]]></title>
+        <id>https://news.ycombinator.com/item?id=30243418</id>
+        <link href="https://news.ycombinator.com/item?id=30243418"/>
+        <updated>2022-02-07T11:40:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a VS Code extension that helps you refactor JavaScript]]></summary>
+        <author>
+            <name>lgrammel</name>
+            <uri>https://news.ycombinator.com/user?id=lgrammel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TinyResume - 创建一个可共享的在线简历]]></title>
         <id>https://news.ycombinator.com/item?id=30242753</id>
