@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-07T14:08:23.751Z</updated>
+    <updated>2022-02-07T14:26:16.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为任何静态博客将概念块转换为Markdown]]></title>
+        <id>https://news.ycombinator.com/item?id=30245130</id>
+        <link href="https://news.ycombinator.com/item?id=30245130"/>
+        <updated>2022-02-07T14:17:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Convert the notion blocks to Markdown for any static blog]]></summary>
+        <author>
+            <name>saltbo</name>
+            <uri>https://news.ycombinator.com/user?id=saltbo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NSFW电影解析器]]></title>
+        <id>https://news.ycombinator.com/item?id=30245119</id>
+        <link href="https://news.ycombinator.com/item?id=30245119"/>
+        <updated>2022-02-07T14:16:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The NSFW Movie Parser]]></summary>
+        <author>
+            <name>dynamite-ready</name>
+            <uri>https://news.ycombinator.com/user?id=dynamite-ready</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[电子表格v0.2--从网络到谷歌文档，又回到网络上]]></title>
         <id>https://news.ycombinator.com/item?id=30244941</id>
