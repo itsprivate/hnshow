@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-08T11:26:18.095Z</updated>
+    <updated>2022-02-08T11:49:17.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從Figma到網站只需一次點擊。完全響應]]></title>
+        <id>https://news.ycombinator.com/item?id=30257263</id>
+        <link href="https://news.ycombinator.com/item?id=30257263"/>
+        <updated>2022-02-08T11:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: From Figma to Site with one click. Fully responsive]]></summary>
+        <author>
+            <name>johnthemaker</name>
+            <uri>https://news.ycombinator.com/user?id=johnthemaker</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SHOW HN：Sprout，一個在內存中可擴展的Go中的Bloom過濾器實現]]></title>
+        <id>https://news.ycombinator.com/item?id=30257251</id>
+        <link href="https://news.ycombinator.com/item?id=30257251"/>
+        <updated>2022-02-08T11:33:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SHOW HN: Sprout, An in-memory scalable bloom filter implementation in Go]]></summary>
+        <author>
+            <name>dsa0x</name>
+            <uri>https://news.ycombinator.com/user?id=dsa0x</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帶有視頻評論的電動車真實世界範圍的簡單數據庫]]></title>
         <id>https://news.ycombinator.com/item?id=30257086</id>
