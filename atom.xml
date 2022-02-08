@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-08T17:37:44.569Z</updated>
+    <updated>2022-02-08T18:31:17.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[小猪--一个移动优先的博客平台]]></title>
+        <id>https://news.ycombinator.com/item?id=30262248</id>
+        <link href="https://news.ycombinator.com/item?id=30262248"/>
+        <updated>2022-02-08T18:21:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Piggy – a mobile-first blogging platform]]></summary>
+        <author>
+            <name>leibov</name>
+            <uri>https://news.ycombinator.com/user?id=leibov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[修剪，一个帮助你修剪你的标签花园的Chrome扩展程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30262139</id>
+        <link href="https://news.ycombinator.com/item?id=30262139"/>
+        <updated>2022-02-08T18:14:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: prune, a Chrome extension to help you trim your garden of tabs]]></summary>
+        <author>
+            <name>tbrockman</name>
+            <uri>https://news.ycombinator.com/user?id=tbrockman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[再也不会出现SSL证书过期的情况]]></title>
         <id>https://news.ycombinator.com/item?id=30261182</id>
