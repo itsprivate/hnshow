@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-08T13:50:05.370Z</updated>
+    <updated>2022-02-08T14:09:50.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通過將圖像轉換為Base64，使你的HTML文檔具有可移植性]]></title>
+        <id>https://news.ycombinator.com/item?id=30258426</id>
+        <link href="https://news.ycombinator.com/item?id=30258426"/>
+        <updated>2022-02-08T14:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Make your HTML documents portable by converting images to Base64]]></summary>
+        <author>
+            <name>zenull</name>
+            <uri>https://news.ycombinator.com/user?id=zenull</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Josson和Jossons - 一個JSON的查詢語言和一個模板引擎]]></title>
         <id>https://news.ycombinator.com/item?id=30258155</id>
