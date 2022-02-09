@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-09T18:09:52.529Z</updated>
+    <updated>2022-02-09T20:29:42.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們正在用普羅米修斯幫助團隊進行根本原因分析]]></title>
+        <id>https://news.ycombinator.com/item?id=30277718</id>
+        <link href="https://news.ycombinator.com/item?id=30277718"/>
+        <updated>2022-02-09T20:07:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We’re helping teams do root cause analysis with Prometheus]]></summary>
+        <author>
+            <name>mcannizz</name>
+            <uri>https://news.ycombinator.com/user?id=mcannizz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在兩分鐘內創建你自己的預測市場]]></title>
         <id>https://news.ycombinator.com/item?id=30275860</id>
