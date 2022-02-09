@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-09T22:08:46.228Z</updated>
+    <updated>2022-02-09T23:09:10.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Strictbash - 啟用Bash的 "嚴格模式 "並通過shebang運行shellcheck。]]></title>
+        <id>https://news.ycombinator.com/item?id=30279803</id>
+        <link href="https://news.ycombinator.com/item?id=30279803"/>
+        <updated>2022-02-09T22:51:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Strictbash – enable Bash “strict mode” & run shellcheck via a shebang]]></summary>
+        <author>
+            <name>jamespwilliams</name>
+            <uri>https://news.ycombinator.com/user?id=jamespwilliams</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Figma插件使從設計到HTML/CSS的速度更快]]></title>
         <id>https://news.ycombinator.com/item?id=30279087</id>
