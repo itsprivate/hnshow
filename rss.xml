@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 09 Feb 2022 15:31:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 15:41:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[ValidKube - 验证、清理和保护你的K8s YAML]]></title>
+            <link>https://news.ycombinator.com/item?id=30273857</link>
+            <guid>https://news.ycombinator.com/item?id=30273857</guid>
+            <pubDate>Wed, 09 Feb 2022 15:37:24 GMT</pubDate>
+            <description><![CDATA[Show HN: ValidKube – Validate, Clean and Secure Your K8s YAML]]></description>
+        </item>
+        <item>
+            <title><![CDATA[开放式政策注册：受Docker启发的OPA政策工作流程]]></title>
+            <link>https://news.ycombinator.com/item?id=30273753</link>
+            <guid>https://news.ycombinator.com/item?id=30273753</guid>
+            <pubDate>Wed, 09 Feb 2022 15:31:20 GMT</pubDate>
+            <description><![CDATA[Show HN: Open Policy Registry: a Docker-inspired workflow for OPA policies]]></description>
+        </item>
         <item>
             <title><![CDATA[一个基于蓝牙低能量、ESP32的暗室和胶片冲洗计时器]]></title>
             <link>https://news.ycombinator.com/item?id=30273479</link>
