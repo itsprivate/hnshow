@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-09T02:24:02.738Z</updated>
+    <updated>2022-02-09T02:49:53.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[降低藥物副作用概率的應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30267214</id>
+        <link href="https://news.ycombinator.com/item?id=30267214"/>
+        <updated>2022-02-09T01:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: App that reduces probability of getting side effects from medication]]></summary>
+        <author>
+            <name>MalikHAA</name>
+            <uri>https://news.ycombinator.com/user?id=MalikHAA</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PgCat，帶分片、負載平衡和故障轉移的Postgres池器]]></title>
         <id>https://news.ycombinator.com/item?id=30267539</id>
