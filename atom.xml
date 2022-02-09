@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-09T15:41:59.340Z</updated>
+    <updated>2022-02-09T15:51:26.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我发布了一个开源的Mac应用，可以复制屏幕上的任何文字]]></title>
+        <id>https://news.ycombinator.com/item?id=30274035</id>
+        <link href="https://news.ycombinator.com/item?id=30274035"/>
+        <updated>2022-02-09T15:47:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I released an open-source Mac app to copy any text on the screen]]></summary>
+        <author>
+            <name>melonamin</name>
+            <uri>https://news.ycombinator.com/user?id=melonamin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNE，一个带有公钥加密扩展的焦油实现]]></title>
+        <id>https://news.ycombinator.com/item?id=30274018</id>
+        <link href="https://news.ycombinator.com/item?id=30274018"/>
+        <updated>2022-02-09T15:46:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GNE, a tar implementation with public key encryption extensions]]></summary>
+        <author>
+            <name>derekp7</name>
+            <uri>https://news.ycombinator.com/user?id=derekp7</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jless，一个命令行JSON查看器]]></title>
+        <id>https://news.ycombinator.com/item?id=30273940</id>
+        <link href="https://news.ycombinator.com/item?id=30273940"/>
+        <updated>2022-02-09T15:41:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Jless, a command-line JSON viewer]]></summary>
+        <author>
+            <name>CodeIsTheEnd</name>
+            <uri>https://news.ycombinator.com/user?id=CodeIsTheEnd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zingg - 开源实体解析，实现单一真相来源]]></title>
+        <id>https://news.ycombinator.com/item?id=30273915</id>
+        <link href="https://news.ycombinator.com/item?id=30273915"/>
+        <updated>2022-02-09T15:40:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Zingg – open-source entity resolution for single source of truth]]></summary>
+        <author>
+            <name>sonalgoyal</name>
+            <uri>https://news.ycombinator.com/user?id=sonalgoyal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ValidKube - 验证、清理和保护你的K8s YAML]]></title>
         <id>https://news.ycombinator.com/item?id=30273857</id>
