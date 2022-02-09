@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-09T15:09:24.427Z</updated>
+    <updated>2022-02-09T15:31:26.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个基于蓝牙低能量、ESP32的暗室和胶片冲洗计时器]]></title>
+        <id>https://news.ycombinator.com/item?id=30273479</id>
+        <link href="https://news.ycombinator.com/item?id=30273479"/>
+        <updated>2022-02-09T15:09:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Bluetooth Low Energy, ESP32-Based Darkroom and Film Development Timer]]></summary>
+        <author>
+            <name>johnjones4</name>
+            <uri>https://news.ycombinator.com/user?id=johnjones4</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neucards - 一个安全的数字联系卡]]></title>
         <id>https://news.ycombinator.com/item?id=30273223</id>
