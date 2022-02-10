@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-10T14:08:44.249Z</updated>
+    <updated>2022-02-10T14:27:14.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用PyTorch从图像中检测波多黎各的鸟类物种]]></title>
+        <id>https://news.ycombinator.com/item?id=30286234</id>
+        <link href="https://news.ycombinator.com/item?id=30286234"/>
+        <updated>2022-02-10T14:14:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Detecting Puerto Rican Bird Species from Images Using PyTorch]]></summary>
+        <author>
+            <name>boredumb</name>
+            <uri>https://news.ycombinator.com/user?id=boredumb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[makers.so - Figma内部的网站建设者]]></title>
+        <id>https://news.ycombinator.com/item?id=30286185</id>
+        <link href="https://news.ycombinator.com/item?id=30286185"/>
+        <updated>2022-02-10T14:10:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: makers.so – A Website Builder Inside Figma]]></summary>
+        <author>
+            <name>johnthemaker</name>
+            <uri>https://news.ycombinator.com/user?id=johnthemaker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我创建了一个最小的、安全的、终端的本地聊天应用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30286081</id>
