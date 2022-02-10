@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-10T14:27:14.263Z</updated>
+    <updated>2022-02-10T14:49:47.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Hard.mathler - 一个更难的日常数学谜题]]></title>
+        <id>https://news.ycombinator.com/item?id=30286499</id>
+        <link href="https://news.ycombinator.com/item?id=30286499"/>
+        <updated>2022-02-10T14:33:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hard.mathler – A harder daily math puzzle]]></summary>
+        <author>
+            <name>danieltait</name>
+            <uri>https://news.ycombinator.com/user?id=danieltait</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用PyTorch从图像中检测波多黎各的鸟类物种]]></title>
         <id>https://news.ycombinator.com/item?id=30286234</id>
