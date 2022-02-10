@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-10T20:08:59.569Z</updated>
+    <updated>2022-02-10T20:29:38.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在高度复杂的数据集上训练合成模型]]></title>
+        <id>https://news.ycombinator.com/item?id=30291864</id>
+        <link href="https://news.ycombinator.com/item?id=30291864"/>
+        <updated>2022-02-10T20:18:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Training synthetic models on highly complex datasets]]></summary>
+        <author>
+            <name>repeat_or</name>
+            <uri>https://news.ycombinator.com/user?id=repeat_or</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在你的SQL数据库中的无模式数据存储]]></title>
         <id>https://news.ycombinator.com/item?id=30291592</id>
