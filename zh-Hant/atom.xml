@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-10T20:37:37.224Z</updated>
+    <updated>2022-02-10T20:49:41.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從我的10年開源項目中吸取的教訓]]></title>
+        <id>https://news.ycombinator.com/item?id=30292252</id>
+        <link href="https://news.ycombinator.com/item?id=30292252"/>
+        <updated>2022-02-10T20:46:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lessons learned from my 10 year open source project]]></summary>
+        <author>
+            <name>cims</name>
+            <uri>https://news.ycombinator.com/user?id=cims</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Severus - 一個注重隱私的聯繫管理系統]]></title>
         <id>https://news.ycombinator.com/item?id=30292037</id>
