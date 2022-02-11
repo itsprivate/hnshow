@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-11T18:32:46.679Z</updated>
+    <updated>2022-02-11T18:50:12.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MemSafeCrypto, 使用DirectByteBuffer的Java密碼學基元]]></title>
+        <id>https://news.ycombinator.com/item?id=30305379</id>
+        <link href="https://news.ycombinator.com/item?id=30305379"/>
+        <updated>2022-02-11T18:43:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MemSafeCrypto, Java cryptography primitives using DirectByteBuffer]]></summary>
+        <author>
+            <name>java-man</name>
+            <uri>https://news.ycombinator.com/user?id=java-man</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ParAmarshe - 區分真實和虛假的視覺媒體]]></title>
         <id>https://news.ycombinator.com/item?id=30305090</id>
