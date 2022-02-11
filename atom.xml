@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-11T00:29:09.248Z</updated>
+    <updated>2022-02-11T05:26:33.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[50x50.空间一个公共板块，可以一起涂鸦]]></title>
+        <id>https://news.ycombinator.com/item?id=30297305</id>
+        <link href="https://news.ycombinator.com/item?id=30297305"/>
+        <updated>2022-02-11T05:15:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: 50x50.space a public board to doodle together]]></summary>
+        <author>
+            <name>limboy</name>
+            <uri>https://news.ycombinator.com/user?id=limboy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个验证环境变量存在的CLI工具]]></title>
         <id>https://news.ycombinator.com/item?id=30294862</id>
