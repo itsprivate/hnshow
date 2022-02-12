@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-12T20:09:18.560Z</updated>
+    <updated>2022-02-12T21:24:45.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Rust重写的Therac-25控制程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30316565</id>
+        <link href="https://news.ycombinator.com/item?id=30316565"/>
+        <updated>2022-02-12T21:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Therac-25 Control Program Rewritten in Rust]]></summary>
+        <author>
+            <name>ok123456</name>
+            <uri>https://news.ycombinator.com/user?id=ok123456</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日 - 建立博客的桌面应用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30315786</id>
