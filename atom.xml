@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-11T22:49:09.868Z</updated>
+    <updated>2022-02-12T00:30:10.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Rapidmock - 在几秒钟内生成一个模拟的API]]></title>
+        <id>https://news.ycombinator.com/item?id=30308540</id>
+        <link href="https://news.ycombinator.com/item?id=30308540"/>
+        <updated>2022-02-12T00:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Rapidmock – Generate a mock API in seconds]]></summary>
+        <author>
+            <name>codebyamir</name>
+            <uri>https://news.ycombinator.com/user?id=codebyamir</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[导入网球视频并自动消除各点之间的停机时间]]></title>
+        <id>https://news.ycombinator.com/item?id=30308501</id>
+        <link href="https://news.ycombinator.com/item?id=30308501"/>
+        <updated>2022-02-11T23:57:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Import tennis video and automatically remove downtime in between points]]></summary>
+        <author>
+            <name>Austin_Conlon</name>
+            <uri>https://news.ycombinator.com/user?id=Austin_Conlon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于DHT22传感器的普罗米修斯输出器]]></title>
         <id>https://news.ycombinator.com/item?id=30307827</id>
