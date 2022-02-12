@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-12T15:08:37.226Z</updated>
+    <updated>2022-02-12T15:28:53.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Blogar.io - 把你的新聞源變成通訊]]></title>
+        <id>https://news.ycombinator.com/item?id=30313360</id>
+        <link href="https://news.ycombinator.com/item?id=30313360"/>
+        <updated>2022-02-12T15:13:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Blogar.io – turn your news feed into a newsletter]]></summary>
+        <author>
+            <name>PestoDiRucola</name>
+            <uri>https://news.ycombinator.com/user?id=PestoDiRucola</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X-frame - 用一個服務器渲染的超級iframe嵌入任何內容]]></title>
+        <id>https://news.ycombinator.com/item?id=30313359</id>
+        <link href="https://news.ycombinator.com/item?id=30313359"/>
+        <updated>2022-02-12T15:12:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: X-frame – embed any content with a server-rendered super iframe]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Runk - 一個基於CLI的網絡文件和文件夾共享器]]></title>
         <id>https://news.ycombinator.com/item?id=30313186</id>
