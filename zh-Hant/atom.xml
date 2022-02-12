@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-12T21:24:45.987Z</updated>
+    <updated>2022-02-12T23:35:06.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Nango，一個提供類似SPA功能的Django擴展。]]></title>
+        <id>https://news.ycombinator.com/item?id=30317397</id>
+        <link href="https://news.ycombinator.com/item?id=30317397"/>
+        <updated>2022-02-12T23:24:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Nango, a Django extension providing SPA-like features]]></summary>
+        <author>
+            <name>nicois</name>
+            <uri>https://news.ycombinator.com/user?id=nicois</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重新發明的Kinesis優勢？Glove80 BLE分體式輪廓鍵盤]]></title>
+        <id>https://news.ycombinator.com/item?id=30316917</id>
+        <link href="https://news.ycombinator.com/item?id=30316917"/>
+        <updated>2022-02-12T21:54:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Re-Invented Kinesis Advantage? Glove80 BLE Split Contoured Keyboard]]></summary>
+        <author>
+            <name>schengnz</name>
+            <uri>https://news.ycombinator.com/user?id=schengnz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Rust重寫的Therac-25控制程序]]></title>
         <id>https://news.ycombinator.com/item?id=30316565</id>
