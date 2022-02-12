@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-12T06:32:51.639Z</updated>
+    <updated>2022-02-12T07:25:19.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[點擊不到5次就能創建帖子]]></title>
+        <id>https://news.ycombinator.com/item?id=30310624</id>
+        <link href="https://news.ycombinator.com/item?id=30310624"/>
+        <updated>2022-02-12T07:14:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Create posts in less than 5 clicks]]></summary>
+        <author>
+            <name>sonam_dedania</name>
+            <uri>https://news.ycombinator.com/user?id=sonam_dedania</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個使用Chrome瀏覽器的簡單的跨平臺HTML到桌面應用程序構建器]]></title>
         <id>https://news.ycombinator.com/item?id=30310405</id>
