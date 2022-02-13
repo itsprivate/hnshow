@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-13T01:45:29.219Z</updated>
+    <updated>2022-02-13T03:28:33.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[深度學習框架從零開始（60步教程）]]></title>
+        <id>https://news.ycombinator.com/item?id=30318759</id>
+        <link href="https://news.ycombinator.com/item?id=30318759"/>
+        <updated>2022-02-13T03:10:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Deep Learning Framework from scratch (60 step tutorial)]]></summary>
+        <author>
+            <name>koki0702</name>
+            <uri>https://news.ycombinator.com/user?id=koki0702</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter OAuth 2.0客戶端的Express.js中間件實現]]></title>
+        <id>https://news.ycombinator.com/item?id=30318741</id>
+        <link href="https://news.ycombinator.com/item?id=30318741"/>
+        <updated>2022-02-13T03:07:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Express.js middleware implementation for Twitter OAuth 2.0 Client]]></summary>
+        <author>
+            <name>kgoro</name>
+            <uri>https://news.ycombinator.com/user?id=kgoro</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Python和Asyncio的本地WebRTC]]></title>
         <id>https://news.ycombinator.com/item?id=30318049</id>
