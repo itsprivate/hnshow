@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-13T19:34:04.094Z</updated>
+    <updated>2022-02-13T19:49:49.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我写了一个新的API来取代Android的ContactProvider]]></title>
+        <id>https://news.ycombinator.com/item?id=30324787</id>
+        <link href="https://news.ycombinator.com/item?id=30324787"/>
+        <updated>2022-02-13T19:32:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I wrote an new API to replace Android's ContactProvider]]></summary>
+        <author>
+            <name>alexstyl</name>
+            <uri>https://news.ycombinator.com/user?id=alexstyl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个入门套件，以减少你的社交应用程序的开发成本]]></title>
         <id>https://news.ycombinator.com/item?id=30324675</id>
