@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-13T05:08:37.190Z</updated>
+    <updated>2022-02-13T06:10:12.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一个应用程序来征求和分享建议]]></title>
+        <id>https://news.ycombinator.com/item?id=30319624</id>
+        <link href="https://news.ycombinator.com/item?id=30319624"/>
+        <updated>2022-02-13T05:53:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built an app to ask for and share recommendations]]></summary>
+        <author>
+            <name>neosim</name>
+            <uri>https://news.ycombinator.com/user?id=neosim</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[年度计划表--规划你的一年，将你的目标可视化]]></title>
         <id>https://news.ycombinator.com/item?id=30319370</id>
