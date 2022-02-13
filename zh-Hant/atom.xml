@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-13T14:24:49.453Z</updated>
+    <updated>2022-02-13T14:34:04.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自行車車輪製造的可視化工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30321897</id>
+        <link href="https://news.ycombinator.com/item?id=30321897"/>
+        <updated>2022-02-13T14:23:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Visualization tools for bicycle wheelbuilding]]></summary>
+        <author>
+            <name>StayTrue</name>
+            <uri>https://news.ycombinator.com/user?id=StayTrue</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[具有自動導入和更改時自動重新加載功能的Python REPL]]></title>
         <id>https://news.ycombinator.com/item?id=30321825</id>
