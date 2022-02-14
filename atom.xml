@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-14T17:10:34.306Z</updated>
+    <updated>2022-02-14T17:28:46.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个发现国家信托基金项目的网站（即将推出和已经推出）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30334665</id>
+        <link href="https://news.ycombinator.com/item?id=30334665"/>
+        <updated>2022-02-14T17:17:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A website for discovering NFT projects (upcoming and already launched)]]></summary>
+        <author>
+            <name>danielakang</name>
+            <uri>https://news.ycombinator.com/user?id=danielakang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Subruster 用Rust编写的快速、紧凑的子域列举工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30334533</id>
+        <link href="https://news.ycombinator.com/item?id=30334533"/>
+        <updated>2022-02-14T17:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Subruster Fast, compact subdomain enumeration tool written in Rust]]></summary>
+        <author>
+            <name>MargarineKid</name>
+            <uri>https://news.ycombinator.com/user?id=MargarineKid</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开放式电子贺卡生成器 - 免费、持久、无服务器的电子贺卡]]></title>
+        <id>https://news.ycombinator.com/item?id=30334514</id>
+        <link href="https://news.ycombinator.com/item?id=30334514"/>
+        <updated>2022-02-14T17:09:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open Ecard Generator – Free, persistent, serverless ecards]]></summary>
+        <author>
+            <name>dohliam</name>
+            <uri>https://news.ycombinator.com/user?id=dohliam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LegendKeeper，为游戏管理员提供合作地图和笔记]]></title>
         <id>https://news.ycombinator.com/item?id=30334454</id>
