@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-16T10:31:19.722Z</updated>
+    <updated>2022-02-16T11:39:53.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[简单的应用程序，从列表中选择一个选项]]></title>
+        <id>https://news.ycombinator.com/item?id=30358457</id>
+        <link href="https://news.ycombinator.com/item?id=30358457"/>
+        <updated>2022-02-16T10:54:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Simple App that picks an option out of a list]]></summary>
+        <author>
+            <name>danmol</name>
+            <uri>https://news.ycombinator.com/user?id=danmol</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微服务--可重用的现实世界开源服务]]></title>
+        <id>https://news.ycombinator.com/item?id=30358233</id>
+        <link href="https://news.ycombinator.com/item?id=30358233"/>
+        <updated>2022-02-16T10:18:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Micro Services – Reusable real world open source services]]></summary>
+        <author>
+            <name>asim</name>
+            <uri>https://news.ycombinator.com/user?id=asim</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Safename - 检查企业和产品名称中的不良字词]]></title>
         <id>https://news.ycombinator.com/item?id=30358037</id>
