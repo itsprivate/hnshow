@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-17T09:15:14.846Z</updated>
+    <updated>2022-02-17T10:13:32.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通過Loom收集用戶反饋（不需要擴展）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30371346</id>
+        <link href="https://news.ycombinator.com/item?id=30371346"/>
+        <updated>2022-02-17T09:54:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Collect user feedback via Loom (No extension required)]]></summary>
+        <author>
+            <name>richiemcilroy</name>
+            <uri>https://news.ycombinator.com/user?id=richiemcilroy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Imgproxy，快速而安全的圖像處理工具]]></title>
         <id>https://news.ycombinator.com/item?id=30370747</id>
