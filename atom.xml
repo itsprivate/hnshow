@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-17T12:17:27.348Z</updated>
+    <updated>2022-02-17T12:48:54.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通过API的替代加密数据集，无需代码]]></title>
+        <id>https://news.ycombinator.com/item?id=30372447</id>
+        <link href="https://news.ycombinator.com/item?id=30372447"/>
+        <updated>2022-02-17T12:43:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Alternative crypto datasets via APIs without code]]></summary>
+        <author>
+            <name>david_abaev</name>
+            <uri>https://news.ycombinator.com/user?id=david_abaev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在JavaScript模板字符串中使用替代货币]]></title>
+        <id>https://news.ycombinator.com/item?id=30372305</id>
+        <link href="https://news.ycombinator.com/item?id=30372305"/>
+        <updated>2022-02-17T12:22:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Use alternative currencies in JavaScript template strings]]></summary>
+        <author>
+            <name>macano</name>
+            <uri>https://news.ycombinator.com/user?id=macano</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Turdle.xyz - 一个可爱的海龟的Wordle克隆。]]></title>
         <id>https://news.ycombinator.com/item?id=30372166</id>
