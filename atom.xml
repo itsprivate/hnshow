@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-17T18:15:35.883Z</updated>
+    <updated>2022-02-17T19:27:38.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我把Firefox iOS和一个cookie拦截器编译在一起]]></title>
+        <id>https://news.ycombinator.com/item?id=30377201</id>
+        <link href="https://news.ycombinator.com/item?id=30377201"/>
+        <updated>2022-02-17T19:06:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I've compiled Firefox iOS together with a cookie blocker]]></summary>
+        <author>
+            <name>rchaves</name>
+            <uri>https://news.ycombinator.com/user?id=rchaves</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为你的备用卧室快速建立一个预订页面]]></title>
         <id>https://news.ycombinator.com/item?id=30376472</id>
