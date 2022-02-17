@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-17T02:56:45.033Z</updated>
+    <updated>2022-02-17T06:15:37.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[什麼是假的。猜猜哪個標題是真的？]]></title>
+        <id>https://news.ycombinator.com/item?id=30370004</id>
+        <link href="https://news.ycombinator.com/item?id=30370004"/>
+        <updated>2022-02-17T05:58:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: What The Fake: Guess which headline is real?]]></summary>
+        <author>
+            <name>cerivitos</name>
+            <uri>https://news.ycombinator.com/user?id=cerivitos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GooReddit]]></title>
         <id>https://news.ycombinator.com/item?id=30369010</id>
