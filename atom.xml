@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-18T22:34:19.726Z</updated>
+    <updated>2022-02-18T23:53:38.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何用GNU Guix设置一个远程配对编程环境]]></title>
+        <id>https://news.ycombinator.com/item?id=30392698</id>
+        <link href="https://news.ycombinator.com/item?id=30392698"/>
+        <updated>2022-02-18T23:38:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How to setup a remote pair-programming environment with GNU Guix]]></summary>
+        <author>
+            <name>rednosehacker</name>
+            <uri>https://news.ycombinator.com/user?id=rednosehacker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[StadiumHopper - 我没有使用任何花哨的编程语言来构建它]]></title>
         <id>https://news.ycombinator.com/item?id=30391694</id>
