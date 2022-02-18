@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-18T02:54:25.443Z</updated>
+    <updated>2022-02-18T03:13:44.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一種更好的新聞消費方式]]></title>
+        <id>https://news.ycombinator.com/item?id=30381711</id>
+        <link href="https://news.ycombinator.com/item?id=30381711"/>
+        <updated>2022-02-18T03:07:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A better way to consume news]]></summary>
+        <author>
+            <name>intersteel</name>
+            <uri>https://news.ycombinator.com/user?id=intersteel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cmru是一個JavaScript的命令運行器/構建工具]]></title>
         <id>https://news.ycombinator.com/item?id=30381520</id>
