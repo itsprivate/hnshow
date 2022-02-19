@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-19T00:33:45.550Z</updated>
+    <updated>2022-02-19T03:23:25.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[VcNLP - 测试NLP模型鲁棒性的工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30392947</id>
+        <link href="https://news.ycombinator.com/item?id=30392947"/>
+        <updated>2022-02-19T00:06:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: VcNLP – A Tool for Testing Robustness of NLP Models]]></summary>
+        <author>
+            <name>vcramesh</name>
+            <uri>https://news.ycombinator.com/user?id=vcramesh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吉米--MacOS的双子座客户端]]></title>
+        <id>https://news.ycombinator.com/item?id=30392915</id>
+        <link href="https://news.ycombinator.com/item?id=30392915"/>
+        <updated>2022-02-19T00:02:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Jimmy – A Gemini Client for macOS]]></summary>
+        <author>
+            <name>jfoucher</name>
+            <uri>https://news.ycombinator.com/user?id=jfoucher</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何用GNU Guix设置一个远程配对编程环境]]></title>
         <id>https://news.ycombinator.com/item?id=30392698</id>
