@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-20T16:45:49.082Z</updated>
+    <updated>2022-02-20T17:29:47.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Crosswordle - 困难模式下的反向Wordle]]></title>
+        <id>https://news.ycombinator.com/item?id=30407289</id>
+        <link href="https://news.ycombinator.com/item?id=30407289"/>
+        <updated>2022-02-20T17:20:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Crosswordle – Reverse Wordle on Hard Mode]]></summary>
+        <author>
+            <name>ymichael</name>
+            <uri>https://news.ycombinator.com/user?id=ymichael</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wrap，一个用于捕捉和编辑产品屏幕截图的浏览器扩展程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30407227</id>
+        <link href="https://news.ycombinator.com/item?id=30407227"/>
+        <updated>2022-02-20T17:11:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Wrap, a browser extension for capturing and editing product screenshots]]></summary>
+        <author>
+            <name>nevflynn</name>
+            <uri>https://news.ycombinator.com/user?id=nevflynn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pg-osc: 在PostgreSQL中实现零停机时间的模式变更]]></title>
         <id>https://news.ycombinator.com/item?id=30406751</id>
