@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-20T06:39:59.080Z</updated>
+    <updated>2022-02-20T06:47:56.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Geodatadownloader，一個基於瀏覽器的地理空間數據下載器]]></title>
+        <id>https://news.ycombinator.com/item?id=30403724</id>
+        <link href="https://news.ycombinator.com/item?id=30403724"/>
+        <updated>2022-02-20T06:38:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Geodatadownloader, a browser based geospatial data downloader]]></summary>
+        <author>
+            <name>mchaynes</name>
+            <uri>https://news.ycombinator.com/user?id=mchaynes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通過語音識別的結構化數據醫療筆記]]></title>
         <id>https://news.ycombinator.com/item?id=30401403</id>
