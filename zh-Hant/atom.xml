@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-21T12:18:50.924Z</updated>
+    <updated>2022-02-21T12:51:22.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個新的每日字謎]]></title>
+        <id>https://news.ycombinator.com/item?id=30415053</id>
+        <link href="https://news.ycombinator.com/item?id=30415053"/>
+        <updated>2022-02-21T12:21:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A new daily word puzzle]]></summary>
+        <author>
+            <name>danieltait</name>
+            <uri>https://news.ycombinator.com/user?id=danieltait</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一個線形圖製作器]]></title>
+        <id>https://news.ycombinator.com/item?id=30415003</id>
+        <link href="https://news.ycombinator.com/item?id=30415003"/>
+        <updated>2022-02-21T12:17:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a Line graph maker]]></summary>
+        <author>
+            <name>karansope</name>
+            <uri>https://news.ycombinator.com/user?id=karansope</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從一個地方搜索40多個遠程招聘網站]]></title>
         <id>https://news.ycombinator.com/item?id=30414933</id>
