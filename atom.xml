@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-21T10:37:29.402Z</updated>
+    <updated>2022-02-21T12:18:50.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从一个地方搜索40多个远程招聘网站]]></title>
+        <id>https://news.ycombinator.com/item?id=30414933</id>
+        <link href="https://news.ycombinator.com/item?id=30414933"/>
+        <updated>2022-02-21T12:11:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Search 40+ remote job boards from one place]]></summary>
+        <author>
+            <name>remote_only_eng</name>
+            <uri>https://news.ycombinator.com/user?id=remote_only_eng</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TopSpace - 在Emacs的顶行上方滚动]]></title>
+        <id>https://news.ycombinator.com/item?id=30414784</id>
+        <link href="https://news.ycombinator.com/item?id=30414784"/>
+        <updated>2022-02-21T11:56:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: TopSpace – Scroll above the top line in Emacs]]></summary>
+        <author>
+            <name>emacs28</name>
+            <uri>https://news.ycombinator.com/user?id=emacs28</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用responsify来平滑断点布局的跳动]]></title>
         <id>https://news.ycombinator.com/item?id=30414100</id>
