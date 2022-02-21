@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-21T14:55:14.653Z</updated>
+    <updated>2022-02-21T15:18:01.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Prisma Python - 一個完全類型化的Python ORM]]></title>
+        <id>https://news.ycombinator.com/item?id=30416531</id>
+        <link href="https://news.ycombinator.com/item?id=30416531"/>
+        <updated>2022-02-21T14:57:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Prisma Python – A fully typed ORM for Python]]></summary>
+        <author>
+            <name>probablyrobert</name>
+            <uri>https://news.ycombinator.com/user?id=probablyrobert</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Go中建立一個LDAP服務器]]></title>
+        <id>https://news.ycombinator.com/item?id=30416496</id>
+        <link href="https://news.ycombinator.com/item?id=30416496"/>
+        <updated>2022-02-21T14:53:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build an LDAP Server in Go]]></summary>
+        <author>
+            <name>jimlambrt</name>
+            <uri>https://news.ycombinator.com/user?id=jimlambrt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ekans - 一個用Golang構建的非詛咒終端遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30416104</id>
+        <link href="https://news.ycombinator.com/item?id=30416104"/>
+        <updated>2022-02-21T14:17:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Ekans – a non-curses terminal game built with Golang]]></summary>
+        <author>
+            <name>int3rlop3r</name>
+            <uri>https://news.ycombinator.com/user?id=int3rlop3r</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一種新型的TypeScript網絡應用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30416042</id>
