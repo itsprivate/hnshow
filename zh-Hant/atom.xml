@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-21T08:36:47.844Z</updated>
+    <updated>2022-02-21T09:32:57.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Heroku上運行計劃任務？使用這個來監測併發性]]></title>
+        <id>https://news.ycombinator.com/item?id=30413603</id>
+        <link href="https://news.ycombinator.com/item?id=30413603"/>
+        <updated>2022-02-21T09:22:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Running scheduled tasks on Heroku? Use this to monitor concurrency]]></summary>
+        <author>
+            <name>advskdr</name>
+            <uri>https://news.ycombinator.com/user?id=advskdr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spurr - 異步團隊建設和健身挑戰賽]]></title>
         <id>https://news.ycombinator.com/item?id=30413232</id>
