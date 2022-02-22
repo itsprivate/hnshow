@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-22T16:18:21.048Z</updated>
+    <updated>2022-02-22T16:51:08.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[以RX為重點的Angular組件框架]]></title>
+        <id>https://news.ycombinator.com/item?id=30429910</id>
+        <link href="https://news.ycombinator.com/item?id=30429910"/>
+        <updated>2022-02-22T16:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An RX-Focused Component Framework for Angular]]></summary>
+        <author>
+            <name>WorldMaker</name>
+            <uri>https://news.ycombinator.com/user?id=WorldMaker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從API調用中自動生成單元測試（帶模擬）。]]></title>
         <id>https://news.ycombinator.com/item?id=30429375</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>brendan0powers</name>
             <uri>https://news.ycombinator.com/user?id=brendan0powers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordle Solver Bookmarklet]]></title>
-        <id>https://news.ycombinator.com/item?id=30012182</id>
-        <link href="https://news.ycombinator.com/item?id=30012182"/>
-        <updated>2022-01-20T17:50:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Wordle Solver Bookmarklet]]></summary>
-        <author>
-            <name>nfriend</name>
-            <uri>https://news.ycombinator.com/user?id=nfriend</uri>
         </author>
     </entry>
 </feed>
