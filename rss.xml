@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 22 Feb 2022 17:36:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 18:41:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Flutter制作的Hacker News阅读器]]></title>
+            <link>https://news.ycombinator.com/item?id=30431609</link>
+            <guid>https://news.ycombinator.com/item?id=30431609</guid>
+            <pubDate>Tue, 22 Feb 2022 18:33:03 GMT</pubDate>
+            <description><![CDATA[Show HN: Hacker News reader made with Flutter]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用汉密尔顿扩展数据流]]></title>
+            <link>https://news.ycombinator.com/item?id=30431589</link>
+            <guid>https://news.ycombinator.com/item?id=30431589</guid>
+            <pubDate>Tue, 22 Feb 2022 18:31:48 GMT</pubDate>
+            <description><![CDATA[Show HN: Scaling Dataflows with Hamilton]]></description>
+        </item>
+        <item>
+            <title><![CDATA[保持你的书签干净和最新]]></title>
+            <link>https://news.ycombinator.com/item?id=30431556</link>
+            <guid>https://news.ycombinator.com/item?id=30431556</guid>
+            <pubDate>Tue, 22 Feb 2022 18:29:51 GMT</pubDate>
+            <description><![CDATA[Show HN: Keep your bookmarks clean and up-to-date]]></description>
+        </item>
         <item>
             <title><![CDATA[残酷的报告--当天头条的滚动快照]]></title>
             <link>https://news.ycombinator.com/item?id=30430752</link>
@@ -6992,27 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30016794</guid>
             <pubDate>Thu, 20 Jan 2022 23:18:46 GMT</pubDate>
             <description><![CDATA[Show HN: API with Linux Syscall information for various architectures]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pytagmapper - 用于方形靶标的python3 SLAM库]]></title>
-            <link>https://news.ycombinator.com/item?id=30015803</link>
-            <guid>https://news.ycombinator.com/item?id=30015803</guid>
-            <pubDate>Thu, 20 Jan 2022 22:05:28 GMT</pubDate>
-            <description><![CDATA[Show HN: Pytagmapper – python3 SLAM library for square fiducial tags]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用于Python的简单而直观的代码仪表]]></title>
-            <link>https://news.ycombinator.com/item?id=30015795</link>
-            <guid>https://news.ycombinator.com/item?id=30015795</guid>
-            <pubDate>Thu, 20 Jan 2022 22:04:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Simple and intuitive code instrumentation for Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[获得HN用户的最新回复]]></title>
-            <link>https://news.ycombinator.com/item?id=30014298</link>
-            <guid>https://news.ycombinator.com/item?id=30014298</guid>
-            <pubDate>Thu, 20 Jan 2022 20:25:08 GMT</pubDate>
-            <description><![CDATA[Show HN: Get latest replies to an HN user]]></description>
         </item>
     </channel>
 </rss>

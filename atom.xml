@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-22T17:36:04.485Z</updated>
+    <updated>2022-02-22T18:41:21.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Flutter制作的Hacker News阅读器]]></title>
+        <id>https://news.ycombinator.com/item?id=30431609</id>
+        <link href="https://news.ycombinator.com/item?id=30431609"/>
+        <updated>2022-02-22T18:33:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hacker News reader made with Flutter]]></summary>
+        <author>
+            <name>livinglist</name>
+            <uri>https://news.ycombinator.com/user?id=livinglist</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用汉密尔顿扩展数据流]]></title>
+        <id>https://news.ycombinator.com/item?id=30431589</id>
+        <link href="https://news.ycombinator.com/item?id=30431589"/>
+        <updated>2022-02-22T18:31:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Scaling Dataflows with Hamilton]]></summary>
+        <author>
+            <name>mlplat</name>
+            <uri>https://news.ycombinator.com/user?id=mlplat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[保持你的书签干净和最新]]></title>
+        <id>https://news.ycombinator.com/item?id=30431556</id>
+        <link href="https://news.ycombinator.com/item?id=30431556"/>
+        <updated>2022-02-22T18:29:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Keep your bookmarks clean and up-to-date]]></summary>
+        <author>
+            <name>neiman1</name>
+            <uri>https://news.ycombinator.com/user?id=neiman1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[残酷的报告--当天头条的滚动快照]]></title>
         <id>https://news.ycombinator.com/item?id=30430752</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>guitmz</name>
             <uri>https://news.ycombinator.com/user?id=guitmz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pytagmapper - 用于方形靶标的python3 SLAM库]]></title>
-        <id>https://news.ycombinator.com/item?id=30015803</id>
-        <link href="https://news.ycombinator.com/item?id=30015803"/>
-        <updated>2022-01-20T22:05:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pytagmapper – python3 SLAM library for square fiducial tags]]></summary>
-        <author>
-            <name>markisus</name>
-            <uri>https://news.ycombinator.com/user?id=markisus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于Python的简单而直观的代码仪表]]></title>
-        <id>https://news.ycombinator.com/item?id=30015795</id>
-        <link href="https://news.ycombinator.com/item?id=30015795"/>
-        <updated>2022-01-20T22:04:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Simple and intuitive code instrumentation for Python]]></summary>
-        <author>
-            <name>smacke</name>
-            <uri>https://news.ycombinator.com/user?id=smacke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[获得HN用户的最新回复]]></title>
-        <id>https://news.ycombinator.com/item?id=30014298</id>
-        <link href="https://news.ycombinator.com/item?id=30014298"/>
-        <updated>2022-01-20T20:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Get latest replies to an HN user]]></summary>
-        <author>
-            <name>ggerganov</name>
-            <uri>https://news.ycombinator.com/user?id=ggerganov</uri>
         </author>
     </entry>
 </feed>
