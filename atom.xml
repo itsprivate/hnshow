@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-22T07:29:30.465Z</updated>
+    <updated>2022-02-22T09:59:17.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[列出了80多家从欧洲招聘人才的远程公司]]></title>
+        <id>https://news.ycombinator.com/item?id=30425855</id>
+        <link href="https://news.ycombinator.com/item?id=30425855"/>
+        <updated>2022-02-22T09:42:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Listed over 80 remote companies hiring talents from Europe]]></summary>
+        <author>
+            <name>rafalbel</name>
+            <uri>https://news.ycombinator.com/user?id=rafalbel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[增强的黑客新闻阅读器V2]]></title>
+        <id>https://news.ycombinator.com/item?id=30425840</id>
+        <link href="https://news.ycombinator.com/item?id=30425840"/>
+        <updated>2022-02-22T09:40:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Augmented Hacker News Reader V2]]></summary>
+        <author>
+            <name>piccogabriele</name>
+            <uri>https://news.ycombinator.com/user?id=piccogabriele</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Markdown中对PDF进行注释]]></title>
         <id>https://news.ycombinator.com/item?id=30424873</id>
@@ -10991,28 +11013,6 @@
         <author>
             <name>vrepsys</name>
             <uri>https://news.ycombinator.com/user?id=vrepsys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我对新家的硬件和软件设置]]></title>
-        <id>https://news.ycombinator.com/item?id=30009613</id>
-        <link href="https://news.ycombinator.com/item?id=30009613"/>
-        <updated>2022-01-20T14:55:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: My hardware and software setup for a new home]]></summary>
-        <author>
-            <name>giuliomagnifico</name>
-            <uri>https://news.ycombinator.com/user?id=giuliomagnifico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[革命性的参数化3D打印的磁性钥匙开关和刺针]]></title>
-        <id>https://news.ycombinator.com/item?id=30009496</id>
-        <link href="https://news.ycombinator.com/item?id=30009496"/>
-        <updated>2022-01-20T14:45:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Revolutionary parametric 3D printable magnetic key switches and stabs]]></summary>
-        <author>
-            <name>riskable</name>
-            <uri>https://news.ycombinator.com/user?id=riskable</uri>
         </author>
     </entry>
 </feed>
