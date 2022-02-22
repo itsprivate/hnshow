@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-22T17:06:03.752Z</updated>
+    <updated>2022-02-22T17:36:04.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[殘酷的報告--當天頭條的滾動快照]]></title>
+        <id>https://news.ycombinator.com/item?id=30430752</id>
+        <link href="https://news.ycombinator.com/item?id=30430752"/>
+        <updated>2022-02-22T17:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Brutalist Report – A rolling snapshot of the day’s headlines]]></summary>
+        <author>
+            <name>cylo</name>
+            <uri>https://news.ycombinator.com/user?id=cylo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[狀態頁 狀態頁]]></title>
         <id>https://news.ycombinator.com/item?id=30430325</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>ggerganov</name>
             <uri>https://news.ycombinator.com/user?id=ggerganov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Go泛型技術構建的無鎖環形緩衝器]]></title>
-        <id>https://news.ycombinator.com/item?id=30014108</id>
-        <link href="https://news.ycombinator.com/item?id=30014108"/>
-        <updated>2022-01-20T20:14:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lockless Ringbuffer Built with Go Generics]]></summary>
-        <author>
-            <name>gavinclarke0</name>
-            <uri>https://news.ycombinator.com/user?id=gavinclarke0</uri>
         </author>
     </entry>
 </feed>
