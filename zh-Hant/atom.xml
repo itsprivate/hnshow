@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-22T09:59:17.793Z</updated>
+    <updated>2022-02-22T11:14:07.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一組隨機的shell腳本]]></title>
+        <id>https://news.ycombinator.com/item?id=30426397</id>
+        <link href="https://news.ycombinator.com/item?id=30426397"/>
+        <updated>2022-02-22T11:02:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A collection of random shell scripts]]></summary>
+        <author>
+            <name>aselvan</name>
+            <uri>https://news.ycombinator.com/user?id=aselvan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[列出了80多家從歐洲招聘人才的遠程公司]]></title>
         <id>https://news.ycombinator.com/item?id=30425855</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>hp4k1h5</name>
             <uri>https://news.ycombinator.com/user?id=hp4k1h5</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美國國家航空航天局的每日天文圖片API文件]]></title>
-        <id>https://news.ycombinator.com/item?id=30009738</id>
-        <link href="https://news.ycombinator.com/item?id=30009738"/>
-        <updated>2022-01-20T15:04:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: API Docs for NASA's Astronomy Picture of the Day API]]></summary>
-        <author>
-            <name>vrepsys</name>
-            <uri>https://news.ycombinator.com/user?id=vrepsys</uri>
         </author>
     </entry>
 </feed>

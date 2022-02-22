@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 22 Feb 2022 09:59:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 11:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一組隨機的shell腳本]]></title>
+            <link>https://news.ycombinator.com/item?id=30426397</link>
+            <guid>https://news.ycombinator.com/item?id=30426397</guid>
+            <pubDate>Tue, 22 Feb 2022 11:02:59 GMT</pubDate>
+            <description><![CDATA[Show HN: A collection of random shell scripts]]></description>
+        </item>
         <item>
             <title><![CDATA[列出了80多家從歐洲招聘人才的遠程公司]]></title>
             <link>https://news.ycombinator.com/item?id=30425855</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30009828</guid>
             <pubDate>Thu, 20 Jan 2022 15:11:01 GMT</pubDate>
             <description><![CDATA[Show HN: Terminordle (Multiplayer Terminal Wordle)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美國國家航空航天局的每日天文圖片API文件]]></title>
-            <link>https://news.ycombinator.com/item?id=30009738</link>
-            <guid>https://news.ycombinator.com/item?id=30009738</guid>
-            <pubDate>Thu, 20 Jan 2022 15:04:45 GMT</pubDate>
-            <description><![CDATA[Show HN: API Docs for NASA's Astronomy Picture of the Day API]]></description>
         </item>
     </channel>
 </rss>
