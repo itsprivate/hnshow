@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-22T20:53:58.343Z</updated>
+    <updated>2022-02-22T23:13:41.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[KubeArmor - 使用AppArmor的運行時K8s安全性]]></title>
+        <id>https://news.ycombinator.com/item?id=30435145</id>
+        <link href="https://news.ycombinator.com/item?id=30435145"/>
+        <updated>2022-02-22T23:06:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: KubeArmor – runtime K8s security with AppArmor]]></summary>
+        <author>
+            <name>azifali</name>
+            <uri>https://news.ycombinator.com/user?id=azifali</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Up4 - 圍繞工作與朋友制定計劃]]></title>
         <id>https://news.ycombinator.com/item?id=30433536</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>laurinw</name>
             <uri>https://news.ycombinator.com/user?id=laurinw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個旨在開啟有意義的對話的數字卡片遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30019552</id>
-        <link href="https://news.ycombinator.com/item?id=30019552"/>
-        <updated>2022-01-21T05:33:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A digital card game designed to unlock meaningful conversation]]></summary>
-        <author>
-            <name>millionhari</name>
-            <uri>https://news.ycombinator.com/user?id=millionhari</uri>
         </author>
     </entry>
 </feed>
