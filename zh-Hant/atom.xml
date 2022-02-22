@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-22T11:14:07.684Z</updated>
+    <updated>2022-02-22T11:30:16.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[隨機博客的收集]]></title>
+        <id>https://news.ycombinator.com/item?id=30426467</id>
+        <link href="https://news.ycombinator.com/item?id=30426467"/>
+        <updated>2022-02-22T11:12:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Collection of Random Blogs]]></summary>
+        <author>
+            <name>aselvan</name>
+            <uri>https://news.ycombinator.com/user?id=aselvan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一組隨機的shell腳本]]></title>
         <id>https://news.ycombinator.com/item?id=30426397</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Quack123</name>
             <uri>https://news.ycombinator.com/user?id=Quack123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terminordle (多人終端詞庫)]]></title>
-        <id>https://news.ycombinator.com/item?id=30009828</id>
-        <link href="https://news.ycombinator.com/item?id=30009828"/>
-        <updated>2022-01-20T15:11:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Terminordle (Multiplayer Terminal Wordle)]]></summary>
-        <author>
-            <name>hp4k1h5</name>
-            <uri>https://news.ycombinator.com/user?id=hp4k1h5</uri>
         </author>
     </entry>
 </feed>
