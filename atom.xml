@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-22T11:30:15.938Z</updated>
+    <updated>2022-02-22T12:22:00.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Esolang Park，一个针对esolangs的在线可视化调试器。]]></title>
+        <id>https://news.ycombinator.com/item?id=30426838</id>
+        <link href="https://news.ycombinator.com/item?id=30426838"/>
+        <updated>2022-02-22T12:03:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Esolang Park, an online visual debugger for esolangs]]></summary>
+        <author>
+            <name>nilaymaj</name>
+            <uri>https://news.ycombinator.com/user?id=nilaymaj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[随机博客的收集]]></title>
         <id>https://news.ycombinator.com/item?id=30426467</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>Carrieroberts</name>
             <uri>https://news.ycombinator.com/user?id=Carrieroberts</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享登陆页面以获得SEO策略]]></title>
-        <id>https://news.ycombinator.com/item?id=30009841</id>
-        <link href="https://news.ycombinator.com/item?id=30009841"/>
-        <updated>2022-01-20T15:12:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Share landing page to get SEO strategy]]></summary>
-        <author>
-            <name>Quack123</name>
-            <uri>https://news.ycombinator.com/user?id=Quack123</uri>
         </author>
     </entry>
 </feed>
