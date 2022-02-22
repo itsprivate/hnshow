@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-22T12:22:00.202Z</updated>
+    <updated>2022-02-22T13:09:51.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在1頁中學習紅寶石]]></title>
+        <id>https://news.ycombinator.com/item?id=30427237</id>
+        <link href="https://news.ycombinator.com/item?id=30427237"/>
+        <updated>2022-02-22T12:45:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Learn Ruby in 1 Page]]></summary>
+        <author>
+            <name>nomilk</name>
+            <uri>https://news.ycombinator.com/user?id=nomilk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Esolang Park，一個針對esolangs的在線可視化調試器。]]></title>
         <id>https://news.ycombinator.com/item?id=30426838</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>ntlind</name>
             <uri>https://news.ycombinator.com/user?id=ntlind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在購買食品時做出更好的食物選擇]]></title>
-        <id>https://news.ycombinator.com/item?id=30011149</id>
-        <link href="https://news.ycombinator.com/item?id=30011149"/>
-        <updated>2022-01-20T16:35:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Make better food choices when grocery shopping]]></summary>
-        <author>
-            <name>Carrieroberts</name>
-            <uri>https://news.ycombinator.com/user?id=Carrieroberts</uri>
         </author>
     </entry>
 </feed>
