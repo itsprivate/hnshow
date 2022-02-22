@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-22T20:18:13.023Z</updated>
+    <updated>2022-02-22T20:36:22.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個工具來創建最好的產品教程]]></title>
+        <id>https://news.ycombinator.com/item?id=30433145</id>
+        <link href="https://news.ycombinator.com/item?id=30433145"/>
+        <updated>2022-02-22T20:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a tool to create the best product tutorials]]></summary>
+        <author>
+            <name>Outofthebot</name>
+            <uri>https://news.ycombinator.com/user?id=Outofthebot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[流行的ML框架的語義問題回答]]></title>
         <id>https://news.ycombinator.com/item?id=30432848</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>ile</name>
             <uri>https://news.ycombinator.com/user?id=ile</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[嗶哩嗶哩 - 視覺上收集一切]]></title>
-        <id>https://news.ycombinator.com/item?id=30019218</id>
-        <link href="https://news.ycombinator.com/item?id=30019218"/>
-        <updated>2022-01-21T04:35:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bleep – Collect Everything Visually]]></summary>
-        <author>
-            <name>sirwinsley</name>
-            <uri>https://news.ycombinator.com/user?id=sirwinsley</uri>
         </author>
     </entry>
 </feed>
