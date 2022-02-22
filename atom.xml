@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-22T15:36:00.615Z</updated>
+    <updated>2022-02-22T16:18:20.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从API调用中自动生成单元测试（带模拟）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30429375</id>
+        <link href="https://news.ycombinator.com/item?id=30429375"/>
+        <updated>2022-02-22T15:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Auto-generate unit tests (with mocks) from API calls]]></summary>
+        <author>
+            <name>slayerjain</name>
+            <uri>https://news.ycombinator.com/user?id=slayerjain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Constructor - 小型团队的简单问题跟踪，灵感来自Trello]]></title>
         <id>https://news.ycombinator.com/item?id=30428996</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>nfriend</name>
             <uri>https://news.ycombinator.com/user?id=nfriend</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[问保罗-格雷厄姆]]></title>
-        <id>https://news.ycombinator.com/item?id=30012003</id>
-        <link href="https://news.ycombinator.com/item?id=30012003"/>
-        <updated>2022-01-20T17:37:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: AskPaulGraham]]></summary>
-        <author>
-            <name>forstmeier</name>
-            <uri>https://news.ycombinator.com/user?id=forstmeier</uri>
         </author>
     </entry>
 </feed>
