@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-22T13:09:51.638Z</updated>
+    <updated>2022-02-22T13:37:25.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DataGridXL v2，最快的类似Excel的JavaScript数据网格]]></title>
+        <id>https://news.ycombinator.com/item?id=30427526</id>
+        <link href="https://news.ycombinator.com/item?id=30427526"/>
+        <updated>2022-02-22T13:17:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: DataGridXL v2, fastest Excel-like JavaScript Data Grid]]></summary>
+        <author>
+            <name>robbiejs</name>
+            <uri>https://news.ycombinator.com/user?id=robbiejs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在1页中学习红宝石]]></title>
         <id>https://news.ycombinator.com/item?id=30427237</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>neilpomerleau</name>
             <uri>https://news.ycombinator.com/user?id=neilpomerleau</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantile - 一个用于预测的网络应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30011150</id>
-        <link href="https://news.ycombinator.com/item?id=30011150"/>
-        <updated>2022-01-20T16:35:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Quantile – A Web App for Forecasting]]></summary>
-        <author>
-            <name>ntlind</name>
-            <uri>https://news.ycombinator.com/user?id=ntlind</uri>
         </author>
     </entry>
 </feed>
