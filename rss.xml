@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 22 Feb 2022 07:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 07:29:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在Markdown中对PDF进行注释]]></title>
+            <link>https://news.ycombinator.com/item?id=30424873</link>
+            <guid>https://news.ycombinator.com/item?id=30424873</guid>
+            <pubDate>Tue, 22 Feb 2022 07:12:15 GMT</pubDate>
+            <description><![CDATA[Show HN: Annotate PDFs in Markdown]]></description>
+        </item>
         <item>
             <title><![CDATA[管理星云叠加网络成员的Terraform提供者和模块]]></title>
             <link>https://news.ycombinator.com/item?id=30424772</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30009496</guid>
             <pubDate>Thu, 20 Jan 2022 14:45:37 GMT</pubDate>
             <description><![CDATA[Show HN: Revolutionary parametric 3D printable magnetic key switches and stabs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gitamic hits v1.8: 在你的平面文件CMS中提供更好的Git服务]]></title>
-            <link>https://news.ycombinator.com/item?id=30009263</link>
-            <guid>https://news.ycombinator.com/item?id=30009263</guid>
-            <pubDate>Thu, 20 Jan 2022 14:24:43 GMT</pubDate>
-            <description><![CDATA[Show HN: Gitamic hits v1.8: Even better Git inside your flat-file CMS]]></description>
         </item>
     </channel>
 </rss>
