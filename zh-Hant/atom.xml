@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-22T00:36:24.631Z</updated>
+    <updated>2022-02-22T01:47:51.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[可映射--原始文本到API只需30分鐘]]></title>
+        <id>https://news.ycombinator.com/item?id=30423065</id>
+        <link href="https://news.ycombinator.com/item?id=30423065"/>
+        <updated>2022-02-22T01:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mappable – raw text to API in 30min]]></summary>
+        <author>
+            <name>deneutoy</name>
+            <uri>https://news.ycombinator.com/user?id=deneutoy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[讓Dropbox忽略node_modules（和其他）的快速和骯髒的方法]]></title>
+        <id>https://news.ycombinator.com/item?id=30422925</id>
+        <link href="https://news.ycombinator.com/item?id=30422925"/>
+        <updated>2022-02-22T01:10:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Quick and dirty way to make Dropbox ignore node_modules (and others)]]></summary>
+        <author>
+            <name>kichik</name>
+            <uri>https://news.ycombinator.com/user?id=kichik</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每日數學腦筋急轉彎]]></title>
         <id>https://news.ycombinator.com/item?id=30422522</id>
