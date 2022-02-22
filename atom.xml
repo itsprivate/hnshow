@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-22T02:58:00.475Z</updated>
+    <updated>2022-02-22T03:33:42.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Loop_tool的交互式循环优化]]></title>
+        <id>https://news.ycombinator.com/item?id=30423674</id>
+        <link href="https://news.ycombinator.com/item?id=30423674"/>
+        <updated>2022-02-22T03:23:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Loop_tool's Interactive Loop Optimization]]></summary>
+        <author>
+            <name>brrrrrm</name>
+            <uri>https://news.ycombinator.com/user?id=brrrrrm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SeQR.site - 无服务器、以隐私为重点的二维码生成器]]></title>
         <id>https://news.ycombinator.com/item?id=30423538</id>
@@ -11002,17 +11013,6 @@
         <author>
             <name>gajus</name>
             <uri>https://news.ycombinator.com/user?id=gajus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OCaml中的Wordle解算器]]></title>
-        <id>https://news.ycombinator.com/item?id=30008851</id>
-        <link href="https://news.ycombinator.com/item?id=30008851"/>
-        <updated>2022-01-20T13:51:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Wordle Solver in OCaml]]></summary>
-        <author>
-            <name>jtanza</name>
-            <uri>https://news.ycombinator.com/user?id=jtanza</uri>
         </author>
     </entry>
 </feed>

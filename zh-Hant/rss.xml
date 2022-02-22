@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 22 Feb 2022 02:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 03:33:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Loop_tool的交互式循環優化]]></title>
+            <link>https://news.ycombinator.com/item?id=30423674</link>
+            <guid>https://news.ycombinator.com/item?id=30423674</guid>
+            <pubDate>Tue, 22 Feb 2022 03:23:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Loop_tool's Interactive Loop Optimization]]></description>
+        </item>
         <item>
             <title><![CDATA[SeQR.site - 無服務器、以隱私為重點的二維碼生成器]]></title>
             <link>https://news.ycombinator.com/item?id=30423538</link>
@@ -7006,13 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30008900</guid>
             <pubDate>Thu, 20 Jan 2022 13:55:53 GMT</pubDate>
             <description><![CDATA[Show HN: Yarr – React router enabling render-as-you-fetch]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OCaml中的Wordle解算器]]></title>
-            <link>https://news.ycombinator.com/item?id=30008851</link>
-            <guid>https://news.ycombinator.com/item?id=30008851</guid>
-            <pubDate>Thu, 20 Jan 2022 13:51:37 GMT</pubDate>
-            <description><![CDATA[Show HN: A Wordle Solver in OCaml]]></description>
         </item>
     </channel>
 </rss>
