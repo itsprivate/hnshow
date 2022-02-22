@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-22T16:51:08.702Z</updated>
+    <updated>2022-02-22T17:06:03.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[狀態頁 狀態頁]]></title>
+        <id>https://news.ycombinator.com/item?id=30430325</id>
+        <link href="https://news.ycombinator.com/item?id=30430325"/>
+        <updated>2022-02-22T16:58:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Status Page Status Page]]></summary>
+        <author>
+            <name>pimterry</name>
+            <uri>https://news.ycombinator.com/user?id=pimterry</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[簡化YouTube主頁]]></title>
+        <id>https://news.ycombinator.com/item?id=30430254</id>
+        <link href="https://news.ycombinator.com/item?id=30430254"/>
+        <updated>2022-02-22T16:53:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Simplify the YouTube Homepage]]></summary>
+        <author>
+            <name>jeanmayer</name>
+            <uri>https://news.ycombinator.com/user?id=jeanmayer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codeatlas - 開源代碼庫的美麗可視化]]></title>
+        <id>https://news.ycombinator.com/item?id=30430165</id>
+        <link href="https://news.ycombinator.com/item?id=30430165"/>
+        <updated>2022-02-22T16:48:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Codeatlas – Beautiful visualisations of open-source codebases]]></summary>
+        <author>
+            <name>Weidenwalker</name>
+            <uri>https://news.ycombinator.com/user?id=Weidenwalker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以RX為重點的Angular組件框架]]></title>
         <id>https://news.ycombinator.com/item?id=30429910</id>
@@ -10980,39 +11013,6 @@
         <author>
             <name>gavinclarke0</name>
             <uri>https://news.ycombinator.com/user?id=gavinclarke0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlowForge 0.1版發佈]]></title>
-        <id>https://news.ycombinator.com/item?id=30013678</id>
-        <link href="https://news.ycombinator.com/item?id=30013678"/>
-        <updated>2022-01-20T19:40:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: FlowForge 0.1 Released]]></summary>
-        <author>
-            <name>devrelavocados</name>
-            <uri>https://news.ycombinator.com/user?id=devrelavocados</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anders CCHM/HTS 定理驗證器]]></title>
-        <id>https://news.ycombinator.com/item?id=30012832</id>
-        <link href="https://news.ycombinator.com/item?id=30012832"/>
-        <updated>2022-01-20T18:41:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Anders CCHM/HTS Theorem Prover]]></summary>
-        <author>
-            <name>5HT</name>
-            <uri>https://news.ycombinator.com/user?id=5HT</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電木--讓你更容易與你的固件溝通]]></title>
-        <id>https://news.ycombinator.com/item?id=30012737</id>
-        <link href="https://news.ycombinator.com/item?id=30012737"/>
-        <updated>2022-01-20T18:34:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bakelite – making it easier to communicate with your firmware]]></summary>
-        <author>
-            <name>brendan0powers</name>
-            <uri>https://news.ycombinator.com/user?id=brendan0powers</uri>
         </author>
     </entry>
 </feed>

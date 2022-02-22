@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 22 Feb 2022 16:51:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 17:06:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[狀態頁 狀態頁]]></title>
+            <link>https://news.ycombinator.com/item?id=30430325</link>
+            <guid>https://news.ycombinator.com/item?id=30430325</guid>
+            <pubDate>Tue, 22 Feb 2022 16:58:13 GMT</pubDate>
+            <description><![CDATA[Show HN: The Status Page Status Page]]></description>
+        </item>
+        <item>
+            <title><![CDATA[簡化YouTube主頁]]></title>
+            <link>https://news.ycombinator.com/item?id=30430254</link>
+            <guid>https://news.ycombinator.com/item?id=30430254</guid>
+            <pubDate>Tue, 22 Feb 2022 16:53:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Simplify the YouTube Homepage]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Codeatlas - 開源代碼庫的美麗可視化]]></title>
+            <link>https://news.ycombinator.com/item?id=30430165</link>
+            <guid>https://news.ycombinator.com/item?id=30430165</guid>
+            <pubDate>Tue, 22 Feb 2022 16:48:39 GMT</pubDate>
+            <description><![CDATA[Show HN: Codeatlas – Beautiful visualisations of open-source codebases]]></description>
+        </item>
         <item>
             <title><![CDATA[以RX為重點的Angular組件框架]]></title>
             <link>https://news.ycombinator.com/item?id=30429910</link>
@@ -6992,27 +7013,6 @@
             <guid>https://news.ycombinator.com/item?id=30014108</guid>
             <pubDate>Thu, 20 Jan 2022 20:14:16 GMT</pubDate>
             <description><![CDATA[Show HN: Lockless Ringbuffer Built with Go Generics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FlowForge 0.1版發佈]]></title>
-            <link>https://news.ycombinator.com/item?id=30013678</link>
-            <guid>https://news.ycombinator.com/item?id=30013678</guid>
-            <pubDate>Thu, 20 Jan 2022 19:40:40 GMT</pubDate>
-            <description><![CDATA[Show HN: FlowForge 0.1 Released]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Anders CCHM/HTS 定理驗證器]]></title>
-            <link>https://news.ycombinator.com/item?id=30012832</link>
-            <guid>https://news.ycombinator.com/item?id=30012832</guid>
-            <pubDate>Thu, 20 Jan 2022 18:41:49 GMT</pubDate>
-            <description><![CDATA[Show HN: Anders CCHM/HTS Theorem Prover]]></description>
-        </item>
-        <item>
-            <title><![CDATA[電木--讓你更容易與你的固件溝通]]></title>
-            <link>https://news.ycombinator.com/item?id=30012737</link>
-            <guid>https://news.ycombinator.com/item?id=30012737</guid>
-            <pubDate>Thu, 20 Jan 2022 18:34:52 GMT</pubDate>
-            <description><![CDATA[Show HN: Bakelite – making it easier to communicate with your firmware]]></description>
         </item>
     </channel>
 </rss>
