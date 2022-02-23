@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Feb 2022 17:38:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 18:03:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[帶有解耦計算和存儲的雲數據庫]]></title>
+            <link>https://news.ycombinator.com/item?id=30443770</link>
+            <guid>https://news.ycombinator.com/item?id=30443770</guid>
+            <pubDate>Wed, 23 Feb 2022 17:34:07 GMT</pubDate>
+            <description><![CDATA[Show HN: Cloud Database with Decoupled Compute and Storage]]></description>
+        </item>
         <item>
             <title><![CDATA[程序性網絡 - 無限的和完全合成的，只由AI創造的。]]></title>
             <link>https://news.ycombinator.com/item?id=30443738</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30207404</guid>
             <pubDate>Fri, 04 Feb 2022 14:49:45 GMT</pubDate>
             <description><![CDATA[Show HN: Mailwind – Use Tailwind CSS to design HTML emails]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bpfcov - 基於源代碼的eBPF程序覆蓋率]]></title>
-            <link>https://news.ycombinator.com/item?id=30206467</link>
-            <guid>https://news.ycombinator.com/item?id=30206467</guid>
-            <pubDate>Fri, 04 Feb 2022 13:24:49 GMT</pubDate>
-            <description><![CDATA[Show HN: Bpfcov – source-based code coverage for eBPF programs]]></description>
         </item>
     </channel>
 </rss>
