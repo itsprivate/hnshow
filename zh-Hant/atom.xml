@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-23T18:03:52.034Z</updated>
+    <updated>2022-02-23T18:57:12.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[JavaScript中大量的統計分佈]]></title>
+        <id>https://news.ycombinator.com/item?id=30444649</id>
+        <link href="https://news.ycombinator.com/item?id=30444649"/>
+        <updated>2022-02-23T18:41:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A large number of statistical distributions in JavaScript]]></summary>
+        <author>
+            <name>tantanmen</name>
+            <uri>https://news.ycombinator.com/user?id=tantanmen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[作為一個軟件工程師的寫作]]></title>
+        <id>https://news.ycombinator.com/item?id=30444615</id>
+        <link href="https://news.ycombinator.com/item?id=30444615"/>
+        <updated>2022-02-23T18:38:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Writing as a Software Engineer]]></summary>
+        <author>
+            <name>bradwoodsio</name>
+            <uri>https://news.ycombinator.com/user?id=bradwoodsio</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帶有解耦計算和存儲的雲數據庫]]></title>
         <id>https://news.ycombinator.com/item?id=30443770</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mfcc64</name>
             <uri>https://news.ycombinator.com/user?id=mfcc64</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我把我原來為Atom設計的'Jumpy'移植到了VS Code（"Jumpy2"）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30207529</id>
-        <link href="https://news.ycombinator.com/item?id=30207529"/>
-        <updated>2022-02-04T14:59:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I ported my original 'Jumpy' for Atom over to VS Code (“Jumpy2”)]]></summary>
-        <author>
-            <name>DavidLGoldberg</name>
-            <uri>https://news.ycombinator.com/user?id=DavidLGoldberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mailwind - 使用Tailwind CSS來設計HTML電子郵件]]></title>
-        <id>https://news.ycombinator.com/item?id=30207404</id>
-        <link href="https://news.ycombinator.com/item?id=30207404"/>
-        <updated>2022-02-04T14:49:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mailwind – Use Tailwind CSS to design HTML emails]]></summary>
-        <author>
-            <name>soheilpro</name>
-            <uri>https://news.ycombinator.com/user?id=soheilpro</uri>
         </author>
     </entry>
 </feed>

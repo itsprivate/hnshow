@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Feb 2022 18:03:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 18:57:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[JavaScript中大量的統計分佈]]></title>
+            <link>https://news.ycombinator.com/item?id=30444649</link>
+            <guid>https://news.ycombinator.com/item?id=30444649</guid>
+            <pubDate>Wed, 23 Feb 2022 18:41:28 GMT</pubDate>
+            <description><![CDATA[Show HN: A large number of statistical distributions in JavaScript]]></description>
+        </item>
+        <item>
+            <title><![CDATA[作為一個軟件工程師的寫作]]></title>
+            <link>https://news.ycombinator.com/item?id=30444615</link>
+            <guid>https://news.ycombinator.com/item?id=30444615</guid>
+            <pubDate>Wed, 23 Feb 2022 18:38:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Writing as a Software Engineer]]></description>
+        </item>
         <item>
             <title><![CDATA[帶有解耦計算和存儲的雲數據庫]]></title>
             <link>https://news.ycombinator.com/item?id=30443770</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30207952</guid>
             <pubDate>Fri, 04 Feb 2022 15:26:21 GMT</pubDate>
             <description><![CDATA[Show HN: WebAssembly SIMD benchmark on showcqt-JS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我把我原來為Atom設計的'Jumpy'移植到了VS Code（"Jumpy2"）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30207529</link>
-            <guid>https://news.ycombinator.com/item?id=30207529</guid>
-            <pubDate>Fri, 04 Feb 2022 14:59:18 GMT</pubDate>
-            <description><![CDATA[Show HN: I ported my original 'Jumpy' for Atom over to VS Code (“Jumpy2”)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mailwind - 使用Tailwind CSS來設計HTML電子郵件]]></title>
-            <link>https://news.ycombinator.com/item?id=30207404</link>
-            <guid>https://news.ycombinator.com/item?id=30207404</guid>
-            <pubDate>Fri, 04 Feb 2022 14:49:45 GMT</pubDate>
-            <description><![CDATA[Show HN: Mailwind – Use Tailwind CSS to design HTML emails]]></description>
         </item>
     </channel>
 </rss>
