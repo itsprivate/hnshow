@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-23T12:53:02.107Z</updated>
+    <updated>2022-02-23T13:20:21.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[写论文最愉快的桌面应用]]></title>
+        <id>https://news.ycombinator.com/item?id=30440527</id>
+        <link href="https://news.ycombinator.com/item?id=30440527"/>
+        <updated>2022-02-23T13:06:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The most enjoyable desktop app for writing a thesis]]></summary>
+        <author>
+            <name>WolfOliver</name>
+            <uri>https://news.ycombinator.com/user?id=WolfOliver</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个react-wordle分叉，但它是MD5的哈希值]]></title>
+        <id>https://news.ycombinator.com/item?id=30440511</id>
+        <link href="https://news.ycombinator.com/item?id=30440511"/>
+        <updated>2022-02-23T13:05:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a react-wordle fork but it's the MD5 hash]]></summary>
+        <author>
+            <name>WesSouza</name>
+            <uri>https://news.ycombinator.com/user?id=WesSouza</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隐藏Hacker News feeds中提到的所有Wordle的内容]]></title>
+        <id>https://news.ycombinator.com/item?id=30440491</id>
+        <link href="https://news.ycombinator.com/item?id=30440491"/>
+        <updated>2022-02-23T13:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hide all mentions of Wordle in Hacker News feeds]]></summary>
+        <author>
+            <name>tucnak</name>
+            <uri>https://news.ycombinator.com/user?id=tucnak</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为150个软件提供全面管理的开源平台]]></title>
+        <id>https://news.ycombinator.com/item?id=30440486</id>
+        <link href="https://news.ycombinator.com/item?id=30440486"/>
+        <updated>2022-02-23T13:00:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fully managed open-source platform for 150 software]]></summary>
+        <author>
+            <name>js4ever</name>
+            <uri>https://news.ycombinator.com/user?id=js4ever</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Supernotes 2 - 一个快速的、用于记事和分享的Markdown笔记应用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30440275</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>fallat</name>
             <uri>https://news.ycombinator.com/user?id=fallat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你认为这个*更新*现有记录的表格生成器是什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=30197837</id>
-        <link href="https://news.ycombinator.com/item?id=30197837"/>
-        <updated>2022-02-03T19:52:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: What do you think this form builder that *updates* existing records?]]></summary>
-        <author>
-            <name>Chetane</name>
-            <uri>https://news.ycombinator.com/user?id=Chetane</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首款用于站立办公的智能互动椅]]></title>
-        <id>https://news.ycombinator.com/item?id=30197791</id>
-        <link href="https://news.ycombinator.com/item?id=30197791"/>
-        <updated>2022-02-03T19:49:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The first smart interactive chair for standing desks]]></summary>
-        <author>
-            <name>chaibiker</name>
-            <uri>https://news.ycombinator.com/user?id=chaibiker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一分钱--回答问题并获得 "一分钱的思考"。]]></title>
-        <id>https://news.ycombinator.com/item?id=30197136</id>
-        <link href="https://news.ycombinator.com/item?id=30197136"/>
-        <updated>2022-02-03T19:07:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Penny – answer questions and earn “a penny for your thought”]]></summary>
-        <author>
-            <name>shlosky</name>
-            <uri>https://news.ycombinator.com/user?id=shlosky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我正在建立一个新的政党（欢迎反馈！）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30195783</id>
-        <link href="https://news.ycombinator.com/item?id=30195783"/>
-        <updated>2022-02-03T17:45:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I'm building a new political party (feedback welcome!)]]></summary>
-        <author>
-            <name>randomcatuser</name>
-            <uri>https://news.ycombinator.com/user?id=randomcatuser</uri>
         </author>
     </entry>
 </feed>
