@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-23T19:53:24.394Z</updated>
+    <updated>2022-02-23T20:16:20.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Codebraid Preview for VS Code: 潘多克預覽版與Jupyter內核]]></title>
+        <id>https://news.ycombinator.com/item?id=30445549</id>
+        <link href="https://news.ycombinator.com/item?id=30445549"/>
+        <updated>2022-02-23T19:56:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Codebraid Preview for VS Code: Pandoc Preview with Jupyter Kernels]]></summary>
+        <author>
+            <name>gpoore</name>
+            <uri>https://news.ycombinator.com/user?id=gpoore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個免費的電子郵件營銷工具，供創作者向其社區發送電子郵件]]></title>
         <id>https://news.ycombinator.com/item?id=30445352</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rufname</name>
             <uri>https://news.ycombinator.com/user?id=rufname</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[繪製雲圖--公共雲基礎設施和服務]]></title>
-        <id>https://news.ycombinator.com/item?id=30211991</id>
-        <link href="https://news.ycombinator.com/item?id=30211991"/>
-        <updated>2022-02-04T19:49:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Map the Cloud – Public Cloud infrastructure and services]]></summary>
-        <author>
-            <name>tobilg</name>
-            <uri>https://news.ycombinator.com/user?id=tobilg</uri>
         </author>
     </entry>
 </feed>
