@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Feb 2022 19:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 19:27:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Flatsauce - 具有解耦存储和计算功能的数据库]]></title>
+            <link>https://news.ycombinator.com/item?id=30445052</link>
+            <guid>https://news.ycombinator.com/item?id=30445052</guid>
+            <pubDate>Wed, 23 Feb 2022 19:16:14 GMT</pubDate>
+            <description><![CDATA[Show HN: Flatsauce – Database with Decoupled Storage and Compute]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Datagridxl2.js--无意义的快速类似Excel的数据表格库]]></title>
+            <link>https://news.ycombinator.com/item?id=30444994</link>
+            <guid>https://news.ycombinator.com/item?id=30444994</guid>
+            <pubDate>Wed, 23 Feb 2022 19:12:31 GMT</pubDate>
+            <description><![CDATA[Show HN: Datagridxl2.js – No-nonsense fast Excel-like data table library]]></description>
+        </item>
         <item>
             <title><![CDATA[2022年远程工作的现状]]></title>
             <link>https://news.ycombinator.com/item?id=30444814</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30210885</guid>
             <pubDate>Fri, 04 Feb 2022 18:28:34 GMT</pubDate>
             <description><![CDATA[Show HN: We built unit/integration test results aggregator]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个猜词的工具，用于Wordle]]></title>
-            <link>https://news.ycombinator.com/item?id=30210041</link>
-            <guid>https://news.ycombinator.com/item?id=30210041</guid>
-            <pubDate>Fri, 04 Feb 2022 17:45:39 GMT</pubDate>
-            <description><![CDATA[Show HN: A word guessing tool for Wordle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DevToolbox - 作为一个跨平台的桌面应用程序的开发工具]]></title>
-            <link>https://news.ycombinator.com/item?id=30208667</link>
-            <guid>https://news.ycombinator.com/item?id=30208667</guid>
-            <pubDate>Fri, 04 Feb 2022 16:11:57 GMT</pubDate>
-            <description><![CDATA[Show HN: DevToolbox – Development utilities as a cross-platform desktop app]]></description>
         </item>
     </channel>
 </rss>

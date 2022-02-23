@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-23T19:13:52.821Z</updated>
+    <updated>2022-02-23T19:27:04.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Flatsauce - 具有解耦存储和计算功能的数据库]]></title>
+        <id>https://news.ycombinator.com/item?id=30445052</id>
+        <link href="https://news.ycombinator.com/item?id=30445052"/>
+        <updated>2022-02-23T19:16:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Flatsauce – Database with Decoupled Storage and Compute]]></summary>
+        <author>
+            <name>soheil</name>
+            <uri>https://news.ycombinator.com/user?id=soheil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Datagridxl2.js--无意义的快速类似Excel的数据表格库]]></title>
+        <id>https://news.ycombinator.com/item?id=30444994</id>
+        <link href="https://news.ycombinator.com/item?id=30444994"/>
+        <updated>2022-02-23T19:12:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Datagridxl2.js – No-nonsense fast Excel-like data table library]]></summary>
+        <author>
+            <name>robbiejs</name>
+            <uri>https://news.ycombinator.com/user?id=robbiejs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年远程工作的现状]]></title>
         <id>https://news.ycombinator.com/item?id=30444814</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>orsol</name>
             <uri>https://news.ycombinator.com/user?id=orsol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个猜词的工具，用于Wordle]]></title>
-        <id>https://news.ycombinator.com/item?id=30210041</id>
-        <link href="https://news.ycombinator.com/item?id=30210041"/>
-        <updated>2022-02-04T17:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A word guessing tool for Wordle]]></summary>
-        <author>
-            <name>rengwu</name>
-            <uri>https://news.ycombinator.com/user?id=rengwu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevToolbox - 作为一个跨平台的桌面应用程序的开发工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30208667</id>
-        <link href="https://news.ycombinator.com/item?id=30208667"/>
-        <updated>2022-02-04T16:11:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: DevToolbox – Development utilities as a cross-platform desktop app]]></summary>
-        <author>
-            <name>nileshtrivedi</name>
-            <uri>https://news.ycombinator.com/user?id=nileshtrivedi</uri>
         </author>
     </entry>
 </feed>
