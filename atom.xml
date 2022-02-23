@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-23T15:39:14.969Z</updated>
+    <updated>2022-02-23T16:17:22.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Polyordle - 同时有任意数量的Wordles]]></title>
+        <id>https://news.ycombinator.com/item?id=30442562</id>
+        <link href="https://news.ycombinator.com/item?id=30442562"/>
+        <updated>2022-02-23T16:06:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Polyordle – an arbitrary number of Wordles at once]]></summary>
+        <author>
+            <name>DanielDe</name>
+            <uri>https://news.ycombinator.com/user?id=DanielDe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hathora - 多人游戏开发变得简单]]></title>
         <id>https://news.ycombinator.com/item?id=30442072</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>abbadadda</name>
             <uri>https://news.ycombinator.com/user?id=abbadadda</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑掉C++以支持数组的结构]]></title>
-        <id>https://news.ycombinator.com/item?id=30202551</id>
-        <link href="https://news.ycombinator.com/item?id=30202551"/>
-        <updated>2022-02-04T03:37:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hacking C++ to support Structure of Arrays]]></summary>
-        <author>
-            <name>markisus</name>
-            <uri>https://news.ycombinator.com/user?id=markisus</uri>
         </author>
     </entry>
 </feed>
