@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-23T02:05:10.120Z</updated>
+    <updated>2022-02-23T03:43:51.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个记录RGBD视频的iOS应用和一个播放视频的web应用]]></title>
+        <id>https://news.ycombinator.com/item?id=30437257</id>
+        <link href="https://news.ycombinator.com/item?id=30437257"/>
+        <updated>2022-02-23T03:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an iOS app recording RGBD videos and a webapp playing them]]></summary>
+        <author>
+            <name>hanseul</name>
+            <uri>https://news.ycombinator.com/user?id=hanseul</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我已经建立了一个博客平台，Orb - (Open React Blog)]]></title>
         <id>https://news.ycombinator.com/item?id=30436407</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lynndotpy</name>
             <uri>https://news.ycombinator.com/user?id=lynndotpy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波多黎各的繁殖鸟类目录]]></title>
-        <id>https://news.ycombinator.com/item?id=30193652</id>
-        <link href="https://news.ycombinator.com/item?id=30193652"/>
-        <updated>2022-02-03T15:30:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Directory of Breeding Birds in Puerto Rico]]></summary>
-        <author>
-            <name>boredumb</name>
-            <uri>https://news.ycombinator.com/user?id=boredumb</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Feb 2022 02:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 03:43:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一个记录RGBD视频的iOS应用和一个播放视频的web应用]]></title>
+            <link>https://news.ycombinator.com/item?id=30437257</link>
+            <guid>https://news.ycombinator.com/item?id=30437257</guid>
+            <pubDate>Wed, 23 Feb 2022 03:31:59 GMT</pubDate>
+            <description><![CDATA[Show HN: I made an iOS app recording RGBD videos and a webapp playing them]]></description>
+        </item>
         <item>
             <title><![CDATA[我已经建立了一个博客平台，Orb - (Open React Blog)]]></title>
             <link>https://news.ycombinator.com/item?id=30436407</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30193997</guid>
             <pubDate>Thu, 03 Feb 2022 15:55:45 GMT</pubDate>
             <description><![CDATA[Show HN: I made a little digital circuit simulator that operates on PNGs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[波多黎各的繁殖鸟类目录]]></title>
-            <link>https://news.ycombinator.com/item?id=30193652</link>
-            <guid>https://news.ycombinator.com/item?id=30193652</guid>
-            <pubDate>Thu, 03 Feb 2022 15:30:39 GMT</pubDate>
-            <description><![CDATA[Show HN: Directory of Breeding Birds in Puerto Rico]]></description>
         </item>
     </channel>
 </rss>
