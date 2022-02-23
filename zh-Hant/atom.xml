@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-23T15:15:53.997Z</updated>
+    <updated>2022-02-23T15:39:15.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Hathora - 多人遊戲開發變得簡單]]></title>
+        <id>https://news.ycombinator.com/item?id=30442072</id>
+        <link href="https://news.ycombinator.com/item?id=30442072"/>
+        <updated>2022-02-23T15:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hathora – Multiplayer Game Development Made Easy]]></summary>
+        <author>
+            <name>hpx7</name>
+            <uri>https://news.ycombinator.com/user?id=hpx7</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個可以在網絡應用中輕鬆進行截圖的JavaScript庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30441861</id>
+        <link href="https://news.ycombinator.com/item?id=30441861"/>
+        <updated>2022-02-23T15:11:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A JavaScript library to easily take screenshots in web apps]]></summary>
+        <author>
+            <name>tejaskumar_</name>
+            <uri>https://news.ycombinator.com/user?id=tejaskumar_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生成AWS CloudFormation和Terraform模板的可視化UI]]></title>
         <id>https://news.ycombinator.com/item?id=30441729</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>markisus</name>
             <uri>https://news.ycombinator.com/user?id=markisus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trello的表視圖]]></title>
-        <id>https://news.ycombinator.com/item?id=30202371</id>
-        <link href="https://news.ycombinator.com/item?id=30202371"/>
-        <updated>2022-02-04T03:12:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Table View for Trello]]></summary>
-        <author>
-            <name>adamcao</name>
-            <uri>https://news.ycombinator.com/user?id=adamcao</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Windows 11上帶回顯示桌面懸停/Aero peek功能]]></title>
-        <id>https://news.ycombinator.com/item?id=30202283</id>
-        <link href="https://news.ycombinator.com/item?id=30202283"/>
-        <updated>2022-02-04T03:02:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bring back the show desktop hover / aero peek feature on Windows 11]]></summary>
-        <author>
-            <name>noahlbartley</name>
-            <uri>https://news.ycombinator.com/user?id=noahlbartley</uri>
         </author>
     </entry>
 </feed>

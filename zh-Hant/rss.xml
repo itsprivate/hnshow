@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Feb 2022 15:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 15:39:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Hathora - 多人遊戲開發變得簡單]]></title>
+            <link>https://news.ycombinator.com/item?id=30442072</link>
+            <guid>https://news.ycombinator.com/item?id=30442072</guid>
+            <pubDate>Wed, 23 Feb 2022 15:30:15 GMT</pubDate>
+            <description><![CDATA[Show HN: Hathora – Multiplayer Game Development Made Easy]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個可以在網絡應用中輕鬆進行截圖的JavaScript庫]]></title>
+            <link>https://news.ycombinator.com/item?id=30441861</link>
+            <guid>https://news.ycombinator.com/item?id=30441861</guid>
+            <pubDate>Wed, 23 Feb 2022 15:11:55 GMT</pubDate>
+            <description><![CDATA[Show HN: A JavaScript library to easily take screenshots in web apps]]></description>
+        </item>
         <item>
             <title><![CDATA[生成AWS CloudFormation和Terraform模板的可視化UI]]></title>
             <link>https://news.ycombinator.com/item?id=30441729</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30202551</guid>
             <pubDate>Fri, 04 Feb 2022 03:37:30 GMT</pubDate>
             <description><![CDATA[Show HN: Hacking C++ to support Structure of Arrays]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Trello的表視圖]]></title>
-            <link>https://news.ycombinator.com/item?id=30202371</link>
-            <guid>https://news.ycombinator.com/item?id=30202371</guid>
-            <pubDate>Fri, 04 Feb 2022 03:12:06 GMT</pubDate>
-            <description><![CDATA[Show HN: Table View for Trello]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Windows 11上帶回顯示桌面懸停/Aero peek功能]]></title>
-            <link>https://news.ycombinator.com/item?id=30202283</link>
-            <guid>https://news.ycombinator.com/item?id=30202283</guid>
-            <pubDate>Fri, 04 Feb 2022 03:02:06 GMT</pubDate>
-            <description><![CDATA[Show HN: Bring back the show desktop hover / aero peek feature on Windows 11]]></description>
         </item>
     </channel>
 </rss>
