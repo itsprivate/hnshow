@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-23T07:53:18.153Z</updated>
+    <updated>2022-02-23T10:14:19.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用WorthTracker跟蹤和分析你的淨資產]]></title>
+        <id>https://news.ycombinator.com/item?id=30439527</id>
+        <link href="https://news.ycombinator.com/item?id=30439527"/>
+        <updated>2022-02-23T10:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Track and analyze your net worth with WorthTracker]]></summary>
+        <author>
+            <name>applitom</name>
+            <uri>https://news.ycombinator.com/user?id=applitom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個用於觀察JSON數據的新項目的CLI工具]]></title>
         <id>https://news.ycombinator.com/item?id=30438677</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>antonok</name>
             <uri>https://news.ycombinator.com/user?id=antonok</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我為新聞簡報創建了一個反饋工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30195361</id>
-        <link href="https://news.ycombinator.com/item?id=30195361"/>
-        <updated>2022-02-03T17:21:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I created a Feedback tool for Newsletters]]></summary>
-        <author>
-            <name>caiorolla</name>
-            <uri>https://news.ycombinator.com/user?id=caiorolla</uri>
         </author>
     </entry>
 </feed>
