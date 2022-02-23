@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-23T14:54:42.886Z</updated>
+    <updated>2022-02-23T15:15:53.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[生成AWS CloudFormation和Terraform模板的可視化UI]]></title>
+        <id>https://news.ycombinator.com/item?id=30441729</id>
+        <link href="https://news.ycombinator.com/item?id=30441729"/>
+        <updated>2022-02-23T15:02:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Visual UI to Generate AWS CloudFormation and Terraform Templates]]></summary>
+        <author>
+            <name>akittana</name>
+            <uri>https://news.ycombinator.com/user?id=akittana</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在非洲創建了一個遠程工作社區]]></title>
+        <id>https://news.ycombinator.com/item?id=30441675</id>
+        <link href="https://news.ycombinator.com/item?id=30441675"/>
+        <updated>2022-02-23T14:57:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I created a remote work community in Africa]]></summary>
+        <author>
+            <name>cjndubisi</name>
+            <uri>https://news.ycombinator.com/user?id=cjndubisi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[常用數據集的Rubick、數據API和搜索API]]></title>
         <id>https://news.ycombinator.com/item?id=30441440</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>noahlbartley</name>
             <uri>https://news.ycombinator.com/user?id=noahlbartley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[圍棋中的字謎求解器]]></title>
-        <id>https://news.ycombinator.com/item?id=30201911</id>
-        <link href="https://news.ycombinator.com/item?id=30201911"/>
-        <updated>2022-02-04T02:03:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Wordle Solver in Go]]></summary>
-        <author>
-            <name>ammario</name>
-            <uri>https://news.ycombinator.com/user?id=ammario</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只是些許突發事件]]></title>
-        <id>https://news.ycombinator.com/item?id=30201415</id>
-        <link href="https://news.ycombinator.com/item?id=30201415"/>
-        <updated>2022-02-04T01:01:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Just Some Burds]]></summary>
-        <author>
-            <name>thesephist</name>
-            <uri>https://news.ycombinator.com/user?id=thesephist</uri>
         </author>
     </entry>
 </feed>

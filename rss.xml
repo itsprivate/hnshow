@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Feb 2022 14:54:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 15:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[生成AWS CloudFormation和Terraform模板的可视化UI]]></title>
+            <link>https://news.ycombinator.com/item?id=30441729</link>
+            <guid>https://news.ycombinator.com/item?id=30441729</guid>
+            <pubDate>Wed, 23 Feb 2022 15:02:03 GMT</pubDate>
+            <description><![CDATA[Show HN: Visual UI to Generate AWS CloudFormation and Terraform Templates]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我在非洲创建了一个远程工作社区]]></title>
+            <link>https://news.ycombinator.com/item?id=30441675</link>
+            <guid>https://news.ycombinator.com/item?id=30441675</guid>
+            <pubDate>Wed, 23 Feb 2022 14:57:50 GMT</pubDate>
+            <description><![CDATA[Show HN: I created a remote work community in Africa]]></description>
+        </item>
         <item>
             <title><![CDATA[常用数据集的Rubick、数据API和搜索API]]></title>
             <link>https://news.ycombinator.com/item?id=30441440</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30202283</guid>
             <pubDate>Fri, 04 Feb 2022 03:02:06 GMT</pubDate>
             <description><![CDATA[Show HN: Bring back the show desktop hover / aero peek feature on Windows 11]]></description>
-        </item>
-        <item>
-            <title><![CDATA[围棋中的字谜求解器]]></title>
-            <link>https://news.ycombinator.com/item?id=30201911</link>
-            <guid>https://news.ycombinator.com/item?id=30201911</guid>
-            <pubDate>Fri, 04 Feb 2022 02:03:16 GMT</pubDate>
-            <description><![CDATA[Show HN: Wordle Solver in Go]]></description>
-        </item>
-        <item>
-            <title><![CDATA[只是些许突发事件]]></title>
-            <link>https://news.ycombinator.com/item?id=30201415</link>
-            <guid>https://news.ycombinator.com/item?id=30201415</guid>
-            <pubDate>Fri, 04 Feb 2022 01:01:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Just Some Burds]]></description>
         </item>
     </channel>
 </rss>
