@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-23T10:37:20.617Z</updated>
+    <updated>2022-02-23T12:53:02.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Supernotes 2 - 一個快速的、用於記事和分享的Markdown筆記應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30440275</id>
+        <link href="https://news.ycombinator.com/item?id=30440275"/>
+        <updated>2022-02-23T12:23:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Supernotes 2 – a fast, Markdown notes app for journalling and sharing]]></summary>
+        <author>
+            <name>fastball</name>
+            <uri>https://news.ycombinator.com/user?id=fastball</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scholars.io - 共同閱讀、註釋和評論研究論文]]></title>
         <id>https://news.ycombinator.com/item?id=30439669</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>randomcatuser</name>
             <uri>https://news.ycombinator.com/user?id=randomcatuser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[下載Twitter數據，無需API密鑰]]></title>
-        <id>https://news.ycombinator.com/item?id=30188681</id>
-        <link href="https://news.ycombinator.com/item?id=30188681"/>
-        <updated>2022-02-03T04:28:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Download Twitter data without API keys]]></summary>
-        <author>
-            <name>chr15m</name>
-            <uri>https://news.ycombinator.com/user?id=chr15m</uri>
         </author>
     </entry>
 </feed>
