@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-23T20:35:14.144Z</updated>
+    <updated>2022-02-23T21:13:55.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[让人们预览你的 Discord 社区的最佳部分]]></title>
+        <id>https://news.ycombinator.com/item?id=30446363</id>
+        <link href="https://news.ycombinator.com/item?id=30446363"/>
+        <updated>2022-02-23T20:58:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Let people preview the best parts of your Discord community]]></summary>
+        <author>
+            <name>mitchellbryson</name>
+            <uri>https://news.ycombinator.com/user?id=mitchellbryson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在浏览器中创建你自己的DIY艺术视频]]></title>
         <id>https://news.ycombinator.com/item?id=30445844</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sidiropo</name>
             <uri>https://news.ycombinator.com/user?id=sidiropo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一个网站来寻找最好的新闻简报]]></title>
-        <id>https://news.ycombinator.com/item?id=30214187</id>
-        <link href="https://news.ycombinator.com/item?id=30214187"/>
-        <updated>2022-02-04T22:22:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a site to find the best newsletters]]></summary>
-        <author>
-            <name>quinto_quarto</name>
-            <uri>https://news.ycombinator.com/user?id=quinto_quarto</uri>
         </author>
     </entry>
 </feed>
