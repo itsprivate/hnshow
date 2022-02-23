@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-23T18:57:11.992Z</updated>
+    <updated>2022-02-23T19:13:52.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年远程工作的现状]]></title>
+        <id>https://news.ycombinator.com/item?id=30444814</id>
+        <link href="https://news.ycombinator.com/item?id=30444814"/>
+        <updated>2022-02-23T18:56:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The 2022 State of Remote Work]]></summary>
+        <author>
+            <name>pieterhg</name>
+            <uri>https://news.ycombinator.com/user?id=pieterhg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试你的照片的美感程度]]></title>
+        <id>https://news.ycombinator.com/item?id=30444235</id>
+        <link href="https://news.ycombinator.com/item?id=30444235"/>
+        <updated>2022-02-23T18:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Test how Aesthetic your Photo is]]></summary>
+        <author>
+            <name>spyder555</name>
+            <uri>https://news.ycombinator.com/user?id=spyder555</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript中大量的统计分布]]></title>
         <id>https://news.ycombinator.com/item?id=30444649</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>nileshtrivedi</name>
             <uri>https://news.ycombinator.com/user?id=nileshtrivedi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一分钱换取你的想法]]></title>
-        <id>https://news.ycombinator.com/item?id=30208558</id>
-        <link href="https://news.ycombinator.com/item?id=30208558"/>
-        <updated>2022-02-04T16:04:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Penny for Your Thoughts]]></summary>
-        <author>
-            <name>shlosky</name>
-            <uri>https://news.ycombinator.com/user?id=shlosky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Showcqt-JS上的WebAssembly SIMD基准测试]]></title>
-        <id>https://news.ycombinator.com/item?id=30207952</id>
-        <link href="https://news.ycombinator.com/item?id=30207952"/>
-        <updated>2022-02-04T15:26:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WebAssembly SIMD benchmark on showcqt-JS]]></summary>
-        <author>
-            <name>mfcc64</name>
-            <uri>https://news.ycombinator.com/user?id=mfcc64</uri>
         </author>
     </entry>
 </feed>

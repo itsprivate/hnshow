@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Feb 2022 18:57:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 19:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[2022年远程工作的现状]]></title>
+            <link>https://news.ycombinator.com/item?id=30444814</link>
+            <guid>https://news.ycombinator.com/item?id=30444814</guid>
+            <pubDate>Wed, 23 Feb 2022 18:56:52 GMT</pubDate>
+            <description><![CDATA[Show HN: The 2022 State of Remote Work]]></description>
+        </item>
+        <item>
+            <title><![CDATA[测试你的照片的美感程度]]></title>
+            <link>https://news.ycombinator.com/item?id=30444235</link>
+            <guid>https://news.ycombinator.com/item?id=30444235</guid>
+            <pubDate>Wed, 23 Feb 2022 18:08:30 GMT</pubDate>
+            <description><![CDATA[Show HN: Test how Aesthetic your Photo is]]></description>
+        </item>
         <item>
             <title><![CDATA[JavaScript中大量的统计分布]]></title>
             <link>https://news.ycombinator.com/item?id=30444649</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30208667</guid>
             <pubDate>Fri, 04 Feb 2022 16:11:57 GMT</pubDate>
             <description><![CDATA[Show HN: DevToolbox – Development utilities as a cross-platform desktop app]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一分钱换取你的想法]]></title>
-            <link>https://news.ycombinator.com/item?id=30208558</link>
-            <guid>https://news.ycombinator.com/item?id=30208558</guid>
-            <pubDate>Fri, 04 Feb 2022 16:04:41 GMT</pubDate>
-            <description><![CDATA[Show HN: A Penny for Your Thoughts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Showcqt-JS上的WebAssembly SIMD基准测试]]></title>
-            <link>https://news.ycombinator.com/item?id=30207952</link>
-            <guid>https://news.ycombinator.com/item?id=30207952</guid>
-            <pubDate>Fri, 04 Feb 2022 15:26:21 GMT</pubDate>
-            <description><![CDATA[Show HN: WebAssembly SIMD benchmark on showcqt-JS]]></description>
         </item>
     </channel>
 </rss>
