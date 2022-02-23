@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-23T21:53:33.904Z</updated>
+    <updated>2022-02-23T22:33:24.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個2D/3D數字資產管理應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30447334</id>
+        <link href="https://news.ycombinator.com/item?id=30447334"/>
+        <updated>2022-02-23T22:18:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a 2D/3D digital asset management application]]></summary>
+        <author>
+            <name>ju2pom</name>
+            <uri>https://news.ycombinator.com/user?id=ju2pom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我設計並建造了一輛電動自行車]]></title>
         <id>https://news.ycombinator.com/item?id=30446960</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pankajtanwar</name>
             <uri>https://news.ycombinator.com/user?id=pankajtanwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因用藥過量而死亡的名人]]></title>
-        <id>https://news.ycombinator.com/item?id=30216832</id>
-        <link href="https://news.ycombinator.com/item?id=30216832"/>
-        <updated>2022-02-05T03:24:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Famous people who have died by overdose]]></summary>
-        <author>
-            <name>nefitty</name>
-            <uri>https://news.ycombinator.com/user?id=nefitty</uri>
         </author>
     </entry>
 </feed>
