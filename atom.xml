@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-23T19:40:18.920Z</updated>
+    <updated>2022-02-23T19:53:24.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个免费的电子邮件营销工具，供创作者向其社区发送电子邮件]]></title>
+        <id>https://news.ycombinator.com/item?id=30445352</id>
+        <link href="https://news.ycombinator.com/item?id=30445352"/>
+        <updated>2022-02-23T19:41:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A free email marketing tool for creators to email their community]]></summary>
+        <author>
+            <name>adampetty</name>
+            <uri>https://news.ycombinator.com/user?id=adampetty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React-creme - 一个轻量级的UI工具包/组件库，适用于react。]]></title>
         <id>https://news.ycombinator.com/item?id=30445262</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tobilg</name>
             <uri>https://news.ycombinator.com/user?id=tobilg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Figma内部生成20多个品牌资产模板]]></title>
-        <id>https://news.ycombinator.com/item?id=30211651</id>
-        <link href="https://news.ycombinator.com/item?id=30211651"/>
-        <updated>2022-02-04T19:24:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Generate 20+ brand asset templates inside Figma]]></summary>
-        <author>
-            <name>sagarramesh</name>
-            <uri>https://news.ycombinator.com/user?id=sagarramesh</uri>
         </author>
     </entry>
 </feed>

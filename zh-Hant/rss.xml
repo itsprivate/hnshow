@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Feb 2022 19:40:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 19:53:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個免費的電子郵件營銷工具，供創作者向其社區發送電子郵件]]></title>
+            <link>https://news.ycombinator.com/item?id=30445352</link>
+            <guid>https://news.ycombinator.com/item?id=30445352</guid>
+            <pubDate>Wed, 23 Feb 2022 19:41:11 GMT</pubDate>
+            <description><![CDATA[Show HN: A free email marketing tool for creators to email their community]]></description>
+        </item>
         <item>
             <title><![CDATA[React-creme - 一個輕量級的UI工具包/組件庫，適用於react。]]></title>
             <link>https://news.ycombinator.com/item?id=30445262</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30211991</guid>
             <pubDate>Fri, 04 Feb 2022 19:49:27 GMT</pubDate>
             <description><![CDATA[Show HN: Map the Cloud – Public Cloud infrastructure and services]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Figma內部生成20多個品牌資產模板]]></title>
-            <link>https://news.ycombinator.com/item?id=30211651</link>
-            <guid>https://news.ycombinator.com/item?id=30211651</guid>
-            <pubDate>Fri, 04 Feb 2022 19:24:40 GMT</pubDate>
-            <description><![CDATA[Show HN: Generate 20+ brand asset templates inside Figma]]></description>
         </item>
     </channel>
 </rss>
