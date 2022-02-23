@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-23T10:14:19.405Z</updated>
+    <updated>2022-02-23T10:37:20.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Scholars.io - 共同阅读、注释和评论研究论文]]></title>
+        <id>https://news.ycombinator.com/item?id=30439669</id>
+        <link href="https://news.ycombinator.com/item?id=30439669"/>
+        <updated>2022-02-23T10:25:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Scholars.io – Read, annotate and comment on research papers together]]></summary>
+        <author>
+            <name>sideproject</name>
+            <uri>https://news.ycombinator.com/user?id=sideproject</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用WorthTracker跟踪和分析你的净资产]]></title>
         <id>https://news.ycombinator.com/item?id=30439527</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>chr15m</name>
             <uri>https://news.ycombinator.com/user?id=chr15m</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fontite，一个用于小型和快速网站的图标字体优化工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30195587</id>
-        <link href="https://news.ycombinator.com/item?id=30195587"/>
-        <updated>2022-02-03T17:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fontite, an icon font optimization tool for smaller and faster websites]]></summary>
-        <author>
-            <name>antonok</name>
-            <uri>https://news.ycombinator.com/user?id=antonok</uri>
         </author>
     </entry>
 </feed>
