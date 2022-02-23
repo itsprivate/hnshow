@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Feb 2022 04:58:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 07:53:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个用于观察JSON数据的新项目的CLI工具]]></title>
+            <link>https://news.ycombinator.com/item?id=30438677</link>
+            <guid>https://news.ycombinator.com/item?id=30438677</guid>
+            <pubDate>Wed, 23 Feb 2022 07:41:31 GMT</pubDate>
+            <description><![CDATA[Show HN: A CLI tool for watching JSON data for new items]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我在Rust中做了一个任意精度的单位感知计算器]]></title>
+            <link>https://news.ycombinator.com/item?id=30438646</link>
+            <guid>https://news.ycombinator.com/item?id=30438646</guid>
+            <pubDate>Wed, 23 Feb 2022 07:34:55 GMT</pubDate>
+            <description><![CDATA[Show HN: I made an arbitrary-precision unit-aware calculator in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[使用增强现实技术与机器人互动（增强机器人性）。]]></title>
             <link>https://news.ycombinator.com/item?id=30437806</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30195361</guid>
             <pubDate>Thu, 03 Feb 2022 17:21:05 GMT</pubDate>
             <description><![CDATA[Show HN: I created a Feedback tool for Newsletters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[上传和分享CSV文件作为可查询的SQL表]]></title>
-            <link>https://news.ycombinator.com/item?id=30195082</link>
-            <guid>https://news.ycombinator.com/item?id=30195082</guid>
-            <pubDate>Thu, 03 Feb 2022 17:05:34 GMT</pubDate>
-            <description><![CDATA[Show HN: Upload and share CSV files as queryable SQL tables]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通过自动删除静音，更快地编辑视频]]></title>
-            <link>https://news.ycombinator.com/item?id=30194440</link>
-            <guid>https://news.ycombinator.com/item?id=30194440</guid>
-            <pubDate>Thu, 03 Feb 2022 16:25:48 GMT</pubDate>
-            <description><![CDATA[Show HN: Edit videos faster by automatically removing silences]]></description>
         </item>
     </channel>
 </rss>

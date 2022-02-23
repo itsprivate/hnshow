@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-23T04:58:47.228Z</updated>
+    <updated>2022-02-23T07:53:18.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个用于观察JSON数据的新项目的CLI工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30438677</id>
+        <link href="https://news.ycombinator.com/item?id=30438677"/>
+        <updated>2022-02-23T07:41:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A CLI tool for watching JSON data for new items]]></summary>
+        <author>
+            <name>rane</name>
+            <uri>https://news.ycombinator.com/user?id=rane</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在Rust中做了一个任意精度的单位感知计算器]]></title>
+        <id>https://news.ycombinator.com/item?id=30438646</id>
+        <link href="https://news.ycombinator.com/item?id=30438646"/>
+        <updated>2022-02-23T07:34:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an arbitrary-precision unit-aware calculator in Rust]]></summary>
+        <author>
+            <name>printfn__</name>
+            <uri>https://news.ycombinator.com/user?id=printfn__</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用增强现实技术与机器人互动（增强机器人性）。]]></title>
         <id>https://news.ycombinator.com/item?id=30437806</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>caiorolla</name>
             <uri>https://news.ycombinator.com/user?id=caiorolla</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上传和分享CSV文件作为可查询的SQL表]]></title>
-        <id>https://news.ycombinator.com/item?id=30195082</id>
-        <link href="https://news.ycombinator.com/item?id=30195082"/>
-        <updated>2022-02-03T17:05:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Upload and share CSV files as queryable SQL tables]]></summary>
-        <author>
-            <name>chatmasta</name>
-            <uri>https://news.ycombinator.com/user?id=chatmasta</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过自动删除静音，更快地编辑视频]]></title>
-        <id>https://news.ycombinator.com/item?id=30194440</id>
-        <link href="https://news.ycombinator.com/item?id=30194440"/>
-        <updated>2022-02-03T16:25:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Edit videos faster by automatically removing silences]]></summary>
-        <author>
-            <name>shahahmed</name>
-            <uri>https://news.ycombinator.com/user?id=shahahmed</uri>
         </author>
     </entry>
 </feed>
