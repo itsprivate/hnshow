@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Feb 2022 14:14:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 14:54:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[常用數據集的Rubick、數據API和搜索API]]></title>
+            <link>https://news.ycombinator.com/item?id=30441440</link>
+            <guid>https://news.ycombinator.com/item?id=30441440</guid>
+            <pubDate>Wed, 23 Feb 2022 14:40:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Rubick, Data API and Search API for commonly used datasets]]></description>
+        </item>
         <item>
             <title><![CDATA[Terality, pandas在Spark的規模和速度上的單行代碼]]></title>
             <link>https://news.ycombinator.com/item?id=30441013</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30201415</guid>
             <pubDate>Fri, 04 Feb 2022 01:01:09 GMT</pubDate>
             <description><![CDATA[Show HN: Just Some Burds]]></description>
-        </item>
-        <item>
-            <title><![CDATA[剛剛推出的Neuralcanvas。利用人工智能將你的照片變成牆面藝術]]></title>
-            <link>https://news.ycombinator.com/item?id=30200408</link>
-            <guid>https://news.ycombinator.com/item?id=30200408</guid>
-            <pubDate>Thu, 03 Feb 2022 23:15:27 GMT</pubDate>
-            <description><![CDATA[Show HN: Just launched Neuralcanvas: Turn your photo into Wall-Art using AI]]></description>
         </item>
     </channel>
 </rss>

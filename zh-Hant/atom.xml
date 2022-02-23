@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-23T14:14:11.543Z</updated>
+    <updated>2022-02-23T14:54:42.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[常用數據集的Rubick、數據API和搜索API]]></title>
+        <id>https://news.ycombinator.com/item?id=30441440</id>
+        <link href="https://news.ycombinator.com/item?id=30441440"/>
+        <updated>2022-02-23T14:40:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Rubick, Data API and Search API for commonly used datasets]]></summary>
+        <author>
+            <name>joshxyz</name>
+            <uri>https://news.ycombinator.com/user?id=joshxyz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terality, pandas在Spark的規模和速度上的單行代碼]]></title>
         <id>https://news.ycombinator.com/item?id=30441013</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>thesephist</name>
             <uri>https://news.ycombinator.com/user?id=thesephist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[剛剛推出的Neuralcanvas。利用人工智能將你的照片變成牆面藝術]]></title>
-        <id>https://news.ycombinator.com/item?id=30200408</id>
-        <link href="https://news.ycombinator.com/item?id=30200408"/>
-        <updated>2022-02-03T23:15:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Just launched Neuralcanvas: Turn your photo into Wall-Art using AI]]></summary>
-        <author>
-            <name>TeeWEE</name>
-            <uri>https://news.ycombinator.com/user?id=TeeWEE</uri>
         </author>
     </entry>
 </feed>
