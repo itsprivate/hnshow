@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Feb 2022 03:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 04:58:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用增强现实技术与机器人互动（增强机器人性）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30437806</link>
+            <guid>https://news.ycombinator.com/item?id=30437806</guid>
+            <pubDate>Wed, 23 Feb 2022 04:53:39 GMT</pubDate>
+            <description><![CDATA[Show HN: Interacting with Robots Using Augmented Reality (Augmented Robotality)]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一个记录RGBD视频的iOS应用和一个播放视频的web应用]]></title>
             <link>https://news.ycombinator.com/item?id=30437257</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30194440</guid>
             <pubDate>Thu, 03 Feb 2022 16:25:48 GMT</pubDate>
             <description><![CDATA[Show HN: Edit videos faster by automatically removing silences]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个小的数字电路模拟器，在PNG上操作]]></title>
-            <link>https://news.ycombinator.com/item?id=30193997</link>
-            <guid>https://news.ycombinator.com/item?id=30193997</guid>
-            <pubDate>Thu, 03 Feb 2022 15:55:45 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a little digital circuit simulator that operates on PNGs]]></description>
         </item>
     </channel>
 </rss>
