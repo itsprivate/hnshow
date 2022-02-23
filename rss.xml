@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Feb 2022 20:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 20:35:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在浏览器中创建你自己的DIY艺术视频]]></title>
+            <link>https://news.ycombinator.com/item?id=30445844</link>
+            <guid>https://news.ycombinator.com/item?id=30445844</guid>
+            <pubDate>Wed, 23 Feb 2022 20:18:20 GMT</pubDate>
+            <description><![CDATA[Show HN: Create your own DIY art videos in the browser]]></description>
+        </item>
         <item>
             <title><![CDATA[Codebraid Preview for VS Code: 潘多克预览版与Jupyter内核]]></title>
             <link>https://news.ycombinator.com/item?id=30445549</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30214187</guid>
             <pubDate>Fri, 04 Feb 2022 22:22:30 GMT</pubDate>
             <description><![CDATA[Show HN: I built a site to find the best newsletters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Angularis - 像俄罗斯方块，但基于三角形]]></title>
-            <link>https://news.ycombinator.com/item?id=30213972</link>
-            <guid>https://news.ycombinator.com/item?id=30213972</guid>
-            <pubDate>Fri, 04 Feb 2022 22:04:29 GMT</pubDate>
-            <description><![CDATA[Show HN: Angularis – like Tetris, but based on triangles]]></description>
         </item>
     </channel>
 </rss>
