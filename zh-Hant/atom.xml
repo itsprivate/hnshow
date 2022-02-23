@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-23T13:37:05.822Z</updated>
+    <updated>2022-02-23T13:52:49.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[把你的推文/話題變成博客和RSS提要]]></title>
+        <id>https://news.ycombinator.com/item?id=30440835</id>
+        <link href="https://news.ycombinator.com/item?id=30440835"/>
+        <updated>2022-02-23T13:42:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Turn your tweets/threads into a blog and RSS feed]]></summary>
+        <author>
+            <name>linuz90</name>
+            <uri>https://news.ycombinator.com/user?id=linuz90</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simula One - 便攜式Linux VR計算機]]></title>
+        <id>https://news.ycombinator.com/item?id=30440828</id>
+        <link href="https://news.ycombinator.com/item?id=30440828"/>
+        <updated>2022-02-23T13:42:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Simula One – Portable Linux VR Computer]]></summary>
+        <author>
+            <name>georgewsinger</name>
+            <uri>https://news.ycombinator.com/user?id=georgewsinger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pipy - 用於雲、邊緣和物聯網的可編程網絡代理]]></title>
         <id>https://news.ycombinator.com/item?id=30439995</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>TeeWEE</name>
             <uri>https://news.ycombinator.com/user?id=TeeWEE</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支持sixel圖像的Java TUI框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30200056</id>
-        <link href="https://news.ycombinator.com/item?id=30200056"/>
-        <updated>2022-02-03T22:40:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Java TUI framework with sixel image support]]></summary>
-        <author>
-            <name>AutumnMeowMeow</name>
-            <uri>https://news.ycombinator.com/user?id=AutumnMeowMeow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我開發了一個網站來尋找與我孩子最喜歡的書相似的書籍]]></title>
-        <id>https://news.ycombinator.com/item?id=30198351</id>
-        <link href="https://news.ycombinator.com/item?id=30198351"/>
-        <updated>2022-02-03T20:29:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I developed a website to find books similar to my kid's favorite]]></summary>
-        <author>
-            <name>codemonky</name>
-            <uri>https://news.ycombinator.com/user?id=codemonky</uri>
         </author>
     </entry>
 </feed>
