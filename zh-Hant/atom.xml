@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-23T13:20:22.136Z</updated>
+    <updated>2022-02-23T13:37:05.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Pipy - 用於雲、邊緣和物聯網的可編程網絡代理]]></title>
+        <id>https://news.ycombinator.com/item?id=30439995</id>
+        <link href="https://news.ycombinator.com/item?id=30439995"/>
+        <updated>2022-02-23T11:28:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pipy – A Programmable network proxy for cloud, edge, and IoT]]></summary>
+        <author>
+            <name>shaderx13</name>
+            <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[寫論文最愉快的桌面應用]]></title>
         <id>https://news.ycombinator.com/item?id=30440527</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>codemonky</name>
             <uri>https://news.ycombinator.com/user?id=codemonky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Kolmogrov複雜度而不是行數來衡量代碼]]></title>
-        <id>https://news.ycombinator.com/item?id=30198514</id>
-        <link href="https://news.ycombinator.com/item?id=30198514"/>
-        <updated>2022-02-03T20:42:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Measure code by Kolmogrov complexity, not lines]]></summary>
-        <author>
-            <name>fallat</name>
-            <uri>https://news.ycombinator.com/user?id=fallat</uri>
         </author>
     </entry>
 </feed>

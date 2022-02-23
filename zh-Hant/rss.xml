@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Feb 2022 13:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 13:37:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Pipy - 用於雲、邊緣和物聯網的可編程網絡代理]]></title>
+            <link>https://news.ycombinator.com/item?id=30439995</link>
+            <guid>https://news.ycombinator.com/item?id=30439995</guid>
+            <pubDate>Wed, 23 Feb 2022 11:28:33 GMT</pubDate>
+            <description><![CDATA[Show HN: Pipy – A Programmable network proxy for cloud, edge, and IoT]]></description>
+        </item>
         <item>
             <title><![CDATA[寫論文最愉快的桌面應用]]></title>
             <link>https://news.ycombinator.com/item?id=30440527</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30198351</guid>
             <pubDate>Thu, 03 Feb 2022 20:29:41 GMT</pubDate>
             <description><![CDATA[Show HN: I developed a website to find books similar to my kid's favorite]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Kolmogrov複雜度而不是行數來衡量代碼]]></title>
-            <link>https://news.ycombinator.com/item?id=30198514</link>
-            <guid>https://news.ycombinator.com/item?id=30198514</guid>
-            <pubDate>Thu, 03 Feb 2022 20:42:01 GMT</pubDate>
-            <description><![CDATA[Show HN: Measure code by Kolmogrov complexity, not lines]]></description>
         </item>
     </channel>
 </rss>
