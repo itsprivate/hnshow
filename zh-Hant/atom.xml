@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T09:54:19.124Z</updated>
+    <updated>2022-02-24T10:14:20.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Acme客戶--流行的Acme客戶的明確列表]]></title>
+        <id>https://news.ycombinator.com/item?id=30452904</id>
+        <link href="https://news.ycombinator.com/item?id=30452904"/>
+        <updated>2022-02-24T09:56:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Acme Clients – a definitive list of popular acme clients]]></summary>
+        <author>
+            <name>webprofusion</name>
+            <uri>https://news.ycombinator.com/user?id=webprofusion</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Launcher - 一個建立在Sveltekit上的開源應用啟動器]]></title>
         <id>https://news.ycombinator.com/item?id=30452810</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gieksosz</name>
             <uri>https://news.ycombinator.com/user?id=gieksosz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神經網絡無限循環模擬的熔岩燈]]></title>
-        <id>https://news.ycombinator.com/item?id=30222243</id>
-        <link href="https://news.ycombinator.com/item?id=30222243"/>
-        <updated>2022-02-05T15:52:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lava lamp simulated by neural net in infinite loop]]></summary>
-        <author>
-            <name>muxamilian</name>
-            <uri>https://news.ycombinator.com/user?id=muxamilian</uri>
         </author>
     </entry>
 </feed>
