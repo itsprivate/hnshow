@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 24 Feb 2022 21:54:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 22:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Loop_tool.js演示，一個用於線性代數（和ML）的JIT WASM編譯器]]></title>
+            <link>https://news.ycombinator.com/item?id=30460883</link>
+            <guid>https://news.ycombinator.com/item?id=30460883</guid>
+            <pubDate>Thu, 24 Feb 2022 22:00:40 GMT</pubDate>
+            <description><![CDATA[Show HN: Loop_tool.js demo, a JIT WASM compiler for linear algebra (and ML)]]></description>
+        </item>
         <item>
             <title><![CDATA[與你的網站訪客現場交談]]></title>
             <link>https://news.ycombinator.com/item?id=30460707</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30235108</guid>
             <pubDate>Sun, 06 Feb 2022 18:06:36 GMT</pubDate>
             <description><![CDATA[Show HN: Kube-green, K8s operator to reduce CO2 footprint of your clusters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TalkingTree - 一個用於創意寫作的Web3遊戲]]></title>
-            <link>https://news.ycombinator.com/item?id=30234491</link>
-            <guid>https://news.ycombinator.com/item?id=30234491</guid>
-            <pubDate>Sun, 06 Feb 2022 17:15:48 GMT</pubDate>
-            <description><![CDATA[Show HN: TalkingTree – A Web3 game for creative writing]]></description>
         </item>
     </channel>
 </rss>
