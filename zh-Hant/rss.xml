@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 24 Feb 2022 17:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 17:52:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[vimmer.io是一個具有真正嵌入式編輯器的Vim互動課程]]></title>
+            <link>https://news.ycombinator.com/item?id=30457788</link>
+            <guid>https://news.ycombinator.com/item?id=30457788</guid>
+            <pubDate>Thu, 24 Feb 2022 17:46:14 GMT</pubDate>
+            <description><![CDATA[Show HN: vimmer.io is an interactive course for Vim with a real embedded editor]]></description>
+        </item>
         <item>
             <title><![CDATA[我建立了一個網站，顯示活躍的GitHub分叉]]></title>
             <link>https://news.ycombinator.com/item?id=30457057</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30231551</guid>
             <pubDate>Sun, 06 Feb 2022 11:29:56 GMT</pubDate>
             <description><![CDATA[Show HN: Reincarnation of Tetris [iOS]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pintora - 一個在瀏覽器和Node.js中工作的圖表即文本庫]]></title>
-            <link>https://news.ycombinator.com/item?id=30230179</link>
-            <guid>https://news.ycombinator.com/item?id=30230179</guid>
-            <pubDate>Sun, 06 Feb 2022 07:10:01 GMT</pubDate>
-            <description><![CDATA[Show HN: Pintora – a diagram-as-text library that works in browser and Node.js]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T17:22:50.737Z</updated>
+    <updated>2022-02-24T17:52:44.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[vimmer.io是一個具有真正嵌入式編輯器的Vim互動課程]]></title>
+        <id>https://news.ycombinator.com/item?id=30457788</id>
+        <link href="https://news.ycombinator.com/item?id=30457788"/>
+        <updated>2022-02-24T17:46:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: vimmer.io is an interactive course for Vim with a real embedded editor]]></summary>
+        <author>
+            <name>joechrisellis</name>
+            <uri>https://news.ycombinator.com/user?id=joechrisellis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一個網站，顯示活躍的GitHub分叉]]></title>
         <id>https://news.ycombinator.com/item?id=30457057</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>erhosen</name>
             <uri>https://news.ycombinator.com/user?id=erhosen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pintora - 一個在瀏覽器和Node.js中工作的圖表即文本庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30230179</id>
-        <link href="https://news.ycombinator.com/item?id=30230179"/>
-        <updated>2022-02-06T07:10:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pintora – a diagram-as-text library that works in browser and Node.js]]></summary>
-        <author>
-            <name>hikerpig</name>
-            <uri>https://news.ycombinator.com/user?id=hikerpig</uri>
         </author>
     </entry>
 </feed>
