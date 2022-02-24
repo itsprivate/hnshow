@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T11:13:36.033Z</updated>
+    <updated>2022-02-24T12:54:15.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lokapp，一個面向移動團隊的開源翻譯管理器]]></title>
+        <id>https://news.ycombinator.com/item?id=30453898</id>
+        <link href="https://news.ycombinator.com/item?id=30453898"/>
+        <updated>2022-02-24T12:29:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lokapp, an open-source translations manager for mobile teams]]></summary>
+        <author>
+            <name>edouardouvrard</name>
+            <uri>https://news.ycombinator.com/user?id=edouardouvrard</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parsers VC - 風險投資數據提供商]]></title>
+        <id>https://news.ycombinator.com/item?id=30453811</id>
+        <link href="https://news.ycombinator.com/item?id=30453811"/>
+        <updated>2022-02-24T12:15:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Parsers VC – Venture Capital data provider]]></summary>
+        <author>
+            <name>loeona</name>
+            <uri>https://news.ycombinator.com/user?id=loeona</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[具有CSV導入功能的情緒跟蹤器，可以重新使用你可能擁有的現有數據]]></title>
         <id>https://news.ycombinator.com/item?id=30453275</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Simorgh</name>
             <uri>https://news.ycombinator.com/user?id=Simorgh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重新想象的作曲導航--安卓的開源庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30223186</id>
-        <link href="https://news.ycombinator.com/item?id=30223186"/>
-        <updated>2022-02-05T17:10:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Compose Navigation Reimagined – open-source library for Android]]></summary>
-        <author>
-            <name>olshevski</name>
-            <uri>https://news.ycombinator.com/user?id=olshevski</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個新時代的尼古丁公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30223019</id>
-        <link href="https://news.ycombinator.com/item?id=30223019"/>
-        <updated>2022-02-05T16:56:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A new-age nicotine company]]></summary>
-        <author>
-            <name>yasinm</name>
-            <uri>https://news.ycombinator.com/user?id=yasinm</uri>
         </author>
     </entry>
 </feed>
