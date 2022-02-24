@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T22:14:20.586Z</updated>
+    <updated>2022-02-24T22:36:31.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基洛夫飞艇。反对精神统治的新武器]]></title>
+        <id>https://news.ycombinator.com/item?id=30461172</id>
+        <link href="https://news.ycombinator.com/item?id=30461172"/>
+        <updated>2022-02-24T22:25:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Kirov Airship: New weapon against psychic domination]]></summary>
+        <author>
+            <name>lostmsu</name>
+            <uri>https://news.ycombinator.com/user?id=lostmsu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个ETF和股票筛选器]]></title>
+        <id>https://news.ycombinator.com/item?id=30461014</id>
+        <link href="https://news.ycombinator.com/item?id=30461014"/>
+        <updated>2022-02-24T22:13:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an ETF and stocks screener]]></summary>
+        <author>
+            <name>gmzi</name>
+            <uri>https://news.ycombinator.com/user?id=gmzi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Loop_tool.js演示，一个用于线性代数（和ML）的JIT WASM编译器]]></title>
         <id>https://news.ycombinator.com/item?id=30460883</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ajeetdsouza</name>
             <uri>https://news.ycombinator.com/user?id=ajeetdsouza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BBC航运预测的EBNF规范]]></title>
-        <id>https://news.ycombinator.com/item?id=30236630</id>
-        <link href="https://news.ycombinator.com/item?id=30236630"/>
-        <updated>2022-02-06T20:24:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: EBNF Specification of the BBC Shipping Forecast]]></summary>
-        <author>
-            <name>jamespwilliams</name>
-            <uri>https://news.ycombinator.com/user?id=jamespwilliams</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kube-green，K8s运营商，减少集群的二氧化碳足迹]]></title>
-        <id>https://news.ycombinator.com/item?id=30235108</id>
-        <link href="https://news.ycombinator.com/item?id=30235108"/>
-        <updated>2022-02-06T18:06:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Kube-green, K8s operator to reduce CO2 footprint of your clusters]]></summary>
-        <author>
-            <name>davidebianchi</name>
-            <uri>https://news.ycombinator.com/user?id=davidebianchi</uri>
         </author>
     </entry>
 </feed>

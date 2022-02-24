@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 24 Feb 2022 22:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 22:36:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[基洛夫飛艇。反對精神統治的新武器]]></title>
+            <link>https://news.ycombinator.com/item?id=30461172</link>
+            <guid>https://news.ycombinator.com/item?id=30461172</guid>
+            <pubDate>Thu, 24 Feb 2022 22:25:38 GMT</pubDate>
+            <description><![CDATA[Show HN: Kirov Airship: New weapon against psychic domination]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我做了一個ETF和股票篩選器]]></title>
+            <link>https://news.ycombinator.com/item?id=30461014</link>
+            <guid>https://news.ycombinator.com/item?id=30461014</guid>
+            <pubDate>Thu, 24 Feb 2022 22:13:13 GMT</pubDate>
+            <description><![CDATA[Show HN: I made an ETF and stocks screener]]></description>
+        </item>
         <item>
             <title><![CDATA[Loop_tool.js演示，一個用於線性代數（和ML）的JIT WASM編譯器]]></title>
             <link>https://news.ycombinator.com/item?id=30460883</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30236726</guid>
             <pubDate>Sun, 06 Feb 2022 20:37:23 GMT</pubDate>
             <description><![CDATA[Show HN: Play Wordle over SSH]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BBC航運預測的EBNF規範]]></title>
-            <link>https://news.ycombinator.com/item?id=30236630</link>
-            <guid>https://news.ycombinator.com/item?id=30236630</guid>
-            <pubDate>Sun, 06 Feb 2022 20:24:56 GMT</pubDate>
-            <description><![CDATA[Show HN: EBNF Specification of the BBC Shipping Forecast]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Kube-green，K8s運營商，減少集群的二氧化碳足跡]]></title>
-            <link>https://news.ycombinator.com/item?id=30235108</link>
-            <guid>https://news.ycombinator.com/item?id=30235108</guid>
-            <pubDate>Sun, 06 Feb 2022 18:06:36 GMT</pubDate>
-            <description><![CDATA[Show HN: Kube-green, K8s operator to reduce CO2 footprint of your clusters]]></description>
         </item>
     </channel>
 </rss>
