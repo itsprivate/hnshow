@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T14:54:08.135Z</updated>
+    <updated>2022-02-24T15:15:06.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Replit编码--免费的Python电子书]]></title>
+        <id>https://news.ycombinator.com/item?id=30455572</id>
+        <link href="https://news.ycombinator.com/item?id=30455572"/>
+        <updated>2022-02-24T15:07:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Code with Replit - free Python ebook]]></summary>
+        <author>
+            <name>sixhobbits</name>
+            <uri>https://news.ycombinator.com/user?id=sixhobbits</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[派对拼图：用于特殊场合的主题拼图套装]]></title>
+        <id>https://news.ycombinator.com/item?id=30455494</id>
+        <link href="https://news.ycombinator.com/item?id=30455494"/>
+        <updated>2022-02-24T15:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Party Puzzling: themed puzzle sets for special occasions]]></summary>
+        <author>
+            <name>jstanley</name>
+            <uri>https://news.ycombinator.com/user?id=jstanley</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Whodle，一个受Wordle启发的每日名人猜测游戏]]></title>
         <id>https://news.ycombinator.com/item?id=30455184</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ybouane</name>
             <uri>https://news.ycombinator.com/user?id=ybouane</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shaple - 形状旋转游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=30226545</id>
-        <link href="https://news.ycombinator.com/item?id=30226545"/>
-        <updated>2022-02-05T21:50:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Shaple – Shape Rotation Game]]></summary>
-        <author>
-            <name>raviparikh</name>
-            <uri>https://news.ycombinator.com/user?id=raviparikh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlockPaper - 在我的家庭办公室里的集中式、以纸为基础的区块链]]></title>
-        <id>https://news.ycombinator.com/item?id=30226301</id>
-        <link href="https://news.ycombinator.com/item?id=30226301"/>
-        <updated>2022-02-05T21:29:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: BlockPaper – Centralized, paper-backed blockchain in my home office]]></summary>
-        <author>
-            <name>mipmap04</name>
-            <uri>https://news.ycombinator.com/user?id=mipmap04</uri>
         </author>
     </entry>
 </feed>
