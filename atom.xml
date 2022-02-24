@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T19:57:15.083Z</updated>
+    <updated>2022-02-24T20:14:17.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我开发了安卓版的幻灯片制作软件]]></title>
+        <id>https://news.ycombinator.com/item?id=30459617</id>
+        <link href="https://news.ycombinator.com/item?id=30459617"/>
+        <updated>2022-02-24T20:09:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I developed slideshow maker app for Android]]></summary>
+        <author>
+            <name>Mabrar92</name>
+            <uri>https://news.ycombinator.com/user?id=Mabrar92</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打字-测试-期待，更文明时代的优雅打字法]]></title>
+        <id>https://news.ycombinator.com/item?id=30459463</id>
+        <link href="https://news.ycombinator.com/item?id=30459463"/>
+        <updated>2022-02-24T19:58:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Typed-jest-expect, elegant typings for a more civilized age]]></summary>
+        <author>
+            <name>elierotenberg</name>
+            <uri>https://news.ycombinator.com/user?id=elierotenberg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WhyProfiler - Jupyter笔记本的混合分析器（Python）。]]></title>
         <id>https://news.ycombinator.com/item?id=30459342</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>siruva07</name>
             <uri>https://news.ycombinator.com/user?id=siruva07</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浏览器扩展可显示YouTube评论的时间戳]]></title>
-        <id>https://news.ycombinator.com/item?id=30233585</id>
-        <link href="https://news.ycombinator.com/item?id=30233585"/>
-        <updated>2022-02-06T15:51:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Browser extension to show timestamps from YouTube comments]]></summary>
-        <author>
-            <name>ris58h</name>
-            <uri>https://news.ycombinator.com/user?id=ris58h</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFTs初学者指南[大纲和样本章节链接]]]></title>
-        <id>https://news.ycombinator.com/item?id=30232814</id>
-        <link href="https://news.ycombinator.com/item?id=30232814"/>
-        <updated>2022-02-06T14:34:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The Beginners Guide to NFTs [Outline and Link to Sample Chapter]]]></summary>
-        <author>
-            <name>SuDa2103</name>
-            <uri>https://news.ycombinator.com/user?id=SuDa2103</uri>
         </author>
     </entry>
 </feed>
