@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T15:35:53.730Z</updated>
+    <updated>2022-02-24T16:02:11.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[關於過去計算機廣告的通訊]]></title>
+        <id>https://news.ycombinator.com/item?id=30456154</id>
+        <link href="https://news.ycombinator.com/item?id=30456154"/>
+        <updated>2022-02-24T15:56:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Newsletter about Computer Ads from the Past]]></summary>
+        <author>
+            <name>johnblood</name>
+            <uri>https://news.ycombinator.com/user?id=johnblood</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WooCommerce插件，在添加到購物車時將用戶重定向到一個頁面或URL。]]></title>
         <id>https://news.ycombinator.com/item?id=30455746</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cyberpanther</name>
             <uri>https://news.ycombinator.com/user?id=cyberpanther</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[適用於Vue 3的 "按自己的方式構建 "標籤庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30227117</id>
-        <link href="https://news.ycombinator.com/item?id=30227117"/>
-        <updated>2022-02-05T22:49:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A 'build it your way' tabs library for Vue 3]]></summary>
-        <author>
-            <name>taphangum</name>
-            <uri>https://news.ycombinator.com/user?id=taphangum</uri>
         </author>
     </entry>
 </feed>

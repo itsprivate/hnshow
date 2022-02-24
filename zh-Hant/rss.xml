@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 24 Feb 2022 15:35:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 16:02:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[關於過去計算機廣告的通訊]]></title>
+            <link>https://news.ycombinator.com/item?id=30456154</link>
+            <guid>https://news.ycombinator.com/item?id=30456154</guid>
+            <pubDate>Thu, 24 Feb 2022 15:56:50 GMT</pubDate>
+            <description><![CDATA[Show HN: A Newsletter about Computer Ads from the Past]]></description>
+        </item>
         <item>
             <title><![CDATA[WooCommerce插件，在添加到購物車時將用戶重定向到一個頁面或URL。]]></title>
             <link>https://news.ycombinator.com/item?id=30455746</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30227279</guid>
             <pubDate>Sat, 05 Feb 2022 23:07:11 GMT</pubDate>
             <description><![CDATA[Show HN: Django Easy Logging]]></description>
-        </item>
-        <item>
-            <title><![CDATA[適用於Vue 3的 "按自己的方式構建 "標籤庫]]></title>
-            <link>https://news.ycombinator.com/item?id=30227117</link>
-            <guid>https://news.ycombinator.com/item?id=30227117</guid>
-            <pubDate>Sat, 05 Feb 2022 22:49:25 GMT</pubDate>
-            <description><![CDATA[Show HN: A 'build it your way' tabs library for Vue 3]]></description>
         </item>
     </channel>
 </rss>
