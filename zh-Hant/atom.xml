@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T22:36:31.344Z</updated>
+    <updated>2022-02-24T23:16:39.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Bazel混合Rust、C和編譯目標]]></title>
+        <id>https://news.ycombinator.com/item?id=30461574</id>
+        <link href="https://news.ycombinator.com/item?id=30461574"/>
+        <updated>2022-02-24T23:05:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mix Rust, C, and compilation targets with Bazel]]></summary>
+        <author>
+            <name>DriftRegion</name>
+            <uri>https://news.ycombinator.com/user?id=DriftRegion</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基洛夫飛艇。反對精神統治的新武器]]></title>
         <id>https://news.ycombinator.com/item?id=30461172</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lauriat</name>
             <uri>https://news.ycombinator.com/user?id=lauriat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過SSH播放Wordle]]></title>
-        <id>https://news.ycombinator.com/item?id=30236726</id>
-        <link href="https://news.ycombinator.com/item?id=30236726"/>
-        <updated>2022-02-06T20:37:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Play Wordle over SSH]]></summary>
-        <author>
-            <name>ajeetdsouza</name>
-            <uri>https://news.ycombinator.com/user?id=ajeetdsouza</uri>
         </author>
     </entry>
 </feed>
