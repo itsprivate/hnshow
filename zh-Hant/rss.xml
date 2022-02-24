@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 24 Feb 2022 13:51:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 14:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用30行Tidyverse代碼解決了一個體育統計問題]]></title>
+            <link>https://news.ycombinator.com/item?id=30454734</link>
+            <guid>https://news.ycombinator.com/item?id=30454734</guid>
+            <pubDate>Thu, 24 Feb 2022 14:01:14 GMT</pubDate>
+            <description><![CDATA[Show HN: A Sports Statistics Problem Solved in 30 Lines of Tidyverse Code]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Snipd - 人工智能播客播放器，用於突出顯示和記錄文字稿的內容]]></title>
+            <link>https://news.ycombinator.com/item?id=30454639</link>
+            <guid>https://news.ycombinator.com/item?id=30454639</guid>
+            <pubDate>Thu, 24 Feb 2022 13:52:46 GMT</pubDate>
+            <description><![CDATA[Show HN: Snipd – AI podcast player to highlight and take notes with transcripts]]></description>
+        </item>
         <item>
             <title><![CDATA[用快捷鍵寫出更快的電子郵件和回覆]]></title>
             <link>https://news.ycombinator.com/item?id=30454568</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30225461</guid>
             <pubDate>Sat, 05 Feb 2022 20:20:03 GMT</pubDate>
             <description><![CDATA[Show HN: A Better Kinesis Advantage? Glove80 Split Contoured Wireless Keyboard]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我終於在我的JavaScript畫布庫中加入了一個TS定義文件]]></title>
-            <link>https://news.ycombinator.com/item?id=30225227</link>
-            <guid>https://news.ycombinator.com/item?id=30225227</guid>
-            <pubDate>Sat, 05 Feb 2022 20:01:34 GMT</pubDate>
-            <description><![CDATA[Show HN: I finally added a TS definitions file to my JavaScript canvas library]]></description>
-        </item>
-        <item>
-            <title><![CDATA[發送代碼的速度提高10倍]]></title>
-            <link>https://news.ycombinator.com/item?id=30224026</link>
-            <guid>https://news.ycombinator.com/item?id=30224026</guid>
-            <pubDate>Sat, 05 Feb 2022 18:24:13 GMT</pubDate>
-            <description><![CDATA[Show HN: Ship Code 10x Faster]]></description>
         </item>
     </channel>
 </rss>
