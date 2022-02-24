@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T14:15:52.392Z</updated>
+    <updated>2022-02-24T14:33:01.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何使用流处理器Pipy创建一个网络代理]]></title>
+        <id>https://news.ycombinator.com/item?id=30455039</id>
+        <link href="https://news.ycombinator.com/item?id=30455039"/>
+        <updated>2022-02-24T14:24:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How to Create a Network Proxy Using Stream Processor Pipy]]></summary>
+        <author>
+            <name>flomesh_pipy</name>
+            <uri>https://news.ycombinator.com/user?id=flomesh_pipy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用30行Tidyverse代码解决了一个体育统计问题]]></title>
         <id>https://news.ycombinator.com/item?id=30454734</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>olek</name>
             <uri>https://news.ycombinator.com/user?id=olek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更好的Kinesis优势？Glove80分体式轮廓无线键盘]]></title>
-        <id>https://news.ycombinator.com/item?id=30225461</id>
-        <link href="https://news.ycombinator.com/item?id=30225461"/>
-        <updated>2022-02-05T20:20:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Better Kinesis Advantage? Glove80 Split Contoured Wireless Keyboard]]></summary>
-        <author>
-            <name>moergo</name>
-            <uri>https://news.ycombinator.com/user?id=moergo</uri>
         </author>
     </entry>
 </feed>
