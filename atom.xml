@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T12:54:15.339Z</updated>
+    <updated>2022-02-24T13:20:27.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DB Lens - 适用于Mac、Linux和Windows的OSS Postgres GUI|ERD, Insights]]></title>
+        <id>https://news.ycombinator.com/item?id=30454028</id>
+        <link href="https://news.ycombinator.com/item?id=30454028"/>
+        <updated>2022-02-24T12:48:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: DB Lens – OSS Postgres GUI for Mac, Linux and Windows|ERD, Insights]]></summary>
+        <author>
+            <name>soorajsanker</name>
+            <uri>https://news.ycombinator.com/user?id=soorajsanker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lokapp，一个面向移动团队的开源翻译管理器]]></title>
         <id>https://news.ycombinator.com/item?id=30453898</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jensneuse</name>
             <uri>https://news.ycombinator.com/user?id=jensneuse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpacecraftOS - 从火星土壤取样返回的开源项目]]></title>
-        <id>https://news.ycombinator.com/item?id=30223449</id>
-        <link href="https://news.ycombinator.com/item?id=30223449"/>
-        <updated>2022-02-05T17:32:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: SpacecraftOS – Open-source project to sample-return from Martian soil]]></summary>
-        <author>
-            <name>Simorgh</name>
-            <uri>https://news.ycombinator.com/user?id=Simorgh</uri>
         </author>
     </entry>
 </feed>
