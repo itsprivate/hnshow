@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 24 Feb 2022 02:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 02:58:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我已经建立了一个光栅器，可以直接渲染到终端上]]></title>
+            <link>https://news.ycombinator.com/item?id=30449603</link>
+            <guid>https://news.ycombinator.com/item?id=30449603</guid>
+            <pubDate>Thu, 24 Feb 2022 02:37:13 GMT</pubDate>
+            <description><![CDATA[Show HN: I've built a rasterizer that renders directly to the terminal]]></description>
+        </item>
         <item>
             <title><![CDATA[用于云、边缘和物联网的可编程网络代理]]></title>
             <link>https://news.ycombinator.com/item?id=30449536</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30221068</guid>
             <pubDate>Sat, 05 Feb 2022 14:05:10 GMT</pubDate>
             <description><![CDATA[Show HN: Turn CSVs into a PostgreSQL Endpoint or a REST API]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用于语法高亮的谷歌应用程序插件]]></title>
-            <link>https://news.ycombinator.com/item?id=30220919</link>
-            <guid>https://news.ycombinator.com/item?id=30220919</guid>
-            <pubDate>Sat, 05 Feb 2022 13:46:55 GMT</pubDate>
-            <description><![CDATA[Show HN: Google Apps add-on for syntax highlighting]]></description>
         </item>
     </channel>
 </rss>
