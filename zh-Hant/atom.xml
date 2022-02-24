@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T14:33:01.368Z</updated>
+    <updated>2022-02-24T14:54:08.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Whodle，一個受Wordle啟發的每日名人猜測遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30455184</id>
+        <link href="https://news.ycombinator.com/item?id=30455184"/>
+        <updated>2022-02-24T14:36:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Whodle, a daily celebrity guessing game inspired by Wordle]]></summary>
+        <author>
+            <name>planokay</name>
+            <uri>https://news.ycombinator.com/user?id=planokay</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何使用流處理器Pipy創建一個網絡代理]]></title>
         <id>https://news.ycombinator.com/item?id=30455039</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mipmap04</name>
             <uri>https://news.ycombinator.com/user?id=mipmap04</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以不分心的方式寫很多東西]]></title>
-        <id>https://news.ycombinator.com/item?id=30226198</id>
-        <link href="https://news.ycombinator.com/item?id=30226198"/>
-        <updated>2022-02-05T21:20:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Write on many things in distraction free way]]></summary>
-        <author>
-            <name>olek</name>
-            <uri>https://news.ycombinator.com/user?id=olek</uri>
         </author>
     </entry>
 </feed>
