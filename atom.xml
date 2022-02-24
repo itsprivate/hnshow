@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T16:17:25.899Z</updated>
+    <updated>2022-02-24T16:52:32.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Easylang演示--编程很有趣]]></title>
+        <id>https://news.ycombinator.com/item?id=30456703</id>
+        <link href="https://news.ycombinator.com/item?id=30456703"/>
+        <updated>2022-02-24T16:34:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Easylang Demo – Programming Is Fun]]></summary>
+        <author>
+            <name>chkas</name>
+            <uri>https://news.ycombinator.com/user?id=chkas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卫星自动监测乌克兰边境的俄罗斯军队]]></title>
+        <id>https://news.ycombinator.com/item?id=30456620</id>
+        <link href="https://news.ycombinator.com/item?id=30456620"/>
+        <updated>2022-02-24T16:28:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Automated Satellite Monitoring of Russian Troops on Ukrainian Border]]></summary>
+        <author>
+            <name>fudged71</name>
+            <uri>https://news.ycombinator.com/user?id=fudged71</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cheerp 2.7, C++ to JavaScript/WASM, PartialExecuter, Exceptions]]></title>
         <id>https://news.ycombinator.com/item?id=30456286</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>beniaminp</name>
             <uri>https://news.ycombinator.com/user?id=beniaminp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StumbleUpon启发的随机网站发现]]></title>
-        <id>https://news.ycombinator.com/item?id=30229236</id>
-        <link href="https://news.ycombinator.com/item?id=30229236"/>
-        <updated>2022-02-06T03:52:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: StumbleUpon inspired random website discovery]]></summary>
-        <author>
-            <name>fhaiosfhuasoif</name>
-            <uri>https://news.ycombinator.com/user?id=fhaiosfhuasoif</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python中的数控G和M代码解析器]]></title>
-        <id>https://news.ycombinator.com/item?id=30228606</id>
-        <link href="https://news.ycombinator.com/item?id=30228606"/>
-        <updated>2022-02-06T02:15:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CNC G and M Code Parser in Python]]></summary>
-        <author>
-            <name>mpcy-me</name>
-            <uri>https://news.ycombinator.com/user?id=mpcy-me</uri>
         </author>
     </entry>
 </feed>

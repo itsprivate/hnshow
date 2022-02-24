@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 24 Feb 2022 16:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 16:52:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Easylang演示--編程很有趣]]></title>
+            <link>https://news.ycombinator.com/item?id=30456703</link>
+            <guid>https://news.ycombinator.com/item?id=30456703</guid>
+            <pubDate>Thu, 24 Feb 2022 16:34:46 GMT</pubDate>
+            <description><![CDATA[Show HN: Easylang Demo – Programming Is Fun]]></description>
+        </item>
+        <item>
+            <title><![CDATA[衛星自動監測烏克蘭邊境的俄羅斯軍隊]]></title>
+            <link>https://news.ycombinator.com/item?id=30456620</link>
+            <guid>https://news.ycombinator.com/item?id=30456620</guid>
+            <pubDate>Thu, 24 Feb 2022 16:28:35 GMT</pubDate>
+            <description><![CDATA[Show HN: Automated Satellite Monitoring of Russian Troops on Ukrainian Border]]></description>
+        </item>
         <item>
             <title><![CDATA[Cheerp 2.7, C++ to JavaScript/WASM, PartialExecuter, Exceptions]]></title>
             <link>https://news.ycombinator.com/item?id=30456286</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30229884</guid>
             <pubDate>Sun, 06 Feb 2022 05:56:27 GMT</pubDate>
             <description><![CDATA[Show HN: Multiple Uptime Monitors, Built with Java and Angular]]></description>
-        </item>
-        <item>
-            <title><![CDATA[StumbleUpon啟發的隨機網站發現]]></title>
-            <link>https://news.ycombinator.com/item?id=30229236</link>
-            <guid>https://news.ycombinator.com/item?id=30229236</guid>
-            <pubDate>Sun, 06 Feb 2022 03:52:30 GMT</pubDate>
-            <description><![CDATA[Show HN: StumbleUpon inspired random website discovery]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Python中的數控G和M代碼解析器]]></title>
-            <link>https://news.ycombinator.com/item?id=30228606</link>
-            <guid>https://news.ycombinator.com/item?id=30228606</guid>
-            <pubDate>Sun, 06 Feb 2022 02:15:10 GMT</pubDate>
-            <description><![CDATA[Show HN: CNC G and M Code Parser in Python]]></description>
         </item>
     </channel>
 </rss>
