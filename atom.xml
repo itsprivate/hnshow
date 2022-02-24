@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T10:14:20.474Z</updated>
+    <updated>2022-02-24T10:37:01.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如果有一些危险的争论，"伊多 "会阻止你。]]></title>
+        <id>https://news.ycombinator.com/item?id=30453115</id>
+        <link href="https://news.ycombinator.com/item?id=30453115"/>
+        <updated>2022-02-24T10:27:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: "Ido” stops you if there is some risky arguments]]></summary>
+        <author>
+            <name>icythere</name>
+            <uri>https://news.ycombinator.com/user?id=icythere</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Acme客户--流行的Acme客户的明确列表]]></title>
         <id>https://news.ycombinator.com/item?id=30452904</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>theindianappguy</name>
             <uri>https://news.ycombinator.com/user?id=theindianappguy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让泰勒为您的估算感到骄傲]]></title>
-        <id>https://news.ycombinator.com/item?id=30222967</id>
-        <link href="https://news.ycombinator.com/item?id=30222967"/>
-        <updated>2022-02-05T16:51:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Make Taylor Proud of Your Estimates]]></summary>
-        <author>
-            <name>gieksosz</name>
-            <uri>https://news.ycombinator.com/user?id=gieksosz</uri>
         </author>
     </entry>
 </feed>
