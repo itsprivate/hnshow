@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T19:38:31.092Z</updated>
+    <updated>2022-02-24T19:57:15.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WhyProfiler - Jupyter筆記本的混合分析器（Python）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30459342</id>
+        <link href="https://news.ycombinator.com/item?id=30459342"/>
+        <updated>2022-02-24T19:48:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WhyProfiler – a hybrid profiler for Jupyter notebook (Python)]]></summary>
+        <author>
+            <name>nyellin</name>
+            <uri>https://news.ycombinator.com/user?id=nyellin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[快速的Wordle，現在處於測試階段]]></title>
         <id>https://news.ycombinator.com/item?id=30459184</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>SuDa2103</name>
             <uri>https://news.ycombinator.com/user?id=SuDa2103</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TriviaRex - 一個競相尋找答案的小遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30232497</id>
-        <link href="https://news.ycombinator.com/item?id=30232497"/>
-        <updated>2022-02-06T13:57:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: TriviaRex – A trivia game where you race to find the answer]]></summary>
-        <author>
-            <name>jbandela1</name>
-            <uri>https://news.ycombinator.com/user?id=jbandela1</uri>
         </author>
     </entry>
 </feed>

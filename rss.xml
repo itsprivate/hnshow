@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 24 Feb 2022 19:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 19:57:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[WhyProfiler - Jupyter笔记本的混合分析器（Python）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30459342</link>
+            <guid>https://news.ycombinator.com/item?id=30459342</guid>
+            <pubDate>Thu, 24 Feb 2022 19:48:48 GMT</pubDate>
+            <description><![CDATA[Show HN: WhyProfiler – a hybrid profiler for Jupyter notebook (Python)]]></description>
+        </item>
         <item>
             <title><![CDATA[快速的Wordle，现在处于测试阶段]]></title>
             <link>https://news.ycombinator.com/item?id=30459184</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30232814</guid>
             <pubDate>Sun, 06 Feb 2022 14:34:04 GMT</pubDate>
             <description><![CDATA[Show HN: The Beginners Guide to NFTs [Outline and Link to Sample Chapter]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TriviaRex - 一个竞相寻找答案的小游戏]]></title>
-            <link>https://news.ycombinator.com/item?id=30232497</link>
-            <guid>https://news.ycombinator.com/item?id=30232497</guid>
-            <pubDate>Sun, 06 Feb 2022 13:57:24 GMT</pubDate>
-            <description><![CDATA[Show HN: TriviaRex – A trivia game where you race to find the answer]]></description>
         </item>
     </channel>
 </rss>
