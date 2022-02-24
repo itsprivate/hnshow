@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T17:52:44.431Z</updated>
+    <updated>2022-02-24T18:16:37.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[厭倦了Anki？我建立了一個現代的應用程序，用例子來學習單詞]]></title>
+        <id>https://news.ycombinator.com/item?id=30457925</id>
+        <link href="https://news.ycombinator.com/item?id=30457925"/>
+        <updated>2022-02-24T17:56:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tired of Anki? I built a modern app for learning words with examples]]></summary>
+        <author>
+            <name>dkaleta</name>
+            <uri>https://news.ycombinator.com/user?id=dkaleta</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一個撲克牌遊戲來幫助我教我的女兒Python]]></title>
+        <id>https://news.ycombinator.com/item?id=30457900</id>
+        <link href="https://news.ycombinator.com/item?id=30457900"/>
+        <updated>2022-02-24T17:54:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a playing card game to help me teach my daughter Python]]></summary>
+        <author>
+            <name>throwaway47292</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway47292</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[vimmer.io是一個具有真正嵌入式編輯器的Vim互動課程]]></title>
         <id>https://news.ycombinator.com/item?id=30457788</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>oliwary</name>
             <uri>https://news.ycombinator.com/user?id=oliwary</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BeerBase - 一個可訪問的全球開放啤酒數據庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30231835</id>
-        <link href="https://news.ycombinator.com/item?id=30231835"/>
-        <updated>2022-02-06T12:16:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: BeerBase – an accessible worldwide open beer database]]></summary>
-        <author>
-            <name>midzer</name>
-            <uri>https://news.ycombinator.com/user?id=midzer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯方塊的輪迴[iOS]]]></title>
-        <id>https://news.ycombinator.com/item?id=30231551</id>
-        <link href="https://news.ycombinator.com/item?id=30231551"/>
-        <updated>2022-02-06T11:29:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Reincarnation of Tetris [iOS]]]></summary>
-        <author>
-            <name>erhosen</name>
-            <uri>https://news.ycombinator.com/user?id=erhosen</uri>
         </author>
     </entry>
 </feed>
