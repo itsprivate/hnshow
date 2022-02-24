@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T09:32:38.287Z</updated>
+    <updated>2022-02-24T09:54:19.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Launcher - 一個建立在Sveltekit上的開源應用啟動器]]></title>
+        <id>https://news.ycombinator.com/item?id=30452810</id>
+        <link href="https://news.ycombinator.com/item?id=30452810"/>
+        <updated>2022-02-24T09:44:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Launcher – an open-source app launcher built on Sveltekit]]></summary>
+        <author>
+            <name>jordanf</name>
+            <uri>https://news.ycombinator.com/user?id=jordanf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何有效地推廣你的軟件項目？]]></title>
         <id>https://news.ycombinator.com/item?id=30452624</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>muxamilian</name>
             <uri>https://news.ycombinator.com/user?id=muxamilian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Talkingtree.io - 創意寫作的NFT遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30221321</id>
-        <link href="https://news.ycombinator.com/item?id=30221321"/>
-        <updated>2022-02-05T14:29:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Talkingtree.io – NFT game for creative writing]]></summary>
-        <author>
-            <name>sidiropo</name>
-            <uri>https://news.ycombinator.com/user?id=sidiropo</uri>
         </author>
     </entry>
 </feed>
