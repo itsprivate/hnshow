@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T10:37:01.687Z</updated>
+    <updated>2022-02-24T11:13:35.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[具有CSV导入功能的情绪跟踪器，可以重新使用你可能拥有的现有数据]]></title>
+        <id>https://news.ycombinator.com/item?id=30453275</id>
+        <link href="https://news.ycombinator.com/item?id=30453275"/>
+        <updated>2022-02-24T10:51:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mood tracker with CSV import to reuse existing data you may have]]></summary>
+        <author>
+            <name>c_ris</name>
+            <uri>https://news.ycombinator.com/user?id=c_ris</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果有一些危险的争论，"伊多 "会阻止你。]]></title>
         <id>https://news.ycombinator.com/item?id=30453115</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>yasinm</name>
             <uri>https://news.ycombinator.com/user?id=yasinm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个应用，在屏幕共享时隐藏了Chrome中的网址]]></title>
-        <id>https://news.ycombinator.com/item?id=30222974</id>
-        <link href="https://news.ycombinator.com/item?id=30222974"/>
-        <updated>2022-02-05T16:52:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made app hide url in Chrome while screen share]]></summary>
-        <author>
-            <name>theindianappguy</name>
-            <uri>https://news.ycombinator.com/user?id=theindianappguy</uri>
         </author>
     </entry>
 </feed>

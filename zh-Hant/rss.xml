@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 24 Feb 2022 10:37:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 11:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[具有CSV導入功能的情緒跟蹤器，可以重新使用你可能擁有的現有數據]]></title>
+            <link>https://news.ycombinator.com/item?id=30453275</link>
+            <guid>https://news.ycombinator.com/item?id=30453275</guid>
+            <pubDate>Thu, 24 Feb 2022 10:51:44 GMT</pubDate>
+            <description><![CDATA[Show HN: Mood tracker with CSV import to reuse existing data you may have]]></description>
+        </item>
         <item>
             <title><![CDATA[如果有一些危險的爭論，"伊多 "會阻止你。]]></title>
             <link>https://news.ycombinator.com/item?id=30453115</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30223019</guid>
             <pubDate>Sat, 05 Feb 2022 16:56:30 GMT</pubDate>
             <description><![CDATA[Show HN: A new-age nicotine company]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一個應用，在屏幕共享時隱藏了Chrome中的網址]]></title>
-            <link>https://news.ycombinator.com/item?id=30222974</link>
-            <guid>https://news.ycombinator.com/item?id=30222974</guid>
-            <pubDate>Sat, 05 Feb 2022 16:52:16 GMT</pubDate>
-            <description><![CDATA[Show HN: I made app hide url in Chrome while screen share]]></description>
         </item>
     </channel>
 </rss>
