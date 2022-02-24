@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 24 Feb 2022 16:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 16:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Cheerp 2.7, C++ to JavaScript/WASM, PartialExecuter, Exceptions]]></title>
+            <link>https://news.ycombinator.com/item?id=30456286</link>
+            <guid>https://news.ycombinator.com/item?id=30456286</guid>
+            <pubDate>Thu, 24 Feb 2022 16:04:33 GMT</pubDate>
+            <description><![CDATA[Show HN: Cheerp 2.7, C++ to JavaScript/WASM, PartialExecuter, Exceptions]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Permify - 由OPA提供的30分钟内的细粒度访问控制。]]></title>
+            <link>https://news.ycombinator.com/item?id=30456196</link>
+            <guid>https://news.ycombinator.com/item?id=30456196</guid>
+            <pubDate>Thu, 24 Feb 2022 15:59:25 GMT</pubDate>
+            <description><![CDATA[Show HN: Permify – Granular access control under 30mins in Go powered by OPA]]></description>
+        </item>
         <item>
             <title><![CDATA[关于过去计算机广告的通讯]]></title>
             <link>https://news.ycombinator.com/item?id=30456154</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30228606</guid>
             <pubDate>Sun, 06 Feb 2022 02:15:10 GMT</pubDate>
             <description><![CDATA[Show HN: CNC G and M Code Parser in Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[创建rust-app：现在支持poem-web后端]]></title>
-            <link>https://news.ycombinator.com/item?id=30228325</link>
-            <guid>https://news.ycombinator.com/item?id=30228325</guid>
-            <pubDate>Sun, 06 Feb 2022 01:27:59 GMT</pubDate>
-            <description><![CDATA[Show HN: Create-rust-app: now supports poem-web back end]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Django简易日志]]></title>
-            <link>https://news.ycombinator.com/item?id=30227279</link>
-            <guid>https://news.ycombinator.com/item?id=30227279</guid>
-            <pubDate>Sat, 05 Feb 2022 23:07:11 GMT</pubDate>
-            <description><![CDATA[Show HN: Django Easy Logging]]></description>
         </item>
     </channel>
 </rss>
