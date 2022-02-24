@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T06:57:26.232Z</updated>
+    <updated>2022-02-24T08:38:22.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基于Parapet的玩具Spark框架]]></title>
+        <id>https://news.ycombinator.com/item?id=30452234</id>
+        <link href="https://news.ycombinator.com/item?id=30452234"/>
+        <updated>2022-02-24T08:28:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: toy Spark framework based on Parapet]]></summary>
+        <author>
+            <name>dmgcodevil</name>
+            <uri>https://news.ycombinator.com/user?id=dmgcodevil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Supershields.io - 智能的、由Lua驱动的SVG状态徽章]]></title>
         <id>https://news.ycombinator.com/item?id=30451402</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cmars</name>
             <uri>https://news.ycombinator.com/user?id=cmars</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[维特书]]></title>
-        <id>https://news.ycombinator.com/item?id=30221082</id>
-        <link href="https://news.ycombinator.com/item?id=30221082"/>
-        <updated>2022-02-05T14:06:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Vite Book]]></summary>
-        <author>
-            <name>mirone</name>
-            <uri>https://news.ycombinator.com/user?id=mirone</uri>
         </author>
     </entry>
 </feed>
