@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 24 Feb 2022 13:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 13:51:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用快捷键写出更快的电子邮件和回复]]></title>
+            <link>https://news.ycombinator.com/item?id=30454568</link>
+            <guid>https://news.ycombinator.com/item?id=30454568</guid>
+            <pubDate>Thu, 24 Feb 2022 13:46:37 GMT</pubDate>
+            <description><![CDATA[Show HN: Write faster emails and replies with shortcuts]]></description>
+        </item>
         <item>
             <title><![CDATA[DB Lens - 适用于Mac、Linux和Windows的OSS Postgres GUI|ERD, Insights]]></title>
             <link>https://news.ycombinator.com/item?id=30454028</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30224026</guid>
             <pubDate>Sat, 05 Feb 2022 18:24:13 GMT</pubDate>
             <description><![CDATA[Show HN: Ship Code 10x Faster]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WunderHub - 用于API的软件包管理器]]></title>
-            <link>https://news.ycombinator.com/item?id=30223855</link>
-            <guid>https://news.ycombinator.com/item?id=30223855</guid>
-            <pubDate>Sat, 05 Feb 2022 18:10:43 GMT</pubDate>
-            <description><![CDATA[Show HN: WunderHub – The Package Manager for APIs]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T13:20:27.673Z</updated>
+    <updated>2022-02-24T13:51:42.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用快捷键写出更快的电子邮件和回复]]></title>
+        <id>https://news.ycombinator.com/item?id=30454568</id>
+        <link href="https://news.ycombinator.com/item?id=30454568"/>
+        <updated>2022-02-24T13:46:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Write faster emails and replies with shortcuts]]></summary>
+        <author>
+            <name>Ali_Boukeroui</name>
+            <uri>https://news.ycombinator.com/user?id=Ali_Boukeroui</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DB Lens - 适用于Mac、Linux和Windows的OSS Postgres GUI|ERD, Insights]]></title>
         <id>https://news.ycombinator.com/item?id=30454028</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>prontodeveloper</name>
             <uri>https://news.ycombinator.com/user?id=prontodeveloper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WunderHub - 用于API的软件包管理器]]></title>
-        <id>https://news.ycombinator.com/item?id=30223855</id>
-        <link href="https://news.ycombinator.com/item?id=30223855"/>
-        <updated>2022-02-05T18:10:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WunderHub – The Package Manager for APIs]]></summary>
-        <author>
-            <name>jensneuse</name>
-            <uri>https://news.ycombinator.com/user?id=jensneuse</uri>
         </author>
     </entry>
 </feed>
