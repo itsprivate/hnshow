@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 24 Feb 2022 18:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 19:38:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[快速的Wordle，现在处于测试阶段]]></title>
+            <link>https://news.ycombinator.com/item?id=30459184</link>
+            <guid>https://news.ycombinator.com/item?id=30459184</guid>
+            <pubDate>Thu, 24 Feb 2022 19:35:12 GMT</pubDate>
+            <description><![CDATA[Show HN: Speed Wordle, Now in Beta]]></description>
+        </item>
         <item>
             <title><![CDATA[厌倦了Anki？我建立了一个现代的应用程序，用例子来学习单词]]></title>
             <link>https://news.ycombinator.com/item?id=30457925</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30232497</guid>
             <pubDate>Sun, 06 Feb 2022 13:57:24 GMT</pubDate>
             <description><![CDATA[Show HN: TriviaRex – A trivia game where you race to find the answer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[方块字，一个类似Wordle的游戏，增加了一个维度]]></title>
-            <link>https://news.ycombinator.com/item?id=30232207</link>
-            <guid>https://news.ycombinator.com/item?id=30232207</guid>
-            <pubDate>Sun, 06 Feb 2022 13:12:36 GMT</pubDate>
-            <description><![CDATA[Show HN: Squareword, a Wordle-like game with an added dimension]]></description>
         </item>
     </channel>
 </rss>

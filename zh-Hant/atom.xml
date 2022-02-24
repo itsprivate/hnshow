@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T18:16:37.841Z</updated>
+    <updated>2022-02-24T19:38:31.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[快速的Wordle，現在處於測試階段]]></title>
+        <id>https://news.ycombinator.com/item?id=30459184</id>
+        <link href="https://news.ycombinator.com/item?id=30459184"/>
+        <updated>2022-02-24T19:35:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Speed Wordle, Now in Beta]]></summary>
+        <author>
+            <name>aghilmort</name>
+            <uri>https://news.ycombinator.com/user?id=aghilmort</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[厭倦了Anki？我建立了一個現代的應用程序，用例子來學習單詞]]></title>
         <id>https://news.ycombinator.com/item?id=30457925</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jbandela1</name>
             <uri>https://news.ycombinator.com/user?id=jbandela1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[方塊字，一個類似Wordle的遊戲，增加了一個維度]]></title>
-        <id>https://news.ycombinator.com/item?id=30232207</id>
-        <link href="https://news.ycombinator.com/item?id=30232207"/>
-        <updated>2022-02-06T13:12:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Squareword, a Wordle-like game with an added dimension]]></summary>
-        <author>
-            <name>oliwary</name>
-            <uri>https://news.ycombinator.com/user?id=oliwary</uri>
         </author>
     </entry>
 </feed>
