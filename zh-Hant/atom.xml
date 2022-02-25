@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-25T20:41:14.742Z</updated>
+    <updated>2022-02-25T22:13:20.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從類似於Markdown的文本中創建一個時間線]]></title>
+        <id>https://news.ycombinator.com/item?id=30472795</id>
+        <link href="https://news.ycombinator.com/item?id=30472795"/>
+        <updated>2022-02-25T21:52:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Create a timeline from Markdown-like text]]></summary>
+        <author>
+            <name>koch</name>
+            <uri>https://news.ycombinator.com/user?id=koch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[試玩--與朋友的聚會遊戲]]></title>
         <id>https://news.ycombinator.com/item?id=30472034</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tsabat</name>
             <uri>https://news.ycombinator.com/user?id=tsabat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個眾包的破舊產品數據庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30245894</id>
-        <link href="https://news.ycombinator.com/item?id=30245894"/>
-        <updated>2022-02-07T15:13:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A crowdsourced database for broken and worn-out products]]></summary>
-        <author>
-            <name>hubraumhugo</name>
-            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
         </author>
     </entry>
 </feed>
