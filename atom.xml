@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-25T18:57:45.665Z</updated>
+    <updated>2022-02-25T19:56:33.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[肮脏的等价物--用等价物做肮脏（但有用）的事情]]></title>
+        <id>https://news.ycombinator.com/item?id=30471395</id>
+        <link href="https://news.ycombinator.com/item?id=30471395"/>
+        <updated>2022-02-25T19:42:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dirty-equals – Doing dirty (but useful) things with equals]]></summary>
+        <author>
+            <name>scolvin</name>
+            <uri>https://news.ycombinator.com/user?id=scolvin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用自定义封面制作电子书，作为Kindle的锁屏图片使用]]></title>
         <id>https://news.ycombinator.com/item?id=30470578</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>matgillard</name>
             <uri>https://news.ycombinator.com/user?id=matgillard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要忘记你是为谁建造的]]></title>
-        <id>https://news.ycombinator.com/item?id=30245653</id>
-        <link href="https://news.ycombinator.com/item?id=30245653"/>
-        <updated>2022-02-07T14:56:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Don't forget who you're building for]]></summary>
-        <author>
-            <name>docal56</name>
-            <uri>https://news.ycombinator.com/user?id=docal56</uri>
         </author>
     </entry>
 </feed>
