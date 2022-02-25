@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-25T08:14:16.282Z</updated>
+    <updated>2022-02-25T09:32:47.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[LERA - 免费的自动可及性报告工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30465221</id>
+        <link href="https://news.ycombinator.com/item?id=30465221"/>
+        <updated>2022-02-25T09:14:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: LERA – Free automated accessibility reporting tool]]></summary>
+        <author>
+            <name>jglalo</name>
+            <uri>https://news.ycombinator.com/user?id=jglalo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于终端的维基百科]]></title>
         <id>https://news.ycombinator.com/item?id=30464747</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>naeemnur</name>
             <uri>https://news.ycombinator.com/user?id=naeemnur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MyFy - 创业、融资和经营你的企业]]></title>
-        <id>https://news.ycombinator.com/item?id=30241291</id>
-        <link href="https://news.ycombinator.com/item?id=30241291"/>
-        <updated>2022-02-07T07:07:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: MyFy – Start, Finance, and Run Your Business]]></summary>
-        <author>
-            <name>michaeltendo</name>
-            <uri>https://news.ycombinator.com/user?id=michaeltendo</uri>
         </author>
     </entry>
 </feed>
