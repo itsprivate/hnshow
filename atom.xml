@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-25T04:15:17.908Z</updated>
+    <updated>2022-02-25T06:55:42.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一个鲨鱼坦克备忘录网站阻止器的Chrome扩展]]></title>
+        <id>https://news.ycombinator.com/item?id=30464318</id>
+        <link href="https://news.ycombinator.com/item?id=30464318"/>
+        <updated>2022-02-25T06:43:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I Built a Shark Tank Meme Website Blocker Chrome Extension]]></summary>
+        <author>
+            <name>pankajtanwar</name>
+            <uri>https://news.ycombinator.com/user?id=pankajtanwar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了第一个只针对远程工作的搜索引擎]]></title>
         <id>https://news.ycombinator.com/item?id=30463539</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Vimeomate</name>
             <uri>https://news.ycombinator.com/user?id=Vimeomate</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大脑；笔记--iPad上强大的粘性记事本]]></title>
-        <id>https://news.ycombinator.com/item?id=30240797</id>
-        <link href="https://news.ycombinator.com/item?id=30240797"/>
-        <updated>2022-02-07T05:28:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Brain;Notes – Powerful Sticky Notepad for iPad]]></summary>
-        <author>
-            <name>magickworx</name>
-            <uri>https://news.ycombinator.com/user?id=magickworx</uri>
         </author>
     </entry>
 </feed>
