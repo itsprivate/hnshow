@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-25T18:16:19.339Z</updated>
+    <updated>2022-02-25T18:57:45.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用自定义封面制作电子书，作为Kindle的锁屏图片使用]]></title>
+        <id>https://news.ycombinator.com/item?id=30470578</id>
+        <link href="https://news.ycombinator.com/item?id=30470578"/>
+        <updated>2022-02-25T18:39:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Make ebooks with custom covers to use as lockscreen images on a Kindle]]></summary>
+        <author>
+            <name>javierbyte</name>
+            <uri>https://news.ycombinator.com/user?id=javierbyte</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于 "剪刀石头布 "的iOS增强现实自动下棋游戏]]></title>
         <id>https://news.ycombinator.com/item?id=30470160</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>docal56</name>
             <uri>https://news.ycombinator.com/user?id=docal56</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保罗-格雷厄姆的散文成了一个播客]]></title>
-        <id>https://news.ycombinator.com/item?id=30245759</id>
-        <link href="https://news.ycombinator.com/item?id=30245759"/>
-        <updated>2022-02-07T15:05:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Paul Graham's Essays into a Podcast]]></summary>
-        <author>
-            <name>nwatab</name>
-            <uri>https://news.ycombinator.com/user?id=nwatab</uri>
         </author>
     </entry>
 </feed>
