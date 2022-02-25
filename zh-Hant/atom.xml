@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-24T23:16:39.954Z</updated>
+    <updated>2022-02-25T00:39:22.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[C++中高效的通配符模式匹配]]></title>
+        <id>https://news.ycombinator.com/item?id=30462227</id>
+        <link href="https://news.ycombinator.com/item?id=30462227"/>
+        <updated>2022-02-25T00:21:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Efficient Wildcard Pattern Matching in C++]]></summary>
+        <author>
+            <name>WildcardMatcher</name>
+            <uri>https://news.ycombinator.com/user?id=WildcardMatcher</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用PlantUML在GitHub的Markdown中嵌入架構圖]]></title>
+        <id>https://news.ycombinator.com/item?id=30462089</id>
+        <link href="https://news.ycombinator.com/item?id=30462089"/>
+        <updated>2022-02-25T00:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Embed architecture diagrams in GitHub Markdown with PlantUML]]></summary>
+        <author>
+            <name>danielyaa5</name>
+            <uri>https://news.ycombinator.com/user?id=danielyaa5</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Bazel混合Rust、C和編譯目標]]></title>
         <id>https://news.ycombinator.com/item?id=30461574</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>azum61</name>
             <uri>https://news.ycombinator.com/user?id=azum61</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瀏覽器中的視頻緩衝與2000年時一樣]]></title>
-        <id>https://news.ycombinator.com/item?id=30237346</id>
-        <link href="https://news.ycombinator.com/item?id=30237346"/>
-        <updated>2022-02-06T21:46:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Buffering Videos in the Browser as in the Year 2000s]]></summary>
-        <author>
-            <name>unlog</name>
-            <uri>https://news.ycombinator.com/user?id=unlog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Texel - 查看電子表格的CLI工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30237316</id>
-        <link href="https://news.ycombinator.com/item?id=30237316"/>
-        <updated>2022-02-06T21:43:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Texel – CLI tool for viewing spreadsheets]]></summary>
-        <author>
-            <name>lauriat</name>
-            <uri>https://news.ycombinator.com/user?id=lauriat</uri>
         </author>
     </entry>
 </feed>

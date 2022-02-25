@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 24 Feb 2022 23:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 00:39:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[C++中高效的通配符模式匹配]]></title>
+            <link>https://news.ycombinator.com/item?id=30462227</link>
+            <guid>https://news.ycombinator.com/item?id=30462227</guid>
+            <pubDate>Fri, 25 Feb 2022 00:21:53 GMT</pubDate>
+            <description><![CDATA[Show HN: Efficient Wildcard Pattern Matching in C++]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用PlantUML在GitHub的Markdown中嵌入架構圖]]></title>
+            <link>https://news.ycombinator.com/item?id=30462089</link>
+            <guid>https://news.ycombinator.com/item?id=30462089</guid>
+            <pubDate>Fri, 25 Feb 2022 00:02:07 GMT</pubDate>
+            <description><![CDATA[Show HN: Embed architecture diagrams in GitHub Markdown with PlantUML]]></description>
+        </item>
         <item>
             <title><![CDATA[用Bazel混合Rust、C和編譯目標]]></title>
             <link>https://news.ycombinator.com/item?id=30461574</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30237518</guid>
             <pubDate>Sun, 06 Feb 2022 22:09:35 GMT</pubDate>
             <description><![CDATA[Show HN: Daily Read – Receive a chapter a day from popular public domain books]]></description>
-        </item>
-        <item>
-            <title><![CDATA[瀏覽器中的視頻緩衝與2000年時一樣]]></title>
-            <link>https://news.ycombinator.com/item?id=30237346</link>
-            <guid>https://news.ycombinator.com/item?id=30237346</guid>
-            <pubDate>Sun, 06 Feb 2022 21:46:59 GMT</pubDate>
-            <description><![CDATA[Show HN: Buffering Videos in the Browser as in the Year 2000s]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Texel - 查看電子表格的CLI工具]]></title>
-            <link>https://news.ycombinator.com/item?id=30237316</link>
-            <guid>https://news.ycombinator.com/item?id=30237316</guid>
-            <pubDate>Sun, 06 Feb 2022 21:43:46 GMT</pubDate>
-            <description><![CDATA[Show HN: Texel – CLI tool for viewing spreadsheets]]></description>
         </item>
     </channel>
 </rss>
