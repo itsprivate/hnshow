@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-25T03:33:25.305Z</updated>
+    <updated>2022-02-25T04:15:17.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了第一個只針對遠程工作的搜索引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=30463539</id>
+        <link href="https://news.ycombinator.com/item?id=30463539"/>
+        <updated>2022-02-25T03:53:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made the first search engine for Remote Only jobs]]></summary>
+        <author>
+            <name>ns88</name>
+            <uri>https://news.ycombinator.com/user?id=ns88</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AllAccessible - 人人享有數字無障礙環境]]></title>
         <id>https://news.ycombinator.com/item?id=30463401</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>magickworx</name>
             <uri>https://news.ycombinator.com/user?id=magickworx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[告訴你的終端說些什麼]]></title>
-        <id>https://news.ycombinator.com/item?id=30240688</id>
-        <link href="https://news.ycombinator.com/item?id=30240688"/>
-        <updated>2022-02-07T05:09:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tell your terminal to say something]]></summary>
-        <author>
-            <name>fallat</name>
-            <uri>https://news.ycombinator.com/user?id=fallat</uri>
         </author>
     </entry>
 </feed>
