@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-25T16:52:22.079Z</updated>
+    <updated>2022-02-25T18:16:19.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基於 "剪刀石頭布 "的iOS增強現實自動下棋遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30470160</id>
+        <link href="https://news.ycombinator.com/item?id=30470160"/>
+        <updated>2022-02-25T18:04:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: iOS augmented reality auto-chess game based on Rock Paper Scissors]]></summary>
+        <author>
+            <name>robomex</name>
+            <uri>https://news.ycombinator.com/user?id=robomex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[縮短淋浴時間的應用程序現已登陸iOS]]></title>
         <id>https://news.ycombinator.com/item?id=30469033</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nwatab</name>
             <uri>https://news.ycombinator.com/user?id=nwatab</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Playwright框架實時測試多人遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30245538</id>
-        <link href="https://news.ycombinator.com/item?id=30245538"/>
-        <updated>2022-02-07T14:47:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Real-time testing multiplayer game with Playwright framework]]></summary>
-        <author>
-            <name>qa-guy</name>
-            <uri>https://news.ycombinator.com/user?id=qa-guy</uri>
         </author>
     </entry>
 </feed>

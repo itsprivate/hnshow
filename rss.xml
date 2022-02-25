@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 25 Feb 2022 16:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 18:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[基于 "剪刀石头布 "的iOS增强现实自动下棋游戏]]></title>
+            <link>https://news.ycombinator.com/item?id=30470160</link>
+            <guid>https://news.ycombinator.com/item?id=30470160</guid>
+            <pubDate>Fri, 25 Feb 2022 18:04:27 GMT</pubDate>
+            <description><![CDATA[Show HN: iOS augmented reality auto-chess game based on Rock Paper Scissors]]></description>
+        </item>
         <item>
             <title><![CDATA[缩短淋浴时间的应用程序现已登陆iOS]]></title>
             <link>https://news.ycombinator.com/item?id=30469033</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30245759</guid>
             <pubDate>Mon, 07 Feb 2022 15:05:06 GMT</pubDate>
             <description><![CDATA[Show HN: Paul Graham's Essays into a Podcast]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Playwright框架实时测试多人游戏]]></title>
-            <link>https://news.ycombinator.com/item?id=30245538</link>
-            <guid>https://news.ycombinator.com/item?id=30245538</guid>
-            <pubDate>Mon, 07 Feb 2022 14:47:18 GMT</pubDate>
-            <description><![CDATA[Show HN: Real-time testing multiplayer game with Playwright framework]]></description>
         </item>
     </channel>
 </rss>
