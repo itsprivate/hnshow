@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-25T15:15:34.659Z</updated>
+    <updated>2022-02-25T15:53:58.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Creepr.io - 通過電子郵件監控以太坊地址]]></title>
+        <id>https://news.ycombinator.com/item?id=30468472</id>
+        <link href="https://news.ycombinator.com/item?id=30468472"/>
+        <updated>2022-02-25T15:45:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Creepr.io – Monitor Ethereum Addresses via Email]]></summary>
+        <author>
+            <name>billen</name>
+            <uri>https://news.ycombinator.com/user?id=billen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個用C++編寫的Minecraft服務器啟動系統20]]></title>
         <id>https://news.ycombinator.com/item?id=30468011</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>desmindhin</name>
             <uri>https://news.ycombinator.com/user?id=desmindhin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為任何靜態博客將概念塊轉換為Markdown]]></title>
-        <id>https://news.ycombinator.com/item?id=30245130</id>
-        <link href="https://news.ycombinator.com/item?id=30245130"/>
-        <updated>2022-02-07T14:17:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Convert the notion blocks to Markdown for any static blog]]></summary>
-        <author>
-            <name>saltbo</name>
-            <uri>https://news.ycombinator.com/user?id=saltbo</uri>
         </author>
     </entry>
 </feed>
