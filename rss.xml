@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 25 Feb 2022 14:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 15:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个用C++编写的Minecraft服务器启动系统20]]></title>
+            <link>https://news.ycombinator.com/item?id=30468011</link>
+            <guid>https://news.ycombinator.com/item?id=30468011</guid>
+            <pubDate>Fri, 25 Feb 2022 15:06:39 GMT</pubDate>
+            <description><![CDATA[Show HN: A Minecraft server startup system written in C++20]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Beam.gg - 游戏化的社区平台，让你的用户保持参与感]]></title>
+            <link>https://news.ycombinator.com/item?id=30467951</link>
+            <guid>https://news.ycombinator.com/item?id=30467951</guid>
+            <pubDate>Fri, 25 Feb 2022 15:01:29 GMT</pubDate>
+            <description><![CDATA[Show HN: Beam.gg – Gamified community platform built to keep your users engaged]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用GitHub的Markdown注释来渲染UML图示]]></title>
+            <link>https://news.ycombinator.com/item?id=30467856</link>
+            <guid>https://news.ycombinator.com/item?id=30467856</guid>
+            <pubDate>Fri, 25 Feb 2022 14:52:48 GMT</pubDate>
+            <description><![CDATA[Show HN: Use GitHub Markdown Comments to Render UML Diagrams]]></description>
+        </item>
         <item>
             <title><![CDATA[从16秒的音频中克隆出一种乐器]]></title>
             <link>https://news.ycombinator.com/item?id=30467328</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30245130</guid>
             <pubDate>Mon, 07 Feb 2022 14:17:08 GMT</pubDate>
             <description><![CDATA[Show HN: Convert the notion blocks to Markdown for any static blog]]></description>
-        </item>
-        <item>
-            <title><![CDATA[NSFW电影解析器]]></title>
-            <link>https://news.ycombinator.com/item?id=30245119</link>
-            <guid>https://news.ycombinator.com/item?id=30245119</guid>
-            <pubDate>Mon, 07 Feb 2022 14:16:28 GMT</pubDate>
-            <description><![CDATA[Show HN: The NSFW Movie Parser]]></description>
-        </item>
-        <item>
-            <title><![CDATA[电子表格v0.2--从网络到谷歌文档，又回到网络上]]></title>
-            <link>https://news.ycombinator.com/item?id=30244941</link>
-            <guid>https://news.ycombinator.com/item?id=30244941</guid>
-            <pubDate>Mon, 07 Feb 2022 14:00:43 GMT</pubDate>
-            <description><![CDATA[Show HN: Electric Tables v0.2 – from the web to Google docs and back again]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SHA-256的直观步骤解释]]></title>
-            <link>https://news.ycombinator.com/item?id=30244534</link>
-            <guid>https://news.ycombinator.com/item?id=30244534</guid>
-            <pubDate>Mon, 07 Feb 2022 13:31:11 GMT</pubDate>
-            <description><![CDATA[Show HN: SHA-256 explained step-by-step visually]]></description>
         </item>
     </channel>
 </rss>

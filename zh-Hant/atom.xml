@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-25T14:15:05.324Z</updated>
+    <updated>2022-02-25T15:15:34.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個用C++編寫的Minecraft服務器啟動系統20]]></title>
+        <id>https://news.ycombinator.com/item?id=30468011</id>
+        <link href="https://news.ycombinator.com/item?id=30468011"/>
+        <updated>2022-02-25T15:06:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Minecraft server startup system written in C++20]]></summary>
+        <author>
+            <name>netr0ute</name>
+            <uri>https://news.ycombinator.com/user?id=netr0ute</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beam.gg - 遊戲化的社區平臺，讓你的用戶保持參與感]]></title>
+        <id>https://news.ycombinator.com/item?id=30467951</id>
+        <link href="https://news.ycombinator.com/item?id=30467951"/>
+        <updated>2022-02-25T15:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Beam.gg – Gamified community platform built to keep your users engaged]]></summary>
+        <author>
+            <name>jazz_prado</name>
+            <uri>https://news.ycombinator.com/user?id=jazz_prado</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用GitHub的Markdown註釋來渲染UML圖示]]></title>
+        <id>https://news.ycombinator.com/item?id=30467856</id>
+        <link href="https://news.ycombinator.com/item?id=30467856"/>
+        <updated>2022-02-25T14:52:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Use GitHub Markdown Comments to Render UML Diagrams]]></summary>
+        <author>
+            <name>danielyaa5</name>
+            <uri>https://news.ycombinator.com/user?id=danielyaa5</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從16秒的音頻中克隆出一種樂器]]></title>
         <id>https://news.ycombinator.com/item?id=30467328</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>saltbo</name>
             <uri>https://news.ycombinator.com/user?id=saltbo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NSFW電影解析器]]></title>
-        <id>https://news.ycombinator.com/item?id=30245119</id>
-        <link href="https://news.ycombinator.com/item?id=30245119"/>
-        <updated>2022-02-07T14:16:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The NSFW Movie Parser]]></summary>
-        <author>
-            <name>dynamite-ready</name>
-            <uri>https://news.ycombinator.com/user?id=dynamite-ready</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電子表格v0.2--從網絡到谷歌文檔，又回到網絡上]]></title>
-        <id>https://news.ycombinator.com/item?id=30244941</id>
-        <link href="https://news.ycombinator.com/item?id=30244941"/>
-        <updated>2022-02-07T14:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Electric Tables v0.2 – from the web to Google docs and back again]]></summary>
-        <author>
-            <name>topcat31</name>
-            <uri>https://news.ycombinator.com/user?id=topcat31</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SHA-256的直觀步驟解釋]]></title>
-        <id>https://news.ycombinator.com/item?id=30244534</id>
-        <link href="https://news.ycombinator.com/item?id=30244534"/>
-        <updated>2022-02-07T13:31:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: SHA-256 explained step-by-step visually]]></summary>
-        <author>
-            <name>manceraio</name>
-            <uri>https://news.ycombinator.com/user?id=manceraio</uri>
         </author>
     </entry>
 </feed>
