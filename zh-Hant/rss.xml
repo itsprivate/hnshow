@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 25 Feb 2022 13:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 14:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[從16秒的音頻中克隆出一種樂器]]></title>
+            <link>https://news.ycombinator.com/item?id=30467328</link>
+            <guid>https://news.ycombinator.com/item?id=30467328</guid>
+            <pubDate>Fri, 25 Feb 2022 13:59:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Cloning an musical instrument from 16 seconds of audio]]></description>
+        </item>
         <item>
             <title><![CDATA[Mirrord - 使用來自Kubernetes的鏡像流量進行本地調試]]></title>
             <link>https://news.ycombinator.com/item?id=30466985</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30244534</guid>
             <pubDate>Mon, 07 Feb 2022 13:31:11 GMT</pubDate>
             <description><![CDATA[Show HN: SHA-256 explained step-by-step visually]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wortle - 與你的朋友在線玩Wordle]]></title>
-            <link>https://news.ycombinator.com/item?id=30244307</link>
-            <guid>https://news.ycombinator.com/item?id=30244307</guid>
-            <pubDate>Mon, 07 Feb 2022 13:09:23 GMT</pubDate>
-            <description><![CDATA[Show HN: Wortle – Play Wordle with your friends online]]></description>
         </item>
     </channel>
 </rss>
