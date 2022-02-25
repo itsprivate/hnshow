@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-25T09:32:47.523Z</updated>
+    <updated>2022-02-25T11:14:33.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開源的無約束DNS解析器Docker鏡像]]></title>
+        <id>https://news.ycombinator.com/item?id=30465854</id>
+        <link href="https://news.ycombinator.com/item?id=30465854"/>
+        <updated>2022-02-25T10:50:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-Source Unbound DNS Resolver Docker Image]]></summary>
+        <author>
+            <name>madnuttah</name>
+            <uri>https://news.ycombinator.com/user?id=madnuttah</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個只有一條指令的零知識虛擬機]]></title>
+        <id>https://news.ycombinator.com/item?id=30465844</id>
+        <link href="https://news.ycombinator.com/item?id=30465844"/>
+        <updated>2022-02-25T10:49:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A zero-knowledge VM with only one instruction]]></summary>
+        <author>
+            <name>lucasgleba</name>
+            <uri>https://news.ycombinator.com/user?id=lucasgleba</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LERA - 免費的自動可及性報告工具]]></title>
         <id>https://news.ycombinator.com/item?id=30465221</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>moemin</name>
             <uri>https://news.ycombinator.com/user?id=moemin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個VS Code擴展，可以幫助你重構JavaScript]]></title>
-        <id>https://news.ycombinator.com/item?id=30243418</id>
-        <link href="https://news.ycombinator.com/item?id=30243418"/>
-        <updated>2022-02-07T11:40:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a VS Code extension that helps you refactor JavaScript]]></summary>
-        <author>
-            <name>lgrammel</name>
-            <uri>https://news.ycombinator.com/user?id=lgrammel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TinyResume - 創建一個可共享的在線簡歷]]></title>
-        <id>https://news.ycombinator.com/item?id=30242753</id>
-        <link href="https://news.ycombinator.com/item?id=30242753"/>
-        <updated>2022-02-07T10:21:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: TinyResume – Create a shareable online resume]]></summary>
-        <author>
-            <name>naeemnur</name>
-            <uri>https://news.ycombinator.com/user?id=naeemnur</uri>
         </author>
     </entry>
 </feed>
