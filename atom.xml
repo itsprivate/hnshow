@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-25T00:39:22.340Z</updated>
+    <updated>2022-02-25T02:35:07.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Inferrd - 开源的ML部署]]></title>
+        <id>https://news.ycombinator.com/item?id=30462863</id>
+        <link href="https://news.ycombinator.com/item?id=30462863"/>
+        <updated>2022-02-25T01:58:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Inferrd – open-source ML Deployment]]></summary>
+        <author>
+            <name>theo31</name>
+            <uri>https://news.ycombinator.com/user?id=theo31</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C++中高效的通配符模式匹配]]></title>
         <id>https://news.ycombinator.com/item?id=30462227</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bilater</name>
             <uri>https://news.ycombinator.com/user?id=bilater</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日阅读 - 每天收到流行的公共领域书籍中的一个章节]]></title>
-        <id>https://news.ycombinator.com/item?id=30237518</id>
-        <link href="https://news.ycombinator.com/item?id=30237518"/>
-        <updated>2022-02-06T22:09:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Daily Read – Receive a chapter a day from popular public domain books]]></summary>
-        <author>
-            <name>azum61</name>
-            <uri>https://news.ycombinator.com/user?id=azum61</uri>
         </author>
     </entry>
 </feed>

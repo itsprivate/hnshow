@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 25 Feb 2022 00:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 02:35:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Inferrd - 開源的ML部署]]></title>
+            <link>https://news.ycombinator.com/item?id=30462863</link>
+            <guid>https://news.ycombinator.com/item?id=30462863</guid>
+            <pubDate>Fri, 25 Feb 2022 01:58:25 GMT</pubDate>
+            <description><![CDATA[Show HN: Inferrd – open-source ML Deployment]]></description>
+        </item>
         <item>
             <title><![CDATA[C++中高效的通配符模式匹配]]></title>
             <link>https://news.ycombinator.com/item?id=30462227</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30238234</guid>
             <pubDate>Sun, 06 Feb 2022 23:34:55 GMT</pubDate>
             <description><![CDATA[Show HN: Wordle Starter Code – Next.js and Tailwind CSS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每日閱讀 - 每天收到流行的公共領域書籍中的一個章節]]></title>
-            <link>https://news.ycombinator.com/item?id=30237518</link>
-            <guid>https://news.ycombinator.com/item?id=30237518</guid>
-            <pubDate>Sun, 06 Feb 2022 22:09:35 GMT</pubDate>
-            <description><![CDATA[Show HN: Daily Read – Receive a chapter a day from popular public domain books]]></description>
         </item>
     </channel>
 </rss>
