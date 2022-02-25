@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-25T11:14:33.485Z</updated>
+    <updated>2022-02-25T13:36:32.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mirrord - 使用來自Kubernetes的鏡像流量進行本地調試]]></title>
+        <id>https://news.ycombinator.com/item?id=30466985</id>
+        <link href="https://news.ycombinator.com/item?id=30466985"/>
+        <updated>2022-02-25T13:27:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mirrord – Debug locally using mirrored traffic from Kubernetes]]></summary>
+        <author>
+            <name>aviramha</name>
+            <uri>https://news.ycombinator.com/user?id=aviramha</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[二維碼日期 - 二維碼中的簽名日期，用於驗證（近）實時媒體]]></title>
+        <id>https://news.ycombinator.com/item?id=30466906</id>
+        <link href="https://news.ycombinator.com/item?id=30466906"/>
+        <updated>2022-02-25T13:17:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: QR Date – signed date in a QR code for verifying (near-)real-time media]]></summary>
+        <author>
+            <name>miunau</name>
+            <uri>https://news.ycombinator.com/user?id=miunau</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開源的無約束DNS解析器Docker鏡像]]></title>
         <id>https://news.ycombinator.com/item?id=30465854</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hauxir</name>
             <uri>https://news.ycombinator.com/user?id=hauxir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bowwe - 網站建設者以10倍的效率開發你的項目]]></title>
-        <id>https://news.ycombinator.com/item?id=30244104</id>
-        <link href="https://news.ycombinator.com/item?id=30244104"/>
-        <updated>2022-02-07T12:51:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bowwe – web builder to develop your projects 10x more efficiently]]></summary>
-        <author>
-            <name>kandruszkow</name>
-            <uri>https://news.ycombinator.com/user?id=kandruszkow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將一個概念網頁變成一個網站（在10個SEC中）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30243487</id>
-        <link href="https://news.ycombinator.com/item?id=30243487"/>
-        <updated>2022-02-07T11:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Turn a Notion page into a website (in 10 SEC)]]></summary>
-        <author>
-            <name>moemin</name>
-            <uri>https://news.ycombinator.com/user?id=moemin</uri>
         </author>
     </entry>
 </feed>

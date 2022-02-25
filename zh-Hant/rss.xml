@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 25 Feb 2022 11:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 13:36:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Mirrord - 使用來自Kubernetes的鏡像流量進行本地調試]]></title>
+            <link>https://news.ycombinator.com/item?id=30466985</link>
+            <guid>https://news.ycombinator.com/item?id=30466985</guid>
+            <pubDate>Fri, 25 Feb 2022 13:27:11 GMT</pubDate>
+            <description><![CDATA[Show HN: Mirrord – Debug locally using mirrored traffic from Kubernetes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[二維碼日期 - 二維碼中的簽名日期，用於驗證（近）實時媒體]]></title>
+            <link>https://news.ycombinator.com/item?id=30466906</link>
+            <guid>https://news.ycombinator.com/item?id=30466906</guid>
+            <pubDate>Fri, 25 Feb 2022 13:17:50 GMT</pubDate>
+            <description><![CDATA[Show HN: QR Date – signed date in a QR code for verifying (near-)real-time media]]></description>
+        </item>
         <item>
             <title><![CDATA[開源的無約束DNS解析器Docker鏡像]]></title>
             <link>https://news.ycombinator.com/item?id=30465854</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30244307</guid>
             <pubDate>Mon, 07 Feb 2022 13:09:23 GMT</pubDate>
             <description><![CDATA[Show HN: Wortle – Play Wordle with your friends online]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bowwe - 網站建設者以10倍的效率開發你的項目]]></title>
-            <link>https://news.ycombinator.com/item?id=30244104</link>
-            <guid>https://news.ycombinator.com/item?id=30244104</guid>
-            <pubDate>Mon, 07 Feb 2022 12:51:37 GMT</pubDate>
-            <description><![CDATA[Show HN: Bowwe – web builder to develop your projects 10x more efficiently]]></description>
-        </item>
-        <item>
-            <title><![CDATA[將一個概念網頁變成一個網站（在10個SEC中）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30243487</link>
-            <guid>https://news.ycombinator.com/item?id=30243487</guid>
-            <pubDate>Mon, 07 Feb 2022 11:46:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Turn a Notion page into a website (in 10 SEC)]]></description>
         </item>
     </channel>
 </rss>
