@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 26 Feb 2022 02:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 02:53:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[npx绒球--漂亮而简单的终端 Pomodoro]]></title>
+            <link>https://news.ycombinator.com/item?id=30474826</link>
+            <guid>https://news.ycombinator.com/item?id=30474826</guid>
+            <pubDate>Sat, 26 Feb 2022 02:39:38 GMT</pubDate>
+            <description><![CDATA[Show HN: npx pompoms – pretty and simple terminal Pomodoro]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Nomoreinvasion.com - 可轻松插入支持乌克兰的信息]]></title>
+            <link>https://news.ycombinator.com/item?id=30474767</link>
+            <guid>https://news.ycombinator.com/item?id=30474767</guid>
+            <pubDate>Sat, 26 Feb 2022 02:26:17 GMT</pubDate>
+            <description><![CDATA[Show HN: Nomoreinvasion.com – Easy insertable message to support Ukraine]]></description>
+        </item>
         <item>
             <title><![CDATA[高级新闻搜索]]></title>
             <link>https://news.ycombinator.com/item?id=30474704</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30247325</guid>
             <pubDate>Mon, 07 Feb 2022 16:46:09 GMT</pubDate>
             <description><![CDATA[Show HN: Koda, a Typesafe Functional Toolkit for Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蜂鸟，便于多人网络应用的行动播报者]]></title>
-            <link>https://news.ycombinator.com/item?id=30247301</link>
-            <guid>https://news.ycombinator.com/item?id=30247301</guid>
-            <pubDate>Mon, 07 Feb 2022 16:45:12 GMT</pubDate>
-            <description><![CDATA[Show HN: Hummingbird, action broadcaster for easy multiplayer web applications]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wortle - 与你的朋友在线玩Wordle]]></title>
-            <link>https://news.ycombinator.com/item?id=30247275</link>
-            <guid>https://news.ycombinator.com/item?id=30247275</guid>
-            <pubDate>Mon, 07 Feb 2022 16:43:21 GMT</pubDate>
-            <description><![CDATA[Show HN: Wortle – Play Wordle with your friends online]]></description>
         </item>
     </channel>
 </rss>
