@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-26T01:48:11.156Z</updated>
+    <updated>2022-02-26T02:26:24.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[高級新聞搜索]]></title>
+        <id>https://news.ycombinator.com/item?id=30474704</id>
+        <link href="https://news.ycombinator.com/item?id=30474704"/>
+        <updated>2022-02-26T02:11:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Advanced News Search]]></summary>
+        <author>
+            <name>normhill</name>
+            <uri>https://news.ycombinator.com/user?id=normhill</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C語言的統一診斷服務（UDS）服務器和客戶端]]></title>
         <id>https://news.ycombinator.com/item?id=30474308</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hauxir</name>
             <uri>https://news.ycombinator.com/user?id=hauxir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多人字謎]]></title>
-        <id>https://news.ycombinator.com/item?id=30246053</id>
-        <link href="https://news.ycombinator.com/item?id=30246053"/>
-        <updated>2022-02-07T15:24:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Multiplayer Wordle]]></summary>
-        <author>
-            <name>philefstat</name>
-            <uri>https://news.ycombinator.com/user?id=philefstat</uri>
         </author>
     </entry>
 </feed>
