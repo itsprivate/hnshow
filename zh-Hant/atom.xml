@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-26T18:05:50.593Z</updated>
+    <updated>2022-02-26T18:22:11.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Hibiki HTML - 新許可證和Bulma UI控件]]></title>
+        <id>https://news.ycombinator.com/item?id=30479980</id>
+        <link href="https://news.ycombinator.com/item?id=30479980"/>
+        <updated>2022-02-26T18:01:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hibiki HTML – New License and Bulma UI Controls]]></summary>
+        <author>
+            <name>sawka</name>
+            <uri>https://news.ycombinator.com/user?id=sawka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Req，一種HTTP腳本語言]]></title>
         <id>https://news.ycombinator.com/item?id=30479864</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>JayMiah</name>
             <uri>https://news.ycombinator.com/user?id=JayMiah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在增加觸摸目標的同時保持元素的一致性]]></title>
-        <id>https://news.ycombinator.com/item?id=30250419</id>
-        <link href="https://news.ycombinator.com/item?id=30250419"/>
-        <updated>2022-02-07T20:19:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Maintain alignment of elements while increasing touch targets]]></summary>
-        <author>
-            <name>bradwoodsio</name>
-            <uri>https://news.ycombinator.com/user?id=bradwoodsio</uri>
         </author>
     </entry>
 </feed>

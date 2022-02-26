@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 26 Feb 2022 18:05:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 18:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Hibiki HTML - 新许可证和Bulma UI控件]]></title>
+            <link>https://news.ycombinator.com/item?id=30479980</link>
+            <guid>https://news.ycombinator.com/item?id=30479980</guid>
+            <pubDate>Sat, 26 Feb 2022 18:01:44 GMT</pubDate>
+            <description><![CDATA[Show HN: Hibiki HTML – New License and Bulma UI Controls]]></description>
+        </item>
         <item>
             <title><![CDATA[Req，一种HTTP脚本语言]]></title>
             <link>https://news.ycombinator.com/item?id=30479864</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30251249</guid>
             <pubDate>Mon, 07 Feb 2022 21:13:09 GMT</pubDate>
             <description><![CDATA[Show HN: Better Breath Using Bacteria?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在增加触摸目标的同时保持元素的一致性]]></title>
-            <link>https://news.ycombinator.com/item?id=30250419</link>
-            <guid>https://news.ycombinator.com/item?id=30250419</guid>
-            <pubDate>Mon, 07 Feb 2022 20:19:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Maintain alignment of elements while increasing touch targets]]></description>
         </item>
     </channel>
 </rss>
