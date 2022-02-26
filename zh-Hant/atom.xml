@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-26T19:13:31.562Z</updated>
+    <updated>2022-02-26T19:26:00.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Mac菜單欄中設置自定義文本（極簡主義）--歡迎提問]]></title>
+        <id>https://news.ycombinator.com/item?id=30480858</id>
+        <link href="https://news.ycombinator.com/item?id=30480858"/>
+        <updated>2022-02-26T19:21:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Set custom text in Mac menu bar (minimalistic) – Issues welcome]]></summary>
+        <author>
+            <name>daschaa</name>
+            <uri>https://news.ycombinator.com/user?id=daschaa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基於終端的維基百科]]></title>
         <id>https://news.ycombinator.com/item?id=30480543</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gbnc</name>
             <uri>https://news.ycombinator.com/user?id=gbnc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[書呆子的情人節]]></title>
-        <id>https://news.ycombinator.com/item?id=30251617</id>
-        <link href="https://news.ycombinator.com/item?id=30251617"/>
-        <updated>2022-02-07T21:37:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Nerdy Valentine]]></summary>
-        <author>
-            <name>amoh14</name>
-            <uri>https://news.ycombinator.com/user?id=amoh14</uri>
         </author>
     </entry>
 </feed>
