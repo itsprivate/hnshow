@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-26T02:53:26.390Z</updated>
+    <updated>2022-02-26T03:34:30.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MP4轉換器]]></title>
+        <id>https://news.ycombinator.com/item?id=30475004</id>
+        <link href="https://news.ycombinator.com/item?id=30475004"/>
+        <updated>2022-02-26T03:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MP4 Converter]]></summary>
+        <author>
+            <name>nadermx</name>
+            <uri>https://news.ycombinator.com/user?id=nadermx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[npx絨球--漂亮而簡單的終端 Pomodoro]]></title>
         <id>https://news.ycombinator.com/item?id=30474826</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ancrane</name>
             <uri>https://news.ycombinator.com/user?id=ancrane</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Koda，一個用於Python的類型安全功能工具包]]></title>
-        <id>https://news.ycombinator.com/item?id=30247325</id>
-        <link href="https://news.ycombinator.com/item?id=30247325"/>
-        <updated>2022-02-07T16:46:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Koda, a Typesafe Functional Toolkit for Python]]></summary>
-        <author>
-            <name>keithasaurus</name>
-            <uri>https://news.ycombinator.com/user?id=keithasaurus</uri>
         </author>
     </entry>
 </feed>

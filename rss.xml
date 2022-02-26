@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 26 Feb 2022 02:53:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 03:34:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[MP4转换器]]></title>
+            <link>https://news.ycombinator.com/item?id=30475004</link>
+            <guid>https://news.ycombinator.com/item?id=30475004</guid>
+            <pubDate>Sat, 26 Feb 2022 03:23:55 GMT</pubDate>
+            <description><![CDATA[Show HN: MP4 Converter]]></description>
+        </item>
         <item>
             <title><![CDATA[npx绒球--漂亮而简单的终端 Pomodoro]]></title>
             <link>https://news.ycombinator.com/item?id=30474826</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30247526</guid>
             <pubDate>Mon, 07 Feb 2022 16:58:02 GMT</pubDate>
             <description><![CDATA[Show HN: Renote (Note-taking and collaboration app for iPad)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Koda，一个用于Python的类型安全功能工具包]]></title>
-            <link>https://news.ycombinator.com/item?id=30247325</link>
-            <guid>https://news.ycombinator.com/item?id=30247325</guid>
-            <pubDate>Mon, 07 Feb 2022 16:46:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Koda, a Typesafe Functional Toolkit for Python]]></description>
         </item>
     </channel>
 </rss>
