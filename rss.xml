@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 26 Feb 2022 17:02:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 18:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Req，一种HTTP脚本语言]]></title>
+            <link>https://news.ycombinator.com/item?id=30479864</link>
+            <guid>https://news.ycombinator.com/item?id=30479864</guid>
+            <pubDate>Sat, 26 Feb 2022 17:51:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Req, an HTTP Scripting Language]]></description>
+        </item>
         <item>
             <title><![CDATA[Esolang Park，一个用于esolangs的可视化调试器]]></title>
             <link>https://news.ycombinator.com/item?id=30479320</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30250419</guid>
             <pubDate>Mon, 07 Feb 2022 20:19:09 GMT</pubDate>
             <description><![CDATA[Show HN: Maintain alignment of elements while increasing touch targets]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在网络上建立最大的在线工具箱（57个工具的花式UI）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30250223</link>
-            <guid>https://news.ycombinator.com/item?id=30250223</guid>
-            <pubDate>Mon, 07 Feb 2022 20:04:03 GMT</pubDate>
-            <description><![CDATA[Show HN: Building biggest online toolbox on web (57 tools with a fancy UI)]]></description>
         </item>
     </channel>
 </rss>
