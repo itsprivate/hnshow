@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-26T16:48:38.475Z</updated>
+    <updated>2022-02-26T17:02:17.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Esolang Park，一个用于esolangs的可视化调试器]]></title>
+        <id>https://news.ycombinator.com/item?id=30479320</id>
+        <link href="https://news.ycombinator.com/item?id=30479320"/>
+        <updated>2022-02-26T16:58:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Esolang Park, a visual debugger for esolangs]]></summary>
+        <author>
+            <name>nilaymaj</name>
+            <uri>https://news.ycombinator.com/user?id=nilaymaj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ssh wordle.bdw.to]]></title>
         <id>https://news.ycombinator.com/item?id=30479001</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fthtls</name>
             <uri>https://news.ycombinator.com/user?id=fthtls</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重复观看YouTube视频的一部分]]></title>
-        <id>https://news.ycombinator.com/item?id=30250197</id>
-        <link href="https://news.ycombinator.com/item?id=30250197"/>
-        <updated>2022-02-07T20:02:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Watch part of a YouTube video on repeat]]></summary>
-        <author>
-            <name>ivanalejandro0</name>
-            <uri>https://news.ycombinator.com/user?id=ivanalejandro0</uri>
         </author>
     </entry>
 </feed>
