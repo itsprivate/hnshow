@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-27T16:47:50.092Z</updated>
+    <updated>2022-02-27T17:16:43.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为Stack Overflow配置文件创建可定制的简短URL]]></title>
+        <id>https://news.ycombinator.com/item?id=30490262</id>
+        <link href="https://news.ycombinator.com/item?id=30490262"/>
+        <updated>2022-02-27T17:10:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Create customizable, short URLs for Stack Overflow profiles]]></summary>
+        <author>
+            <name>choraria</name>
+            <uri>https://news.ycombinator.com/user?id=choraria</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pdbr支持IPython %magics，如 %timeit]]></title>
+        <id>https://news.ycombinator.com/item?id=30490253</id>
+        <link href="https://news.ycombinator.com/item?id=30490253"/>
+        <updated>2022-02-27T17:09:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pdbr supports for IPython %magics, like %timeit]]></summary>
+        <author>
+            <name>cansargl</name>
+            <uri>https://news.ycombinator.com/user?id=cansargl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eredom - 选择一个简短的.com域名]]></title>
         <id>https://news.ycombinator.com/item?id=30489780</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>kioleanu</name>
             <uri>https://news.ycombinator.com/user?id=kioleanu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[习惯跟踪器旨在使你对保持一致上瘾]]></title>
-        <id>https://news.ycombinator.com/item?id=30257452</id>
-        <link href="https://news.ycombinator.com/item?id=30257452"/>
-        <updated>2022-02-08T12:02:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Habit Tracker designed to make you addicted to being consistent]]></summary>
-        <author>
-            <name>marclou</name>
-            <uri>https://news.ycombinator.com/user?id=marclou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ToolJet 1.0 - Retool的可扩展开源替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30257335</id>
-        <link href="https://news.ycombinator.com/item?id=30257335"/>
-        <updated>2022-02-08T11:47:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ToolJet 1.0 – Extensible open-source alternative to Retool]]></summary>
-        <author>
-            <name>npk200</name>
-            <uri>https://news.ycombinator.com/user?id=npk200</uri>
         </author>
     </entry>
 </feed>
