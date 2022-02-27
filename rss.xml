@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 27 Feb 2022 12:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 12:47:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个Cloudflare工作者向你的所有设备发送推送通知]]></title>
+            <link>https://news.ycombinator.com/item?id=30487686</link>
+            <guid>https://news.ycombinator.com/item?id=30487686</guid>
+            <pubDate>Sun, 27 Feb 2022 12:20:32 GMT</pubDate>
+            <description><![CDATA[Show HN: A Cloudflare worker to send push notifications to all your devices]]></description>
+        </item>
         <item>
             <title><![CDATA[teenytools - 一个网页设计和开发工具箱]]></title>
             <link>https://news.ycombinator.com/item?id=30487444</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30256342</guid>
             <pubDate>Tue, 08 Feb 2022 09:14:54 GMT</pubDate>
             <description><![CDATA[Show HN: 'Simple Clipboard Editor' available now on F-Droid]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Url Checker "现在可在F-Droid上使用]]></title>
-            <link>https://news.ycombinator.com/item?id=30256326</link>
-            <guid>https://news.ycombinator.com/item?id=30256326</guid>
-            <pubDate>Tue, 08 Feb 2022 09:12:41 GMT</pubDate>
-            <description><![CDATA[Show HN: 'Url Checker' available now on F-Droid]]></description>
         </item>
     </channel>
 </rss>
