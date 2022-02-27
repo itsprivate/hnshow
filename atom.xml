@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-27T10:46:06.148Z</updated>
+    <updated>2022-02-27T12:19:06.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[teenytools - 一个网页设计和开发工具箱]]></title>
+        <id>https://news.ycombinator.com/item?id=30487444</id>
+        <link href="https://news.ycombinator.com/item?id=30487444"/>
+        <updated>2022-02-27T11:53:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: teenytools – a web design and development toolbox]]></summary>
+        <author>
+            <name>tkvishal</name>
+            <uri>https://news.ycombinator.com/user?id=tkvishal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据湖心岛的增强，使查询速度更快]]></title>
         <id>https://news.ycombinator.com/item?id=30486600</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>TrianguloY</name>
             <uri>https://news.ycombinator.com/user?id=TrianguloY</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[按类别查找要尝试的瑜伽视频]]></title>
-        <id>https://news.ycombinator.com/item?id=30256212</id>
-        <link href="https://news.ycombinator.com/item?id=30256212"/>
-        <updated>2022-02-08T08:54:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Find Yoga videos to try by category]]></summary>
-        <author>
-            <name>nefitty</name>
-            <uri>https://news.ycombinator.com/user?id=nefitty</uri>
         </author>
     </entry>
 </feed>
