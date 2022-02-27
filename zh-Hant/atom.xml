@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-27T18:15:59.842Z</updated>
+    <updated>2022-02-27T19:39:35.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Datagridxl.js v2 - 沒有任何意義的快速類似Excel的數據表格庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30491642</id>
+        <link href="https://news.ycombinator.com/item?id=30491642"/>
+        <updated>2022-02-27T19:27:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Datagridxl.js v2 – no-nonsense fast Excel-like data table lib]]></summary>
+        <author>
+            <name>robbiejs</name>
+            <uri>https://news.ycombinator.com/user?id=robbiejs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Torspray - 一個簡單的Python腳本，可以調出多個Tor橋。]]></title>
         <id>https://news.ycombinator.com/item?id=30490757</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>1p1e1</name>
             <uri>https://news.ycombinator.com/user?id=1p1e1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三個神奇的字，一個不是Wordle的五個字母的文字遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30257888</id>
-        <link href="https://news.ycombinator.com/item?id=30257888"/>
-        <updated>2022-02-08T13:06:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Three Magic Words, a five-letter word game that isn’t Wordle]]></summary>
-        <author>
-            <name>beepy</name>
-            <uri>https://news.ycombinator.com/user?id=beepy</uri>
         </author>
     </entry>
 </feed>
