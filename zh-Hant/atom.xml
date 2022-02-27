@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-27T19:39:35.685Z</updated>
+    <updated>2022-02-27T19:53:41.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Rebluff撲克，為寬鬆激進的玩家提供無限制的撲克。]]></title>
+        <id>https://news.ycombinator.com/item?id=30491798</id>
+        <link href="https://news.ycombinator.com/item?id=30491798"/>
+        <updated>2022-02-27T19:44:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Rebluff Poker, no limit hold'em for loose-aggressive players]]></summary>
+        <author>
+            <name>uberf1sh</name>
+            <uri>https://news.ycombinator.com/user?id=uberf1sh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Datagridxl.js v2 - 沒有任何意義的快速類似Excel的數據表格庫]]></title>
         <id>https://news.ycombinator.com/item?id=30491642</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>raymondchoi</name>
             <uri>https://news.ycombinator.com/user?id=raymondchoi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tally Forms - 一個免費的Typeform替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30258149</id>
-        <link href="https://news.ycombinator.com/item?id=30258149"/>
-        <updated>2022-02-08T13:33:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tally Forms – a free Typeform alternative]]></summary>
-        <author>
-            <name>1p1e1</name>
-            <uri>https://news.ycombinator.com/user?id=1p1e1</uri>
         </author>
     </entry>
 </feed>
