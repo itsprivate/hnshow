@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-27T01:59:52.876Z</updated>
+    <updated>2022-02-27T04:57:48.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Asyncc工作：一個加速異步工作文化的招聘網站]]></title>
+        <id>https://news.ycombinator.com/item?id=30485453</id>
+        <link href="https://news.ycombinator.com/item?id=30485453"/>
+        <updated>2022-02-27T04:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Asyncc Jobs: a job board to accelerate async work culture]]></summary>
+        <author>
+            <name>NithurM</name>
+            <uri>https://news.ycombinator.com/user?id=NithurM</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TopHat Finance - 免費、開放、離線]]></title>
         <id>https://news.ycombinator.com/item?id=30484235</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hammadn</name>
             <uri>https://news.ycombinator.com/user?id=hammadn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為什麼要建立一個定製的家庭取暖油箱解決方案？]]></title>
-        <id>https://news.ycombinator.com/item?id=30253970</id>
-        <link href="https://news.ycombinator.com/item?id=30253970"/>
-        <updated>2022-02-08T01:39:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Why build a custom home heating oil tank solution?]]></summary>
-        <author>
-            <name>pettycashstash2</name>
-            <uri>https://news.ycombinator.com/user?id=pettycashstash2</uri>
         </author>
     </entry>
 </feed>
