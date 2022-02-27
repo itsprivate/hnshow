@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-27T06:37:09.985Z</updated>
+    <updated>2022-02-27T07:53:36.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[REPL驅動的JavaScript開發]]></title>
+        <id>https://news.ycombinator.com/item?id=30486242</id>
+        <link href="https://news.ycombinator.com/item?id=30486242"/>
+        <updated>2022-02-27T07:42:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: REPL-Driven Development for JavaScript]]></summary>
+        <author>
+            <name>anonimitoraf</name>
+            <uri>https://news.ycombinator.com/user?id=anonimitoraf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[bfc - 一個快速的非JIT腦筋急轉彎解釋器]]></title>
         <id>https://news.ycombinator.com/item?id=30478533</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>paubric</name>
             <uri>https://news.ycombinator.com/user?id=paubric</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI模擬器：2048--調整和訓練AI玩2048]]></title>
-        <id>https://news.ycombinator.com/item?id=30254986</id>
-        <link href="https://news.ycombinator.com/item?id=30254986"/>
-        <updated>2022-02-08T04:46:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: AI Simulator: 2048 – Tune and train AI to play 2048]]></summary>
-        <author>
-            <name>paradite</name>
-            <uri>https://news.ycombinator.com/user?id=paradite</uri>
         </author>
     </entry>
 </feed>
