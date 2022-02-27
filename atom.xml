@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-27T21:15:07.142Z</updated>
+    <updated>2022-02-27T23:40:03.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Clj-Otel - Clojure API for OpenTelemetry]]></title>
+        <id>https://news.ycombinator.com/item?id=30494031</id>
+        <link href="https://news.ycombinator.com/item?id=30494031"/>
+        <updated>2022-02-27T23:35:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Clj-Otel – Clojure API for OpenTelemetry]]></summary>
+        <author>
+            <name>steffanwestcott</name>
+            <uri>https://news.ycombinator.com/user?id=steffanwestcott</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[另一个Wordle解决方法，同时也解决了Nerdles问题]]></title>
         <id>https://news.ycombinator.com/item?id=30492436</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>roneoo</name>
             <uri>https://news.ycombinator.com/user?id=roneoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过将图像转换为Base64，使你的HTML文档具有可移植性]]></title>
-        <id>https://news.ycombinator.com/item?id=30258426</id>
-        <link href="https://news.ycombinator.com/item?id=30258426"/>
-        <updated>2022-02-08T14:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Make your HTML documents portable by converting images to Base64]]></summary>
-        <author>
-            <name>zenull</name>
-            <uri>https://news.ycombinator.com/user?id=zenull</uri>
         </author>
     </entry>
 </feed>
