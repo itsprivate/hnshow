@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-27T17:33:04.002Z</updated>
+    <updated>2022-02-27T18:15:59.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Torspray - 一個簡單的Python腳本，可以調出多個Tor橋。]]></title>
+        <id>https://news.ycombinator.com/item?id=30490757</id>
+        <link href="https://news.ycombinator.com/item?id=30490757"/>
+        <updated>2022-02-27T18:03:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Torspray – A simple Python script to bring up multiple Tor bridges]]></summary>
+        <author>
+            <name>gergelykalman</name>
+            <uri>https://news.ycombinator.com/user?id=gergelykalman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[簡單朋友的賓果網絡應用]]></title>
         <id>https://news.ycombinator.com/item?id=30490313</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>beepy</name>
             <uri>https://news.ycombinator.com/user?id=beepy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個檢查視頻是否有NSFW內容的AI程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30257513</id>
-        <link href="https://news.ycombinator.com/item?id=30257513"/>
-        <updated>2022-02-08T12:12:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An AI program to check videos for NSFW content]]></summary>
-        <author>
-            <name>dynamite-ready</name>
-            <uri>https://news.ycombinator.com/user?id=dynamite-ready</uri>
         </author>
     </entry>
 </feed>

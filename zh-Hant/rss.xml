@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 27 Feb 2022 17:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 18:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Torspray - 一個簡單的Python腳本，可以調出多個Tor橋。]]></title>
+            <link>https://news.ycombinator.com/item?id=30490757</link>
+            <guid>https://news.ycombinator.com/item?id=30490757</guid>
+            <pubDate>Sun, 27 Feb 2022 18:03:05 GMT</pubDate>
+            <description><![CDATA[Show HN: Torspray – A simple Python script to bring up multiple Tor bridges]]></description>
+        </item>
         <item>
             <title><![CDATA[簡單朋友的賓果網絡應用]]></title>
             <link>https://news.ycombinator.com/item?id=30490313</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30257888</guid>
             <pubDate>Tue, 08 Feb 2022 13:06:57 GMT</pubDate>
             <description><![CDATA[Show HN: Three Magic Words, a five-letter word game that isn’t Wordle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個檢查視頻是否有NSFW內容的AI程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30257513</link>
-            <guid>https://news.ycombinator.com/item?id=30257513</guid>
-            <pubDate>Tue, 08 Feb 2022 12:12:58 GMT</pubDate>
-            <description><![CDATA[Show HN: An AI program to check videos for NSFW content]]></description>
         </item>
     </channel>
 </rss>
