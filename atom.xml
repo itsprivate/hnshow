@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-27T14:14:28.043Z</updated>
+    <updated>2022-02-27T15:13:38.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Macintosh的信息 - 一个 "经典 "的Mac iMessage客户端]]></title>
+        <id>https://news.ycombinator.com/item?id=30489003</id>
+        <link href="https://news.ycombinator.com/item?id=30489003"/>
+        <updated>2022-02-27T14:58:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Messages for Macintosh – a “classic” Mac iMessage client]]></summary>
+        <author>
+            <name>camhenlin</name>
+            <uri>https://news.ycombinator.com/user?id=camhenlin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用热键（alt + `）切换同一应用程序的窗口]]></title>
         <id>https://news.ycombinator.com/item?id=30488027</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tq-qv</name>
             <uri>https://news.ycombinator.com/user?id=tq-qv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[购买计划帮助你节省购买费用。]]></title>
-        <id>https://news.ycombinator.com/item?id=30256630</id>
-        <link href="https://news.ycombinator.com/item?id=30256630"/>
-        <updated>2022-02-08T09:59:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Purchase Plan helps you save for purchases.]]></summary>
-        <author>
-            <name>iamjfu</name>
-            <uri>https://news.ycombinator.com/user?id=iamjfu</uri>
         </author>
     </entry>
 </feed>
