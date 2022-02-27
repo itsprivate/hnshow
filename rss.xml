@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 27 Feb 2022 19:53:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 21:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[另一个Wordle解决方法，同时也解决了Nerdles问题]]></title>
+            <link>https://news.ycombinator.com/item?id=30492436</link>
+            <guid>https://news.ycombinator.com/item?id=30492436</guid>
+            <pubDate>Sun, 27 Feb 2022 20:57:22 GMT</pubDate>
+            <description><![CDATA[Show HN: Another Wordle Solver, Also Solves Nerdles]]></description>
+        </item>
         <item>
             <title><![CDATA[Rebluff扑克，为宽松激进的玩家提供无限制的扑克。]]></title>
             <link>https://news.ycombinator.com/item?id=30491798</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30258426</guid>
             <pubDate>Tue, 08 Feb 2022 14:01:05 GMT</pubDate>
             <description><![CDATA[Show HN: Make your HTML documents portable by converting images to Base64]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Josson和Jossons - 一个JSON的查询语言和一个模板引擎]]></title>
-            <link>https://news.ycombinator.com/item?id=30258155</link>
-            <guid>https://news.ycombinator.com/item?id=30258155</guid>
-            <pubDate>Tue, 08 Feb 2022 13:33:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Josson and Jossons – A query language for JSON and a template engine]]></description>
         </item>
     </channel>
 </rss>
