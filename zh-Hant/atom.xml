@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-27T15:36:35.880Z</updated>
+    <updated>2022-02-27T16:15:27.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Gradio在Python中構建和分享機器學習應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30489636</id>
+        <link href="https://news.ycombinator.com/item?id=30489636"/>
+        <updated>2022-02-27T16:07:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build and share machine learning apps with Gradio in Python]]></summary>
+        <author>
+            <name>ak391</name>
+            <uri>https://news.ycombinator.com/user?id=ak391</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[稍微好一點的黑客新聞--HN的替代網絡前端]]></title>
         <id>https://news.ycombinator.com/item?id=30489248</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>johnthemaker</name>
             <uri>https://news.ycombinator.com/user?id=johnthemaker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SHOW HN：Sprout，一個在內存中可擴展的Go中的Bloom過濾器實現]]></title>
-        <id>https://news.ycombinator.com/item?id=30257251</id>
-        <link href="https://news.ycombinator.com/item?id=30257251"/>
-        <updated>2022-02-08T11:33:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: SHOW HN: Sprout, An in-memory scalable bloom filter implementation in Go]]></summary>
-        <author>
-            <name>dsa0x</name>
-            <uri>https://news.ycombinator.com/user?id=dsa0x</uri>
         </author>
     </entry>
 </feed>
