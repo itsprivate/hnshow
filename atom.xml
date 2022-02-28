@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-28T17:07:26.360Z</updated>
+    <updated>2022-02-28T17:43:13.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我为PG创建了一个Chrome扩展：TRAB（Tweet Reporter and Blocker）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30502480</id>
+        <link href="https://news.ycombinator.com/item?id=30502480"/>
+        <updated>2022-02-28T17:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I Created a Chrome Extension for PG: TRAB (Tweet Reporter and Blocker)]]></summary>
+        <author>
+            <name>impish19</name>
+            <uri>https://news.ycombinator.com/user?id=impish19</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在GitHub PR上的语言意识差异]]></title>
         <id>https://news.ycombinator.com/item?id=30502020</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>AccentuSoft</name>
             <uri>https://news.ycombinator.com/user?id=AccentuSoft</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yottaanswers - 从数十亿个载体中获得直接的查询答案]]></title>
-        <id>https://news.ycombinator.com/item?id=30263770</id>
-        <link href="https://news.ycombinator.com/item?id=30263770"/>
-        <updated>2022-02-08T20:01:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Yottaanswers – get direct answers to queries from billions of vectors]]></summary>
-        <author>
-            <name>borapdx</name>
-            <uri>https://news.ycombinator.com/user?id=borapdx</uri>
         </author>
     </entry>
 </feed>
