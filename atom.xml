@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-28T21:30:38.161Z</updated>
+    <updated>2022-02-28T21:39:42.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fetch Forms - 一个无头表格生成器]]></title>
+        <id>https://news.ycombinator.com/item?id=30505424</id>
+        <link href="https://news.ycombinator.com/item?id=30505424"/>
+        <updated>2022-02-28T21:33:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fetch Forms – a headless form builder]]></summary>
+        <author>
+            <name>lukefrogger</name>
+            <uri>https://news.ycombinator.com/user?id=lukefrogger</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用ansible和stow更好地对待你的dotfiles]]></title>
+        <id>https://news.ycombinator.com/item?id=30497224</id>
+        <link href="https://news.ycombinator.com/item?id=30497224"/>
+        <updated>2022-02-28T07:17:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Treat your dotfiles better with ansible and stow]]></summary>
+        <author>
+            <name>iduoad</name>
+            <uri>https://news.ycombinator.com/user?id=iduoad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个网站，实时可视化乌克兰的以太坊捐款情况]]></title>
         <id>https://news.ycombinator.com/item?id=30505216</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>levkk</name>
             <uri>https://news.ycombinator.com/user?id=levkk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[访问付费文章的简单方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30267518</id>
-        <link href="https://news.ycombinator.com/item?id=30267518"/>
-        <updated>2022-02-09T01:37:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A simple way to access paywalled articles]]></summary>
-        <author>
-            <name>stereoradonc</name>
-            <uri>https://news.ycombinator.com/user?id=stereoradonc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个建立开源临床药物信息数据库的人工智能]]></title>
-        <id>https://news.ycombinator.com/item?id=30267384</id>
-        <link href="https://news.ycombinator.com/item?id=30267384"/>
-        <updated>2022-02-09T01:22:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An AI that builds open source clinical drug information databases]]></summary>
-        <author>
-            <name>MalikHAA2</name>
-            <uri>https://news.ycombinator.com/user?id=MalikHAA2</uri>
         </author>
     </entry>
 </feed>

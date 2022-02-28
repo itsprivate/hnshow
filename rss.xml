@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 28 Feb 2022 21:30:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 21:39:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Fetch Forms - 一个无头表格生成器]]></title>
+            <link>https://news.ycombinator.com/item?id=30505424</link>
+            <guid>https://news.ycombinator.com/item?id=30505424</guid>
+            <pubDate>Mon, 28 Feb 2022 21:33:17 GMT</pubDate>
+            <description><![CDATA[Show HN: Fetch Forms – a headless form builder]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用ansible和stow更好地对待你的dotfiles]]></title>
+            <link>https://news.ycombinator.com/item?id=30497224</link>
+            <guid>https://news.ycombinator.com/item?id=30497224</guid>
+            <pubDate>Mon, 28 Feb 2022 07:17:24 GMT</pubDate>
+            <description><![CDATA[Show HN: Treat your dotfiles better with ansible and stow]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一个网站，实时可视化乌克兰的以太坊捐款情况]]></title>
             <link>https://news.ycombinator.com/item?id=30505216</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30267539</guid>
             <pubDate>Wed, 09 Feb 2022 01:41:44 GMT</pubDate>
             <description><![CDATA[Show HN: PgCat, Postgres pooler with sharding, load balancing and failover]]></description>
-        </item>
-        <item>
-            <title><![CDATA[访问付费文章的简单方法]]></title>
-            <link>https://news.ycombinator.com/item?id=30267518</link>
-            <guid>https://news.ycombinator.com/item?id=30267518</guid>
-            <pubDate>Wed, 09 Feb 2022 01:37:53 GMT</pubDate>
-            <description><![CDATA[Show HN: A simple way to access paywalled articles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个建立开源临床药物信息数据库的人工智能]]></title>
-            <link>https://news.ycombinator.com/item?id=30267384</link>
-            <guid>https://news.ycombinator.com/item?id=30267384</guid>
-            <pubDate>Wed, 09 Feb 2022 01:22:20 GMT</pubDate>
-            <description><![CDATA[Show HN: An AI that builds open source clinical drug information databases]]></description>
         </item>
     </channel>
 </rss>
