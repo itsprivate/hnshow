@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 28 Feb 2022 14:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 14:56:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,69 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[剛剛推出我的AI生成的創意寫作博客[NSFW]]]></title>
+            <link>https://news.ycombinator.com/item?id=30500087</link>
+            <guid>https://news.ycombinator.com/item?id=30500087</guid>
+            <pubDate>Mon, 28 Feb 2022 14:23:27 GMT</pubDate>
+            <description><![CDATA[Show HN: Just launched my blog of AI-generated creative writing [NSFW]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[W3rdl3 - Wordle和Threes的結合]]></title>
+            <link>https://news.ycombinator.com/item?id=30499601</link>
+            <guid>https://news.ycombinator.com/item?id=30499601</guid>
+            <pubDate>Mon, 28 Feb 2022 13:32:29 GMT</pubDate>
+            <description><![CDATA[Show HN: W3rdl3 – Wordle and Threes Combined]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Pipy和OpenID Connect保證服務安全]]></title>
+            <link>https://news.ycombinator.com/item?id=30499516</link>
+            <guid>https://news.ycombinator.com/item?id=30499516</guid>
+            <pubDate>Mon, 28 Feb 2022 13:23:10 GMT</pubDate>
+            <description><![CDATA[Show HN: Securing Services with Pipy and OpenID Connect]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Docguard - DocSend類似於Notion文件的門控訪問]]></title>
+            <link>https://news.ycombinator.com/item?id=30499114</link>
+            <guid>https://news.ycombinator.com/item?id=30499114</guid>
+            <pubDate>Mon, 28 Feb 2022 12:32:12 GMT</pubDate>
+            <description><![CDATA[Show HN: Docguard – DocSend like gated-access for Notion documents]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Prig - 與AWK類似，但使用Go進行 "腳本編寫"]]></title>
+            <link>https://news.ycombinator.com/item?id=30498735</link>
+            <guid>https://news.ycombinator.com/item?id=30498735</guid>
+            <pubDate>Mon, 28 Feb 2022 11:29:08 GMT</pubDate>
+            <description><![CDATA[Show HN: Prig – like AWK, but uses Go for “scripting”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[字母拼圖--每日字謎]]></title>
+            <link>https://news.ycombinator.com/item?id=30498725</link>
+            <guid>https://news.ycombinator.com/item?id=30498725</guid>
+            <pubDate>Mon, 28 Feb 2022 11:26:43 GMT</pubDate>
+            <description><![CDATA[Show HN: Letter Jumble – A daily word puzzle]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Svelte無頭UI啟動器]]></title>
+            <link>https://news.ycombinator.com/item?id=30498404</link>
+            <guid>https://news.ycombinator.com/item?id=30498404</guid>
+            <pubDate>Mon, 28 Feb 2022 10:34:38 GMT</pubDate>
+            <description><![CDATA[Show HN: Svelte Headless UI Starter]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用於對象映射的Net源生成器]]></title>
+            <link>https://news.ycombinator.com/item?id=30498176</link>
+            <guid>https://news.ycombinator.com/item?id=30498176</guid>
+            <pubDate>Mon, 28 Feb 2022 09:54:14 GMT</pubDate>
+            <description><![CDATA[Show HN: Net source generator for object mapping]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Flurri - 與你的同事們建立有意義的聯繫]]></title>
+            <link>https://news.ycombinator.com/item?id=30498096</link>
+            <guid>https://news.ycombinator.com/item?id=30498096</guid>
+            <pubDate>Mon, 28 Feb 2022 09:41:35 GMT</pubDate>
+            <description><![CDATA[Show HN: Flurri – Build meaningful connections with your co-workers]]></description>
+        </item>
         <item>
             <title><![CDATA[Deo - 成為10倍發展的下一步]]></title>
             <link>https://news.ycombinator.com/item?id=30499851</link>
@@ -4150,69 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30263031</guid>
             <pubDate>Tue, 08 Feb 2022 19:12:59 GMT</pubDate>
             <description><![CDATA[Show HN: Hacki – Hacker News Reader]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為你的AI算法提供開箱即用的網絡應用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30262867</link>
-            <guid>https://news.ycombinator.com/item?id=30262867</guid>
-            <pubDate>Tue, 08 Feb 2022 19:02:07 GMT</pubDate>
-            <description><![CDATA[Show HN: Out-of-box web app for your AI algorithm]]></description>
-        </item>
-        <item>
-            <title><![CDATA[只需按兩下鍵盤，就能使你的Spotify播放列表不再個性化]]></title>
-            <link>https://news.ycombinator.com/item?id=30262866</link>
-            <guid>https://news.ycombinator.com/item?id=30262866</guid>
-            <pubDate>Tue, 08 Feb 2022 19:02:05 GMT</pubDate>
-            <description><![CDATA[Show HN: Un-personalize your Spotify playlists with two keystrokes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[聊天式 - 通過Discord與網絡遊客進行實時聊天]]></title>
-            <link>https://news.ycombinator.com/item?id=30262689</link>
-            <guid>https://news.ycombinator.com/item?id=30262689</guid>
-            <pubDate>Tue, 08 Feb 2022 18:50:55 GMT</pubDate>
-            <description><![CDATA[Show HN: Chatlike – Live chat with web visitors via Discord]]></description>
-        </item>
-        <item>
-            <title><![CDATA[何時做的？- 是一個每日流行文化遊戲，靈感來自於Wordle]]></title>
-            <link>https://news.ycombinator.com/item?id=30262556</link>
-            <guid>https://news.ycombinator.com/item?id=30262556</guid>
-            <pubDate>Tue, 08 Feb 2022 18:41:57 GMT</pubDate>
-            <description><![CDATA[Show HN: WhenDid? – a daily pop culture game, inspired by Wordle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[小豬--一個移動優先的博客平臺]]></title>
-            <link>https://news.ycombinator.com/item?id=30262248</link>
-            <guid>https://news.ycombinator.com/item?id=30262248</guid>
-            <pubDate>Tue, 08 Feb 2022 18:21:20 GMT</pubDate>
-            <description><![CDATA[Show HN: Piggy – a mobile-first blogging platform]]></description>
-        </item>
-        <item>
-            <title><![CDATA[修剪，一個幫助你修剪你的標籤花園的Chrome擴展程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30262139</link>
-            <guid>https://news.ycombinator.com/item?id=30262139</guid>
-            <pubDate>Tue, 08 Feb 2022 18:14:11 GMT</pubDate>
-            <description><![CDATA[Show HN: prune, a Chrome extension to help you trim your garden of tabs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[再也不會出現SSL證書過期的情況]]></title>
-            <link>https://news.ycombinator.com/item?id=30261182</link>
-            <guid>https://news.ycombinator.com/item?id=30261182</guid>
-            <pubDate>Tue, 08 Feb 2022 17:16:50 GMT</pubDate>
-            <description><![CDATA[Show HN: Never have an SSL certificate expire again]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我在2022年的最新PC構建]]></title>
-            <link>https://news.ycombinator.com/item?id=30261004</link>
-            <guid>https://news.ycombinator.com/item?id=30261004</guid>
-            <pubDate>Tue, 08 Feb 2022 17:04:19 GMT</pubDate>
-            <description><![CDATA[Show HN: My latest PC Build in 2022]]></description>
-        </item>
-        <item>
-            <title><![CDATA[創建智能可共享的媒體庫]]></title>
-            <link>https://news.ycombinator.com/item?id=30260155</link>
-            <guid>https://news.ycombinator.com/item?id=30260155</guid>
-            <pubDate>Tue, 08 Feb 2022 16:10:35 GMT</pubDate>
-            <description><![CDATA[Show HN: Create intelligent shareable media libraries]]></description>
         </item>
     </channel>
 </rss>
