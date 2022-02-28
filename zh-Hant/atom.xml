@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-28T18:37:42.529Z</updated>
+    <updated>2022-02-28T18:55:26.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GraphQL-go-tools，開源的GraphQL引擎，用Golang編寫]]></title>
+        <id>https://news.ycombinator.com/item?id=30503343</id>
+        <link href="https://news.ycombinator.com/item?id=30503343"/>
+        <updated>2022-02-28T18:41:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GraphQL-go-tools, open source GraphQL Engine, written in Golang]]></summary>
+        <author>
+            <name>jensneuse</name>
+            <uri>https://news.ycombinator.com/user?id=jensneuse</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個更加社會化、不含亞馬遜的Goodreads替代品]]></title>
         <id>https://news.ycombinator.com/item?id=30503197</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>varunsharma07</name>
             <uri>https://news.ycombinator.com/user?id=varunsharma07</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Venvrc - 用Bash編寫的簡單Python-venv包裝器]]></title>
-        <id>https://news.ycombinator.com/item?id=30264001</id>
-        <link href="https://news.ycombinator.com/item?id=30264001"/>
-        <updated>2022-02-08T20:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Venvrc – simple Python-venv wrapper written in Bash]]></summary>
-        <author>
-            <name>paskozdilar</name>
-            <uri>https://news.ycombinator.com/user?id=paskozdilar</uri>
         </author>
     </entry>
 </feed>
