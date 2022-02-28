@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 28 Feb 2022 21:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 21:54:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用AWS S3在預算範圍內進行容器註冊]]></title>
+            <link>https://news.ycombinator.com/item?id=30505471</link>
+            <guid>https://news.ycombinator.com/item?id=30505471</guid>
+            <pubDate>Mon, 28 Feb 2022 21:37:32 GMT</pubDate>
+            <description><![CDATA[Show HN: Container registry on a budget using AWS S3]]></description>
+        </item>
         <item>
             <title><![CDATA[Fetch Forms - 一個無頭表格生成器]]></title>
             <link>https://news.ycombinator.com/item?id=30505424</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30267214</guid>
             <pubDate>Wed, 09 Feb 2022 01:00:51 GMT</pubDate>
             <description><![CDATA[Show HN: App that reduces probability of getting side effects from medication]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PgCat，帶分片、負載平衡和故障轉移的Postgres池器]]></title>
-            <link>https://news.ycombinator.com/item?id=30267539</link>
-            <guid>https://news.ycombinator.com/item?id=30267539</guid>
-            <pubDate>Wed, 09 Feb 2022 01:41:44 GMT</pubDate>
-            <description><![CDATA[Show HN: PgCat, Postgres pooler with sharding, load balancing and failover]]></description>
         </item>
     </channel>
 </rss>

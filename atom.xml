@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-28T21:39:42.488Z</updated>
+    <updated>2022-02-28T21:54:11.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用AWS S3在预算范围内进行容器注册]]></title>
+        <id>https://news.ycombinator.com/item?id=30505471</id>
+        <link href="https://news.ycombinator.com/item?id=30505471"/>
+        <updated>2022-02-28T21:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Container registry on a budget using AWS S3]]></summary>
+        <author>
+            <name>mborch</name>
+            <uri>https://news.ycombinator.com/user?id=mborch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fetch Forms - 一个无头表格生成器]]></title>
         <id>https://news.ycombinator.com/item?id=30505424</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>MalikHAA</name>
             <uri>https://news.ycombinator.com/user?id=MalikHAA</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PgCat，带分片、负载平衡和故障转移的Postgres池器]]></title>
-        <id>https://news.ycombinator.com/item?id=30267539</id>
-        <link href="https://news.ycombinator.com/item?id=30267539"/>
-        <updated>2022-02-09T01:41:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PgCat, Postgres pooler with sharding, load balancing and failover]]></summary>
-        <author>
-            <name>levkk</name>
-            <uri>https://news.ycombinator.com/user?id=levkk</uri>
         </author>
     </entry>
 </feed>
