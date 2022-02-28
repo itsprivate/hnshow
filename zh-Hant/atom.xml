@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-28T01:59:42.252Z</updated>
+    <updated>2022-02-28T14:25:04.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Deo - 成為10倍發展的下一步]]></title>
+        <id>https://news.ycombinator.com/item?id=30499851</id>
+        <link href="https://news.ycombinator.com/item?id=30499851"/>
+        <updated>2022-02-28T14:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Deo – The next step to become a 10x dev]]></summary>
+        <author>
+            <name>VarunPotti</name>
+            <uri>https://news.ycombinator.com/user?id=VarunPotti</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LiveDocs - 將任何地方的實時數據帶到你的文檔中，而不需要代碼。]]></title>
+        <id>https://news.ycombinator.com/item?id=30499728</id>
+        <link href="https://news.ycombinator.com/item?id=30499728"/>
+        <updated>2022-02-28T13:46:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: LiveDocs – bring live data from anywhere to your docs, without code]]></summary>
+        <author>
+            <name>arsalanb</name>
+            <uri>https://news.ycombinator.com/user?id=arsalanb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wordle.global - 61種語言的開源Wordle]]></title>
+        <id>https://news.ycombinator.com/item?id=30499493</id>
+        <link href="https://news.ycombinator.com/item?id=30499493"/>
+        <updated>2022-02-28T13:20:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Wordle.global — open-source Wordle in 61 languages]]></summary>
+        <author>
+            <name>montenegrohugo</name>
+            <uri>https://news.ycombinator.com/user?id=montenegrohugo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[檢查你的網站是否違反了GDPR]]></title>
+        <id>https://news.ycombinator.com/item?id=30498995</id>
+        <link href="https://news.ycombinator.com/item?id=30498995"/>
+        <updated>2022-02-28T12:09:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Check if your website violates GDPR]]></summary>
+        <author>
+            <name>hauken</name>
+            <uri>https://news.ycombinator.com/user?id=hauken</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twiclips - 免費的Twitch剪輯下載器]]></title>
         <id>https://news.ycombinator.com/item?id=30494949</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>TylerBryden</name>
             <uri>https://news.ycombinator.com/user?id=TylerBryden</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[創建你自己的自駕遊招聘網站]]></title>
-        <id>https://news.ycombinator.com/item?id=30259283</id>
-        <link href="https://news.ycombinator.com/item?id=30259283"/>
-        <updated>2022-02-08T15:11:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Create your own self-driving job board]]></summary>
-        <author>
-            <name>seanlinehan</name>
-            <uri>https://news.ycombinator.com/user?id=seanlinehan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CryptoSOR，一個複合交易所訂單簿]]></title>
-        <id>https://news.ycombinator.com/item?id=30259278</id>
-        <link href="https://news.ycombinator.com/item?id=30259278"/>
-        <updated>2022-02-08T15:11:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CryptoSOR, a composite exchange order book]]></summary>
-        <author>
-            <name>is0tope</name>
-            <uri>https://news.ycombinator.com/user?id=is0tope</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中文詞彙表]]></title>
-        <id>https://news.ycombinator.com/item?id=30259138</id>
-        <link href="https://news.ycombinator.com/item?id=30259138"/>
-        <updated>2022-02-08T14:59:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Chinese Wordle]]></summary>
-        <author>
-            <name>barbarr</name>
-            <uri>https://news.ycombinator.com/user?id=barbarr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[方舟投資盈利日曆和追蹤器]]></title>
-        <id>https://news.ycombinator.com/item?id=30259110</id>
-        <link href="https://news.ycombinator.com/item?id=30259110"/>
-        <updated>2022-02-08T14:57:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ark Invest Earnings Calendar and Tracker]]></summary>
-        <author>
-            <name>isthispermanent</name>
-            <uri>https://news.ycombinator.com/user?id=isthispermanent</uri>
         </author>
     </entry>
 </feed>
