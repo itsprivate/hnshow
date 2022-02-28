@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 28 Feb 2022 19:29:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 19:53:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GitHub採取行動，防止軟件供應鏈攻擊]]></title>
+            <link>https://news.ycombinator.com/item?id=30504205</link>
+            <guid>https://news.ycombinator.com/item?id=30504205</guid>
+            <pubDate>Mon, 28 Feb 2022 19:47:11 GMT</pubDate>
+            <description><![CDATA[Show HN: GitHub Action to prevent software supply chain attacks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Stripe Sigma替代方案：Tdog | SQLite | Datasette]]></title>
+            <link>https://news.ycombinator.com/item?id=30504158</link>
+            <guid>https://news.ycombinator.com/item?id=30504158</guid>
+            <pubDate>Mon, 28 Feb 2022 19:42:58 GMT</pubDate>
+            <description><![CDATA[Show HN: Stripe Sigma alternative: tdog | SQLite | Datasette]]></description>
+        </item>
         <item>
             <title><![CDATA[安卓通訊錄API--用3年的時間建成]]></title>
             <link>https://news.ycombinator.com/item?id=30503739</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30265685</guid>
             <pubDate>Tue, 08 Feb 2022 22:22:04 GMT</pubDate>
             <description><![CDATA[Show HN: Worduel – competitive or casual Wordle with friends]]></description>
-        </item>
-        <item>
-            <title><![CDATA[供給和需求]]></title>
-            <link>https://news.ycombinator.com/item?id=30265532</link>
-            <guid>https://news.ycombinator.com/item?id=30265532</guid>
-            <pubDate>Tue, 08 Feb 2022 22:09:56 GMT</pubDate>
-            <description><![CDATA[Show HN: Supply and Demand]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Checkmango - 全棧A/B測試平臺]]></title>
-            <link>https://news.ycombinator.com/item?id=30265457</link>
-            <guid>https://news.ycombinator.com/item?id=30265457</guid>
-            <pubDate>Tue, 08 Feb 2022 22:03:28 GMT</pubDate>
-            <description><![CDATA[Show HN: Checkmango – Full Stack A/B Testing Platform]]></description>
         </item>
     </channel>
 </rss>

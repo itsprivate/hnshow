@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-28T19:29:33.742Z</updated>
+    <updated>2022-02-28T19:53:13.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GitHub采取行动，防止软件供应链攻击]]></title>
+        <id>https://news.ycombinator.com/item?id=30504205</id>
+        <link href="https://news.ycombinator.com/item?id=30504205"/>
+        <updated>2022-02-28T19:47:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GitHub Action to prevent software supply chain attacks]]></summary>
+        <author>
+            <name>varunsharma07</name>
+            <uri>https://news.ycombinator.com/user?id=varunsharma07</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stripe Sigma替代方案：Tdog | SQLite | Datasette]]></title>
+        <id>https://news.ycombinator.com/item?id=30504158</id>
+        <link href="https://news.ycombinator.com/item?id=30504158"/>
+        <updated>2022-02-28T19:42:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Stripe Sigma alternative: tdog | SQLite | Datasette]]></summary>
+        <author>
+            <name>emadda</name>
+            <uri>https://news.ycombinator.com/user?id=emadda</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安卓通讯录API--用3年的时间建成]]></title>
         <id>https://news.ycombinator.com/item?id=30503739</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>arlix</name>
             <uri>https://news.ycombinator.com/user?id=arlix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[供给和需求]]></title>
-        <id>https://news.ycombinator.com/item?id=30265532</id>
-        <link href="https://news.ycombinator.com/item?id=30265532"/>
-        <updated>2022-02-08T22:09:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Supply and Demand]]></summary>
-        <author>
-            <name>chester_r</name>
-            <uri>https://news.ycombinator.com/user?id=chester_r</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Checkmango - 全栈A/B测试平台]]></title>
-        <id>https://news.ycombinator.com/item?id=30265457</id>
-        <link href="https://news.ycombinator.com/item?id=30265457"/>
-        <updated>2022-02-08T22:03:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Checkmango – Full Stack A/B Testing Platform]]></summary>
-        <author>
-            <name>jbrooksuk</name>
-            <uri>https://news.ycombinator.com/user?id=jbrooksuk</uri>
         </author>
     </entry>
 </feed>
