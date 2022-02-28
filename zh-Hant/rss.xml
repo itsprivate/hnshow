@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 28 Feb 2022 17:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 18:37:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個更加社會化、不含亞馬遜的Goodreads替代品]]></title>
+            <link>https://news.ycombinator.com/item?id=30503197</link>
+            <guid>https://news.ycombinator.com/item?id=30503197</guid>
+            <pubDate>Mon, 28 Feb 2022 18:29:13 GMT</pubDate>
+            <description><![CDATA[Show HN: A more social, Amazon-free alternative to Goodreads]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Assertables是一個用於 "斷言 "測試的Rust Crate宏（v5）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30503172</link>
+            <guid>https://news.ycombinator.com/item?id=30503172</guid>
+            <pubDate>Mon, 28 Feb 2022 18:27:14 GMT</pubDate>
+            <description><![CDATA[Show HN: Assertables is a Rust crate of macros for “assert” testing (v5)]]></description>
+        </item>
         <item>
             <title><![CDATA[我為PG創建了一個Chrome擴展：TRAB（Tweet Reporter and Blocker）。]]></title>
             <link>https://news.ycombinator.com/item?id=30502480</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30264001</guid>
             <pubDate>Tue, 08 Feb 2022 20:17:14 GMT</pubDate>
             <description><![CDATA[Show HN: Venvrc – simple Python-venv wrapper written in Bash]]></description>
-        </item>
-        <item>
-            <title><![CDATA[第一個無代碼項目--職業發展資源目錄]]></title>
-            <link>https://news.ycombinator.com/item?id=30263994</link>
-            <guid>https://news.ycombinator.com/item?id=30263994</guid>
-            <pubDate>Tue, 08 Feb 2022 20:16:55 GMT</pubDate>
-            <description><![CDATA[Show HN: First no-code project – a directory of career advancement resources]]></description>
-        </item>
-        <item>
-            <title><![CDATA[開源的Osint工具]]></title>
-            <link>https://news.ycombinator.com/item?id=30263971</link>
-            <guid>https://news.ycombinator.com/item?id=30263971</guid>
-            <pubDate>Tue, 08 Feb 2022 20:15:20 GMT</pubDate>
-            <description><![CDATA[Show HN: Open-Source Osint Tool]]></description>
         </item>
     </channel>
 </rss>
