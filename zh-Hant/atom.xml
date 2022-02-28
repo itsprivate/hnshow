@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-28T16:21:27.395Z</updated>
+    <updated>2022-02-28T17:07:26.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在GitHub PR上的語言意識差異]]></title>
+        <id>https://news.ycombinator.com/item?id=30502020</id>
+        <link href="https://news.ycombinator.com/item?id=30502020"/>
+        <updated>2022-02-28T16:53:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Language aware diff on GitHub PRs]]></summary>
+        <author>
+            <name>difflens</name>
+            <uri>https://news.ycombinator.com/user?id=difflens</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HackerDraw - 輕鬆繪製圖表]]></title>
         <id>https://news.ycombinator.com/item?id=30500996</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>borapdx</name>
             <uri>https://news.ycombinator.com/user?id=borapdx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS代碼的Sourcegraph代碼搜索]]></title>
-        <id>https://news.ycombinator.com/item?id=30263715</id>
-        <link href="https://news.ycombinator.com/item?id=30263715"/>
-        <updated>2022-02-08T19:58:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Sourcegraph Code Search for VS Code]]></summary>
-        <author>
-            <name>jdorfman</name>
-            <uri>https://news.ycombinator.com/user?id=jdorfman</uri>
         </author>
     </entry>
 </feed>
