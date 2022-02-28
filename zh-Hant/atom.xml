@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-02-28T22:34:11.368Z</updated>
+    <updated>2022-02-28T23:15:35.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Go 1.18中SliceTricks的通用實現來自Go wiki]]></title>
+        <id>https://news.ycombinator.com/item?id=30506328</id>
+        <link href="https://news.ycombinator.com/item?id=30506328"/>
+        <updated>2022-02-28T22:56:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Go 1.18 generic implementations of SliceTricks from the Go wiki]]></summary>
+        <author>
+            <name>jamespwilliams</name>
+            <uri>https://news.ycombinator.com/user?id=jamespwilliams</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科學週刊--一份包含科學新聞和問題的通訊]]></title>
         <id>https://news.ycombinator.com/item?id=30505904</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>david_abaev</name>
             <uri>https://news.ycombinator.com/user?id=david_abaev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一體化的安卓個人規劃器應用]]></title>
-        <id>https://news.ycombinator.com/item?id=30268173</id>
-        <link href="https://news.ycombinator.com/item?id=30268173"/>
-        <updated>2022-02-09T02:59:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: All-in-one personal planner app for Android]]></summary>
-        <author>
-            <name>bit-ray</name>
-            <uri>https://news.ycombinator.com/user?id=bit-ray</uri>
         </author>
     </entry>
 </feed>

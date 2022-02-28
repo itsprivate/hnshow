@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 28 Feb 2022 22:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 23:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Go 1.18中SliceTricks的通用实现来自Go wiki]]></title>
+            <link>https://news.ycombinator.com/item?id=30506328</link>
+            <guid>https://news.ycombinator.com/item?id=30506328</guid>
+            <pubDate>Mon, 28 Feb 2022 22:56:27 GMT</pubDate>
+            <description><![CDATA[Show HN: Go 1.18 generic implementations of SliceTricks from the Go wiki]]></description>
+        </item>
         <item>
             <title><![CDATA[科学周刊--一份包含科学新闻和问题的通讯]]></title>
             <link>https://news.ycombinator.com/item?id=30505904</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30268476</guid>
             <pubDate>Wed, 09 Feb 2022 03:38:52 GMT</pubDate>
             <description><![CDATA[Show HN: Connect to any API without code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一体化的安卓个人规划器应用]]></title>
-            <link>https://news.ycombinator.com/item?id=30268173</link>
-            <guid>https://news.ycombinator.com/item?id=30268173</guid>
-            <pubDate>Wed, 09 Feb 2022 02:59:09 GMT</pubDate>
-            <description><![CDATA[Show HN: All-in-one personal planner app for Android]]></description>
         </item>
     </channel>
 </rss>
