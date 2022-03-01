@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-01T19:39:44.545Z</updated>
+    <updated>2022-03-01T19:54:12.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FortunesRise - 適用於所有資產類型的投資追蹤器]]></title>
+        <id>https://news.ycombinator.com/item?id=30519094</id>
+        <link href="https://news.ycombinator.com/item?id=30519094"/>
+        <updated>2022-03-01T19:50:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: FortunesRise – An investment tracker for all asset types]]></summary>
+        <author>
+            <name>ngburke</name>
+            <uri>https://news.ycombinator.com/user?id=ngburke</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安樂室]]></title>
         <id>https://news.ycombinator.com/item?id=30518680</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>krinn_silver</name>
             <uri>https://news.ycombinator.com/user?id=krinn_silver</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[循環觀看隨機電影預告片]]></title>
-        <id>https://news.ycombinator.com/item?id=30282386</id>
-        <link href="https://news.ycombinator.com/item?id=30282386"/>
-        <updated>2022-02-10T04:14:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Watch Random Movie Trailers in a Loop]]></summary>
-        <author>
-            <name>ptio</name>
-            <uri>https://news.ycombinator.com/user?id=ptio</uri>
         </author>
     </entry>
 </feed>
