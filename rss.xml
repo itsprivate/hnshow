@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 01 Mar 2022 18:38:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 19:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[WunderHub - 像NPM包一样发布和消费API]]></title>
+            <link>https://news.ycombinator.com/item?id=30518389</link>
+            <guid>https://news.ycombinator.com/item?id=30518389</guid>
+            <pubDate>Tue, 01 Mar 2022 18:57:03 GMT</pubDate>
+            <description><![CDATA[Show HN: WunderHub – publish and consume APIs like NPM packages]]></description>
+        </item>
+        <item>
+            <title><![CDATA[对实时视频媒体流进行抖动]]></title>
+            <link>https://news.ycombinator.com/item?id=30518369</link>
+            <guid>https://news.ycombinator.com/item?id=30518369</guid>
+            <pubDate>Tue, 01 Mar 2022 18:55:48 GMT</pubDate>
+            <description><![CDATA[Show HN: Dithering a real-time video media stream]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Duckly - 跨IDE实时代码共享与视频通话]]></title>
+            <link>https://news.ycombinator.com/item?id=30518335</link>
+            <guid>https://news.ycombinator.com/item?id=30518335</guid>
+            <pubDate>Tue, 01 Mar 2022 18:53:40 GMT</pubDate>
+            <description><![CDATA[Show HN: Duckly – Cross-IDE real-time code sharing with video call]]></description>
+        </item>
         <item>
             <title><![CDATA[Type2Learn - 通过在浏览器中输入网页文本进行学习]]></title>
             <link>https://news.ycombinator.com/item?id=30517822</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30281537</guid>
             <pubDate>Thu, 10 Feb 2022 01:54:50 GMT</pubDate>
             <description><![CDATA[Show HN: Redirect your customers from your marketing page to your app]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Trailer Docket - 一个新的运输管理系统]]></title>
-            <link>https://news.ycombinator.com/item?id=30281400</link>
-            <guid>https://news.ycombinator.com/item?id=30281400</guid>
-            <pubDate>Thu, 10 Feb 2022 01:36:46 GMT</pubDate>
-            <description><![CDATA[Show HN: Trailer Docket – A new transportation management system]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Medusa-extender的新版本 - 去看看吧]]></title>
-            <link>https://news.ycombinator.com/item?id=30281310</link>
-            <guid>https://news.ycombinator.com/item?id=30281310</guid>
-            <pubDate>Thu, 10 Feb 2022 01:25:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Medusa-extender new release – Go check it out]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Strictbash - 启用Bash的 "严格模式 "并通过shebang运行shellcheck。]]></title>
-            <link>https://news.ycombinator.com/item?id=30279803</link>
-            <guid>https://news.ycombinator.com/item?id=30279803</guid>
-            <pubDate>Wed, 09 Feb 2022 22:51:16 GMT</pubDate>
-            <description><![CDATA[Show HN: Strictbash – enable Bash “strict mode” & run shellcheck via a shebang]]></description>
         </item>
     </channel>
 </rss>
