@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-01T19:15:07.390Z</updated>
+    <updated>2022-03-01T19:26:54.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Louper - 現場音頻循環應用]]></title>
+        <id>https://news.ycombinator.com/item?id=30518587</id>
+        <link href="https://news.ycombinator.com/item?id=30518587"/>
+        <updated>2022-03-01T19:10:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Louper – live audio looping app]]></summary>
+        <author>
+            <name>wdfx</name>
+            <uri>https://news.ycombinator.com/user?id=wdfx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WunderHub - 像NPM包一樣發佈和消費API]]></title>
         <id>https://news.ycombinator.com/item?id=30518389</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>wizardofmysore</name>
             <uri>https://news.ycombinator.com/user?id=wizardofmysore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將你的客戶從你的營銷頁面重定向到你的應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30281537</id>
-        <link href="https://news.ycombinator.com/item?id=30281537"/>
-        <updated>2022-02-10T01:54:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Redirect your customers from your marketing page to your app]]></summary>
-        <author>
-            <name>eaplant</name>
-            <uri>https://news.ycombinator.com/user?id=eaplant</uri>
         </author>
     </entry>
 </feed>
