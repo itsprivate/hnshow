@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-01T20:42:59.186Z</updated>
+    <updated>2022-03-01T21:14:42.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個網頁遊戲，叫作 "Almost Pong"。]]></title>
+        <id>https://news.ycombinator.com/item?id=30517626</id>
+        <link href="https://news.ycombinator.com/item?id=30517626"/>
+        <updated>2022-03-01T18:09:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a web game called Almost Pong]]></summary>
+        <author>
+            <name>lessmilk</name>
+            <uri>https://news.ycombinator.com/user?id=lessmilk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zetteldesk - Org-Roam的Zettelkasten]]></title>
         <id>https://news.ycombinator.com/item?id=30519681</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rfez</name>
             <uri>https://news.ycombinator.com/user?id=rfez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[700%的增長 ( 討論 )]]></title>
-        <id>https://news.ycombinator.com/item?id=30283423</id>
-        <link href="https://news.ycombinator.com/item?id=30283423"/>
-        <updated>2022-02-10T07:47:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: 700% Growth ( Discussion)]]></summary>
-        <author>
-            <name>daudmalik06</name>
-            <uri>https://news.ycombinator.com/user?id=daudmalik06</uri>
         </author>
     </entry>
 </feed>
