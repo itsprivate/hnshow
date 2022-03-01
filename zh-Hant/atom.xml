@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-01T12:53:03.990Z</updated>
+    <updated>2022-03-01T13:35:33.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[直接用Python轉換表，無需編寫SQL]]></title>
+        <id>https://news.ycombinator.com/item?id=30513780</id>
+        <link href="https://news.ycombinator.com/item?id=30513780"/>
+        <updated>2022-03-01T13:22:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Transform tables directly with Python, without writing SQL]]></summary>
+        <author>
+            <name>cpdough</name>
+            <uri>https://news.ycombinator.com/user?id=cpdough</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[琛琛]]></title>
         <id>https://news.ycombinator.com/item?id=30513307</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nikvdp</name>
             <uri>https://news.ycombinator.com/user?id=nikvdp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任何地方的音樂模式。YouTube鎖屏音頻。無需擴展或下載]]></title>
-        <id>https://news.ycombinator.com/item?id=30272261</id>
-        <link href="https://news.ycombinator.com/item?id=30272261"/>
-        <updated>2022-02-09T13:18:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Music Mode anywhere. YouTube lockscreen audio. No extension or download]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
         </author>
     </entry>
 </feed>
