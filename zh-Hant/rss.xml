@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 01 Mar 2022 17:55:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 18:38:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Type2Learn - 通過在瀏覽器中輸入網頁文本進行學習]]></title>
+            <link>https://news.ycombinator.com/item?id=30517822</link>
+            <guid>https://news.ycombinator.com/item?id=30517822</guid>
+            <pubDate>Tue, 01 Mar 2022 18:21:02 GMT</pubDate>
+            <description><![CDATA[Show HN: Type2Learn – Learn by typing the webpage text in the browser itself]]></description>
+        </item>
+        <item>
+            <title><![CDATA[綠色技術工作委員會]]></title>
+            <link>https://news.ycombinator.com/item?id=30517809</link>
+            <guid>https://news.ycombinator.com/item?id=30517809</guid>
+            <pubDate>Tue, 01 Mar 2022 18:19:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Green Tech Job Board]]></description>
+        </item>
         <item>
             <title><![CDATA[一個模塊化的Python TUI框架，具有快速和漂亮的標記語言]]></title>
             <link>https://news.ycombinator.com/item?id=30517299</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30279803</guid>
             <pubDate>Wed, 09 Feb 2022 22:51:16 GMT</pubDate>
             <description><![CDATA[Show HN: Strictbash – enable Bash “strict mode” & run shellcheck via a shebang]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Figma插件使從設計到HTML/CSS的速度更快]]></title>
-            <link>https://news.ycombinator.com/item?id=30279087</link>
-            <guid>https://news.ycombinator.com/item?id=30279087</guid>
-            <pubDate>Wed, 09 Feb 2022 21:53:32 GMT</pubDate>
-            <description><![CDATA[Show HN: Figma plugin to make going from design to HTML/CSS faster]]></description>
-        </item>
-        <item>
-            <title><![CDATA[自動化你的工作搜索]]></title>
-            <link>https://news.ycombinator.com/item?id=30278745</link>
-            <guid>https://news.ycombinator.com/item?id=30278745</guid>
-            <pubDate>Wed, 09 Feb 2022 21:27:58 GMT</pubDate>
-            <description><![CDATA[Show HN: Automate Your Job Search]]></description>
         </item>
     </channel>
 </rss>

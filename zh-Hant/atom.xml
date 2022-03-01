@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-01T17:55:58.503Z</updated>
+    <updated>2022-03-01T18:38:40.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Type2Learn - 通過在瀏覽器中輸入網頁文本進行學習]]></title>
+        <id>https://news.ycombinator.com/item?id=30517822</id>
+        <link href="https://news.ycombinator.com/item?id=30517822"/>
+        <updated>2022-03-01T18:21:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Type2Learn – Learn by typing the webpage text in the browser itself]]></summary>
+        <author>
+            <name>rghv</name>
+            <uri>https://news.ycombinator.com/user?id=rghv</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[綠色技術工作委員會]]></title>
+        <id>https://news.ycombinator.com/item?id=30517809</id>
+        <link href="https://news.ycombinator.com/item?id=30517809"/>
+        <updated>2022-03-01T18:19:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Green Tech Job Board]]></summary>
+        <author>
+            <name>mkozak</name>
+            <uri>https://news.ycombinator.com/user?id=mkozak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個模塊化的Python TUI框架，具有快速和漂亮的標記語言]]></title>
         <id>https://news.ycombinator.com/item?id=30517299</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jamespwilliams</name>
             <uri>https://news.ycombinator.com/user?id=jamespwilliams</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Figma插件使從設計到HTML/CSS的速度更快]]></title>
-        <id>https://news.ycombinator.com/item?id=30279087</id>
-        <link href="https://news.ycombinator.com/item?id=30279087"/>
-        <updated>2022-02-09T21:53:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Figma plugin to make going from design to HTML/CSS faster]]></summary>
-        <author>
-            <name>riemann</name>
-            <uri>https://news.ycombinator.com/user?id=riemann</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自動化你的工作搜索]]></title>
-        <id>https://news.ycombinator.com/item?id=30278745</id>
-        <link href="https://news.ycombinator.com/item?id=30278745"/>
-        <updated>2022-02-09T21:27:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Automate Your Job Search]]></summary>
-        <author>
-            <name>vivekiitj</name>
-            <uri>https://news.ycombinator.com/user?id=vivekiitj</uri>
         </author>
     </entry>
 </feed>
