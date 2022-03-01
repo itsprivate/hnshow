@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-01T17:45:24.682Z</updated>
+    <updated>2022-03-01T17:55:58.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个模块化的Python TUI框架，具有快速和漂亮的标记语言]]></title>
+        <id>https://news.ycombinator.com/item?id=30517299</id>
+        <link href="https://news.ycombinator.com/item?id=30517299"/>
+        <updated>2022-03-01T17:46:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A modular Python TUI framework with a fast and pretty markup language]]></summary>
+        <author>
+            <name>bczsalba</name>
+            <uri>https://news.ycombinator.com/user?id=bczsalba</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS发布开源物联网应用工具包]]></title>
         <id>https://news.ycombinator.com/item?id=30517156</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vivekiitj</name>
             <uri>https://news.ycombinator.com/user?id=vivekiitj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZXB--ZX的脚本管理器]]></title>
-        <id>https://news.ycombinator.com/item?id=30278389</id>
-        <link href="https://news.ycombinator.com/item?id=30278389"/>
-        <updated>2022-02-09T20:58:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ZXB – Script Manager for ZX]]></summary>
-        <author>
-            <name>pyronaur</name>
-            <uri>https://news.ycombinator.com/user?id=pyronaur</uri>
         </author>
     </entry>
 </feed>
