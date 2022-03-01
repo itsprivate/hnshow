@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-01T15:38:04.357Z</updated>
+    <updated>2022-03-01T15:55:19.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Brackit - 基于JSONiq的可重定向JSON查询引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=30515582</id>
+        <link href="https://news.ycombinator.com/item?id=30515582"/>
+        <updated>2022-03-01T15:49:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Brackit – a retargetable JSONiq based query engine for JSON]]></summary>
+        <author>
+            <name>lichtenberger</name>
+            <uri>https://news.ycombinator.com/user?id=lichtenberger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2分钟内为你的REST API提供RBAC]]></title>
         <id>https://news.ycombinator.com/item?id=30515346</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>k8s_Hero</name>
             <uri>https://news.ycombinator.com/user?id=k8s_Hero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开放式政策注册：受Docker启发的OPA政策工作流程]]></title>
-        <id>https://news.ycombinator.com/item?id=30273753</id>
-        <link href="https://news.ycombinator.com/item?id=30273753"/>
-        <updated>2022-02-09T15:31:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open Policy Registry: a Docker-inspired workflow for OPA policies]]></summary>
-        <author>
-            <name>ogazitt</name>
-            <uri>https://news.ycombinator.com/user?id=ogazitt</uri>
         </author>
     </entry>
 </feed>
