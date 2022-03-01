@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-01T19:54:12.153Z</updated>
+    <updated>2022-03-01T20:42:59.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Zetteldesk - Org-Roam的Zettelkasten]]></title>
+        <id>https://news.ycombinator.com/item?id=30519681</id>
+        <link href="https://news.ycombinator.com/item?id=30519681"/>
+        <updated>2022-03-01T20:39:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Zetteldesk – Zettelkasten for Org-Roam]]></summary>
+        <author>
+            <name>drudoo</name>
+            <uri>https://news.ycombinator.com/user?id=drudoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FortunesRise - 适用于所有资产类型的投资追踪器]]></title>
         <id>https://news.ycombinator.com/item?id=30519094</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>daudmalik06</name>
             <uri>https://news.ycombinator.com/user?id=daudmalik06</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FindMyMoji - 一个基于逻辑的日常游戏，灵感来自Wordle]]></title>
-        <id>https://news.ycombinator.com/item?id=30282626</id>
-        <link href="https://news.ycombinator.com/item?id=30282626"/>
-        <updated>2022-02-10T05:02:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: FindMyMoji – a daily, logic-based game inspired by Wordle]]></summary>
-        <author>
-            <name>krinn_silver</name>
-            <uri>https://news.ycombinator.com/user?id=krinn_silver</uri>
         </author>
     </entry>
 </feed>
