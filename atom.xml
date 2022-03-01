@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-01T16:49:51.945Z</updated>
+    <updated>2022-03-01T17:07:57.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Watasu.js - 灵活的抽象解释器]]></title>
+        <id>https://news.ycombinator.com/item?id=30516537</id>
+        <link href="https://news.ycombinator.com/item?id=30516537"/>
+        <updated>2022-03-01T16:53:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Watasu.js – Flexible Abstraction Interpreter]]></summary>
+        <author>
+            <name>oltdaniel</name>
+            <uri>https://news.ycombinator.com/user?id=oltdaniel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HackerPen - 练习如何在技术面试中获胜]]></title>
+        <id>https://news.ycombinator.com/item?id=30516444</id>
+        <link href="https://news.ycombinator.com/item?id=30516444"/>
+        <updated>2022-03-01T16:48:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: HackerPen – practice to ace tech interviews]]></summary>
+        <author>
+            <name>marshall2016</name>
+            <uri>https://news.ycombinator.com/user?id=marshall2016</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的无代码测试平台正在测试自己，并获得70%的覆盖率]]></title>
+        <id>https://news.ycombinator.com/item?id=30515583</id>
+        <link href="https://news.ycombinator.com/item?id=30515583"/>
+        <updated>2022-03-01T15:49:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My no-code testing platform is testing itself and getting 70% coverage]]></summary>
+        <author>
+            <name>slayerjain</name>
+            <uri>https://news.ycombinator.com/user?id=slayerjain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Doihavejavascriptenabled.com - 做到了它在罐子上所说的。]]></title>
         <id>https://news.ycombinator.com/item?id=30516332</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>ddubski</name>
             <uri>https://news.ycombinator.com/user?id=ddubski</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[检查你的NFTs是否是不可改变的]]></title>
-        <id>https://news.ycombinator.com/item?id=30274961</id>
-        <link href="https://news.ycombinator.com/item?id=30274961"/>
-        <updated>2022-02-09T17:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Check if your NFTs are immutable]]></summary>
-        <author>
-            <name>rameerez</name>
-            <uri>https://news.ycombinator.com/user?id=rameerez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将你的dotfiles同步到一个私人的GitHub gist中]]></title>
-        <id>https://news.ycombinator.com/item?id=30274327</id>
-        <link href="https://news.ycombinator.com/item?id=30274327"/>
-        <updated>2022-02-09T16:10:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Sync your dotfiles into a private GitHub gist]]></summary>
-        <author>
-            <name>earth2mars</name>
-            <uri>https://news.ycombinator.com/user?id=earth2mars</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将PyCharm的软件包扫描速度提高90%。]]></title>
-        <id>https://news.ycombinator.com/item?id=30274187</id>
-        <link href="https://news.ycombinator.com/item?id=30274187"/>
-        <updated>2022-02-09T15:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Speeing up PyCharm's package scanning by 90%]]></summary>
-        <author>
-            <name>miraculixx</name>
-            <uri>https://news.ycombinator.com/user?id=miraculixx</uri>
         </author>
     </entry>
 </feed>
