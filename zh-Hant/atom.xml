@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-01T21:54:28.534Z</updated>
+    <updated>2022-03-01T23:13:56.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[輕語言 - 為和平而生的通用編程語言]]></title>
+        <id>https://news.ycombinator.com/item?id=30521162</id>
+        <link href="https://news.ycombinator.com/item?id=30521162"/>
+        <updated>2022-03-01T22:53:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Light Language - General purpose programming language made for peace]]></summary>
+        <author>
+            <name>adelarsq</name>
+            <uri>https://news.ycombinator.com/user?id=adelarsq</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌會議擴展的新房間]]></title>
         <id>https://news.ycombinator.com/item?id=30520424</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>d--b</name>
             <uri>https://news.ycombinator.com/user?id=d--b</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emailkick - 用於AWS SES的簡單電子郵件模板設計器和API]]></title>
-        <id>https://news.ycombinator.com/item?id=30284093</id>
-        <link href="https://news.ycombinator.com/item?id=30284093"/>
-        <updated>2022-02-10T09:33:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Emailkick – Simple email template designer and API for AWS SES]]></summary>
-        <author>
-            <name>athulsuresh123</name>
-            <uri>https://news.ycombinator.com/user?id=athulsuresh123</uri>
         </author>
     </entry>
 </feed>
