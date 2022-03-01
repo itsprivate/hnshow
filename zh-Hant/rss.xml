@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 28 Feb 2022 23:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 05:13:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[DoorStep - 開源的租賃管理應用程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30509858</link>
+            <guid>https://news.ycombinator.com/item?id=30509858</guid>
+            <pubDate>Tue, 01 Mar 2022 05:03:46 GMT</pubDate>
+            <description><![CDATA[Show HN: DoorStep – Open-source Rental Management App]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Shalchemy - 方便地從Python執行二進制文件]]></title>
+            <link>https://news.ycombinator.com/item?id=30509847</link>
+            <guid>https://news.ycombinator.com/item?id=30509847</guid>
+            <pubDate>Tue, 01 Mar 2022 05:01:57 GMT</pubDate>
+            <description><![CDATA[Show HN: Shalchemy – Conveniently execute binaries from Python]]></description>
+        </item>
+        <item>
+            <title><![CDATA[SocketPuppet--為你的無瀏覽器/Browserstack工作提供的瀏覽器用戶界面]]></title>
+            <link>https://news.ycombinator.com/item?id=30509318</link>
+            <guid>https://news.ycombinator.com/item?id=30509318</guid>
+            <pubDate>Tue, 01 Mar 2022 03:59:49 GMT</pubDate>
+            <description><![CDATA[Show HN: SocketPuppet – a browser UI for your Browserless / Browserstack jobs]]></description>
+        </item>
         <item>
             <title><![CDATA[Go 1.18中SliceTricks的通用實現來自Go wiki]]></title>
             <link>https://news.ycombinator.com/item?id=30506328</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30270571</guid>
             <pubDate>Wed, 09 Feb 2022 09:05:42 GMT</pubDate>
             <description><![CDATA[Show HN: A Prometheus exporter that gathers сomprehensive containers' metrics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[預測汽車壽命的人工智能]]></title>
-            <link>https://news.ycombinator.com/item?id=30270216</link>
-            <guid>https://news.ycombinator.com/item?id=30270216</guid>
-            <pubDate>Wed, 09 Feb 2022 08:12:41 GMT</pubDate>
-            <description><![CDATA[Show HN: An AI that predicts how long a car will last]]></description>
-        </item>
-        <item>
-            <title><![CDATA[輕鬆地創建文本背景]]></title>
-            <link>https://news.ycombinator.com/item?id=30270010</link>
-            <guid>https://news.ycombinator.com/item?id=30270010</guid>
-            <pubDate>Wed, 09 Feb 2022 07:39:23 GMT</pubDate>
-            <description><![CDATA[Show HN: Easily Create Text Backgrounds]]></description>
-        </item>
-        <item>
-            <title><![CDATA[無需代碼即可連接到任何API]]></title>
-            <link>https://news.ycombinator.com/item?id=30268476</link>
-            <guid>https://news.ycombinator.com/item?id=30268476</guid>
-            <pubDate>Wed, 09 Feb 2022 03:38:52 GMT</pubDate>
-            <description><![CDATA[Show HN: Connect to any API without code]]></description>
         </item>
     </channel>
 </rss>
