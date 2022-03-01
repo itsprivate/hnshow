@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 01 Mar 2022 16:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 16:49:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Doihavejavascriptenabled.com - 做到了它在罐子上所说的。]]></title>
+            <link>https://news.ycombinator.com/item?id=30516332</link>
+            <guid>https://news.ycombinator.com/item?id=30516332</guid>
+            <pubDate>Tue, 01 Mar 2022 16:38:09 GMT</pubDate>
+            <description><![CDATA[Show HN: Doihavejavascriptenabled.com – Does what it says on the tin]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Twitter OAuth2.0客户端的示例代码（Node.js&TypeScript）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30516024</link>
+            <guid>https://news.ycombinator.com/item?id=30516024</guid>
+            <pubDate>Tue, 01 Mar 2022 16:17:25 GMT</pubDate>
+            <description><![CDATA[Show HN: Sample Code for the Twitter OAuth2.0 Client (Node.js&TypeScript)]]></description>
+        </item>
         <item>
             <title><![CDATA[Memgraph 2.2.发布--支持流媒体的图数据库]]></title>
             <link>https://news.ycombinator.com/item?id=30515933</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30274187</guid>
             <pubDate>Wed, 09 Feb 2022 15:59:02 GMT</pubDate>
             <description><![CDATA[Show HN: Speeing up PyCharm's package scanning by 90%]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我发布了一个开源的Mac应用，可以复制屏幕上的任何文字]]></title>
-            <link>https://news.ycombinator.com/item?id=30274035</link>
-            <guid>https://news.ycombinator.com/item?id=30274035</guid>
-            <pubDate>Wed, 09 Feb 2022 15:47:55 GMT</pubDate>
-            <description><![CDATA[Show HN: I released an open-source Mac app to copy any text on the screen]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GNE，一个带有公钥加密扩展的焦油实现]]></title>
-            <link>https://news.ycombinator.com/item?id=30274018</link>
-            <guid>https://news.ycombinator.com/item?id=30274018</guid>
-            <pubDate>Wed, 09 Feb 2022 15:46:53 GMT</pubDate>
-            <description><![CDATA[Show HN: GNE, a tar implementation with public key encryption extensions]]></description>
         </item>
     </channel>
 </rss>

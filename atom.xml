@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-01T16:27:41.171Z</updated>
+    <updated>2022-03-01T16:49:51.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Doihavejavascriptenabled.com - 做到了它在罐子上所说的。]]></title>
+        <id>https://news.ycombinator.com/item?id=30516332</id>
+        <link href="https://news.ycombinator.com/item?id=30516332"/>
+        <updated>2022-03-01T16:38:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Doihavejavascriptenabled.com – Does what it says on the tin]]></summary>
+        <author>
+            <name>xd1936</name>
+            <uri>https://news.ycombinator.com/user?id=xd1936</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter OAuth2.0客户端的示例代码（Node.js&TypeScript）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30516024</id>
+        <link href="https://news.ycombinator.com/item?id=30516024"/>
+        <updated>2022-03-01T16:17:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sample Code for the Twitter OAuth2.0 Client (Node.js&TypeScript)]]></summary>
+        <author>
+            <name>kgoro</name>
+            <uri>https://news.ycombinator.com/user?id=kgoro</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Memgraph 2.2.发布--支持流媒体的图数据库]]></title>
         <id>https://news.ycombinator.com/item?id=30515933</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>miraculixx</name>
             <uri>https://news.ycombinator.com/user?id=miraculixx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我发布了一个开源的Mac应用，可以复制屏幕上的任何文字]]></title>
-        <id>https://news.ycombinator.com/item?id=30274035</id>
-        <link href="https://news.ycombinator.com/item?id=30274035"/>
-        <updated>2022-02-09T15:47:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I released an open-source Mac app to copy any text on the screen]]></summary>
-        <author>
-            <name>melonamin</name>
-            <uri>https://news.ycombinator.com/user?id=melonamin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNE，一个带有公钥加密扩展的焦油实现]]></title>
-        <id>https://news.ycombinator.com/item?id=30274018</id>
-        <link href="https://news.ycombinator.com/item?id=30274018"/>
-        <updated>2022-02-09T15:46:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GNE, a tar implementation with public key encryption extensions]]></summary>
-        <author>
-            <name>derekp7</name>
-            <uri>https://news.ycombinator.com/user?id=derekp7</uri>
         </author>
     </entry>
 </feed>
