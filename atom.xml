@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-01T23:13:56.134Z</updated>
+    <updated>2022-03-01T23:41:17.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为绝对的初学者开始一个新的编码频道。本周四]]></title>
+        <id>https://news.ycombinator.com/item?id=30521508</id>
+        <link href="https://news.ycombinator.com/item?id=30521508"/>
+        <updated>2022-03-01T23:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Starting a new coding channel for absolute beginners. This Thursday]]></summary>
+        <author>
+            <name>codeguppy</name>
+            <uri>https://news.ycombinator.com/user?id=codeguppy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻语言 - 为和平而生的通用编程语言]]></title>
         <id>https://news.ycombinator.com/item?id=30521162</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>joe-bell</name>
             <uri>https://news.ycombinator.com/user?id=joe-bell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Procrastinope - 在你的拖延症网站中插入你的待办事项清单]]></title>
-        <id>https://news.ycombinator.com/item?id=30284195</id>
-        <link href="https://news.ycombinator.com/item?id=30284195"/>
-        <updated>2022-02-10T09:47:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Procrastinope – insert your todo list into your procrastination site]]></summary>
-        <author>
-            <name>d--b</name>
-            <uri>https://news.ycombinator.com/user?id=d--b</uri>
         </author>
     </entry>
 </feed>

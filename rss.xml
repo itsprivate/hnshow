@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 01 Mar 2022 23:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 23:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为绝对的初学者开始一个新的编码频道。本周四]]></title>
+            <link>https://news.ycombinator.com/item?id=30521508</link>
+            <guid>https://news.ycombinator.com/item?id=30521508</guid>
+            <pubDate>Tue, 01 Mar 2022 23:30:27 GMT</pubDate>
+            <description><![CDATA[Show HN: Starting a new coding channel for absolute beginners. This Thursday]]></description>
+        </item>
         <item>
             <title><![CDATA[轻语言 - 为和平而生的通用编程语言]]></title>
             <link>https://news.ycombinator.com/item?id=30521162</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30284279</guid>
             <pubDate>Thu, 10 Feb 2022 10:01:10 GMT</pubDate>
             <description><![CDATA[Show HN: Class Variance Authority – type-safe variants for your UI components]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Procrastinope - 在你的拖延症网站中插入你的待办事项清单]]></title>
-            <link>https://news.ycombinator.com/item?id=30284195</link>
-            <guid>https://news.ycombinator.com/item?id=30284195</guid>
-            <pubDate>Thu, 10 Feb 2022 09:47:58 GMT</pubDate>
-            <description><![CDATA[Show HN: Procrastinope – insert your todo list into your procrastination site]]></description>
         </item>
     </channel>
 </rss>
