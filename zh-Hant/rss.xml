@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 01 Mar 2022 15:55:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 16:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Memgraph 2.2.發佈--支持流媒體的圖數據庫]]></title>
+            <link>https://news.ycombinator.com/item?id=30515933</link>
+            <guid>https://news.ycombinator.com/item?id=30515933</guid>
+            <pubDate>Tue, 01 Mar 2022 16:12:20 GMT</pubDate>
+            <description><![CDATA[Show HN: Memgraph 2.2. is released – graph database that supports streaming]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我創建了PlotPanel，一個用於創建交互式可視化的應用程序。]]></title>
+            <link>https://news.ycombinator.com/item?id=30515734</link>
+            <guid>https://news.ycombinator.com/item?id=30515734</guid>
+            <pubDate>Tue, 01 Mar 2022 16:00:48 GMT</pubDate>
+            <description><![CDATA[Show HN: I created PlotPanel, an app for creating interactive visualisations]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Dotling - 高度靈活、易於使用的網站建設者，適合每個人。]]></title>
+            <link>https://news.ycombinator.com/item?id=30515696</link>
+            <guid>https://news.ycombinator.com/item?id=30515696</guid>
+            <pubDate>Tue, 01 Mar 2022 15:58:35 GMT</pubDate>
+            <description><![CDATA[Show HN: Dotling – Highly flexible, easy to use site builder for everyone]]></description>
+        </item>
         <item>
             <title><![CDATA[Brackit - 基於JSONiq的可重定向JSON查詢引擎]]></title>
             <link>https://news.ycombinator.com/item?id=30515582</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30274018</guid>
             <pubDate>Wed, 09 Feb 2022 15:46:53 GMT</pubDate>
             <description><![CDATA[Show HN: GNE, a tar implementation with public key encryption extensions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jless，一個命令行JSON查看器]]></title>
-            <link>https://news.ycombinator.com/item?id=30273940</link>
-            <guid>https://news.ycombinator.com/item?id=30273940</guid>
-            <pubDate>Wed, 09 Feb 2022 15:41:59 GMT</pubDate>
-            <description><![CDATA[Show HN: Jless, a command-line JSON viewer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Zingg - 開源實體解析，實現單一真相來源]]></title>
-            <link>https://news.ycombinator.com/item?id=30273915</link>
-            <guid>https://news.ycombinator.com/item?id=30273915</guid>
-            <pubDate>Wed, 09 Feb 2022 15:40:16 GMT</pubDate>
-            <description><![CDATA[Show HN: Zingg – open-source entity resolution for single source of truth]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ValidKube - 驗證、清理和保護你的K8s YAML]]></title>
-            <link>https://news.ycombinator.com/item?id=30273857</link>
-            <guid>https://news.ycombinator.com/item?id=30273857</guid>
-            <pubDate>Wed, 09 Feb 2022 15:37:24 GMT</pubDate>
-            <description><![CDATA[Show HN: ValidKube – Validate, Clean and Secure Your K8s YAML]]></description>
         </item>
     </channel>
 </rss>
