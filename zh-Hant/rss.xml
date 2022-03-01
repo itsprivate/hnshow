@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 01 Mar 2022 19:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 19:39:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[安樂室]]></title>
+            <link>https://news.ycombinator.com/item?id=30518680</link>
+            <guid>https://news.ycombinator.com/item?id=30518680</guid>
+            <pubDate>Tue, 01 Mar 2022 19:17:17 GMT</pubDate>
+            <description><![CDATA[Show HN: Anonroom]]></description>
+        </item>
         <item>
             <title><![CDATA[Louper - 現場音頻循環應用]]></title>
             <link>https://news.ycombinator.com/item?id=30518587</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30282386</guid>
             <pubDate>Thu, 10 Feb 2022 04:14:44 GMT</pubDate>
             <description><![CDATA[Show HN: Watch Random Movie Trailers in a Loop]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Flow Tracker優化工作中的幸福感]]></title>
-            <link>https://news.ycombinator.com/item?id=30281925</link>
-            <guid>https://news.ycombinator.com/item?id=30281925</guid>
-            <pubDate>Thu, 10 Feb 2022 02:57:47 GMT</pubDate>
-            <description><![CDATA[Show HN: Optimize Happiness at Work with Flow Tracker]]></description>
         </item>
     </channel>
 </rss>
