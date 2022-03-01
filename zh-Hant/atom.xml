@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-01T14:58:11.189Z</updated>
+    <updated>2022-03-01T15:16:47.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[vcam.sh 一個帶背景的Linux虛擬攝像頭]]></title>
+        <id>https://news.ycombinator.com/item?id=30514851</id>
+        <link href="https://news.ycombinator.com/item?id=30514851"/>
+        <updated>2022-03-01T14:52:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: vcam.sh a Linux virtual cam with background]]></summary>
+        <author>
+            <name>miraculixx</name>
+            <uri>https://news.ycombinator.com/user?id=miraculixx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Atlas Connex - 簡化系統集成的工具]]></title>
         <id>https://news.ycombinator.com/item?id=30514782</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bdominy</name>
             <uri>https://news.ycombinator.com/user?id=bdominy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高級新聞搜索API]]></title>
-        <id>https://news.ycombinator.com/item?id=30273127</id>
-        <link href="https://news.ycombinator.com/item?id=30273127"/>
-        <updated>2022-02-09T14:41:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Advanced News Searching API]]></summary>
-        <author>
-            <name>caballeto</name>
-            <uri>https://news.ycombinator.com/user?id=caballeto</uri>
         </author>
     </entry>
 </feed>
