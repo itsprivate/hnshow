@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-02T21:11:20.599Z</updated>
+    <updated>2022-03-02T21:38:21.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Lunar適應顯示器的DIY環境光傳感器服務器]]></title>
+        <id>https://news.ycombinator.com/item?id=30533464</id>
+        <link href="https://news.ycombinator.com/item?id=30533464"/>
+        <updated>2022-03-02T21:31:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: DIY ambient light sensor server for adapting monitors with Lunar]]></summary>
+        <author>
+            <name>alin23</name>
+            <uri>https://news.ycombinator.com/user?id=alin23</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creodocs，一個基於LaTeX模板的文檔創建平臺]]></title>
         <id>https://news.ycombinator.com/item?id=30533142</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lwthiker</name>
             <uri>https://news.ycombinator.com/user?id=lwthiker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NattyNote，在YouTube上做有時間戳的筆記]]></title>
-        <id>https://news.ycombinator.com/item?id=30300732</id>
-        <link href="https://news.ycombinator.com/item?id=30300732"/>
-        <updated>2022-02-11T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: NattyNote, Take time-stamped YouTube notes]]></summary>
-        <author>
-            <name>sundid</name>
-            <uri>https://news.ycombinator.com/user?id=sundid</uri>
         </author>
     </entry>
 </feed>
