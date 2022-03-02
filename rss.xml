@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 02 Mar 2022 14:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 14:58:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[语音记忆]]></title>
+            <link>https://news.ycombinator.com/item?id=30527932</link>
+            <guid>https://news.ycombinator.com/item?id=30527932</guid>
+            <pubDate>Wed, 02 Mar 2022 14:50:20 GMT</pubDate>
+            <description><![CDATA[Show HN: VoiceMem]]></description>
+        </item>
+        <item>
+            <title><![CDATA[免费快速建立一个漂亮的状态页面]]></title>
+            <link>https://news.ycombinator.com/item?id=30527802</link>
+            <guid>https://news.ycombinator.com/item?id=30527802</guid>
+            <pubDate>Wed, 02 Mar 2022 14:40:56 GMT</pubDate>
+            <description><![CDATA[Show HN: Quickly build a beautiful status page for free]]></description>
+        </item>
         <item>
             <title><![CDATA[LERA - 免费的基于网络的自动无障碍测试和报告工具]]></title>
             <link>https://news.ycombinator.com/item?id=30527552</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30292831</guid>
             <pubDate>Thu, 10 Feb 2022 21:25:30 GMT</pubDate>
             <description><![CDATA[Show HN: Hardle – Hard Wordle where the color of the hints is not known]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从我的10年开源项目中吸取的教训]]></title>
-            <link>https://news.ycombinator.com/item?id=30292252</link>
-            <guid>https://news.ycombinator.com/item?id=30292252</guid>
-            <pubDate>Thu, 10 Feb 2022 20:46:47 GMT</pubDate>
-            <description><![CDATA[Show HN: Lessons learned from my 10 year open source project]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Severus - 一个注重隐私的联系管理系统]]></title>
-            <link>https://news.ycombinator.com/item?id=30292037</link>
-            <guid>https://news.ycombinator.com/item?id=30292037</guid>
-            <pubDate>Thu, 10 Feb 2022 20:30:52 GMT</pubDate>
-            <description><![CDATA[Show HN: Severus – a privacy focused contact mangement system]]></description>
         </item>
     </channel>
 </rss>

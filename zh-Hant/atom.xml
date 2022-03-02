@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-02T14:34:11.193Z</updated>
+    <updated>2022-03-02T14:58:09.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[語音記憶]]></title>
+        <id>https://news.ycombinator.com/item?id=30527932</id>
+        <link href="https://news.ycombinator.com/item?id=30527932"/>
+        <updated>2022-03-02T14:50:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: VoiceMem]]></summary>
+        <author>
+            <name>mentalplus</name>
+            <uri>https://news.ycombinator.com/user?id=mentalplus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免費快速建立一個漂亮的狀態頁面]]></title>
+        <id>https://news.ycombinator.com/item?id=30527802</id>
+        <link href="https://news.ycombinator.com/item?id=30527802"/>
+        <updated>2022-03-02T14:40:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Quickly build a beautiful status page for free]]></summary>
+        <author>
+            <name>fben</name>
+            <uri>https://news.ycombinator.com/user?id=fben</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LERA - 免費的基於網絡的自動無障礙測試和報告工具]]></title>
         <id>https://news.ycombinator.com/item?id=30527552</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>vigneshv_psg</name>
             <uri>https://news.ycombinator.com/user?id=vigneshv_psg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從我的10年開源項目中吸取的教訓]]></title>
-        <id>https://news.ycombinator.com/item?id=30292252</id>
-        <link href="https://news.ycombinator.com/item?id=30292252"/>
-        <updated>2022-02-10T20:46:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lessons learned from my 10 year open source project]]></summary>
-        <author>
-            <name>cims</name>
-            <uri>https://news.ycombinator.com/user?id=cims</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Severus - 一個注重隱私的聯繫管理系統]]></title>
-        <id>https://news.ycombinator.com/item?id=30292037</id>
-        <link href="https://news.ycombinator.com/item?id=30292037"/>
-        <updated>2022-02-10T20:30:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Severus – a privacy focused contact mangement system]]></summary>
-        <author>
-            <name>anothersullivan</name>
-            <uri>https://news.ycombinator.com/user?id=anothersullivan</uri>
         </author>
     </entry>
 </feed>
