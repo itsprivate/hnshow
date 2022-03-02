@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-02T17:45:55.506Z</updated>
+    <updated>2022-03-02T18:15:54.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[建立在Vercel和100ms基础上的自我托管的虚拟活动启动套件]]></title>
+        <id>https://news.ycombinator.com/item?id=30530569</id>
+        <link href="https://news.ycombinator.com/item?id=30530569"/>
+        <updated>2022-03-02T18:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Self-hosted virtual events starter kit built on Vercel and 100ms]]></summary>
+        <author>
+            <name>aniketbehera</name>
+            <uri>https://news.ycombinator.com/user?id=aniketbehera</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CellAware - 电子表格的自动验证]]></title>
         <id>https://news.ycombinator.com/item?id=30530156</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>oconnor663</name>
             <uri>https://news.ycombinator.com/user?id=oconnor663</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[改进后的DuckDuckGo bang运营商的索引]]></title>
-        <id>https://news.ycombinator.com/item?id=30297704</id>
-        <link href="https://news.ycombinator.com/item?id=30297704"/>
-        <updated>2022-02-11T06:16:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Improved index of DuckDuckGo bang operators]]></summary>
-        <author>
-            <name>MichaelMoser123</name>
-            <uri>https://news.ycombinator.com/user?id=MichaelMoser123</uri>
         </author>
     </entry>
 </feed>

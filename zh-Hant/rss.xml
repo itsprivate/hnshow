@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 02 Mar 2022 17:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 18:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[建立在Vercel和100ms基礎上的自我託管的虛擬活動啟動套件]]></title>
+            <link>https://news.ycombinator.com/item?id=30530569</link>
+            <guid>https://news.ycombinator.com/item?id=30530569</guid>
+            <pubDate>Wed, 02 Mar 2022 18:09:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Self-hosted virtual events starter kit built on Vercel and 100ms]]></description>
+        </item>
         <item>
             <title><![CDATA[CellAware - 電子表格的自動驗證]]></title>
             <link>https://news.ycombinator.com/item?id=30530156</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30297767</guid>
             <pubDate>Fri, 11 Feb 2022 06:27:48 GMT</pubDate>
             <description><![CDATA[Show HN: The BLAKE3 hash function running on a 6502 microprocessor]]></description>
-        </item>
-        <item>
-            <title><![CDATA[改進後的DuckDuckGo bang運營商的索引]]></title>
-            <link>https://news.ycombinator.com/item?id=30297704</link>
-            <guid>https://news.ycombinator.com/item?id=30297704</guid>
-            <pubDate>Fri, 11 Feb 2022 06:16:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Improved index of DuckDuckGo bang operators]]></description>
         </item>
     </channel>
 </rss>
