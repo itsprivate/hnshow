@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-01T23:41:17.730Z</updated>
+    <updated>2022-03-02T00:40:45.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GFun - Lisp 4 Go]]></title>
+        <id>https://news.ycombinator.com/item?id=30521756</id>
+        <link href="https://news.ycombinator.com/item?id=30521756"/>
+        <updated>2022-03-02T00:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GFun – Lisp 4 Go]]></summary>
+        <author>
+            <name>codr7</name>
+            <uri>https://news.ycombinator.com/user?id=codr7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为绝对的初学者开始一个新的编码频道。本周四]]></title>
         <id>https://news.ycombinator.com/item?id=30521508</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ddubski</name>
             <uri>https://news.ycombinator.com/user?id=ddubski</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[类变体授权--为你的UI组件提供类型安全的变体]]></title>
-        <id>https://news.ycombinator.com/item?id=30284279</id>
-        <link href="https://news.ycombinator.com/item?id=30284279"/>
-        <updated>2022-02-10T10:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Class Variance Authority – type-safe variants for your UI components]]></summary>
-        <author>
-            <name>joe-bell</name>
-            <uri>https://news.ycombinator.com/user?id=joe-bell</uri>
         </author>
     </entry>
 </feed>

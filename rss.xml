@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 01 Mar 2022 23:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 00:40:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GFun - Lisp 4 Go]]></title>
+            <link>https://news.ycombinator.com/item?id=30521756</link>
+            <guid>https://news.ycombinator.com/item?id=30521756</guid>
+            <pubDate>Wed, 02 Mar 2022 00:00:07 GMT</pubDate>
+            <description><![CDATA[Show HN: GFun – Lisp 4 Go]]></description>
+        </item>
         <item>
             <title><![CDATA[为绝对的初学者开始一个新的编码频道。本周四]]></title>
             <link>https://news.ycombinator.com/item?id=30521508</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30285341</guid>
             <pubDate>Thu, 10 Feb 2022 12:52:53 GMT</pubDate>
             <description><![CDATA[Show HN: Shiny Buildings – Collaborative Home Improvement]]></description>
-        </item>
-        <item>
-            <title><![CDATA[类变体授权--为你的UI组件提供类型安全的变体]]></title>
-            <link>https://news.ycombinator.com/item?id=30284279</link>
-            <guid>https://news.ycombinator.com/item?id=30284279</guid>
-            <pubDate>Thu, 10 Feb 2022 10:01:10 GMT</pubDate>
-            <description><![CDATA[Show HN: Class Variance Authority – type-safe variants for your UI components]]></description>
         </item>
     </channel>
 </rss>
