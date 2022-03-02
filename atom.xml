@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-02T11:30:16.573Z</updated>
+    <updated>2022-03-02T13:37:28.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Backspace - 让你的网站实现碳中和]]></title>
+        <id>https://news.ycombinator.com/item?id=30527032</id>
+        <link href="https://news.ycombinator.com/item?id=30527032"/>
+        <updated>2022-03-02T13:23:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Backspace – make your website carbon neutral]]></summary>
+        <author>
+            <name>ivanmaeder</name>
+            <uri>https://news.ycombinator.com/user?id=ivanmaeder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于类型提示和数据类的Python的Valito-渐进式验证]]></title>
+        <id>https://news.ycombinator.com/item?id=30526980</id>
+        <link href="https://news.ycombinator.com/item?id=30526980"/>
+        <updated>2022-03-02T13:17:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Valito-Progressive validation for Python based on typehints & dataclass]]></summary>
+        <author>
+            <name>acoconutcup</name>
+            <uri>https://news.ycombinator.com/user?id=acoconutcup</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lapce - 受Xi-editor启发的开源代码编辑器]]></title>
+        <id>https://news.ycombinator.com/item?id=30526693</id>
+        <link href="https://news.ycombinator.com/item?id=30526693"/>
+        <updated>2022-03-02T12:42:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lapce – open-source code editor inspired by Xi-editor]]></summary>
+        <author>
+            <name>dzhou121</name>
+            <uri>https://news.ycombinator.com/user?id=dzhou121</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Linux下与SSH密钥管理的斗争]]></title>
+        <id>https://news.ycombinator.com/item?id=30526635</id>
+        <link href="https://news.ycombinator.com/item?id=30526635"/>
+        <updated>2022-03-02T12:35:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The struggle with SSH key management under Linux]]></summary>
+        <author>
+            <name>michidk</name>
+            <uri>https://news.ycombinator.com/user?id=michidk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我创建了显示Wordle答案的ANSWERDLE。]]></title>
+        <id>https://news.ycombinator.com/item?id=30526631</id>
+        <link href="https://news.ycombinator.com/item?id=30526631"/>
+        <updated>2022-03-02T12:34:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I created ANSWERDLE that shows the answer of Wordle]]></summary>
+        <author>
+            <name>p1atdev</name>
+            <uri>https://news.ycombinator.com/user?id=p1atdev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我创建了一个网站来监测战争局势]]></title>
         <id>https://news.ycombinator.com/item?id=30526058</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>dfragnito</name>
             <uri>https://news.ycombinator.com/user?id=dfragnito</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT Guard - 保护自己免受虚假NFT和加密货币诈骗的影响]]></title>
-        <id>https://news.ycombinator.com/item?id=30291038</id>
-        <link href="https://news.ycombinator.com/item?id=30291038"/>
-        <updated>2022-02-10T19:15:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: NFT Guard – Protect yourself from fake NFTs and crypto scams]]></summary>
-        <author>
-            <name>skd-fs</name>
-            <uri>https://news.ycombinator.com/user?id=skd-fs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EdgeDB 1.0]]></title>
-        <id>https://news.ycombinator.com/item?id=30290225</id>
-        <link href="https://news.ycombinator.com/item?id=30290225"/>
-        <updated>2022-02-10T18:13:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: EdgeDB 1.0]]></summary>
-        <author>
-            <name>colinmcd</name>
-            <uri>https://news.ycombinator.com/user?id=colinmcd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Msgspec - Python的快速JSON/MessagePack库]]></title>
-        <id>https://news.ycombinator.com/item?id=30289019</id>
-        <link href="https://news.ycombinator.com/item?id=30289019"/>
-        <updated>2022-02-10T16:57:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Msgspec – a fast JSON/MessagePack library for Python]]></summary>
-        <author>
-            <name>jammycrisp</name>
-            <uri>https://news.ycombinator.com/user?id=jammycrisp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[内置电源和姿势跟踪的石桌在Kickstarter上拍卖]]></title>
-        <id>https://news.ycombinator.com/item?id=30286978</id>
-        <link href="https://news.ycombinator.com/item?id=30286978"/>
-        <updated>2022-02-10T14:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Stone desk with built-in power and posture tracking on Kickstarter]]></summary>
-        <author>
-            <name>dimadewinn</name>
-            <uri>https://news.ycombinator.com/user?id=dimadewinn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特人工智能生成的热门话题]]></title>
-        <id>https://news.ycombinator.com/item?id=30288119</id>
-        <link href="https://news.ycombinator.com/item?id=30288119"/>
-        <updated>2022-02-10T16:04:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tweet AI Generated Hot Takes]]></summary>
-        <author>
-            <name>m2com</name>
-            <uri>https://news.ycombinator.com/user?id=m2com</uri>
         </author>
     </entry>
 </feed>
