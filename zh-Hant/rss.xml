@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 02 Mar 2022 02:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 05:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我用React-TypeScript做了一個Wordle的克隆版]]></title>
+            <link>https://news.ycombinator.com/item?id=30523869</link>
+            <guid>https://news.ycombinator.com/item?id=30523869</guid>
+            <pubDate>Wed, 02 Mar 2022 04:50:00 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a Wordle clone with React-TypeScript]]></description>
+        </item>
         <item>
             <title><![CDATA[用'curl echoip.xyz'回聲你的外部IP地址]]></title>
             <link>https://news.ycombinator.com/item?id=30522233</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30285897</guid>
             <pubDate>Thu, 10 Feb 2022 13:47:39 GMT</pubDate>
             <description><![CDATA[Show HN: Turn any web video into a background audio stream]]></description>
-        </item>
-        <item>
-            <title><![CDATA[來自ByteDance的Android內聯鉤子庫]]></title>
-            <link>https://news.ycombinator.com/item?id=30285364</link>
-            <guid>https://news.ycombinator.com/item?id=30285364</guid>
-            <pubDate>Thu, 10 Feb 2022 12:55:19 GMT</pubDate>
-            <description><![CDATA[Show HN: Android inline hook library from ByteDance]]></description>
         </item>
     </channel>
 </rss>
