@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 02 Mar 2022 19:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 19:39:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用于生成M行N列的假JSON的单一二进制文件]]></title>
+            <link>https://news.ycombinator.com/item?id=30531733</link>
+            <guid>https://news.ycombinator.com/item?id=30531733</guid>
+            <pubDate>Wed, 02 Mar 2022 19:29:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Single binary for generating fake JSON of M rows, N columns]]></description>
+        </item>
         <item>
             <title><![CDATA[WAPM - WebAssembly软件包管理器]]></title>
             <link>https://news.ycombinator.com/item?id=30531621</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30299756</guid>
             <pubDate>Fri, 11 Feb 2022 10:37:21 GMT</pubDate>
             <description><![CDATA[Show HN: Play Chrome's T-Rex game in any browser]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Slack上进行包容性沟通的AI助手]]></title>
-            <link>https://news.ycombinator.com/item?id=30298169</link>
-            <guid>https://news.ycombinator.com/item?id=30298169</guid>
-            <pubDate>Fri, 11 Feb 2022 07:27:02 GMT</pubDate>
-            <description><![CDATA[Show HN: AI assistant for inclusive communications on Slack]]></description>
         </item>
     </channel>
 </rss>
