@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-02T07:54:11.456Z</updated>
+    <updated>2022-03-02T08:36:43.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Goprisma - Prisma的Golang/cgo包装器：将GraphQL与任何数据库对话]]></title>
+        <id>https://news.ycombinator.com/item?id=30525107</id>
+        <link href="https://news.ycombinator.com/item?id=30525107"/>
+        <updated>2022-03-02T08:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Goprisma – Golang/cgo wrapper for Prisma: Talk GraphQL to any Database]]></summary>
+        <author>
+            <name>jensneuse</name>
+            <uri>https://news.ycombinator.com/user?id=jensneuse</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Pipy作为Kubernetes策略引擎]]></title>
         <id>https://news.ycombinator.com/item?id=30524815</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>danieltait</name>
             <uri>https://news.ycombinator.com/user?id=danieltait</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用PyTorch从图像中检测波多黎各的鸟类物种]]></title>
-        <id>https://news.ycombinator.com/item?id=30286234</id>
-        <link href="https://news.ycombinator.com/item?id=30286234"/>
-        <updated>2022-02-10T14:14:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Detecting Puerto Rican Bird Species from Images Using PyTorch]]></summary>
-        <author>
-            <name>boredumb</name>
-            <uri>https://news.ycombinator.com/user?id=boredumb</uri>
         </author>
     </entry>
 </feed>

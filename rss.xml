@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 02 Mar 2022 07:54:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 08:36:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Goprisma - Prisma的Golang/cgo包装器：将GraphQL与任何数据库对话]]></title>
+            <link>https://news.ycombinator.com/item?id=30525107</link>
+            <guid>https://news.ycombinator.com/item?id=30525107</guid>
+            <pubDate>Wed, 02 Mar 2022 08:24:00 GMT</pubDate>
+            <description><![CDATA[Show HN: Goprisma – Golang/cgo wrapper for Prisma: Talk GraphQL to any Database]]></description>
+        </item>
         <item>
             <title><![CDATA[使用Pipy作为Kubernetes策略引擎]]></title>
             <link>https://news.ycombinator.com/item?id=30524815</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30286499</guid>
             <pubDate>Thu, 10 Feb 2022 14:33:41 GMT</pubDate>
             <description><![CDATA[Show HN: Hard.mathler – A harder daily math puzzle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用PyTorch从图像中检测波多黎各的鸟类物种]]></title>
-            <link>https://news.ycombinator.com/item?id=30286234</link>
-            <guid>https://news.ycombinator.com/item?id=30286234</guid>
-            <pubDate>Thu, 10 Feb 2022 14:14:45 GMT</pubDate>
-            <description><![CDATA[Show HN: Detecting Puerto Rican Bird Species from Images Using PyTorch]]></description>
         </item>
     </channel>
 </rss>
