@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 02 Mar 2022 08:36:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 08:55:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Nextacular - 快速启动多租户SaaS平台]]></title>
+            <link>https://news.ycombinator.com/item?id=30525213</link>
+            <guid>https://news.ycombinator.com/item?id=30525213</guid>
+            <pubDate>Wed, 02 Mar 2022 08:40:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Nextacular – Quickly Launch Multi-Tenant SaaS Platforms]]></description>
+        </item>
         <item>
             <title><![CDATA[Goprisma - Prisma的Golang/cgo包装器：将GraphQL与任何数据库对话]]></title>
             <link>https://news.ycombinator.com/item?id=30525107</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30287184</guid>
             <pubDate>Thu, 10 Feb 2022 15:12:05 GMT</pubDate>
             <description><![CDATA[Show HN: pffft.wasm an FFT library powered by SIMD WebAssembly]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hard.mathler - 一个更难的日常数学谜题]]></title>
-            <link>https://news.ycombinator.com/item?id=30286499</link>
-            <guid>https://news.ycombinator.com/item?id=30286499</guid>
-            <pubDate>Thu, 10 Feb 2022 14:33:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Hard.mathler – A harder daily math puzzle]]></description>
         </item>
     </channel>
 </rss>
