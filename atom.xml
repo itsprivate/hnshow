@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-02T13:53:49.126Z</updated>
+    <updated>2022-03-02T14:17:05.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Parsers VC - 风险投资数据提供商]]></title>
+        <id>https://news.ycombinator.com/item?id=30527406</id>
+        <link href="https://news.ycombinator.com/item?id=30527406"/>
+        <updated>2022-03-02T14:05:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Parsers VC – Venture Capital data provider]]></summary>
+        <author>
+            <name>loeona</name>
+            <uri>https://news.ycombinator.com/user?id=loeona</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[下一层次的代币门控--基于NFT所有权的媒体服务]]></title>
         <id>https://news.ycombinator.com/item?id=30527161</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>LonisHamaili</name>
             <uri>https://news.ycombinator.com/user?id=LonisHamaili</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在高度复杂的数据集上训练合成模型]]></title>
-        <id>https://news.ycombinator.com/item?id=30291864</id>
-        <link href="https://news.ycombinator.com/item?id=30291864"/>
-        <updated>2022-02-10T20:18:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Training synthetic models on highly complex datasets]]></summary>
-        <author>
-            <name>repeat_or</name>
-            <uri>https://news.ycombinator.com/user?id=repeat_or</uri>
         </author>
     </entry>
 </feed>
