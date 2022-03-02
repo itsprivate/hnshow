@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-02T05:29:56.459Z</updated>
+    <updated>2022-03-02T06:15:39.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個用rust編寫的本地文件搜索工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30524251</id>
+        <link href="https://news.ycombinator.com/item?id=30524251"/>
+        <updated>2022-03-02T05:57:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A local file search tool written in rust]]></summary>
+        <author>
+            <name>jeffhong</name>
+            <uri>https://news.ycombinator.com/user?id=jeffhong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了Voggle，一個比Wordle更具挑戰性的文字遊戲]]></title>
         <id>https://news.ycombinator.com/item?id=30524014</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>johnthemaker</name>
             <uri>https://news.ycombinator.com/user?id=johnthemaker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我創建了一個最小的、安全的、終端的本地聊天應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30286081</id>
-        <link href="https://news.ycombinator.com/item?id=30286081"/>
-        <updated>2022-02-10T14:02:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I created a minimal, secure, terminal native chat application]]></summary>
-        <author>
-            <name>humility</name>
-            <uri>https://news.ycombinator.com/user?id=humility</uri>
         </author>
     </entry>
 </feed>
