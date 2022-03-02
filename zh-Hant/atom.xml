@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-02T15:38:18.320Z</updated>
+    <updated>2022-03-02T16:51:59.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[色彩設計的機器學習]]></title>
+        <id>https://news.ycombinator.com/item?id=30529262</id>
+        <link href="https://news.ycombinator.com/item?id=30529262"/>
+        <updated>2022-03-02T16:38:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Machine Learning for Color Design]]></summary>
+        <author>
+            <name>Jack000</name>
+            <uri>https://news.ycombinator.com/user?id=Jack000</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[直播視頻入門套件（開源的HOPIN）。]]></title>
         <id>https://news.ycombinator.com/item?id=30528365</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gerry_shaw</name>
             <uri>https://news.ycombinator.com/user?id=gerry_shaw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starpad-啟動你自己的社會代幣或會員制NFT，無需代碼]]></title>
-        <id>https://news.ycombinator.com/item?id=30293979</id>
-        <link href="https://news.ycombinator.com/item?id=30293979"/>
-        <updated>2022-02-10T22:59:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Starpad-Launch your own social token or membership NFT with no code]]></summary>
-        <author>
-            <name>fearlessboii</name>
-            <uri>https://news.ycombinator.com/user?id=fearlessboii</uri>
         </author>
     </entry>
 </feed>
