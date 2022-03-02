@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-02T22:15:00.408Z</updated>
+    <updated>2022-03-02T22:42:16.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开发工具启发了网站编辑器]]></title>
+        <id>https://news.ycombinator.com/item?id=30534267</id>
+        <link href="https://news.ycombinator.com/item?id=30534267"/>
+        <updated>2022-03-02T22:36:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dev tools inspired site editor]]></summary>
+        <author>
+            <name>dot_michael</name>
+            <uri>https://news.ycombinator.com/user?id=dot_michael</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拯救--Python的类型安全的异常]]></title>
         <id>https://news.ycombinator.com/item?id=30533740</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>turboz747</name>
             <uri>https://news.ycombinator.com/user?id=turboz747</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个类似于大师级的Wordle版本]]></title>
-        <id>https://news.ycombinator.com/item?id=30301098</id>
-        <link href="https://news.ycombinator.com/item?id=30301098"/>
-        <updated>2022-02-11T13:19:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A mastermind-like version of Wordle]]></summary>
-        <author>
-            <name>prvnsmpth</name>
-            <uri>https://news.ycombinator.com/user?id=prvnsmpth</uri>
         </author>
     </entry>
 </feed>
