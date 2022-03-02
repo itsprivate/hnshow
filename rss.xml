@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 02 Mar 2022 00:40:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 02:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用'curl echoip.xyz'回声你的外部IP地址]]></title>
+            <link>https://news.ycombinator.com/item?id=30522233</link>
+            <guid>https://news.ycombinator.com/item?id=30522233</guid>
+            <pubDate>Wed, 02 Mar 2022 00:56:30 GMT</pubDate>
+            <description><![CDATA[Show HN: Echo your external IP address with 'curl echoip.xyz']]></description>
+        </item>
         <item>
             <title><![CDATA[GFun - Lisp 4 Go]]></title>
             <link>https://news.ycombinator.com/item?id=30521756</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30285364</guid>
             <pubDate>Thu, 10 Feb 2022 12:55:19 GMT</pubDate>
             <description><![CDATA[Show HN: Android inline hook library from ByteDance]]></description>
-        </item>
-        <item>
-            <title><![CDATA[闪亮的建筑--合作式家庭装修]]></title>
-            <link>https://news.ycombinator.com/item?id=30285341</link>
-            <guid>https://news.ycombinator.com/item?id=30285341</guid>
-            <pubDate>Thu, 10 Feb 2022 12:52:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Shiny Buildings – Collaborative Home Improvement]]></description>
         </item>
     </channel>
 </rss>
