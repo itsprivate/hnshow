@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-02T22:42:16.553Z</updated>
+    <updated>2022-03-02T23:41:32.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Bytewax和Redpanda進行異常檢測]]></title>
+        <id>https://news.ycombinator.com/item?id=30535006</id>
+        <link href="https://news.ycombinator.com/item?id=30535006"/>
+        <updated>2022-03-02T23:34:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Anomaly Detection with Bytewax and Redpanda]]></summary>
+        <author>
+            <name>northstar702</name>
+            <uri>https://news.ycombinator.com/user?id=northstar702</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開發工具啟發了網站編輯器]]></title>
         <id>https://news.ycombinator.com/item?id=30534267</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>graderjs</name>
             <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vivipic是一個為網上賣家提供的在線平面設計工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30301145</id>
-        <link href="https://news.ycombinator.com/item?id=30301145"/>
-        <updated>2022-02-11T13:23:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Vivipic is an online graphic design tool for online sellers]]></summary>
-        <author>
-            <name>turboz747</name>
-            <uri>https://news.ycombinator.com/user?id=turboz747</uri>
         </author>
     </entry>
 </feed>
