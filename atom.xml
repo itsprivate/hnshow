@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-02T21:38:21.512Z</updated>
+    <updated>2022-03-02T21:54:47.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个真正能节省时间的云安全产品]]></title>
+        <id>https://news.ycombinator.com/item?id=30532939</id>
+        <link href="https://news.ycombinator.com/item?id=30532939"/>
+        <updated>2022-03-02T20:51:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a cloud security product that actually saves time]]></summary>
+        <author>
+            <name>david_obrien</name>
+            <uri>https://news.ycombinator.com/user?id=david_obrien</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Lunar适应显示器的DIY环境光传感器服务器]]></title>
         <id>https://news.ycombinator.com/item?id=30533464</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Pete-Codes</name>
             <uri>https://news.ycombinator.com/user?id=Pete-Codes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pumbaa - 一个用于被动、指数投资的投资组合模拟工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30301047</id>
-        <link href="https://news.ycombinator.com/item?id=30301047"/>
-        <updated>2022-02-11T13:15:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pumbaa – A portfolio simulation tool for passive, index investments]]></summary>
-        <author>
-            <name>lwthiker</name>
-            <uri>https://news.ycombinator.com/user?id=lwthiker</uri>
         </author>
     </entry>
 </feed>
