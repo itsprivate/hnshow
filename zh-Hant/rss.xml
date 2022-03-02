@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 02 Mar 2022 08:55:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 11:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[OAuth2.0客戶端_憑證流程與Smallstep TLS客戶端認證]]></title>
+            <link>https://news.ycombinator.com/item?id=30526000</link>
+            <guid>https://news.ycombinator.com/item?id=30526000</guid>
+            <pubDate>Wed, 02 Mar 2022 11:04:23 GMT</pubDate>
+            <description><![CDATA[Show HN: OAuth2.0 client_credentials flow with Smallstep TLS client auth]]></description>
+        </item>
         <item>
             <title><![CDATA[Nextacular - 快速啟動多租戶SaaS平臺]]></title>
             <link>https://news.ycombinator.com/item?id=30525213</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30287671</guid>
             <pubDate>Thu, 10 Feb 2022 15:39:18 GMT</pubDate>
             <description><![CDATA[Show HN: Distributed – How remote teams stay in sync]]></description>
-        </item>
-        <item>
-            <title><![CDATA[pffft.wasm是一個由SIMD WebAssembly支持的FFT庫。]]></title>
-            <link>https://news.ycombinator.com/item?id=30287184</link>
-            <guid>https://news.ycombinator.com/item?id=30287184</guid>
-            <pubDate>Thu, 10 Feb 2022 15:12:05 GMT</pubDate>
-            <description><![CDATA[Show HN: pffft.wasm an FFT library powered by SIMD WebAssembly]]></description>
         </item>
     </channel>
 </rss>
