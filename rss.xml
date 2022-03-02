@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 02 Mar 2022 21:54:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 22:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[拯救--Python的类型安全的异常]]></title>
+            <link>https://news.ycombinator.com/item?id=30533740</link>
+            <guid>https://news.ycombinator.com/item?id=30533740</guid>
+            <pubDate>Wed, 02 Mar 2022 21:55:03 GMT</pubDate>
+            <description><![CDATA[Show HN: Rescue – type-safe exceptions for Python]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一个真正能节省时间的云安全产品]]></title>
             <link>https://news.ycombinator.com/item?id=30532939</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30301098</guid>
             <pubDate>Fri, 11 Feb 2022 13:19:31 GMT</pubDate>
             <description><![CDATA[Show HN: A mastermind-like version of Wordle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我为Tech Crunch不会提供的新闻做了一份简报]]></title>
-            <link>https://news.ycombinator.com/item?id=30301072</link>
-            <guid>https://news.ycombinator.com/item?id=30301072</guid>
-            <pubDate>Fri, 11 Feb 2022 13:17:34 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a newsletter for news Tech Crunch won't cove]]></description>
         </item>
     </channel>
 </rss>

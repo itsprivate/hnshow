@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-02T21:54:47.424Z</updated>
+    <updated>2022-03-02T22:15:00.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[拯救--Python的類型安全的異常]]></title>
+        <id>https://news.ycombinator.com/item?id=30533740</id>
+        <link href="https://news.ycombinator.com/item?id=30533740"/>
+        <updated>2022-03-02T21:55:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Rescue – type-safe exceptions for Python]]></summary>
+        <author>
+            <name>idmitrievsky</name>
+            <uri>https://news.ycombinator.com/user?id=idmitrievsky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個真正能節省時間的雲安全產品]]></title>
         <id>https://news.ycombinator.com/item?id=30532939</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>prvnsmpth</name>
             <uri>https://news.ycombinator.com/user?id=prvnsmpth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我為Tech Crunch不會提供的新聞做了一份簡報]]></title>
-        <id>https://news.ycombinator.com/item?id=30301072</id>
-        <link href="https://news.ycombinator.com/item?id=30301072"/>
-        <updated>2022-02-11T13:17:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a newsletter for news Tech Crunch won't cove]]></summary>
-        <author>
-            <name>Pete-Codes</name>
-            <uri>https://news.ycombinator.com/user?id=Pete-Codes</uri>
         </author>
     </entry>
 </feed>
