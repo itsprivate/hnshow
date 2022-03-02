@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 02 Mar 2022 14:58:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 15:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Miniboss，用Python实现多功能的本地容器管理]]></title>
+            <link>https://news.ycombinator.com/item?id=30528167</link>
+            <guid>https://news.ycombinator.com/item?id=30528167</guid>
+            <pubDate>Wed, 02 Mar 2022 15:07:52 GMT</pubDate>
+            <description><![CDATA[Show HN: Miniboss, versatile local container management with Python]]></description>
+        </item>
         <item>
             <title><![CDATA[语音记忆]]></title>
             <link>https://news.ycombinator.com/item?id=30527932</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30293055</guid>
             <pubDate>Thu, 10 Feb 2022 21:40:57 GMT</pubDate>
             <description><![CDATA[Show HN: GuideLab – in-app user guides for their entire journey]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hardle - 不知道提示颜色的Hard Wordle]]></title>
-            <link>https://news.ycombinator.com/item?id=30292831</link>
-            <guid>https://news.ycombinator.com/item?id=30292831</guid>
-            <pubDate>Thu, 10 Feb 2022 21:25:30 GMT</pubDate>
-            <description><![CDATA[Show HN: Hardle – Hard Wordle where the color of the hints is not known]]></description>
         </item>
     </channel>
 </rss>
