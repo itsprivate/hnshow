@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-03T00:40:22.489Z</updated>
+    <updated>2022-03-03T02:12:35.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[随机的蒂鲁库拉]]></title>
+        <id>https://news.ycombinator.com/item?id=30535723</id>
+        <link href="https://news.ycombinator.com/item?id=30535723"/>
+        <updated>2022-03-03T00:59:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Random Thirukural]]></summary>
+        <author>
+            <name>rammy1234</name>
+            <uri>https://news.ycombinator.com/user?id=rammy1234</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GFun - Lisp 4 Go]]></title>
+        <id>https://news.ycombinator.com/item?id=30535664</id>
+        <link href="https://news.ycombinator.com/item?id=30535664"/>
+        <updated>2022-03-03T00:51:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GFun – Lisp 4 Go]]></summary>
+        <author>
+            <name>codr7</name>
+            <uri>https://news.ycombinator.com/user?id=codr7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[走向远方？在Coda中建立的城市搬迁分析工具]]></title>
         <id>https://news.ycombinator.com/item?id=30535401</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>cmdlineluser</name>
             <uri>https://news.ycombinator.com/user?id=cmdlineluser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windi - 基于短文的知识管理和共享平台]]></title>
-        <id>https://news.ycombinator.com/item?id=30302690</id>
-        <link href="https://news.ycombinator.com/item?id=30302690"/>
-        <updated>2022-02-11T15:42:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Windi – knowledge management and sharing platform based on short notes]]></summary>
-        <author>
-            <name>losfair</name>
-            <uri>https://news.ycombinator.com/user?id=losfair</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Worduel试用Wordle（你能最快地猜出5个单词吗？）]]></title>
-        <id>https://news.ycombinator.com/item?id=30302639</id>
-        <link href="https://news.ycombinator.com/item?id=30302639"/>
-        <updated>2022-02-11T15:38:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Worduel Trial Wordle (Can you guess 5 words the fastest?)]]></summary>
-        <author>
-            <name>arlix</name>
-            <uri>https://news.ycombinator.com/user?id=arlix</uri>
         </author>
     </entry>
 </feed>
