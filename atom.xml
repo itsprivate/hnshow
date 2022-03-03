@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-03T03:47:16.975Z</updated>
+    <updated>2022-03-03T04:14:09.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[托尔洋葱服务目录]]></title>
+        <id>https://news.ycombinator.com/item?id=30537078</id>
+        <link href="https://news.ycombinator.com/item?id=30537078"/>
+        <updated>2022-03-03T04:10:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tor Onion Services Directory]]></summary>
+        <author>
+            <name>onepingonly</name>
+            <uri>https://news.ycombinator.com/user?id=onepingonly</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[运行GitHub 制裁俄罗斯的公司名单]]></title>
         <id>https://news.ycombinator.com/item?id=30536845</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>IroncladDev</name>
             <uri>https://news.ycombinator.com/user?id=IroncladDev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloozy - 为爱好者提供的免费文字游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=30303789</id>
-        <link href="https://news.ycombinator.com/item?id=30303789"/>
-        <updated>2022-02-11T17:02:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bloozy – a free word game for enthusiasts]]></summary>
-        <author>
-            <name>blueslurpee</name>
-            <uri>https://news.ycombinator.com/user?id=blueslurpee</uri>
         </author>
     </entry>
 </feed>
