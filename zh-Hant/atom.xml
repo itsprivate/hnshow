@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-03T13:38:04.592Z</updated>
+    <updated>2022-03-03T13:54:56.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[習慣的金錢--預算編制變得簡單]]></title>
+        <id>https://news.ycombinator.com/item?id=30540851</id>
+        <link href="https://news.ycombinator.com/item?id=30540851"/>
+        <updated>2022-03-03T13:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Habitual Money – budgeting made easy]]></summary>
+        <author>
+            <name>mkalra</name>
+            <uri>https://news.ycombinator.com/user?id=mkalra</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用瀏覽器擴展來提高你的Wordle遊戲]]></title>
         <id>https://news.ycombinator.com/item?id=30540616</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>grogu88</name>
             <uri>https://news.ycombinator.com/user?id=grogu88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rapidmock - 在幾秒鐘內生成一個模擬的API]]></title>
-        <id>https://news.ycombinator.com/item?id=30308540</id>
-        <link href="https://news.ycombinator.com/item?id=30308540"/>
-        <updated>2022-02-12T00:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rapidmock – Generate a mock API in seconds]]></summary>
-        <author>
-            <name>codebyamir</name>
-            <uri>https://news.ycombinator.com/user?id=codebyamir</uri>
         </author>
     </entry>
 </feed>

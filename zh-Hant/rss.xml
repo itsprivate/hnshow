@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 03 Mar 2022 13:38:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 13:54:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[習慣的金錢--預算編制變得簡單]]></title>
+            <link>https://news.ycombinator.com/item?id=30540851</link>
+            <guid>https://news.ycombinator.com/item?id=30540851</guid>
+            <pubDate>Thu, 03 Mar 2022 13:44:02 GMT</pubDate>
+            <description><![CDATA[Show HN: Habitual Money – budgeting made easy]]></description>
+        </item>
         <item>
             <title><![CDATA[用瀏覽器擴展來提高你的Wordle遊戲]]></title>
             <link>https://news.ycombinator.com/item?id=30540616</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30308945</guid>
             <pubDate>Sat, 12 Feb 2022 01:04:15 GMT</pubDate>
             <description><![CDATA[Show HN: Plost – a deceptively simple plotting library]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rapidmock - 在幾秒鐘內生成一個模擬的API]]></title>
-            <link>https://news.ycombinator.com/item?id=30308540</link>
-            <guid>https://news.ycombinator.com/item?id=30308540</guid>
-            <pubDate>Sat, 12 Feb 2022 00:01:04 GMT</pubDate>
-            <description><![CDATA[Show HN: Rapidmock – Generate a mock API in seconds]]></description>
         </item>
     </channel>
 </rss>
