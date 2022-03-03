@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-03T09:14:22.684Z</updated>
+    <updated>2022-03-03T09:33:02.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[把你的Wordle分数变成音乐]]></title>
+        <id>https://news.ycombinator.com/item?id=30538927</id>
+        <link href="https://news.ycombinator.com/item?id=30538927"/>
+        <updated>2022-03-03T09:21:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Turn your Wordle score into music]]></summary>
+        <author>
+            <name>riskycodes</name>
+            <uri>https://news.ycombinator.com/user?id=riskycodes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[习惯的金钱--预算编制变得简单]]></title>
+        <id>https://news.ycombinator.com/item?id=30538854</id>
+        <link href="https://news.ycombinator.com/item?id=30538854"/>
+        <updated>2022-03-03T09:10:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Habitual Money – budgeting made easy]]></summary>
+        <author>
+            <name>mkalra</name>
+            <uri>https://news.ycombinator.com/user?id=mkalra</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[信息安全/网络安全领域的独家招聘网站]]></title>
         <id>https://news.ycombinator.com/item?id=30538839</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>akrolsmir</name>
             <uri>https://news.ycombinator.com/user?id=akrolsmir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个简单的Python静态网站生成器]]></title>
-        <id>https://news.ycombinator.com/item?id=30306657</id>
-        <link href="https://news.ycombinator.com/item?id=30306657"/>
-        <updated>2022-02-11T20:32:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A simple static website generator in Python]]></summary>
-        <author>
-            <name>hartleybrody</name>
-            <uri>https://news.ycombinator.com/user?id=hartleybrody</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MemSafeCrypto, 使用DirectByteBuffer的Java密码学基元]]></title>
-        <id>https://news.ycombinator.com/item?id=30305379</id>
-        <link href="https://news.ycombinator.com/item?id=30305379"/>
-        <updated>2022-02-11T18:43:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: MemSafeCrypto, Java cryptography primitives using DirectByteBuffer]]></summary>
-        <author>
-            <name>java-man</name>
-            <uri>https://news.ycombinator.com/user?id=java-man</uri>
         </author>
     </entry>
 </feed>

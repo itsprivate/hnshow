@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 03 Mar 2022 09:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 09:33:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[把你的Wordle分数变成音乐]]></title>
+            <link>https://news.ycombinator.com/item?id=30538927</link>
+            <guid>https://news.ycombinator.com/item?id=30538927</guid>
+            <pubDate>Thu, 03 Mar 2022 09:21:57 GMT</pubDate>
+            <description><![CDATA[Show HN: Turn your Wordle score into music]]></description>
+        </item>
+        <item>
+            <title><![CDATA[习惯的金钱--预算编制变得简单]]></title>
+            <link>https://news.ycombinator.com/item?id=30538854</link>
+            <guid>https://news.ycombinator.com/item?id=30538854</guid>
+            <pubDate>Thu, 03 Mar 2022 09:10:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Habitual Money – budgeting made easy]]></description>
+        </item>
         <item>
             <title><![CDATA[信息安全/网络安全领域的独家招聘网站]]></title>
             <link>https://news.ycombinator.com/item?id=30538839</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30306860</guid>
             <pubDate>Fri, 11 Feb 2022 20:53:30 GMT</pubDate>
             <description><![CDATA[Show HN: Using a prediction market to play Wordle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个简单的Python静态网站生成器]]></title>
-            <link>https://news.ycombinator.com/item?id=30306657</link>
-            <guid>https://news.ycombinator.com/item?id=30306657</guid>
-            <pubDate>Fri, 11 Feb 2022 20:32:13 GMT</pubDate>
-            <description><![CDATA[Show HN: A simple static website generator in Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MemSafeCrypto, 使用DirectByteBuffer的Java密码学基元]]></title>
-            <link>https://news.ycombinator.com/item?id=30305379</link>
-            <guid>https://news.ycombinator.com/item?id=30305379</guid>
-            <pubDate>Fri, 11 Feb 2022 18:43:16 GMT</pubDate>
-            <description><![CDATA[Show HN: MemSafeCrypto, Java cryptography primitives using DirectByteBuffer]]></description>
         </item>
     </channel>
 </rss>
