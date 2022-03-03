@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 03 Mar 2022 21:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 23:59:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[基于OPA的细化授权和访问控制系统]]></title>
+            <link>https://news.ycombinator.com/item?id=30548475</link>
+            <guid>https://news.ycombinator.com/item?id=30548475</guid>
+            <pubDate>Thu, 03 Mar 2022 23:24:36 GMT</pubDate>
+            <description><![CDATA[Show HN: Granular Authorization and Access Control System Based on OPA]]></description>
+        </item>
         <item>
             <title><![CDATA[冲浪板 - 用于Arduino的CodeSandbox]]></title>
             <link>https://news.ycombinator.com/item?id=30547101</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30313359</guid>
             <pubDate>Sat, 12 Feb 2022 15:12:50 GMT</pubDate>
             <description><![CDATA[Show HN: X-frame – embed any content with a server-rendered super iframe]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Runk - 一个基于CLI的网络文件和文件夹共享器]]></title>
-            <link>https://news.ycombinator.com/item?id=30313186</link>
-            <guid>https://news.ycombinator.com/item?id=30313186</guid>
-            <pubDate>Sat, 12 Feb 2022 14:48:48 GMT</pubDate>
-            <description><![CDATA[Show HN: Runk – a CLI based file and folder sharer over network]]></description>
         </item>
     </channel>
 </rss>
