@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-03T02:58:16.400Z</updated>
+    <updated>2022-03-03T03:36:12.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為B2B SaaS供應商實現單點登錄的民主化]]></title>
+        <id>https://news.ycombinator.com/item?id=30536760</id>
+        <link href="https://news.ycombinator.com/item?id=30536760"/>
+        <updated>2022-03-03T03:23:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Democratize Single Sign-On for B2B SaaS Vendors]]></summary>
+        <author>
+            <name>ycmimi</name>
+            <uri>https://news.ycombinator.com/user?id=ycmimi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有趣的工作場所關係測驗]]></title>
         <id>https://news.ycombinator.com/item?id=30536500</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>serverlessmom</name>
             <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LiveViewJS--用於LiveView應用程序的TypeScript後端（Phoenix LiveView）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30303237</id>
-        <link href="https://news.ycombinator.com/item?id=30303237"/>
-        <updated>2022-02-11T16:22:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: LiveViewJS – TypeScript back end for LiveView Apps (Phoenix LiveView)]]></summary>
-        <author>
-            <name>floodfx</name>
-            <uri>https://news.ycombinator.com/user?id=floodfx</uri>
         </author>
     </entry>
 </feed>
