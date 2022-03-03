@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-03T11:52:15.005Z</updated>
+    <updated>2022-03-03T12:55:26.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个Python轮子的混淆器]]></title>
+        <id>https://news.ycombinator.com/item?id=30540075</id>
+        <link href="https://news.ycombinator.com/item?id=30540075"/>
+        <updated>2022-03-03T12:32:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a obfuscator for Python wheel]]></summary>
+        <author>
+            <name>huntzhan</name>
+            <uri>https://news.ycombinator.com/user?id=huntzhan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[众筹创建乌克兰/俄罗斯和平协议]]></title>
+        <id>https://news.ycombinator.com/item?id=30540034</id>
+        <link href="https://news.ycombinator.com/item?id=30540034"/>
+        <updated>2022-03-03T12:26:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Crowdsource creation of Ukraine/Russia peace agreement]]></summary>
+        <author>
+            <name>plesiv</name>
+            <uri>https://news.ycombinator.com/user?id=plesiv</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IsUserAMonkey和isUserAGoat[好奇心]》现已在F-Droid上推出]]></title>
         <id>https://news.ycombinator.com/item?id=30539731</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Austin_Conlon</name>
             <uri>https://news.ycombinator.com/user?id=Austin_Conlon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于DHT22传感器的普罗米修斯输出器]]></title>
-        <id>https://news.ycombinator.com/item?id=30307827</id>
-        <link href="https://news.ycombinator.com/item?id=30307827"/>
-        <updated>2022-02-11T22:35:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Prometheus Exporter for DHT22 Sensor]]></summary>
-        <author>
-            <name>privacyonsec</name>
-            <uri>https://news.ycombinator.com/user?id=privacyonsec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微风--吉他标签搜索，寻找更好的和弦安排]]></title>
-        <id>https://news.ycombinator.com/item?id=30307701</id>
-        <link href="https://news.ycombinator.com/item?id=30307701"/>
-        <updated>2022-02-11T22:20:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Breeze – guitar tab search to find better chord arrangements]]></summary>
-        <author>
-            <name>aghilmort</name>
-            <uri>https://news.ycombinator.com/user?id=aghilmort</uri>
         </author>
     </entry>
 </feed>
