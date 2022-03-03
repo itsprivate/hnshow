@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 03 Mar 2022 12:55:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 13:38:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用浏览器扩展来提高你的Wordle游戏]]></title>
+            <link>https://news.ycombinator.com/item?id=30540616</link>
+            <guid>https://news.ycombinator.com/item?id=30540616</guid>
+            <pubDate>Thu, 03 Mar 2022 13:22:23 GMT</pubDate>
+            <description><![CDATA[Show HN: Improve your Wordle game with a browser extension]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一个Python轮子的混淆器]]></title>
             <link>https://news.ycombinator.com/item?id=30540075</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30308540</guid>
             <pubDate>Sat, 12 Feb 2022 00:01:04 GMT</pubDate>
             <description><![CDATA[Show HN: Rapidmock – Generate a mock API in seconds]]></description>
-        </item>
-        <item>
-            <title><![CDATA[导入网球视频并自动消除各点之间的停机时间]]></title>
-            <link>https://news.ycombinator.com/item?id=30308501</link>
-            <guid>https://news.ycombinator.com/item?id=30308501</guid>
-            <pubDate>Fri, 11 Feb 2022 23:57:26 GMT</pubDate>
-            <description><![CDATA[Show HN: Import tennis video and automatically remove downtime in between points]]></description>
         </item>
     </channel>
 </rss>

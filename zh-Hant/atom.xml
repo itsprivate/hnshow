@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-03T12:55:27.061Z</updated>
+    <updated>2022-03-03T13:38:04.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用瀏覽器擴展來提高你的Wordle遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30540616</id>
+        <link href="https://news.ycombinator.com/item?id=30540616"/>
+        <updated>2022-03-03T13:22:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Improve your Wordle game with a browser extension]]></summary>
+        <author>
+            <name>fheisler</name>
+            <uri>https://news.ycombinator.com/user?id=fheisler</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個Python輪子的混淆器]]></title>
         <id>https://news.ycombinator.com/item?id=30540075</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>codebyamir</name>
             <uri>https://news.ycombinator.com/user?id=codebyamir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[導入網球視頻並自動消除各點之間的停機時間]]></title>
-        <id>https://news.ycombinator.com/item?id=30308501</id>
-        <link href="https://news.ycombinator.com/item?id=30308501"/>
-        <updated>2022-02-11T23:57:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Import tennis video and automatically remove downtime in between points]]></summary>
-        <author>
-            <name>Austin_Conlon</name>
-            <uri>https://news.ycombinator.com/user?id=Austin_Conlon</uri>
         </author>
     </entry>
 </feed>
