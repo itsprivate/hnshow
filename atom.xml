@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-03T02:12:35.476Z</updated>
+    <updated>2022-03-03T02:58:16.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有趣的工作场所关系测验]]></title>
+        <id>https://news.ycombinator.com/item?id=30536500</id>
+        <link href="https://news.ycombinator.com/item?id=30536500"/>
+        <updated>2022-03-03T02:44:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fun work place relationship quiz]]></summary>
+        <author>
+            <name>KenMW</name>
+            <uri>https://news.ycombinator.com/user?id=KenMW</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[随机的蒂鲁库拉]]></title>
         <id>https://news.ycombinator.com/item?id=30535723</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>floodfx</name>
             <uri>https://news.ycombinator.com/user?id=floodfx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于bash的TUI Wordle克隆（尝试）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30302964</id>
-        <link href="https://news.ycombinator.com/item?id=30302964"/>
-        <updated>2022-02-11T16:02:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An (attempted) TUI Wordle clone for bash]]></summary>
-        <author>
-            <name>cmdlineluser</name>
-            <uri>https://news.ycombinator.com/user?id=cmdlineluser</uri>
         </author>
     </entry>
 </feed>

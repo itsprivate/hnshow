@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 03 Mar 2022 02:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 02:58:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[有趣的工作場所關係測驗]]></title>
+            <link>https://news.ycombinator.com/item?id=30536500</link>
+            <guid>https://news.ycombinator.com/item?id=30536500</guid>
+            <pubDate>Thu, 03 Mar 2022 02:44:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Fun work place relationship quiz]]></description>
+        </item>
         <item>
             <title><![CDATA[隨機的蒂魯庫拉]]></title>
             <link>https://news.ycombinator.com/item?id=30535723</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30303237</guid>
             <pubDate>Fri, 11 Feb 2022 16:22:03 GMT</pubDate>
             <description><![CDATA[Show HN: LiveViewJS – TypeScript back end for LiveView Apps (Phoenix LiveView)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用於bash的TUI Wordle克隆（嘗試）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30302964</link>
-            <guid>https://news.ycombinator.com/item?id=30302964</guid>
-            <pubDate>Fri, 11 Feb 2022 16:02:17 GMT</pubDate>
-            <description><![CDATA[Show HN: An (attempted) TUI Wordle clone for bash]]></description>
         </item>
     </channel>
 </rss>
