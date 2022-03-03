@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-03T11:40:41.744Z</updated>
+    <updated>2022-03-03T11:52:15.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[IsUserAMonkey和isUserAGoat[好奇心]》现已在F-Droid上推出]]></title>
+        <id>https://news.ycombinator.com/item?id=30539731</id>
+        <link href="https://news.ycombinator.com/item?id=30539731"/>
+        <updated>2022-03-03T11:46:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: 'IsUserAMonkey and isUserAGoat [curiosity]' available now on F-Droid]]></summary>
+        <author>
+            <name>TrianguloY</name>
+            <uri>https://news.ycombinator.com/user?id=TrianguloY</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adnihilation》现在可以在F-Droid上看到了。]]></title>
+        <id>https://news.ycombinator.com/item?id=30539730</id>
+        <link href="https://news.ycombinator.com/item?id=30539730"/>
+        <updated>2022-03-03T11:46:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: 'Adnihilation' available now on F-Droid]]></summary>
+        <author>
+            <name>TrianguloY</name>
+            <uri>https://news.ycombinator.com/user?id=TrianguloY</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DontBeEvil.rip。搜索，针对开发者（API、表达式、CLI）。]]></title>
         <id>https://news.ycombinator.com/item?id=30539620</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>aghilmort</name>
             <uri>https://news.ycombinator.com/user?id=aghilmort</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科斯米 - 与朋友和家人在网上闲聊]]></title>
-        <id>https://news.ycombinator.com/item?id=30307607</id>
-        <link href="https://news.ycombinator.com/item?id=30307607"/>
-        <updated>2022-02-11T22:09:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Kosmi – Hang out with friends and family online]]></summary>
-        <author>
-            <name>hauxir</name>
-            <uri>https://news.ycombinator.com/user?id=hauxir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whatistodaysword.com，为懒惰的作弊者提供日常的Wordle解决方案]]></title>
-        <id>https://news.ycombinator.com/item?id=30307237</id>
-        <link href="https://news.ycombinator.com/item?id=30307237"/>
-        <updated>2022-02-11T21:31:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Whatistodaysword.com, daily Wordle solution for lazy cheaters]]></summary>
-        <author>
-            <name>codingspaghetti</name>
-            <uri>https://news.ycombinator.com/user?id=codingspaghetti</uri>
         </author>
     </entry>
 </feed>
