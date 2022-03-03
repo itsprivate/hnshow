@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-02T23:41:32.764Z</updated>
+    <updated>2022-03-03T00:40:22.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[走向远方？在Coda中建立的城市搬迁分析工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30535401</id>
+        <link href="https://news.ycombinator.com/item?id=30535401"/>
+        <updated>2022-03-03T00:19:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Going Remote? City Relocation Analysis Tool Built in Coda]]></summary>
+        <author>
+            <name>theutan</name>
+            <uri>https://news.ycombinator.com/user?id=theutan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Bytewax和Redpanda进行异常检测]]></title>
         <id>https://news.ycombinator.com/item?id=30535006</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>arlix</name>
             <uri>https://news.ycombinator.com/user?id=arlix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跨浏览器的Chrome开发工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30302032</id>
-        <link href="https://news.ycombinator.com/item?id=30302032"/>
-        <updated>2022-02-11T14:45:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cross Browser Chrome Devtools]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
         </author>
     </entry>
 </feed>
