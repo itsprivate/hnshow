@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-03T15:36:49.414Z</updated>
+    <updated>2022-03-03T15:49:26.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[NeuralRad Multi BrainMets SRS平台]]></title>
+        <id>https://news.ycombinator.com/item?id=30542364</id>
+        <link href="https://news.ycombinator.com/item?id=30542364"/>
+        <updated>2022-03-03T15:39:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: NeuralRad Multi BrainMets SRS Platform]]></summary>
+        <author>
+            <name>coolwulf</name>
+            <uri>https://news.ycombinator.com/user?id=coolwulf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无服务器多人游戏平台Adama的早期访问发布]]></title>
         <id>https://news.ycombinator.com/item?id=30542230</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sonam_dedania</name>
             <uri>https://news.ycombinator.com/user?id=sonam_dedania</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个使用Chrome浏览器的简单的跨平台HTML到桌面应用程序构建器]]></title>
-        <id>https://news.ycombinator.com/item?id=30310405</id>
-        <link href="https://news.ycombinator.com/item?id=30310405"/>
-        <updated>2022-02-12T06:10:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A simple cross-platform HTML to desktop-app builder using Chrome]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
         </author>
     </entry>
 </feed>
