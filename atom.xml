@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-03T20:36:11.258Z</updated>
+    <updated>2022-03-03T21:33:57.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[冲浪板 - 用于Arduino的CodeSandbox]]></title>
+        <id>https://news.ycombinator.com/item?id=30547101</id>
+        <link href="https://news.ycombinator.com/item?id=30547101"/>
+        <updated>2022-03-03T21:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Surfboard – CodeSandbox for Arduino]]></summary>
+        <author>
+            <name>birudeghi</name>
+            <uri>https://news.ycombinator.com/user?id=birudeghi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个叫Wheredle.xyz的游戏]]></title>
         <id>https://news.ycombinator.com/item?id=30546159</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>solvencino</name>
             <uri>https://news.ycombinator.com/user?id=solvencino</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yode-Nvim - 专注于Neovim的代码编辑]]></title>
-        <id>https://news.ycombinator.com/item?id=30305011</id>
-        <link href="https://news.ycombinator.com/item?id=30305011"/>
-        <updated>2022-02-11T18:19:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Yode-Nvim – Focused Code Editing for Neovim]]></summary>
-        <author>
-            <name>hoschi</name>
-            <uri>https://news.ycombinator.com/user?id=hoschi</uri>
         </author>
     </entry>
 </feed>

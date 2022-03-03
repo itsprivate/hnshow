@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 03 Mar 2022 20:36:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 21:33:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[冲浪板 - 用于Arduino的CodeSandbox]]></title>
+            <link>https://news.ycombinator.com/item?id=30547101</link>
+            <guid>https://news.ycombinator.com/item?id=30547101</guid>
+            <pubDate>Thu, 03 Mar 2022 21:15:44 GMT</pubDate>
+            <description><![CDATA[Show HN: Surfboard – CodeSandbox for Arduino]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一个叫Wheredle.xyz的游戏]]></title>
             <link>https://news.ycombinator.com/item?id=30546159</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30313186</guid>
             <pubDate>Sat, 12 Feb 2022 14:48:48 GMT</pubDate>
             <description><![CDATA[Show HN: Runk – a CLI based file and folder sharer over network]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Yode-Nvim - 专注于Neovim的代码编辑]]></title>
-            <link>https://news.ycombinator.com/item?id=30305011</link>
-            <guid>https://news.ycombinator.com/item?id=30305011</guid>
-            <pubDate>Fri, 11 Feb 2022 18:19:06 GMT</pubDate>
-            <description><![CDATA[Show HN: Yode-Nvim – Focused Code Editing for Neovim]]></description>
         </item>
     </channel>
 </rss>
