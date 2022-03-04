@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 04 Mar 2022 17:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 17:43:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[伯克利单色字体]]></title>
+            <link>https://news.ycombinator.com/item?id=30557557</link>
+            <guid>https://news.ycombinator.com/item?id=30557557</guid>
+            <pubDate>Fri, 04 Mar 2022 17:21:25 GMT</pubDate>
+            <description><![CDATA[Show HN: Berkeley Mono Typeface]]></description>
+        </item>
         <item>
             <title><![CDATA[柏林共享交通的交互式三维可视化]]></title>
             <link>https://news.ycombinator.com/item?id=30557514</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30319978</guid>
             <pubDate>Sun, 13 Feb 2022 07:31:50 GMT</pubDate>
             <description><![CDATA[Show HN: Remove video and image backgrounds, open source]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我建立了一个应用程序来征求和分享建议]]></title>
-            <link>https://news.ycombinator.com/item?id=30319624</link>
-            <guid>https://news.ycombinator.com/item?id=30319624</guid>
-            <pubDate>Sun, 13 Feb 2022 05:53:52 GMT</pubDate>
-            <description><![CDATA[Show HN: I built an app to ask for and share recommendations]]></description>
         </item>
     </channel>
 </rss>
