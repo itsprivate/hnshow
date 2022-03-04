@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-04T22:13:27.073Z</updated>
+    <updated>2022-03-04T22:52:50.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[记住每两小时吃一次]]></title>
+        <id>https://news.ycombinator.com/item?id=30561667</id>
+        <link href="https://news.ycombinator.com/item?id=30561667"/>
+        <updated>2022-03-04T22:48:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Remember to eat every two hours]]></summary>
+        <author>
+            <name>atum47</name>
+            <uri>https://news.ycombinator.com/user?id=atum47</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[诚实 - 围绕你的产品或服务进行诚实的讨论]]></title>
         <id>https://news.ycombinator.com/item?id=30561142</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ymichael</name>
             <uri>https://news.ycombinator.com/user?id=ymichael</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[邪恶的入侵者。使用HTML5画布/网络音频的80年代街机风格游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=30321333</id>
-        <link href="https://news.ycombinator.com/item?id=30321333"/>
-        <updated>2022-02-13T12:39:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Wicked Invaders: A 1980s-arcade-style game using HTML5 Canvas/Web Audio]]></summary>
-        <author>
-            <name>susam</name>
-            <uri>https://news.ycombinator.com/user?id=susam</uri>
         </author>
     </entry>
 </feed>
