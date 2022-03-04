@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-04T10:38:12.332Z</updated>
+    <updated>2022-03-04T11:32:13.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在一个地方追踪你的所有财富]]></title>
+        <id>https://news.ycombinator.com/item?id=30553151</id>
+        <link href="https://news.ycombinator.com/item?id=30553151"/>
+        <updated>2022-03-04T11:08:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Track all your wealth in one place]]></summary>
+        <author>
+            <name>davidlecea</name>
+            <uri>https://news.ycombinator.com/user?id=davidlecea</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[替代工具]]></title>
         <id>https://news.ycombinator.com/item?id=30552890</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nicois</name>
             <uri>https://news.ycombinator.com/user?id=nicois</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重新发明的Kinesis优势？Glove80 BLE分体式轮廓键盘]]></title>
-        <id>https://news.ycombinator.com/item?id=30316917</id>
-        <link href="https://news.ycombinator.com/item?id=30316917"/>
-        <updated>2022-02-12T21:54:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Re-Invented Kinesis Advantage? Glove80 BLE Split Contoured Keyboard]]></summary>
-        <author>
-            <name>schengnz</name>
-            <uri>https://news.ycombinator.com/user?id=schengnz</uri>
         </author>
     </entry>
 </feed>
