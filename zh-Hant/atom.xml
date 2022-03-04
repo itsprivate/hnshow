@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-04T11:54:27.173Z</updated>
+    <updated>2022-03-04T14:35:01.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個名為Summle的數學小遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30554994</id>
+        <link href="https://news.ycombinator.com/item?id=30554994"/>
+        <updated>2022-03-04T14:14:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a little Math game named Summle]]></summary>
+        <author>
+            <name>kirchhoff</name>
+            <uri>https://news.ycombinator.com/user?id=kirchhoff</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[免費遊戲商店數據安全報告生成器]]></title>
         <id>https://news.ycombinator.com/item?id=30553331</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>MarshalX</name>
             <uri>https://news.ycombinator.com/user?id=MarshalX</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一個將任何圖像轉換為ASCII藝術的工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30317512</id>
-        <link href="https://news.ycombinator.com/item?id=30317512"/>
-        <updated>2022-02-12T23:41:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a tool convert any image to ASCII Art]]></summary>
-        <author>
-            <name>pankajtanwar</name>
-            <uri>https://news.ycombinator.com/user?id=pankajtanwar</uri>
         </author>
     </entry>
 </feed>
