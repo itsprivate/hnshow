@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 04 Mar 2022 03:16:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 04:43:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[RateYourRecruiter.dev]]></title>
+            <link>https://news.ycombinator.com/item?id=30550743</link>
+            <guid>https://news.ycombinator.com/item?id=30550743</guid>
+            <pubDate>Fri, 04 Mar 2022 04:34:00 GMT</pubDate>
+            <description><![CDATA[Show HN: RateYourRecruiter.dev]]></description>
+        </item>
         <item>
             <title><![CDATA[浏览器中的实时程序化图像操作]]></title>
             <link>https://news.ycombinator.com/item?id=30550113</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30314452</guid>
             <pubDate>Sat, 12 Feb 2022 17:23:24 GMT</pubDate>
             <description><![CDATA[Show HN: Code Review Dashboard]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在你的GitHub README.md中嵌入实时仪表板]]></title>
-            <link>https://news.ycombinator.com/item?id=30313965</link>
-            <guid>https://news.ycombinator.com/item?id=30313965</guid>
-            <pubDate>Sat, 12 Feb 2022 16:27:30 GMT</pubDate>
-            <description><![CDATA[Show HN: Live dashboards to embed in your GitHub README.md]]></description>
         </item>
     </channel>
 </rss>

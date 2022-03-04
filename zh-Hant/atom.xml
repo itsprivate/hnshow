@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-04T03:16:35.144Z</updated>
+    <updated>2022-03-04T04:43:36.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RateYourRecruiter.dev]]></title>
+        <id>https://news.ycombinator.com/item?id=30550743</id>
+        <link href="https://news.ycombinator.com/item?id=30550743"/>
+        <updated>2022-03-04T04:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: RateYourRecruiter.dev]]></summary>
+        <author>
+            <name>afs35mm</name>
+            <uri>https://news.ycombinator.com/user?id=afs35mm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[瀏覽器中的實時程序化圖像操作]]></title>
         <id>https://news.ycombinator.com/item?id=30550113</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sdesol</name>
             <uri>https://news.ycombinator.com/user?id=sdesol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在你的GitHub README.md中嵌入實時儀表板]]></title>
-        <id>https://news.ycombinator.com/item?id=30313965</id>
-        <link href="https://news.ycombinator.com/item?id=30313965"/>
-        <updated>2022-02-12T16:27:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Live dashboards to embed in your GitHub README.md]]></summary>
-        <author>
-            <name>arraypad</name>
-            <uri>https://news.ycombinator.com/user?id=arraypad</uri>
         </author>
     </entry>
 </feed>
