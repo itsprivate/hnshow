@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-04T04:43:36.793Z</updated>
+    <updated>2022-03-04T04:59:44.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通过Filebase和Thirdweb在IPFS上发布一个NFT落款]]></title>
+        <id>https://news.ycombinator.com/item?id=30550827</id>
+        <link href="https://news.ycombinator.com/item?id=30550827"/>
+        <updated>2022-03-04T04:51:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Release an NFT Drop on IPFS via Filebase and Thirdweb]]></summary>
+        <author>
+            <name>zacincceo</name>
+            <uri>https://news.ycombinator.com/user?id=zacincceo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RateYourRecruiter.dev]]></title>
         <id>https://news.ycombinator.com/item?id=30550743</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ognarb</name>
             <uri>https://news.ycombinator.com/user?id=ognarb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代码审查仪表板]]></title>
-        <id>https://news.ycombinator.com/item?id=30314452</id>
-        <link href="https://news.ycombinator.com/item?id=30314452"/>
-        <updated>2022-02-12T17:23:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Code Review Dashboard]]></summary>
-        <author>
-            <name>sdesol</name>
-            <uri>https://news.ycombinator.com/user?id=sdesol</uri>
         </author>
     </entry>
 </feed>
