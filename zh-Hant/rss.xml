@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 04 Mar 2022 20:52:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 21:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[中本聰和這位PayPal聯合創始人在寫的時候，句號後有兩個空格]]></title>
+            <link>https://news.ycombinator.com/item?id=30560537</link>
+            <guid>https://news.ycombinator.com/item?id=30560537</guid>
+            <pubDate>Fri, 04 Mar 2022 21:03:15 GMT</pubDate>
+            <description><![CDATA[Show HN: Satoshi and this PayPal Co-Founder wrote with two spaces after a period]]></description>
+        </item>
         <item>
             <title><![CDATA[中本聰和這位PayPal聯合創始人在寫的時候，句號後有兩個空格]]></title>
             <link>https://news.ycombinator.com/item?id=30560272</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30320751</guid>
             <pubDate>Sun, 13 Feb 2022 10:26:55 GMT</pubDate>
             <description><![CDATA[Show HN: Clean Architecture for Next.js Template]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Simplepdf.eu - 注重隱私的PDF在線編輯器]]></title>
-            <link>https://news.ycombinator.com/item?id=30320541</link>
-            <guid>https://news.ycombinator.com/item?id=30320541</guid>
-            <pubDate>Sun, 13 Feb 2022 09:40:37 GMT</pubDate>
-            <description><![CDATA[Show HN: Simplepdf.eu – privacy-focused PDF online editor]]></description>
         </item>
     </channel>
 </rss>
