@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-04T16:20:17.723Z</updated>
+    <updated>2022-03-04T17:23:57.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[柏林共享交通的交互式三維可視化]]></title>
+        <id>https://news.ycombinator.com/item?id=30557514</id>
+        <link href="https://news.ycombinator.com/item?id=30557514"/>
+        <updated>2022-03-04T17:18:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Interactive 3D Visualization of the Shared Mobility Traffic in Berlin]]></summary>
+        <author>
+            <name>reichardt</name>
+            <uri>https://news.ycombinator.com/user?id=reichardt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了Wordle，但是是為了孩子們的拼寫表]]></title>
+        <id>https://news.ycombinator.com/item?id=30557498</id>
+        <link href="https://news.ycombinator.com/item?id=30557498"/>
+        <updated>2022-03-04T17:16:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made Wordle but for kids spelling lists]]></summary>
+        <author>
+            <name>tjsdavies</name>
+            <uri>https://news.ycombinator.com/user?id=tjsdavies</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於全球衝突的新聞的地理可視化]]></title>
+        <id>https://news.ycombinator.com/item?id=30557356</id>
+        <link href="https://news.ycombinator.com/item?id=30557356"/>
+        <updated>2022-03-04T17:05:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Geovisualization of news about global conflicts]]></summary>
+        <author>
+            <name>janfb</name>
+            <uri>https://news.ycombinator.com/user?id=janfb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[InstaNFC - 開發人員的訪問控制]]></title>
         <id>https://news.ycombinator.com/item?id=30556343</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>neosim</name>
             <uri>https://news.ycombinator.com/user?id=neosim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年度計劃表--規劃你的一年，將你的目標可視化]]></title>
-        <id>https://news.ycombinator.com/item?id=30319370</id>
-        <link href="https://news.ycombinator.com/item?id=30319370"/>
-        <updated>2022-02-13T05:02:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Yearly Planner – Plan your year and visualize your objectives]]></summary>
-        <author>
-            <name>ybouane</name>
-            <uri>https://news.ycombinator.com/user?id=ybouane</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube的競爭者？]]></title>
-        <id>https://news.ycombinator.com/item?id=30319073</id>
-        <link href="https://news.ycombinator.com/item?id=30319073"/>
-        <updated>2022-02-13T03:56:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: YouTube Competitor?]]></summary>
-        <author>
-            <name>ishanr</name>
-            <uri>https://news.ycombinator.com/user?id=ishanr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深度學習框架從零開始（60步教程）]]></title>
-        <id>https://news.ycombinator.com/item?id=30318759</id>
-        <link href="https://news.ycombinator.com/item?id=30318759"/>
-        <updated>2022-02-13T03:10:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Deep Learning Framework from scratch (60 step tutorial)]]></summary>
-        <author>
-            <name>koki0702</name>
-            <uri>https://news.ycombinator.com/user?id=koki0702</uri>
         </author>
     </entry>
 </feed>
