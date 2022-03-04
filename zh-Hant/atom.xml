@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-04T14:35:01.955Z</updated>
+    <updated>2022-03-04T14:57:00.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我用表情符號做了一個網頁遊戲，沒有使用JS框架]]></title>
+        <id>https://news.ycombinator.com/item?id=30555274</id>
+        <link href="https://news.ycombinator.com/item?id=30555274"/>
+        <updated>2022-03-04T14:31:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a web game using emojis and no JS framework]]></summary>
+        <author>
+            <name>dylanjcastillo</name>
+            <uri>https://news.ycombinator.com/user?id=dylanjcastillo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個名為Summle的數學小遊戲]]></title>
         <id>https://news.ycombinator.com/item?id=30554994</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kgoro</name>
             <uri>https://news.ycombinator.com/user?id=kgoro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Python和Asyncio的本地WebRTC]]></title>
-        <id>https://news.ycombinator.com/item?id=30318049</id>
-        <link href="https://news.ycombinator.com/item?id=30318049"/>
-        <updated>2022-02-13T01:05:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Native WebRTC with Python and Asyncio]]></summary>
-        <author>
-            <name>MarshalX</name>
-            <uri>https://news.ycombinator.com/user?id=MarshalX</uri>
         </author>
     </entry>
 </feed>
