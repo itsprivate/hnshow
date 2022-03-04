@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-04T04:59:44.574Z</updated>
+    <updated>2022-03-04T07:31:41.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Brackit - 分離JSON查詢處理中的關鍵關注點]]></title>
+        <id>https://news.ycombinator.com/item?id=30551666</id>
+        <link href="https://news.ycombinator.com/item?id=30551666"/>
+        <updated>2022-03-04T07:19:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Brackit – Separating Key Concerns in JSON Query Processing]]></summary>
+        <author>
+            <name>lichtenberger</name>
+            <uri>https://news.ycombinator.com/user?id=lichtenberger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通過Filebase和Thirdweb在IPFS上發佈一個NFT落款]]></title>
         <id>https://news.ycombinator.com/item?id=30550827</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>scary-size</name>
             <uri>https://news.ycombinator.com/user?id=scary-size</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[憲兵》1.0版問世]]></title>
-        <id>https://news.ycombinator.com/item?id=30315498</id>
-        <link href="https://news.ycombinator.com/item?id=30315498"/>
-        <updated>2022-02-12T19:25:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Kalendar 1.0 Is Out]]></summary>
-        <author>
-            <name>ognarb</name>
-            <uri>https://news.ycombinator.com/user?id=ognarb</uri>
         </author>
     </entry>
 </feed>
