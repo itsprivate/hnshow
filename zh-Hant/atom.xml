@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-04T21:14:04.275Z</updated>
+    <updated>2022-03-04T22:13:27.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[誠實 - 圍繞你的產品或服務進行誠實的討論]]></title>
+        <id>https://news.ycombinator.com/item?id=30561142</id>
+        <link href="https://news.ycombinator.com/item?id=30561142"/>
+        <updated>2022-03-04T21:56:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Thonest – Honest discussions around your product or service]]></summary>
+        <author>
+            <name>samjaycode</name>
+            <uri>https://news.ycombinator.com/user?id=samjaycode</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中本聰和這位PayPal聯合創始人在寫的時候，句號後有兩個空格]]></title>
         <id>https://news.ycombinator.com/item?id=30560537</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>susam</name>
             <uri>https://news.ycombinator.com/user?id=susam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js模板的簡潔架構]]></title>
-        <id>https://news.ycombinator.com/item?id=30320751</id>
-        <link href="https://news.ycombinator.com/item?id=30320751"/>
-        <updated>2022-02-13T10:26:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Clean Architecture for Next.js Template]]></summary>
-        <author>
-            <name>revskill</name>
-            <uri>https://news.ycombinator.com/user?id=revskill</uri>
         </author>
     </entry>
 </feed>
