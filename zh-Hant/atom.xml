@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-03T23:59:10.216Z</updated>
+    <updated>2022-03-04T02:13:34.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GFun - Lisp 4 Go]]></title>
+        <id>https://news.ycombinator.com/item?id=30549643</id>
+        <link href="https://news.ycombinator.com/item?id=30549643"/>
+        <updated>2022-03-04T01:53:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GFun – Lisp 4 Go]]></summary>
+        <author>
+            <name>codr7</name>
+            <uri>https://news.ycombinator.com/user?id=codr7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基於OPA的細化授權和訪問控制系統]]></title>
         <id>https://news.ycombinator.com/item?id=30548475</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>PestoDiRucola</name>
             <uri>https://news.ycombinator.com/user?id=PestoDiRucola</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-frame - 用一個服務器渲染的超級iframe嵌入任何內容]]></title>
-        <id>https://news.ycombinator.com/item?id=30313359</id>
-        <link href="https://news.ycombinator.com/item?id=30313359"/>
-        <updated>2022-02-12T15:12:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: X-frame – embed any content with a server-rendered super iframe]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
         </author>
     </entry>
 </feed>
