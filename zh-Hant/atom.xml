@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-04T07:54:16.355Z</updated>
+    <updated>2022-03-04T10:38:12.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[替代工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30552890</id>
+        <link href="https://news.ycombinator.com/item?id=30552890"/>
+        <updated>2022-03-04T10:32:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Substack Tools]]></summary>
+        <author>
+            <name>gpirescampos</name>
+            <uri>https://news.ycombinator.com/user?id=gpirescampos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[超輕量級的自定義元素，用於標識（頭像）。]]></title>
         <id>https://news.ycombinator.com/item?id=30551786</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>schengnz</name>
             <uri>https://news.ycombinator.com/user?id=schengnz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Rust重寫的Therac-25控制程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30316565</id>
-        <link href="https://news.ycombinator.com/item?id=30316565"/>
-        <updated>2022-02-12T21:16:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Therac-25 Control Program Rewritten in Rust]]></summary>
-        <author>
-            <name>ok123456</name>
-            <uri>https://news.ycombinator.com/user?id=ok123456</uri>
         </author>
     </entry>
 </feed>
