@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 04 Mar 2022 17:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 18:15:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Mailwitness - 通過電子郵件進行數字簽名]]></title>
+            <link>https://news.ycombinator.com/item?id=30558020</link>
+            <guid>https://news.ycombinator.com/item?id=30558020</guid>
+            <pubDate>Fri, 04 Mar 2022 17:56:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Mailwitness – Digital Signatures over Email]]></description>
+        </item>
         <item>
             <title><![CDATA[伯克利單色字體]]></title>
             <link>https://news.ycombinator.com/item?id=30557557</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30320175</guid>
             <pubDate>Sun, 13 Feb 2022 08:18:43 GMT</pubDate>
             <description><![CDATA[Show HN: Wordle Without Waiting a Day]]></description>
-        </item>
-        <item>
-            <title><![CDATA[移除視頻和圖像背景，開放源代碼]]></title>
-            <link>https://news.ycombinator.com/item?id=30319978</link>
-            <guid>https://news.ycombinator.com/item?id=30319978</guid>
-            <pubDate>Sun, 13 Feb 2022 07:31:50 GMT</pubDate>
-            <description><![CDATA[Show HN: Remove video and image backgrounds, open source]]></description>
         </item>
     </channel>
 </rss>
