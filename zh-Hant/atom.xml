@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-04T07:31:41.752Z</updated>
+    <updated>2022-03-04T07:54:16.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[超輕量級的自定義元素，用於標識（頭像）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30551786</id>
+        <link href="https://news.ycombinator.com/item?id=30551786"/>
+        <updated>2022-03-04T07:39:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Super-lightweight custom element for identicons (avatars)]]></summary>
+        <author>
+            <name>FroLeMageBlanc</name>
+            <uri>https://news.ycombinator.com/user?id=FroLeMageBlanc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brackit - 分離JSON查詢處理中的關鍵關注點]]></title>
         <id>https://news.ycombinator.com/item?id=30551666</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ok123456</name>
             <uri>https://news.ycombinator.com/user?id=ok123456</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日 - 建立博客的桌面應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30315786</id>
-        <link href="https://news.ycombinator.com/item?id=30315786"/>
-        <updated>2022-02-12T19:59:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Daily – Desktop app for building blogs]]></summary>
-        <author>
-            <name>scary-size</name>
-            <uri>https://news.ycombinator.com/user?id=scary-size</uri>
         </author>
     </entry>
 </feed>
