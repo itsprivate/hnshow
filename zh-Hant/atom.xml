@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-04T11:32:13.626Z</updated>
+    <updated>2022-03-04T11:54:27.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[免費遊戲商店數據安全報告生成器]]></title>
+        <id>https://news.ycombinator.com/item?id=30553331</id>
+        <link href="https://news.ycombinator.com/item?id=30553331"/>
+        <updated>2022-03-04T11:31:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Free Play Store Data Safety Report Generator]]></summary>
+        <author>
+            <name>vaibhavantil2</name>
+            <uri>https://news.ycombinator.com/user?id=vaibhavantil2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在一個地方追蹤你的所有財富]]></title>
         <id>https://news.ycombinator.com/item?id=30553151</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pankajtanwar</name>
             <uri>https://news.ycombinator.com/user?id=pankajtanwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nango，一個提供類似SPA功能的Django擴展。]]></title>
-        <id>https://news.ycombinator.com/item?id=30317397</id>
-        <link href="https://news.ycombinator.com/item?id=30317397"/>
-        <updated>2022-02-12T23:24:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Nango, a Django extension providing SPA-like features]]></summary>
-        <author>
-            <name>nicois</name>
-            <uri>https://news.ycombinator.com/user?id=nicois</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 04 Mar 2022 11:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 11:54:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[免費遊戲商店數據安全報告生成器]]></title>
+            <link>https://news.ycombinator.com/item?id=30553331</link>
+            <guid>https://news.ycombinator.com/item?id=30553331</guid>
+            <pubDate>Fri, 04 Mar 2022 11:31:54 GMT</pubDate>
+            <description><![CDATA[Show HN: Free Play Store Data Safety Report Generator]]></description>
+        </item>
         <item>
             <title><![CDATA[在一個地方追蹤你的所有財富]]></title>
             <link>https://news.ycombinator.com/item?id=30553151</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30317512</guid>
             <pubDate>Sat, 12 Feb 2022 23:41:16 GMT</pubDate>
             <description><![CDATA[Show HN: I built a tool convert any image to ASCII Art]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nango，一個提供類似SPA功能的Django擴展。]]></title>
-            <link>https://news.ycombinator.com/item?id=30317397</link>
-            <guid>https://news.ycombinator.com/item?id=30317397</guid>
-            <pubDate>Sat, 12 Feb 2022 23:24:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Nango, a Django extension providing SPA-like features]]></description>
         </item>
     </channel>
 </rss>
