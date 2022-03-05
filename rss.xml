@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 05 Mar 2022 03:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 04:40:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Gadsby - 使用变形金刚的受限文本生成]]></title>
+            <link>https://news.ycombinator.com/item?id=30564278</link>
+            <guid>https://news.ycombinator.com/item?id=30564278</guid>
+            <pubDate>Sat, 05 Mar 2022 04:32:05 GMT</pubDate>
+            <description><![CDATA[Show HN: Gadsby – Constrained Text Generation with Transformers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[探索λ-微积分中的大数]]></title>
+            <link>https://news.ycombinator.com/item?id=30564263</link>
+            <guid>https://news.ycombinator.com/item?id=30564263</guid>
+            <pubDate>Sat, 05 Mar 2022 04:29:28 GMT</pubDate>
+            <description><![CDATA[Show HN: Exploring big numbers in lambda-calculus]]></description>
+        </item>
         <item>
             <title><![CDATA[Floordle - NFT分析和警报]]></title>
             <link>https://news.ycombinator.com/item?id=30563801</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30321945</guid>
             <pubDate>Sun, 13 Feb 2022 14:32:10 GMT</pubDate>
             <description><![CDATA[Show HN: Daily Wordle Results with Playwright]]></description>
-        </item>
-        <item>
-            <title><![CDATA[自行车车轮制造的可视化工具]]></title>
-            <link>https://news.ycombinator.com/item?id=30321897</link>
-            <guid>https://news.ycombinator.com/item?id=30321897</guid>
-            <pubDate>Sun, 13 Feb 2022 14:23:33 GMT</pubDate>
-            <description><![CDATA[Show HN: Visualization tools for bicycle wheelbuilding]]></description>
-        </item>
-        <item>
-            <title><![CDATA[具有自动导入和更改时自动重新加载功能的Python REPL]]></title>
-            <link>https://news.ycombinator.com/item?id=30321825</link>
-            <guid>https://news.ycombinator.com/item?id=30321825</guid>
-            <pubDate>Sun, 13 Feb 2022 14:05:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Python REPL with auto-import and auto-reload on changes]]></description>
         </item>
     </channel>
 </rss>

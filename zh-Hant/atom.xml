@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-05T03:15:12.487Z</updated>
+    <updated>2022-03-05T04:40:39.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Gadsby - 使用變形金剛的受限文本生成]]></title>
+        <id>https://news.ycombinator.com/item?id=30564278</id>
+        <link href="https://news.ycombinator.com/item?id=30564278"/>
+        <updated>2022-03-05T04:32:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Gadsby – Constrained Text Generation with Transformers]]></summary>
+        <author>
+            <name>Der_Einzige</name>
+            <uri>https://news.ycombinator.com/user?id=Der_Einzige</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探索λ-微積分中的大數]]></title>
+        <id>https://news.ycombinator.com/item?id=30564263</id>
+        <link href="https://news.ycombinator.com/item?id=30564263"/>
+        <updated>2022-03-05T04:29:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Exploring big numbers in lambda-calculus]]></summary>
+        <author>
+            <name>martyalain</name>
+            <uri>https://news.ycombinator.com/user?id=martyalain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Floordle - NFT分析和警報]]></title>
         <id>https://news.ycombinator.com/item?id=30563801</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>sammyhass</name>
             <uri>https://news.ycombinator.com/user?id=sammyhass</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自行車車輪製造的可視化工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30321897</id>
-        <link href="https://news.ycombinator.com/item?id=30321897"/>
-        <updated>2022-02-13T14:23:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Visualization tools for bicycle wheelbuilding]]></summary>
-        <author>
-            <name>StayTrue</name>
-            <uri>https://news.ycombinator.com/user?id=StayTrue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具有自動導入和更改時自動重新加載功能的Python REPL]]></title>
-        <id>https://news.ycombinator.com/item?id=30321825</id>
-        <link href="https://news.ycombinator.com/item?id=30321825"/>
-        <updated>2022-02-13T14:05:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Python REPL with auto-import and auto-reload on changes]]></summary>
-        <author>
-            <name>sevazhidkov</name>
-            <uri>https://news.ycombinator.com/user?id=sevazhidkov</uri>
         </author>
     </entry>
 </feed>
