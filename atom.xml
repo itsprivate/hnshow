@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-05T07:32:40.996Z</updated>
+    <updated>2022-03-05T09:32:59.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[NFT发生器]]></title>
+        <id>https://news.ycombinator.com/item?id=30565889</id>
+        <link href="https://news.ycombinator.com/item?id=30565889"/>
+        <updated>2022-03-05T09:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: NFT Generator]]></summary>
+        <author>
+            <name>Jamesbarford</name>
+            <uri>https://news.ycombinator.com/user?id=Jamesbarford</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Word-in-one--每天的Wordle式谜题]]></title>
+        <id>https://news.ycombinator.com/item?id=30565855</id>
+        <link href="https://news.ycombinator.com/item?id=30565855"/>
+        <updated>2022-03-05T09:13:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Word-in-one – a daily Wordle-style puzzle]]></summary>
+        <author>
+            <name>mconst</name>
+            <uri>https://news.ycombinator.com/user?id=mconst</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对审查代码修改的一种改进]]></title>
         <id>https://news.ycombinator.com/item?id=30565249</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>alexstyl</name>
             <uri>https://news.ycombinator.com/user?id=alexstyl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Storielle，让你轻松分享YouTube视频作为Instagram故事]]></title>
-        <id>https://news.ycombinator.com/item?id=30324211</id>
-        <link href="https://news.ycombinator.com/item?id=30324211"/>
-        <updated>2022-02-13T18:33:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Storielle, let you easily share YouTube videos as Instagram stories]]></summary>
-        <author>
-            <name>vicio</name>
-            <uri>https://news.ycombinator.com/user?id=vicio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用C++和Python识别加密钱币的通道趋势线]]></title>
-        <id>https://news.ycombinator.com/item?id=30324098</id>
-        <link href="https://news.ycombinator.com/item?id=30324098"/>
-        <updated>2022-02-13T18:22:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Identifying channel trendlines of Crypto coins with C++ and Python]]></summary>
-        <author>
-            <name>eleganc</name>
-            <uri>https://news.ycombinator.com/user?id=eleganc</uri>
         </author>
     </entry>
 </feed>
