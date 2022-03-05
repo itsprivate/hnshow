@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 04 Mar 2022 22:52:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 03:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Floordle - NFT分析和警報]]></title>
+            <link>https://news.ycombinator.com/item?id=30563801</link>
+            <guid>https://news.ycombinator.com/item?id=30563801</guid>
+            <pubDate>Sat, 05 Mar 2022 03:08:41 GMT</pubDate>
+            <description><![CDATA[Show HN: Floordle – NFT Analytics and Alerts]]></description>
+        </item>
         <item>
             <title><![CDATA[記住每兩小時吃一次]]></title>
             <link>https://news.ycombinator.com/item?id=30561667</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30321825</guid>
             <pubDate>Sun, 13 Feb 2022 14:05:53 GMT</pubDate>
             <description><![CDATA[Show HN: Python REPL with auto-import and auto-reload on changes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Colordle - 猜測顏色，創造出意想不到的美麗梯度]]></title>
-            <link>https://news.ycombinator.com/item?id=30321405</link>
-            <guid>https://news.ycombinator.com/item?id=30321405</guid>
-            <pubDate>Sun, 13 Feb 2022 12:53:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Colordle – Guess the color and create unexpected, beautiful gradients]]></description>
         </item>
     </channel>
 </rss>

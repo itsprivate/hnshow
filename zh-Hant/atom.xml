@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-04T22:52:50.194Z</updated>
+    <updated>2022-03-05T03:15:12.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Floordle - NFT分析和警報]]></title>
+        <id>https://news.ycombinator.com/item?id=30563801</id>
+        <link href="https://news.ycombinator.com/item?id=30563801"/>
+        <updated>2022-03-05T03:08:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Floordle – NFT Analytics and Alerts]]></summary>
+        <author>
+            <name>Lamperoyge</name>
+            <uri>https://news.ycombinator.com/user?id=Lamperoyge</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[記住每兩小時吃一次]]></title>
         <id>https://news.ycombinator.com/item?id=30561667</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sevazhidkov</name>
             <uri>https://news.ycombinator.com/user?id=sevazhidkov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colordle - 猜測顏色，創造出意想不到的美麗梯度]]></title>
-        <id>https://news.ycombinator.com/item?id=30321405</id>
-        <link href="https://news.ycombinator.com/item?id=30321405"/>
-        <updated>2022-02-13T12:53:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Colordle – Guess the color and create unexpected, beautiful gradients]]></summary>
-        <author>
-            <name>ymichael</name>
-            <uri>https://news.ycombinator.com/user?id=ymichael</uri>
         </author>
     </entry>
 </feed>
