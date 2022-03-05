@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-05T19:28:40.992Z</updated>
+    <updated>2022-03-05T19:38:02.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Windows XP主題的Mastodon實例]]></title>
+        <id>https://news.ycombinator.com/item?id=30571043</id>
+        <link href="https://news.ycombinator.com/item?id=30571043"/>
+        <updated>2022-03-05T19:31:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Windows XP Themed Mastodon Instance]]></summary>
+        <author>
+            <name>assemblylang</name>
+            <uri>https://news.ycombinator.com/user?id=assemblylang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[操縱Minecraft的FUSE文件系統]]></title>
         <id>https://news.ycombinator.com/item?id=30570814</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mironal</name>
             <uri>https://news.ycombinator.com/user?id=mironal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript知識地圖]]></title>
-        <id>https://news.ycombinator.com/item?id=30330268</id>
-        <link href="https://news.ycombinator.com/item?id=30330268"/>
-        <updated>2022-02-14T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: JavaScript Knowledge Map]]></summary>
-        <author>
-            <name>jadjoubran</name>
-            <uri>https://news.ycombinator.com/user?id=jadjoubran</uri>
         </author>
     </entry>
 </feed>
