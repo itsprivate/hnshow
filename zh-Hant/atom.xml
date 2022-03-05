@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-05T15:35:12.293Z</updated>
+    <updated>2022-03-05T16:15:43.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RImageShield，用於保護嵌入版權信息的圖像的免費工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30568645</id>
+        <link href="https://news.ycombinator.com/item?id=30568645"/>
+        <updated>2022-03-05T16:07:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: RImageShield, free tool to protect images embedding a copyright message]]></summary>
+        <author>
+            <name>raylibdev</name>
+            <uri>https://news.ycombinator.com/user?id=raylibdev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[招聘人員電子郵件域和電子郵件過濾自動化的儲存庫]]></title>
         <id>https://news.ycombinator.com/item?id=30568265</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kn81198</name>
             <uri>https://news.ycombinator.com/user?id=kn81198</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無代碼替代Retool, Appsmith, Internal等。]]></title>
-        <id>https://news.ycombinator.com/item?id=30328920</id>
-        <link href="https://news.ycombinator.com/item?id=30328920"/>
-        <updated>2022-02-14T06:20:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: No-code alternative to Retool, Appsmith, Internal, etc.]]></summary>
-        <author>
-            <name>antonsv</name>
-            <uri>https://news.ycombinator.com/user?id=antonsv</uri>
         </author>
     </entry>
 </feed>
