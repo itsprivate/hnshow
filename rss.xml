@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 05 Mar 2022 18:56:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 19:28:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[操纵Minecraft的FUSE文件系统]]></title>
+            <link>https://news.ycombinator.com/item?id=30570814</link>
+            <guid>https://news.ycombinator.com/item?id=30570814</guid>
+            <pubDate>Sat, 05 Mar 2022 19:11:03 GMT</pubDate>
+            <description><![CDATA[Show HN: FUSE Filesystem for Manipulating Minecraft]]></description>
+        </item>
         <item>
             <title><![CDATA[具有自动更新和自动降价功能的CL和FB转售应用程序]]></title>
             <link>https://news.ycombinator.com/item?id=30570578</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30330268</guid>
             <pubDate>Mon, 14 Feb 2022 10:10:00 GMT</pubDate>
             <description><![CDATA[Show HN: JavaScript Knowledge Map]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Micro - 一个用于API驱动开发的云平台]]></title>
-            <link>https://news.ycombinator.com/item?id=30330036</link>
-            <guid>https://news.ycombinator.com/item?id=30330036</guid>
-            <pubDate>Mon, 14 Feb 2022 09:30:56 GMT</pubDate>
-            <description><![CDATA[Show HN: Micro – A cloud platform for API driven development]]></description>
         </item>
     </channel>
 </rss>

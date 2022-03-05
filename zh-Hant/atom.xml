@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-05T18:56:04.271Z</updated>
+    <updated>2022-03-05T19:28:40.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[操縱Minecraft的FUSE文件系統]]></title>
+        <id>https://news.ycombinator.com/item?id=30570814</id>
+        <link href="https://news.ycombinator.com/item?id=30570814"/>
+        <updated>2022-03-05T19:11:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: FUSE Filesystem for Manipulating Minecraft]]></summary>
+        <author>
+            <name>tiddles</name>
+            <uri>https://news.ycombinator.com/user?id=tiddles</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[具有自動更新和自動降價功能的CL和FB轉售應用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30570578</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jadjoubran</name>
             <uri>https://news.ycombinator.com/user?id=jadjoubran</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Micro - 一個用於API驅動開發的雲平臺]]></title>
-        <id>https://news.ycombinator.com/item?id=30330036</id>
-        <link href="https://news.ycombinator.com/item?id=30330036"/>
-        <updated>2022-02-14T09:30:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Micro – A cloud platform for API driven development]]></summary>
-        <author>
-            <name>asim</name>
-            <uri>https://news.ycombinator.com/user?id=asim</uri>
         </author>
     </entry>
 </feed>
