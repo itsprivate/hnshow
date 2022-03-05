@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-05T18:15:06.842Z</updated>
+    <updated>2022-03-05T18:38:47.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个与Clockify同步的Pomodoro Timer]]></title>
+        <id>https://news.ycombinator.com/item?id=30570377</id>
+        <link href="https://news.ycombinator.com/item?id=30570377"/>
+        <updated>2022-03-05T18:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a Pomodoro Timer that sync with Clockify]]></summary>
+        <author>
+            <name>FranP-Code</name>
+            <uri>https://news.ycombinator.com/user?id=FranP-Code</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FlexStr - Rust的不可变的、克隆效率高的字符串替代品]]></title>
         <id>https://news.ycombinator.com/item?id=30570118</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>raghavsaraf17</name>
             <uri>https://news.ycombinator.com/user?id=raghavsaraf17</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ArkNotif，当你的失落的方舟队列弹出时通知你。]]></title>
-        <id>https://news.ycombinator.com/item?id=30329804</id>
-        <link href="https://news.ycombinator.com/item?id=30329804"/>
-        <updated>2022-02-14T08:54:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ArkNotif, notifies you when your Lost Ark queue pops]]></summary>
-        <author>
-            <name>DaMrNelson</name>
-            <uri>https://news.ycombinator.com/user?id=DaMrNelson</uri>
         </author>
     </entry>
 </feed>
