@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 05 Mar 2022 16:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 18:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[FlexStr - Rust的不可变的、克隆效率高的字符串替代品]]></title>
+            <link>https://news.ycombinator.com/item?id=30570118</link>
+            <guid>https://news.ycombinator.com/item?id=30570118</guid>
+            <pubDate>Sat, 05 Mar 2022 18:10:42 GMT</pubDate>
+            <description><![CDATA[Show HN: FlexStr – An immutable, clone-efficient String replacement for Rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我建立了一个Wordle解码器，可以猜出你的猜测]]></title>
+            <link>https://news.ycombinator.com/item?id=30570029</link>
+            <guid>https://news.ycombinator.com/item?id=30570029</guid>
+            <pubDate>Sat, 05 Mar 2022 18:02:58 GMT</pubDate>
+            <description><![CDATA[Show HN: I built a Wordle decoder that guesses your guesses]]></description>
+        </item>
         <item>
             <title><![CDATA[RImageShield，用于保护嵌入版权信息的图像的免费工具]]></title>
             <link>https://news.ycombinator.com/item?id=30568645</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30329804</guid>
             <pubDate>Mon, 14 Feb 2022 08:54:29 GMT</pubDate>
             <description><![CDATA[Show HN: ArkNotif, notifies you when your Lost Ark queue pops]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用AvaloniaUI框架在Android上运行的NodeEditor应用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30329119</link>
-            <guid>https://news.ycombinator.com/item?id=30329119</guid>
-            <pubDate>Mon, 14 Feb 2022 07:14:58 GMT</pubDate>
-            <description><![CDATA[Show HN: NodeEditor app running on Android using AvaloniaUI framework]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我可以看到]]></title>
-            <link>https://news.ycombinator.com/item?id=30323652</link>
-            <guid>https://news.ycombinator.com/item?id=30323652</guid>
-            <pubDate>Sun, 13 Feb 2022 17:43:28 GMT</pubDate>
-            <description><![CDATA[Show HN: Can I See]]></description>
         </item>
     </channel>
 </rss>
