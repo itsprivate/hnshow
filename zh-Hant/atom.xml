@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-05T13:52:42.516Z</updated>
+    <updated>2022-03-05T15:35:12.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[招聘人員電子郵件域和電子郵件過濾自動化的儲存庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30568265</id>
+        <link href="https://news.ycombinator.com/item?id=30568265"/>
+        <updated>2022-03-05T15:19:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Repository of Recruiter Email Domains and Email Filter Automation]]></summary>
+        <author>
+            <name>appsoftware</name>
+            <uri>https://news.ycombinator.com/user?id=appsoftware</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GenieCloud--針對Julia、Python和R的無代碼應用程序構建器]]></title>
+        <id>https://news.ycombinator.com/item?id=30568237</id>
+        <link href="https://news.ycombinator.com/item?id=30568237"/>
+        <updated>2022-03-05T15:15:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GenieCloud – no-code app builder for Julia, Python and R]]></summary>
+        <author>
+            <name>essenciary</name>
+            <uri>https://news.ycombinator.com/user?id=essenciary</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitBlog - 博客/筆記/隨機想法 - 在一個Git提交信息中]]></title>
         <id>https://news.ycombinator.com/item?id=30567475</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>antonsv</name>
             <uri>https://news.ycombinator.com/user?id=antonsv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gamedex，我的Three.js遊戲開發實驗集。]]></title>
-        <id>https://news.ycombinator.com/item?id=30328344</id>
-        <link href="https://news.ycombinator.com/item?id=30328344"/>
-        <updated>2022-02-14T04:22:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Gamedex, my collection of Three.js game dev experiments]]></summary>
-        <author>
-            <name>SuboptimalEng</name>
-            <uri>https://news.ycombinator.com/user?id=SuboptimalEng</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在C++中實現工作高效的並行SpMSpV算法]]></title>
-        <id>https://news.ycombinator.com/item?id=30327504</id>
-        <link href="https://news.ycombinator.com/item?id=30327504"/>
-        <updated>2022-02-14T01:35:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Implementation of a work-efficient parallel SpMSpV algorithm in C++]]></summary>
-        <author>
-            <name>a_ermolinskiy</name>
-            <uri>https://news.ycombinator.com/user?id=a_ermolinskiy</uri>
         </author>
     </entry>
 </feed>
