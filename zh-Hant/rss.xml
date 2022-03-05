@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 05 Mar 2022 10:36:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 13:52:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GitBlog - 博客/筆記/隨機想法 - 在一個Git提交信息中]]></title>
+            <link>https://news.ycombinator.com/item?id=30567475</link>
+            <guid>https://news.ycombinator.com/item?id=30567475</guid>
+            <pubDate>Sat, 05 Mar 2022 13:40:38 GMT</pubDate>
+            <description><![CDATA[Show HN: GitBlog – blog / notes / random thoughts – in a Git commit message]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我用ANSI-C寫了一個可愛的JSON解析器]]></title>
+            <link>https://news.ycombinator.com/item?id=30566670</link>
+            <guid>https://news.ycombinator.com/item?id=30566670</guid>
+            <pubDate>Sat, 05 Mar 2022 11:50:16 GMT</pubDate>
+            <description><![CDATA[Show HN: I wrote a lovely JSON parser in ANSI-C]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了SUMPOST新聞室--頭條新聞轉儲，沒有算法，每天更新一次]]></title>
             <link>https://news.ycombinator.com/item?id=30566167</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30327504</guid>
             <pubDate>Mon, 14 Feb 2022 01:35:31 GMT</pubDate>
             <description><![CDATA[Show HN: Implementation of a work-efficient parallel SpMSpV algorithm in C++]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基於物理的GPU光線追蹤器從頭開始]]></title>
-            <link>https://news.ycombinator.com/item?id=30324245</link>
-            <guid>https://news.ycombinator.com/item?id=30324245</guid>
-            <pubDate>Sun, 13 Feb 2022 18:36:40 GMT</pubDate>
-            <description><![CDATA[Show HN: Physically-based GPU raytracer from scratch]]></description>
-        </item>
-        <item>
-            <title><![CDATA[陰影--產生Tailwind陰影]]></title>
-            <link>https://news.ycombinator.com/item?id=30325601</link>
-            <guid>https://news.ycombinator.com/item?id=30325601</guid>
-            <pubDate>Sun, 13 Feb 2022 20:56:40 GMT</pubDate>
-            <description><![CDATA[Show HN: Shades – Generate Tailwind Shades]]></description>
         </item>
     </channel>
 </rss>
