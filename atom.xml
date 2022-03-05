@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-05T04:40:39.145Z</updated>
+    <updated>2022-03-05T04:57:48.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何使用流处理器Pipy创建一个网络代理]]></title>
+        <id>https://news.ycombinator.com/item?id=30564346</id>
+        <link href="https://news.ycombinator.com/item?id=30564346"/>
+        <updated>2022-03-05T04:46:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How to Create a Network Proxy Using Stream Processor Pipy]]></summary>
+        <author>
+            <name>shaderx13</name>
+            <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gadsby - 使用变形金刚的受限文本生成]]></title>
         <id>https://news.ycombinator.com/item?id=30564278</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>yagipy</name>
             <uri>https://news.ycombinator.com/user?id=yagipy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与剧作家的每日词条结果]]></title>
-        <id>https://news.ycombinator.com/item?id=30321945</id>
-        <link href="https://news.ycombinator.com/item?id=30321945"/>
-        <updated>2022-02-13T14:32:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Daily Wordle Results with Playwright]]></summary>
-        <author>
-            <name>sammyhass</name>
-            <uri>https://news.ycombinator.com/user?id=sammyhass</uri>
         </author>
     </entry>
 </feed>
