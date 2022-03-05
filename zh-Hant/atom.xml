@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-05T19:38:02.409Z</updated>
+    <updated>2022-03-05T20:33:06.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Xordle，我做的一個Wordle變體]]></title>
+        <id>https://news.ycombinator.com/item?id=30571534</id>
+        <link href="https://news.ycombinator.com/item?id=30571534"/>
+        <updated>2022-03-05T20:25:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Xordle, a Wordle variant I made]]></summary>
+        <author>
+            <name>furyofantares</name>
+            <uri>https://news.ycombinator.com/user?id=furyofantares</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CareerCipher - 一個模擬面試平臺]]></title>
+        <id>https://news.ycombinator.com/item?id=30571461</id>
+        <link href="https://news.ycombinator.com/item?id=30571461"/>
+        <updated>2022-03-05T20:18:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: CareerCipher – A Mock Interviewing Platform]]></summary>
+        <author>
+            <name>mmmmkay</name>
+            <uri>https://news.ycombinator.com/user?id=mmmmkay</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows XP主題的Mastodon實例]]></title>
         <id>https://news.ycombinator.com/item?id=30571043</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mg</name>
             <uri>https://news.ycombinator.com/user?id=mg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webflow簡介卡網站包]]></title>
-        <id>https://news.ycombinator.com/item?id=30330595</id>
-        <link href="https://news.ycombinator.com/item?id=30330595"/>
-        <updated>2022-02-14T11:03:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Webflow profile card website pack]]></summary>
-        <author>
-            <name>KierGlover</name>
-            <uri>https://news.ycombinator.com/user?id=KierGlover</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你是否曾想保留轉發的機會？]]></title>
-        <id>https://news.ycombinator.com/item?id=30330312</id>
-        <link href="https://news.ycombinator.com/item?id=30330312"/>
-        <updated>2022-02-14T10:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Have you ever wanted to reserve a retweet?]]></summary>
-        <author>
-            <name>mironal</name>
-            <uri>https://news.ycombinator.com/user?id=mironal</uri>
         </author>
     </entry>
 </feed>
