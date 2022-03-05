@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 05 Mar 2022 09:32:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 10:36:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了SUMPOST新聞室--頭條新聞轉儲，沒有算法，每天更新一次]]></title>
+            <link>https://news.ycombinator.com/item?id=30566167</link>
+            <guid>https://news.ycombinator.com/item?id=30566167</guid>
+            <pubDate>Sat, 05 Mar 2022 10:16:55 GMT</pubDate>
+            <description><![CDATA[Show HN: I made SUMPOST Newsroom – headlines dump, no algos, updated once a day]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我讓它很容易向遊客展示你的計劃]]></title>
+            <link>https://news.ycombinator.com/item?id=30566158</link>
+            <guid>https://news.ycombinator.com/item?id=30566158</guid>
+            <pubDate>Sat, 05 Mar 2022 10:15:18 GMT</pubDate>
+            <description><![CDATA[Show HN: I made it easy to show visitors what you're planning]]></description>
+        </item>
         <item>
             <title><![CDATA[NFT發生器]]></title>
             <link>https://news.ycombinator.com/item?id=30565889</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30325601</guid>
             <pubDate>Sun, 13 Feb 2022 20:56:40 GMT</pubDate>
             <description><![CDATA[Show HN: Shades – Generate Tailwind Shades]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我寫了一個新的API來取代Android的ContactProvider]]></title>
-            <link>https://news.ycombinator.com/item?id=30324787</link>
-            <guid>https://news.ycombinator.com/item?id=30324787</guid>
-            <pubDate>Sun, 13 Feb 2022 19:32:52 GMT</pubDate>
-            <description><![CDATA[Show HN: I wrote an new API to replace Android's ContactProvider]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一個入門套件，以減少你的社交應用程序的開發成本]]></title>
-            <link>https://news.ycombinator.com/item?id=30324675</link>
-            <guid>https://news.ycombinator.com/item?id=30324675</guid>
-            <pubDate>Sun, 13 Feb 2022 19:19:49 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a Starter Kit to reduce your social app's development costs]]></description>
         </item>
     </channel>
 </rss>
