@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-06T04:41:13.814Z</updated>
+    <updated>2022-03-06T06:14:58.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一個在線的熱力模型工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30575357</id>
+        <link href="https://news.ycombinator.com/item?id=30575357"/>
+        <updated>2022-03-06T05:53:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built an online tool for thermal modeling]]></summary>
+        <author>
+            <name>lrobinovitch</name>
+            <uri>https://news.ycombinator.com/user?id=lrobinovitch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個網站，鼓勵你多寫東西]]></title>
         <id>https://news.ycombinator.com/item?id=30575014</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>n11sh1</name>
             <uri>https://news.ycombinator.com/user?id=n11sh1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Betsy - incy-wincy Python靜態依賴性爬蟲]]></title>
-        <id>https://news.ycombinator.com/item?id=30331347</id>
-        <link href="https://news.ycombinator.com/item?id=30331347"/>
-        <updated>2022-02-14T12:45:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Betsy – The incy-wincy Python static dependencies crawler]]></summary>
-        <author>
-            <name>p403n1x87</name>
-            <uri>https://news.ycombinator.com/user?id=p403n1x87</uri>
         </author>
     </entry>
 </feed>

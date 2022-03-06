@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 06 Mar 2022 04:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 06:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我建立了一個在線的熱力模型工具]]></title>
+            <link>https://news.ycombinator.com/item?id=30575357</link>
+            <guid>https://news.ycombinator.com/item?id=30575357</guid>
+            <pubDate>Sun, 06 Mar 2022 05:53:05 GMT</pubDate>
+            <description><![CDATA[Show HN: I built an online tool for thermal modeling]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一個網站，鼓勵你多寫東西]]></title>
             <link>https://news.ycombinator.com/item?id=30575014</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30331361</guid>
             <pubDate>Mon, 14 Feb 2022 12:47:20 GMT</pubDate>
             <description><![CDATA[Show HN: Limeboard – Digital stationery for collecting thoughts and ideas]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Betsy - incy-wincy Python靜態依賴性爬蟲]]></title>
-            <link>https://news.ycombinator.com/item?id=30331347</link>
-            <guid>https://news.ycombinator.com/item?id=30331347</guid>
-            <pubDate>Mon, 14 Feb 2022 12:45:49 GMT</pubDate>
-            <description><![CDATA[Show HN: Betsy – The incy-wincy Python static dependencies crawler]]></description>
         </item>
     </channel>
 </rss>
