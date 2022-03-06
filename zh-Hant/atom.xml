@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-06T18:55:52.304Z</updated>
+    <updated>2022-03-06T19:27:59.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lemonadejs v2 - JavaScript微型反應式庫 (~6Kbytes)]]></title>
+        <id>https://news.ycombinator.com/item?id=30580278</id>
+        <link href="https://news.ycombinator.com/item?id=30580278"/>
+        <updated>2022-03-06T19:21:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lemonadejs v2 – A JavaScript micro reactive library (~6Kbytes)]]></summary>
+        <author>
+            <name>hodware</name>
+            <uri>https://news.ycombinator.com/user?id=hodware</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我已經不再關心網頁上的 "受公司信任 "一行了。]]></title>
+        <id>https://news.ycombinator.com/item?id=30580194</id>
+        <link href="https://news.ycombinator.com/item?id=30580194"/>
+        <updated>2022-03-06T19:11:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I've stopped giving a fck to 'Trusted By Companies' line on web pages]]></summary>
+        <author>
+            <name>damnv</name>
+            <uri>https://news.ycombinator.com/user?id=damnv</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[心靈聖地、情緒跟蹤和心理測試]]></title>
         <id>https://news.ycombinator.com/item?id=30579822</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>memalign</name>
             <uri>https://news.ycombinator.com/user?id=memalign</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個發現國家信託基金項目的網站（即將推出和已經推出）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30334665</id>
-        <link href="https://news.ycombinator.com/item?id=30334665"/>
-        <updated>2022-02-14T17:17:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A website for discovering NFT projects (upcoming and already launched)]]></summary>
-        <author>
-            <name>danielakang</name>
-            <uri>https://news.ycombinator.com/user?id=danielakang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subruster 用Rust編寫的快速、緊湊的子域列舉工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30334533</id>
-        <link href="https://news.ycombinator.com/item?id=30334533"/>
-        <updated>2022-02-14T17:10:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Subruster Fast, compact subdomain enumeration tool written in Rust]]></summary>
-        <author>
-            <name>MargarineKid</name>
-            <uri>https://news.ycombinator.com/user?id=MargarineKid</uri>
         </author>
     </entry>
 </feed>
