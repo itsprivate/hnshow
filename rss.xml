@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 06 Mar 2022 16:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 16:51:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[从苹果钥匙串将SSH密钥加载到代理中]]></title>
+            <link>https://news.ycombinator.com/item?id=30578713</link>
+            <guid>https://news.ycombinator.com/item?id=30578713</guid>
+            <pubDate>Sun, 06 Mar 2022 16:36:10 GMT</pubDate>
+            <description><![CDATA[Show HN: Load SSH Keys into Agent from Apple Keychain]]></description>
+        </item>
+        <item>
+            <title><![CDATA[透视]]></title>
+            <link>https://news.ycombinator.com/item?id=30578558</link>
+            <guid>https://news.ycombinator.com/item?id=30578558</guid>
+            <pubDate>Sun, 06 Mar 2022 16:17:05 GMT</pubDate>
+            <description><![CDATA[Show HN: Perspective]]></description>
+        </item>
         <item>
             <title><![CDATA[我用Ionic和React做了一个减肥日记]]></title>
             <link>https://news.ycombinator.com/item?id=30578481</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30334454</guid>
             <pubDate>Mon, 14 Feb 2022 17:05:25 GMT</pubDate>
             <description><![CDATA[Show HN: LegendKeeper, collaborative maps and notes for game-masters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Engagespot - 建立你的产品的通知引擎的API]]></title>
-            <link>https://news.ycombinator.com/item?id=30334231</link>
-            <guid>https://news.ycombinator.com/item?id=30334231</guid>
-            <pubDate>Mon, 14 Feb 2022 16:50:26 GMT</pubDate>
-            <description><![CDATA[Show HN: Engagespot – API to build your product's notification engine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个帮助识别情人节巧克力的计算机视觉模型]]></title>
-            <link>https://news.ycombinator.com/item?id=30333906</link>
-            <guid>https://news.ycombinator.com/item?id=30333906</guid>
-            <pubDate>Mon, 14 Feb 2022 16:25:24 GMT</pubDate>
-            <description><![CDATA[Show HN: A computer vision model to help identify Valentine's chocolates]]></description>
         </item>
     </channel>
 </rss>
