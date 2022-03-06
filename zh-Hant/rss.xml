@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 06 Mar 2022 17:40:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 18:55:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[心靈聖地、情緒跟蹤和心理測試]]></title>
+            <link>https://news.ycombinator.com/item?id=30579822</link>
+            <guid>https://news.ycombinator.com/item?id=30579822</guid>
+            <pubDate>Sun, 06 Mar 2022 18:34:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Mind Sanctuary, mood tracking and psychological testing]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一個隱私至上的極簡主義Backblaze]]></title>
             <link>https://news.ycombinator.com/item?id=30577625</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30334533</guid>
             <pubDate>Mon, 14 Feb 2022 17:10:02 GMT</pubDate>
             <description><![CDATA[Show HN: Subruster Fast, compact subdomain enumeration tool written in Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[開放式電子賀卡生成器 - 免費、持久、無服務器的電子賀卡]]></title>
-            <link>https://news.ycombinator.com/item?id=30334514</link>
-            <guid>https://news.ycombinator.com/item?id=30334514</guid>
-            <pubDate>Mon, 14 Feb 2022 17:09:12 GMT</pubDate>
-            <description><![CDATA[Show HN: Open Ecard Generator – Free, persistent, serverless ecards]]></description>
         </item>
     </channel>
 </rss>
