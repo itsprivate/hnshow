@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-06T14:37:58.368Z</updated>
+    <updated>2022-03-06T14:54:06.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[即时搜索正在进行的工作并阅读工作要点（TL;DR）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30577897</id>
+        <link href="https://news.ycombinator.com/item?id=30577897"/>
+        <updated>2022-03-06T14:50:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Instantly search active jobs and read the job highlights (TL;DR)]]></summary>
+        <author>
+            <name>Oras</name>
+            <uri>https://news.ycombinator.com/user?id=Oras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pipy，一个微小、快速、稳定和可编程的下一代代理。]]></title>
         <id>https://news.ycombinator.com/item?id=30577757</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jchwenger</name>
             <uri>https://news.ycombinator.com/user?id=jchwenger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Netlify上使用WeBase的Nocode]]></title>
-        <id>https://news.ycombinator.com/item?id=30332856</id>
-        <link href="https://news.ycombinator.com/item?id=30332856"/>
-        <updated>2022-02-14T15:07:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Nocode on Netlify with WeBase]]></summary>
-        <author>
-            <name>harrisreynolds</name>
-            <uri>https://news.ycombinator.com/user?id=harrisreynolds</uri>
         </author>
     </entry>
 </feed>

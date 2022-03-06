@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 06 Mar 2022 14:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 14:54:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[即時搜索正在進行的工作並閱讀工作要點（TL;DR）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30577897</link>
+            <guid>https://news.ycombinator.com/item?id=30577897</guid>
+            <pubDate>Sun, 06 Mar 2022 14:50:47 GMT</pubDate>
+            <description><![CDATA[Show HN: Instantly search active jobs and read the job highlights (TL;DR)]]></description>
+        </item>
         <item>
             <title><![CDATA[Pipy，一個微小、快速、穩定和可編程的下一代代理。]]></title>
             <link>https://news.ycombinator.com/item?id=30577757</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30332961</guid>
             <pubDate>Mon, 14 Feb 2022 15:15:12 GMT</pubDate>
             <description><![CDATA[Show HN: DIY Freud. Automated therapist on the cheap]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Netlify上使用WeBase的Nocode]]></title>
-            <link>https://news.ycombinator.com/item?id=30332856</link>
-            <guid>https://news.ycombinator.com/item?id=30332856</guid>
-            <pubDate>Mon, 14 Feb 2022 15:07:39 GMT</pubDate>
-            <description><![CDATA[Show HN: Nocode on Netlify with WeBase]]></description>
         </item>
     </channel>
 </rss>
