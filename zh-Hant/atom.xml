@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-06T11:27:29.123Z</updated>
+    <updated>2022-03-06T14:37:58.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Pipy，一個微小、快速、穩定和可編程的下一代代理。]]></title>
+        <id>https://news.ycombinator.com/item?id=30577757</id>
+        <link href="https://news.ycombinator.com/item?id=30577757"/>
+        <updated>2022-03-06T14:22:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pipy, a tiny, fast, stable and programmable next generation of proxy]]></summary>
+        <author>
+            <name>shaderx13</name>
+            <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密/解密純文本POC]]></title>
+        <id>https://news.ycombinator.com/item?id=30577742</id>
+        <link href="https://news.ycombinator.com/item?id=30577742"/>
+        <updated>2022-03-06T14:19:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Encrypt/Decrypt plain text POC]]></summary>
+        <author>
+            <name>aselvan</name>
+            <uri>https://news.ycombinator.com/user?id=aselvan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個確定性的密碼管理器POC]]></title>
+        <id>https://news.ycombinator.com/item?id=30577729</id>
+        <link href="https://news.ycombinator.com/item?id=30577729"/>
+        <updated>2022-03-06T14:15:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A deterministic password manager POC]]></summary>
+        <author>
+            <name>aselvan</name>
+            <uri>https://news.ycombinator.com/user?id=aselvan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[建立或不建立一個軟件功能？]]></title>
         <id>https://news.ycombinator.com/item?id=30576746</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>harrisreynolds</name>
             <uri>https://news.ycombinator.com/user?id=harrisreynolds</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordlecup.io - 以時間為基礎的多人Wordle比賽]]></title>
-        <id>https://news.ycombinator.com/item?id=30332842</id>
-        <link href="https://news.ycombinator.com/item?id=30332842"/>
-        <updated>2022-02-14T15:06:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Wordlecup.io – Multiplayer Wordle with time-based rounds]]></summary>
-        <author>
-            <name>alkalox</name>
-            <uri>https://news.ycombinator.com/user?id=alkalox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為你的項目提供免費和開源的插圖]]></title>
-        <id>https://news.ycombinator.com/item?id=30332535</id>
-        <link href="https://news.ycombinator.com/item?id=30332535"/>
-        <updated>2022-02-14T14:40:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Free and Open-source Illustrations for your projects]]></summary>
-        <author>
-            <name>murtaza_alexa</name>
-            <uri>https://news.ycombinator.com/user?id=murtaza_alexa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TheProspects.club - 一個管理你的工作搜索的工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30332372</id>
-        <link href="https://news.ycombinator.com/item?id=30332372"/>
-        <updated>2022-02-14T14:26:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: TheProspects.club - A tool to manage your job search]]></summary>
-        <author>
-            <name>daxaxelrod</name>
-            <uri>https://news.ycombinator.com/user?id=daxaxelrod</uri>
         </author>
     </entry>
 </feed>
