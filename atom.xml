@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-06T10:12:20.578Z</updated>
+    <updated>2022-03-06T11:27:29.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[建立或不建立一个软件功能？]]></title>
+        <id>https://news.ycombinator.com/item?id=30576746</id>
+        <link href="https://news.ycombinator.com/item?id=30576746"/>
+        <updated>2022-03-06T11:24:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build or don't build a software feature?]]></summary>
+        <author>
+            <name>knadh</name>
+            <uri>https://news.ycombinator.com/user?id=knadh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费资金管理应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30576705</id>
+        <link href="https://news.ycombinator.com/item?id=30576705"/>
+        <updated>2022-03-06T11:15:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Free Money-Management Apps]]></summary>
+        <author>
+            <name>nada_ss</name>
+            <uri>https://news.ycombinator.com/user?id=nada_ss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我为SqlAlchemy模型/表做了一个FastApi CRUD API生成器]]></title>
         <id>https://news.ycombinator.com/item?id=30576316</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>daxaxelrod</name>
             <uri>https://news.ycombinator.com/user?id=daxaxelrod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diremo - 用加密货币购买和销售实物产品]]></title>
-        <id>https://news.ycombinator.com/item?id=30332202</id>
-        <link href="https://news.ycombinator.com/item?id=30332202"/>
-        <updated>2022-02-14T14:13:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Diremo – buy and sell physical products with crypto]]></summary>
-        <author>
-            <name>xtrp</name>
-            <uri>https://news.ycombinator.com/user?id=xtrp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们针对远程团队的公平薪酬计算器（+模板）]]></title>
-        <id>https://news.ycombinator.com/item?id=30332200</id>
-        <link href="https://news.ycombinator.com/item?id=30332200"/>
-        <updated>2022-02-14T14:13:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Our fair salary calculator for remote teams (+ template)]]></summary>
-        <author>
-            <name>clmntrg</name>
-            <uri>https://news.ycombinator.com/user?id=clmntrg</uri>
         </author>
     </entry>
 </feed>
