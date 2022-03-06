@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 06 Mar 2022 22:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 22:54:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一个移动优先的Prolog编辑器]]></title>
+            <link>https://news.ycombinator.com/item?id=30582052</link>
+            <guid>https://news.ycombinator.com/item?id=30582052</guid>
+            <pubDate>Sun, 06 Mar 2022 22:44:50 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a mobile-first Prolog editor]]></description>
+        </item>
         <item>
             <title><![CDATA[在线约会的聊天建议应用]]></title>
             <link>https://news.ycombinator.com/item?id=30581711</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30332141</guid>
             <pubDate>Mon, 14 Feb 2022 14:08:10 GMT</pubDate>
             <description><![CDATA[Show HN: Spodcast, a Spotify podcast to RSS proxy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Magniv, 单线数据科学infra]]></title>
-            <link>https://news.ycombinator.com/item?id=30337204</link>
-            <guid>https://news.ycombinator.com/item?id=30337204</guid>
-            <pubDate>Mon, 14 Feb 2022 19:44:29 GMT</pubDate>
-            <description><![CDATA[Show HN: Magniv, One line data science infra]]></description>
         </item>
     </channel>
 </rss>
