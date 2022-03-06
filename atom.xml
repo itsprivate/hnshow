@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-06T19:27:59.228Z</updated>
+    <updated>2022-03-06T20:34:18.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Rebluff扑克，为宽松激进的玩家提供无限制的扑克。]]></title>
+        <id>https://news.ycombinator.com/item?id=30580857</id>
+        <link href="https://news.ycombinator.com/item?id=30580857"/>
+        <updated>2022-03-06T20:19:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Rebluff Poker, no limit hold'em for loose-aggressive players]]></summary>
+        <author>
+            <name>uberf1sh</name>
+            <uri>https://news.ycombinator.com/user?id=uberf1sh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lemonadejs v2 - JavaScript微型反应式库 (~6Kbytes)]]></title>
         <id>https://news.ycombinator.com/item?id=30580278</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>janvanbergen</name>
             <uri>https://news.ycombinator.com/user?id=janvanbergen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用ASCII创建迷人的摇摆GIF]]></title>
-        <id>https://news.ycombinator.com/item?id=30335677</id>
-        <link href="https://news.ycombinator.com/item?id=30335677"/>
-        <updated>2022-02-14T18:14:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Create charming wobbling GIFs with ASCII]]></summary>
-        <author>
-            <name>memalign</name>
-            <uri>https://news.ycombinator.com/user?id=memalign</uri>
         </author>
     </entry>
 </feed>

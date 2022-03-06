@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 06 Mar 2022 19:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 20:34:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Rebluff撲克，為寬鬆激進的玩家提供無限制的撲克。]]></title>
+            <link>https://news.ycombinator.com/item?id=30580857</link>
+            <guid>https://news.ycombinator.com/item?id=30580857</guid>
+            <pubDate>Sun, 06 Mar 2022 20:19:25 GMT</pubDate>
+            <description><![CDATA[Show HN: Rebluff Poker, no limit hold'em for loose-aggressive players]]></description>
+        </item>
         <item>
             <title><![CDATA[Lemonadejs v2 - JavaScript微型反應式庫 (~6Kbytes)]]></title>
             <link>https://news.ycombinator.com/item?id=30580278</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30336566</guid>
             <pubDate>Mon, 14 Feb 2022 19:00:48 GMT</pubDate>
             <description><![CDATA[Show HN: Physically-based interactive raytracer using C++/CUDA]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用ASCII創建迷人的搖擺GIF]]></title>
-            <link>https://news.ycombinator.com/item?id=30335677</link>
-            <guid>https://news.ycombinator.com/item?id=30335677</guid>
-            <pubDate>Mon, 14 Feb 2022 18:14:02 GMT</pubDate>
-            <description><![CDATA[Show HN: Create charming wobbling GIFs with ASCII]]></description>
         </item>
     </channel>
 </rss>
