@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-06T16:51:21.119Z</updated>
+    <updated>2022-03-06T17:40:11.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个隐私至上的极简主义Backblaze]]></title>
+        <id>https://news.ycombinator.com/item?id=30577625</id>
+        <link href="https://news.ycombinator.com/item?id=30577625"/>
+        <updated>2022-03-06T13:58:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a privacy-first minimalist Backblaze]]></summary>
+        <author>
+            <name>bimbashrestha</name>
+            <uri>https://news.ycombinator.com/user?id=bimbashrestha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从苹果钥匙串将SSH密钥加载到代理中]]></title>
         <id>https://news.ycombinator.com/item?id=30578713</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dohliam</name>
             <uri>https://news.ycombinator.com/user?id=dohliam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LegendKeeper，为游戏管理员提供合作地图和笔记]]></title>
-        <id>https://news.ycombinator.com/item?id=30334454</id>
-        <link href="https://news.ycombinator.com/item?id=30334454"/>
-        <updated>2022-02-14T17:05:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: LegendKeeper, collaborative maps and notes for game-masters]]></summary>
-        <author>
-            <name>braden-lk</name>
-            <uri>https://news.ycombinator.com/user?id=braden-lk</uri>
         </author>
     </entry>
 </feed>
