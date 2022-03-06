@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 06 Mar 2022 15:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 16:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我用Ionic和React做了一個減肥日記]]></title>
+            <link>https://news.ycombinator.com/item?id=30578481</link>
+            <guid>https://news.ycombinator.com/item?id=30578481</guid>
+            <pubDate>Sun, 06 Mar 2022 16:08:41 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a diet diary using Ionic and React]]></description>
+        </item>
         <item>
             <title><![CDATA[軸心 - 用人工智能測量任何歌曲的（吉米）亨德里克斯式（Hendrixian-Ness）。]]></title>
             <link>https://news.ycombinator.com/item?id=30578153</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30333906</guid>
             <pubDate>Mon, 14 Feb 2022 16:25:24 GMT</pubDate>
             <description><![CDATA[Show HN: A computer vision model to help identify Valentine's chocolates]]></description>
-        </item>
-        <item>
-            <title><![CDATA[生成莎士比亞的搞笑情書]]></title>
-            <link>https://news.ycombinator.com/item?id=30333588</link>
-            <guid>https://news.ycombinator.com/item?id=30333588</guid>
-            <pubDate>Mon, 14 Feb 2022 16:00:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Generate a funny love note from Shakespeare]]></description>
         </item>
     </channel>
 </rss>
