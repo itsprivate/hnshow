@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-06T22:54:50.257Z</updated>
+    <updated>2022-03-06T23:51:33.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個簡單的網頁遊戲，叫做 "生存乒乓"。]]></title>
+        <id>https://news.ycombinator.com/item?id=30582390</id>
+        <link href="https://news.ycombinator.com/item?id=30582390"/>
+        <updated>2022-03-06T23:38:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a simple web game called Survival Pong]]></summary>
+        <author>
+            <name>nassimsoftware</name>
+            <uri>https://news.ycombinator.com/user?id=nassimsoftware</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個移動優先的Prolog編輯器]]></title>
         <id>https://news.ycombinator.com/item?id=30582052</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ozarius</name>
             <uri>https://news.ycombinator.com/user?id=ozarius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spodcast，一個Spotify播客到RSS的代理。]]></title>
-        <id>https://news.ycombinator.com/item?id=30332141</id>
-        <link href="https://news.ycombinator.com/item?id=30332141"/>
-        <updated>2022-02-14T14:08:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Spodcast, a Spotify podcast to RSS proxy]]></summary>
-        <author>
-            <name>Ourgon</name>
-            <uri>https://news.ycombinator.com/user?id=Ourgon</uri>
         </author>
     </entry>
 </feed>
