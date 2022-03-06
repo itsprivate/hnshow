@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-06T09:31:18.288Z</updated>
+    <updated>2022-03-06T10:12:20.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我为SqlAlchemy模型/表做了一个FastApi CRUD API生成器]]></title>
+        <id>https://news.ycombinator.com/item?id=30576316</id>
+        <link href="https://news.ycombinator.com/item?id=30576316"/>
+        <updated>2022-03-06T09:51:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a FastApi CRUD API generator for SqlAlchemy model/table]]></summary>
+        <author>
+            <name>kenton18</name>
+            <uri>https://news.ycombinator.com/user?id=kenton18</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[所有的世界大战的总和似乎都是68... 这是一个巨大的巧合吗？]]></title>
         <id>https://news.ycombinator.com/item?id=30576188</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>clmntrg</name>
             <uri>https://news.ycombinator.com/user?id=clmntrg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个应用程序来帮助替换Spotify上的泰勒-斯威夫特歌曲]]></title>
-        <id>https://news.ycombinator.com/item?id=30331782</id>
-        <link href="https://news.ycombinator.com/item?id=30331782"/>
-        <updated>2022-02-14T13:33:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made an app to help replace Taylor Swift songs on Spotify]]></summary>
-        <author>
-            <name>shaundon</name>
-            <uri>https://news.ycombinator.com/user?id=shaundon</uri>
         </author>
     </entry>
 </feed>
