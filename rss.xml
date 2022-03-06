@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 06 Mar 2022 02:34:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 04:41:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一个网站，鼓励你多写东西]]></title>
+            <link>https://news.ycombinator.com/item?id=30575014</link>
+            <guid>https://news.ycombinator.com/item?id=30575014</guid>
+            <pubDate>Sun, 06 Mar 2022 04:24:08 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a website that encourages you to write more often]]></description>
+        </item>
         <item>
             <title><![CDATA[Rust中的SQL生成器]]></title>
             <link>https://news.ycombinator.com/item?id=30574446</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30331347</guid>
             <pubDate>Mon, 14 Feb 2022 12:45:49 GMT</pubDate>
             <description><![CDATA[Show HN: Betsy – The incy-wincy Python static dependencies crawler]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OracleMovies, OpenSea for Movie Rights]]></title>
-            <link>https://news.ycombinator.com/item?id=30331047</link>
-            <guid>https://news.ycombinator.com/item?id=30331047</guid>
-            <pubDate>Mon, 14 Feb 2022 12:11:17 GMT</pubDate>
-            <description><![CDATA[Show HN: OracleMovies, OpenSea for Movie Rights]]></description>
         </item>
     </channel>
 </rss>
