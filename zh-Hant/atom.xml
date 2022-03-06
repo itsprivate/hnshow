@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-06T15:15:47.743Z</updated>
+    <updated>2022-03-06T15:34:41.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[軸心 - 用人工智能測量任何歌曲的（吉米）亨德里克斯式（Hendrixian-Ness）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30578153</id>
+        <link href="https://news.ycombinator.com/item?id=30578153"/>
+        <updated>2022-03-06T15:27:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Axis – Measure the (Jimi) Hendrixian-Ness of Any Song, with AI]]></summary>
+        <author>
+            <name>hendrixia</name>
+            <uri>https://news.ycombinator.com/user?id=hendrixia</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[請幫助我做出決定]]></title>
         <id>https://news.ycombinator.com/item?id=30577951</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>alcamp</name>
             <uri>https://news.ycombinator.com/user?id=alcamp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一個情人節應用程序，從Spotify播放列表中扣除你的匹配度]]></title>
-        <id>https://news.ycombinator.com/item?id=30333419</id>
-        <link href="https://news.ycombinator.com/item?id=30333419"/>
-        <updated>2022-02-14T15:49:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a Valentine's app that deducts your match from Spotify playlist]]></summary>
-        <author>
-            <name>adlha</name>
-            <uri>https://news.ycombinator.com/user?id=adlha</uri>
         </author>
     </entry>
 </feed>
