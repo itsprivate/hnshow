@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-07T10:35:44.635Z</updated>
+    <updated>2022-03-07T11:13:00.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[获取当前HN热门帖子的CLI工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30586276</id>
+        <link href="https://news.ycombinator.com/item?id=30586276"/>
+        <updated>2022-03-07T10:50:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: CLI tool to get current HN top posts]]></summary>
+        <author>
+            <name>daschaa</name>
+            <uri>https://news.ycombinator.com/user?id=daschaa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tinx.ai - 为你预制的AI模型]]></title>
         <id>https://news.ycombinator.com/item?id=30586087</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>anshckr</name>
             <uri>https://news.ycombinator.com/user?id=anshckr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[班加罗尔的故事》(Das Bangen Froomverk)]]></title>
-        <id>https://news.ycombinator.com/item?id=30342539</id>
-        <link href="https://news.ycombinator.com/item?id=30342539"/>
-        <updated>2022-02-15T03:47:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Das Bangen Froomverk]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
         </author>
     </entry>
 </feed>

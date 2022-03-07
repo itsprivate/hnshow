@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 07 Mar 2022 10:35:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 11:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[获取当前HN热门帖子的CLI工具]]></title>
+            <link>https://news.ycombinator.com/item?id=30586276</link>
+            <guid>https://news.ycombinator.com/item?id=30586276</guid>
+            <pubDate>Mon, 07 Mar 2022 10:50:14 GMT</pubDate>
+            <description><![CDATA[Show HN: CLI tool to get current HN top posts]]></description>
+        </item>
         <item>
             <title><![CDATA[Tinx.ai - 为你预制的AI模型]]></title>
             <link>https://news.ycombinator.com/item?id=30586087</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30342794</guid>
             <pubDate>Tue, 15 Feb 2022 04:28:48 GMT</pubDate>
             <description><![CDATA[Show HN: CollabTools – Collaborative Whiteboard]]></description>
-        </item>
-        <item>
-            <title><![CDATA[班加罗尔的故事》(Das Bangen Froomverk)]]></title>
-            <link>https://news.ycombinator.com/item?id=30342539</link>
-            <guid>https://news.ycombinator.com/item?id=30342539</guid>
-            <pubDate>Tue, 15 Feb 2022 03:47:56 GMT</pubDate>
-            <description><![CDATA[Show HN: Das Bangen Froomverk]]></description>
         </item>
     </channel>
 </rss>
