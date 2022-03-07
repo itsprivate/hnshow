@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-07T11:13:00.111Z</updated>
+    <updated>2022-03-07T11:37:19.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你需要用5個世界頂級頭條新聞來開始你的一天]]></title>
+        <id>https://news.ycombinator.com/item?id=30585080</id>
+        <link href="https://news.ycombinator.com/item?id=30585080"/>
+        <updated>2022-03-07T07:25:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Just 5 Top headlines of the world you need to start your day with]]></summary>
+        <author>
+            <name>baransel</name>
+            <uri>https://news.ycombinator.com/user?id=baransel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[獲取當前HN熱門帖子的CLI工具]]></title>
         <id>https://news.ycombinator.com/item?id=30586276</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nibnalin</name>
             <uri>https://news.ycombinator.com/user?id=nibnalin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CollabTools - 協作式白板]]></title>
-        <id>https://news.ycombinator.com/item?id=30342794</id>
-        <link href="https://news.ycombinator.com/item?id=30342794"/>
-        <updated>2022-02-15T04:28:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CollabTools – Collaborative Whiteboard]]></summary>
-        <author>
-            <name>anshckr</name>
-            <uri>https://news.ycombinator.com/user?id=anshckr</uri>
         </author>
     </entry>
 </feed>
