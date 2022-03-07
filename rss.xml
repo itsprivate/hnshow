@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 07 Mar 2022 20:35:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 20:44:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Databar.ai - 无需代码即可连接到任何API]]></title>
+            <link>https://news.ycombinator.com/item?id=30593046</link>
+            <guid>https://news.ycombinator.com/item?id=30593046</guid>
+            <pubDate>Mon, 07 Mar 2022 20:39:53 GMT</pubDate>
+            <description><![CDATA[Show HN: Databar.ai – Connect to any API without code]]></description>
+        </item>
         <item>
             <title><![CDATA[Prodscape.net - 绘制您的移动应用地图]]></title>
             <link>https://news.ycombinator.com/item?id=30592789</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30348155</guid>
             <pubDate>Tue, 15 Feb 2022 15:57:39 GMT</pubDate>
             <description><![CDATA[Show HN: A Chrome extension for common tools used for web development]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Svix--用Rust编写的开源Webhooks服务]]></title>
-            <link>https://news.ycombinator.com/item?id=30347858</link>
-            <guid>https://news.ycombinator.com/item?id=30347858</guid>
-            <pubDate>Tue, 15 Feb 2022 15:38:07 GMT</pubDate>
-            <description><![CDATA[Show HN: Svix – open-source webhooks service written in Rust]]></description>
         </item>
     </channel>
 </rss>

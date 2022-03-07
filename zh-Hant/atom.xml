@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-07T20:35:18.267Z</updated>
+    <updated>2022-03-07T20:44:38.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Databar.ai - 無需代碼即可連接到任何API]]></title>
+        <id>https://news.ycombinator.com/item?id=30593046</id>
+        <link href="https://news.ycombinator.com/item?id=30593046"/>
+        <updated>2022-03-07T20:39:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Databar.ai – Connect to any API without code]]></summary>
+        <author>
+            <name>david_abaev</name>
+            <uri>https://news.ycombinator.com/user?id=david_abaev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prodscape.net - 繪製您的移動應用地圖]]></title>
         <id>https://news.ycombinator.com/item?id=30592789</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>noobtiger</name>
             <uri>https://news.ycombinator.com/user?id=noobtiger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svix--用Rust編寫的開源Webhooks服務]]></title>
-        <id>https://news.ycombinator.com/item?id=30347858</id>
-        <link href="https://news.ycombinator.com/item?id=30347858"/>
-        <updated>2022-02-15T15:38:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Svix – open-source webhooks service written in Rust]]></summary>
-        <author>
-            <name>tasn</name>
-            <uri>https://news.ycombinator.com/user?id=tasn</uri>
         </author>
     </entry>
 </feed>
