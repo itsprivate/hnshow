@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-06T23:51:33.292Z</updated>
+    <updated>2022-03-07T03:52:58.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[受艺术类Twitter机器人的启发，我为NFTs创建了RightClickSaveBot。]]></title>
+        <id>https://news.ycombinator.com/item?id=30583981</id>
+        <link href="https://news.ycombinator.com/item?id=30583981"/>
+        <updated>2022-03-07T03:38:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Inspired by art Twitter bots, I created RightClickSaveBot for NFTs]]></summary>
+        <author>
+            <name>wTheRockb</name>
+            <uri>https://news.ycombinator.com/user?id=wTheRockb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个简单的网页游戏，叫做 "生存乒乓"。]]></title>
         <id>https://news.ycombinator.com/item?id=30582390</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mrtnkl</name>
             <uri>https://news.ycombinator.com/user?id=mrtnkl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡塔姆--盒子，一个来自父子团队的文字拼图游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=30337323</id>
-        <link href="https://news.ycombinator.com/item?id=30337323"/>
-        <updated>2022-02-14T19:51:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Kattam – The Box, A Word Puzzle Game from a dad-son team]]></summary>
-        <author>
-            <name>ozarius</name>
-            <uri>https://news.ycombinator.com/user?id=ozarius</uri>
         </author>
     </entry>
 </feed>
