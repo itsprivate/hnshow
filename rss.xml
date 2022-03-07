@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 07 Mar 2022 12:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 14:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我建立了一项服务来发现快速增长的初创企业、主题和应用程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30587734</link>
+            <guid>https://news.ycombinator.com/item?id=30587734</guid>
+            <pubDate>Mon, 07 Mar 2022 13:52:13 GMT</pubDate>
+            <description><![CDATA[Show HN: I built a service to discover rapidly growing startups, topics and apps]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Sammelband整理网页以便日后阅读]]></title>
+            <link>https://news.ycombinator.com/item?id=30587350</link>
+            <guid>https://news.ycombinator.com/item?id=30587350</guid>
+            <pubDate>Mon, 07 Mar 2022 13:16:49 GMT</pubDate>
+            <description><![CDATA[Show HN: Collate web pages to read later with Sammelband]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一个工具，通过消除数据包丢失来加快TCP/IP的速度]]></title>
             <link>https://news.ycombinator.com/item?id=30586705</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30343646</guid>
             <pubDate>Tue, 15 Feb 2022 07:12:50 GMT</pubDate>
             <description><![CDATA[Show HN: Vimeomate – Free Vimeo video downloader]]></description>
-        </item>
-        <item>
-            <title><![CDATA[宾-德文-德文备忘录制作者]]></title>
-            <link>https://news.ycombinator.com/item?id=30343448</link>
-            <guid>https://news.ycombinator.com/item?id=30343448</guid>
-            <pubDate>Tue, 15 Feb 2022 06:32:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Bing Dwen Dwen Meme Maker]]></description>
-        </item>
-        <item>
-            <title><![CDATA[让MicroPython开发更快、更有趣的工具和代码]]></title>
-            <link>https://news.ycombinator.com/item?id=30343341</link>
-            <guid>https://news.ycombinator.com/item?id=30343341</guid>
-            <pubDate>Tue, 15 Feb 2022 06:08:34 GMT</pubDate>
-            <description><![CDATA[Show HN: Tools and code to make MicroPython development faster and more fun]]></description>
         </item>
     </channel>
 </rss>
