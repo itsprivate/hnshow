@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-07T14:15:53.546Z</updated>
+    <updated>2022-03-07T14:56:34.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[动态符号对照表]]></title>
+        <id>https://news.ycombinator.com/item?id=30588320</id>
+        <link href="https://news.ycombinator.com/item?id=30588320"/>
+        <updated>2022-03-07T14:38:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dynamic Symbols Cross-Reference]]></summary>
+        <author>
+            <name>nwellnhof</name>
+            <uri>https://news.ycombinator.com/user?id=nwellnhof</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[所有的桌面计算器都是错的，所以我不得不建立自己的]]></title>
+        <id>https://news.ycombinator.com/item?id=30588089</id>
+        <link href="https://news.ycombinator.com/item?id=30588089"/>
+        <updated>2022-03-07T14:20:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: All desktop calculators are wrong, so I had to build my own]]></summary>
+        <author>
+            <name>chacha21</name>
+            <uri>https://news.ycombinator.com/user?id=chacha21</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一项服务来发现快速增长的初创企业、主题和应用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30587734</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>okozzie</name>
             <uri>https://news.ycombinator.com/user?id=okozzie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Truetubestatus.com - 为伦敦地铁提供更好的服务状态]]></title>
-        <id>https://news.ycombinator.com/item?id=30343847</id>
-        <link href="https://news.ycombinator.com/item?id=30343847"/>
-        <updated>2022-02-15T07:52:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Truetubestatus.com – Better service statuses for the London Tube]]></summary>
-        <author>
-            <name>affalytics</name>
-            <uri>https://news.ycombinator.com/user?id=affalytics</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vimeomate - 免费的Vimeo视频下载器]]></title>
-        <id>https://news.ycombinator.com/item?id=30343646</id>
-        <link href="https://news.ycombinator.com/item?id=30343646"/>
-        <updated>2022-02-15T07:12:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Vimeomate – Free Vimeo video downloader]]></summary>
-        <author>
-            <name>Vimeomate</name>
-            <uri>https://news.ycombinator.com/user?id=Vimeomate</uri>
         </author>
     </entry>
 </feed>
