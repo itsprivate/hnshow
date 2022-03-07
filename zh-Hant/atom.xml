@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-07T15:37:02.435Z</updated>
+    <updated>2022-03-07T16:56:31.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[瀏覽器擴展，顯示保存的文章和圖片作為你的社交反饋的一部分]]></title>
+        <id>https://news.ycombinator.com/item?id=30589960</id>
+        <link href="https://news.ycombinator.com/item?id=30589960"/>
+        <updated>2022-03-07T16:40:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Chrome extension that show saves articles,img as part of ur social feed]]></summary>
+        <author>
+            <name>Ketan-fullstack</name>
+            <uri>https://news.ycombinator.com/user?id=Ketan-fullstack</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一個最小的博客平臺，帶有添加/刪除帖子和ISR功能。]]></title>
+        <id>https://news.ycombinator.com/item?id=30589790</id>
+        <link href="https://news.ycombinator.com/item?id=30589790"/>
+        <updated>2022-03-07T16:30:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a minimal blog platform with add/delete post and ISR]]></summary>
+        <author>
+            <name>gmzi</name>
+            <uri>https://news.ycombinator.com/user?id=gmzi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mdut - 用於生成Markdown URL標籤的CLI工具和Python庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30589609</id>
+        <link href="https://news.ycombinator.com/item?id=30589609"/>
+        <updated>2022-03-07T16:19:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: mdut – CLI tool and Python library for generating Markdown URL tags]]></summary>
+        <author>
+            <name>nkantar</name>
+            <uri>https://news.ycombinator.com/user?id=nkantar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們如何使用Gatsby和Puppeteer來創建動態的Open Graph圖像]]></title>
+        <id>https://news.ycombinator.com/item?id=30589390</id>
+        <link href="https://news.ycombinator.com/item?id=30589390"/>
+        <updated>2022-03-07T16:03:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How we used Gatsby and Puppeteer to create dynamic Open Graph images]]></summary>
+        <author>
+            <name>corywatilo</name>
+            <uri>https://news.ycombinator.com/user?id=corywatilo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paydept - 顯示你使用的每一個尋求捐贈的依賴性。]]></title>
         <id>https://news.ycombinator.com/item?id=30588882</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>okozzie</name>
             <uri>https://news.ycombinator.com/user?id=okozzie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以 "每月 "為單位分批導出iCloud照片進行備份和分類]]></title>
-        <id>https://news.ycombinator.com/item?id=30344888</id>
-        <link href="https://news.ycombinator.com/item?id=30344888"/>
-        <updated>2022-02-15T10:45:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Exporting iCloud photos in 'per month' batches for backup and sorting]]></summary>
-        <author>
-            <name>hemmert</name>
-            <uri>https://news.ycombinator.com/user?id=hemmert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[智能裁剪--從屏幕截圖中刪除重複的空白和空區域]]></title>
-        <id>https://news.ycombinator.com/item?id=30344773</id>
-        <link href="https://news.ycombinator.com/item?id=30344773"/>
-        <updated>2022-02-15T10:27:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Smart-Crop – removes repetitive blank and empty areas from screenshots]]></summary>
-        <author>
-            <name>indigobyte</name>
-            <uri>https://news.ycombinator.com/user?id=indigobyte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CCTV存儲計算器 (Jvsg.com)]]></title>
-        <id>https://news.ycombinator.com/item?id=30344772</id>
-        <link href="https://news.ycombinator.com/item?id=30344772"/>
-        <updated>2022-02-15T10:26:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CCTV Storage Calculator (Jvsg.com)]]></summary>
-        <author>
-            <name>maxshm</name>
-            <uri>https://news.ycombinator.com/user?id=maxshm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我為iOS做了一個愚蠢的簡易提醒應用程序--需要反饋意見]]></title>
-        <id>https://news.ycombinator.com/item?id=30344520</id>
-        <link href="https://news.ycombinator.com/item?id=30344520"/>
-        <updated>2022-02-15T09:49:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a stupid easy reminder app for iOS – feedback needed]]></summary>
-        <author>
-            <name>mr_huseby</name>
-            <uri>https://news.ycombinator.com/user?id=mr_huseby</uri>
         </author>
     </entry>
 </feed>

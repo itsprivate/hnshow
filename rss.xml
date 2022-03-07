@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 07 Mar 2022 15:37:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 16:56:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,34 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[浏览器扩展，显示保存的文章和图片作为你的社交反馈的一部分]]></title>
+            <link>https://news.ycombinator.com/item?id=30589960</link>
+            <guid>https://news.ycombinator.com/item?id=30589960</guid>
+            <pubDate>Mon, 07 Mar 2022 16:40:53 GMT</pubDate>
+            <description><![CDATA[Show HN: Chrome extension that show saves articles,img as part of ur social feed]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我做了一个最小的博客平台，带有添加/删除帖子和ISR功能。]]></title>
+            <link>https://news.ycombinator.com/item?id=30589790</link>
+            <guid>https://news.ycombinator.com/item?id=30589790</guid>
+            <pubDate>Mon, 07 Mar 2022 16:30:32 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a minimal blog platform with add/delete post and ISR]]></description>
+        </item>
+        <item>
+            <title><![CDATA[mdut - 用于生成Markdown URL标签的CLI工具和Python库]]></title>
+            <link>https://news.ycombinator.com/item?id=30589609</link>
+            <guid>https://news.ycombinator.com/item?id=30589609</guid>
+            <pubDate>Mon, 07 Mar 2022 16:19:17 GMT</pubDate>
+            <description><![CDATA[Show HN: mdut – CLI tool and Python library for generating Markdown URL tags]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我们如何使用Gatsby和Puppeteer来创建动态的Open Graph图像]]></title>
+            <link>https://news.ycombinator.com/item?id=30589390</link>
+            <guid>https://news.ycombinator.com/item?id=30589390</guid>
+            <pubDate>Mon, 07 Mar 2022 16:03:05 GMT</pubDate>
+            <description><![CDATA[Show HN: How we used Gatsby and Puppeteer to create dynamic Open Graph images]]></description>
+        </item>
         <item>
             <title><![CDATA[Paydept - 显示你使用的每一个寻求捐赠的依赖性。]]></title>
             <link>https://news.ycombinator.com/item?id=30588882</link>
@@ -4185,34 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30345227</guid>
             <pubDate>Tue, 15 Feb 2022 11:37:15 GMT</pubDate>
             <description><![CDATA[Show HN: Generate a personal website in seconds from your Twitter/insta/GitHub]]></description>
-        </item>
-        <item>
-            <title><![CDATA[以 "每月 "为单位分批导出iCloud照片进行备份和分类]]></title>
-            <link>https://news.ycombinator.com/item?id=30344888</link>
-            <guid>https://news.ycombinator.com/item?id=30344888</guid>
-            <pubDate>Tue, 15 Feb 2022 10:45:30 GMT</pubDate>
-            <description><![CDATA[Show HN: Exporting iCloud photos in 'per month' batches for backup and sorting]]></description>
-        </item>
-        <item>
-            <title><![CDATA[智能裁剪--从屏幕截图中删除重复的空白和空区域]]></title>
-            <link>https://news.ycombinator.com/item?id=30344773</link>
-            <guid>https://news.ycombinator.com/item?id=30344773</guid>
-            <pubDate>Tue, 15 Feb 2022 10:27:01 GMT</pubDate>
-            <description><![CDATA[Show HN: Smart-Crop – removes repetitive blank and empty areas from screenshots]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CCTV存储计算器 (Jvsg.com)]]></title>
-            <link>https://news.ycombinator.com/item?id=30344772</link>
-            <guid>https://news.ycombinator.com/item?id=30344772</guid>
-            <pubDate>Tue, 15 Feb 2022 10:26:54 GMT</pubDate>
-            <description><![CDATA[Show HN: CCTV Storage Calculator (Jvsg.com)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我为iOS做了一个愚蠢的简易提醒应用程序--需要反馈意见]]></title>
-            <link>https://news.ycombinator.com/item?id=30344520</link>
-            <guid>https://news.ycombinator.com/item?id=30344520</guid>
-            <pubDate>Tue, 15 Feb 2022 09:49:56 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a stupid easy reminder app for iOS – feedback needed]]></description>
         </item>
     </channel>
 </rss>
