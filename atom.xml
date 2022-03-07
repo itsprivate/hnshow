@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-07T22:15:18.169Z</updated>
+    <updated>2022-03-07T22:56:16.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从Jupyter中标记图像类、边界框和掩码]]></title>
+        <id>https://news.ycombinator.com/item?id=30594267</id>
+        <link href="https://news.ycombinator.com/item?id=30594267"/>
+        <updated>2022-03-07T22:34:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Label image classes, bounding boxes, and masks from Jupyter]]></summary>
+        <author>
+            <name>faustomorales</name>
+            <uri>https://news.ycombinator.com/user?id=faustomorales</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一个扩展来解决我刷新网页的瘾头]]></title>
         <id>https://news.ycombinator.com/item?id=30593836</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mayop100</name>
             <uri>https://news.ycombinator.com/user?id=mayop100</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超级扬声器/P2P/流媒体扬声器，一起听音乐，等等。]]></title>
-        <id>https://news.ycombinator.com/item?id=30348432</id>
-        <link href="https://news.ycombinator.com/item?id=30348432"/>
-        <updated>2022-02-15T16:15:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hyperspeaker/P2P/stream your speaker and listen to music,etc. together]]></summary>
-        <author>
-            <name>solvencino</name>
-            <uri>https://news.ycombinator.com/user?id=solvencino</uri>
         </author>
     </entry>
 </feed>
