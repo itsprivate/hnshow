@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-08T16:54:52.085Z</updated>
+    <updated>2022-03-08T17:28:30.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從你的瀏覽器中探索博爾赫斯的巴別圖書館]]></title>
+        <id>https://news.ycombinator.com/item?id=30602456</id>
+        <link href="https://news.ycombinator.com/item?id=30602456"/>
+        <updated>2022-03-08T17:13:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Explore Borges' Library of Babel from your browser]]></summary>
+        <author>
+            <name>tdjsnelling</name>
+            <uri>https://news.ycombinator.com/user?id=tdjsnelling</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上傳和分享互動式火焰圖]]></title>
         <id>https://news.ycombinator.com/item?id=30601813</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vincent-lemoign</name>
             <uri>https://news.ycombinator.com/user?id=vincent-lemoign</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個對開發者友好的招聘網站]]></title>
-        <id>https://news.ycombinator.com/item?id=30356685</id>
-        <link href="https://news.ycombinator.com/item?id=30356685"/>
-        <updated>2022-02-16T05:29:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A developer friendly job board]]></summary>
-        <author>
-            <name>nnurmanov</name>
-            <uri>https://news.ycombinator.com/user?id=nnurmanov</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 08 Mar 2022 16:54:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 17:28:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[從你的瀏覽器中探索博爾赫斯的巴別圖書館]]></title>
+            <link>https://news.ycombinator.com/item?id=30602456</link>
+            <guid>https://news.ycombinator.com/item?id=30602456</guid>
+            <pubDate>Tue, 08 Mar 2022 17:13:47 GMT</pubDate>
+            <description><![CDATA[Show HN: Explore Borges' Library of Babel from your browser]]></description>
+        </item>
         <item>
             <title><![CDATA[上傳和分享互動式火焰圖]]></title>
             <link>https://news.ycombinator.com/item?id=30601813</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30356944</guid>
             <pubDate>Wed, 16 Feb 2022 06:28:46 GMT</pubDate>
             <description><![CDATA[Show HN: The open-source icon sets that took me 12 years to create]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個對開發者友好的招聘網站]]></title>
-            <link>https://news.ycombinator.com/item?id=30356685</link>
-            <guid>https://news.ycombinator.com/item?id=30356685</guid>
-            <pubDate>Wed, 16 Feb 2022 05:29:43 GMT</pubDate>
-            <description><![CDATA[Show HN: A developer friendly job board]]></description>
         </item>
     </channel>
 </rss>
