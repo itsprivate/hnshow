@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-08T18:58:31.178Z</updated>
+    <updated>2022-03-08T20:36:18.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[来自所有StackExchange网站的每日精华]]></title>
+        <id>https://news.ycombinator.com/item?id=30606145</id>
+        <link href="https://news.ycombinator.com/item?id=30606145"/>
+        <updated>2022-03-08T20:12:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Daily best from all StackExchange sites]]></summary>
+        <author>
+            <name>sideproject</name>
+            <uri>https://news.ycombinator.com/user?id=sideproject</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对你的域名进行安全监控]]></title>
         <id>https://news.ycombinator.com/item?id=30603998</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>istvan-kreisz</name>
             <uri>https://news.ycombinator.com/user?id=istvan-kreisz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[变化观察--看看政策版本之间有什么变化]]></title>
-        <id>https://news.ycombinator.com/item?id=30359153</id>
-        <link href="https://news.ycombinator.com/item?id=30359153"/>
-        <updated>2022-02-16T12:27:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Changewatch – see what’s changed between versions of policies]]></summary>
-        <author>
-            <name>abyrne10</name>
-            <uri>https://news.ycombinator.com/user?id=abyrne10</uri>
         </author>
     </entry>
 </feed>
