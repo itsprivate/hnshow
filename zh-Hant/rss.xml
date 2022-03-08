@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 08 Mar 2022 18:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 18:43:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[通過命令行進行macOS語音識別]]></title>
+            <link>https://news.ycombinator.com/item?id=30603842</link>
+            <guid>https://news.ycombinator.com/item?id=30603842</guid>
+            <pubDate>Tue, 08 Mar 2022 18:32:56 GMT</pubDate>
+            <description><![CDATA[Show HN: macOS speech recognition via the command line]]></description>
+        </item>
+        <item>
+            <title><![CDATA[新手加密 - 每週2封電子郵件，解釋加密的重要概念]]></title>
+            <link>https://news.ycombinator.com/item?id=30603542</link>
+            <guid>https://news.ycombinator.com/item?id=30603542</guid>
+            <pubDate>Tue, 08 Mar 2022 18:18:09 GMT</pubDate>
+            <description><![CDATA[Show HN: Newbie Crypto – 2 emails a week explaining important concepts in crypto]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個免費的iOS應用可以獲得比Instagram Insights更好的分析結果]]></title>
+            <link>https://news.ycombinator.com/item?id=30603442</link>
+            <guid>https://news.ycombinator.com/item?id=30603442</guid>
+            <pubDate>Tue, 08 Mar 2022 18:12:26 GMT</pubDate>
+            <description><![CDATA[Show HN: A free iOS app to get better analytics than Instagram Insights]]></description>
+        </item>
         <item>
             <title><![CDATA[從答案和數字中推導出正確方程式的數學遊戲]]></title>
             <link>https://news.ycombinator.com/item?id=30603317</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30359096</guid>
             <pubDate>Wed, 16 Feb 2022 12:21:06 GMT</pubDate>
             <description><![CDATA[Show HN: Git-blame.nvim – a Git Blame plugin for Neovim written in Lua]]></description>
-        </item>
-        <item>
-            <title><![CDATA[簡單的應用程序，從列表中選擇一個選項]]></title>
-            <link>https://news.ycombinator.com/item?id=30358457</link>
-            <guid>https://news.ycombinator.com/item?id=30358457</guid>
-            <pubDate>Wed, 16 Feb 2022 10:54:04 GMT</pubDate>
-            <description><![CDATA[Show HN: Simple App that picks an option out of a list]]></description>
-        </item>
-        <item>
-            <title><![CDATA[微服務--可重用的現實世界開源服務]]></title>
-            <link>https://news.ycombinator.com/item?id=30358233</link>
-            <guid>https://news.ycombinator.com/item?id=30358233</guid>
-            <pubDate>Wed, 16 Feb 2022 10:18:11 GMT</pubDate>
-            <description><![CDATA[Show HN: Micro Services – Reusable real world open source services]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Safename - 檢查企業和產品名稱中的不良字詞]]></title>
-            <link>https://news.ycombinator.com/item?id=30358037</link>
-            <guid>https://news.ycombinator.com/item?id=30358037</guid>
-            <pubDate>Wed, 16 Feb 2022 09:48:52 GMT</pubDate>
-            <description><![CDATA[Show HN: Safename – Check Business and Product Names for Undesirable Words]]></description>
         </item>
     </channel>
 </rss>
