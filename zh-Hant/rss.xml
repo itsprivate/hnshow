@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 08 Mar 2022 11:30:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 13:39:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[從TikTok下載你所有[喜歡的]視頻的Chrome擴展程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30599632</link>
+            <guid>https://news.ycombinator.com/item?id=30599632</guid>
+            <pubDate>Tue, 08 Mar 2022 13:30:23 GMT</pubDate>
+            <description><![CDATA[Show HN: A Chrome extension to download all your [Liked] videos from TikTok]]></description>
+        </item>
         <item>
             <title><![CDATA[HTML簡單發佈（HSP）--整潔的網絡出版物]]></title>
             <link>https://news.ycombinator.com/item?id=30598744</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30355001</guid>
             <pubDate>Wed, 16 Feb 2022 00:43:43 GMT</pubDate>
             <description><![CDATA[Show HN: A pageview counter using the AWS free tier, Postgres, Node and React]]></description>
-        </item>
-        <item>
-            <title><![CDATA[林伯強。自動回覆LinkedIn信息（招聘人員等）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30354139</link>
-            <guid>https://news.ycombinator.com/item?id=30354139</guid>
-            <pubDate>Tue, 15 Feb 2022 23:05:32 GMT</pubDate>
-            <description><![CDATA[Show HN: Linbotin: Automatically answer to LinkedIn messages(recruiters etc.)]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-08T11:30:47.330Z</updated>
+    <updated>2022-03-08T13:39:19.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從TikTok下載你所有[喜歡的]視頻的Chrome擴展程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30599632</id>
+        <link href="https://news.ycombinator.com/item?id=30599632"/>
+        <updated>2022-03-08T13:30:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Chrome extension to download all your [Liked] videos from TikTok]]></summary>
+        <author>
+            <name>ZYinMD</name>
+            <uri>https://news.ycombinator.com/user?id=ZYinMD</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML簡單發佈（HSP）--整潔的網絡出版物]]></title>
         <id>https://news.ycombinator.com/item?id=30598744</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cadbox1</name>
             <uri>https://news.ycombinator.com/user?id=cadbox1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[林伯強。自動回覆LinkedIn信息（招聘人員等）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30354139</id>
-        <link href="https://news.ycombinator.com/item?id=30354139"/>
-        <updated>2022-02-15T23:05:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Linbotin: Automatically answer to LinkedIn messages(recruiters etc.)]]></summary>
-        <author>
-            <name>FrenchDevRemote</name>
-            <uri>https://news.ycombinator.com/user?id=FrenchDevRemote</uri>
         </author>
     </entry>
 </feed>
