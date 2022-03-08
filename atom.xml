@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-08T17:28:30.221Z</updated>
+    <updated>2022-03-08T18:18:18.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从答案和数字中推导出正确方程式的数学游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=30603317</id>
+        <link href="https://news.ycombinator.com/item?id=30603317"/>
+        <updated>2022-03-08T18:04:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Math game where you derive correct equation from answer and numbers]]></summary>
+        <author>
+            <name>rosariom</name>
+            <uri>https://news.ycombinator.com/user?id=rosariom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从你的浏览器中探索博尔赫斯的巴别图书馆]]></title>
         <id>https://news.ycombinator.com/item?id=30602456</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>brirtch</name>
             <uri>https://news.ycombinator.com/user?id=brirtch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我花了12年时间创建的开源图标集]]></title>
-        <id>https://news.ycombinator.com/item?id=30356944</id>
-        <link href="https://news.ycombinator.com/item?id=30356944"/>
-        <updated>2022-02-16T06:28:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The open-source icon sets that took me 12 years to create]]></summary>
-        <author>
-            <name>vincent-lemoign</name>
-            <uri>https://news.ycombinator.com/user?id=vincent-lemoign</uri>
         </author>
     </entry>
 </feed>
