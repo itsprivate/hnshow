@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-08T20:36:18.710Z</updated>
+    <updated>2022-03-08T21:15:15.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的第一個遊戲steam的源代碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30606833</id>
+        <link href="https://news.ycombinator.com/item?id=30606833"/>
+        <updated>2022-03-08T20:57:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Source code of my first game of steam]]></summary>
+        <author>
+            <name>TreektusPL</name>
+            <uri>https://news.ycombinator.com/user?id=TreektusPL</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[來自所有StackExchange網站的每日精華]]></title>
         <id>https://news.ycombinator.com/item?id=30606145</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>alexmingoia</name>
             <uri>https://news.ycombinator.com/user?id=alexmingoia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[捉迷藏，只是虛擬的，你可以藏在世界的任何地方]]></title>
-        <id>https://news.ycombinator.com/item?id=30359310</id>
-        <link href="https://news.ycombinator.com/item?id=30359310"/>
-        <updated>2022-02-16T12:46:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hide and Seek, only virtual and you can hide anywhere in the world]]></summary>
-        <author>
-            <name>istvan-kreisz</name>
-            <uri>https://news.ycombinator.com/user?id=istvan-kreisz</uri>
         </author>
     </entry>
 </feed>
