@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-08T13:39:19.007Z</updated>
+    <updated>2022-03-08T15:17:10.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Kaado.io - 统一个人生产力]]></title>
+        <id>https://news.ycombinator.com/item?id=30600622</id>
+        <link href="https://news.ycombinator.com/item?id=30600622"/>
+        <updated>2022-03-08T15:02:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Kaado.io – Unifying Personal Productivity]]></summary>
+        <author>
+            <name>blackbrokkoli</name>
+            <uri>https://news.ycombinator.com/user?id=blackbrokkoli</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从TikTok下载你所有[喜欢的]视频的Chrome扩展程序]]></title>
         <id>https://news.ycombinator.com/item?id=30599632</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jarrenae</name>
             <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个使用AWS免费层、Postgres、Node和React的页面浏览计数器]]></title>
-        <id>https://news.ycombinator.com/item?id=30355001</id>
-        <link href="https://news.ycombinator.com/item?id=30355001"/>
-        <updated>2022-02-16T00:43:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A pageview counter using the AWS free tier, Postgres, Node and React]]></summary>
-        <author>
-            <name>cadbox1</name>
-            <uri>https://news.ycombinator.com/user?id=cadbox1</uri>
         </author>
     </entry>
 </feed>
