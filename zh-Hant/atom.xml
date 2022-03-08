@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-08T04:16:26.164Z</updated>
+    <updated>2022-03-08T06:57:31.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mrrle - 嘗試猜測公司的MRRs]]></title>
+        <id>https://news.ycombinator.com/item?id=30597155</id>
+        <link href="https://news.ycombinator.com/item?id=30597155"/>
+        <updated>2022-03-08T06:53:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mrrle – Try to Guess Company MRRs]]></summary>
+        <author>
+            <name>3dwafflee</name>
+            <uri>https://news.ycombinator.com/user?id=3dwafflee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在網絡瀏覽器中編碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30597097</id>
+        <link href="https://news.ycombinator.com/item?id=30597097"/>
+        <updated>2022-03-08T06:41:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Coding in a Web Browser]]></summary>
+        <author>
+            <name>martyalain</name>
+            <uri>https://news.ycombinator.com/user?id=martyalain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[代碼掃描器 - 一個用於掃描和創建代碼的FOSS Android應用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30596286</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>anitakirkovska</name>
             <uri>https://news.ycombinator.com/user?id=anitakirkovska</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[數據科學家的開源信息庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30351902</id>
-        <link href="https://news.ycombinator.com/item?id=30351902"/>
-        <updated>2022-02-15T20:06:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open-source infra for data scientists]]></summary>
-        <author>
-            <name>sachinkesiraju</name>
-            <uri>https://news.ycombinator.com/user?id=sachinkesiraju</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一條線的數據科學infra]]></title>
-        <id>https://news.ycombinator.com/item?id=30351066</id>
-        <link href="https://news.ycombinator.com/item?id=30351066"/>
-        <updated>2022-02-15T19:01:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: One line data science infra]]></summary>
-        <author>
-            <name>jonpon</name>
-            <uri>https://news.ycombinator.com/user?id=jonpon</uri>
         </author>
     </entry>
 </feed>
