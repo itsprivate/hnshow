@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 08 Mar 2022 08:38:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 11:30:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HTML簡單發佈（HSP）--整潔的網絡出版物]]></title>
+            <link>https://news.ycombinator.com/item?id=30598744</link>
+            <guid>https://news.ycombinator.com/item?id=30598744</guid>
+            <pubDate>Tue, 08 Mar 2022 11:24:34 GMT</pubDate>
+            <description><![CDATA[Show HN: HTML Simple Publishing (HSP) – Neat Web Publications]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Express-putin - 拒絕來自所有俄羅斯IP的請求的中間件]]></title>
+            <link>https://news.ycombinator.com/item?id=30598682</link>
+            <guid>https://news.ycombinator.com/item?id=30598682</guid>
+            <pubDate>Tue, 08 Mar 2022 11:14:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Express-putin – middleware to reject requests from all Russian IPs]]></description>
+        </item>
         <item>
             <title><![CDATA[我3D打印了一個摩艾紙巾分配器]]></title>
             <link>https://news.ycombinator.com/item?id=30597784</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30354139</guid>
             <pubDate>Tue, 15 Feb 2022 23:05:32 GMT</pubDate>
             <description><![CDATA[Show HN: Linbotin: Automatically answer to LinkedIn messages(recruiters etc.)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[練習無限制的Wordle]]></title>
-            <link>https://news.ycombinator.com/item?id=30352622</link>
-            <guid>https://news.ycombinator.com/item?id=30352622</guid>
-            <pubDate>Tue, 15 Feb 2022 20:58:18 GMT</pubDate>
-            <description><![CDATA[Show HN: Practice Wordle with No Limits]]></description>
-        </item>
-        <item>
-            <title><![CDATA[互動式環路優化]]></title>
-            <link>https://news.ycombinator.com/item?id=30352604</link>
-            <guid>https://news.ycombinator.com/item?id=30352604</guid>
-            <pubDate>Tue, 15 Feb 2022 20:57:18 GMT</pubDate>
-            <description><![CDATA[Show HN: Interactive Loop Optimization]]></description>
         </item>
     </channel>
 </rss>
