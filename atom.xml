@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-08T00:38:21.942Z</updated>
+    <updated>2022-03-08T02:06:24.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[八达岭]]></title>
+        <id>https://news.ycombinator.com/item?id=30595459</id>
+        <link href="https://news.ycombinator.com/item?id=30595459"/>
+        <updated>2022-03-08T01:27:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Octordle]]></summary>
+        <author>
+            <name>i13e</name>
+            <uri>https://news.ycombinator.com/user?id=i13e</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tygo - 从Go代码中生成TypeScript类型]]></title>
+        <id>https://news.ycombinator.com/item?id=30595325</id>
+        <link href="https://news.ycombinator.com/item?id=30595325"/>
+        <updated>2022-03-08T01:05:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tygo – Generating TypeScript typings from Go code]]></summary>
+        <author>
+            <name>protoduction</name>
+            <uri>https://news.ycombinator.com/user?id=protoduction</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[简单的兰姆达微积分可视化工具]]></title>
         <id>https://news.ycombinator.com/item?id=30594934</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>winternett</name>
             <uri>https://news.ycombinator.com/user?id=winternett</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烘烤登陆页面并获得报酬]]></title>
-        <id>https://news.ycombinator.com/item?id=30350169</id>
-        <link href="https://news.ycombinator.com/item?id=30350169"/>
-        <updated>2022-02-15T17:59:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Roast a landing page and get paid]]></summary>
-        <author>
-            <name>rajasimon</name>
-            <uri>https://news.ycombinator.com/user?id=rajasimon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[史上第一部YouTube视频--关于专业软件开发]]></title>
-        <id>https://news.ycombinator.com/item?id=30349964</id>
-        <link href="https://news.ycombinator.com/item?id=30349964"/>
-        <updated>2022-02-15T17:47:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: First Ever YouTube Video – On Professional Software Development]]></summary>
-        <author>
-            <name>dm03514</name>
-            <uri>https://news.ycombinator.com/user?id=dm03514</uri>
         </author>
     </entry>
 </feed>
