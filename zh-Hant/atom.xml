@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-10T09:35:45.191Z</updated>
+    <updated>2022-03-10T09:54:56.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用JupyterLab進行實時協作的VTK可視化]]></title>
+        <id>https://news.ycombinator.com/item?id=30624939</id>
+        <link href="https://news.ycombinator.com/item?id=30624939"/>
+        <updated>2022-03-10T09:23:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Real-Time Collaborative VTK Visualization with JupyterLab]]></summary>
+        <author>
+            <name>trungld</name>
+            <uri>https://news.ycombinator.com/user?id=trungld</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[扔掉 - 一次性使用，1-1，e2e加密信息傳遞（在瀏覽器中）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30624920</id>
+        <link href="https://news.ycombinator.com/item?id=30624920"/>
+        <updated>2022-03-10T09:21:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Throwaway – single-use, 1-1, e2e encrypted messaging (in-browser)]]></summary>
+        <author>
+            <name>macondorivers</name>
+            <uri>https://news.ycombinator.com/user?id=macondorivers</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Better Choice for Dailymotion video download – DMsave]]></title>
         <id>https://news.ycombinator.com/item?id=30624007</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>torstenvl</name>
             <uri>https://news.ycombinator.com/user?id=torstenvl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Remix和React克隆的Hacker News]]></title>
-        <id>https://news.ycombinator.com/item?id=30373847</id>
-        <link href="https://news.ycombinator.com/item?id=30373847"/>
-        <updated>2022-02-17T15:08:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hacker News clone using Remix and React]]></summary>
-        <author>
-            <name>clintonwoo</name>
-            <uri>https://news.ycombinator.com/user?id=clintonwoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[向HN上的任何人發送私人信息]]></title>
-        <id>https://news.ycombinator.com/item?id=30375681</id>
-        <link href="https://news.ycombinator.com/item?id=30375681"/>
-        <updated>2022-02-17T17:13:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Send private messages to anyone on HN]]></summary>
-        <author>
-            <name>sideproject</name>
-            <uri>https://news.ycombinator.com/user?id=sideproject</uri>
         </author>
     </entry>
 </feed>
