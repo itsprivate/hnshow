@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-11T18:17:09.869Z</updated>
+    <updated>2022-03-11T19:52:16.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Yoloframe - 我的视频通话中的图片框架。每个人都可以上传图片]]></title>
+        <id>https://news.ycombinator.com/item?id=30645127</id>
+        <link href="https://news.ycombinator.com/item?id=30645127"/>
+        <updated>2022-03-11T19:48:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Yoloframe – Picture frame in my video calls. Everyone can upload pics]]></summary>
+        <author>
+            <name>fabrik42</name>
+            <uri>https://news.ycombinator.com/user?id=fabrik42</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blankly - 对股票和加密货币的交易算法进行回测和部署]]></title>
         <id>https://news.ycombinator.com/item?id=30643261</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aghilmort</name>
             <uri>https://news.ycombinator.com/user?id=aghilmort</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻找适合你预算的旅行目的地]]></title>
-        <id>https://news.ycombinator.com/item?id=30401308</id>
-        <link href="https://news.ycombinator.com/item?id=30401308"/>
-        <updated>2022-02-19T22:55:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Find travel destinations that fit your budget]]></summary>
-        <author>
-            <name>stefuuuun</name>
-            <uri>https://news.ycombinator.com/user?id=stefuuuun</uri>
         </author>
     </entry>
 </feed>
