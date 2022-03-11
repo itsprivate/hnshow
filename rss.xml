@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 11 Mar 2022 15:38:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 16:52:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[5字节/帧的视频编码（Python中）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30642195</link>
+            <guid>https://news.ycombinator.com/item?id=30642195</guid>
+            <pubDate>Fri, 11 Mar 2022 16:43:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Video Encoding at 5 bytes/frame (in Python)]]></description>
+        </item>
         <item>
             <title><![CDATA[隐藏推广推文和赞助内容]]></title>
             <link>https://news.ycombinator.com/item?id=30640965</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30401161</guid>
             <pubDate>Sat, 19 Feb 2022 22:32:52 GMT</pubDate>
             <description><![CDATA[Show HN: ICON-3D Avatar Creator from 2D Pixels]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对6.3亿个美国法院案件进行全文检索]]></title>
-            <link>https://news.ycombinator.com/item?id=30399881</link>
-            <guid>https://news.ycombinator.com/item?id=30399881</guid>
-            <pubDate>Sat, 19 Feb 2022 19:45:31 GMT</pubDate>
-            <description><![CDATA[Show HN: Full text search on 630M US court cases]]></description>
         </item>
     </channel>
 </rss>

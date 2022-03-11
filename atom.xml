@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-11T15:38:35.826Z</updated>
+    <updated>2022-03-11T16:52:17.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[5字节/帧的视频编码（Python中）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30642195</id>
+        <link href="https://news.ycombinator.com/item?id=30642195"/>
+        <updated>2022-03-11T16:43:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Video Encoding at 5 bytes/frame (in Python)]]></summary>
+        <author>
+            <name>IanWard1</name>
+            <uri>https://news.ycombinator.com/user?id=IanWard1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隐藏推广推文和赞助内容]]></title>
         <id>https://news.ycombinator.com/item?id=30640965</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>RealAvatar</name>
             <uri>https://news.ycombinator.com/user?id=RealAvatar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对6.3亿个美国法院案件进行全文检索]]></title>
-        <id>https://news.ycombinator.com/item?id=30399881</id>
-        <link href="https://news.ycombinator.com/item?id=30399881"/>
-        <updated>2022-02-19T19:45:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Full text search on 630M US court cases]]></summary>
-        <author>
-            <name>richardbarosky</name>
-            <uri>https://news.ycombinator.com/user?id=richardbarosky</uri>
         </author>
     </entry>
 </feed>
