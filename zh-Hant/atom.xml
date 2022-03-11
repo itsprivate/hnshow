@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-11T20:14:44.940Z</updated>
+    <updated>2022-03-11T21:13:37.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[根據您的日程安排，向您的收件箱發送感恩日記的提示信息]]></title>
+        <id>https://news.ycombinator.com/item?id=30646037</id>
+        <link href="https://news.ycombinator.com/item?id=30646037"/>
+        <updated>2022-03-11T21:07:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Gratitude Journal prompts to your inbox, on your schedule]]></summary>
+        <author>
+            <name>karlkeefer</name>
+            <uri>https://news.ycombinator.com/user?id=karlkeefer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瑣事 16]]></title>
+        <id>https://news.ycombinator.com/item?id=30646006</id>
+        <link href="https://news.ycombinator.com/item?id=30646006"/>
+        <updated>2022-03-11T21:05:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Trivia 16]]></summary>
+        <author>
+            <name>seanplusplus</name>
+            <uri>https://news.ycombinator.com/user?id=seanplusplus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Runtracks - 為你的跑步提供自適應的蘋果音樂播放列表]]></title>
         <id>https://news.ycombinator.com/item?id=30645251</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>austin362667</name>
             <uri>https://news.ycombinator.com/user?id=austin362667</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尋找符合你預算的目的地]]></title>
-        <id>https://news.ycombinator.com/item?id=30404148</id>
-        <link href="https://news.ycombinator.com/item?id=30404148"/>
-        <updated>2022-02-20T08:15:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Find destinations fitting your budget]]></summary>
-        <author>
-            <name>stefuuuun</name>
-            <uri>https://news.ycombinator.com/user?id=stefuuuun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geodatadownloader，一個基於瀏覽器的地理空間數據下載器]]></title>
-        <id>https://news.ycombinator.com/item?id=30403724</id>
-        <link href="https://news.ycombinator.com/item?id=30403724"/>
-        <updated>2022-02-20T06:38:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Geodatadownloader, a browser based geospatial data downloader]]></summary>
-        <author>
-            <name>mchaynes</name>
-            <uri>https://news.ycombinator.com/user?id=mchaynes</uri>
         </author>
     </entry>
 </feed>
