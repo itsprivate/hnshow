@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-11T08:15:30.022Z</updated>
+    <updated>2022-03-11T11:29:16.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[StickMan - 但都是文字（喜欢大屏幕））。]]></title>
+        <id>https://news.ycombinator.com/item?id=30638582</id>
+        <link href="https://news.ycombinator.com/item?id=30638582"/>
+        <updated>2022-03-11T11:20:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: StickMan – But it's all text (prefer big screen))]]></summary>
+        <author>
+            <name>solvencino</name>
+            <uri>https://news.ycombinator.com/user?id=solvencino</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript标签]]></title>
         <id>https://news.ycombinator.com/item?id=30637534</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>joken0x</name>
             <uri>https://news.ycombinator.com/user?id=joken0x</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过DNS的Wordle]]></title>
-        <id>https://news.ycombinator.com/item?id=30396690</id>
-        <link href="https://news.ycombinator.com/item?id=30396690"/>
-        <updated>2022-02-19T12:38:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Wordle over DNS]]></summary>
-        <author>
-            <name>dgl</name>
-            <uri>https://news.ycombinator.com/user?id=dgl</uri>
         </author>
     </entry>
 </feed>
