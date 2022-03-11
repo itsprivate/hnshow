@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-11T13:53:00.827Z</updated>
+    <updated>2022-03-11T14:31:31.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[取景器，一个从菜单栏管理你的网络摄像头设置的应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30640149</id>
+        <link href="https://news.ycombinator.com/item?id=30640149"/>
+        <updated>2022-03-11T14:16:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Viewfinder, an app to manage your webcam's settings from the menu bar]]></summary>
+        <author>
+            <name>Malp</name>
+            <uri>https://news.ycombinator.com/user?id=Malp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lofi.limo - 工作和学习时间的流媒体音乐]]></title>
         <id>https://news.ycombinator.com/item?id=30639723</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hackerlytest</name>
             <uri>https://news.ycombinator.com/user?id=hackerlytest</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordii: 无限词；快速网络SPA；纯Java。任意选择三个]]></title>
-        <id>https://news.ycombinator.com/item?id=30398977</id>
-        <link href="https://news.ycombinator.com/item?id=30398977"/>
-        <updated>2022-02-19T17:53:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Wordii: Infinite Words; Fast Web SPA; Pure Java: Pick Any Three]]></summary>
-        <author>
-            <name>TeaVMFan</name>
-            <uri>https://news.ycombinator.com/user?id=TeaVMFan</uri>
         </author>
     </entry>
 </feed>
