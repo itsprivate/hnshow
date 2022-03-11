@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-11T14:31:31.274Z</updated>
+    <updated>2022-03-11T14:39:18.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个Outlook插件，当给错误的人发送电子邮件时，会发出警告。]]></title>
+        <id>https://news.ycombinator.com/item?id=30640360</id>
+        <link href="https://news.ycombinator.com/item?id=30640360"/>
+        <updated>2022-03-11T14:31:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an Outlook add-in that warns when emailing the wrong person]]></summary>
+        <author>
+            <name>muttled</name>
+            <uri>https://news.ycombinator.com/user?id=muttled</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[取景器，一个从菜单栏管理你的网络摄像头设置的应用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30640149</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sanomial</name>
             <uri>https://news.ycombinator.com/user?id=sanomial</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trilby for Hacker News - 在Android上体验HN的优雅方式]]></title>
-        <id>https://news.ycombinator.com/item?id=30399075</id>
-        <link href="https://news.ycombinator.com/item?id=30399075"/>
-        <updated>2022-02-19T18:06:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Trilby for Hacker News – An Elegant Way to Experience HN on Android]]></summary>
-        <author>
-            <name>hackerlytest</name>
-            <uri>https://news.ycombinator.com/user?id=hackerlytest</uri>
         </author>
     </entry>
 </feed>
