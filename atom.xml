@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-11T11:29:16.612Z</updated>
+    <updated>2022-03-11T11:37:09.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lang: 在Chrome离线时直接运行.c .cpp .py .cljs .ts和更多。]]></title>
+        <id>https://news.ycombinator.com/item?id=30638638</id>
+        <link href="https://news.ycombinator.com/item?id=30638638"/>
+        <updated>2022-03-11T11:29:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lang: run .c .cpp .py .cljs .ts and more directly in Chrome offline]]></summary>
+        <author>
+            <name>raoof</name>
+            <uri>https://news.ycombinator.com/user?id=raoof</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[StickMan - 但都是文字（喜欢大屏幕））。]]></title>
         <id>https://news.ycombinator.com/item?id=30638582</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dimadewinn</name>
             <uri>https://news.ycombinator.com/user?id=dimadewinn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用GPT-3对网络进行程序化模拟的搜索引擎]]></title>
-        <id>https://news.ycombinator.com/item?id=30396897</id>
-        <link href="https://news.ycombinator.com/item?id=30396897"/>
-        <updated>2022-02-19T13:11:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Search Engine for a Procedural Simulation of the Web with GPT-3]]></summary>
-        <author>
-            <name>joken0x</name>
-            <uri>https://news.ycombinator.com/user?id=joken0x</uri>
         </author>
     </entry>
 </feed>

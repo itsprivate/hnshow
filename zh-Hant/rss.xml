@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 11 Mar 2022 11:29:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 11:37:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Lang: 在Chrome離線時直接運行.c .cpp .py .cljs .ts和更多。]]></title>
+            <link>https://news.ycombinator.com/item?id=30638638</link>
+            <guid>https://news.ycombinator.com/item?id=30638638</guid>
+            <pubDate>Fri, 11 Mar 2022 11:29:34 GMT</pubDate>
+            <description><![CDATA[Show HN: Lang: run .c .cpp .py .cljs .ts and more directly in Chrome offline]]></description>
+        </item>
         <item>
             <title><![CDATA[StickMan - 但都是文字（喜歡大屏幕））。]]></title>
             <link>https://news.ycombinator.com/item?id=30638582</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30397211</guid>
             <pubDate>Sat, 19 Feb 2022 14:07:37 GMT</pubDate>
             <description><![CDATA[Show HN: A solid-stone desk with built-in power and posture tracking]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用GPT-3對網絡進行程序化模擬的搜索引擎]]></title>
-            <link>https://news.ycombinator.com/item?id=30396897</link>
-            <guid>https://news.ycombinator.com/item?id=30396897</guid>
-            <pubDate>Sat, 19 Feb 2022 13:11:37 GMT</pubDate>
-            <description><![CDATA[Show HN: Search Engine for a Procedural Simulation of the Web with GPT-3]]></description>
         </item>
     </channel>
 </rss>
