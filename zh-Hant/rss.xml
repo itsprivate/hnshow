@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 11 Mar 2022 21:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 23:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用Python裝飾器編寫網絡搜刮器的簡單框架]]></title>
+            <link>https://news.ycombinator.com/item?id=30647161</link>
+            <guid>https://news.ycombinator.com/item?id=30647161</guid>
+            <pubDate>Fri, 11 Mar 2022 22:59:16 GMT</pubDate>
+            <description><![CDATA[Show HN: A simple framework for writing a web scraper using Python decorators]]></description>
+        </item>
         <item>
             <title><![CDATA[根據您的日程安排，向您的收件箱發送感恩日記的提示信息]]></title>
             <link>https://news.ycombinator.com/item?id=30646037</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30404607</guid>
             <pubDate>Sun, 20 Feb 2022 10:06:18 GMT</pubDate>
             <description><![CDATA[Show HN: Subscribe to RSS feeds and get nearly real-time updates via webhooks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[另一個克隆的Facebook，Metagram，但用C語言。]]></title>
-            <link>https://news.ycombinator.com/item?id=30404285</link>
-            <guid>https://news.ycombinator.com/item?id=30404285</guid>
-            <pubDate>Sun, 20 Feb 2022 08:54:14 GMT</pubDate>
-            <description><![CDATA[Show HN: Yet another Facebook clone, Metagram, but in C]]></description>
         </item>
     </channel>
 </rss>
