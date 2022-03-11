@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 11 Mar 2022 13:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 13:53:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Lofi.limo - 工作和學習時間的流媒體音樂]]></title>
+            <link>https://news.ycombinator.com/item?id=30639723</link>
+            <guid>https://news.ycombinator.com/item?id=30639723</guid>
+            <pubDate>Fri, 11 Mar 2022 13:40:20 GMT</pubDate>
+            <description><![CDATA[Show HN: Lofi.limo – streaming music for work and study time]]></description>
+        </item>
         <item>
             <title><![CDATA[谷歌地圖陰影計算器]]></title>
             <link>https://news.ycombinator.com/item?id=30639160</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30398977</guid>
             <pubDate>Sat, 19 Feb 2022 17:53:36 GMT</pubDate>
             <description><![CDATA[Show HN: Wordii: Infinite Words; Fast Web SPA; Pure Java: Pick Any Three]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Img-proxy.com，以固定的成本進行圖像託管和處理，不需要基礎設施。]]></title>
-            <link>https://news.ycombinator.com/item?id=30397462</link>
-            <guid>https://news.ycombinator.com/item?id=30397462</guid>
-            <pubDate>Sat, 19 Feb 2022 14:44:43 GMT</pubDate>
-            <description><![CDATA[Show HN: Img-proxy.com, image hosting and processing at fixed cost without infra]]></description>
         </item>
     </channel>
 </rss>

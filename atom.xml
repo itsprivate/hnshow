@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-11T13:21:00.150Z</updated>
+    <updated>2022-03-11T13:53:00.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lofi.limo - 工作和学习时间的流媒体音乐]]></title>
+        <id>https://news.ycombinator.com/item?id=30639723</id>
+        <link href="https://news.ycombinator.com/item?id=30639723"/>
+        <updated>2022-03-11T13:40:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lofi.limo – streaming music for work and study time]]></summary>
+        <author>
+            <name>aparks517</name>
+            <uri>https://news.ycombinator.com/user?id=aparks517</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌地图阴影计算器]]></title>
         <id>https://news.ycombinator.com/item?id=30639160</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>TeaVMFan</name>
             <uri>https://news.ycombinator.com/user?id=TeaVMFan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Img-proxy.com，以固定的成本进行图像托管和处理，不需要基础设施。]]></title>
-        <id>https://news.ycombinator.com/item?id=30397462</id>
-        <link href="https://news.ycombinator.com/item?id=30397462"/>
-        <updated>2022-02-19T14:44:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Img-proxy.com, image hosting and processing at fixed cost without infra]]></summary>
-        <author>
-            <name>valentindotxyz</name>
-            <uri>https://news.ycombinator.com/user?id=valentindotxyz</uri>
         </author>
     </entry>
 </feed>
