@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-11T11:37:09.430Z</updated>
+    <updated>2022-03-11T12:53:42.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[去他媽的Twitter搜索，Bird搜索在這裡]]></title>
+        <id>https://news.ycombinator.com/item?id=30639109</id>
+        <link href="https://news.ycombinator.com/item?id=30639109"/>
+        <updated>2022-03-11T12:44:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fuck Twitter search, Bird search is here]]></summary>
+        <author>
+            <name>pradeepb28</name>
+            <uri>https://news.ycombinator.com/user?id=pradeepb28</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lang: 在Chrome離線時直接運行.c .cpp .py .cljs .ts和更多。]]></title>
         <id>https://news.ycombinator.com/item?id=30638638</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>themanmaran</name>
             <uri>https://news.ycombinator.com/user?id=themanmaran</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一張內置電源和姿勢跟蹤的實心石桌]]></title>
-        <id>https://news.ycombinator.com/item?id=30397211</id>
-        <link href="https://news.ycombinator.com/item?id=30397211"/>
-        <updated>2022-02-19T14:07:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A solid-stone desk with built-in power and posture tracking]]></summary>
-        <author>
-            <name>dimadewinn</name>
-            <uri>https://news.ycombinator.com/user?id=dimadewinn</uri>
         </author>
     </entry>
 </feed>
