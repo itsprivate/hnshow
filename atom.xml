@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-11T16:52:17.624Z</updated>
+    <updated>2022-03-11T17:07:42.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用用户界面生成curl命令]]></title>
+        <id>https://news.ycombinator.com/item?id=30642254</id>
+        <link href="https://news.ycombinator.com/item?id=30642254"/>
+        <updated>2022-03-11T16:48:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Generate curl commands using UI]]></summary>
+        <author>
+            <name>akmittal</name>
+            <uri>https://news.ycombinator.com/user?id=akmittal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5字节/帧的视频编码（Python中）。]]></title>
         <id>https://news.ycombinator.com/item?id=30642195</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>chenglou</name>
             <uri>https://news.ycombinator.com/user?id=chenglou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来自2D Pixels的ICON-3D Avatar Creator]]></title>
-        <id>https://news.ycombinator.com/item?id=30401161</id>
-        <link href="https://news.ycombinator.com/item?id=30401161"/>
-        <updated>2022-02-19T22:32:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ICON-3D Avatar Creator from 2D Pixels]]></summary>
-        <author>
-            <name>RealAvatar</name>
-            <uri>https://news.ycombinator.com/user?id=RealAvatar</uri>
         </author>
     </entry>
 </feed>

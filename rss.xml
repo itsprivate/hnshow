@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 11 Mar 2022 16:52:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 17:07:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用用户界面生成curl命令]]></title>
+            <link>https://news.ycombinator.com/item?id=30642254</link>
+            <guid>https://news.ycombinator.com/item?id=30642254</guid>
+            <pubDate>Fri, 11 Mar 2022 16:48:49 GMT</pubDate>
+            <description><![CDATA[Show HN: Generate curl commands using UI]]></description>
+        </item>
         <item>
             <title><![CDATA[5字节/帧的视频编码（Python中）。]]></title>
             <link>https://news.ycombinator.com/item?id=30642195</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30401284</guid>
             <pubDate>Sat, 19 Feb 2022 22:51:41 GMT</pubDate>
             <description><![CDATA[Show HN: Pure CSS Shaders Art]]></description>
-        </item>
-        <item>
-            <title><![CDATA[来自2D Pixels的ICON-3D Avatar Creator]]></title>
-            <link>https://news.ycombinator.com/item?id=30401161</link>
-            <guid>https://news.ycombinator.com/item?id=30401161</guid>
-            <pubDate>Sat, 19 Feb 2022 22:32:52 GMT</pubDate>
-            <description><![CDATA[Show HN: ICON-3D Avatar Creator from 2D Pixels]]></description>
         </item>
     </channel>
 </rss>
