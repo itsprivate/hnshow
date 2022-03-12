@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-11T23:14:13.735Z</updated>
+    <updated>2022-03-12T01:51:15.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[亨特 (1986)]]></title>
+        <id>https://news.ycombinator.com/item?id=30648097</id>
+        <link href="https://news.ycombinator.com/item?id=30648097"/>
+        <updated>2022-03-12T01:22:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hunt (1986)]]></summary>
+        <author>
+            <name>kazinator</name>
+            <uri>https://news.ycombinator.com/user?id=kazinator</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使得PlantUML图可以很容易地从Markdown、GitHub风味中获得。]]></title>
+        <id>https://news.ycombinator.com/item?id=30647822</id>
+        <link href="https://news.ycombinator.com/item?id=30647822"/>
+        <updated>2022-03-12T00:32:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Make PlantUML diagrams easily accessible from Markdown, GitHub flavored]]></summary>
+        <author>
+            <name>danielyaa5</name>
+            <uri>https://news.ycombinator.com/user?id=danielyaa5</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Python装饰器编写网络搜刮器的简单框架]]></title>
         <id>https://news.ycombinator.com/item?id=30647161</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>0x142857</name>
             <uri>https://news.ycombinator.com/user?id=0x142857</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XR 适用于PHP的轻量级调试服务器工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30404872</id>
-        <link href="https://news.ycombinator.com/item?id=30404872"/>
-        <updated>2022-02-20T11:15:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: XR Lightweight debug server utility for PHP]]></summary>
-        <author>
-            <name>CR007</name>
-            <uri>https://news.ycombinator.com/user?id=CR007</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[订阅RSS提要，并通过webhooks获得几乎实时的更新信息]]></title>
-        <id>https://news.ycombinator.com/item?id=30404607</id>
-        <link href="https://news.ycombinator.com/item?id=30404607"/>
-        <updated>2022-02-20T10:06:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Subscribe to RSS feeds and get nearly real-time updates via webhooks]]></summary>
-        <author>
-            <name>partyguy</name>
-            <uri>https://news.ycombinator.com/user?id=partyguy</uri>
         </author>
     </entry>
 </feed>
