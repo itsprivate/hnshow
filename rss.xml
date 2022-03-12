@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 12 Mar 2022 10:51:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 12:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何销售？旋转销售。形势、问题、含义、需求-回报]]></title>
+            <link>https://news.ycombinator.com/item?id=30650838</link>
+            <guid>https://news.ycombinator.com/item?id=30650838</guid>
+            <pubDate>Sat, 12 Mar 2022 12:10:11 GMT</pubDate>
+            <description><![CDATA[Show HN: How to Sell? Spin Selling: Situation, Problem, Implication, Need-Payoff]]></description>
+        </item>
         <item>
             <title><![CDATA[在一个Twitter卡片中分享你所有的链接]]></title>
             <link>https://news.ycombinator.com/item?id=30650506</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30407227</guid>
             <pubDate>Sun, 20 Feb 2022 17:11:59 GMT</pubDate>
             <description><![CDATA[Show HN: Wrap, a browser extension for capturing and editing product screenshots]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pg-osc: 在PostgreSQL中实现零停机时间的模式变更]]></title>
-            <link>https://news.ycombinator.com/item?id=30406751</link>
-            <guid>https://news.ycombinator.com/item?id=30406751</guid>
-            <pubDate>Sun, 20 Feb 2022 16:10:56 GMT</pubDate>
-            <description><![CDATA[Show HN: Pg-osc: Zero downtime schema changes in PostgreSQL]]></description>
         </item>
     </channel>
 </rss>

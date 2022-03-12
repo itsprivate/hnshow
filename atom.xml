@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-12T10:51:14.701Z</updated>
+    <updated>2022-03-12T12:17:23.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何销售？旋转销售。形势、问题、含义、需求-回报]]></title>
+        <id>https://news.ycombinator.com/item?id=30650838</id>
+        <link href="https://news.ycombinator.com/item?id=30650838"/>
+        <updated>2022-03-12T12:10:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How to Sell? Spin Selling: Situation, Problem, Implication, Need-Payoff]]></summary>
+        <author>
+            <name>turboz747</name>
+            <uri>https://news.ycombinator.com/user?id=turboz747</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在一个Twitter卡片中分享你所有的链接]]></title>
         <id>https://news.ycombinator.com/item?id=30650506</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nevflynn</name>
             <uri>https://news.ycombinator.com/user?id=nevflynn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pg-osc: 在PostgreSQL中实现零停机时间的模式变更]]></title>
-        <id>https://news.ycombinator.com/item?id=30406751</id>
-        <link href="https://news.ycombinator.com/item?id=30406751"/>
-        <updated>2022-02-20T16:10:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pg-osc: Zero downtime schema changes in PostgreSQL]]></summary>
-        <author>
-            <name>shayonj</name>
-            <uri>https://news.ycombinator.com/user?id=shayonj</uri>
         </author>
     </entry>
 </feed>
