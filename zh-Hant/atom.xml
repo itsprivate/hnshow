@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-12T10:13:30.672Z</updated>
+    <updated>2022-03-12T10:51:14.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在一個Twitter卡片中分享你所有的鏈接]]></title>
+        <id>https://news.ycombinator.com/item?id=30650506</id>
+        <link href="https://news.ycombinator.com/item?id=30650506"/>
+        <updated>2022-03-12T10:47:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Share all your links in one Twitter Card]]></summary>
+        <author>
+            <name>NithurM</name>
+            <uri>https://news.ycombinator.com/user?id=NithurM</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[URL縮短器、社會媒體的Bio簡介和QR碼生成器]]></title>
         <id>https://news.ycombinator.com/item?id=30650295</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>shayonj</name>
             <uri>https://news.ycombinator.com/user?id=shayonj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[笑話：對GPT進行微調，使AI更有趣]]></title>
-        <id>https://news.ycombinator.com/item?id=30406671</id>
-        <link href="https://news.ycombinator.com/item?id=30406671"/>
-        <updated>2022-02-20T16:01:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Jokes: fine-tuning GPT to make AI funnier]]></summary>
-        <author>
-            <name>danbmil99</name>
-            <uri>https://news.ycombinator.com/user?id=danbmil99</uri>
         </author>
     </entry>
 </feed>
