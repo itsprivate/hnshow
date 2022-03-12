@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-12T20:12:47.698Z</updated>
+    <updated>2022-03-12T21:11:57.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[派系CPO]]></title>
+        <id>https://news.ycombinator.com/item?id=30654826</id>
+        <link href="https://news.ycombinator.com/item?id=30654826"/>
+        <updated>2022-03-12T20:59:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Factional CPO]]></summary>
+        <author>
+            <name>ckluis</name>
+            <uri>https://news.ycombinator.com/user?id=ckluis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MekaBytes - 圖像標籤社區]]></title>
         <id>https://news.ycombinator.com/item?id=30654449</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fatkodima</name>
             <uri>https://news.ycombinator.com/user?id=fatkodima</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newser，用go語言編寫的實用程序，用於生成帶有新聞內容的pdf。]]></title>
-        <id>https://news.ycombinator.com/item?id=30408276</id>
-        <link href="https://news.ycombinator.com/item?id=30408276"/>
-        <updated>2022-02-20T18:58:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Newser, utility written in go to generate a pdf with news content]]></summary>
-        <author>
-            <name>lnenad</name>
-            <uri>https://news.ycombinator.com/user?id=lnenad</uri>
         </author>
     </entry>
 </feed>
