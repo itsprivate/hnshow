@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-12T07:37:32.807Z</updated>
+    <updated>2022-03-12T10:13:30.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[URL縮短器、社會媒體的Bio簡介和QR碼生成器]]></title>
+        <id>https://news.ycombinator.com/item?id=30650295</id>
+        <link href="https://news.ycombinator.com/item?id=30650295"/>
+        <updated>2022-03-12T09:52:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: URL shortener, Bio profiles for social media and QR-code generator]]></summary>
+        <author>
+            <name>zenull</name>
+            <uri>https://news.ycombinator.com/user?id=zenull</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CxO產業]]></title>
         <id>https://news.ycombinator.com/item?id=30649687</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>danbmil99</name>
             <uri>https://news.ycombinator.com/user?id=danbmil99</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eazypay.me - 簡單開票]]></title>
-        <id>https://news.ycombinator.com/item?id=30406401</id>
-        <link href="https://news.ycombinator.com/item?id=30406401"/>
-        <updated>2022-02-20T15:23:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Eazypay.me – Invoicing Made Simple]]></summary>
-        <author>
-            <name>martate</name>
-            <uri>https://news.ycombinator.com/user?id=martate</uri>
         </author>
     </entry>
 </feed>
