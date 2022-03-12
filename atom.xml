@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-12T12:17:23.385Z</updated>
+    <updated>2022-03-12T18:13:50.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[字库控制台和计时器]]></title>
+        <id>https://news.ycombinator.com/item?id=30653322</id>
+        <link href="https://news.ycombinator.com/item?id=30653322"/>
+        <updated>2022-03-12T18:03:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Wordle Console and Timer]]></summary>
+        <author>
+            <name>gabrielsroka</name>
+            <uri>https://news.ycombinator.com/user?id=gabrielsroka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何销售？旋转销售。形势、问题、含义、需求-回报]]></title>
         <id>https://news.ycombinator.com/item?id=30650838</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ymichael</name>
             <uri>https://news.ycombinator.com/user?id=ymichael</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wrap，一个用于捕捉和编辑产品屏幕截图的浏览器扩展程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30407227</id>
-        <link href="https://news.ycombinator.com/item?id=30407227"/>
-        <updated>2022-02-20T17:11:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Wrap, a browser extension for capturing and editing product screenshots]]></summary>
-        <author>
-            <name>nevflynn</name>
-            <uri>https://news.ycombinator.com/user?id=nevflynn</uri>
         </author>
     </entry>
 </feed>
