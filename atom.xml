@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-13T13:33:48.566Z</updated>
+    <updated>2022-03-13T14:51:25.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Node.js中的自我托管后端解决方案]]></title>
+        <id>https://news.ycombinator.com/item?id=30661577</id>
+        <link href="https://news.ycombinator.com/item?id=30661577"/>
+        <updated>2022-03-13T14:38:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Self-Hosted back end solution in Node.js]]></summary>
+        <author>
+            <name>kkopanidis</name>
+            <uri>https://news.ycombinator.com/user?id=kkopanidis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何起草鼓舞人心的演讲稿--向伟大的人学习]]></title>
         <id>https://news.ycombinator.com/item?id=30661011</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>frontendlane</name>
             <uri>https://news.ycombinator.com/user?id=frontendlane</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[复古的Reddit]]></title>
-        <id>https://news.ycombinator.com/item?id=30413643</id>
-        <link href="https://news.ycombinator.com/item?id=30413643"/>
-        <updated>2022-02-21T09:28:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Retro-Reddit]]></summary>
-        <author>
-            <name>ankur-sharma</name>
-            <uri>https://news.ycombinator.com/user?id=ankur-sharma</uri>
         </author>
     </entry>
 </feed>

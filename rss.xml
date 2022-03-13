@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 13 Mar 2022 13:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 14:51:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Node.js中的自我托管后端解决方案]]></title>
+            <link>https://news.ycombinator.com/item?id=30661577</link>
+            <guid>https://news.ycombinator.com/item?id=30661577</guid>
+            <pubDate>Sun, 13 Mar 2022 14:38:13 GMT</pubDate>
+            <description><![CDATA[Show HN: A Self-Hosted back end solution in Node.js]]></description>
+        </item>
         <item>
             <title><![CDATA[如何起草鼓舞人心的演讲稿--向伟大的人学习]]></title>
             <link>https://news.ycombinator.com/item?id=30661011</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30414100</guid>
             <pubDate>Mon, 21 Feb 2022 10:29:18 GMT</pubDate>
             <description><![CDATA[Show HN: Smooth out breakpoint layout jumps with responsify]]></description>
-        </item>
-        <item>
-            <title><![CDATA[复古的Reddit]]></title>
-            <link>https://news.ycombinator.com/item?id=30413643</link>
-            <guid>https://news.ycombinator.com/item?id=30413643</guid>
-            <pubDate>Mon, 21 Feb 2022 09:28:44 GMT</pubDate>
-            <description><![CDATA[Show HN: Retro-Reddit]]></description>
         </item>
     </channel>
 </rss>
