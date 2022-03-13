@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-13T18:36:22.382Z</updated>
+    <updated>2022-03-13T18:53:36.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通過維基百科摘要的隨機書籍]]></title>
+        <id>https://news.ycombinator.com/item?id=30664485</id>
+        <link href="https://news.ycombinator.com/item?id=30664485"/>
+        <updated>2022-03-13T18:50:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Random Books via Wikipedia Summaries]]></summary>
+        <author>
+            <name>westcort</name>
+            <uri>https://news.ycombinator.com/user?id=westcort</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[古騰堡計劃的隨機選集]]></title>
         <id>https://news.ycombinator.com/item?id=30664233</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>LukeEF</name>
             <uri>https://news.ycombinator.com/user?id=LukeEF</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT的價格是正確的]]></title>
-        <id>https://news.ycombinator.com/item?id=30414426</id>
-        <link href="https://news.ycombinator.com/item?id=30414426"/>
-        <updated>2022-02-21T11:14:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The NFT Price Is Right]]></summary>
-        <author>
-            <name>gpirescampos</name>
-            <uri>https://news.ycombinator.com/user?id=gpirescampos</uri>
         </author>
     </entry>
 </feed>
