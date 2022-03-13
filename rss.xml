@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 13 Mar 2022 11:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 13:06:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[版本控制的IETF RFC（草案、RFC、勘误表、ABNF）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30660849</link>
+            <guid>https://news.ycombinator.com/item?id=30660849</guid>
+            <pubDate>Sun, 13 Mar 2022 12:58:40 GMT</pubDate>
+            <description><![CDATA[Show HN: Version controlled IETF RFCs (draft,RFC,errata,ABNF)]]></description>
+        </item>
         <item>
             <title><![CDATA[创建随机头像的自我托管服务]]></title>
             <link>https://news.ycombinator.com/item?id=30660316</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30413232</guid>
             <pubDate>Mon, 21 Feb 2022 08:27:56 GMT</pubDate>
             <description><![CDATA[Show HN: Spurr · Asynchronous Team Building and Fitness Challenges]]></description>
-        </item>
-        <item>
-            <title><![CDATA[机器人字谜求解器]]></title>
-            <link>https://news.ycombinator.com/item?id=30413000</link>
-            <guid>https://news.ycombinator.com/item?id=30413000</guid>
-            <pubDate>Mon, 21 Feb 2022 07:49:17 GMT</pubDate>
-            <description><![CDATA[Show HN: Robot Wordle Solver]]></description>
         </item>
     </channel>
 </rss>

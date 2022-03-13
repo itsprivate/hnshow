@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-13T11:37:03.679Z</updated>
+    <updated>2022-03-13T13:06:40.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[版本控制的IETF RFC（草案、RFC、勘误表、ABNF）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30660849</id>
+        <link href="https://news.ycombinator.com/item?id=30660849"/>
+        <updated>2022-03-13T12:58:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Version controlled IETF RFCs (draft,RFC,errata,ABNF)]]></summary>
+        <author>
+            <name>andreineculau</name>
+            <uri>https://news.ycombinator.com/user?id=andreineculau</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[创建随机头像的自我托管服务]]></title>
         <id>https://news.ycombinator.com/item?id=30660316</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kafejo</name>
             <uri>https://news.ycombinator.com/user?id=kafejo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机器人字谜求解器]]></title>
-        <id>https://news.ycombinator.com/item?id=30413000</id>
-        <link href="https://news.ycombinator.com/item?id=30413000"/>
-        <updated>2022-02-21T07:49:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Robot Wordle Solver]]></summary>
-        <author>
-            <name>iamflimflam1</name>
-            <uri>https://news.ycombinator.com/user?id=iamflimflam1</uri>
         </author>
     </entry>
 </feed>
