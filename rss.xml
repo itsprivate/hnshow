@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 13 Mar 2022 18:53:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 20:33:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[忙碌的小海狸编译器]]></title>
+            <link>https://news.ycombinator.com/item?id=30665256</link>
+            <guid>https://news.ycombinator.com/item?id=30665256</guid>
+            <pubDate>Sun, 13 Mar 2022 20:12:40 GMT</pubDate>
+            <description><![CDATA[Show HN: Little Busy Beaver Compiler]]></description>
+        </item>
         <item>
             <title><![CDATA[通过维基百科摘要的随机书籍]]></title>
             <link>https://news.ycombinator.com/item?id=30664485</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30416114</guid>
             <pubDate>Mon, 21 Feb 2022 14:18:29 GMT</pubDate>
             <description><![CDATA[Show HN: Wordle-Like Maze]]></description>
-        </item>
-        <item>
-            <title><![CDATA[对JSON进行差分和修补的开放API]]></title>
-            <link>https://news.ycombinator.com/item?id=30415890</link>
-            <guid>https://news.ycombinator.com/item?id=30415890</guid>
-            <pubDate>Mon, 21 Feb 2022 13:56:14 GMT</pubDate>
-            <description><![CDATA[Show HN: Open API to Diff and Patch JSON]]></description>
         </item>
     </channel>
 </rss>
