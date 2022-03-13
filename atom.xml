@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-13T01:56:20.417Z</updated>
+    <updated>2022-03-13T02:52:29.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[lcdb - 用C语言实现的LevelDB]]></title>
+        <id>https://news.ycombinator.com/item?id=30657302</id>
+        <link href="https://news.ycombinator.com/item?id=30657302"/>
+        <updated>2022-03-13T02:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: lcdb – LevelDB Implemented in C]]></summary>
+        <author>
+            <name>chjj</name>
+            <uri>https://news.ycombinator.com/user?id=chjj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我用Phaser 3把我的个人网站做成了一个迷你游戏]]></title>
         <id>https://news.ycombinator.com/item?id=30656961</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>uberf1sh</name>
             <uri>https://news.ycombinator.com/user?id=uberf1sh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我写的一个简单的游戏和物理引擎]]></title>
-        <id>https://news.ycombinator.com/item?id=30410445</id>
-        <link href="https://news.ycombinator.com/item?id=30410445"/>
-        <updated>2022-02-20T23:55:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A simple game and physics engine I wrote]]></summary>
-        <author>
-            <name>dntbrsnbl</name>
-            <uri>https://news.ycombinator.com/user?id=dntbrsnbl</uri>
         </author>
     </entry>
 </feed>
