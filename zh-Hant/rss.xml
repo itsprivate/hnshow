@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 13 Mar 2022 22:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 23:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[讓用戶生成的內容更容易10倍]]></title>
+            <link>https://news.ycombinator.com/item?id=30666691</link>
+            <guid>https://news.ycombinator.com/item?id=30666691</guid>
+            <pubDate>Sun, 13 Mar 2022 23:09:23 GMT</pubDate>
+            <description><![CDATA[Show HN: Making user-generated content 10x easier]]></description>
+        </item>
         <item>
             <title><![CDATA[安全的時間膠囊 - 通過時間發送豐富的私人信息]]></title>
             <link>https://news.ycombinator.com/item?id=30666413</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30416531</guid>
             <pubDate>Mon, 21 Feb 2022 14:57:16 GMT</pubDate>
             <description><![CDATA[Show HN: Prisma Python – A fully typed ORM for Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Go中建立一個LDAP服務器]]></title>
-            <link>https://news.ycombinator.com/item?id=30416496</link>
-            <guid>https://news.ycombinator.com/item?id=30416496</guid>
-            <pubDate>Mon, 21 Feb 2022 14:53:55 GMT</pubDate>
-            <description><![CDATA[Show HN: Build an LDAP Server in Go]]></description>
         </item>
     </channel>
 </rss>
