@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-13T06:24:00.217Z</updated>
+    <updated>2022-03-13T11:37:03.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[創建隨機頭像的自我託管服務]]></title>
+        <id>https://news.ycombinator.com/item?id=30660316</id>
+        <link href="https://news.ycombinator.com/item?id=30660316"/>
+        <updated>2022-03-13T11:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Self-hosted service for creating random avatars]]></summary>
+        <author>
+            <name>frncsdrk</name>
+            <uri>https://news.ycombinator.com/user?id=frncsdrk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基於赤道的法國共和曆]]></title>
         <id>https://news.ycombinator.com/item?id=30658487</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>iamflimflam1</name>
             <uri>https://news.ycombinator.com/user?id=iamflimflam1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[視覺上的CSS樣式]]></title>
-        <id>https://news.ycombinator.com/item?id=30413102</id>
-        <link href="https://news.ycombinator.com/item?id=30413102"/>
-        <updated>2022-02-21T08:05:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Style CSS Visually]]></summary>
-        <author>
-            <name>hamedb</name>
-            <uri>https://news.ycombinator.com/user?id=hamedb</uri>
         </author>
     </entry>
 </feed>
