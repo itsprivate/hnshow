@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-13T02:52:29.920Z</updated>
+    <updated>2022-03-13T03:51:33.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[预测车祸法律案件的价值（CO, CA）]]></title>
+        <id>https://news.ycombinator.com/item?id=30657712</id>
+        <link href="https://news.ycombinator.com/item?id=30657712"/>
+        <updated>2022-03-13T03:43:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Predicting Car Accident Legal Case Values (CO, CA)]]></summary>
+        <author>
+            <name>elpakal</name>
+            <uri>https://news.ycombinator.com/user?id=elpakal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[lcdb - 用C语言实现的LevelDB]]></title>
         <id>https://news.ycombinator.com/item?id=30657302</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>arrkco</name>
             <uri>https://news.ycombinator.com/user?id=arrkco</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rebluff扑克，为宽松的进取型玩家提供无限制的扑克。]]></title>
-        <id>https://news.ycombinator.com/item?id=30409112</id>
-        <link href="https://news.ycombinator.com/item?id=30409112"/>
-        <updated>2022-02-20T20:44:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rebluff Poker, no limit hold'em for loose aggressive players]]></summary>
-        <author>
-            <name>uberf1sh</name>
-            <uri>https://news.ycombinator.com/user?id=uberf1sh</uri>
         </author>
     </entry>
 </feed>
