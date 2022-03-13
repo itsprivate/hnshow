@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 13 Mar 2022 17:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 18:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HN的另一个客户]]></title>
+            <link>https://news.ycombinator.com/item?id=30664028</link>
+            <guid>https://news.ycombinator.com/item?id=30664028</guid>
+            <pubDate>Sun, 13 Mar 2022 18:06:44 GMT</pubDate>
+            <description><![CDATA[Show HN: Yet Another Client for HN]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Partnerly - 开始一个美丽的伙伴关系，由区块链驱动]]></title>
+            <link>https://news.ycombinator.com/item?id=30663977</link>
+            <guid>https://news.ycombinator.com/item?id=30663977</guid>
+            <pubDate>Sun, 13 Mar 2022 18:02:36 GMT</pubDate>
+            <description><![CDATA[Show HN: Partnerly – Start a beautiful partnership, powered by blockchain]]></description>
+        </item>
         <item>
             <title><![CDATA[使用dbt指标从你的数据仓库建立一个REST API]]></title>
             <link>https://news.ycombinator.com/item?id=30663425</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30415506</guid>
             <pubDate>Mon, 21 Feb 2022 13:11:40 GMT</pubDate>
             <description><![CDATA[Show HN: I made a macOS app to save your apps for later]]></description>
-        </item>
-        <item>
-            <title><![CDATA[坚定不移的专注和深度流动的新标签]]></title>
-            <link>https://news.ycombinator.com/item?id=30415291</link>
-            <guid>https://news.ycombinator.com/item?id=30415291</guid>
-            <pubDate>Mon, 21 Feb 2022 12:47:01 GMT</pubDate>
-            <description><![CDATA[Show HN: New tab for unwavering focus and deep flow]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个新的每日字谜]]></title>
-            <link>https://news.ycombinator.com/item?id=30415053</link>
-            <guid>https://news.ycombinator.com/item?id=30415053</guid>
-            <pubDate>Mon, 21 Feb 2022 12:21:58 GMT</pubDate>
-            <description><![CDATA[Show HN: A new daily word puzzle]]></description>
         </item>
     </channel>
 </rss>

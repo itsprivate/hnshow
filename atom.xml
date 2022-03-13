@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-13T17:33:24.107Z</updated>
+    <updated>2022-03-13T18:14:14.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN的另一个客户]]></title>
+        <id>https://news.ycombinator.com/item?id=30664028</id>
+        <link href="https://news.ycombinator.com/item?id=30664028"/>
+        <updated>2022-03-13T18:06:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Yet Another Client for HN]]></summary>
+        <author>
+            <name>ssnxd</name>
+            <uri>https://news.ycombinator.com/user?id=ssnxd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Partnerly - 开始一个美丽的伙伴关系，由区块链驱动]]></title>
+        <id>https://news.ycombinator.com/item?id=30663977</id>
+        <link href="https://news.ycombinator.com/item?id=30663977"/>
+        <updated>2022-03-13T18:02:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Partnerly – Start a beautiful partnership, powered by blockchain]]></summary>
+        <author>
+            <name>predictand</name>
+            <uri>https://news.ycombinator.com/user?id=predictand</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用dbt指标从你的数据仓库建立一个REST API]]></title>
         <id>https://news.ycombinator.com/item?id=30663425</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>alyssaxuu</name>
             <uri>https://news.ycombinator.com/user?id=alyssaxuu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[坚定不移的专注和深度流动的新标签]]></title>
-        <id>https://news.ycombinator.com/item?id=30415291</id>
-        <link href="https://news.ycombinator.com/item?id=30415291"/>
-        <updated>2022-02-21T12:47:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: New tab for unwavering focus and deep flow]]></summary>
-        <author>
-            <name>ankut04</name>
-            <uri>https://news.ycombinator.com/user?id=ankut04</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个新的每日字谜]]></title>
-        <id>https://news.ycombinator.com/item?id=30415053</id>
-        <link href="https://news.ycombinator.com/item?id=30415053"/>
-        <updated>2022-02-21T12:21:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A new daily word puzzle]]></summary>
-        <author>
-            <name>danieltait</name>
-            <uri>https://news.ycombinator.com/user?id=danieltait</uri>
         </author>
     </entry>
 </feed>
