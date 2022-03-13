@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-13T13:06:40.629Z</updated>
+    <updated>2022-03-13T13:33:48.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何起草鼓舞人心的演講稿--向偉大的人學習]]></title>
+        <id>https://news.ycombinator.com/item?id=30661011</id>
+        <link href="https://news.ycombinator.com/item?id=30661011"/>
+        <updated>2022-03-13T13:24:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How to Craft Inspiring Speeches – Learning from the Greats]]></summary>
+        <author>
+            <name>SuDa2103</name>
+            <uri>https://news.ycombinator.com/user?id=SuDa2103</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSS404 - 無需任何代碼即可自動將網頁轉換為RSS。]]></title>
+        <id>https://news.ycombinator.com/item?id=30660922</id>
+        <link href="https://news.ycombinator.com/item?id=30660922"/>
+        <updated>2022-03-13T13:10:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: RSS404 – Automatically convert web page to RSS without any code.[Demo]]]></summary>
+        <author>
+            <name>gaojiuli</name>
+            <uri>https://news.ycombinator.com/user?id=gaojiuli</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[版本控制的IETF RFC（草案、RFC、勘誤表、ABNF）。]]></title>
         <id>https://news.ycombinator.com/item?id=30660849</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ankur-sharma</name>
             <uri>https://news.ycombinator.com/user?id=ankur-sharma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Heroku上運行計劃任務？使用這個來監測併發性]]></title>
-        <id>https://news.ycombinator.com/item?id=30413603</id>
-        <link href="https://news.ycombinator.com/item?id=30413603"/>
-        <updated>2022-02-21T09:22:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Running scheduled tasks on Heroku? Use this to monitor concurrency]]></summary>
-        <author>
-            <name>advskdr</name>
-            <uri>https://news.ycombinator.com/user?id=advskdr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spurr - 異步團隊建設和健身挑戰賽]]></title>
-        <id>https://news.ycombinator.com/item?id=30413232</id>
-        <link href="https://news.ycombinator.com/item?id=30413232"/>
-        <updated>2022-02-21T08:27:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Spurr · Asynchronous Team Building and Fitness Challenges]]></summary>
-        <author>
-            <name>kafejo</name>
-            <uri>https://news.ycombinator.com/user?id=kafejo</uri>
         </author>
     </entry>
 </feed>

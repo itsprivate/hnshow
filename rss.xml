@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 13 Mar 2022 13:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 13:33:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何起草鼓舞人心的演讲稿--向伟大的人学习]]></title>
+            <link>https://news.ycombinator.com/item?id=30661011</link>
+            <guid>https://news.ycombinator.com/item?id=30661011</guid>
+            <pubDate>Sun, 13 Mar 2022 13:24:46 GMT</pubDate>
+            <description><![CDATA[Show HN: How to Craft Inspiring Speeches – Learning from the Greats]]></description>
+        </item>
+        <item>
+            <title><![CDATA[RSS404 - 无需任何代码即可自动将网页转换为RSS。]]></title>
+            <link>https://news.ycombinator.com/item?id=30660922</link>
+            <guid>https://news.ycombinator.com/item?id=30660922</guid>
+            <pubDate>Sun, 13 Mar 2022 13:10:03 GMT</pubDate>
+            <description><![CDATA[Show HN: RSS404 – Automatically convert web page to RSS without any code.[Demo]]]></description>
+        </item>
         <item>
             <title><![CDATA[版本控制的IETF RFC（草案、RFC、勘误表、ABNF）。]]></title>
             <link>https://news.ycombinator.com/item?id=30660849</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30413643</guid>
             <pubDate>Mon, 21 Feb 2022 09:28:44 GMT</pubDate>
             <description><![CDATA[Show HN: Retro-Reddit]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Heroku上运行计划任务？使用这个来监测并发性]]></title>
-            <link>https://news.ycombinator.com/item?id=30413603</link>
-            <guid>https://news.ycombinator.com/item?id=30413603</guid>
-            <pubDate>Mon, 21 Feb 2022 09:22:26 GMT</pubDate>
-            <description><![CDATA[Show HN: Running scheduled tasks on Heroku? Use this to monitor concurrency]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Spurr - 异步团队建设和健身挑战赛]]></title>
-            <link>https://news.ycombinator.com/item?id=30413232</link>
-            <guid>https://news.ycombinator.com/item?id=30413232</guid>
-            <pubDate>Mon, 21 Feb 2022 08:27:56 GMT</pubDate>
-            <description><![CDATA[Show HN: Spurr · Asynchronous Team Building and Fitness Challenges]]></description>
         </item>
     </channel>
 </rss>
