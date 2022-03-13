@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-12T21:11:57.147Z</updated>
+    <updated>2022-03-13T01:56:20.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我用Phaser 3把我的个人网站做成了一个迷你游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=30656961</id>
+        <link href="https://news.ycombinator.com/item?id=30656961"/>
+        <updated>2022-03-13T01:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made my personal website a minigame using Phaser 3]]></summary>
+        <author>
+            <name>cartucho1</name>
+            <uri>https://news.ycombinator.com/user?id=cartucho1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不和谐的小路]]></title>
+        <id>https://news.ycombinator.com/item?id=30656689</id>
+        <link href="https://news.ycombinator.com/item?id=30656689"/>
+        <updated>2022-03-13T00:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dissonant Trails]]></summary>
+        <author>
+            <name>vb42</name>
+            <uri>https://news.ycombinator.com/user?id=vb42</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[派系CPO]]></title>
         <id>https://news.ycombinator.com/item?id=30654826</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>dntbrsnbl</name>
             <uri>https://news.ycombinator.com/user?id=dntbrsnbl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[测试你的形状旋转技能]]></title>
-        <id>https://news.ycombinator.com/item?id=30408434</id>
-        <link href="https://news.ycombinator.com/item?id=30408434"/>
-        <updated>2022-02-20T19:19:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Test your shape rotation skills]]></summary>
-        <author>
-            <name>0xf00ff00f</name>
-            <uri>https://news.ycombinator.com/user?id=0xf00ff00f</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于Ruby on Rails的零延迟PostgreSQL迁移]]></title>
-        <id>https://news.ycombinator.com/item?id=30408336</id>
-        <link href="https://news.ycombinator.com/item?id=30408336"/>
-        <updated>2022-02-20T19:06:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Zero-downtime PostgreSQL migrations for Ruby on Rails]]></summary>
-        <author>
-            <name>fatkodima</name>
-            <uri>https://news.ycombinator.com/user?id=fatkodima</uri>
         </author>
     </entry>
 </feed>

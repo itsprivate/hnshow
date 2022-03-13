@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 12 Mar 2022 21:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 01:56:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我用Phaser 3把我的個人網站做成了一個迷你遊戲]]></title>
+            <link>https://news.ycombinator.com/item?id=30656961</link>
+            <guid>https://news.ycombinator.com/item?id=30656961</guid>
+            <pubDate>Sun, 13 Mar 2022 01:30:34 GMT</pubDate>
+            <description><![CDATA[Show HN: I made my personal website a minigame using Phaser 3]]></description>
+        </item>
+        <item>
+            <title><![CDATA[不和諧的小路]]></title>
+            <link>https://news.ycombinator.com/item?id=30656689</link>
+            <guid>https://news.ycombinator.com/item?id=30656689</guid>
+            <pubDate>Sun, 13 Mar 2022 00:44:35 GMT</pubDate>
+            <description><![CDATA[Show HN: Dissonant Trails]]></description>
+        </item>
         <item>
             <title><![CDATA[派系CPO]]></title>
             <link>https://news.ycombinator.com/item?id=30654826</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30410445</guid>
             <pubDate>Sun, 20 Feb 2022 23:55:15 GMT</pubDate>
             <description><![CDATA[Show HN: A simple game and physics engine I wrote]]></description>
-        </item>
-        <item>
-            <title><![CDATA[測試你的形狀旋轉技能]]></title>
-            <link>https://news.ycombinator.com/item?id=30408434</link>
-            <guid>https://news.ycombinator.com/item?id=30408434</guid>
-            <pubDate>Sun, 20 Feb 2022 19:19:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Test your shape rotation skills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用於Ruby on Rails的零延遲PostgreSQL遷移]]></title>
-            <link>https://news.ycombinator.com/item?id=30408336</link>
-            <guid>https://news.ycombinator.com/item?id=30408336</guid>
-            <pubDate>Sun, 20 Feb 2022 19:06:31 GMT</pubDate>
-            <description><![CDATA[Show HN: Zero-downtime PostgreSQL migrations for Ruby on Rails]]></description>
         </item>
     </channel>
 </rss>
