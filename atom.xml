@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-13T17:18:04.908Z</updated>
+    <updated>2022-03-13T17:33:24.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用dbt指标从你的数据仓库建立一个REST API]]></title>
+        <id>https://news.ycombinator.com/item?id=30663425</id>
+        <link href="https://news.ycombinator.com/item?id=30663425"/>
+        <updated>2022-03-13T17:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build a REST API from your data warehouse using dbt metrics]]></summary>
+        <author>
+            <name>mjirv</name>
+            <uri>https://news.ycombinator.com/user?id=mjirv</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个用于网站日志分析的围棋库]]></title>
         <id>https://news.ycombinator.com/item?id=30663197</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>danieltait</name>
             <uri>https://news.ycombinator.com/user?id=danieltait</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个线形图制作器]]></title>
-        <id>https://news.ycombinator.com/item?id=30415003</id>
-        <link href="https://news.ycombinator.com/item?id=30415003"/>
-        <updated>2022-02-21T12:17:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a Line graph maker]]></summary>
-        <author>
-            <name>karansope</name>
-            <uri>https://news.ycombinator.com/user?id=karansope</uri>
         </author>
     </entry>
 </feed>
