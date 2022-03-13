@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-13T20:33:19.306Z</updated>
+    <updated>2022-03-13T21:28:50.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[VS代碼擴展到文檔代碼]]></title>
+        <id>https://news.ycombinator.com/item?id=30665821</id>
+        <link href="https://news.ycombinator.com/item?id=30665821"/>
+        <updated>2022-03-13T21:18:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: VS Code Extension to Document Code]]></summary>
+        <author>
+            <name>calum-bird</name>
+            <uri>https://news.ycombinator.com/user?id=calum-bird</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[忙碌的小海狸編譯器]]></title>
         <id>https://news.ycombinator.com/item?id=30665256</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sdegutis</name>
             <uri>https://news.ycombinator.com/user?id=sdegutis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[字謎式的迷宮]]></title>
-        <id>https://news.ycombinator.com/item?id=30416114</id>
-        <link href="https://news.ycombinator.com/item?id=30416114"/>
-        <updated>2022-02-21T14:18:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Wordle-Like Maze]]></summary>
-        <author>
-            <name>imedadel</name>
-            <uri>https://news.ycombinator.com/user?id=imedadel</uri>
         </author>
     </entry>
 </feed>

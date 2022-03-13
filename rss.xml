@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 13 Mar 2022 20:33:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 21:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[VS代码扩展到文档代码]]></title>
+            <link>https://news.ycombinator.com/item?id=30665821</link>
+            <guid>https://news.ycombinator.com/item?id=30665821</guid>
+            <pubDate>Sun, 13 Mar 2022 21:18:50 GMT</pubDate>
+            <description><![CDATA[Show HN: VS Code Extension to Document Code]]></description>
+        </item>
         <item>
             <title><![CDATA[忙碌的小海狸编译器]]></title>
             <link>https://news.ycombinator.com/item?id=30665256</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30416042</guid>
             <pubDate>Mon, 21 Feb 2022 14:11:31 GMT</pubDate>
             <description><![CDATA[Show HN: A new kind of TypeScript web app]]></description>
-        </item>
-        <item>
-            <title><![CDATA[字谜式的迷宫]]></title>
-            <link>https://news.ycombinator.com/item?id=30416114</link>
-            <guid>https://news.ycombinator.com/item?id=30416114</guid>
-            <pubDate>Mon, 21 Feb 2022 14:18:29 GMT</pubDate>
-            <description><![CDATA[Show HN: Wordle-Like Maze]]></description>
         </item>
     </channel>
 </rss>
