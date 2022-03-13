@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 13 Mar 2022 21:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 22:40:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[安全的時間膠囊 - 通過時間發送豐富的私人信息]]></title>
+            <link>https://news.ycombinator.com/item?id=30666413</link>
+            <guid>https://news.ycombinator.com/item?id=30666413</guid>
+            <pubDate>Sun, 13 Mar 2022 22:35:36 GMT</pubDate>
+            <description><![CDATA[Show HN: Secure Time Capsule – Send a rich private message through time]]></description>
+        </item>
+        <item>
+            <title><![CDATA[SmoothWAN一個簡單的家庭互聯網綁定路由器，使用Speedify]]></title>
+            <link>https://news.ycombinator.com/item?id=30666248</link>
+            <guid>https://news.ycombinator.com/item?id=30666248</guid>
+            <pubDate>Sun, 13 Mar 2022 22:09:24 GMT</pubDate>
+            <description><![CDATA[Show HN: SmoothWAN a simple home internet bonding router using Speedify]]></description>
+        </item>
         <item>
             <title><![CDATA[VS代碼擴展到文檔代碼]]></title>
             <link>https://news.ycombinator.com/item?id=30665821</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30416496</guid>
             <pubDate>Mon, 21 Feb 2022 14:53:55 GMT</pubDate>
             <description><![CDATA[Show HN: Build an LDAP Server in Go]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ekans - 一個用Golang構建的非詛咒終端遊戲]]></title>
-            <link>https://news.ycombinator.com/item?id=30416104</link>
-            <guid>https://news.ycombinator.com/item?id=30416104</guid>
-            <pubDate>Mon, 21 Feb 2022 14:17:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Ekans – a non-curses terminal game built with Golang]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一種新型的TypeScript網絡應用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30416042</link>
-            <guid>https://news.ycombinator.com/item?id=30416042</guid>
-            <pubDate>Mon, 21 Feb 2022 14:11:31 GMT</pubDate>
-            <description><![CDATA[Show HN: A new kind of TypeScript web app]]></description>
         </item>
     </channel>
 </rss>

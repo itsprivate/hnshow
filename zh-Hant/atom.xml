@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-13T21:28:50.057Z</updated>
+    <updated>2022-03-13T22:40:33.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安全的時間膠囊 - 通過時間發送豐富的私人信息]]></title>
+        <id>https://news.ycombinator.com/item?id=30666413</id>
+        <link href="https://news.ycombinator.com/item?id=30666413"/>
+        <updated>2022-03-13T22:35:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Secure Time Capsule – Send a rich private message through time]]></summary>
+        <author>
+            <name>ivanvas</name>
+            <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SmoothWAN一個簡單的家庭互聯網綁定路由器，使用Speedify]]></title>
+        <id>https://news.ycombinator.com/item?id=30666248</id>
+        <link href="https://news.ycombinator.com/item?id=30666248"/>
+        <updated>2022-03-13T22:09:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SmoothWAN a simple home internet bonding router using Speedify]]></summary>
+        <author>
+            <name>goodburb</name>
+            <uri>https://news.ycombinator.com/user?id=goodburb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VS代碼擴展到文檔代碼]]></title>
         <id>https://news.ycombinator.com/item?id=30665821</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jimlambrt</name>
             <uri>https://news.ycombinator.com/user?id=jimlambrt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ekans - 一個用Golang構建的非詛咒終端遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30416104</id>
-        <link href="https://news.ycombinator.com/item?id=30416104"/>
-        <updated>2022-02-21T14:17:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ekans – a non-curses terminal game built with Golang]]></summary>
-        <author>
-            <name>int3rlop3r</name>
-            <uri>https://news.ycombinator.com/user?id=int3rlop3r</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一種新型的TypeScript網絡應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30416042</id>
-        <link href="https://news.ycombinator.com/item?id=30416042"/>
-        <updated>2022-02-21T14:11:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A new kind of TypeScript web app]]></summary>
-        <author>
-            <name>sdegutis</name>
-            <uri>https://news.ycombinator.com/user?id=sdegutis</uri>
         </author>
     </entry>
 </feed>
