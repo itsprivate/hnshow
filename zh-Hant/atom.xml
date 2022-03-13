@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-13T15:43:54.367Z</updated>
+    <updated>2022-03-13T16:14:50.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個更慢的，延遲的Hacker News]]></title>
+        <id>https://news.ycombinator.com/item?id=30661517</id>
+        <link href="https://news.ycombinator.com/item?id=30661517"/>
+        <updated>2022-03-13T14:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a slower, delayed Hacker News]]></summary>
+        <author>
+            <name>aramadia</name>
+            <uri>https://news.ycombinator.com/user?id=aramadia</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hoku - 組織您的團體旅行計劃的應用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30662139</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>remote_only_eng</name>
             <uri>https://news.ycombinator.com/user?id=remote_only_eng</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TopSpace - 在Emacs的頂行上方滾動]]></title>
-        <id>https://news.ycombinator.com/item?id=30414784</id>
-        <link href="https://news.ycombinator.com/item?id=30414784"/>
-        <updated>2022-02-21T11:56:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: TopSpace – Scroll above the top line in Emacs]]></summary>
-        <author>
-            <name>emacs28</name>
-            <uri>https://news.ycombinator.com/user?id=emacs28</uri>
         </author>
     </entry>
 </feed>
