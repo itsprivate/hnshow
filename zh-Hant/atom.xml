@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-14T03:43:46.352Z</updated>
+    <updated>2022-03-14T07:12:18.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[matplotlibcpp17 - matplotlibcpp的替代品，具有更多的功能]]></title>
+        <id>https://news.ycombinator.com/item?id=30669268</id>
+        <link href="https://news.ycombinator.com/item?id=30669268"/>
+        <updated>2022-03-14T07:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: matplotlibcpp17 – An alternative to matplotlibcpp with more features]]></summary>
+        <author>
+            <name>soblin</name>
+            <uri>https://news.ycombinator.com/user?id=soblin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們建立了DeTy.org，一個烏克蘭的失蹤人員平臺。]]></title>
         <id>https://news.ycombinator.com/item?id=30668237</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Kerrick</name>
             <uri>https://news.ycombinator.com/user?id=Kerrick</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub的特殊文件和路徑/版本5]]></title>
-        <id>https://news.ycombinator.com/item?id=30418118</id>
-        <link href="https://news.ycombinator.com/item?id=30418118"/>
-        <updated>2022-02-21T17:14:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GitHub special files and paths / version 5]]></summary>
-        <author>
-            <name>jph</name>
-            <uri>https://news.ycombinator.com/user?id=jph</uri>
         </author>
     </entry>
 </feed>
