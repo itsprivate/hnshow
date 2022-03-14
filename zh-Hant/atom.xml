@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-14T09:13:40.669Z</updated>
+    <updated>2022-03-14T09:41:29.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基於Summarygenerator.com的安卓AI文本總結器]]></title>
+        <id>https://news.ycombinator.com/item?id=30670242</id>
+        <link href="https://news.ycombinator.com/item?id=30670242"/>
+        <updated>2022-03-14T09:33:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: AI Text Summarizer for Android Based on Summarygenerator.com]]></summary>
+        <author>
+            <name>0xhh</name>
+            <uri>https://news.ycombinator.com/user?id=0xhh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CareerCupid。工作的OkCupid]]></title>
         <id>https://news.ycombinator.com/item?id=30670028</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>stuartmscott</name>
             <uri>https://news.ycombinator.com/user?id=stuartmscott</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好時公司起訴我們。我們把它變成了一個NFT]]></title>
-        <id>https://news.ycombinator.com/item?id=30419212</id>
-        <link href="https://news.ycombinator.com/item?id=30419212"/>
-        <updated>2022-02-21T18:46:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hershey sued us. We turned it into an NFT]]></summary>
-        <author>
-            <name>nicksalt</name>
-            <uri>https://news.ycombinator.com/user?id=nicksalt</uri>
         </author>
     </entry>
 </feed>
