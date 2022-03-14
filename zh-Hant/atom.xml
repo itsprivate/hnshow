@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-14T17:23:52.610Z</updated>
+    <updated>2022-03-14T17:41:24.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一鍵式無憂屏幕共享(macOS)]]></title>
+        <id>https://news.ycombinator.com/item?id=30675392</id>
+        <link href="https://news.ycombinator.com/item?id=30675392"/>
+        <updated>2022-03-14T17:37:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Single click worry free screenshare (macOS)]]></summary>
+        <author>
+            <name>theindianappguy</name>
+            <uri>https://news.ycombinator.com/user?id=theindianappguy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[即時創建一個GitHub倉庫，對網頁進行截圖]]></title>
+        <id>https://news.ycombinator.com/item?id=30675357</id>
+        <link href="https://news.ycombinator.com/item?id=30675357"/>
+        <updated>2022-03-14T17:34:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Instantly create a GitHub repository to take screenshots of a web page]]></summary>
+        <author>
+            <name>simonw</name>
+            <uri>https://news.ycombinator.com/user?id=simonw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超大七段鍾]]></title>
+        <id>https://news.ycombinator.com/item?id=30675319</id>
+        <link href="https://news.ycombinator.com/item?id=30675319"/>
+        <updated>2022-03-14T17:31:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Supersize Seven Segment Clock]]></summary>
+        <author>
+            <name>iamflimflam1</name>
+            <uri>https://news.ycombinator.com/user?id=iamflimflam1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用動態UTM標籤簡化漏斗分析]]></title>
         <id>https://news.ycombinator.com/item?id=30675046</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>simonhamp</name>
             <uri>https://news.ycombinator.com/user?id=simonhamp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可映射--原始文本到API只需30分鐘]]></title>
-        <id>https://news.ycombinator.com/item?id=30423065</id>
-        <link href="https://news.ycombinator.com/item?id=30423065"/>
-        <updated>2022-02-22T01:35:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mappable – raw text to API in 30min]]></summary>
-        <author>
-            <name>deneutoy</name>
-            <uri>https://news.ycombinator.com/user?id=deneutoy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讓Dropbox忽略node_modules（和其他）的快速和骯髒的方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30422925</id>
-        <link href="https://news.ycombinator.com/item?id=30422925"/>
-        <updated>2022-02-22T01:10:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Quick and dirty way to make Dropbox ignore node_modules (and others)]]></summary>
-        <author>
-            <name>kichik</name>
-            <uri>https://news.ycombinator.com/user?id=kichik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日數學腦筋急轉彎]]></title>
-        <id>https://news.ycombinator.com/item?id=30422522</id>
-        <link href="https://news.ycombinator.com/item?id=30422522"/>
-        <updated>2022-02-22T00:14:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A daily maths brainteaser]]></summary>
-        <author>
-            <name>bvnsmr</name>
-            <uri>https://news.ycombinator.com/user?id=bvnsmr</uri>
         </author>
     </entry>
 </feed>
