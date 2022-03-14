@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-14T20:44:14.224Z</updated>
+    <updated>2022-03-14T21:12:35.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Scordle - 一個用React編寫的單詞搜索遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30678109</id>
+        <link href="https://news.ycombinator.com/item?id=30678109"/>
+        <updated>2022-03-14T20:51:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Scordle – a word search game written in React]]></summary>
+        <author>
+            <name>utahjones</name>
+            <uri>https://news.ycombinator.com/user?id=utahjones</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grryno.com - 一個按使用量付費的遊戲服務器託管服務]]></title>
         <id>https://news.ycombinator.com/item?id=30677886</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>piccogabriele</name>
             <uri>https://news.ycombinator.com/user?id=piccogabriele</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Markdown中對PDF進行註釋]]></title>
-        <id>https://news.ycombinator.com/item?id=30424873</id>
-        <link href="https://news.ycombinator.com/item?id=30424873"/>
-        <updated>2022-02-22T07:12:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Annotate PDFs in Markdown]]></summary>
-        <author>
-            <name>bx376</name>
-            <uri>https://news.ycombinator.com/user?id=bx376</uri>
         </author>
     </entry>
 </feed>
