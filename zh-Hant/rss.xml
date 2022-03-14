@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 14 Mar 2022 16:50:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 17:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用動態UTM標籤簡化漏斗分析]]></title>
+            <link>https://news.ycombinator.com/item?id=30675046</link>
+            <guid>https://news.ycombinator.com/item?id=30675046</guid>
+            <pubDate>Mon, 14 Mar 2022 17:11:18 GMT</pubDate>
+            <description><![CDATA[Show HN: Streamline Funnel Analytics with Dynamic UTM Tags]]></description>
+        </item>
         <item>
             <title><![CDATA[蘋果研究機構]]></title>
             <link>https://news.ycombinator.com/item?id=30674227</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30422522</guid>
             <pubDate>Tue, 22 Feb 2022 00:14:28 GMT</pubDate>
             <description><![CDATA[Show HN: A daily maths brainteaser]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wachy - 一個基於eBPF的性能調試的用戶界面]]></title>
-            <link>https://news.ycombinator.com/item?id=30422517</link>
-            <guid>https://news.ycombinator.com/item?id=30422517</guid>
-            <pubDate>Tue, 22 Feb 2022 00:13:47 GMT</pubDate>
-            <description><![CDATA[Show HN: Wachy – A UI for eBPF-based performance debugging]]></description>
         </item>
     </channel>
 </rss>
