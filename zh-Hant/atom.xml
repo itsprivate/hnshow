@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-14T14:29:56.890Z</updated>
+    <updated>2022-03-14T15:15:12.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個網站，以一個新聞事件的新聞來源年表為特色]]></title>
+        <id>https://news.ycombinator.com/item?id=30673127</id>
+        <link href="https://news.ycombinator.com/item?id=30673127"/>
+        <updated>2022-03-14T14:52:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a site featuring a chronology of news sources for a news event]]></summary>
+        <author>
+            <name>TheMightyLlama</name>
+            <uri>https://news.ycombinator.com/user?id=TheMightyLlama</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我使用谷歌趨勢數據對所有YC公司進行了排名]]></title>
         <id>https://news.ycombinator.com/item?id=30672683</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>maxmc</name>
             <uri>https://news.ycombinator.com/user?id=maxmc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古董撲克牌收藏]]></title>
-        <id>https://news.ycombinator.com/item?id=30421481</id>
-        <link href="https://news.ycombinator.com/item?id=30421481"/>
-        <updated>2022-02-21T22:23:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Antique Playing Cards Collection]]></summary>
-        <author>
-            <name>EtteillaVII</name>
-            <uri>https://news.ycombinator.com/user?id=EtteillaVII</uri>
         </author>
     </entry>
 </feed>
