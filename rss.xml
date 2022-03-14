@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 14 Mar 2022 09:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 13:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HN关于俄乌冲突的帖子]]></title>
+            <link>https://news.ycombinator.com/item?id=30672016</link>
+            <guid>https://news.ycombinator.com/item?id=30672016</guid>
+            <pubDate>Mon, 14 Mar 2022 13:13:41 GMT</pubDate>
+            <description><![CDATA[Show HN: HN Posts on the Russian-Ukrainian Conflict]]></description>
+        </item>
+        <item>
+            <title><![CDATA[狩猎网站 - 你不知道的最佳网站]]></title>
+            <link>https://news.ycombinator.com/item?id=30671880</link>
+            <guid>https://news.ycombinator.com/item?id=30671880</guid>
+            <pubDate>Mon, 14 Mar 2022 13:00:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Website Hunt – Best websites you didn't know]]></description>
+        </item>
+        <item>
+            <title><![CDATA[技术人员教PM的技术]]></title>
+            <link>https://news.ycombinator.com/item?id=30671764</link>
+            <guid>https://news.ycombinator.com/item?id=30671764</guid>
+            <pubDate>Mon, 14 Mar 2022 12:49:03 GMT</pubDate>
+            <description><![CDATA[Show HN: Tech guys teaching PM's Tech]]></description>
+        </item>
         <item>
             <title><![CDATA[基于Summarygenerator.com的安卓AI文本总结器]]></title>
             <link>https://news.ycombinator.com/item?id=30670242</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30419953</guid>
             <pubDate>Mon, 21 Feb 2022 20:07:21 GMT</pubDate>
             <description><![CDATA[Show HN: Trilium.cc – Paid hosting for Trilium Notes, a personal knowledge base]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用SQLite管理你的配置]]></title>
-            <link>https://news.ycombinator.com/item?id=30419881</link>
-            <guid>https://news.ycombinator.com/item?id=30419881</guid>
-            <pubDate>Mon, 21 Feb 2022 19:58:54 GMT</pubDate>
-            <description><![CDATA[Show HN: Manage Your Configuration with SQLite]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Promoshot - 你的产品的美丽图片]]></title>
-            <link>https://news.ycombinator.com/item?id=30419533</link>
-            <guid>https://news.ycombinator.com/item?id=30419533</guid>
-            <pubDate>Mon, 21 Feb 2022 19:21:20 GMT</pubDate>
-            <description><![CDATA[Show HN: Promoshot – beautiful pictures of your product]]></description>
-        </item>
-        <item>
-            <title><![CDATA[二重奏--一个双人游戏系统]]></title>
-            <link>https://news.ycombinator.com/item?id=30419342</link>
-            <guid>https://news.ycombinator.com/item?id=30419342</guid>
-            <pubDate>Mon, 21 Feb 2022 18:58:43 GMT</pubDate>
-            <description><![CDATA[Show HN: Duet – A Two-Player Gaming System]]></description>
         </item>
     </channel>
 </rss>

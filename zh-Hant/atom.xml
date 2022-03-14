@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-14T09:41:29.985Z</updated>
+    <updated>2022-03-14T13:20:21.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN關於俄烏衝突的帖子]]></title>
+        <id>https://news.ycombinator.com/item?id=30672016</id>
+        <link href="https://news.ycombinator.com/item?id=30672016"/>
+        <updated>2022-03-14T13:13:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: HN Posts on the Russian-Ukrainian Conflict]]></summary>
+        <author>
+            <name>z3c0</name>
+            <uri>https://news.ycombinator.com/user?id=z3c0</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[狩獵網站 - 你不知道的最佳網站]]></title>
+        <id>https://news.ycombinator.com/item?id=30671880</id>
+        <link href="https://news.ycombinator.com/item?id=30671880"/>
+        <updated>2022-03-14T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Website Hunt – Best websites you didn't know]]></summary>
+        <author>
+            <name>micadep</name>
+            <uri>https://news.ycombinator.com/user?id=micadep</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技術人員教PM的技術]]></title>
+        <id>https://news.ycombinator.com/item?id=30671764</id>
+        <link href="https://news.ycombinator.com/item?id=30671764"/>
+        <updated>2022-03-14T12:49:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tech guys teaching PM's Tech]]></summary>
+        <author>
+            <name>Exorust</name>
+            <uri>https://news.ycombinator.com/user?id=Exorust</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基於Summarygenerator.com的安卓AI文本總結器]]></title>
         <id>https://news.ycombinator.com/item?id=30670242</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>sodality2</name>
             <uri>https://news.ycombinator.com/user?id=sodality2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用SQLite管理你的配置]]></title>
-        <id>https://news.ycombinator.com/item?id=30419881</id>
-        <link href="https://news.ycombinator.com/item?id=30419881"/>
-        <updated>2022-02-21T19:58:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Manage Your Configuration with SQLite]]></summary>
-        <author>
-            <name>peterhunt</name>
-            <uri>https://news.ycombinator.com/user?id=peterhunt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Promoshot - 你的產品的美麗圖片]]></title>
-        <id>https://news.ycombinator.com/item?id=30419533</id>
-        <link href="https://news.ycombinator.com/item?id=30419533"/>
-        <updated>2022-02-21T19:21:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Promoshot – beautiful pictures of your product]]></summary>
-        <author>
-            <name>pagetuner</name>
-            <uri>https://news.ycombinator.com/user?id=pagetuner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二重奏--一個雙人遊戲系統]]></title>
-        <id>https://news.ycombinator.com/item?id=30419342</id>
-        <link href="https://news.ycombinator.com/item?id=30419342"/>
-        <updated>2022-02-21T18:58:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Duet – A Two-Player Gaming System]]></summary>
-        <author>
-            <name>stuartmscott</name>
-            <uri>https://news.ycombinator.com/user?id=stuartmscott</uri>
         </author>
     </entry>
 </feed>
