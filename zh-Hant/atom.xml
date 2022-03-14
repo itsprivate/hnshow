@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-14T15:15:12.655Z</updated>
+    <updated>2022-03-14T15:37:37.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[輕鬆編輯、註釋和分享文章 - Smort.io]]></title>
+        <id>https://news.ycombinator.com/item?id=30673502</id>
+        <link href="https://news.ycombinator.com/item?id=30673502"/>
+        <updated>2022-03-14T15:24:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Edit, annotate and share articles easily – Smort.io]]></summary>
+        <author>
+            <name>sabr</name>
+            <uri>https://news.ycombinator.com/user?id=sabr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個網站，以一個新聞事件的新聞來源年表為特色]]></title>
         <id>https://news.ycombinator.com/item?id=30673127</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gigamick</name>
             <uri>https://news.ycombinator.com/user?id=gigamick</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Python中快速而穩健的Auto Arima]]></title>
-        <id>https://news.ycombinator.com/item?id=30421726</id>
-        <link href="https://news.ycombinator.com/item?id=30421726"/>
-        <updated>2022-02-21T22:46:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fast and robust Auto Arima in Python]]></summary>
-        <author>
-            <name>maxmc</name>
-            <uri>https://news.ycombinator.com/user?id=maxmc</uri>
         </author>
     </entry>
 </feed>
