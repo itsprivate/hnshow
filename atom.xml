@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-14T13:20:21.321Z</updated>
+    <updated>2022-03-14T13:39:37.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我写了一本初学SRE的书，今天是免费的]]></title>
+        <id>https://news.ycombinator.com/item?id=30672041</id>
+        <link href="https://news.ycombinator.com/item?id=30672041"/>
+        <updated>2022-03-14T13:16:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I wrote a beginner SRE book, and it's free today]]></summary>
+        <author>
+            <name>dm03514</name>
+            <uri>https://news.ycombinator.com/user?id=dm03514</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HN关于俄乌冲突的帖子]]></title>
         <id>https://news.ycombinator.com/item?id=30672016</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>EGreg</name>
             <uri>https://news.ycombinator.com/user?id=EGreg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trilium.cc - Trilium Notes的付费主机，一个个人知识库。]]></title>
-        <id>https://news.ycombinator.com/item?id=30419953</id>
-        <link href="https://news.ycombinator.com/item?id=30419953"/>
-        <updated>2022-02-21T20:07:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Trilium.cc – Paid hosting for Trilium Notes, a personal knowledge base]]></summary>
-        <author>
-            <name>sodality2</name>
-            <uri>https://news.ycombinator.com/user?id=sodality2</uri>
         </author>
     </entry>
 </feed>
