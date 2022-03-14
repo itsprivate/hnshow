@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-14T13:39:37.659Z</updated>
+    <updated>2022-03-14T14:29:56.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我使用谷歌趨勢數據對所有YC公司進行了排名]]></title>
+        <id>https://news.ycombinator.com/item?id=30672683</id>
+        <link href="https://news.ycombinator.com/item?id=30672683"/>
+        <updated>2022-03-14T14:14:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I ranked all YC companies using Google Trends data]]></summary>
+        <author>
+            <name>jakobgreenfeld</name>
+            <uri>https://news.ycombinator.com/user?id=jakobgreenfeld</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我寫了一本初學SRE的書，今天是免費的]]></title>
         <id>https://news.ycombinator.com/item?id=30672041</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>EtteillaVII</name>
             <uri>https://news.ycombinator.com/user?id=EtteillaVII</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何避免世界大戰!]]></title>
-        <id>https://news.ycombinator.com/item?id=30421370</id>
-        <link href="https://news.ycombinator.com/item?id=30421370"/>
-        <updated>2022-02-21T22:15:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: How to avoid World Wars!]]></summary>
-        <author>
-            <name>EGreg</name>
-            <uri>https://news.ycombinator.com/user?id=EGreg</uri>
         </author>
     </entry>
 </feed>
