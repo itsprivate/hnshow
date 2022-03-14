@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-14T19:10:58.907Z</updated>
+    <updated>2022-03-14T20:44:14.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Grryno.com - 一个按使用量付费的游戏服务器托管服务]]></title>
+        <id>https://news.ycombinator.com/item?id=30677886</id>
+        <link href="https://news.ycombinator.com/item?id=30677886"/>
+        <updated>2022-03-14T20:34:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Grryno.com – A pay-per-use game server hosting service]]></summary>
+        <author>
+            <name>rejacobson</name>
+            <uri>https://news.ycombinator.com/user?id=rejacobson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我为静态网站建立了一个开源的虚拟主机平台]]></title>
         <id>https://news.ycombinator.com/item?id=30676595</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bx376</name>
             <uri>https://news.ycombinator.com/user?id=bx376</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[管理星云叠加网络成员的Terraform提供者和模块]]></title>
-        <id>https://news.ycombinator.com/item?id=30424772</id>
-        <link href="https://news.ycombinator.com/item?id=30424772"/>
-        <updated>2022-02-22T06:56:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Terraform provider and module to manage Nebula Overlay Network member]]></summary>
-        <author>
-            <name>rucciva</name>
-            <uri>https://news.ycombinator.com/user?id=rucciva</uri>
         </author>
     </entry>
 </feed>
