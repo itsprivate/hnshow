@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-14T02:07:26.794Z</updated>
+    <updated>2022-03-14T03:23:19.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[368字节的HN线程的头像]]></title>
+        <id>https://news.ycombinator.com/item?id=30668137</id>
+        <link href="https://news.ycombinator.com/item?id=30668137"/>
+        <updated>2022-03-14T03:08:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Avatars for HN threads in 368 bytes]]></summary>
+        <author>
+            <name>tomxor</name>
+            <uri>https://news.ycombinator.com/user?id=tomxor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何用Hello实例创建Pipy服务]]></title>
         <id>https://news.ycombinator.com/item?id=30667622</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>piemadd</name>
             <uri>https://news.ycombinator.com/user?id=piemadd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌驱动器到SQLite]]></title>
-        <id>https://news.ycombinator.com/item?id=30417411</id>
-        <link href="https://news.ycombinator.com/item?id=30417411"/>
-        <updated>2022-02-21T16:12:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Google Drive to SQLite]]></summary>
-        <author>
-            <name>simonw</name>
-            <uri>https://news.ycombinator.com/user?id=simonw</uri>
         </author>
     </entry>
 </feed>
