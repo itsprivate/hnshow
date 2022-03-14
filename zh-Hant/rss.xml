@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 14 Mar 2022 18:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 19:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我為靜態網站建立了一個開源的虛擬主機平臺]]></title>
+            <link>https://news.ycombinator.com/item?id=30676595</link>
+            <guid>https://news.ycombinator.com/item?id=30676595</guid>
+            <pubDate>Mon, 14 Mar 2022 18:57:20 GMT</pubDate>
+            <description><![CDATA[Show HN: I built an open source web hosting platform for static sites]]></description>
+        </item>
         <item>
             <title><![CDATA[免費在線加密貨幣利潤計算器]]></title>
             <link>https://news.ycombinator.com/item?id=30675855</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30424772</guid>
             <pubDate>Tue, 22 Feb 2022 06:56:24 GMT</pubDate>
             <description><![CDATA[Show HN: Terraform provider and module to manage Nebula Overlay Network member]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Loop_tool的交互式循環優化]]></title>
-            <link>https://news.ycombinator.com/item?id=30423674</link>
-            <guid>https://news.ycombinator.com/item?id=30423674</guid>
-            <pubDate>Tue, 22 Feb 2022 03:23:01 GMT</pubDate>
-            <description><![CDATA[Show HN: Loop_tool's Interactive Loop Optimization]]></description>
         </item>
     </channel>
 </rss>

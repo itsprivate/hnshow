@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-14T18:15:28.974Z</updated>
+    <updated>2022-03-14T19:10:59.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我為靜態網站建立了一個開源的虛擬主機平臺]]></title>
+        <id>https://news.ycombinator.com/item?id=30676595</id>
+        <link href="https://news.ycombinator.com/item?id=30676595"/>
+        <updated>2022-03-14T18:57:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built an open source web hosting platform for static sites]]></summary>
+        <author>
+            <name>symkat</name>
+            <uri>https://news.ycombinator.com/user?id=symkat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[免費在線加密貨幣利潤計算器]]></title>
         <id>https://news.ycombinator.com/item?id=30675855</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rucciva</name>
             <uri>https://news.ycombinator.com/user?id=rucciva</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loop_tool的交互式循環優化]]></title>
-        <id>https://news.ycombinator.com/item?id=30423674</id>
-        <link href="https://news.ycombinator.com/item?id=30423674"/>
-        <updated>2022-02-22T03:23:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Loop_tool's Interactive Loop Optimization]]></summary>
-        <author>
-            <name>brrrrrm</name>
-            <uri>https://news.ycombinator.com/user?id=brrrrrm</uri>
         </author>
     </entry>
 </feed>
