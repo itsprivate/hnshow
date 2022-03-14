@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-13T23:51:39.248Z</updated>
+    <updated>2022-03-14T02:07:26.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何用Hello实例创建Pipy服务]]></title>
+        <id>https://news.ycombinator.com/item?id=30667622</id>
+        <link href="https://news.ycombinator.com/item?id=30667622"/>
+        <updated>2022-03-14T01:39:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How to create Pipy service with hello example]]></summary>
+        <author>
+            <name>pipyproxy</name>
+            <uri>https://news.ycombinator.com/user?id=pipyproxy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用谷歌表格制作的Wordle克隆]]></title>
         <id>https://news.ycombinator.com/item?id=30666936</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>simonw</name>
             <uri>https://news.ycombinator.com/user?id=simonw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[观察者网 - 把你的书签当作看板来组织]]></title>
-        <id>https://news.ycombinator.com/item?id=30417281</id>
-        <link href="https://news.ycombinator.com/item?id=30417281"/>
-        <updated>2022-02-21T15:59:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Net – Organize your bookmarks as Kanban boards]]></summary>
-        <author>
-            <name>kevin_hu</name>
-            <uri>https://news.ycombinator.com/user?id=kevin_hu</uri>
         </author>
     </entry>
 </feed>
