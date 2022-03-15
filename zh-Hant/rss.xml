@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 15 Mar 2022 18:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 18:38:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[WikiNewsFeed - 由維基百科提供的RSS聚合器]]></title>
+            <link>https://news.ycombinator.com/item?id=30689079</link>
+            <guid>https://news.ycombinator.com/item?id=30689079</guid>
+            <pubDate>Tue, 15 Mar 2022 18:31:44 GMT</pubDate>
+            <description><![CDATA[Show HN: WikiNewsFeed – RSS aggregator powered by Wikipedia]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了Devzat - 它就像discord，但在終端，通過SSH。]]></title>
             <link>https://news.ycombinator.com/item?id=30688691</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30435333</guid>
             <pubDate>Tue, 22 Feb 2022 23:27:25 GMT</pubDate>
             <description><![CDATA[Show HN: Life You Deserve – fun activities to 55 in the UK]]></description>
-        </item>
-        <item>
-            <title><![CDATA[KubeArmor - 使用AppArmor的運行時K8s安全性]]></title>
-            <link>https://news.ycombinator.com/item?id=30435145</link>
-            <guid>https://news.ycombinator.com/item?id=30435145</guid>
-            <pubDate>Tue, 22 Feb 2022 23:06:48 GMT</pubDate>
-            <description><![CDATA[Show HN: KubeArmor – runtime K8s security with AppArmor]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-15T18:16:20.477Z</updated>
+    <updated>2022-03-15T18:38:35.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WikiNewsFeed - 由维基百科提供的RSS聚合器]]></title>
+        <id>https://news.ycombinator.com/item?id=30689079</id>
+        <link href="https://news.ycombinator.com/item?id=30689079"/>
+        <updated>2022-03-15T18:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WikiNewsFeed – RSS aggregator powered by Wikipedia]]></summary>
+        <author>
+            <name>ushakov</name>
+            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了Devzat - 它就像discord，但在终端，通过SSH。]]></title>
         <id>https://news.ycombinator.com/item?id=30688691</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sergeigolubev</name>
             <uri>https://news.ycombinator.com/user?id=sergeigolubev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KubeArmor - 使用AppArmor的运行时K8s安全性]]></title>
-        <id>https://news.ycombinator.com/item?id=30435145</id>
-        <link href="https://news.ycombinator.com/item?id=30435145"/>
-        <updated>2022-02-22T23:06:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: KubeArmor – runtime K8s security with AppArmor]]></summary>
-        <author>
-            <name>azifali</name>
-            <uri>https://news.ycombinator.com/user?id=azifali</uri>
         </author>
     </entry>
 </feed>
