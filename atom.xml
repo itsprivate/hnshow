@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-15T19:14:04.065Z</updated>
+    <updated>2022-03-15T19:29:15.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[LemonadeJS 2 Micro(6Kb) Reactive Library。没有Transpile，没有依赖性]]></title>
+        <id>https://news.ycombinator.com/item?id=30689646</id>
+        <link href="https://news.ycombinator.com/item?id=30689646"/>
+        <updated>2022-03-15T19:04:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: LemonadeJS 2 Micro(6Kb) Reactive Library. No Transpile, No Dependencies]]></summary>
+        <author>
+            <name>hodware</name>
+            <uri>https://news.ycombinator.com/user?id=hodware</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社会公益社交网络 - 投标牌]]></title>
         <id>https://news.ycombinator.com/item?id=30689502</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hanseul</name>
             <uri>https://news.ycombinator.com/user?id=hanseul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我已经建立了一个博客平台，Orb - (Open React Blog)]]></title>
-        <id>https://news.ycombinator.com/item?id=30436407</id>
-        <link href="https://news.ycombinator.com/item?id=30436407"/>
-        <updated>2022-02-23T01:30:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I Have Built a Blog Platform, Orb – (Open React Blog)]]></summary>
-        <author>
-            <name>FranP-Code</name>
-            <uri>https://news.ycombinator.com/user?id=FranP-Code</uri>
         </author>
     </entry>
 </feed>
