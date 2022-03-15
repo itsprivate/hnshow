@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-15T13:52:22.280Z</updated>
+    <updated>2022-03-15T14:13:41.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[極客的密碼學益智遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30685281</id>
+        <link href="https://news.ycombinator.com/item?id=30685281"/>
+        <updated>2022-03-15T13:54:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Cryptography Puzzle Game for Geeks]]></summary>
+        <author>
+            <name>turcutudor</name>
+            <uri>https://news.ycombinator.com/user?id=turcutudor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個工具包使得將網頁歸檔到IPFS更容易。]]></title>
         <id>https://news.ycombinator.com/item?id=30685161</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Weidenwalker</name>
             <uri>https://news.ycombinator.com/user?id=Weidenwalker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以RX為重點的Angular組件框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30429910</id>
-        <link href="https://news.ycombinator.com/item?id=30429910"/>
-        <updated>2022-02-22T16:31:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An RX-Focused Component Framework for Angular]]></summary>
-        <author>
-            <name>WorldMaker</name>
-            <uri>https://news.ycombinator.com/user?id=WorldMaker</uri>
         </author>
     </entry>
 </feed>
