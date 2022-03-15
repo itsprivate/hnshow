@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-15T20:51:45.762Z</updated>
+    <updated>2022-03-15T23:13:56.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Goptional，一个我在半小时内制作的围棋选项库]]></title>
+        <id>https://news.ycombinator.com/item?id=30693125</id>
+        <link href="https://news.ycombinator.com/item?id=30693125"/>
+        <updated>2022-03-15T23:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Goptional, an Option library for Go I made in half an hour]]></summary>
+        <author>
+            <name>weakfish</name>
+            <uri>https://news.ycombinator.com/user?id=weakfish</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于共享pprof差异的在线flamegraph查看器]]></title>
         <id>https://news.ycombinator.com/item?id=30691340</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fastball</name>
             <uri>https://news.ycombinator.com/user?id=fastball</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scholars.io - 共同阅读、注释和评论研究论文]]></title>
-        <id>https://news.ycombinator.com/item?id=30439669</id>
-        <link href="https://news.ycombinator.com/item?id=30439669"/>
-        <updated>2022-02-23T10:25:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Scholars.io – Read, annotate and comment on research papers together]]></summary>
-        <author>
-            <name>sideproject</name>
-            <uri>https://news.ycombinator.com/user?id=sideproject</uri>
         </author>
     </entry>
 </feed>

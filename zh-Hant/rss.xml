@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 15 Mar 2022 20:51:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 23:13:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Goptional，一個我在半小時內製作的圍棋選項庫]]></title>
+            <link>https://news.ycombinator.com/item?id=30693125</link>
+            <guid>https://news.ycombinator.com/item?id=30693125</guid>
+            <pubDate>Tue, 15 Mar 2022 23:07:00 GMT</pubDate>
+            <description><![CDATA[Show HN: Goptional, an Option library for Go I made in half an hour]]></description>
+        </item>
         <item>
             <title><![CDATA[用於共享pprof差異的在線flamegraph查看器]]></title>
             <link>https://news.ycombinator.com/item?id=30691340</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30440275</guid>
             <pubDate>Wed, 23 Feb 2022 12:23:59 GMT</pubDate>
             <description><![CDATA[Show HN: Supernotes 2 – a fast, Markdown notes app for journalling and sharing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Scholars.io - 共同閱讀、註釋和評論研究論文]]></title>
-            <link>https://news.ycombinator.com/item?id=30439669</link>
-            <guid>https://news.ycombinator.com/item?id=30439669</guid>
-            <pubDate>Wed, 23 Feb 2022 10:25:18 GMT</pubDate>
-            <description><![CDATA[Show HN: Scholars.io – Read, annotate and comment on research papers together]]></description>
         </item>
     </channel>
 </rss>
