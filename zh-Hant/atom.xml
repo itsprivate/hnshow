@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-15T07:13:21.576Z</updated>
+    <updated>2022-03-15T07:30:35.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Reams，一個深度膚淺的RSS iOS應用，React Native，開源]]></title>
+        <id>https://news.ycombinator.com/item?id=30682504</id>
+        <link href="https://news.ycombinator.com/item?id=30682504"/>
+        <updated>2022-03-15T07:18:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Reams, a deeply superficial RSS iOS app, React Native, open source]]></summary>
+        <author>
+            <name>adamvert</name>
+            <uri>https://news.ycombinator.com/user?id=adamvert</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[mailto HTML屬性的無代碼替代。]]></title>
         <id>https://news.ycombinator.com/item?id=30682412</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>robbiejs</name>
             <uri>https://news.ycombinator.com/user?id=robbiejs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在1頁中學習紅寶石]]></title>
-        <id>https://news.ycombinator.com/item?id=30427237</id>
-        <link href="https://news.ycombinator.com/item?id=30427237"/>
-        <updated>2022-02-22T12:45:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Learn Ruby in 1 Page]]></summary>
-        <author>
-            <name>nomilk</name>
-            <uri>https://news.ycombinator.com/user?id=nomilk</uri>
         </author>
     </entry>
 </feed>

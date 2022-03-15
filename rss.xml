@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 15 Mar 2022 07:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 07:30:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Reams，一个深度肤浅的RSS iOS应用，React Native，开源]]></title>
+            <link>https://news.ycombinator.com/item?id=30682504</link>
+            <guid>https://news.ycombinator.com/item?id=30682504</guid>
+            <pubDate>Tue, 15 Mar 2022 07:18:52 GMT</pubDate>
+            <description><![CDATA[Show HN: Reams, a deeply superficial RSS iOS app, React Native, open source]]></description>
+        </item>
         <item>
             <title><![CDATA[mailto HTML属性的无代码替代。]]></title>
             <link>https://news.ycombinator.com/item?id=30682412</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30427526</guid>
             <pubDate>Tue, 22 Feb 2022 13:17:29 GMT</pubDate>
             <description><![CDATA[Show HN: DataGridXL v2, fastest Excel-like JavaScript Data Grid]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在1页中学习红宝石]]></title>
-            <link>https://news.ycombinator.com/item?id=30427237</link>
-            <guid>https://news.ycombinator.com/item?id=30427237</guid>
-            <pubDate>Tue, 22 Feb 2022 12:45:23 GMT</pubDate>
-            <description><![CDATA[Show HN: Learn Ruby in 1 Page]]></description>
         </item>
     </channel>
 </rss>
