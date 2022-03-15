@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-15T12:17:29.007Z</updated>
+    <updated>2022-03-15T12:54:00.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在.NET 6中播放Zork的Z-Machine]]></title>
+        <id>https://news.ycombinator.com/item?id=30684376</id>
+        <link href="https://news.ycombinator.com/item?id=30684376"/>
+        <updated>2022-03-15T12:19:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Z-Machine to play Zork in .NET 6]]></summary>
+        <author>
+            <name>danjc</name>
+            <uri>https://news.ycombinator.com/user?id=danjc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SwiftBar - 用脚本构建macOS菜单栏应用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30684329</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>binarymax</name>
             <uri>https://news.ycombinator.com/user?id=binarymax</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻找并与其他创业者合作的方式]]></title>
-        <id>https://news.ycombinator.com/item?id=30428057</id>
-        <link href="https://news.ycombinator.com/item?id=30428057"/>
-        <updated>2022-02-22T14:08:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Way to find and collaborate with other entrepreneurs]]></summary>
-        <author>
-            <name>simonpurdon10</name>
-            <uri>https://news.ycombinator.com/user?id=simonpurdon10</uri>
         </author>
     </entry>
 </feed>
