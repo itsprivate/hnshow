@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-15T17:04:55.809Z</updated>
+    <updated>2022-03-15T17:52:30.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[顯示QR算法動態的視頻]]></title>
+        <id>https://news.ycombinator.com/item?id=30688427</id>
+        <link href="https://news.ycombinator.com/item?id=30688427"/>
+        <updated>2022-03-15T17:45:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Video showing the dynamics of the QR algorithm]]></summary>
+        <author>
+            <name>ogogmad</name>
+            <uri>https://news.ycombinator.com/user?id=ogogmad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[免費支付任何發票--即使你的供應商不接受卡。]]></title>
         <id>https://news.ycombinator.com/item?id=30687688</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gk1</name>
             <uri>https://news.ycombinator.com/user?id=gk1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LightningEscrow演示視頻 - Beta V1]]></title>
-        <id>https://news.ycombinator.com/item?id=30432753</id>
-        <link href="https://news.ycombinator.com/item?id=30432753"/>
-        <updated>2022-02-22T19:50:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: LightningEscrow Demo Video – Beta V1]]></summary>
-        <author>
-            <name>TristanMB</name>
-            <uri>https://news.ycombinator.com/user?id=TristanMB</uri>
         </author>
     </entry>
 </feed>
