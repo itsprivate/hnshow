@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-15T19:29:15.224Z</updated>
+    <updated>2022-03-15T19:52:25.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于合成数据的实时AMA正在进行中]]></title>
+        <id>https://news.ycombinator.com/item?id=30690368</id>
+        <link href="https://news.ycombinator.com/item?id=30690368"/>
+        <updated>2022-03-15T19:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Live AMA on Synthetic Data Going on Right Now]]></summary>
+        <author>
+            <name>repeat_or</name>
+            <uri>https://news.ycombinator.com/user?id=repeat_or</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[按主题发现1千份新闻简报，由你来排名]]></title>
+        <id>https://news.ycombinator.com/item?id=30690303</id>
+        <link href="https://news.ycombinator.com/item?id=30690303"/>
+        <updated>2022-03-15T19:36:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Discover 1k newsletters by topic, ranked by you]]></summary>
+        <author>
+            <name>quinto_quarto</name>
+            <uri>https://news.ycombinator.com/user?id=quinto_quarto</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LemonadeJS 2 Micro(6Kb) Reactive Library。没有Transpile，没有依赖性]]></title>
         <id>https://news.ycombinator.com/item?id=30689646</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>printfn__</name>
             <uri>https://news.ycombinator.com/user?id=printfn__</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用增强现实技术与机器人互动（增强机器人性）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30437806</id>
-        <link href="https://news.ycombinator.com/item?id=30437806"/>
-        <updated>2022-02-23T04:53:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Interacting with Robots Using Augmented Reality (Augmented Robotality)]]></summary>
-        <author>
-            <name>mburkon</name>
-            <uri>https://news.ycombinator.com/user?id=mburkon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个记录RGBD视频的iOS应用和一个播放视频的web应用]]></title>
-        <id>https://news.ycombinator.com/item?id=30437257</id>
-        <link href="https://news.ycombinator.com/item?id=30437257"/>
-        <updated>2022-02-23T03:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made an iOS app recording RGBD videos and a webapp playing them]]></summary>
-        <author>
-            <name>hanseul</name>
-            <uri>https://news.ycombinator.com/user?id=hanseul</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 15 Mar 2022 19:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 19:52:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[关于合成数据的实时AMA正在进行中]]></title>
+            <link>https://news.ycombinator.com/item?id=30690368</link>
+            <guid>https://news.ycombinator.com/item?id=30690368</guid>
+            <pubDate>Tue, 15 Mar 2022 19:39:58 GMT</pubDate>
+            <description><![CDATA[Show HN: Live AMA on Synthetic Data Going on Right Now]]></description>
+        </item>
+        <item>
+            <title><![CDATA[按主题发现1千份新闻简报，由你来排名]]></title>
+            <link>https://news.ycombinator.com/item?id=30690303</link>
+            <guid>https://news.ycombinator.com/item?id=30690303</guid>
+            <pubDate>Tue, 15 Mar 2022 19:36:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Discover 1k newsletters by topic, ranked by you]]></description>
+        </item>
         <item>
             <title><![CDATA[LemonadeJS 2 Micro(6Kb) Reactive Library。没有Transpile，没有依赖性]]></title>
             <link>https://news.ycombinator.com/item?id=30689646</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30438646</guid>
             <pubDate>Wed, 23 Feb 2022 07:34:55 GMT</pubDate>
             <description><![CDATA[Show HN: I made an arbitrary-precision unit-aware calculator in Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用增强现实技术与机器人互动（增强机器人性）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30437806</link>
-            <guid>https://news.ycombinator.com/item?id=30437806</guid>
-            <pubDate>Wed, 23 Feb 2022 04:53:39 GMT</pubDate>
-            <description><![CDATA[Show HN: Interacting with Robots Using Augmented Reality (Augmented Robotality)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个记录RGBD视频的iOS应用和一个播放视频的web应用]]></title>
-            <link>https://news.ycombinator.com/item?id=30437257</link>
-            <guid>https://news.ycombinator.com/item?id=30437257</guid>
-            <pubDate>Wed, 23 Feb 2022 03:31:59 GMT</pubDate>
-            <description><![CDATA[Show HN: I made an iOS app recording RGBD videos and a webapp playing them]]></description>
         </item>
     </channel>
 </rss>
