@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-15T19:52:25.739Z</updated>
+    <updated>2022-03-15T20:13:50.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SVG過濾器]]></title>
+        <id>https://news.ycombinator.com/item?id=30690838</id>
+        <link href="https://news.ycombinator.com/item?id=30690838"/>
+        <updated>2022-03-15T20:08:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SVG Filters]]></summary>
+        <author>
+            <name>bradwoodsio</name>
+            <uri>https://news.ycombinator.com/user?id=bradwoodsio</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於合成數據的實時AMA正在進行中]]></title>
         <id>https://news.ycombinator.com/item?id=30690368</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rane</name>
             <uri>https://news.ycombinator.com/user?id=rane</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在Rust中做了一個任意精度的單位感知計算器]]></title>
-        <id>https://news.ycombinator.com/item?id=30438646</id>
-        <link href="https://news.ycombinator.com/item?id=30438646"/>
-        <updated>2022-02-23T07:34:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made an arbitrary-precision unit-aware calculator in Rust]]></summary>
-        <author>
-            <name>printfn__</name>
-            <uri>https://news.ycombinator.com/user?id=printfn__</uri>
         </author>
     </entry>
 </feed>
