@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-15T02:10:09.656Z</updated>
+    <updated>2022-03-15T03:45:40.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的单文件HTML和VueJS网站模板]]></title>
+        <id>https://news.ycombinator.com/item?id=30681409</id>
+        <link href="https://news.ycombinator.com/item?id=30681409"/>
+        <updated>2022-03-15T03:35:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My Single-file HTML and VueJS website template]]></summary>
+        <author>
+            <name>TheGoodBarn</name>
+            <uri>https://news.ycombinator.com/user?id=TheGoodBarn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MakeTime - 一个利用你的日历作为你的阅读待办事项清单的工具]]></title>
         <id>https://news.ycombinator.com/item?id=30680362</id>
@@ -6599,17 +6610,6 @@
         <link href="https://news.ycombinator.com/item?id=30426467"/>
         <updated>2022-02-22T11:12:02.000Z</updated>
         <summary type="html"><![CDATA[Show HN: A Collection of Random Blogs]]></summary>
-        <author>
-            <name>aselvan</name>
-            <uri>https://news.ycombinator.com/user?id=aselvan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一组随机的shell脚本]]></title>
-        <id>https://news.ycombinator.com/item?id=30426397</id>
-        <link href="https://news.ycombinator.com/item?id=30426397"/>
-        <updated>2022-02-22T11:02:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A collection of random shell scripts]]></summary>
         <author>
             <name>aselvan</name>
             <uri>https://news.ycombinator.com/user?id=aselvan</uri>
