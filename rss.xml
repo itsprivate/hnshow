@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 15 Mar 2022 20:13:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 20:33:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Sortes Alearum - 一个古罗马骰子神谕的网络模拟器]]></title>
+            <link>https://news.ycombinator.com/item?id=30690866</link>
+            <guid>https://news.ycombinator.com/item?id=30690866</guid>
+            <pubDate>Tue, 15 Mar 2022 20:10:48 GMT</pubDate>
+            <description><![CDATA[Show HN: Sortes Alearum – a web emulator for an ancient Roman dice oracle]]></description>
+        </item>
         <item>
             <title><![CDATA[SVG过滤器]]></title>
             <link>https://news.ycombinator.com/item?id=30690838</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30439527</guid>
             <pubDate>Wed, 23 Feb 2022 10:00:54 GMT</pubDate>
             <description><![CDATA[Show HN: Track and analyze your net worth with WorthTracker]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个用于观察JSON数据的新项目的CLI工具]]></title>
-            <link>https://news.ycombinator.com/item?id=30438677</link>
-            <guid>https://news.ycombinator.com/item?id=30438677</guid>
-            <pubDate>Wed, 23 Feb 2022 07:41:31 GMT</pubDate>
-            <description><![CDATA[Show HN: A CLI tool for watching JSON data for new items]]></description>
         </item>
     </channel>
 </rss>
