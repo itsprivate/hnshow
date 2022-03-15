@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 15 Mar 2022 05:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 07:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[mailto HTML屬性的無代碼替代。]]></title>
+            <link>https://news.ycombinator.com/item?id=30682412</link>
+            <guid>https://news.ycombinator.com/item?id=30682412</guid>
+            <pubDate>Tue, 15 Mar 2022 07:00:46 GMT</pubDate>
+            <description><![CDATA[Show HN: A no-code replacement for the mailto HTML attribute]]></description>
+        </item>
         <item>
             <title><![CDATA[時鐘應用--查看你關心的地方的時間和天氣]]></title>
             <link>https://news.ycombinator.com/item?id=30681897</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30427237</guid>
             <pubDate>Tue, 22 Feb 2022 12:45:23 GMT</pubDate>
             <description><![CDATA[Show HN: Learn Ruby in 1 Page]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Esolang Park，一個針對esolangs的在線可視化調試器。]]></title>
-            <link>https://news.ycombinator.com/item?id=30426838</link>
-            <guid>https://news.ycombinator.com/item?id=30426838</guid>
-            <pubDate>Tue, 22 Feb 2022 12:03:44 GMT</pubDate>
-            <description><![CDATA[Show HN: Esolang Park, an online visual debugger for esolangs]]></description>
         </item>
     </channel>
 </rss>
