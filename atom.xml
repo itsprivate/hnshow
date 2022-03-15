@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-15T14:53:00.651Z</updated>
+    <updated>2022-03-15T15:14:57.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你会使用的个人知识应用程序 - Nolific v0.3.0]]></title>
+        <id>https://news.ycombinator.com/item?id=30686179</id>
+        <link href="https://news.ycombinator.com/item?id=30686179"/>
+        <updated>2022-03-15T15:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The personal knowledge app you'll use – Nolific v0.3.0]]></summary>
+        <author>
+            <name>codazoda</name>
+            <uri>https://news.ycombinator.com/user?id=codazoda</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[myfaveTT - 从TikTok下载你所有的[喜欢的]视频，以便安全保存]]></title>
         <id>https://news.ycombinator.com/item?id=30685938</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pimterry</name>
             <uri>https://news.ycombinator.com/user?id=pimterry</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简化YouTube主页]]></title>
-        <id>https://news.ycombinator.com/item?id=30430254</id>
-        <link href="https://news.ycombinator.com/item?id=30430254"/>
-        <updated>2022-02-22T16:53:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Simplify the YouTube Homepage]]></summary>
-        <author>
-            <name>jeanmayer</name>
-            <uri>https://news.ycombinator.com/user?id=jeanmayer</uri>
         </author>
     </entry>
 </feed>
