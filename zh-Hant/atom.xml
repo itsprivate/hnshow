@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-15T15:51:39.966Z</updated>
+    <updated>2022-03-15T16:17:24.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個新的LLVM優化通道，積極地減少WebAssembly的大小]]></title>
+        <id>https://news.ycombinator.com/item?id=30686919</id>
+        <link href="https://news.ycombinator.com/item?id=30686919"/>
+        <updated>2022-03-15T15:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A new LLVM optimization pass that aggressively reduces WebAssembly size]]></summary>
+        <author>
+            <name>apignotti</name>
+            <uri>https://news.ycombinator.com/user?id=apignotti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新的React Flow版本有許多新功能]]></title>
         <id>https://news.ycombinator.com/item?id=30686759</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>djyde</name>
             <uri>https://news.ycombinator.com/user?id=djyde</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Flutter製作的Hacker News閱讀器]]></title>
-        <id>https://news.ycombinator.com/item?id=30431609</id>
-        <link href="https://news.ycombinator.com/item?id=30431609"/>
-        <updated>2022-02-22T18:33:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hacker News reader made with Flutter]]></summary>
-        <author>
-            <name>livinglist</name>
-            <uri>https://news.ycombinator.com/user?id=livinglist</uri>
         </author>
     </entry>
 </feed>
