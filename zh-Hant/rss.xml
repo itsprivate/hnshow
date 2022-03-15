@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 15 Mar 2022 07:30:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 12:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[SwiftBar - 用腳本構建macOS菜單欄應用程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30684329</link>
+            <guid>https://news.ycombinator.com/item?id=30684329</guid>
+            <pubDate>Tue, 15 Mar 2022 12:12:01 GMT</pubDate>
+            <description><![CDATA[Show HN: SwiftBar – build macOS menu bar apps with scripts]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Cosigneth：以太坊上的容器圖像簽名和驗證 [Testnet]]]></title>
+            <link>https://news.ycombinator.com/item?id=30684267</link>
+            <guid>https://news.ycombinator.com/item?id=30684267</guid>
+            <pubDate>Tue, 15 Mar 2022 12:00:54 GMT</pubDate>
+            <description><![CDATA[Show HN: Cosigneth: Container Image Signing and Verifying on Ethereum [Testnet]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Vim參考指南]]></title>
+            <link>https://news.ycombinator.com/item?id=30684232</link>
+            <guid>https://news.ycombinator.com/item?id=30684232</guid>
+            <pubDate>Tue, 15 Mar 2022 11:56:17 GMT</pubDate>
+            <description><![CDATA[Show HN: Vim Reference Guide]]></description>
+        </item>
         <item>
             <title><![CDATA[Reams，一個深度膚淺的RSS iOS應用，React Native，開源]]></title>
             <link>https://news.ycombinator.com/item?id=30682504</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30428057</guid>
             <pubDate>Tue, 22 Feb 2022 14:08:37 GMT</pubDate>
             <description><![CDATA[Show HN: Way to find and collaborate with other entrepreneurs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Acapela - 在一個收件箱中的所有工作通知]]></title>
-            <link>https://news.ycombinator.com/item?id=30427930</link>
-            <guid>https://news.ycombinator.com/item?id=30427930</guid>
-            <pubDate>Tue, 22 Feb 2022 13:57:03 GMT</pubDate>
-            <description><![CDATA[Show HN: Acapela – all work notifications in one inbox]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DevSecOps Playbook--一步步指導構建更安全的應用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30427887</link>
-            <guid>https://news.ycombinator.com/item?id=30427887</guid>
-            <pubDate>Tue, 22 Feb 2022 13:52:57 GMT</pubDate>
-            <description><![CDATA[Show HN: DevSecOps Playbook – step by step guide to building more secure apps]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DataGridXL v2，最快的類似Excel的JavaScript數據網格]]></title>
-            <link>https://news.ycombinator.com/item?id=30427526</link>
-            <guid>https://news.ycombinator.com/item?id=30427526</guid>
-            <pubDate>Tue, 22 Feb 2022 13:17:29 GMT</pubDate>
-            <description><![CDATA[Show HN: DataGridXL v2, fastest Excel-like JavaScript Data Grid]]></description>
         </item>
     </channel>
 </rss>
