@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 15 Mar 2022 17:52:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 18:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了Devzat - 它就像discord，但在终端，通过SSH。]]></title>
+            <link>https://news.ycombinator.com/item?id=30688691</link>
+            <guid>https://news.ycombinator.com/item?id=30688691</guid>
+            <pubDate>Tue, 15 Mar 2022 18:02:45 GMT</pubDate>
+            <description><![CDATA[Show HN: I made Devzat – It's like discord but in the terminal, over SSH]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Dakka - 测试用户界面的现代方法]]></title>
+            <link>https://news.ycombinator.com/item?id=30688643</link>
+            <guid>https://news.ycombinator.com/item?id=30688643</guid>
+            <pubDate>Tue, 15 Mar 2022 18:00:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Dakka – modern way to test the UI]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Rust编写的快速子域枚举器]]></title>
+            <link>https://news.ycombinator.com/item?id=30688516</link>
+            <guid>https://news.ycombinator.com/item?id=30688516</guid>
+            <pubDate>Tue, 15 Mar 2022 17:51:25 GMT</pubDate>
+            <description><![CDATA[Show HN: Fast subdomain enumerator written in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[显示QR算法动态的视频]]></title>
             <link>https://news.ycombinator.com/item?id=30688427</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30435145</guid>
             <pubDate>Tue, 22 Feb 2022 23:06:48 GMT</pubDate>
             <description><![CDATA[Show HN: KubeArmor – runtime K8s security with AppArmor]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Up4 - 围绕工作与朋友制定计划]]></title>
-            <link>https://news.ycombinator.com/item?id=30433536</link>
-            <guid>https://news.ycombinator.com/item?id=30433536</guid>
-            <pubDate>Tue, 22 Feb 2022 20:48:24 GMT</pubDate>
-            <description><![CDATA[Show HN: Up4 – make plans with friends around work]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个工具来创建最好的产品教程]]></title>
-            <link>https://news.ycombinator.com/item?id=30433145</link>
-            <guid>https://news.ycombinator.com/item?id=30433145</guid>
-            <pubDate>Tue, 22 Feb 2022 20:20:33 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a tool to create the best product tutorials]]></description>
-        </item>
-        <item>
-            <title><![CDATA[流行的ML框架的语义问题回答]]></title>
-            <link>https://news.ycombinator.com/item?id=30432848</link>
-            <guid>https://news.ycombinator.com/item?id=30432848</guid>
-            <pubDate>Tue, 22 Feb 2022 19:58:18 GMT</pubDate>
-            <description><![CDATA[Show HN: Semantic question-answering for popular ML frameworks]]></description>
         </item>
     </channel>
 </rss>

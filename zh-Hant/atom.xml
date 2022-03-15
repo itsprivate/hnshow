@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-15T17:52:30.175Z</updated>
+    <updated>2022-03-15T18:16:20.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了Devzat - 它就像discord，但在終端，通過SSH。]]></title>
+        <id>https://news.ycombinator.com/item?id=30688691</id>
+        <link href="https://news.ycombinator.com/item?id=30688691"/>
+        <updated>2022-03-15T18:02:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made Devzat – It's like discord but in the terminal, over SSH]]></summary>
+        <author>
+            <name>quackduck</name>
+            <uri>https://news.ycombinator.com/user?id=quackduck</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dakka - 測試用戶界面的現代方法]]></title>
+        <id>https://news.ycombinator.com/item?id=30688643</id>
+        <link href="https://news.ycombinator.com/item?id=30688643"/>
+        <updated>2022-03-15T18:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dakka – modern way to test the UI]]></summary>
+        <author>
+            <name>denysm</name>
+            <uri>https://news.ycombinator.com/user?id=denysm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Rust編寫的快速子域枚舉器]]></title>
+        <id>https://news.ycombinator.com/item?id=30688516</id>
+        <link href="https://news.ycombinator.com/item?id=30688516"/>
+        <updated>2022-03-15T17:51:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fast subdomain enumerator written in Rust]]></summary>
+        <author>
+            <name>chockchocschoir</name>
+            <uri>https://news.ycombinator.com/user?id=chockchocschoir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[顯示QR算法動態的視頻]]></title>
         <id>https://news.ycombinator.com/item?id=30688427</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>azifali</name>
             <uri>https://news.ycombinator.com/user?id=azifali</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Up4 - 圍繞工作與朋友制定計劃]]></title>
-        <id>https://news.ycombinator.com/item?id=30433536</id>
-        <link href="https://news.ycombinator.com/item?id=30433536"/>
-        <updated>2022-02-22T20:48:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Up4 – make plans with friends around work]]></summary>
-        <author>
-            <name>up4</name>
-            <uri>https://news.ycombinator.com/user?id=up4</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個工具來創建最好的產品教程]]></title>
-        <id>https://news.ycombinator.com/item?id=30433145</id>
-        <link href="https://news.ycombinator.com/item?id=30433145"/>
-        <updated>2022-02-22T20:20:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a tool to create the best product tutorials]]></summary>
-        <author>
-            <name>Outofthebot</name>
-            <uri>https://news.ycombinator.com/user?id=Outofthebot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[流行的ML框架的語義問題回答]]></title>
-        <id>https://news.ycombinator.com/item?id=30432848</id>
-        <link href="https://news.ycombinator.com/item?id=30432848"/>
-        <updated>2022-02-22T19:58:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Semantic question-answering for popular ML frameworks]]></summary>
-        <author>
-            <name>gk1</name>
-            <uri>https://news.ycombinator.com/user?id=gk1</uri>
         </author>
     </entry>
 </feed>
