@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-14T22:34:24.008Z</updated>
+    <updated>2022-03-15T02:10:09.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MakeTime - 一个利用你的日历作为你的阅读待办事项清单的工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30680362</id>
+        <link href="https://news.ycombinator.com/item?id=30680362"/>
+        <updated>2022-03-15T00:36:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MakeTime – A tool to leverage your calendar as your reading to-do list]]></summary>
+        <author>
+            <name>rpatni</name>
+            <uri>https://news.ycombinator.com/user?id=rpatni</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[npm 安装 actual-malware]]></title>
         <id>https://news.ycombinator.com/item?id=30679098</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aselvan</name>
             <uri>https://news.ycombinator.com/user?id=aselvan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[列出了80多家从欧洲招聘人才的远程公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30425855</id>
-        <link href="https://news.ycombinator.com/item?id=30425855"/>
-        <updated>2022-02-22T09:42:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Listed over 80 remote companies hiring talents from Europe]]></summary>
-        <author>
-            <name>rafalbel</name>
-            <uri>https://news.ycombinator.com/user?id=rafalbel</uri>
         </author>
     </entry>
 </feed>
