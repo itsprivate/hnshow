@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-15T15:35:05.499Z</updated>
+    <updated>2022-03-15T15:51:39.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新的React Flow版本有許多新功能]]></title>
+        <id>https://news.ycombinator.com/item?id=30686759</id>
+        <link href="https://news.ycombinator.com/item?id=30686759"/>
+        <updated>2022-03-15T15:45:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: New React Flow version with many new features]]></summary>
+        <author>
+            <name>moklick</name>
+            <uri>https://news.ycombinator.com/user?id=moklick</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用動態UTM標籤和JavaScript簡化你的漏斗分析]]></title>
         <id>https://news.ycombinator.com/item?id=30686456</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>livinglist</name>
             <uri>https://news.ycombinator.com/user?id=livinglist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用漢密爾頓擴展數據流]]></title>
-        <id>https://news.ycombinator.com/item?id=30431589</id>
-        <link href="https://news.ycombinator.com/item?id=30431589"/>
-        <updated>2022-02-22T18:31:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Scaling Dataflows with Hamilton]]></summary>
-        <author>
-            <name>mlplat</name>
-            <uri>https://news.ycombinator.com/user?id=mlplat</uri>
         </author>
     </entry>
 </feed>

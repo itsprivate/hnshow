@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 15 Mar 2022 15:35:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 15:51:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[新的React Flow版本有許多新功能]]></title>
+            <link>https://news.ycombinator.com/item?id=30686759</link>
+            <guid>https://news.ycombinator.com/item?id=30686759</guid>
+            <pubDate>Tue, 15 Mar 2022 15:45:45 GMT</pubDate>
+            <description><![CDATA[Show HN: New React Flow version with many new features]]></description>
+        </item>
         <item>
             <title><![CDATA[用動態UTM標籤和JavaScript簡化你的漏斗分析]]></title>
             <link>https://news.ycombinator.com/item?id=30686456</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30431609</guid>
             <pubDate>Tue, 22 Feb 2022 18:33:03 GMT</pubDate>
             <description><![CDATA[Show HN: Hacker News reader made with Flutter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用漢密爾頓擴展數據流]]></title>
-            <link>https://news.ycombinator.com/item?id=30431589</link>
-            <guid>https://news.ycombinator.com/item?id=30431589</guid>
-            <pubDate>Tue, 22 Feb 2022 18:31:48 GMT</pubDate>
-            <description><![CDATA[Show HN: Scaling Dataflows with Hamilton]]></description>
         </item>
     </channel>
 </rss>
