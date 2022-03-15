@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-15T13:21:46.993Z</updated>
+    <updated>2022-03-15T13:52:22.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個工具包使得將網頁歸檔到IPFS更容易。]]></title>
+        <id>https://news.ycombinator.com/item?id=30685161</id>
+        <link href="https://news.ycombinator.com/item?id=30685161"/>
+        <updated>2022-03-15T13:44:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A toolkit makes it easier to archive webpages to IPFS]]></summary>
+        <author>
+            <name>wabarc</name>
+            <uri>https://news.ycombinator.com/user?id=wabarc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PlotAPI，實現美麗的交互式可視化]]></title>
         <id>https://news.ycombinator.com/item?id=30684686</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>WorldMaker</name>
             <uri>https://news.ycombinator.com/user?id=WorldMaker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從API調用中自動生成單元測試（帶模擬）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30429375</id>
-        <link href="https://news.ycombinator.com/item?id=30429375"/>
-        <updated>2022-02-22T15:51:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Auto-generate unit tests (with mocks) from API calls]]></summary>
-        <author>
-            <name>slayerjain</name>
-            <uri>https://news.ycombinator.com/user?id=slayerjain</uri>
         </author>
     </entry>
 </feed>
