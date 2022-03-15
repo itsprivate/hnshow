@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 15 Mar 2022 15:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 15:35:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用動態UTM標籤和JavaScript簡化你的漏斗分析]]></title>
+            <link>https://news.ycombinator.com/item?id=30686456</link>
+            <guid>https://news.ycombinator.com/item?id=30686456</guid>
+            <pubDate>Tue, 15 Mar 2022 15:24:22 GMT</pubDate>
+            <description><![CDATA[Show HN: Streamline Your Funnel Analytics with Dynamic UTM Tags and JavaScript]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我寫了一本關於使用Kotlin來追蹤你的淨資產的電子書]]></title>
+            <link>https://news.ycombinator.com/item?id=30686388</link>
+            <guid>https://news.ycombinator.com/item?id=30686388</guid>
+            <pubDate>Tue, 15 Mar 2022 15:18:23 GMT</pubDate>
+            <description><![CDATA[Show HN: I wrote an eBook about using Kotlin to track your net worth]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Zipy--通過會話回放和監控來即時調試網絡應用程序。]]></title>
+            <link>https://news.ycombinator.com/item?id=30686278</link>
+            <guid>https://news.ycombinator.com/item?id=30686278</guid>
+            <pubDate>Tue, 15 Mar 2022 15:09:38 GMT</pubDate>
+            <description><![CDATA[Show HN: Zipy- Debug webapps instantly with session replay and monitoring in one]]></description>
+        </item>
         <item>
             <title><![CDATA[你會使用的個人知識應用程序 - Nolific v0.3.0]]></title>
             <link>https://news.ycombinator.com/item?id=30686179</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30431589</guid>
             <pubDate>Tue, 22 Feb 2022 18:31:48 GMT</pubDate>
             <description><![CDATA[Show HN: Scaling Dataflows with Hamilton]]></description>
-        </item>
-        <item>
-            <title><![CDATA[保持你的書籤乾淨和最新]]></title>
-            <link>https://news.ycombinator.com/item?id=30431556</link>
-            <guid>https://news.ycombinator.com/item?id=30431556</guid>
-            <pubDate>Tue, 22 Feb 2022 18:29:51 GMT</pubDate>
-            <description><![CDATA[Show HN: Keep your bookmarks clean and up-to-date]]></description>
-        </item>
-        <item>
-            <title><![CDATA[殘酷的報告--當天頭條的滾動快照]]></title>
-            <link>https://news.ycombinator.com/item?id=30430752</link>
-            <guid>https://news.ycombinator.com/item?id=30430752</guid>
-            <pubDate>Tue, 22 Feb 2022 17:30:44 GMT</pubDate>
-            <description><![CDATA[Show HN: The Brutalist Report – A rolling snapshot of the day’s headlines]]></description>
-        </item>
-        <item>
-            <title><![CDATA[狀態頁 狀態頁]]></title>
-            <link>https://news.ycombinator.com/item?id=30430325</link>
-            <guid>https://news.ycombinator.com/item?id=30430325</guid>
-            <pubDate>Tue, 22 Feb 2022 16:58:13 GMT</pubDate>
-            <description><![CDATA[Show HN: The Status Page Status Page]]></description>
         </item>
     </channel>
 </rss>

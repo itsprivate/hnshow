@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-15T15:14:57.718Z</updated>
+    <updated>2022-03-15T15:35:05.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用動態UTM標籤和JavaScript簡化你的漏斗分析]]></title>
+        <id>https://news.ycombinator.com/item?id=30686456</id>
+        <link href="https://news.ycombinator.com/item?id=30686456"/>
+        <updated>2022-03-15T15:24:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Streamline Your Funnel Analytics with Dynamic UTM Tags and JavaScript]]></summary>
+        <author>
+            <name>chrismore</name>
+            <uri>https://news.ycombinator.com/user?id=chrismore</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我寫了一本關於使用Kotlin來追蹤你的淨資產的電子書]]></title>
+        <id>https://news.ycombinator.com/item?id=30686388</id>
+        <link href="https://news.ycombinator.com/item?id=30686388"/>
+        <updated>2022-03-15T15:18:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I wrote an eBook about using Kotlin to track your net worth]]></summary>
+        <author>
+            <name>scastiel</name>
+            <uri>https://news.ycombinator.com/user?id=scastiel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zipy--通過會話回放和監控來即時調試網絡應用程序。]]></title>
+        <id>https://news.ycombinator.com/item?id=30686278</id>
+        <link href="https://news.ycombinator.com/item?id=30686278"/>
+        <updated>2022-03-15T15:09:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Zipy- Debug webapps instantly with session replay and monitoring in one]]></summary>
+        <author>
+            <name>msnkarthik</name>
+            <uri>https://news.ycombinator.com/user?id=msnkarthik</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你會使用的個人知識應用程序 - Nolific v0.3.0]]></title>
         <id>https://news.ycombinator.com/item?id=30686179</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>mlplat</name>
             <uri>https://news.ycombinator.com/user?id=mlplat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保持你的書籤乾淨和最新]]></title>
-        <id>https://news.ycombinator.com/item?id=30431556</id>
-        <link href="https://news.ycombinator.com/item?id=30431556"/>
-        <updated>2022-02-22T18:29:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Keep your bookmarks clean and up-to-date]]></summary>
-        <author>
-            <name>neiman1</name>
-            <uri>https://news.ycombinator.com/user?id=neiman1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[殘酷的報告--當天頭條的滾動快照]]></title>
-        <id>https://news.ycombinator.com/item?id=30430752</id>
-        <link href="https://news.ycombinator.com/item?id=30430752"/>
-        <updated>2022-02-22T17:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The Brutalist Report – A rolling snapshot of the day’s headlines]]></summary>
-        <author>
-            <name>cylo</name>
-            <uri>https://news.ycombinator.com/user?id=cylo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[狀態頁 狀態頁]]></title>
-        <id>https://news.ycombinator.com/item?id=30430325</id>
-        <link href="https://news.ycombinator.com/item?id=30430325"/>
-        <updated>2022-02-22T16:58:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The Status Page Status Page]]></summary>
-        <author>
-            <name>pimterry</name>
-            <uri>https://news.ycombinator.com/user?id=pimterry</uri>
         </author>
     </entry>
 </feed>
