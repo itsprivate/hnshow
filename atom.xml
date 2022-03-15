@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-15T12:54:00.069Z</updated>
+    <updated>2022-03-15T13:21:46.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PlotAPI，实现美丽的交互式可视化]]></title>
+        <id>https://news.ycombinator.com/item?id=30684686</id>
+        <link href="https://news.ycombinator.com/item?id=30684686"/>
+        <updated>2022-03-15T13:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PlotAPI, enabling beautiful interactive visualisations]]></summary>
+        <author>
+            <name>DataCrayon</name>
+            <uri>https://news.ycombinator.com/user?id=DataCrayon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[买/卖数字资源，如软件许可证和技术平台]]></title>
+        <id>https://news.ycombinator.com/item?id=30684646</id>
+        <link href="https://news.ycombinator.com/item?id=30684646"/>
+        <updated>2022-03-15T12:56:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Buy/Sell digital resources like Software Licenses and Tech platforms]]></summary>
+        <author>
+            <name>akshayg7</name>
+            <uri>https://news.ycombinator.com/user?id=akshayg7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在.NET 6中播放Zork的Z-Machine]]></title>
         <id>https://news.ycombinator.com/item?id=30684376</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>slayerjain</name>
             <uri>https://news.ycombinator.com/user?id=slayerjain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Constructor - 小型团队的简单问题跟踪，灵感来自Trello]]></title>
-        <id>https://news.ycombinator.com/item?id=30428996</id>
-        <link href="https://news.ycombinator.com/item?id=30428996"/>
-        <updated>2022-02-22T15:20:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Constructor – simple issue tracking for small teams, inspired by Trello]]></summary>
-        <author>
-            <name>t3e</name>
-            <uri>https://news.ycombinator.com/user?id=t3e</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[强大的推理服务器]]></title>
-        <id>https://news.ycombinator.com/item?id=30428664</id>
-        <link href="https://news.ycombinator.com/item?id=30428664"/>
-        <updated>2022-02-22T14:56:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mighty Inference Server]]></summary>
-        <author>
-            <name>binarymax</name>
-            <uri>https://news.ycombinator.com/user?id=binarymax</uri>
         </author>
     </entry>
 </feed>

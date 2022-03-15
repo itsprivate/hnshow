@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 15 Mar 2022 12:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 13:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[PlotAPI，实现美丽的交互式可视化]]></title>
+            <link>https://news.ycombinator.com/item?id=30684686</link>
+            <guid>https://news.ycombinator.com/item?id=30684686</guid>
+            <pubDate>Tue, 15 Mar 2022 13:00:18 GMT</pubDate>
+            <description><![CDATA[Show HN: PlotAPI, enabling beautiful interactive visualisations]]></description>
+        </item>
+        <item>
+            <title><![CDATA[买/卖数字资源，如软件许可证和技术平台]]></title>
+            <link>https://news.ycombinator.com/item?id=30684646</link>
+            <guid>https://news.ycombinator.com/item?id=30684646</guid>
+            <pubDate>Tue, 15 Mar 2022 12:56:37 GMT</pubDate>
+            <description><![CDATA[Show HN: Buy/Sell digital resources like Software Licenses and Tech platforms]]></description>
+        </item>
         <item>
             <title><![CDATA[在.NET 6中播放Zork的Z-Machine]]></title>
             <link>https://news.ycombinator.com/item?id=30684376</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30429375</guid>
             <pubDate>Tue, 22 Feb 2022 15:51:10 GMT</pubDate>
             <description><![CDATA[Show HN: Auto-generate unit tests (with mocks) from API calls]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Constructor - 小型团队的简单问题跟踪，灵感来自Trello]]></title>
-            <link>https://news.ycombinator.com/item?id=30428996</link>
-            <guid>https://news.ycombinator.com/item?id=30428996</guid>
-            <pubDate>Tue, 22 Feb 2022 15:20:42 GMT</pubDate>
-            <description><![CDATA[Show HN: Constructor – simple issue tracking for small teams, inspired by Trello]]></description>
-        </item>
-        <item>
-            <title><![CDATA[强大的推理服务器]]></title>
-            <link>https://news.ycombinator.com/item?id=30428664</link>
-            <guid>https://news.ycombinator.com/item?id=30428664</guid>
-            <pubDate>Tue, 22 Feb 2022 14:56:48 GMT</pubDate>
-            <description><![CDATA[Show HN: Mighty Inference Server]]></description>
         </item>
     </channel>
 </rss>
