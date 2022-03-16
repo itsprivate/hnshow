@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-16T07:12:25.682Z</updated>
+    <updated>2022-03-16T07:31:53.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[抛出--匿名提问和回答问题的新空间]]></title>
+        <id>https://news.ycombinator.com/item?id=30696124</id>
+        <link href="https://news.ycombinator.com/item?id=30696124"/>
+        <updated>2022-03-16T07:16:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Throw – The new space for asking and answering questions anonymously]]></summary>
+        <author>
+            <name>luisamodio</name>
+            <uri>https://news.ycombinator.com/user?id=luisamodio</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我已经为Swift创建了一个新的Twitter API库]]></title>
         <id>https://news.ycombinator.com/item?id=30696027</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>georgewsinger</name>
             <uri>https://news.ycombinator.com/user?id=georgewsinger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pipy - 用于云、边缘和物联网的可编程网络代理]]></title>
-        <id>https://news.ycombinator.com/item?id=30439995</id>
-        <link href="https://news.ycombinator.com/item?id=30439995"/>
-        <updated>2022-02-23T11:28:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pipy – A Programmable network proxy for cloud, edge, and IoT]]></summary>
-        <author>
-            <name>shaderx13</name>
-            <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
         </author>
     </entry>
 </feed>
