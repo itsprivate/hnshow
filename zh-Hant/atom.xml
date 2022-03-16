@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-16T16:23:51.396Z</updated>
+    <updated>2022-03-16T19:06:50.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[輕鬆地管理你的投資]]></title>
+        <id>https://news.ycombinator.com/item?id=30701762</id>
+        <link href="https://news.ycombinator.com/item?id=30701762"/>
+        <updated>2022-03-16T17:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Manage Your Investments with Ease]]></summary>
+        <author>
+            <name>perryogwuche</name>
+            <uri>https://news.ycombinator.com/user?id=perryogwuche</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sqljson - 使用Go泛型，輕鬆地將Go結構作為JSON使用，並使用SQL。]]></title>
+        <id>https://news.ycombinator.com/item?id=30701608</id>
+        <link href="https://news.ycombinator.com/item?id=30701608"/>
+        <updated>2022-03-16T17:28:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: sqljson – Using Go generics, easily use Go structs as JSONs with SQL]]></summary>
+        <author>
+            <name>orisho</name>
+            <uri>https://news.ycombinator.com/user?id=orisho</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個具有加密持久性和自動備份功能的內存KV存儲器]]></title>
+        <id>https://news.ycombinator.com/item?id=30701458</id>
+        <link href="https://news.ycombinator.com/item?id=30701458"/>
+        <updated>2022-03-16T17:15:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An in memory KV store with encrypted persistence and automatic backups]]></summary>
+        <author>
+            <name>asadawadia</name>
+            <uri>https://news.ycombinator.com/user?id=asadawadia</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開源的Terraform HCL檢查器 - ValidIaC]]></title>
+        <id>https://news.ycombinator.com/item?id=30701378</id>
+        <link href="https://news.ycombinator.com/item?id=30701378"/>
+        <updated>2022-03-16T17:07:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An Open Source Terraform HCL Checker – ValidIaC]]></summary>
+        <author>
+            <name>sefi-infralight</name>
+            <uri>https://news.ycombinator.com/user?id=sefi-infralight</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公民--事業的在線樞紐]]></title>
+        <id>https://news.ycombinator.com/item?id=30701377</id>
+        <link href="https://news.ycombinator.com/item?id=30701377"/>
+        <updated>2022-03-16T17:07:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Civic – Online Hub for Causes]]></summary>
+        <author>
+            <name>mab477</name>
+            <uri>https://news.ycombinator.com/user?id=mab477</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[內容區塊網站組件設計系統]]></title>
         <id>https://news.ycombinator.com/item?id=30700459</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>serverlessmom</name>
             <uri>https://news.ycombinator.com/user?id=serverlessmom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SuperFocus for YouTube - 隱藏YouTube上的分心元素]]></title>
-        <id>https://news.ycombinator.com/item?id=30443583</id>
-        <link href="https://news.ycombinator.com/item?id=30443583"/>
-        <updated>2022-02-23T17:23:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: SuperFocus for YouTube – hide distracting elements on YouTube]]></summary>
-        <author>
-            <name>anilshanbhag</name>
-            <uri>https://news.ycombinator.com/user?id=anilshanbhag</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[簡歷/CV關鍵詞掃描器--你的分數是多少？]]></title>
-        <id>https://news.ycombinator.com/item?id=30443547</id>
-        <link href="https://news.ycombinator.com/item?id=30443547"/>
-        <updated>2022-02-23T17:20:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Resume/CV Keyword Scanner – What's Your Score?]]></summary>
-        <author>
-            <name>sebcarbon</name>
-            <uri>https://news.ycombinator.com/user?id=sebcarbon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我分析了世界各地遠程工作的薪酬差異]]></title>
-        <id>https://news.ycombinator.com/item?id=30443524</id>
-        <link href="https://news.ycombinator.com/item?id=30443524"/>
-        <updated>2022-02-23T17:18:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I analyzed differences in remote work salaries worldwide]]></summary>
-        <author>
-            <name>pieterhg</name>
-            <uri>https://news.ycombinator.com/user?id=pieterhg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扁平化、解耦的計算和存儲數據庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30443425</id>
-        <link href="https://news.ycombinator.com/item?id=30443425"/>
-        <updated>2022-02-23T17:11:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Flatsauce, decoupled compute and storage database]]></summary>
-        <author>
-            <name>soheil</name>
-            <uri>https://news.ycombinator.com/user?id=soheil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hey Cadence - 為您的投資組合提供每日音頻TLDR新聞]]></title>
-        <id>https://news.ycombinator.com/item?id=30443320</id>
-        <link href="https://news.ycombinator.com/item?id=30443320"/>
-        <updated>2022-02-23T17:05:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hey Cadence – Daily Audio TLDR News for Your Portfolio]]></summary>
-        <author>
-            <name>danofmars</name>
-            <uri>https://news.ycombinator.com/user?id=danofmars</uri>
         </author>
     </entry>
 </feed>

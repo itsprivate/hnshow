@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 16 Mar 2022 16:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 19:06:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[輕鬆地管理你的投資]]></title>
+            <link>https://news.ycombinator.com/item?id=30701762</link>
+            <guid>https://news.ycombinator.com/item?id=30701762</guid>
+            <pubDate>Wed, 16 Mar 2022 17:42:45 GMT</pubDate>
+            <description><![CDATA[Show HN: Manage Your Investments with Ease]]></description>
+        </item>
+        <item>
+            <title><![CDATA[sqljson - 使用Go泛型，輕鬆地將Go結構作為JSON使用，並使用SQL。]]></title>
+            <link>https://news.ycombinator.com/item?id=30701608</link>
+            <guid>https://news.ycombinator.com/item?id=30701608</guid>
+            <pubDate>Wed, 16 Mar 2022 17:28:34 GMT</pubDate>
+            <description><![CDATA[Show HN: sqljson – Using Go generics, easily use Go structs as JSONs with SQL]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個具有加密持久性和自動備份功能的內存KV存儲器]]></title>
+            <link>https://news.ycombinator.com/item?id=30701458</link>
+            <guid>https://news.ycombinator.com/item?id=30701458</guid>
+            <pubDate>Wed, 16 Mar 2022 17:15:23 GMT</pubDate>
+            <description><![CDATA[Show HN: An in memory KV store with encrypted persistence and automatic backups]]></description>
+        </item>
+        <item>
+            <title><![CDATA[開源的Terraform HCL檢查器 - ValidIaC]]></title>
+            <link>https://news.ycombinator.com/item?id=30701378</link>
+            <guid>https://news.ycombinator.com/item?id=30701378</guid>
+            <pubDate>Wed, 16 Mar 2022 17:07:18 GMT</pubDate>
+            <description><![CDATA[Show HN: An Open Source Terraform HCL Checker – ValidIaC]]></description>
+        </item>
+        <item>
+            <title><![CDATA[公民--事業的在線樞紐]]></title>
+            <link>https://news.ycombinator.com/item?id=30701377</link>
+            <guid>https://news.ycombinator.com/item?id=30701377</guid>
+            <pubDate>Wed, 16 Mar 2022 17:07:14 GMT</pubDate>
+            <description><![CDATA[Show HN: Civic – Online Hub for Causes]]></description>
+        </item>
         <item>
             <title><![CDATA[內容區塊網站組件設計系統]]></title>
             <link>https://news.ycombinator.com/item?id=30700459</link>
@@ -4178,41 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30443700</guid>
             <pubDate>Wed, 23 Feb 2022 17:29:58 GMT</pubDate>
             <description><![CDATA[Show HN: Courier Elemental – send multi-channel notifications with JSON]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SuperFocus for YouTube - 隱藏YouTube上的分心元素]]></title>
-            <link>https://news.ycombinator.com/item?id=30443583</link>
-            <guid>https://news.ycombinator.com/item?id=30443583</guid>
-            <pubDate>Wed, 23 Feb 2022 17:23:07 GMT</pubDate>
-            <description><![CDATA[Show HN: SuperFocus for YouTube – hide distracting elements on YouTube]]></description>
-        </item>
-        <item>
-            <title><![CDATA[簡歷/CV關鍵詞掃描器--你的分數是多少？]]></title>
-            <link>https://news.ycombinator.com/item?id=30443547</link>
-            <guid>https://news.ycombinator.com/item?id=30443547</guid>
-            <pubDate>Wed, 23 Feb 2022 17:20:48 GMT</pubDate>
-            <description><![CDATA[Show HN: Resume/CV Keyword Scanner – What's Your Score?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我分析了世界各地遠程工作的薪酬差異]]></title>
-            <link>https://news.ycombinator.com/item?id=30443524</link>
-            <guid>https://news.ycombinator.com/item?id=30443524</guid>
-            <pubDate>Wed, 23 Feb 2022 17:18:06 GMT</pubDate>
-            <description><![CDATA[Show HN: I analyzed differences in remote work salaries worldwide]]></description>
-        </item>
-        <item>
-            <title><![CDATA[扁平化、解耦的計算和存儲數據庫]]></title>
-            <link>https://news.ycombinator.com/item?id=30443425</link>
-            <guid>https://news.ycombinator.com/item?id=30443425</guid>
-            <pubDate>Wed, 23 Feb 2022 17:11:47 GMT</pubDate>
-            <description><![CDATA[Show HN: Flatsauce, decoupled compute and storage database]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hey Cadence - 為您的投資組合提供每日音頻TLDR新聞]]></title>
-            <link>https://news.ycombinator.com/item?id=30443320</link>
-            <guid>https://news.ycombinator.com/item?id=30443320</guid>
-            <pubDate>Wed, 23 Feb 2022 17:05:21 GMT</pubDate>
-            <description><![CDATA[Show HN: Hey Cadence – Daily Audio TLDR News for Your Portfolio]]></description>
         </item>
     </channel>
 </rss>
