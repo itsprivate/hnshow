@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-16T00:38:00.969Z</updated>
+    <updated>2022-03-16T02:59:10.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[创建你自己完整的UI色彩系统，就像1-2-3一样简单]]></title>
+        <id>https://news.ycombinator.com/item?id=30694354</id>
+        <link href="https://news.ycombinator.com/item?id=30694354"/>
+        <updated>2022-03-16T01:52:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Create your own complete UI color system easy as 1-2-3]]></summary>
+        <author>
+            <name>aenero</name>
+            <uri>https://news.ycombinator.com/user?id=aenero</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个实际有用的设计资源集合]]></title>
         <id>https://news.ycombinator.com/item?id=30693603</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tucnak</name>
             <uri>https://news.ycombinator.com/user?id=tucnak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为150个软件提供全面管理的开源平台]]></title>
-        <id>https://news.ycombinator.com/item?id=30440486</id>
-        <link href="https://news.ycombinator.com/item?id=30440486"/>
-        <updated>2022-02-23T13:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fully managed open-source platform for 150 software]]></summary>
-        <author>
-            <name>js4ever</name>
-            <uri>https://news.ycombinator.com/user?id=js4ever</uri>
         </author>
     </entry>
 </feed>
