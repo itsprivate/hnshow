@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-16T15:04:30.317Z</updated>
+    <updated>2022-03-16T15:59:47.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我写了一本关于用Kotlin跟踪你的净资产的电子书]]></title>
+        <id>https://news.ycombinator.com/item?id=30699937</id>
+        <link href="https://news.ycombinator.com/item?id=30699937"/>
+        <updated>2022-03-16T15:23:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I wrote an eBook about tracking your Net Worth with Kotlin]]></summary>
+        <author>
+            <name>scastiel</name>
+            <uri>https://news.ycombinator.com/user?id=scastiel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[玩耍约会护理--帮助繁忙的工作父母轻松地培养有能力的孩子]]></title>
         <id>https://news.ycombinator.com/item?id=30699241</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hpx7</name>
             <uri>https://news.ycombinator.com/user?id=hpx7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个可以在网络应用中轻松进行截图的JavaScript库]]></title>
-        <id>https://news.ycombinator.com/item?id=30441861</id>
-        <link href="https://news.ycombinator.com/item?id=30441861"/>
-        <updated>2022-02-23T15:11:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A JavaScript library to easily take screenshots in web apps]]></summary>
-        <author>
-            <name>tejaskumar_</name>
-            <uri>https://news.ycombinator.com/user?id=tejaskumar_</uri>
         </author>
     </entry>
 </feed>
