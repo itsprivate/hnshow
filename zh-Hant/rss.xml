@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 16 Mar 2022 05:36:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 06:56:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[代碼掃描器 - 一個掃描和創建代碼的安卓應用（Google Play）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30695961</link>
+            <guid>https://news.ycombinator.com/item?id=30695961</guid>
+            <pubDate>Wed, 16 Mar 2022 06:38:28 GMT</pubDate>
+            <description><![CDATA[Show HN: Code Scanner – an Android app to scan and create codes (Google Play)]]></description>
+        </item>
         <item>
             <title><![CDATA[奧維反饋--將用戶反饋轉化為用戶之愛]]></title>
             <link>https://news.ycombinator.com/item?id=30695628</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30440527</guid>
             <pubDate>Wed, 23 Feb 2022 13:06:28 GMT</pubDate>
             <description><![CDATA[Show HN: The most enjoyable desktop app for writing a thesis]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一個react-wordle分叉，但它是MD5的哈希值]]></title>
-            <link>https://news.ycombinator.com/item?id=30440511</link>
-            <guid>https://news.ycombinator.com/item?id=30440511</guid>
-            <pubDate>Wed, 23 Feb 2022 13:05:13 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a react-wordle fork but it's the MD5 hash]]></description>
         </item>
     </channel>
 </rss>

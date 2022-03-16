@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-16T05:36:42.882Z</updated>
+    <updated>2022-03-16T06:56:52.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[代碼掃描器 - 一個掃描和創建代碼的安卓應用（Google Play）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30695961</id>
+        <link href="https://news.ycombinator.com/item?id=30695961"/>
+        <updated>2022-03-16T06:38:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Code Scanner – an Android app to scan and create codes (Google Play)]]></summary>
+        <author>
+            <name>czlucius</name>
+            <uri>https://news.ycombinator.com/user?id=czlucius</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奧維反饋--將用戶反饋轉化為用戶之愛]]></title>
         <id>https://news.ycombinator.com/item?id=30695628</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>WolfOliver</name>
             <uri>https://news.ycombinator.com/user?id=WolfOliver</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個react-wordle分叉，但它是MD5的哈希值]]></title>
-        <id>https://news.ycombinator.com/item?id=30440511</id>
-        <link href="https://news.ycombinator.com/item?id=30440511"/>
-        <updated>2022-02-23T13:05:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a react-wordle fork but it's the MD5 hash]]></summary>
-        <author>
-            <name>WesSouza</name>
-            <uri>https://news.ycombinator.com/user?id=WesSouza</uri>
         </author>
     </entry>
 </feed>
