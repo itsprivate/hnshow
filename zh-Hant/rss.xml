@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 16 Mar 2022 19:06:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 19:52:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[根據一個文件的HEREDOCs對其進行部分加密]]></title>
+            <link>https://news.ycombinator.com/item?id=30703161</link>
+            <guid>https://news.ycombinator.com/item?id=30703161</guid>
+            <pubDate>Wed, 16 Mar 2022 19:48:09 GMT</pubDate>
+            <description><![CDATA[Show HN: Partially encrypt a file based on its HEREDOCs]]></description>
+        </item>
         <item>
             <title><![CDATA[輕鬆地管理你的投資]]></title>
             <link>https://news.ycombinator.com/item?id=30701762</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30443738</guid>
             <pubDate>Wed, 23 Feb 2022 17:32:01 GMT</pubDate>
             <description><![CDATA[Show HN: Procedural Web − Infinite and completely synthetic, created only by AIs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[信使元素--用JSON發送多渠道通知]]></title>
-            <link>https://news.ycombinator.com/item?id=30443700</link>
-            <guid>https://news.ycombinator.com/item?id=30443700</guid>
-            <pubDate>Wed, 23 Feb 2022 17:29:58 GMT</pubDate>
-            <description><![CDATA[Show HN: Courier Elemental – send multi-channel notifications with JSON]]></description>
         </item>
     </channel>
 </rss>
