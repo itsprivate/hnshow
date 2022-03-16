@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-16T20:14:32.440Z</updated>
+    <updated>2022-03-16T20:33:39.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于Kubernetes的grype接纳控制器]]></title>
+        <id>https://news.ycombinator.com/item?id=30703520</id>
+        <link href="https://news.ycombinator.com/item?id=30703520"/>
+        <updated>2022-03-16T20:20:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The grype admission controller for Kubernetes]]></summary>
+        <author>
+            <name>ghostoftiber</name>
+            <uri>https://news.ycombinator.com/user?id=ghostoftiber</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[进度：一个简单的文本子任务进度标准]]></title>
         <id>https://news.ycombinator.com/item?id=30703392</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bradwoodsio</name>
             <uri>https://news.ycombinator.com/user?id=bradwoodsio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[带有解耦计算和存储的云数据库]]></title>
-        <id>https://news.ycombinator.com/item?id=30443770</id>
-        <link href="https://news.ycombinator.com/item?id=30443770"/>
-        <updated>2022-02-23T17:34:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cloud Database with Decoupled Compute and Storage]]></summary>
-        <author>
-            <name>soheil</name>
-            <uri>https://news.ycombinator.com/user?id=soheil</uri>
         </author>
     </entry>
 </feed>

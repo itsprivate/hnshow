@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 16 Mar 2022 20:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 20:33:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用于Kubernetes的grype接纳控制器]]></title>
+            <link>https://news.ycombinator.com/item?id=30703520</link>
+            <guid>https://news.ycombinator.com/item?id=30703520</guid>
+            <pubDate>Wed, 16 Mar 2022 20:20:09 GMT</pubDate>
+            <description><![CDATA[Show HN: The grype admission controller for Kubernetes]]></description>
+        </item>
         <item>
             <title><![CDATA[进度：一个简单的文本子任务进度标准]]></title>
             <link>https://news.ycombinator.com/item?id=30703392</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30444615</guid>
             <pubDate>Wed, 23 Feb 2022 18:38:16 GMT</pubDate>
             <description><![CDATA[Show HN: Writing as a Software Engineer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[带有解耦计算和存储的云数据库]]></title>
-            <link>https://news.ycombinator.com/item?id=30443770</link>
-            <guid>https://news.ycombinator.com/item?id=30443770</guid>
-            <pubDate>Wed, 23 Feb 2022 17:34:07 GMT</pubDate>
-            <description><![CDATA[Show HN: Cloud Database with Decoupled Compute and Storage]]></description>
         </item>
     </channel>
 </rss>
