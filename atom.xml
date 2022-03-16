@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-16T20:33:39.017Z</updated>
+    <updated>2022-03-16T21:30:24.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Plaraphy - 免费的转述API和工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30704294</id>
+        <link href="https://news.ycombinator.com/item?id=30704294"/>
+        <updated>2022-03-16T21:24:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Plaraphy – Paraphrasing API and Tool for Free]]></summary>
+        <author>
+            <name>Valentina_Zyla</name>
+            <uri>https://news.ycombinator.com/user?id=Valentina_Zyla</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于Kubernetes的grype接纳控制器]]></title>
         <id>https://news.ycombinator.com/item?id=30703520</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tantanmen</name>
             <uri>https://news.ycombinator.com/user?id=tantanmen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为一个软件工程师的写作]]></title>
-        <id>https://news.ycombinator.com/item?id=30444615</id>
-        <link href="https://news.ycombinator.com/item?id=30444615"/>
-        <updated>2022-02-23T18:38:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Writing as a Software Engineer]]></summary>
-        <author>
-            <name>bradwoodsio</name>
-            <uri>https://news.ycombinator.com/user?id=bradwoodsio</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 16 Mar 2022 20:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 21:30:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Plaraphy - 免費的轉述API和工具]]></title>
+            <link>https://news.ycombinator.com/item?id=30704294</link>
+            <guid>https://news.ycombinator.com/item?id=30704294</guid>
+            <pubDate>Wed, 16 Mar 2022 21:24:29 GMT</pubDate>
+            <description><![CDATA[Show HN: Plaraphy – Paraphrasing API and Tool for Free]]></description>
+        </item>
         <item>
             <title><![CDATA[用於Kubernetes的grype接納控制器]]></title>
             <link>https://news.ycombinator.com/item?id=30703520</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30444649</guid>
             <pubDate>Wed, 23 Feb 2022 18:41:28 GMT</pubDate>
             <description><![CDATA[Show HN: A large number of statistical distributions in JavaScript]]></description>
-        </item>
-        <item>
-            <title><![CDATA[作為一個軟件工程師的寫作]]></title>
-            <link>https://news.ycombinator.com/item?id=30444615</link>
-            <guid>https://news.ycombinator.com/item?id=30444615</guid>
-            <pubDate>Wed, 23 Feb 2022 18:38:16 GMT</pubDate>
-            <description><![CDATA[Show HN: Writing as a Software Engineer]]></description>
         </item>
     </channel>
 </rss>
