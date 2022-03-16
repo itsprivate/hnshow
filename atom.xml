@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-16T06:56:52.166Z</updated>
+    <updated>2022-03-16T07:12:25.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我已经为Swift创建了一个新的Twitter API库]]></title>
+        <id>https://news.ycombinator.com/item?id=30696027</id>
+        <link href="https://news.ycombinator.com/item?id=30696027"/>
+        <updated>2022-03-16T06:55:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I have created a new Twitter API library for Swift]]></summary>
+        <author>
+            <name>mironal</name>
+            <uri>https://news.ycombinator.com/user?id=mironal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[代码扫描器 - 一个扫描和创建代码的安卓应用（Google Play）。]]></title>
         <id>https://news.ycombinator.com/item?id=30695961</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>shaderx13</name>
             <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写论文最愉快的桌面应用]]></title>
-        <id>https://news.ycombinator.com/item?id=30440527</id>
-        <link href="https://news.ycombinator.com/item?id=30440527"/>
-        <updated>2022-02-23T13:06:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The most enjoyable desktop app for writing a thesis]]></summary>
-        <author>
-            <name>WolfOliver</name>
-            <uri>https://news.ycombinator.com/user?id=WolfOliver</uri>
         </author>
     </entry>
 </feed>
