@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-16T07:38:40.816Z</updated>
+    <updated>2022-03-16T09:13:12.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个像Firestore和Algolia一样的数据存储，合二为一]]></title>
+        <id>https://news.ycombinator.com/item?id=30696718</id>
+        <link href="https://news.ycombinator.com/item?id=30696718"/>
+        <updated>2022-03-16T09:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A data store like Firestore and Algolia all in one]]></summary>
+        <author>
+            <name>marcelthomas</name>
+            <uri>https://news.ycombinator.com/user?id=marcelthomas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个扩展，为你的推特设计风格]]></title>
+        <id>https://news.ycombinator.com/item?id=30696643</id>
+        <link href="https://news.ycombinator.com/item?id=30696643"/>
+        <updated>2022-03-16T08:55:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an extension to style your tweet]]></summary>
+        <author>
+            <name>wilbertliu</name>
+            <uri>https://news.ycombinator.com/user?id=wilbertliu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为您的StackOverflow简历/CV提供JSON备份]]></title>
         <id>https://news.ycombinator.com/item?id=30696196</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>joshxyz</name>
             <uri>https://news.ycombinator.com/user?id=joshxyz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terality, pandas在Spark的规模和速度上的单行代码]]></title>
-        <id>https://news.ycombinator.com/item?id=30441013</id>
-        <link href="https://news.ycombinator.com/item?id=30441013"/>
-        <updated>2022-02-23T14:03:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Terality, pandas at the scale and speed of Spark in one line code]]></summary>
-        <author>
-            <name>g_duvaux</name>
-            <uri>https://news.ycombinator.com/user?id=g_duvaux</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把你的推文/话题变成博客和RSS提要]]></title>
-        <id>https://news.ycombinator.com/item?id=30440835</id>
-        <link href="https://news.ycombinator.com/item?id=30440835"/>
-        <updated>2022-02-23T13:42:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Turn your tweets/threads into a blog and RSS feed]]></summary>
-        <author>
-            <name>linuz90</name>
-            <uri>https://news.ycombinator.com/user?id=linuz90</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 16 Mar 2022 07:38:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 09:13:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个像Firestore和Algolia一样的数据存储，合二为一]]></title>
+            <link>https://news.ycombinator.com/item?id=30696718</link>
+            <guid>https://news.ycombinator.com/item?id=30696718</guid>
+            <pubDate>Wed, 16 Mar 2022 09:08:30 GMT</pubDate>
+            <description><![CDATA[Show HN: A data store like Firestore and Algolia all in one]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我做了一个扩展，为你的推特设计风格]]></title>
+            <link>https://news.ycombinator.com/item?id=30696643</link>
+            <guid>https://news.ycombinator.com/item?id=30696643</guid>
+            <pubDate>Wed, 16 Mar 2022 08:55:40 GMT</pubDate>
+            <description><![CDATA[Show HN: I made an extension to style your tweet]]></description>
+        </item>
         <item>
             <title><![CDATA[为您的StackOverflow简历/CV提供JSON备份]]></title>
             <link>https://news.ycombinator.com/item?id=30696196</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30441440</guid>
             <pubDate>Wed, 23 Feb 2022 14:40:16 GMT</pubDate>
             <description><![CDATA[Show HN: Rubick, Data API and Search API for commonly used datasets]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Terality, pandas在Spark的规模和速度上的单行代码]]></title>
-            <link>https://news.ycombinator.com/item?id=30441013</link>
-            <guid>https://news.ycombinator.com/item?id=30441013</guid>
-            <pubDate>Wed, 23 Feb 2022 14:03:37 GMT</pubDate>
-            <description><![CDATA[Show HN: Terality, pandas at the scale and speed of Spark in one line code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[把你的推文/话题变成博客和RSS提要]]></title>
-            <link>https://news.ycombinator.com/item?id=30440835</link>
-            <guid>https://news.ycombinator.com/item?id=30440835</guid>
-            <pubDate>Wed, 23 Feb 2022 13:42:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Turn your tweets/threads into a blog and RSS feed]]></description>
         </item>
     </channel>
 </rss>
