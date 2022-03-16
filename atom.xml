@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-15T23:13:56.713Z</updated>
+    <updated>2022-03-16T00:38:00.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个实际有用的设计资源集合]]></title>
+        <id>https://news.ycombinator.com/item?id=30693603</id>
+        <link href="https://news.ycombinator.com/item?id=30693603"/>
+        <updated>2022-03-16T00:07:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An actually useful collection of design resources]]></summary>
+        <author>
+            <name>oldstrangers</name>
+            <uri>https://news.ycombinator.com/user?id=oldstrangers</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Goptional，一个我在半小时内制作的围棋选项库]]></title>
         <id>https://news.ycombinator.com/item?id=30693125</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>js4ever</name>
             <uri>https://news.ycombinator.com/user?id=js4ever</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supernotes 2 - 一个快速的、用于记事和分享的Markdown笔记应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30440275</id>
-        <link href="https://news.ycombinator.com/item?id=30440275"/>
-        <updated>2022-02-23T12:23:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Supernotes 2 – a fast, Markdown notes app for journalling and sharing]]></summary>
-        <author>
-            <name>fastball</name>
-            <uri>https://news.ycombinator.com/user?id=fastball</uri>
         </author>
     </entry>
 </feed>
