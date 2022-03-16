@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-16T11:10:50.033Z</updated>
+    <updated>2022-03-16T14:19:42.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[QA自动化工程师的游乐场]]></title>
+        <id>https://news.ycombinator.com/item?id=30699010</id>
+        <link href="https://news.ycombinator.com/item?id=30699010"/>
+        <updated>2022-03-16T14:06:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Playground for the QA Automation Engineers]]></summary>
+        <author>
+            <name>qa-guy</name>
+            <uri>https://news.ycombinator.com/user?id=qa-guy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为那些对乌克兰感到无助的人提供的伟大技术解决方案]]></title>
         <id>https://news.ycombinator.com/item?id=30697324</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>akittana</name>
             <uri>https://news.ycombinator.com/user?id=akittana</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在非洲创建了一个远程工作社区]]></title>
-        <id>https://news.ycombinator.com/item?id=30441675</id>
-        <link href="https://news.ycombinator.com/item?id=30441675"/>
-        <updated>2022-02-23T14:57:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I created a remote work community in Africa]]></summary>
-        <author>
-            <name>cjndubisi</name>
-            <uri>https://news.ycombinator.com/user?id=cjndubisi</uri>
         </author>
     </entry>
 </feed>
