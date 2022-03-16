@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-16T22:52:33.294Z</updated>
+    <updated>2022-03-16T23:51:58.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[显示HN：Stripe偷走了我们的15万美金]]></title>
+        <id>https://news.ycombinator.com/item?id=30705500</id>
+        <link href="https://news.ycombinator.com/item?id=30705500"/>
+        <updated>2022-03-16T23:28:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SHOW HN: Stripe STOLE OUR $159k]]></summary>
+        <author>
+            <name>neginbringshop</name>
+            <uri>https://news.ycombinator.com/user?id=neginbringshop</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SimpleKV - 一个极其简单的、匿名的键值存储器]]></title>
         <id>https://news.ycombinator.com/item?id=30705060</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pieterhg</name>
             <uri>https://news.ycombinator.com/user?id=pieterhg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[测试你的照片的美感程度]]></title>
-        <id>https://news.ycombinator.com/item?id=30444235</id>
-        <link href="https://news.ycombinator.com/item?id=30444235"/>
-        <updated>2022-02-23T18:08:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Test how Aesthetic your Photo is]]></summary>
-        <author>
-            <name>spyder555</name>
-            <uri>https://news.ycombinator.com/user?id=spyder555</uri>
         </author>
     </entry>
 </feed>
