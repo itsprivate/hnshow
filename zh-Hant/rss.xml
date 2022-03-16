@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 16 Mar 2022 19:52:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 20:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[進度：一個簡單的文本子任務進度標準]]></title>
+            <link>https://news.ycombinator.com/item?id=30703392</link>
+            <guid>https://news.ycombinator.com/item?id=30703392</guid>
+            <pubDate>Wed, 16 Mar 2022 20:08:35 GMT</pubDate>
+            <description><![CDATA[Show HN: Progress: a simple-text subtask progress standard]]></description>
+        </item>
         <item>
             <title><![CDATA[根據一個文件的HEREDOCs對其進行部分加密]]></title>
             <link>https://news.ycombinator.com/item?id=30703161</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30443770</guid>
             <pubDate>Wed, 23 Feb 2022 17:34:07 GMT</pubDate>
             <description><![CDATA[Show HN: Cloud Database with Decoupled Compute and Storage]]></description>
-        </item>
-        <item>
-            <title><![CDATA[程序性網絡 - 無限的和完全合成的，只由AI創造的。]]></title>
-            <link>https://news.ycombinator.com/item?id=30443738</link>
-            <guid>https://news.ycombinator.com/item?id=30443738</guid>
-            <pubDate>Wed, 23 Feb 2022 17:32:01 GMT</pubDate>
-            <description><![CDATA[Show HN: Procedural Web − Infinite and completely synthetic, created only by AIs]]></description>
         </item>
     </channel>
 </rss>
