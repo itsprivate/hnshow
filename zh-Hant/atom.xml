@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-16T07:31:53.768Z</updated>
+    <updated>2022-03-16T07:38:40.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為您的StackOverflow簡歷/CV提供JSON備份]]></title>
+        <id>https://news.ycombinator.com/item?id=30696196</id>
+        <link href="https://news.ycombinator.com/item?id=30696196"/>
+        <updated>2022-03-16T07:31:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: JSON Backup for your StackOverflow resume/CV]]></summary>
+        <author>
+            <name>jesstelford</name>
+            <uri>https://news.ycombinator.com/user?id=jesstelford</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[拋出--匿名提問和回答問題的新空間]]></title>
         <id>https://news.ycombinator.com/item?id=30696124</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>linuz90</name>
             <uri>https://news.ycombinator.com/user?id=linuz90</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simula One - 便攜式Linux VR計算機]]></title>
-        <id>https://news.ycombinator.com/item?id=30440828</id>
-        <link href="https://news.ycombinator.com/item?id=30440828"/>
-        <updated>2022-02-23T13:42:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Simula One – Portable Linux VR Computer]]></summary>
-        <author>
-            <name>georgewsinger</name>
-            <uri>https://news.ycombinator.com/user?id=georgewsinger</uri>
         </author>
     </entry>
 </feed>

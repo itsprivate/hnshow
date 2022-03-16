@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 16 Mar 2022 07:31:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 07:38:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为您的StackOverflow简历/CV提供JSON备份]]></title>
+            <link>https://news.ycombinator.com/item?id=30696196</link>
+            <guid>https://news.ycombinator.com/item?id=30696196</guid>
+            <pubDate>Wed, 16 Mar 2022 07:31:34 GMT</pubDate>
+            <description><![CDATA[Show HN: JSON Backup for your StackOverflow resume/CV]]></description>
+        </item>
         <item>
             <title><![CDATA[抛出--匿名提问和回答问题的新空间]]></title>
             <link>https://news.ycombinator.com/item?id=30696124</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30440835</guid>
             <pubDate>Wed, 23 Feb 2022 13:42:53 GMT</pubDate>
             <description><![CDATA[Show HN: Turn your tweets/threads into a blog and RSS feed]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Simula One - 便携式Linux VR计算机]]></title>
-            <link>https://news.ycombinator.com/item?id=30440828</link>
-            <guid>https://news.ycombinator.com/item?id=30440828</guid>
-            <pubDate>Wed, 23 Feb 2022 13:42:15 GMT</pubDate>
-            <description><![CDATA[Show HN: Simula One – Portable Linux VR Computer]]></description>
         </item>
     </channel>
 </rss>
