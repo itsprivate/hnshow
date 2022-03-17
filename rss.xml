@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 16 Mar 2022 23:51:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 02:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为我们其他人提供的活动流]]></title>
+            <link>https://news.ycombinator.com/item?id=30706380</link>
+            <guid>https://news.ycombinator.com/item?id=30706380</guid>
+            <pubDate>Thu, 17 Mar 2022 01:19:35 GMT</pubDate>
+            <description><![CDATA[Show HN: Event Streaming for the Rest of Us]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在没有ML经验的情况下建立预测模型]]></title>
+            <link>https://news.ycombinator.com/item?id=30706193</link>
+            <guid>https://news.ycombinator.com/item?id=30706193</guid>
+            <pubDate>Thu, 17 Mar 2022 00:54:23 GMT</pubDate>
+            <description><![CDATA[Show HN: Build predictive models with no prior ML experience]]></description>
+        </item>
         <item>
             <title><![CDATA[显示HN：Stripe偷走了我们的15万美金]]></title>
             <link>https://news.ycombinator.com/item?id=30705500</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30445052</guid>
             <pubDate>Wed, 23 Feb 2022 19:16:14 GMT</pubDate>
             <description><![CDATA[Show HN: Flatsauce – Database with Decoupled Storage and Compute]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Datagridxl2.js--无意义的快速类似Excel的数据表格库]]></title>
-            <link>https://news.ycombinator.com/item?id=30444994</link>
-            <guid>https://news.ycombinator.com/item?id=30444994</guid>
-            <pubDate>Wed, 23 Feb 2022 19:12:31 GMT</pubDate>
-            <description><![CDATA[Show HN: Datagridxl2.js – No-nonsense fast Excel-like data table library]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2022年远程工作的现状]]></title>
-            <link>https://news.ycombinator.com/item?id=30444814</link>
-            <guid>https://news.ycombinator.com/item?id=30444814</guid>
-            <pubDate>Wed, 23 Feb 2022 18:56:52 GMT</pubDate>
-            <description><![CDATA[Show HN: The 2022 State of Remote Work]]></description>
         </item>
     </channel>
 </rss>
