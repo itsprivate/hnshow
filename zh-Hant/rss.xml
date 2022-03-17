@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 17 Mar 2022 17:42:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 17:52:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Dezbor.com - 使用無代碼創建儀表板]]></title>
+            <link>https://news.ycombinator.com/item?id=30713902</link>
+            <guid>https://news.ycombinator.com/item?id=30713902</guid>
+            <pubDate>Thu, 17 Mar 2022 17:46:30 GMT</pubDate>
+            <description><![CDATA[Show HN: Dezbor.com – Create Dashboard with No-Code]]></description>
+        </item>
         <item>
             <title><![CDATA[Fin TCP Proxy - 使用Vert.x的TCP代理中的一個風扇]]></title>
             <link>https://news.ycombinator.com/item?id=30713685</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30453115</guid>
             <pubDate>Thu, 24 Feb 2022 10:27:55 GMT</pubDate>
             <description><![CDATA[Show HN: "Ido” stops you if there is some risky arguments]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Acme客戶--流行的Acme客戶的明確列表]]></title>
-            <link>https://news.ycombinator.com/item?id=30452904</link>
-            <guid>https://news.ycombinator.com/item?id=30452904</guid>
-            <pubDate>Thu, 24 Feb 2022 09:56:46 GMT</pubDate>
-            <description><![CDATA[Show HN: Acme Clients – a definitive list of popular acme clients]]></description>
         </item>
     </channel>
 </rss>
