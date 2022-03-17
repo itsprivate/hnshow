@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-17T11:14:14.436Z</updated>
+    <updated>2022-03-17T12:55:51.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[威廉斯的元气世界]]></title>
+        <id>https://news.ycombinator.com/item?id=30710315</id>
+        <link href="https://news.ycombinator.com/item?id=30710315"/>
+        <updated>2022-03-17T12:19:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Metaverse on Minecraft]]></summary>
+        <author>
+            <name>GTP</name>
+            <uri>https://news.ycombinator.com/user?id=GTP</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changethistext.com]]></title>
         <id>https://news.ycombinator.com/item?id=30709706</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ju2pom</name>
             <uri>https://news.ycombinator.com/user?id=ju2pom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我设计并建造了一辆电动自行车]]></title>
-        <id>https://news.ycombinator.com/item?id=30446960</id>
-        <link href="https://news.ycombinator.com/item?id=30446960"/>
-        <updated>2022-02-23T21:46:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I Designed and Built an eBike]]></summary>
-        <author>
-            <name>gkasev</name>
-            <uri>https://news.ycombinator.com/user?id=gkasev</uri>
         </author>
     </entry>
 </feed>
