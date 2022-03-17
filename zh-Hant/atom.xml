@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-17T21:30:02.152Z</updated>
+    <updated>2022-03-17T22:33:30.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我正在打造一個人工智能助手，幫助你瀏覽金融信息]]></title>
+        <id>https://news.ycombinator.com/item?id=30716545</id>
+        <link href="https://news.ycombinator.com/item?id=30716545"/>
+        <updated>2022-03-17T22:23:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I'm building an AI assistant to help you navigate financial information]]></summary>
+        <author>
+            <name>albertod</name>
+            <uri>https://news.ycombinator.com/user?id=albertod</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latency Sensei - 揭開主要雲上不合格的虛擬機和網絡故障的面紗]]></title>
+        <id>https://news.ycombinator.com/item?id=30716454</id>
+        <link href="https://news.ycombinator.com/item?id=30716454"/>
+        <updated>2022-03-17T22:15:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Latency Sensei – uncover subpar VMs and network hiccups on major clouds]]></summary>
+        <author>
+            <name>danzheng</name>
+            <uri>https://news.ycombinator.com/user?id=danzheng</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ExplainDev - 一個用OpenAI Codex解釋代碼的擴展程序]]></title>
         <id>https://news.ycombinator.com/item?id=30715984</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>sixhobbits</name>
             <uri>https://news.ycombinator.com/user?id=sixhobbits</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派對拼圖：用於特殊場合的主題拼圖套裝]]></title>
-        <id>https://news.ycombinator.com/item?id=30455494</id>
-        <link href="https://news.ycombinator.com/item?id=30455494"/>
-        <updated>2022-02-24T15:01:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Party Puzzling: themed puzzle sets for special occasions]]></summary>
-        <author>
-            <name>jstanley</name>
-            <uri>https://news.ycombinator.com/user?id=jstanley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whodle，一個受Wordle啟發的每日名人猜測遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30455184</id>
-        <link href="https://news.ycombinator.com/item?id=30455184"/>
-        <updated>2022-02-24T14:36:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Whodle, a daily celebrity guessing game inspired by Wordle]]></summary>
-        <author>
-            <name>planokay</name>
-            <uri>https://news.ycombinator.com/user?id=planokay</uri>
         </author>
     </entry>
 </feed>
