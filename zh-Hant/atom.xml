@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-17T12:55:51.543Z</updated>
+    <updated>2022-03-17T13:24:43.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Svelte和Pyodide構建的工程計算的網絡應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30710793</id>
+        <link href="https://news.ycombinator.com/item?id=30710793"/>
+        <updated>2022-03-17T13:15:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A web app for engineering calculations built using Svelte and Pyodide]]></summary>
+        <author>
+            <name>mgreminger</name>
+            <uri>https://news.ycombinator.com/user?id=mgreminger</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go中自動生成的C4架構圖]]></title>
+        <id>https://news.ycombinator.com/item?id=30710766</id>
+        <link href="https://news.ycombinator.com/item?id=30710766"/>
+        <updated>2022-03-17T13:13:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Auto-Generated C4 Architecture Diagrams in Go]]></summary>
+        <author>
+            <name>roblaszczak</name>
+            <uri>https://news.ycombinator.com/user?id=roblaszczak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[威廉斯的元氣世界]]></title>
         <id>https://news.ycombinator.com/item?id=30710315</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>starboyy</name>
             <uri>https://news.ycombinator.com/user?id=starboyy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinjour - 徒步旅行、捕鳥、飛魚和旅遊的照片地圖]]></title>
-        <id>https://news.ycombinator.com/item?id=30447959</id>
-        <link href="https://news.ycombinator.com/item?id=30447959"/>
-        <updated>2022-02-23T23:12:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pinjour – Photo maps for hiking, birding, fly fishing and travel]]></summary>
-        <author>
-            <name>jfornear</name>
-            <uri>https://news.ycombinator.com/user?id=jfornear</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個2D/3D數字資產管理應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30447334</id>
-        <link href="https://news.ycombinator.com/item?id=30447334"/>
-        <updated>2022-02-23T22:18:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a 2D/3D digital asset management application]]></summary>
-        <author>
-            <name>ju2pom</name>
-            <uri>https://news.ycombinator.com/user?id=ju2pom</uri>
         </author>
     </entry>
 </feed>

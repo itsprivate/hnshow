@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 17 Mar 2022 12:55:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 13:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用Svelte和Pyodide构建的工程计算的网络应用程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30710793</link>
+            <guid>https://news.ycombinator.com/item?id=30710793</guid>
+            <pubDate>Thu, 17 Mar 2022 13:15:23 GMT</pubDate>
+            <description><![CDATA[Show HN: A web app for engineering calculations built using Svelte and Pyodide]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Go中自动生成的C4架构图]]></title>
+            <link>https://news.ycombinator.com/item?id=30710766</link>
+            <guid>https://news.ycombinator.com/item?id=30710766</guid>
+            <pubDate>Thu, 17 Mar 2022 13:13:08 GMT</pubDate>
+            <description><![CDATA[Show HN: Auto-Generated C4 Architecture Diagrams in Go]]></description>
+        </item>
         <item>
             <title><![CDATA[威廉斯的元气世界]]></title>
             <link>https://news.ycombinator.com/item?id=30710315</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30448144</guid>
             <pubDate>Wed, 23 Feb 2022 23:28:54 GMT</pubDate>
             <description><![CDATA[Show HN: Interview Focused Algo and DS in Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pinjour - 徒步旅行、捕鸟、飞鱼和旅游的照片地图]]></title>
-            <link>https://news.ycombinator.com/item?id=30447959</link>
-            <guid>https://news.ycombinator.com/item?id=30447959</guid>
-            <pubDate>Wed, 23 Feb 2022 23:12:30 GMT</pubDate>
-            <description><![CDATA[Show HN: Pinjour – Photo maps for hiking, birding, fly fishing and travel]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个2D/3D数字资产管理应用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30447334</link>
-            <guid>https://news.ycombinator.com/item?id=30447334</guid>
-            <pubDate>Wed, 23 Feb 2022 22:18:13 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a 2D/3D digital asset management application]]></description>
         </item>
     </channel>
 </rss>
