@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 17 Mar 2022 20:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 21:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[無限的廣播劇和有聲劇]]></title>
+            <link>https://news.ycombinator.com/item?id=30715744</link>
+            <guid>https://news.ycombinator.com/item?id=30715744</guid>
+            <pubDate>Thu, 17 Mar 2022 20:50:38 GMT</pubDate>
+            <description><![CDATA[Show HN: Infinite radio dramas and audio plays]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Goose，一項簡化向系統添加gitops功能的服務]]></title>
+            <link>https://news.ycombinator.com/item?id=30715739</link>
+            <guid>https://news.ycombinator.com/item?id=30715739</guid>
+            <pubDate>Thu, 17 Mar 2022 20:50:11 GMT</pubDate>
+            <description><![CDATA[Show HN: Goose, a service to simplify adding gitops functionality to systems]]></description>
+        </item>
         <item>
             <title><![CDATA[我建立了最好的代碼到圖像轉換器 - 創建獨特的代碼圖像]]></title>
             <link>https://news.ycombinator.com/item?id=30715612</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30455039</guid>
             <pubDate>Thu, 24 Feb 2022 14:24:32 GMT</pubDate>
             <description><![CDATA[Show HN: How to Create a Network Proxy Using Stream Processor Pipy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用30行Tidyverse代碼解決了一個體育統計問題]]></title>
-            <link>https://news.ycombinator.com/item?id=30454734</link>
-            <guid>https://news.ycombinator.com/item?id=30454734</guid>
-            <pubDate>Thu, 24 Feb 2022 14:01:14 GMT</pubDate>
-            <description><![CDATA[Show HN: A Sports Statistics Problem Solved in 30 Lines of Tidyverse Code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Snipd - 人工智能播客播放器，用於突出顯示和記錄文字稿的內容]]></title>
-            <link>https://news.ycombinator.com/item?id=30454639</link>
-            <guid>https://news.ycombinator.com/item?id=30454639</guid>
-            <pubDate>Thu, 24 Feb 2022 13:52:46 GMT</pubDate>
-            <description><![CDATA[Show HN: Snipd – AI podcast player to highlight and take notes with transcripts]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-17T20:42:23.706Z</updated>
+    <updated>2022-03-17T21:13:01.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[无限的广播剧和有声剧]]></title>
+        <id>https://news.ycombinator.com/item?id=30715744</id>
+        <link href="https://news.ycombinator.com/item?id=30715744"/>
+        <updated>2022-03-17T20:50:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Infinite radio dramas and audio plays]]></summary>
+        <author>
+            <name>westcort</name>
+            <uri>https://news.ycombinator.com/user?id=westcort</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goose，一项简化向系统添加gitops功能的服务]]></title>
+        <id>https://news.ycombinator.com/item?id=30715739</id>
+        <link href="https://news.ycombinator.com/item?id=30715739"/>
+        <updated>2022-03-17T20:50:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Goose, a service to simplify adding gitops functionality to systems]]></summary>
+        <author>
+            <name>justinlilly</name>
+            <uri>https://news.ycombinator.com/user?id=justinlilly</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了最好的代码到图像转换器 - 创建独特的代码图像]]></title>
         <id>https://news.ycombinator.com/item?id=30715612</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>flomesh_pipy</name>
             <uri>https://news.ycombinator.com/user?id=flomesh_pipy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用30行Tidyverse代码解决了一个体育统计问题]]></title>
-        <id>https://news.ycombinator.com/item?id=30454734</id>
-        <link href="https://news.ycombinator.com/item?id=30454734"/>
-        <updated>2022-02-24T14:01:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Sports Statistics Problem Solved in 30 Lines of Tidyverse Code]]></summary>
-        <author>
-            <name>nomilk</name>
-            <uri>https://news.ycombinator.com/user?id=nomilk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snipd - 人工智能播客播放器，用于突出显示和记录文字稿的内容]]></title>
-        <id>https://news.ycombinator.com/item?id=30454639</id>
-        <link href="https://news.ycombinator.com/item?id=30454639"/>
-        <updated>2022-02-24T13:52:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Snipd – AI podcast player to highlight and take notes with transcripts]]></summary>
-        <author>
-            <name>KevinBenSmith</name>
-            <uri>https://news.ycombinator.com/user?id=KevinBenSmith</uri>
         </author>
     </entry>
 </feed>
