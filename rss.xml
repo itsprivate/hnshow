@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 17 Mar 2022 21:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 21:30:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[ExplainDev - 一个用OpenAI Codex解释代码的扩展程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30715984</link>
+            <guid>https://news.ycombinator.com/item?id=30715984</guid>
+            <pubDate>Thu, 17 Mar 2022 21:17:17 GMT</pubDate>
+            <description><![CDATA[Show HN: ExplainDev – An extension that explains code with OpenAI Codex]]></description>
+        </item>
         <item>
             <title><![CDATA[无限的广播剧和有声剧]]></title>
             <link>https://news.ycombinator.com/item?id=30715744</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30455184</guid>
             <pubDate>Thu, 24 Feb 2022 14:36:32 GMT</pubDate>
             <description><![CDATA[Show HN: Whodle, a daily celebrity guessing game inspired by Wordle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何使用流处理器Pipy创建一个网络代理]]></title>
-            <link>https://news.ycombinator.com/item?id=30455039</link>
-            <guid>https://news.ycombinator.com/item?id=30455039</guid>
-            <pubDate>Thu, 24 Feb 2022 14:24:32 GMT</pubDate>
-            <description><![CDATA[Show HN: How to Create a Network Proxy Using Stream Processor Pipy]]></description>
         </item>
     </channel>
 </rss>

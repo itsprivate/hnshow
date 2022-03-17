@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-17T21:13:01.879Z</updated>
+    <updated>2022-03-17T21:30:02.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ExplainDev - 一個用OpenAI Codex解釋代碼的擴展程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30715984</id>
+        <link href="https://news.ycombinator.com/item?id=30715984"/>
+        <updated>2022-03-17T21:17:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ExplainDev – An extension that explains code with OpenAI Codex]]></summary>
+        <author>
+            <name>ediardo</name>
+            <uri>https://news.ycombinator.com/user?id=ediardo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[無限的廣播劇和有聲劇]]></title>
         <id>https://news.ycombinator.com/item?id=30715744</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>planokay</name>
             <uri>https://news.ycombinator.com/user?id=planokay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使用流處理器Pipy創建一個網絡代理]]></title>
-        <id>https://news.ycombinator.com/item?id=30455039</id>
-        <link href="https://news.ycombinator.com/item?id=30455039"/>
-        <updated>2022-02-24T14:24:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: How to Create a Network Proxy Using Stream Processor Pipy]]></summary>
-        <author>
-            <name>flomesh_pipy</name>
-            <uri>https://news.ycombinator.com/user?id=flomesh_pipy</uri>
         </author>
     </entry>
 </feed>
