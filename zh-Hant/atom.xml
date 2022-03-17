@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-17T19:55:19.018Z</updated>
+    <updated>2022-03-17T20:42:23.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了最好的代碼到圖像轉換器 - 創建獨特的代碼圖像]]></title>
+        <id>https://news.ycombinator.com/item?id=30715612</id>
+        <link href="https://news.ycombinator.com/item?id=30715612"/>
+        <updated>2022-03-17T20:37:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built the best Code to Image Converter – Create unique code images]]></summary>
+        <author>
+            <name>fthtls</name>
+            <uri>https://news.ycombinator.com/user?id=fthtls</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rust中的Graphviz實現]]></title>
         <id>https://news.ycombinator.com/item?id=30715168</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>KevinBenSmith</name>
             <uri>https://news.ycombinator.com/user?id=KevinBenSmith</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用快捷鍵寫出更快的電子郵件和回覆]]></title>
-        <id>https://news.ycombinator.com/item?id=30454568</id>
-        <link href="https://news.ycombinator.com/item?id=30454568"/>
-        <updated>2022-02-24T13:46:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Write faster emails and replies with shortcuts]]></summary>
-        <author>
-            <name>Ali_Boukeroui</name>
-            <uri>https://news.ycombinator.com/user?id=Ali_Boukeroui</uri>
         </author>
     </entry>
 </feed>
