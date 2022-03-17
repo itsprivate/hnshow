@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-17T17:52:09.905Z</updated>
+    <updated>2022-03-17T18:56:39.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TowerBI - 簡單的可編程商業智能工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30714533</id>
+        <link href="https://news.ycombinator.com/item?id=30714533"/>
+        <updated>2022-03-17T18:45:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: TowerBI – Simple programmable business intelligence tool]]></summary>
+        <author>
+            <name>mrwnmonm</name>
+            <uri>https://news.ycombinator.com/user?id=mrwnmonm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis Unleashed: 搖滾明星弗蘭克-凱恩的免費Udemy課程]]></title>
+        <id>https://news.ycombinator.com/item?id=30714513</id>
+        <link href="https://news.ycombinator.com/item?id=30714513"/>
+        <updated>2022-03-17T18:43:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Redis Unleashed: A Free Udemy Course from the Rockstar Frank Kane]]></summary>
+        <author>
+            <name>node-bayarea</name>
+            <uri>https://news.ycombinator.com/user?id=node-bayarea</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dezbor.com - 使用無代碼創建儀表板]]></title>
         <id>https://news.ycombinator.com/item?id=30713902</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>loeona</name>
             <uri>https://news.ycombinator.com/user?id=loeona</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具有CSV導入功能的情緒跟蹤器，可以重新使用你可能擁有的現有數據]]></title>
-        <id>https://news.ycombinator.com/item?id=30453275</id>
-        <link href="https://news.ycombinator.com/item?id=30453275"/>
-        <updated>2022-02-24T10:51:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mood tracker with CSV import to reuse existing data you may have]]></summary>
-        <author>
-            <name>c_ris</name>
-            <uri>https://news.ycombinator.com/user?id=c_ris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果有一些危險的爭論，"伊多 "會阻止你。]]></title>
-        <id>https://news.ycombinator.com/item?id=30453115</id>
-        <link href="https://news.ycombinator.com/item?id=30453115"/>
-        <updated>2022-02-24T10:27:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: "Ido” stops you if there is some risky arguments]]></summary>
-        <author>
-            <name>icythere</name>
-            <uri>https://news.ycombinator.com/user?id=icythere</uri>
         </author>
     </entry>
 </feed>
