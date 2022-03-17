@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-17T13:24:43.824Z</updated>
+    <updated>2022-03-17T15:58:43.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Voby - 一個新的（玩具？）高性能網絡框架，類似於Solid]]></title>
+        <id>https://news.ycombinator.com/item?id=30712111</id>
+        <link href="https://news.ycombinator.com/item?id=30712111"/>
+        <updated>2022-03-17T15:22:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Voby – a new (toy?) high-performance web framework similar to Solid]]></summary>
+        <author>
+            <name>fabiospampinato</name>
+            <uri>https://news.ycombinator.com/user?id=fabiospampinato</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knock - 開發人員的通知基礎設施]]></title>
+        <id>https://news.ycombinator.com/item?id=30711619</id>
+        <link href="https://news.ycombinator.com/item?id=30711619"/>
+        <updated>2022-03-17T14:33:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Knock – Notification Infrastructure for Developers]]></summary>
+        <author>
+            <name>cjbell88</name>
+            <uri>https://news.ycombinator.com/user?id=cjbell88</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parsers VC - 實時跟蹤風險投資數據的供應商]]></title>
+        <id>https://news.ycombinator.com/item?id=30711597</id>
+        <link href="https://news.ycombinator.com/item?id=30711597"/>
+        <updated>2022-03-17T14:31:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Parsers VC – Real-time tracking Venture Capital data provider]]></summary>
+        <author>
+            <name>loeona</name>
+            <uri>https://news.ycombinator.com/user?id=loeona</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyperion - 在多個集群中部署、管理和調試Helm應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30711156</id>
+        <link href="https://news.ycombinator.com/item?id=30711156"/>
+        <updated>2022-03-17T13:52:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hyperion – Deploy, manage and debug Helm apps across Multiple Clusters]]></summary>
+        <author>
+            <name>pghildy</name>
+            <uri>https://news.ycombinator.com/user?id=pghildy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Svelte和Pyodide構建的工程計算的網絡應用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30710793</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>rlonn</name>
             <uri>https://news.ycombinator.com/user?id=rlonn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我已經建立了一個光柵器，可以直接渲染到終端上]]></title>
-        <id>https://news.ycombinator.com/item?id=30449603</id>
-        <link href="https://news.ycombinator.com/item?id=30449603"/>
-        <updated>2022-02-24T02:37:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I've built a rasterizer that renders directly to the terminal]]></summary>
-        <author>
-            <name>saccharineboi</name>
-            <uri>https://news.ycombinator.com/user?id=saccharineboi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於雲、邊緣和物聯網的可編程網絡代理]]></title>
-        <id>https://news.ycombinator.com/item?id=30449536</id>
-        <link href="https://news.ycombinator.com/item?id=30449536"/>
-        <updated>2022-02-24T02:26:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Programmable network proxy for the cloud, edge and IoT]]></summary>
-        <author>
-            <name>flomesh_pipy</name>
-            <uri>https://news.ycombinator.com/user?id=flomesh_pipy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logidiff - 確定兩個或多個邏輯語句是否等同]]></title>
-        <id>https://news.ycombinator.com/item?id=30449481</id>
-        <link href="https://news.ycombinator.com/item?id=30449481"/>
-        <updated>2022-02-24T02:15:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Logidiff – determine if two or more logical statements are equivalent]]></summary>
-        <author>
-            <name>nobodywasishere</name>
-            <uri>https://news.ycombinator.com/user?id=nobodywasishere</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Python中關注面試的Algo和DS]]></title>
-        <id>https://news.ycombinator.com/item?id=30448144</id>
-        <link href="https://news.ycombinator.com/item?id=30448144"/>
-        <updated>2022-02-23T23:28:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Interview Focused Algo and DS in Python]]></summary>
-        <author>
-            <name>starboyy</name>
-            <uri>https://news.ycombinator.com/user?id=starboyy</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 17 Mar 2022 13:24:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 15:58:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,34 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Voby - 一个新的（玩具？）高性能网络框架，类似于Solid]]></title>
+            <link>https://news.ycombinator.com/item?id=30712111</link>
+            <guid>https://news.ycombinator.com/item?id=30712111</guid>
+            <pubDate>Thu, 17 Mar 2022 15:22:10 GMT</pubDate>
+            <description><![CDATA[Show HN: Voby – a new (toy?) high-performance web framework similar to Solid]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Knock - 开发人员的通知基础设施]]></title>
+            <link>https://news.ycombinator.com/item?id=30711619</link>
+            <guid>https://news.ycombinator.com/item?id=30711619</guid>
+            <pubDate>Thu, 17 Mar 2022 14:33:18 GMT</pubDate>
+            <description><![CDATA[Show HN: Knock – Notification Infrastructure for Developers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Parsers VC - 实时跟踪风险投资数据的供应商]]></title>
+            <link>https://news.ycombinator.com/item?id=30711597</link>
+            <guid>https://news.ycombinator.com/item?id=30711597</guid>
+            <pubDate>Thu, 17 Mar 2022 14:31:45 GMT</pubDate>
+            <description><![CDATA[Show HN: Parsers VC – Real-time tracking Venture Capital data provider]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hyperion - 在多个集群中部署、管理和调试Helm应用程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30711156</link>
+            <guid>https://news.ycombinator.com/item?id=30711156</guid>
+            <pubDate>Thu, 17 Mar 2022 13:52:27 GMT</pubDate>
+            <description><![CDATA[Show HN: Hyperion – Deploy, manage and debug Helm apps across Multiple Clusters]]></description>
+        </item>
         <item>
             <title><![CDATA[使用Svelte和Pyodide构建的工程计算的网络应用程序]]></title>
             <link>https://news.ycombinator.com/item?id=30710793</link>
@@ -4185,34 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30451402</guid>
             <pubDate>Thu, 24 Feb 2022 06:45:35 GMT</pubDate>
             <description><![CDATA[Show HN: Supershields.io – smart, Lua-powered SVG status badges]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我已经建立了一个光栅器，可以直接渲染到终端上]]></title>
-            <link>https://news.ycombinator.com/item?id=30449603</link>
-            <guid>https://news.ycombinator.com/item?id=30449603</guid>
-            <pubDate>Thu, 24 Feb 2022 02:37:13 GMT</pubDate>
-            <description><![CDATA[Show HN: I've built a rasterizer that renders directly to the terminal]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用于云、边缘和物联网的可编程网络代理]]></title>
-            <link>https://news.ycombinator.com/item?id=30449536</link>
-            <guid>https://news.ycombinator.com/item?id=30449536</guid>
-            <pubDate>Thu, 24 Feb 2022 02:26:32 GMT</pubDate>
-            <description><![CDATA[Show HN: Programmable network proxy for the cloud, edge and IoT]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Logidiff - 确定两个或多个逻辑语句是否等同]]></title>
-            <link>https://news.ycombinator.com/item?id=30449481</link>
-            <guid>https://news.ycombinator.com/item?id=30449481</guid>
-            <pubDate>Thu, 24 Feb 2022 02:15:01 GMT</pubDate>
-            <description><![CDATA[Show HN: Logidiff – determine if two or more logical statements are equivalent]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Python中关注面试的Algo和DS]]></title>
-            <link>https://news.ycombinator.com/item?id=30448144</link>
-            <guid>https://news.ycombinator.com/item?id=30448144</guid>
-            <pubDate>Wed, 23 Feb 2022 23:28:54 GMT</pubDate>
-            <description><![CDATA[Show HN: Interview Focused Algo and DS in Python]]></description>
         </item>
     </channel>
 </rss>
