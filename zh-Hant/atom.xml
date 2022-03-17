@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-17T04:40:55.192Z</updated>
+    <updated>2022-03-17T09:33:36.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[改變這個頁面 - 你決定新的文本]]></title>
+        <id>https://news.ycombinator.com/item?id=30709107</id>
+        <link href="https://news.ycombinator.com/item?id=30709107"/>
+        <updated>2022-03-17T09:10:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Change this page · You decide the new text]]></summary>
+        <author>
+            <name>baransel</name>
+            <uri>https://news.ycombinator.com/user?id=baransel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Payitfwd.dev - 捐贈給依賴性的依賴性]]></title>
         <id>https://news.ycombinator.com/item?id=30707596</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gpoore</name>
             <uri>https://news.ycombinator.com/user?id=gpoore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個免費的電子郵件營銷工具，供創作者向其社區發送電子郵件]]></title>
-        <id>https://news.ycombinator.com/item?id=30445352</id>
-        <link href="https://news.ycombinator.com/item?id=30445352"/>
-        <updated>2022-02-23T19:41:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A free email marketing tool for creators to email their community]]></summary>
-        <author>
-            <name>adampetty</name>
-            <uri>https://news.ycombinator.com/user?id=adampetty</uri>
         </author>
     </entry>
 </feed>
