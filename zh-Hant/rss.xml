@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 17 Mar 2022 17:05:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 17:42:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Fin TCP Proxy - 使用Vert.x的TCP代理中的一個風扇]]></title>
+            <link>https://news.ycombinator.com/item?id=30713685</link>
+            <guid>https://news.ycombinator.com/item?id=30713685</guid>
+            <pubDate>Thu, 17 Mar 2022 17:29:12 GMT</pubDate>
+            <description><![CDATA[Show HN: Fin TCP Proxy – A fan in TCP proxy using Vert.x]]></description>
+        </item>
         <item>
             <title><![CDATA[Covid - 你的情況如何？]]></title>
             <link>https://news.ycombinator.com/item?id=30713153</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30452904</guid>
             <pubDate>Thu, 24 Feb 2022 09:56:46 GMT</pubDate>
             <description><![CDATA[Show HN: Acme Clients – a definitive list of popular acme clients]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Launcher - 一個建立在Sveltekit上的開源應用啟動器]]></title>
-            <link>https://news.ycombinator.com/item?id=30452810</link>
-            <guid>https://news.ycombinator.com/item?id=30452810</guid>
-            <pubDate>Thu, 24 Feb 2022 09:44:30 GMT</pubDate>
-            <description><![CDATA[Show HN: Launcher – an open-source app launcher built on Sveltekit]]></description>
         </item>
     </channel>
 </rss>
