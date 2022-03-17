@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-17T18:56:39.416Z</updated>
+    <updated>2022-03-17T19:13:05.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SaharaCloud - 在云上虚拟构建硬件]]></title>
+        <id>https://news.ycombinator.com/item?id=30714764</id>
+        <link href="https://news.ycombinator.com/item?id=30714764"/>
+        <updated>2022-03-17T19:07:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SaharaCloud – Build hardware virtually on the cloud]]></summary>
+        <author>
+            <name>annielu689</name>
+            <uri>https://news.ycombinator.com/user?id=annielu689</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[访问控制和授权的开发者API]]></title>
+        <id>https://news.ycombinator.com/item?id=30714629</id>
+        <link href="https://news.ycombinator.com/item?id=30714629"/>
+        <updated>2022-03-17T18:56:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Developer API for Access Control & Authorizations]]></summary>
+        <author>
+            <name>egea</name>
+            <uri>https://news.ycombinator.com/user?id=egea</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TowerBI - 简单的可编程商业智能工具]]></title>
         <id>https://news.ycombinator.com/item?id=30714533</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>soorajsanker</name>
             <uri>https://news.ycombinator.com/user?id=soorajsanker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lokapp，一个面向移动团队的开源翻译管理器]]></title>
-        <id>https://news.ycombinator.com/item?id=30453898</id>
-        <link href="https://news.ycombinator.com/item?id=30453898"/>
-        <updated>2022-02-24T12:29:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lokapp, an open-source translations manager for mobile teams]]></summary>
-        <author>
-            <name>edouardouvrard</name>
-            <uri>https://news.ycombinator.com/user?id=edouardouvrard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parsers VC - 风险投资数据提供商]]></title>
-        <id>https://news.ycombinator.com/item?id=30453811</id>
-        <link href="https://news.ycombinator.com/item?id=30453811"/>
-        <updated>2022-02-24T12:15:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Parsers VC – Venture Capital data provider]]></summary>
-        <author>
-            <name>loeona</name>
-            <uri>https://news.ycombinator.com/user?id=loeona</uri>
         </author>
     </entry>
 </feed>
