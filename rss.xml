@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 17 Mar 2022 19:13:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 19:55:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Rust中的Graphviz实现]]></title>
+            <link>https://news.ycombinator.com/item?id=30715168</link>
+            <guid>https://news.ycombinator.com/item?id=30715168</guid>
+            <pubDate>Thu, 17 Mar 2022 19:48:41 GMT</pubDate>
+            <description><![CDATA[Show HN: A Graphviz Implementation in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[SaharaCloud - 在云上虚拟构建硬件]]></title>
             <link>https://news.ycombinator.com/item?id=30714764</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30454568</guid>
             <pubDate>Thu, 24 Feb 2022 13:46:37 GMT</pubDate>
             <description><![CDATA[Show HN: Write faster emails and replies with shortcuts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DB Lens - 适用于Mac、Linux和Windows的OSS Postgres GUI|ERD, Insights]]></title>
-            <link>https://news.ycombinator.com/item?id=30454028</link>
-            <guid>https://news.ycombinator.com/item?id=30454028</guid>
-            <pubDate>Thu, 24 Feb 2022 12:48:55 GMT</pubDate>
-            <description><![CDATA[Show HN: DB Lens – OSS Postgres GUI for Mac, Linux and Windows|ERD, Insights]]></description>
         </item>
     </channel>
 </rss>

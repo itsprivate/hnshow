@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-17T19:13:05.099Z</updated>
+    <updated>2022-03-17T19:55:18.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Rust中的Graphviz实现]]></title>
+        <id>https://news.ycombinator.com/item?id=30715168</id>
+        <link href="https://news.ycombinator.com/item?id=30715168"/>
+        <updated>2022-03-17T19:48:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Graphviz Implementation in Rust]]></summary>
+        <author>
+            <name>Q26124</name>
+            <uri>https://news.ycombinator.com/user?id=Q26124</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SaharaCloud - 在云上虚拟构建硬件]]></title>
         <id>https://news.ycombinator.com/item?id=30714764</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Ali_Boukeroui</name>
             <uri>https://news.ycombinator.com/user?id=Ali_Boukeroui</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DB Lens - 适用于Mac、Linux和Windows的OSS Postgres GUI|ERD, Insights]]></title>
-        <id>https://news.ycombinator.com/item?id=30454028</id>
-        <link href="https://news.ycombinator.com/item?id=30454028"/>
-        <updated>2022-02-24T12:48:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: DB Lens – OSS Postgres GUI for Mac, Linux and Windows|ERD, Insights]]></summary>
-        <author>
-            <name>soorajsanker</name>
-            <uri>https://news.ycombinator.com/user?id=soorajsanker</uri>
         </author>
     </entry>
 </feed>
