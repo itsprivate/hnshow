@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 17 Mar 2022 15:58:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 17:05:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Covid - 你的情况如何？]]></title>
+            <link>https://news.ycombinator.com/item?id=30713153</link>
+            <guid>https://news.ycombinator.com/item?id=30713153</guid>
+            <pubDate>Thu, 17 Mar 2022 16:44:51 GMT</pubDate>
+            <description><![CDATA[Show HN: Covid – How did you fare?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Python和MyNotifier向自己发送推送通知]]></title>
+            <link>https://news.ycombinator.com/item?id=30713146</link>
+            <guid>https://news.ycombinator.com/item?id=30713146</guid>
+            <pubDate>Thu, 17 Mar 2022 16:44:35 GMT</pubDate>
+            <description><![CDATA[Show HN: Send Push Notifications to Yourself with Python and MyNotifier]]></description>
+        </item>
+        <item>
+            <title><![CDATA[黑客新闻不断标记负面条纹的帖子]]></title>
+            <link>https://news.ycombinator.com/item?id=30706672</link>
+            <guid>https://news.ycombinator.com/item?id=30706672</guid>
+            <pubDate>Thu, 17 Mar 2022 01:55:41 GMT</pubDate>
+            <description><![CDATA[Show HN: Hacker News keep flagging negative stripe posts]]></description>
+        </item>
         <item>
             <title><![CDATA[Voby - 一个新的（玩具？）高性能网络框架，类似于Solid]]></title>
             <link>https://news.ycombinator.com/item?id=30712111</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30452810</guid>
             <pubDate>Thu, 24 Feb 2022 09:44:30 GMT</pubDate>
             <description><![CDATA[Show HN: Launcher – an open-source app launcher built on Sveltekit]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何有效地推广你的软件项目？]]></title>
-            <link>https://news.ycombinator.com/item?id=30452624</link>
-            <guid>https://news.ycombinator.com/item?id=30452624</guid>
-            <pubDate>Thu, 24 Feb 2022 09:21:24 GMT</pubDate>
-            <description><![CDATA[Show HN: How to promote your software projects efficiently?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基于Parapet的玩具Spark框架]]></title>
-            <link>https://news.ycombinator.com/item?id=30452234</link>
-            <guid>https://news.ycombinator.com/item?id=30452234</guid>
-            <pubDate>Thu, 24 Feb 2022 08:28:17 GMT</pubDate>
-            <description><![CDATA[Show HN: toy Spark framework based on Parapet]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Supershields.io - 智能的、由Lua驱动的SVG状态徽章]]></title>
-            <link>https://news.ycombinator.com/item?id=30451402</link>
-            <guid>https://news.ycombinator.com/item?id=30451402</guid>
-            <pubDate>Thu, 24 Feb 2022 06:45:35 GMT</pubDate>
-            <description><![CDATA[Show HN: Supershields.io – smart, Lua-powered SVG status badges]]></description>
         </item>
     </channel>
 </rss>
