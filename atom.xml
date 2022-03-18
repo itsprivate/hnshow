@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-18T13:21:28.701Z</updated>
+    <updated>2022-03-18T13:38:41.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安全节点--带有权限提示的节点的PoC，就像Deno一样]]></title>
+        <id>https://news.ycombinator.com/item?id=30721918</id>
+        <link href="https://news.ycombinator.com/item?id=30721918"/>
+        <updated>2022-03-18T13:25:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Safe-node – PoC of node with permissions prompts a la Deno]]></summary>
+        <author>
+            <name>stagas</name>
+            <uri>https://news.ycombinator.com/user?id=stagas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[追踪提及情况以获得线索（来自乌克兰）。]]></title>
         <id>https://news.ycombinator.com/item?id=30721661</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zeras</name>
             <uri>https://news.ycombinator.com/user?id=zeras</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我开发了安卓版的幻灯片制作软件]]></title>
-        <id>https://news.ycombinator.com/item?id=30459617</id>
-        <link href="https://news.ycombinator.com/item?id=30459617"/>
-        <updated>2022-02-24T20:09:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I developed slideshow maker app for Android]]></summary>
-        <author>
-            <name>Mabrar92</name>
-            <uri>https://news.ycombinator.com/user?id=Mabrar92</uri>
         </author>
     </entry>
 </feed>
