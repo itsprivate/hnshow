@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-18T13:38:41.661Z</updated>
+    <updated>2022-03-18T14:53:37.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[週五==比薩]]></title>
+        <id>https://news.ycombinator.com/item?id=30722850</id>
+        <link href="https://news.ycombinator.com/item?id=30722850"/>
+        <updated>2022-03-18T14:39:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Friday == Pizza]]></summary>
+        <author>
+            <name>leonagano</name>
+            <uri>https://news.ycombinator.com/user?id=leonagano</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安全節點--帶有權限提示的節點的PoC，就像Deno一樣]]></title>
         <id>https://news.ycombinator.com/item?id=30721918</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>iedufy</name>
             <uri>https://news.ycombinator.com/user?id=iedufy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瞭解烏克蘭最新新聞的快速和簡單方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30459662</id>
-        <link href="https://news.ycombinator.com/item?id=30459662"/>
-        <updated>2022-02-24T20:13:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Quick and easy way to keep up with the latest Ukraine news]]></summary>
-        <author>
-            <name>zeras</name>
-            <uri>https://news.ycombinator.com/user?id=zeras</uri>
         </author>
     </entry>
 </feed>

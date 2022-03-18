@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 18 Mar 2022 13:38:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 14:53:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[週五==比薩]]></title>
+            <link>https://news.ycombinator.com/item?id=30722850</link>
+            <guid>https://news.ycombinator.com/item?id=30722850</guid>
+            <pubDate>Fri, 18 Mar 2022 14:39:34 GMT</pubDate>
+            <description><![CDATA[Show HN: Friday == Pizza]]></description>
+        </item>
         <item>
             <title><![CDATA[安全節點--帶有權限提示的節點的PoC，就像Deno一樣]]></title>
             <link>https://news.ycombinator.com/item?id=30721918</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30460049</guid>
             <pubDate>Thu, 24 Feb 2022 20:46:03 GMT</pubDate>
             <description><![CDATA[Show HN: A Network of Knowledge Feeds]]></description>
-        </item>
-        <item>
-            <title><![CDATA[瞭解烏克蘭最新新聞的快速和簡單方法]]></title>
-            <link>https://news.ycombinator.com/item?id=30459662</link>
-            <guid>https://news.ycombinator.com/item?id=30459662</guid>
-            <pubDate>Thu, 24 Feb 2022 20:13:18 GMT</pubDate>
-            <description><![CDATA[Show HN: Quick and easy way to keep up with the latest Ukraine news]]></description>
         </item>
     </channel>
 </rss>
