@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 18 Mar 2022 16:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 17:25:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Ns6.com，一个链接就能分享你所有的链接]]></title>
+            <link>https://news.ycombinator.com/item?id=30724886</link>
+            <guid>https://news.ycombinator.com/item?id=30724886</guid>
+            <pubDate>Fri, 18 Mar 2022 17:17:54 GMT</pubDate>
+            <description><![CDATA[Show HN: Ns6.com, one link to share all your links]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一个TCP和HTTP以及WebSocket和UDP Echo服务器，满足你的所有需求]]></title>
+            <link>https://news.ycombinator.com/item?id=30724808</link>
+            <guid>https://news.ycombinator.com/item?id=30724808</guid>
+            <pubDate>Fri, 18 Mar 2022 17:12:09 GMT</pubDate>
+            <description><![CDATA[Show HN: A TCP and HTTP and WebSocket and UDP Echo server for all your needs]]></description>
+        </item>
         <item>
             <title><![CDATA[带有C语言预处理的Awk封装器]]></title>
             <link>https://news.ycombinator.com/item?id=30724373</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30462863</guid>
             <pubDate>Fri, 25 Feb 2022 01:58:25 GMT</pubDate>
             <description><![CDATA[Show HN: Inferrd – open-source ML Deployment]]></description>
-        </item>
-        <item>
-            <title><![CDATA[C++中高效的通配符模式匹配]]></title>
-            <link>https://news.ycombinator.com/item?id=30462227</link>
-            <guid>https://news.ycombinator.com/item?id=30462227</guid>
-            <pubDate>Fri, 25 Feb 2022 00:21:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Efficient Wildcard Pattern Matching in C++]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用PlantUML在GitHub的Markdown中嵌入架构图]]></title>
-            <link>https://news.ycombinator.com/item?id=30462089</link>
-            <guid>https://news.ycombinator.com/item?id=30462089</guid>
-            <pubDate>Fri, 25 Feb 2022 00:02:07 GMT</pubDate>
-            <description><![CDATA[Show HN: Embed architecture diagrams in GitHub Markdown with PlantUML]]></description>
         </item>
     </channel>
 </rss>
