@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 18 Mar 2022 11:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 11:51:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[黑客新聞的鍵盤導航[Chrome擴展]]]></title>
+            <link>https://news.ycombinator.com/item?id=30720894</link>
+            <guid>https://news.ycombinator.com/item?id=30720894</guid>
+            <pubDate>Fri, 18 Mar 2022 11:40:28 GMT</pubDate>
+            <description><![CDATA[Show HN: Hacker News keyboard navigation [Chrome extension]]]></description>
+        </item>
         <item>
             <title><![CDATA[哦，嘿嘿，當你忘記其他終端命令時，有一個終端命令。]]></title>
             <link>https://news.ycombinator.com/item?id=30720834</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30457900</guid>
             <pubDate>Thu, 24 Feb 2022 17:54:28 GMT</pubDate>
             <description><![CDATA[Show HN: I made a playing card game to help me teach my daughter Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[vimmer.io是一個具有真正嵌入式編輯器的Vim互動課程]]></title>
-            <link>https://news.ycombinator.com/item?id=30457788</link>
-            <guid>https://news.ycombinator.com/item?id=30457788</guid>
-            <pubDate>Thu, 24 Feb 2022 17:46:14 GMT</pubDate>
-            <description><![CDATA[Show HN: vimmer.io is an interactive course for Vim with a real embedded editor]]></description>
         </item>
     </channel>
 </rss>
