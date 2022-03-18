@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-17T23:32:29.129Z</updated>
+    <updated>2022-03-18T02:15:59.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Echo Prof - 一个可以与之对话的学习应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30717887</id>
+        <link href="https://news.ycombinator.com/item?id=30717887"/>
+        <updated>2022-03-18T01:48:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Echo Prof – An app for studying that you can talk with]]></summary>
+        <author>
+            <name>david_d12345</name>
+            <uri>https://news.ycombinator.com/user?id=david_d12345</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Workers WebSockets瑞士军刀]]></title>
+        <id>https://news.ycombinator.com/item?id=30717509</id>
+        <link href="https://news.ycombinator.com/item?id=30717509"/>
+        <updated>2022-03-18T00:52:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Cloudflare Workers WebSockets Swiss Army Knife]]></summary>
+        <author>
+            <name>alexleclair</name>
+            <uri>https://news.ycombinator.com/user?id=alexleclair</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重新审视Guile XUnit]]></title>
         <id>https://news.ycombinator.com/item?id=30716964</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>firatcan</name>
             <uri>https://news.ycombinator.com/user?id=firatcan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于过去计算机广告的通讯]]></title>
-        <id>https://news.ycombinator.com/item?id=30456154</id>
-        <link href="https://news.ycombinator.com/item?id=30456154"/>
-        <updated>2022-02-24T15:56:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Newsletter about Computer Ads from the Past]]></summary>
-        <author>
-            <name>johnblood</name>
-            <uri>https://news.ycombinator.com/user?id=johnblood</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WooCommerce插件，在添加到购物车时将用户重定向到一个页面或URL。]]></title>
-        <id>https://news.ycombinator.com/item?id=30455746</id>
-        <link href="https://news.ycombinator.com/item?id=30455746"/>
-        <updated>2022-02-24T15:27:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WooCommerce plugin to redirect user to a page or URL on add to cart]]></summary>
-        <author>
-            <name>wpxqw</name>
-            <uri>https://news.ycombinator.com/user?id=wpxqw</uri>
         </author>
     </entry>
 </feed>
