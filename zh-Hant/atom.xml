@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-18T03:36:45.381Z</updated>
+    <updated>2022-03-18T08:14:20.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[輕鬆轉移風格]]></title>
+        <id>https://news.ycombinator.com/item?id=30719670</id>
+        <link href="https://news.ycombinator.com/item?id=30719670"/>
+        <updated>2022-03-18T08:05:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Easy Style Transfer]]></summary>
+        <author>
+            <name>edek</name>
+            <uri>https://news.ycombinator.com/user?id=edek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[惡夢的註釋者]]></title>
         <id>https://news.ycombinator.com/item?id=30718422</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fudged71</name>
             <uri>https://news.ycombinator.com/user?id=fudged71</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheerp 2.7, C++ to JavaScript/WASM, PartialExecuter, Exceptions]]></title>
-        <id>https://news.ycombinator.com/item?id=30456286</id>
-        <link href="https://news.ycombinator.com/item?id=30456286"/>
-        <updated>2022-02-24T16:04:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cheerp 2.7, C++ to JavaScript/WASM, PartialExecuter, Exceptions]]></summary>
-        <author>
-            <name>carlopi</name>
-            <uri>https://news.ycombinator.com/user?id=carlopi</uri>
         </author>
     </entry>
 </feed>

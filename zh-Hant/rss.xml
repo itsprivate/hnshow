@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 18 Mar 2022 03:36:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 08:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[輕鬆轉移風格]]></title>
+            <link>https://news.ycombinator.com/item?id=30719670</link>
+            <guid>https://news.ycombinator.com/item?id=30719670</guid>
+            <pubDate>Fri, 18 Mar 2022 08:05:53 GMT</pubDate>
+            <description><![CDATA[Show HN: Easy Style Transfer]]></description>
+        </item>
         <item>
             <title><![CDATA[惡夢的註釋者]]></title>
             <link>https://news.ycombinator.com/item?id=30718422</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30456620</guid>
             <pubDate>Thu, 24 Feb 2022 16:28:35 GMT</pubDate>
             <description><![CDATA[Show HN: Automated Satellite Monitoring of Russian Troops on Ukrainian Border]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cheerp 2.7, C++ to JavaScript/WASM, PartialExecuter, Exceptions]]></title>
-            <link>https://news.ycombinator.com/item?id=30456286</link>
-            <guid>https://news.ycombinator.com/item?id=30456286</guid>
-            <pubDate>Thu, 24 Feb 2022 16:04:33 GMT</pubDate>
-            <description><![CDATA[Show HN: Cheerp 2.7, C++ to JavaScript/WASM, PartialExecuter, Exceptions]]></description>
         </item>
     </channel>
 </rss>
