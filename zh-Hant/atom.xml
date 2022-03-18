@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-18T16:17:05.140Z</updated>
+    <updated>2022-03-18T16:49:26.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[帶有C語言預處理的Awk封裝器]]></title>
+        <id>https://news.ycombinator.com/item?id=30724373</id>
+        <link href="https://news.ycombinator.com/item?id=30724373"/>
+        <updated>2022-03-18T16:36:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Awk Wrapper with C Preprocessing]]></summary>
+        <author>
+            <name>kazinator</name>
+            <uri>https://news.ycombinator.com/user?id=kazinator</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MdSilo桌面，你桌面上最小的本地知識倉]]></title>
+        <id>https://news.ycombinator.com/item?id=30724372</id>
+        <link href="https://news.ycombinator.com/item?id=30724372"/>
+        <updated>2022-03-18T16:36:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MdSilo Desktop, smallest local knowledge silo on your desktop]]></summary>
+        <author>
+            <name>ihndan</name>
+            <uri>https://news.ycombinator.com/user?id=ihndan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從一個單源文件構建和推送多個Docker鏡像]]></title>
+        <id>https://news.ycombinator.com/item?id=30724367</id>
+        <link href="https://news.ycombinator.com/item?id=30724367"/>
+        <updated>2022-03-18T16:36:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build and push multiple Docker images from a monorepo]]></summary>
+        <author>
+            <name>vitorfhc</name>
+            <uri>https://news.ycombinator.com/user?id=vitorfhc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QjsIpc, 用QuickJS和wasmtime在dotnet上調用JavaScript程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30724248</id>
+        <link href="https://news.ycombinator.com/item?id=30724248"/>
+        <updated>2022-03-18T16:27:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: QjsIpc, Invoke JavaScript procedure on dotnet with QuickJS and wasmtime]]></summary>
+        <author>
+            <name>iwate</name>
+            <uri>https://news.ycombinator.com/user?id=iwate</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[根據你的具體需求尋找和研究合適的電動汽車]]></title>
+        <id>https://news.ycombinator.com/item?id=30724127</id>
+        <link href="https://news.ycombinator.com/item?id=30724127"/>
+        <updated>2022-03-18T16:18:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Find and Research the Right Electric Car Based on Your Specific Needs]]></summary>
+        <author>
+            <name>electricdriver</name>
+            <uri>https://news.ycombinator.com/user?id=electricdriver</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Calenday，用於旅行計劃的實時協作日曆]]></title>
         <id>https://news.ycombinator.com/item?id=30723793</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>danielyaa5</name>
             <uri>https://news.ycombinator.com/user?id=danielyaa5</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Bazel混合Rust、C和編譯目標]]></title>
-        <id>https://news.ycombinator.com/item?id=30461574</id>
-        <link href="https://news.ycombinator.com/item?id=30461574"/>
-        <updated>2022-02-24T23:05:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mix Rust, C, and compilation targets with Bazel]]></summary>
-        <author>
-            <name>DriftRegion</name>
-            <uri>https://news.ycombinator.com/user?id=DriftRegion</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基洛夫飛艇。反對精神統治的新武器]]></title>
-        <id>https://news.ycombinator.com/item?id=30461172</id>
-        <link href="https://news.ycombinator.com/item?id=30461172"/>
-        <updated>2022-02-24T22:25:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Kirov Airship: New weapon against psychic domination]]></summary>
-        <author>
-            <name>lostmsu</name>
-            <uri>https://news.ycombinator.com/user?id=lostmsu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個ETF和股票篩選器]]></title>
-        <id>https://news.ycombinator.com/item?id=30461014</id>
-        <link href="https://news.ycombinator.com/item?id=30461014"/>
-        <updated>2022-02-24T22:13:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made an ETF and stocks screener]]></summary>
-        <author>
-            <name>gmzi</name>
-            <uri>https://news.ycombinator.com/user?id=gmzi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loop_tool.js演示，一個用於線性代數（和ML）的JIT WASM編譯器]]></title>
-        <id>https://news.ycombinator.com/item?id=30460883</id>
-        <link href="https://news.ycombinator.com/item?id=30460883"/>
-        <updated>2022-02-24T22:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Loop_tool.js demo, a JIT WASM compiler for linear algebra (and ML)]]></summary>
-        <author>
-            <name>brrrrrm</name>
-            <uri>https://news.ycombinator.com/user?id=brrrrrm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與你的網站訪客現場交談]]></title>
-        <id>https://news.ycombinator.com/item?id=30460707</id>
-        <link href="https://news.ycombinator.com/item?id=30460707"/>
-        <updated>2022-02-24T21:41:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Talk to your website visitors live]]></summary>
-        <author>
-            <name>fghxz</name>
-            <uri>https://news.ycombinator.com/user?id=fghxz</uri>
         </author>
     </entry>
 </feed>

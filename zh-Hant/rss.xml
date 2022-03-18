@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 18 Mar 2022 16:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 16:49:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,41 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[帶有C語言預處理的Awk封裝器]]></title>
+            <link>https://news.ycombinator.com/item?id=30724373</link>
+            <guid>https://news.ycombinator.com/item?id=30724373</guid>
+            <pubDate>Fri, 18 Mar 2022 16:36:49 GMT</pubDate>
+            <description><![CDATA[Show HN: Awk Wrapper with C Preprocessing]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MdSilo桌面，你桌面上最小的本地知識倉]]></title>
+            <link>https://news.ycombinator.com/item?id=30724372</link>
+            <guid>https://news.ycombinator.com/item?id=30724372</guid>
+            <pubDate>Fri, 18 Mar 2022 16:36:45 GMT</pubDate>
+            <description><![CDATA[Show HN: MdSilo Desktop, smallest local knowledge silo on your desktop]]></description>
+        </item>
+        <item>
+            <title><![CDATA[從一個單源文件構建和推送多個Docker鏡像]]></title>
+            <link>https://news.ycombinator.com/item?id=30724367</link>
+            <guid>https://news.ycombinator.com/item?id=30724367</guid>
+            <pubDate>Fri, 18 Mar 2022 16:36:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Build and push multiple Docker images from a monorepo]]></description>
+        </item>
+        <item>
+            <title><![CDATA[QjsIpc, 用QuickJS和wasmtime在dotnet上調用JavaScript程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30724248</link>
+            <guid>https://news.ycombinator.com/item?id=30724248</guid>
+            <pubDate>Fri, 18 Mar 2022 16:27:29 GMT</pubDate>
+            <description><![CDATA[Show HN: QjsIpc, Invoke JavaScript procedure on dotnet with QuickJS and wasmtime]]></description>
+        </item>
+        <item>
+            <title><![CDATA[根據你的具體需求尋找和研究合適的電動汽車]]></title>
+            <link>https://news.ycombinator.com/item?id=30724127</link>
+            <guid>https://news.ycombinator.com/item?id=30724127</guid>
+            <pubDate>Fri, 18 Mar 2022 16:18:09 GMT</pubDate>
+            <description><![CDATA[Show HN: Find and Research the Right Electric Car Based on Your Specific Needs]]></description>
+        </item>
         <item>
             <title><![CDATA[Calenday，用於旅行計劃的實時協作日曆]]></title>
             <link>https://news.ycombinator.com/item?id=30723793</link>
@@ -4178,41 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30462089</guid>
             <pubDate>Fri, 25 Feb 2022 00:02:07 GMT</pubDate>
             <description><![CDATA[Show HN: Embed architecture diagrams in GitHub Markdown with PlantUML]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Bazel混合Rust、C和編譯目標]]></title>
-            <link>https://news.ycombinator.com/item?id=30461574</link>
-            <guid>https://news.ycombinator.com/item?id=30461574</guid>
-            <pubDate>Thu, 24 Feb 2022 23:05:18 GMT</pubDate>
-            <description><![CDATA[Show HN: Mix Rust, C, and compilation targets with Bazel]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基洛夫飛艇。反對精神統治的新武器]]></title>
-            <link>https://news.ycombinator.com/item?id=30461172</link>
-            <guid>https://news.ycombinator.com/item?id=30461172</guid>
-            <pubDate>Thu, 24 Feb 2022 22:25:38 GMT</pubDate>
-            <description><![CDATA[Show HN: Kirov Airship: New weapon against psychic domination]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一個ETF和股票篩選器]]></title>
-            <link>https://news.ycombinator.com/item?id=30461014</link>
-            <guid>https://news.ycombinator.com/item?id=30461014</guid>
-            <pubDate>Thu, 24 Feb 2022 22:13:13 GMT</pubDate>
-            <description><![CDATA[Show HN: I made an ETF and stocks screener]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Loop_tool.js演示，一個用於線性代數（和ML）的JIT WASM編譯器]]></title>
-            <link>https://news.ycombinator.com/item?id=30460883</link>
-            <guid>https://news.ycombinator.com/item?id=30460883</guid>
-            <pubDate>Thu, 24 Feb 2022 22:00:40 GMT</pubDate>
-            <description><![CDATA[Show HN: Loop_tool.js demo, a JIT WASM compiler for linear algebra (and ML)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[與你的網站訪客現場交談]]></title>
-            <link>https://news.ycombinator.com/item?id=30460707</link>
-            <guid>https://news.ycombinator.com/item?id=30460707</guid>
-            <pubDate>Thu, 24 Feb 2022 21:41:33 GMT</pubDate>
-            <description><![CDATA[Show HN: Talk to your website visitors live]]></description>
         </item>
     </channel>
 </rss>
