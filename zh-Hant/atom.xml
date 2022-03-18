@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-18T12:54:29.761Z</updated>
+    <updated>2022-03-18T13:21:28.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[追蹤提及情況以獲得線索（來自烏克蘭）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30721661</id>
+        <link href="https://news.ycombinator.com/item?id=30721661"/>
+        <updated>2022-03-18T13:04:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Track mentions to get leads (from Ukraine)]]></summary>
+        <author>
+            <name>AlexandrBel</name>
+            <uri>https://news.ycombinator.com/user?id=AlexandrBel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個可學習的太陽能充電控制器]]></title>
         <id>https://news.ycombinator.com/item?id=30721493</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Mabrar92</name>
             <uri>https://news.ycombinator.com/user?id=Mabrar92</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[打字-測試-期待，更文明時代的優雅打字法]]></title>
-        <id>https://news.ycombinator.com/item?id=30459463</id>
-        <link href="https://news.ycombinator.com/item?id=30459463"/>
-        <updated>2022-02-24T19:58:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Typed-jest-expect, elegant typings for a more civilized age]]></summary>
-        <author>
-            <name>elierotenberg</name>
-            <uri>https://news.ycombinator.com/user?id=elierotenberg</uri>
         </author>
     </entry>
 </feed>
