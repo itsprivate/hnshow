@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 19 Mar 2022 16:48:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 17:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Transcrib，一款用于WhatsApp语音笔记的语音转文本安卓应用]]></title>
+            <link>https://news.ycombinator.com/item?id=30735426</link>
+            <guid>https://news.ycombinator.com/item?id=30735426</guid>
+            <pubDate>Sat, 19 Mar 2022 17:00:33 GMT</pubDate>
+            <description><![CDATA[Show HN: Transcrib, a speech-to-text Android app for WhatsApp voice notes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[`Git add -p`与多个桶的关系]]></title>
+            <link>https://news.ycombinator.com/item?id=30735294</link>
+            <guid>https://news.ycombinator.com/item?id=30735294</guid>
+            <pubDate>Sat, 19 Mar 2022 16:47:27 GMT</pubDate>
+            <description><![CDATA[Show HN: `Git add -p` with multiple buckets]]></description>
+        </item>
         <item>
             <title><![CDATA[Airflow/Prefect/Airbyte/Dagster的免费开源替代品]]></title>
             <link>https://news.ycombinator.com/item?id=30735225</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30471395</guid>
             <pubDate>Fri, 25 Feb 2022 19:42:16 GMT</pubDate>
             <description><![CDATA[Show HN: Dirty-equals – Doing dirty (but useful) things with equals]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用自定义封面制作电子书，作为Kindle的锁屏图片使用]]></title>
-            <link>https://news.ycombinator.com/item?id=30470578</link>
-            <guid>https://news.ycombinator.com/item?id=30470578</guid>
-            <pubDate>Fri, 25 Feb 2022 18:39:39 GMT</pubDate>
-            <description><![CDATA[Show HN: Make ebooks with custom covers to use as lockscreen images on a Kindle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基于 "剪刀石头布 "的iOS增强现实自动下棋游戏]]></title>
-            <link>https://news.ycombinator.com/item?id=30470160</link>
-            <guid>https://news.ycombinator.com/item?id=30470160</guid>
-            <pubDate>Fri, 25 Feb 2022 18:04:27 GMT</pubDate>
-            <description><![CDATA[Show HN: iOS augmented reality auto-chess game based on Rock Paper Scissors]]></description>
         </item>
     </channel>
 </rss>

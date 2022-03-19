@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-19T16:48:23.131Z</updated>
+    <updated>2022-03-19T17:17:50.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Transcrib，一款用於WhatsApp語音筆記的語音轉文本安卓應用]]></title>
+        <id>https://news.ycombinator.com/item?id=30735426</id>
+        <link href="https://news.ycombinator.com/item?id=30735426"/>
+        <updated>2022-03-19T17:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Transcrib, a speech-to-text Android app for WhatsApp voice notes]]></summary>
+        <author>
+            <name>jay00</name>
+            <uri>https://news.ycombinator.com/user?id=jay00</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[`Git add -p`與多個桶的關係]]></title>
+        <id>https://news.ycombinator.com/item?id=30735294</id>
+        <link href="https://news.ycombinator.com/item?id=30735294"/>
+        <updated>2022-03-19T16:47:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: `Git add -p` with multiple buckets]]></summary>
+        <author>
+            <name>aleclm</name>
+            <uri>https://news.ycombinator.com/user?id=aleclm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Airflow/Prefect/Airbyte/Dagster的免費開源替代品]]></title>
         <id>https://news.ycombinator.com/item?id=30735225</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>scolvin</name>
             <uri>https://news.ycombinator.com/user?id=scolvin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用自定義封面製作電子書，作為Kindle的鎖屏圖片使用]]></title>
-        <id>https://news.ycombinator.com/item?id=30470578</id>
-        <link href="https://news.ycombinator.com/item?id=30470578"/>
-        <updated>2022-02-25T18:39:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Make ebooks with custom covers to use as lockscreen images on a Kindle]]></summary>
-        <author>
-            <name>javierbyte</name>
-            <uri>https://news.ycombinator.com/user?id=javierbyte</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於 "剪刀石頭布 "的iOS增強現實自動下棋遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30470160</id>
-        <link href="https://news.ycombinator.com/item?id=30470160"/>
-        <updated>2022-02-25T18:04:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: iOS augmented reality auto-chess game based on Rock Paper Scissors]]></summary>
-        <author>
-            <name>robomex</name>
-            <uri>https://news.ycombinator.com/user?id=robomex</uri>
         </author>
     </entry>
 </feed>
