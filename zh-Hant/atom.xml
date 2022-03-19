@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-19T13:08:31.563Z</updated>
+    <updated>2022-03-19T14:14:10.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AgnosticUI一個React、Vue 3、Svelte和Angular的UI庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30733698</id>
+        <link href="https://news.ycombinator.com/item?id=30733698"/>
+        <updated>2022-03-19T13:52:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: AgnosticUI a React, Vue 3, Svelte, and Angular UI Library]]></summary>
+        <author>
+            <name>roblevintennis</name>
+            <uri>https://news.ycombinator.com/user?id=roblevintennis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個測試你對當地瞭解程度的遊戲]]></title>
         <id>https://news.ycombinator.com/item?id=30733339</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>briancldo</name>
             <uri>https://news.ycombinator.com/user?id=briancldo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codebraid Preview for VS Code: 潘多克預覽版與Jupyter內核]]></title>
-        <id>https://news.ycombinator.com/item?id=30468812</id>
-        <link href="https://news.ycombinator.com/item?id=30468812"/>
-        <updated>2022-02-25T16:13:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Codebraid Preview for VS Code: Pandoc Preview with Jupyter Kernels]]></summary>
-        <author>
-            <name>gpoore</name>
-            <uri>https://news.ycombinator.com/user?id=gpoore</uri>
         </author>
     </entry>
 </feed>
