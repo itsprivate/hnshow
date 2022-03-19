@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-19T17:51:58.864Z</updated>
+    <updated>2022-03-19T18:14:21.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Go中的新验证函数库，具有通用支持功能]]></title>
+        <id>https://news.ycombinator.com/item?id=30736127</id>
+        <link href="https://news.ycombinator.com/item?id=30736127"/>
+        <updated>2022-03-19T18:10:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: New library for verify function in Go with generic supports]]></summary>
+        <author>
+            <name>pyxru</name>
+            <uri>https://news.ycombinator.com/user?id=pyxru</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在同一地点搜索域名和用户名]]></title>
+        <id>https://news.ycombinator.com/item?id=30735976</id>
+        <link href="https://news.ycombinator.com/item?id=30735976"/>
+        <updated>2022-03-19T17:57:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Search Domain and Username in the same place]]></summary>
+        <author>
+            <name>rajasimon</name>
+            <uri>https://news.ycombinator.com/user?id=rajasimon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一本使用基于狐猴的插图的概率书]]></title>
         <id>https://news.ycombinator.com/item?id=30735817</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>normhill</name>
             <uri>https://news.ycombinator.com/user?id=normhill</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C语言的统一诊断服务（UDS）服务器和客户端]]></title>
-        <id>https://news.ycombinator.com/item?id=30474308</id>
-        <link href="https://news.ycombinator.com/item?id=30474308"/>
-        <updated>2022-02-26T00:54:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Unified Diagnostic Services (UDS) server and client in C]]></summary>
-        <author>
-            <name>DriftRegion</name>
-            <uri>https://news.ycombinator.com/user?id=DriftRegion</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从类似于Markdown的文本中创建一个时间线]]></title>
-        <id>https://news.ycombinator.com/item?id=30472795</id>
-        <link href="https://news.ycombinator.com/item?id=30472795"/>
-        <updated>2022-02-25T21:52:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Create a timeline from Markdown-like text]]></summary>
-        <author>
-            <name>koch</name>
-            <uri>https://news.ycombinator.com/user?id=koch</uri>
         </author>
     </entry>
 </feed>
