@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-19T21:36:43.332Z</updated>
+    <updated>2022-03-19T22:51:53.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一个加密钱币筛选器]]></title>
+        <id>https://news.ycombinator.com/item?id=30738218</id>
+        <link href="https://news.ycombinator.com/item?id=30738218"/>
+        <updated>2022-03-19T22:41:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I build a crypto coin screener]]></summary>
+        <author>
+            <name>visox</name>
+            <uri>https://news.ycombinator.com/user?id=visox</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Regex语法到Python语法，反之亦然]]></title>
         <id>https://news.ycombinator.com/item?id=30737753</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nadermx</name>
             <uri>https://news.ycombinator.com/user?id=nadermx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[npx绒球--漂亮而简单的终端 Pomodoro]]></title>
-        <id>https://news.ycombinator.com/item?id=30474826</id>
-        <link href="https://news.ycombinator.com/item?id=30474826"/>
-        <updated>2022-02-26T02:39:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: npx pompoms – pretty and simple terminal Pomodoro]]></summary>
-        <author>
-            <name>MonxK6PY7</name>
-            <uri>https://news.ycombinator.com/user?id=MonxK6PY7</uri>
         </author>
     </entry>
 </feed>
