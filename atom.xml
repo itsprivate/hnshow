@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-19T18:14:21.567Z</updated>
+    <updated>2022-03-19T21:36:43.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Regex语法到Python语法，反之亦然]]></title>
+        <id>https://news.ycombinator.com/item?id=30737753</id>
+        <link href="https://news.ycombinator.com/item?id=30737753"/>
+        <updated>2022-03-19T21:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Regex syntax to Python syntax and vice versa]]></summary>
+        <author>
+            <name>antizeus</name>
+            <uri>https://news.ycombinator.com/user?id=antizeus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于实现词典/解析器的神奇Python库]]></title>
+        <id>https://news.ycombinator.com/item?id=30737743</id>
+        <link href="https://news.ycombinator.com/item?id=30737743"/>
+        <updated>2022-03-19T21:29:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Magic Python lib to implement lexers/parsers]]></summary>
+        <author>
+            <name>antizeus</name>
+            <uri>https://news.ycombinator.com/user?id=antizeus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go中的新验证函数库，具有通用支持功能]]></title>
         <id>https://news.ycombinator.com/item?id=30736127</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>MonxK6PY7</name>
             <uri>https://news.ycombinator.com/user?id=MonxK6PY7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nomoreinvasion.com - 可轻松插入支持乌克兰的信息]]></title>
-        <id>https://news.ycombinator.com/item?id=30474767</id>
-        <link href="https://news.ycombinator.com/item?id=30474767"/>
-        <updated>2022-02-26T02:26:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Nomoreinvasion.com – Easy insertable message to support Ukraine]]></summary>
-        <author>
-            <name>capableweb</name>
-            <uri>https://news.ycombinator.com/user?id=capableweb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高级新闻搜索]]></title>
-        <id>https://news.ycombinator.com/item?id=30474704</id>
-        <link href="https://news.ycombinator.com/item?id=30474704"/>
-        <updated>2022-02-26T02:11:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Advanced News Search]]></summary>
-        <author>
-            <name>normhill</name>
-            <uri>https://news.ycombinator.com/user?id=normhill</uri>
         </author>
     </entry>
 </feed>
