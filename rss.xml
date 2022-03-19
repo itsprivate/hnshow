@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 19 Mar 2022 10:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 11:09:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[编码规则。编写稳健、可维护代码的规则]]></title>
+            <link>https://news.ycombinator.com/item?id=30732474</link>
+            <guid>https://news.ycombinator.com/item?id=30732474</guid>
+            <pubDate>Sat, 19 Mar 2022 09:49:52 GMT</pubDate>
+            <description><![CDATA[Show HN: Coding Rules: Rules for writing robust, maintainable code]]></description>
+        </item>
         <item>
             <title><![CDATA[Tinder4Cats]]></title>
             <link>https://news.ycombinator.com/item?id=30732147</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30467856</guid>
             <pubDate>Fri, 25 Feb 2022 14:52:48 GMT</pubDate>
             <description><![CDATA[Show HN: Use GitHub Markdown Comments to Render UML Diagrams]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从16秒的音频中克隆出一种乐器]]></title>
-            <link>https://news.ycombinator.com/item?id=30467328</link>
-            <guid>https://news.ycombinator.com/item?id=30467328</guid>
-            <pubDate>Fri, 25 Feb 2022 13:59:59 GMT</pubDate>
-            <description><![CDATA[Show HN: Cloning an musical instrument from 16 seconds of audio]]></description>
         </item>
     </channel>
 </rss>
