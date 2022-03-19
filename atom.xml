@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-19T17:17:50.630Z</updated>
+    <updated>2022-03-19T17:51:58.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一本使用基于狐猴的插图的概率书]]></title>
+        <id>https://news.ycombinator.com/item?id=30735817</id>
+        <link href="https://news.ycombinator.com/item?id=30735817"/>
+        <updated>2022-03-19T17:42:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Book on Probability Using Lemur-Based Illustrations]]></summary>
+        <author>
+            <name>wwwpatdelcom</name>
+            <uri>https://news.ycombinator.com/user?id=wwwpatdelcom</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pontrdle，一个你创造自己的物种并竞争食物的游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=30735778</id>
+        <link href="https://news.ycombinator.com/item?id=30735778"/>
+        <updated>2022-03-19T17:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pontrdle, a game where you create your own specie and compete for food]]></summary>
+        <author>
+            <name>gcampos</name>
+            <uri>https://news.ycombinator.com/user?id=gcampos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transcrib，一款用于WhatsApp语音笔记的语音转文本安卓应用]]></title>
         <id>https://news.ycombinator.com/item?id=30735426</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>koch</name>
             <uri>https://news.ycombinator.com/user?id=koch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[试玩--与朋友的聚会游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=30472034</id>
-        <link href="https://news.ycombinator.com/item?id=30472034"/>
-        <updated>2022-02-25T20:34:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Playtest – Party Games with Friends]]></summary>
-        <author>
-            <name>namboon</name>
-            <uri>https://news.ycombinator.com/user?id=namboon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[肮脏的等价物--用等价物做肮脏（但有用）的事情]]></title>
-        <id>https://news.ycombinator.com/item?id=30471395</id>
-        <link href="https://news.ycombinator.com/item?id=30471395"/>
-        <updated>2022-02-25T19:42:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dirty-equals – Doing dirty (but useful) things with equals]]></summary>
-        <author>
-            <name>scolvin</name>
-            <uri>https://news.ycombinator.com/user?id=scolvin</uri>
         </author>
     </entry>
 </feed>
