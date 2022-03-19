@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-19T11:09:50.612Z</updated>
+    <updated>2022-03-19T12:51:38.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[禅宗模式 - 隐藏一切。静音一切]]></title>
+        <id>https://news.ycombinator.com/item?id=30733308</id>
+        <link href="https://news.ycombinator.com/item?id=30733308"/>
+        <updated>2022-03-19T12:43:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Zen Mode – Hide Everything. Mute Everything]]></summary>
+        <author>
+            <name>pradeepb28</name>
+            <uri>https://news.ycombinator.com/user?id=pradeepb28</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将你的GitHub贡献打印成艺术品]]></title>
+        <id>https://news.ycombinator.com/item?id=30733258</id>
+        <link href="https://news.ycombinator.com/item?id=30733258"/>
+        <updated>2022-03-19T12:33:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Print your GitHub contributions as an artwork]]></summary>
+        <author>
+            <name>djyde</name>
+            <uri>https://news.ycombinator.com/user?id=djyde</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个iOS应用，让你跟踪你的广告收入]]></title>
+        <id>https://news.ycombinator.com/item?id=30733201</id>
+        <link href="https://news.ycombinator.com/item?id=30733201"/>
+        <updated>2022-03-19T12:24:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an iOS app to allow you to track your ad revenue]]></summary>
+        <author>
+            <name>furkansimsir</name>
+            <uri>https://news.ycombinator.com/user?id=furkansimsir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[编码规则。编写稳健、可维护代码的规则]]></title>
         <id>https://news.ycombinator.com/item?id=30732474</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>billen</name>
             <uri>https://news.ycombinator.com/user?id=billen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个用C++编写的Minecraft服务器启动系统20]]></title>
-        <id>https://news.ycombinator.com/item?id=30468011</id>
-        <link href="https://news.ycombinator.com/item?id=30468011"/>
-        <updated>2022-02-25T15:06:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Minecraft server startup system written in C++20]]></summary>
-        <author>
-            <name>netr0ute</name>
-            <uri>https://news.ycombinator.com/user?id=netr0ute</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beam.gg - 游戏化的社区平台，让你的用户保持参与感]]></title>
-        <id>https://news.ycombinator.com/item?id=30467951</id>
-        <link href="https://news.ycombinator.com/item?id=30467951"/>
-        <updated>2022-02-25T15:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Beam.gg – Gamified community platform built to keep your users engaged]]></summary>
-        <author>
-            <name>jazz_prado</name>
-            <uri>https://news.ycombinator.com/user?id=jazz_prado</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用GitHub的Markdown注释来渲染UML图示]]></title>
-        <id>https://news.ycombinator.com/item?id=30467856</id>
-        <link href="https://news.ycombinator.com/item?id=30467856"/>
-        <updated>2022-02-25T14:52:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Use GitHub Markdown Comments to Render UML Diagrams]]></summary>
-        <author>
-            <name>danielyaa5</name>
-            <uri>https://news.ycombinator.com/user?id=danielyaa5</uri>
         </author>
     </entry>
 </feed>

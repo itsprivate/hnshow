@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 19 Mar 2022 11:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 12:51:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[禅宗模式 - 隐藏一切。静音一切]]></title>
+            <link>https://news.ycombinator.com/item?id=30733308</link>
+            <guid>https://news.ycombinator.com/item?id=30733308</guid>
+            <pubDate>Sat, 19 Mar 2022 12:43:38 GMT</pubDate>
+            <description><![CDATA[Show HN: Zen Mode – Hide Everything. Mute Everything]]></description>
+        </item>
+        <item>
+            <title><![CDATA[将你的GitHub贡献打印成艺术品]]></title>
+            <link>https://news.ycombinator.com/item?id=30733258</link>
+            <guid>https://news.ycombinator.com/item?id=30733258</guid>
+            <pubDate>Sat, 19 Mar 2022 12:33:39 GMT</pubDate>
+            <description><![CDATA[Show HN: Print your GitHub contributions as an artwork]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我做了一个iOS应用，让你跟踪你的广告收入]]></title>
+            <link>https://news.ycombinator.com/item?id=30733201</link>
+            <guid>https://news.ycombinator.com/item?id=30733201</guid>
+            <pubDate>Sat, 19 Mar 2022 12:24:50 GMT</pubDate>
+            <description><![CDATA[Show HN: I made an iOS app to allow you to track your ad revenue]]></description>
+        </item>
         <item>
             <title><![CDATA[编码规则。编写稳健、可维护代码的规则]]></title>
             <link>https://news.ycombinator.com/item?id=30732474</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30468472</guid>
             <pubDate>Fri, 25 Feb 2022 15:45:10 GMT</pubDate>
             <description><![CDATA[Show HN: Creepr.io – Monitor Ethereum Addresses via Email]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个用C++编写的Minecraft服务器启动系统20]]></title>
-            <link>https://news.ycombinator.com/item?id=30468011</link>
-            <guid>https://news.ycombinator.com/item?id=30468011</guid>
-            <pubDate>Fri, 25 Feb 2022 15:06:39 GMT</pubDate>
-            <description><![CDATA[Show HN: A Minecraft server startup system written in C++20]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Beam.gg - 游戏化的社区平台，让你的用户保持参与感]]></title>
-            <link>https://news.ycombinator.com/item?id=30467951</link>
-            <guid>https://news.ycombinator.com/item?id=30467951</guid>
-            <pubDate>Fri, 25 Feb 2022 15:01:29 GMT</pubDate>
-            <description><![CDATA[Show HN: Beam.gg – Gamified community platform built to keep your users engaged]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用GitHub的Markdown注释来渲染UML图示]]></title>
-            <link>https://news.ycombinator.com/item?id=30467856</link>
-            <guid>https://news.ycombinator.com/item?id=30467856</guid>
-            <pubDate>Fri, 25 Feb 2022 14:52:48 GMT</pubDate>
-            <description><![CDATA[Show HN: Use GitHub Markdown Comments to Render UML Diagrams]]></description>
         </item>
     </channel>
 </rss>
