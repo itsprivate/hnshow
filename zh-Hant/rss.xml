@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 19 Mar 2022 22:51:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 23:40:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Shuz - 在二維碼的幫助下，輕鬆實現近距離的信息傳遞]]></title>
+            <link>https://news.ycombinator.com/item?id=30738537</link>
+            <guid>https://news.ycombinator.com/item?id=30738537</guid>
+            <pubDate>Sat, 19 Mar 2022 23:32:20 GMT</pubDate>
+            <description><![CDATA[Show HN: Shuz – Easy close-quarters messaging, with help from QR codes]]></description>
+        </item>
         <item>
             <title><![CDATA[我建立了一個加密錢幣篩選器]]></title>
             <link>https://news.ycombinator.com/item?id=30738218</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30475179</guid>
             <pubDate>Sat, 26 Feb 2022 04:16:06 GMT</pubDate>
             <description><![CDATA[Show HN: Flatsauce – Database with Decoupled Storage and Compute]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MP4轉換器]]></title>
-            <link>https://news.ycombinator.com/item?id=30475004</link>
-            <guid>https://news.ycombinator.com/item?id=30475004</guid>
-            <pubDate>Sat, 26 Feb 2022 03:23:55 GMT</pubDate>
-            <description><![CDATA[Show HN: MP4 Converter]]></description>
         </item>
     </channel>
 </rss>
