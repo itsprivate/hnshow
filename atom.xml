@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-19T14:14:10.763Z</updated>
+    <updated>2022-03-19T16:48:23.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Airflow/Prefect/Airbyte/Dagster的免费开源替代品]]></title>
+        <id>https://news.ycombinator.com/item?id=30735225</id>
+        <link href="https://news.ycombinator.com/item?id=30735225"/>
+        <updated>2022-03-19T16:40:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Free open-source alternative to Airflow/Prefect/Airbyte/Dagster]]></summary>
+        <author>
+            <name>uskrokette</name>
+            <uri>https://news.ycombinator.com/user?id=uskrokette</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AgnosticUI一个React、Vue 3、Svelte和Angular的UI库]]></title>
         <id>https://news.ycombinator.com/item?id=30733698</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>robomex</name>
             <uri>https://news.ycombinator.com/user?id=robomex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[缩短淋浴时间的应用程序现已登陆iOS]]></title>
-        <id>https://news.ycombinator.com/item?id=30469033</id>
-        <link href="https://news.ycombinator.com/item?id=30469033"/>
-        <updated>2022-02-25T16:31:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Shorter Showers App Is Now on iOS]]></summary>
-        <author>
-            <name>briancldo</name>
-            <uri>https://news.ycombinator.com/user?id=briancldo</uri>
         </author>
     </entry>
 </feed>
