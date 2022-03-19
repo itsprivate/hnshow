@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-19T12:51:38.850Z</updated>
+    <updated>2022-03-19T13:08:31.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个测试你对当地了解程度的游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=30733339</id>
+        <link href="https://news.ycombinator.com/item?id=30733339"/>
+        <updated>2022-03-19T12:50:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A game that tests how well you know your local area]]></summary>
+        <author>
+            <name>adamlynch</name>
+            <uri>https://news.ycombinator.com/user?id=adamlynch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[禅宗模式 - 隐藏一切。静音一切]]></title>
         <id>https://news.ycombinator.com/item?id=30733308</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gpoore</name>
             <uri>https://news.ycombinator.com/user?id=gpoore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creepr.io - 通过电子邮件监控以太坊地址]]></title>
-        <id>https://news.ycombinator.com/item?id=30468472</id>
-        <link href="https://news.ycombinator.com/item?id=30468472"/>
-        <updated>2022-02-25T15:45:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Creepr.io – Monitor Ethereum Addresses via Email]]></summary>
-        <author>
-            <name>billen</name>
-            <uri>https://news.ycombinator.com/user?id=billen</uri>
         </author>
     </entry>
 </feed>
