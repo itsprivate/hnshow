@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-20T16:45:54.794Z</updated>
+    <updated>2022-03-20T18:15:59.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為不懂英語的人提供Wordle提示]]></title>
+        <id>https://news.ycombinator.com/item?id=30744869</id>
+        <link href="https://news.ycombinator.com/item?id=30744869"/>
+        <updated>2022-03-20T17:51:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Wordle Hints for none English speakers]]></summary>
+        <author>
+            <name>skarlso</name>
+            <uri>https://news.ycombinator.com/user?id=skarlso</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zig是一個每天尋找最佳路徑的謎題]]></title>
         <id>https://news.ycombinator.com/item?id=30744124</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>K0IN</name>
             <uri>https://news.ycombinator.com/user?id=K0IN</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[teenytools - 一個網頁設計和開發工具箱]]></title>
-        <id>https://news.ycombinator.com/item?id=30487444</id>
-        <link href="https://news.ycombinator.com/item?id=30487444"/>
-        <updated>2022-02-27T11:53:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: teenytools – a web design and development toolbox]]></summary>
-        <author>
-            <name>tkvishal</name>
-            <uri>https://news.ycombinator.com/user?id=tkvishal</uri>
         </author>
     </entry>
 </feed>
