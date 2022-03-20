@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-20T18:15:59.951Z</updated>
+    <updated>2022-03-20T18:37:20.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個並不試圖成為TikTok克隆的照片分享應用]]></title>
+        <id>https://news.ycombinator.com/item?id=30745237</id>
+        <link href="https://news.ycombinator.com/item?id=30745237"/>
+        <updated>2022-03-20T18:28:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A photo sharing app that isn't trying to be a TikTok clone]]></summary>
+        <author>
+            <name>Fnalsk</name>
+            <uri>https://news.ycombinator.com/user?id=Fnalsk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QR算法的動態可視化[視頻]。]]></title>
+        <id>https://news.ycombinator.com/item?id=30745152</id>
+        <link href="https://news.ycombinator.com/item?id=30745152"/>
+        <updated>2022-03-20T18:20:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: QR algorithm's dynamics visualized [video]]]></summary>
+        <author>
+            <name>ogogmad</name>
+            <uri>https://news.ycombinator.com/user?id=ogogmad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為不懂英語的人提供Wordle提示]]></title>
         <id>https://news.ycombinator.com/item?id=30744869</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>sigoden</name>
             <uri>https://news.ycombinator.com/user?id=sigoden</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個在WhatsApp上學習語言的機器人]]></title>
-        <id>https://news.ycombinator.com/item?id=30487964</id>
-        <link href="https://news.ycombinator.com/item?id=30487964"/>
-        <updated>2022-02-27T12:57:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A bot to learn a language on WhatsApp]]></summary>
-        <author>
-            <name>jamalavedra</name>
-            <uri>https://news.ycombinator.com/user?id=jamalavedra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個Cloudflare工作者向你的所有設備發送推送通知]]></title>
-        <id>https://news.ycombinator.com/item?id=30487686</id>
-        <link href="https://news.ycombinator.com/item?id=30487686"/>
-        <updated>2022-02-27T12:20:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Cloudflare worker to send push notifications to all your devices]]></summary>
-        <author>
-            <name>K0IN</name>
-            <uri>https://news.ycombinator.com/user?id=K0IN</uri>
         </author>
     </entry>
 </feed>
