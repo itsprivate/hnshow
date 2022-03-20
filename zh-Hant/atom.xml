@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-20T18:37:20.289Z</updated>
+    <updated>2022-03-20T18:54:38.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Owarezaka，一個針對iOS/Android的Gitlab移動平臺]]></title>
+        <id>https://news.ycombinator.com/item?id=30745322</id>
+        <link href="https://news.ycombinator.com/item?id=30745322"/>
+        <updated>2022-03-20T18:38:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Owarezaka, a Gitlab mobile platform for iOS/Android]]></summary>
+        <author>
+            <name>alperakgun</name>
+            <uri>https://news.ycombinator.com/user?id=alperakgun</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個並不試圖成為TikTok克隆的照片分享應用]]></title>
         <id>https://news.ycombinator.com/item?id=30745237</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>camhenlin</name>
             <uri>https://news.ycombinator.com/user?id=camhenlin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用熱鍵（alt + `）切換同一應用程序的窗口]]></title>
-        <id>https://news.ycombinator.com/item?id=30488027</id>
-        <link href="https://news.ycombinator.com/item?id=30488027"/>
-        <updated>2022-02-27T13:05:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Switch windows of same app with hotkey(alt + `)]]></summary>
-        <author>
-            <name>sigoden</name>
-            <uri>https://news.ycombinator.com/user?id=sigoden</uri>
         </author>
     </entry>
 </feed>
