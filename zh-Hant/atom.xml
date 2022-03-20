@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-20T20:40:36.153Z</updated>
+    <updated>2022-03-20T22:41:12.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個CLI工具，從圖像中創建一個色調轉換的GIF。]]></title>
+        <id>https://news.ycombinator.com/item?id=30747435</id>
+        <link href="https://news.ycombinator.com/item?id=30747435"/>
+        <updated>2022-03-20T22:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a CLI tool creates a hue-shifted GIF from an image]]></summary>
+        <author>
+            <name>caramellow</name>
+            <uri>https://news.ycombinator.com/user?id=caramellow</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一個平臺，讓項目找到維護者]]></title>
         <id>https://news.ycombinator.com/item?id=30746326</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ak391</name>
             <uri>https://news.ycombinator.com/user?id=ak391</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[稍微好一點的黑客新聞--HN的替代網絡前端]]></title>
-        <id>https://news.ycombinator.com/item?id=30489248</id>
-        <link href="https://news.ycombinator.com/item?id=30489248"/>
-        <updated>2022-02-27T15:23:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Slightly Better Hacker News – alternative web front end for HN]]></summary>
-        <author>
-            <name>jhoh</name>
-            <uri>https://news.ycombinator.com/user?id=jhoh</uri>
         </author>
     </entry>
 </feed>
