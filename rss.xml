@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 20 Mar 2022 10:43:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 12:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[老师可以实时看到所有学生的答案的方法]]></title>
+            <link>https://news.ycombinator.com/item?id=30741994</link>
+            <guid>https://news.ycombinator.com/item?id=30741994</guid>
+            <pubDate>Sun, 20 Mar 2022 12:10:25 GMT</pubDate>
+            <description><![CDATA[Show HN: A way for a teacher to see all student answers in real-time]]></description>
+        </item>
+        <item>
+            <title><![CDATA[对讲机的开源替代方案]]></title>
+            <link>https://news.ycombinator.com/item?id=30741956</link>
+            <guid>https://news.ycombinator.com/item?id=30741956</guid>
+            <pubDate>Sun, 20 Mar 2022 12:02:55 GMT</pubDate>
+            <description><![CDATA[Show HN: Open-Source Alternative to Intercom]]></description>
+        </item>
+        <item>
+            <title><![CDATA[FastInvoiceAI 实现发票的自动核算]]></title>
+            <link>https://news.ycombinator.com/item?id=30741887</link>
+            <guid>https://news.ycombinator.com/item?id=30741887</guid>
+            <pubDate>Sun, 20 Mar 2022 11:50:50 GMT</pubDate>
+            <description><![CDATA[Show HN: FastInvoiceAI Automate Accounting of Invoices]]></description>
+        </item>
         <item>
             <title><![CDATA[Medusa-extender新版本1.6.0]]></title>
             <link>https://news.ycombinator.com/item?id=30741569</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30480543</guid>
             <pubDate>Sat, 26 Feb 2022 18:54:58 GMT</pubDate>
             <description><![CDATA[Show HN: Terminal Based Wikipedia]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hibiki HTML - 新许可证和Bulma UI控件]]></title>
-            <link>https://news.ycombinator.com/item?id=30479980</link>
-            <guid>https://news.ycombinator.com/item?id=30479980</guid>
-            <pubDate>Sat, 26 Feb 2022 18:01:44 GMT</pubDate>
-            <description><![CDATA[Show HN: Hibiki HTML – New License and Bulma UI Controls]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Req，一种HTTP脚本语言]]></title>
-            <link>https://news.ycombinator.com/item?id=30479864</link>
-            <guid>https://news.ycombinator.com/item?id=30479864</guid>
-            <pubDate>Sat, 26 Feb 2022 17:51:16 GMT</pubDate>
-            <description><![CDATA[Show HN: Req, an HTTP Scripting Language]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Esolang Park，一个用于esolangs的可视化调试器]]></title>
-            <link>https://news.ycombinator.com/item?id=30479320</link>
-            <guid>https://news.ycombinator.com/item?id=30479320</guid>
-            <pubDate>Sat, 26 Feb 2022 16:58:39 GMT</pubDate>
-            <description><![CDATA[Show HN: Esolang Park, a visual debugger for esolangs]]></description>
         </item>
     </channel>
 </rss>
