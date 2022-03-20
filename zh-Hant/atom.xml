@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-20T02:14:52.113Z</updated>
+    <updated>2022-03-20T09:51:36.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通過投票對Spotify播放列表進行排序，最近更新並可合併]]></title>
+        <id>https://news.ycombinator.com/item?id=30741356</id>
+        <link href="https://news.ycombinator.com/item?id=30741356"/>
+        <updated>2022-03-20T09:43:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Spotify playlists sorted via votes and recently updated and mergable]]></summary>
+        <author>
+            <name>waingake</name>
+            <uri>https://news.ycombinator.com/user?id=waingake</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個CLI工具，把像素變成了表情符號]]></title>
         <id>https://news.ycombinator.com/item?id=30739304</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mikezhdev</name>
             <uri>https://news.ycombinator.com/user?id=mikezhdev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NSOA - 整個阿聯酋的夏普辦公自動化產品和服務]]></title>
-        <id>https://news.ycombinator.com/item?id=30475664</id>
-        <link href="https://news.ycombinator.com/item?id=30475664"/>
-        <updated>2022-02-26T06:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: NSOA – Sharp Office Automation Products and Services Across the UAE]]></summary>
-        <author>
-            <name>scottrollins</name>
-            <uri>https://news.ycombinator.com/user?id=scottrollins</uri>
         </author>
     </entry>
 </feed>
