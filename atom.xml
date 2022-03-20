@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-20T14:13:23.287Z</updated>
+    <updated>2022-03-20T14:52:27.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[分离度，但对足球运动员而言]]></title>
+        <id>https://news.ycombinator.com/item?id=30743029</id>
+        <link href="https://news.ycombinator.com/item?id=30743029"/>
+        <updated>2022-03-20T14:46:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Degrees of Separation but for Soccer Players]]></summary>
+        <author>
+            <name>cerivitos</name>
+            <uri>https://news.ycombinator.com/user?id=cerivitos</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用FastAPI创建实时图表]]></title>
+        <id>https://news.ycombinator.com/item?id=30742963</id>
+        <link href="https://news.ycombinator.com/item?id=30742963"/>
+        <updated>2022-03-20T14:37:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Creating Real-Time Charts with FastAPI]]></summary>
+        <author>
+            <name>roniemartinez</name>
+            <uri>https://news.ycombinator.com/user?id=roniemartinez</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[旨在拯救开放源代码运动的许可证]]></title>
         <id>https://news.ycombinator.com/item?id=30742650</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>takaakit</name>
             <uri>https://news.ycombinator.com/user?id=takaakit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用二进制数的微积分]]></title>
-        <id>https://news.ycombinator.com/item?id=30485787</id>
-        <link href="https://news.ycombinator.com/item?id=30485787"/>
-        <updated>2022-02-27T05:57:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Calculus Using Binary Numbers]]></summary>
-        <author>
-            <name>martyalain</name>
-            <uri>https://news.ycombinator.com/user?id=martyalain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asyncc工作：一个加速异步工作文化的招聘网站]]></title>
-        <id>https://news.ycombinator.com/item?id=30485453</id>
-        <link href="https://news.ycombinator.com/item?id=30485453"/>
-        <updated>2022-02-27T04:39:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Asyncc Jobs: a job board to accelerate async work culture]]></summary>
-        <author>
-            <name>NithurM</name>
-            <uri>https://news.ycombinator.com/user?id=NithurM</uri>
         </author>
     </entry>
 </feed>

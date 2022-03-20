@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 20 Mar 2022 14:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 14:52:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[分離度，但對足球運動員而言]]></title>
+            <link>https://news.ycombinator.com/item?id=30743029</link>
+            <guid>https://news.ycombinator.com/item?id=30743029</guid>
+            <pubDate>Sun, 20 Mar 2022 14:46:17 GMT</pubDate>
+            <description><![CDATA[Show HN: Degrees of Separation but for Soccer Players]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用FastAPI創建實時圖表]]></title>
+            <link>https://news.ycombinator.com/item?id=30742963</link>
+            <guid>https://news.ycombinator.com/item?id=30742963</guid>
+            <pubDate>Sun, 20 Mar 2022 14:37:37 GMT</pubDate>
+            <description><![CDATA[Show HN: Creating Real-Time Charts with FastAPI]]></description>
+        </item>
         <item>
             <title><![CDATA[旨在拯救開放源代碼運動的許可證]]></title>
             <link>https://news.ycombinator.com/item?id=30742650</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30485847</guid>
             <pubDate>Sun, 27 Feb 2022 06:10:31 GMT</pubDate>
             <description><![CDATA[Show HN: Code Generation plugin for 14 languages from UML models in Astah]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用二進制數的微積分]]></title>
-            <link>https://news.ycombinator.com/item?id=30485787</link>
-            <guid>https://news.ycombinator.com/item?id=30485787</guid>
-            <pubDate>Sun, 27 Feb 2022 05:57:28 GMT</pubDate>
-            <description><![CDATA[Show HN: Calculus Using Binary Numbers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Asyncc工作：一個加速異步工作文化的招聘網站]]></title>
-            <link>https://news.ycombinator.com/item?id=30485453</link>
-            <guid>https://news.ycombinator.com/item?id=30485453</guid>
-            <pubDate>Sun, 27 Feb 2022 04:39:07 GMT</pubDate>
-            <description><![CDATA[Show HN: Asyncc Jobs: a job board to accelerate async work culture]]></description>
         </item>
     </channel>
 </rss>
