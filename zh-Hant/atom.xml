@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-20T22:41:12.612Z</updated>
+    <updated>2022-03-20T23:51:42.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開源的基於3D定位的無線網狀網絡]]></title>
+        <id>https://news.ycombinator.com/item?id=30748048</id>
+        <link href="https://news.ycombinator.com/item?id=30748048"/>
+        <updated>2022-03-20T23:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-Source 3D Location-Based Wireless Mesh Network]]></summary>
+        <author>
+            <name>khilde</name>
+            <uri>https://news.ycombinator.com/user?id=khilde</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個CLI工具，從圖像中創建一個色調轉換的GIF。]]></title>
         <id>https://news.ycombinator.com/item?id=30747435</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>davidwhitecity</name>
             <uri>https://news.ycombinator.com/user?id=davidwhitecity</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Gradio在Python中構建和分享機器學習應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30489636</id>
-        <link href="https://news.ycombinator.com/item?id=30489636"/>
-        <updated>2022-02-27T16:07:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Build and share machine learning apps with Gradio in Python]]></summary>
-        <author>
-            <name>ak391</name>
-            <uri>https://news.ycombinator.com/user?id=ak391</uri>
         </author>
     </entry>
 </feed>
