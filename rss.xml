@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 20 Mar 2022 12:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 13:51:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Lafajol，一个媒体对象的实时工作台]]></title>
+            <link>https://news.ycombinator.com/item?id=30742533</link>
+            <guid>https://news.ycombinator.com/item?id=30742533</guid>
+            <pubDate>Sun, 20 Mar 2022 13:42:26 GMT</pubDate>
+            <description><![CDATA[Show HN: Lafajol, a live workbench for media objects]]></description>
+        </item>
         <item>
             <title><![CDATA[Typebeat。键盘控制的音乐音序器、采样器和合成器]]></title>
             <link>https://news.ycombinator.com/item?id=30742073</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30483022</guid>
             <pubDate>Sat, 26 Feb 2022 23:14:55 GMT</pubDate>
             <description><![CDATA[Show HN: A Brand Guidelines Online builder for owners and managers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Mac菜单栏中设置自定义文本（极简主义）--欢迎提问]]></title>
-            <link>https://news.ycombinator.com/item?id=30480858</link>
-            <guid>https://news.ycombinator.com/item?id=30480858</guid>
-            <pubDate>Sat, 26 Feb 2022 19:21:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Set custom text in Mac menu bar (minimalistic) – Issues welcome]]></description>
         </item>
     </channel>
 </rss>

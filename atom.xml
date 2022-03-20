@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-20T12:49:34.823Z</updated>
+    <updated>2022-03-20T13:51:30.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lafajol，一个媒体对象的实时工作台]]></title>
+        <id>https://news.ycombinator.com/item?id=30742533</id>
+        <link href="https://news.ycombinator.com/item?id=30742533"/>
+        <updated>2022-03-20T13:42:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lafajol, a live workbench for media objects]]></summary>
+        <author>
+            <name>jcelerier</name>
+            <uri>https://news.ycombinator.com/user?id=jcelerier</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Typebeat。键盘控制的音乐音序器、采样器和合成器]]></title>
         <id>https://news.ycombinator.com/item?id=30742073</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>satyamdorville</name>
             <uri>https://news.ycombinator.com/user?id=satyamdorville</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Mac菜单栏中设置自定义文本（极简主义）--欢迎提问]]></title>
-        <id>https://news.ycombinator.com/item?id=30480858</id>
-        <link href="https://news.ycombinator.com/item?id=30480858"/>
-        <updated>2022-02-26T19:21:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Set custom text in Mac menu bar (minimalistic) – Issues welcome]]></summary>
-        <author>
-            <name>daschaa</name>
-            <uri>https://news.ycombinator.com/user?id=daschaa</uri>
         </author>
     </entry>
 </feed>
