@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-20T10:14:06.398Z</updated>
+    <updated>2022-03-20T10:43:09.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Medusa-extender新版本1.6.0]]></title>
+        <id>https://news.ycombinator.com/item?id=30741569</id>
+        <link href="https://news.ycombinator.com/item?id=30741569"/>
+        <updated>2022-03-20T10:38:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Medusa-extender new release 1.6.0]]></summary>
+        <author>
+            <name>adrien2p</name>
+            <uri>https://news.ycombinator.com/user?id=adrien2p</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个能预测最佳梦幻F1车队的程序]]></title>
         <id>https://news.ycombinator.com/item?id=30741440</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nilaymaj</name>
             <uri>https://news.ycombinator.com/user?id=nilaymaj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ssh wordle.bdw.to]]></title>
-        <id>https://news.ycombinator.com/item?id=30479001</id>
-        <link href="https://news.ycombinator.com/item?id=30479001"/>
-        <updated>2022-02-26T16:32:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ssh wordle.bdw.to]]></summary>
-        <author>
-            <name>bndw</name>
-            <uri>https://news.ycombinator.com/user?id=bndw</uri>
         </author>
     </entry>
 </feed>
