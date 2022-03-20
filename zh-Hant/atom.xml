@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-20T16:14:45.224Z</updated>
+    <updated>2022-03-20T16:45:54.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Zig是一個每天尋找最佳路徑的謎題]]></title>
+        <id>https://news.ycombinator.com/item?id=30744124</id>
+        <link href="https://news.ycombinator.com/item?id=30744124"/>
+        <updated>2022-03-20T16:34:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Zig a daily find-the-best-path puzzle]]></summary>
+        <author>
+            <name>karaokeyoga</name>
+            <uri>https://news.ycombinator.com/user?id=karaokeyoga</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PloUI--一個用於圖表的簡約的SwiftUI庫]]></title>
         <id>https://news.ycombinator.com/item?id=30743120</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tkvishal</name>
             <uri>https://news.ycombinator.com/user?id=tkvishal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[數據湖心島的增強，使查詢速度更快]]></title>
-        <id>https://news.ycombinator.com/item?id=30486600</id>
-        <link href="https://news.ycombinator.com/item?id=30486600"/>
-        <updated>2022-02-27T09:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Data Lakehouse enhancement for faster queries]]></summary>
-        <author>
-            <name>paolapardo</name>
-            <uri>https://news.ycombinator.com/user?id=paolapardo</uri>
         </author>
     </entry>
 </feed>
