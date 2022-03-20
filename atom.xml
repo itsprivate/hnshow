@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-20T13:51:30.957Z</updated>
+    <updated>2022-03-20T14:13:23.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[旨在拯救开放源代码运动的许可证]]></title>
+        <id>https://news.ycombinator.com/item?id=30742650</id>
+        <link href="https://news.ycombinator.com/item?id=30742650"/>
+        <updated>2022-03-20T14:01:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A license designed to save the open source movement]]></summary>
+        <author>
+            <name>gioscarab</name>
+            <uri>https://news.ycombinator.com/user?id=gioscarab</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从任何地方实时监控你的终端输出]]></title>
+        <id>https://news.ycombinator.com/item?id=30742626</id>
+        <link href="https://news.ycombinator.com/item?id=30742626"/>
+        <updated>2022-03-20T13:58:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Monitor your terminal output in realtime from everywhere]]></summary>
+        <author>
+            <name>asdgftr</name>
+            <uri>https://news.ycombinator.com/user?id=asdgftr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lafajol，一个媒体对象的实时工作台]]></title>
         <id>https://news.ycombinator.com/item?id=30742533</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>NithurM</name>
             <uri>https://news.ycombinator.com/user?id=NithurM</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TopHat Finance - 免费、开放、离线]]></title>
-        <id>https://news.ycombinator.com/item?id=30484235</id>
-        <link href="https://news.ycombinator.com/item?id=30484235"/>
-        <updated>2022-02-27T01:11:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: TopHat Finance – free, open, and offline]]></summary>
-        <author>
-            <name>Athenodoros</name>
-            <uri>https://news.ycombinator.com/user?id=Athenodoros</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为业主和经理人提供的品牌指南在线构建器]]></title>
-        <id>https://news.ycombinator.com/item?id=30483022</id>
-        <link href="https://news.ycombinator.com/item?id=30483022"/>
-        <updated>2022-02-26T23:14:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Brand Guidelines Online builder for owners and managers]]></summary>
-        <author>
-            <name>satyamdorville</name>
-            <uri>https://news.ycombinator.com/user?id=satyamdorville</uri>
         </author>
     </entry>
 </feed>
