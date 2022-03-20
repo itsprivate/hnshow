@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-20T18:54:38.375Z</updated>
+    <updated>2022-03-20T20:40:36.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一个平台，让项目找到维护者]]></title>
+        <id>https://news.ycombinator.com/item?id=30746326</id>
+        <link href="https://news.ycombinator.com/item?id=30746326"/>
+        <updated>2022-03-20T20:32:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a platform for projects to find maintainers]]></summary>
+        <author>
+            <name>garritfra</name>
+            <uri>https://news.ycombinator.com/user?id=garritfra</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Owarezaka，一个针对iOS/Android的Gitlab移动平台]]></title>
         <id>https://news.ycombinator.com/item?id=30745322</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jhoh</name>
             <uri>https://news.ycombinator.com/user?id=jhoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Macintosh的信息 - 一个 "经典 "的Mac iMessage客户端]]></title>
-        <id>https://news.ycombinator.com/item?id=30489003</id>
-        <link href="https://news.ycombinator.com/item?id=30489003"/>
-        <updated>2022-02-27T14:58:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Messages for Macintosh – a “classic” Mac iMessage client]]></summary>
-        <author>
-            <name>camhenlin</name>
-            <uri>https://news.ycombinator.com/user?id=camhenlin</uri>
         </author>
     </entry>
 </feed>
