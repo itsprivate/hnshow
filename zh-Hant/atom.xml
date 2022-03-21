@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-21T07:51:48.221Z</updated>
+    <updated>2022-03-21T09:51:38.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在同一地點搜索域名和用戶名]]></title>
+        <id>https://news.ycombinator.com/item?id=30752067</id>
+        <link href="https://news.ycombinator.com/item?id=30752067"/>
+        <updated>2022-03-21T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Search Domain and Username in the same place]]></summary>
+        <author>
+            <name>rajasimon</name>
+            <uri>https://news.ycombinator.com/user?id=rajasimon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nuxt-speedkit 2.0--更快，更容易實現]]></title>
         <id>https://news.ycombinator.com/item?id=30751360</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>junot</name>
             <uri>https://news.ycombinator.com/user?id=junot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為Stack Overflow配置文件創建可定製的簡短URL]]></title>
-        <id>https://news.ycombinator.com/item?id=30490262</id>
-        <link href="https://news.ycombinator.com/item?id=30490262"/>
-        <updated>2022-02-27T17:10:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Create customizable, short URLs for Stack Overflow profiles]]></summary>
-        <author>
-            <name>choraria</name>
-            <uri>https://news.ycombinator.com/user?id=choraria</uri>
         </author>
     </entry>
 </feed>
