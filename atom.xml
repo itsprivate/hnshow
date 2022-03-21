@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-20T23:51:42.870Z</updated>
+    <updated>2022-03-21T07:30:28.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mindscape.pub (合作式思维导图)]]></title>
+        <id>https://news.ycombinator.com/item?id=30751005</id>
+        <link href="https://news.ycombinator.com/item?id=30751005"/>
+        <updated>2022-03-21T06:48:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mindscape.pub (Collaborative mind-mapping)]]></summary>
+        <author>
+            <name>weihz</name>
+            <uri>https://news.ycombinator.com/user?id=weihz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源的基于3D定位的无线网状网络]]></title>
         <id>https://news.ycombinator.com/item?id=30748048</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cansargl</name>
             <uri>https://news.ycombinator.com/user?id=cansargl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eredom - 选择一个简短的.com域名]]></title>
-        <id>https://news.ycombinator.com/item?id=30489780</id>
-        <link href="https://news.ycombinator.com/item?id=30489780"/>
-        <updated>2022-02-27T16:23:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Eredom – Choose a short .com domain]]></summary>
-        <author>
-            <name>davidwhitecity</name>
-            <uri>https://news.ycombinator.com/user?id=davidwhitecity</uri>
         </author>
     </entry>
 </feed>
