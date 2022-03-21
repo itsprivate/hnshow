@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-21T21:52:10.423Z</updated>
+    <updated>2022-03-21T22:13:05.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个API来使Stripe快速而容易地集成]]></title>
+        <id>https://news.ycombinator.com/item?id=30760156</id>
+        <link href="https://news.ycombinator.com/item?id=30760156"/>
+        <updated>2022-03-21T21:50:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an API to make Stripe fast and easy to integrate]]></summary>
+        <author>
+            <name>Yassine_Rjl</name>
+            <uri>https://news.ycombinator.com/user?id=Yassine_Rjl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Speech2Code - 用语音编码]]></title>
         <id>https://news.ycombinator.com/item?id=30760025</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>varunsharma07</name>
             <uri>https://news.ycombinator.com/user?id=varunsharma07</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stripe Sigma替代方案：Tdog | SQLite | Datasette]]></title>
-        <id>https://news.ycombinator.com/item?id=30504158</id>
-        <link href="https://news.ycombinator.com/item?id=30504158"/>
-        <updated>2022-02-28T19:42:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Stripe Sigma alternative: tdog | SQLite | Datasette]]></summary>
-        <author>
-            <name>emadda</name>
-            <uri>https://news.ycombinator.com/user?id=emadda</uri>
         </author>
     </entry>
 </feed>
