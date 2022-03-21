@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 21 Mar 2022 14:31:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 14:53:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[把你的旧安卓手机变成安全系统]]></title>
+            <link>https://news.ycombinator.com/item?id=30754706</link>
+            <guid>https://news.ycombinator.com/item?id=30754706</guid>
+            <pubDate>Mon, 21 Mar 2022 14:44:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Turn Your Old Android Phone into Secuity System]]></description>
+        </item>
         <item>
             <title><![CDATA[计时器。一个日常的、一口大小的、基于浏览器的历史游戏]]></title>
             <link>https://news.ycombinator.com/item?id=30754417</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30499851</guid>
             <pubDate>Mon, 28 Feb 2022 14:00:49 GMT</pubDate>
             <description><![CDATA[Show HN: Deo – The next step to become a 10x dev]]></description>
-        </item>
-        <item>
-            <title><![CDATA[LiveDocs - 将任何地方的实时数据带到你的文档中，而不需要代码。]]></title>
-            <link>https://news.ycombinator.com/item?id=30499728</link>
-            <guid>https://news.ycombinator.com/item?id=30499728</guid>
-            <pubDate>Mon, 28 Feb 2022 13:46:21 GMT</pubDate>
-            <description><![CDATA[Show HN: LiveDocs – bring live data from anywhere to your docs, without code]]></description>
         </item>
     </channel>
 </rss>
