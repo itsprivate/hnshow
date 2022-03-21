@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-21T10:53:07.228Z</updated>
+    <updated>2022-03-21T11:30:13.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在你的GitHub的README中添加一個活的明星曆史圖表的單行本]]></title>
+        <id>https://news.ycombinator.com/item?id=30752746</id>
+        <link href="https://news.ycombinator.com/item?id=30752746"/>
+        <updated>2022-03-21T11:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: One liner adding a LIVE star history chart to your GitHub README]]></summary>
+        <author>
+            <name>tianzhou</name>
+            <uri>https://news.ycombinator.com/user?id=tianzhou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為網絡開發和數字設計師提供的多色矢量圖集]]></title>
         <id>https://news.ycombinator.com/item?id=30752440</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>uberf1sh</name>
             <uri>https://news.ycombinator.com/user?id=uberf1sh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Datagridxl.js v2 - 沒有任何意義的快速類似Excel的數據表格庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30491642</id>
-        <link href="https://news.ycombinator.com/item?id=30491642"/>
-        <updated>2022-02-27T19:27:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Datagridxl.js v2 – no-nonsense fast Excel-like data table lib]]></summary>
-        <author>
-            <name>robbiejs</name>
-            <uri>https://news.ycombinator.com/user?id=robbiejs</uri>
         </author>
     </entry>
 </feed>
