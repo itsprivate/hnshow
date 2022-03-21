@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-21T18:17:34.248Z</updated>
+    <updated>2022-03-21T19:13:03.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PyTermGUI現在具有自動將RGB轉換為xterm16的優雅色彩退化功能。]]></title>
+        <id>https://news.ycombinator.com/item?id=30758312</id>
+        <link href="https://news.ycombinator.com/item?id=30758312"/>
+        <updated>2022-03-21T19:05:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PyTermGUI now features auto RGB to xterm16 graceful color degradation]]></summary>
+        <author>
+            <name>bczsalba</name>
+            <uri>https://news.ycombinator.com/user?id=bczsalba</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[避免閱讀沃爾瑪/亞馬遜上的評論的AI助手]]></title>
         <id>https://news.ycombinator.com/item?id=30757525</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ankut04</name>
             <uri>https://news.ycombinator.com/user?id=ankut04</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逐步發展你的RESTful APIs，一個循序漸進的方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30500538</id>
-        <link href="https://news.ycombinator.com/item?id=30500538"/>
-        <updated>2022-02-28T15:02:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Evolving your RESTful APIs, a step-by-step approach]]></summary>
-        <author>
-            <name>nfrankel</name>
-            <uri>https://news.ycombinator.com/user?id=nfrankel</uri>
         </author>
     </entry>
 </feed>
