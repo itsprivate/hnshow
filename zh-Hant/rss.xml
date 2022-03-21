@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 21 Mar 2022 19:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 19:37:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[發送或接收UDP包的節點CLI(西班牙語)]]></title>
+            <link>https://news.ycombinator.com/item?id=30758617</link>
+            <guid>https://news.ycombinator.com/item?id=30758617</guid>
+            <pubDate>Mon, 21 Mar 2022 19:29:32 GMT</pubDate>
+            <description><![CDATA[Show HN: Node CLI to send or recieve UDP packages (in Spanish)]]></description>
+        </item>
         <item>
             <title><![CDATA[PyTermGUI現在具有自動將RGB轉換為xterm16的優雅色彩退化功能。]]></title>
             <link>https://news.ycombinator.com/item?id=30758312</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30500996</guid>
             <pubDate>Mon, 28 Feb 2022 15:39:59 GMT</pubDate>
             <description><![CDATA[Show HN: HackerDraw – Diagramming Made Easy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一個Chrome的擴展，用於堅定不移的專注和深度流動]]></title>
-            <link>https://news.ycombinator.com/item?id=30500866</link>
-            <guid>https://news.ycombinator.com/item?id=30500866</guid>
-            <pubDate>Mon, 28 Feb 2022 15:31:10 GMT</pubDate>
-            <description><![CDATA[Show HN: I have made a Chrome extension for unwavering focus and deep flow]]></description>
         </item>
     </channel>
 </rss>

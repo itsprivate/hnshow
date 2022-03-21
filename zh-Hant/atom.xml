@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-21T19:13:03.403Z</updated>
+    <updated>2022-03-21T19:37:15.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[發送或接收UDP包的節點CLI(西班牙語)]]></title>
+        <id>https://news.ycombinator.com/item?id=30758617</id>
+        <link href="https://news.ycombinator.com/item?id=30758617"/>
+        <updated>2022-03-21T19:29:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Node CLI to send or recieve UDP packages (in Spanish)]]></summary>
+        <author>
+            <name>piuma</name>
+            <uri>https://news.ycombinator.com/user?id=piuma</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PyTermGUI現在具有自動將RGB轉換為xterm16的優雅色彩退化功能。]]></title>
         <id>https://news.ycombinator.com/item?id=30758312</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>akshayagarwal</name>
             <uri>https://news.ycombinator.com/user?id=akshayagarwal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個Chrome的擴展，用於堅定不移的專注和深度流動]]></title>
-        <id>https://news.ycombinator.com/item?id=30500866</id>
-        <link href="https://news.ycombinator.com/item?id=30500866"/>
-        <updated>2022-02-28T15:31:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I have made a Chrome extension for unwavering focus and deep flow]]></summary>
-        <author>
-            <name>ankut04</name>
-            <uri>https://news.ycombinator.com/user?id=ankut04</uri>
         </author>
     </entry>
 </feed>
