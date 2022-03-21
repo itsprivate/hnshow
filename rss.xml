@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 21 Mar 2022 21:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 21:52:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Speech2Code - 用语音编码]]></title>
+            <link>https://news.ycombinator.com/item?id=30760025</link>
+            <guid>https://news.ycombinator.com/item?id=30760025</guid>
+            <pubDate>Mon, 21 Mar 2022 21:36:35 GMT</pubDate>
+            <description><![CDATA[Show HN: Speech2Code – Code with Voice]]></description>
+        </item>
         <item>
             <title><![CDATA[WhatsAlysis - 可视化您的WhatsApp聊天统计数据]]></title>
             <link>https://news.ycombinator.com/item?id=30759890</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30504158</guid>
             <pubDate>Mon, 28 Feb 2022 19:42:58 GMT</pubDate>
             <description><![CDATA[Show HN: Stripe Sigma alternative: tdog | SQLite | Datasette]]></description>
-        </item>
-        <item>
-            <title><![CDATA[安卓通讯录API--用3年的时间建成]]></title>
-            <link>https://news.ycombinator.com/item?id=30503739</link>
-            <guid>https://news.ycombinator.com/item?id=30503739</guid>
-            <pubDate>Mon, 28 Feb 2022 19:15:32 GMT</pubDate>
-            <description><![CDATA[Show HN: Android Contacts API – Built with 3 years of dedication]]></description>
         </item>
     </channel>
 </rss>
