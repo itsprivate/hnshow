@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-21T20:43:09.864Z</updated>
+    <updated>2022-03-21T21:12:58.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[iOS版的党旗]]></title>
+        <id>https://news.ycombinator.com/item?id=30759727</id>
+        <link href="https://news.ycombinator.com/item?id=30759727"/>
+        <updated>2022-03-21T21:07:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Party Banner for iOS]]></summary>
+        <author>
+            <name>willswire</name>
+            <uri>https://news.ycombinator.com/user?id=willswire</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bose-dfu，一个为我的Bose扬声器反向设计的固件升级器]]></title>
         <id>https://news.ycombinator.com/item?id=30759351</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jensneuse</name>
             <uri>https://news.ycombinator.com/user?id=jensneuse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个更加社会化、不含亚马逊的Goodreads替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30503197</id>
-        <link href="https://news.ycombinator.com/item?id=30503197"/>
-        <updated>2022-02-28T18:29:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A more social, Amazon-free alternative to Goodreads]]></summary>
-        <author>
-            <name>justinberding</name>
-            <uri>https://news.ycombinator.com/user?id=justinberding</uri>
         </author>
     </entry>
 </feed>
