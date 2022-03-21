@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-21T17:52:04.750Z</updated>
+    <updated>2022-03-21T18:17:34.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[避免閱讀沃爾瑪/亞馬遜上的評論的AI助手]]></title>
+        <id>https://news.ycombinator.com/item?id=30757525</id>
+        <link href="https://news.ycombinator.com/item?id=30757525"/>
+        <updated>2022-03-21T18:02:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: AI helper to avoid reading reviews on Walmart/Amazon]]></summary>
+        <author>
+            <name>product_oogway</name>
+            <uri>https://news.ycombinator.com/user?id=product_oogway</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轉到版本選擇器]]></title>
         <id>https://news.ycombinator.com/item?id=30757284</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nfrankel</name>
             <uri>https://news.ycombinator.com/user?id=nfrankel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[剛剛推出我的AI生成的創意寫作博客[NSFW]]]></title>
-        <id>https://news.ycombinator.com/item?id=30500087</id>
-        <link href="https://news.ycombinator.com/item?id=30500087"/>
-        <updated>2022-02-28T14:23:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Just launched my blog of AI-generated creative writing [NSFW]]]></summary>
-        <author>
-            <name>bestcoder69</name>
-            <uri>https://news.ycombinator.com/user?id=bestcoder69</uri>
         </author>
     </entry>
 </feed>
