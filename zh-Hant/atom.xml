@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-21T21:12:58.159Z</updated>
+    <updated>2022-03-21T21:32:02.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WhatsAlysis - 可視化您的WhatsApp聊天統計數據]]></title>
+        <id>https://news.ycombinator.com/item?id=30759890</id>
+        <link href="https://news.ycombinator.com/item?id=30759890"/>
+        <updated>2022-03-21T21:25:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WhatsAlysis – Visualise your WhatsApp chat statistics]]></summary>
+        <author>
+            <name>kretaceous</name>
+            <uri>https://news.ycombinator.com/user?id=kretaceous</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS版的黨旗]]></title>
         <id>https://news.ycombinator.com/item?id=30759727</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vestrel00</name>
             <uri>https://news.ycombinator.com/user?id=vestrel00</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GraphQL-go-tools，開源的GraphQL引擎，用Golang編寫]]></title>
-        <id>https://news.ycombinator.com/item?id=30503343</id>
-        <link href="https://news.ycombinator.com/item?id=30503343"/>
-        <updated>2022-02-28T18:41:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GraphQL-go-tools, open source GraphQL Engine, written in Golang]]></summary>
-        <author>
-            <name>jensneuse</name>
-            <uri>https://news.ycombinator.com/user?id=jensneuse</uri>
         </author>
     </entry>
 </feed>
