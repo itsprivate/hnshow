@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-21T11:30:13.832Z</updated>
+    <updated>2022-03-21T12:18:43.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开源库解决了.NET C#中的PDF生成梦魇]]></title>
+        <id>https://news.ycombinator.com/item?id=30753083</id>
+        <link href="https://news.ycombinator.com/item?id=30753083"/>
+        <updated>2022-03-21T12:06:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-source library solving PDF generation nightmares in .NET C#]]></summary>
+        <author>
+            <name>MarcinZiabek</name>
+            <uri>https://news.ycombinator.com/user?id=MarcinZiabek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在你的GitHub的README中添加一个活的明星历史图表的单行本]]></title>
         <id>https://news.ycombinator.com/item?id=30752746</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>seFausto</name>
             <uri>https://news.ycombinator.com/user?id=seFausto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rebluff扑克，为宽松激进的玩家提供无限制的扑克。]]></title>
-        <id>https://news.ycombinator.com/item?id=30491798</id>
-        <link href="https://news.ycombinator.com/item?id=30491798"/>
-        <updated>2022-02-27T19:44:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rebluff Poker, no limit hold'em for loose-aggressive players]]></summary>
-        <author>
-            <name>uberf1sh</name>
-            <uri>https://news.ycombinator.com/user?id=uberf1sh</uri>
         </author>
     </entry>
 </feed>
