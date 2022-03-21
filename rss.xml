@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 21 Mar 2022 17:08:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 17:43:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我写了一本书，教医生了解人工智能]]></title>
+            <link>https://news.ycombinator.com/item?id=30757054</link>
+            <guid>https://news.ycombinator.com/item?id=30757054</guid>
+            <pubDate>Mon, 21 Mar 2022 17:26:15 GMT</pubDate>
+            <description><![CDATA[Show HN: I wrote a book to teach doctors about AI]]></description>
+        </item>
         <item>
             <title><![CDATA[微小的嵌入式脚本语言（在现代C++中）。]]></title>
             <link>https://news.ycombinator.com/item?id=30756518</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30499601</guid>
             <pubDate>Mon, 28 Feb 2022 13:32:29 GMT</pubDate>
             <description><![CDATA[Show HN: W3rdl3 – Wordle and Threes Combined]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Pipy和OpenID Connect保证服务安全]]></title>
-            <link>https://news.ycombinator.com/item?id=30499516</link>
-            <guid>https://news.ycombinator.com/item?id=30499516</guid>
-            <pubDate>Mon, 28 Feb 2022 13:23:10 GMT</pubDate>
-            <description><![CDATA[Show HN: Securing Services with Pipy and OpenID Connect]]></description>
         </item>
     </channel>
 </rss>

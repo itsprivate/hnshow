@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-21T17:08:17.846Z</updated>
+    <updated>2022-03-21T17:43:42.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我写了一本书，教医生了解人工智能]]></title>
+        <id>https://news.ycombinator.com/item?id=30757054</id>
+        <link href="https://news.ycombinator.com/item?id=30757054"/>
+        <updated>2022-03-21T17:26:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I wrote a book to teach doctors about AI]]></summary>
+        <author>
+            <name>abhisuri97</name>
+            <uri>https://news.ycombinator.com/user?id=abhisuri97</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微小的嵌入式脚本语言（在现代C++中）。]]></title>
         <id>https://news.ycombinator.com/item?id=30756518</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rocheio</name>
             <uri>https://news.ycombinator.com/user?id=rocheio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Pipy和OpenID Connect保证服务安全]]></title>
-        <id>https://news.ycombinator.com/item?id=30499516</id>
-        <link href="https://news.ycombinator.com/item?id=30499516"/>
-        <updated>2022-02-28T13:23:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Securing Services with Pipy and OpenID Connect]]></summary>
-        <author>
-            <name>shaderx13</name>
-            <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
         </author>
     </entry>
 </feed>
