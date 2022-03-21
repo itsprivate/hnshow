@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 21 Mar 2022 22:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 22:51:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用類編寫React鉤子]]></title>
+            <link>https://news.ycombinator.com/item?id=30760696</link>
+            <guid>https://news.ycombinator.com/item?id=30760696</guid>
+            <pubDate>Mon, 21 Mar 2022 22:41:41 GMT</pubDate>
+            <description><![CDATA[Show HN: Write React Hooks with Classes]]></description>
+        </item>
         <item>
             <title><![CDATA[Benson.py將URL變成mp3--掌控你的閱讀積壓!]]></title>
             <link>https://news.ycombinator.com/item?id=30760606</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30505216</guid>
             <pubDate>Mon, 28 Feb 2022 21:13:20 GMT</pubDate>
             <description><![CDATA[Show HN: I made a site to visualize Ukraine's Ethereum donations in real time]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在幾分鐘內為你的創業公司建立網絡應用（MERN棧）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30504390</link>
-            <guid>https://news.ycombinator.com/item?id=30504390</guid>
-            <pubDate>Mon, 28 Feb 2022 20:03:29 GMT</pubDate>
-            <description><![CDATA[Show HN: Building Web Apps (MERN stack) in a matter of minutes for your Startup]]></description>
         </item>
     </channel>
 </rss>
