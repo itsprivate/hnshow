@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 21 Mar 2022 20:35:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 20:43:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Bose-dfu，一个为我的Bose扬声器反向设计的固件升级器]]></title>
+            <link>https://news.ycombinator.com/item?id=30759351</link>
+            <guid>https://news.ycombinator.com/item?id=30759351</guid>
+            <pubDate>Mon, 21 Mar 2022 20:34:47 GMT</pubDate>
+            <description><![CDATA[Show HN: Bose-dfu, a reverse-engineered firmware updater for my Bose speaker]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Chemiscripts：将ASCII化学公式翻译成Unicode。]]></title>
+            <link>https://news.ycombinator.com/item?id=30759338</link>
+            <guid>https://news.ycombinator.com/item?id=30759338</guid>
+            <pubDate>Mon, 21 Mar 2022 20:33:49 GMT</pubDate>
+            <description><![CDATA[Show HN: Chemiscripts: translate ASCII chemical formulas into Unicode]]></description>
+        </item>
         <item>
             <title><![CDATA[用一种有主见的方式来构建和维护复杂的YAML文档]]></title>
             <link>https://news.ycombinator.com/item?id=30759115</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30503197</guid>
             <pubDate>Mon, 28 Feb 2022 18:29:13 GMT</pubDate>
             <description><![CDATA[Show HN: A more social, Amazon-free alternative to Goodreads]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Assertables是一个用于 "断言 "测试的Rust Crate宏（v5）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30503172</link>
-            <guid>https://news.ycombinator.com/item?id=30503172</guid>
-            <pubDate>Mon, 28 Feb 2022 18:27:14 GMT</pubDate>
-            <description><![CDATA[Show HN: Assertables is a Rust crate of macros for “assert” testing (v5)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我为PG创建了一个Chrome扩展：TRAB（Tweet Reporter and Blocker）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30502480</link>
-            <guid>https://news.ycombinator.com/item?id=30502480</guid>
-            <pubDate>Mon, 28 Feb 2022 17:32:03 GMT</pubDate>
-            <description><![CDATA[Show HN: I Created a Chrome Extension for PG: TRAB (Tweet Reporter and Blocker)]]></description>
         </item>
     </channel>
 </rss>

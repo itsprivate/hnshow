@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-21T20:35:03.584Z</updated>
+    <updated>2022-03-21T20:43:09.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Bose-dfu，一个为我的Bose扬声器反向设计的固件升级器]]></title>
+        <id>https://news.ycombinator.com/item?id=30759351</id>
+        <link href="https://news.ycombinator.com/item?id=30759351"/>
+        <updated>2022-03-21T20:34:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bose-dfu, a reverse-engineered firmware updater for my Bose speaker]]></summary>
+        <author>
+            <name>tchebb</name>
+            <uri>https://news.ycombinator.com/user?id=tchebb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chemiscripts：将ASCII化学公式翻译成Unicode。]]></title>
+        <id>https://news.ycombinator.com/item?id=30759338</id>
+        <link href="https://news.ycombinator.com/item?id=30759338"/>
+        <updated>2022-03-21T20:33:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Chemiscripts: translate ASCII chemical formulas into Unicode]]></summary>
+        <author>
+            <name>jwilk</name>
+            <uri>https://news.ycombinator.com/user?id=jwilk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用一种有主见的方式来构建和维护复杂的YAML文档]]></title>
         <id>https://news.ycombinator.com/item?id=30759115</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>justinberding</name>
             <uri>https://news.ycombinator.com/user?id=justinberding</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assertables是一个用于 "断言 "测试的Rust Crate宏（v5）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30503172</id>
-        <link href="https://news.ycombinator.com/item?id=30503172"/>
-        <updated>2022-02-28T18:27:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Assertables is a Rust crate of macros for “assert” testing (v5)]]></summary>
-        <author>
-            <name>jph</name>
-            <uri>https://news.ycombinator.com/user?id=jph</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我为PG创建了一个Chrome扩展：TRAB（Tweet Reporter and Blocker）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30502480</id>
-        <link href="https://news.ycombinator.com/item?id=30502480"/>
-        <updated>2022-02-28T17:32:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I Created a Chrome Extension for PG: TRAB (Tweet Reporter and Blocker)]]></summary>
-        <author>
-            <name>impish19</name>
-            <uri>https://news.ycombinator.com/user?id=impish19</uri>
         </author>
     </entry>
 </feed>
