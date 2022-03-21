@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-21T14:13:20.928Z</updated>
+    <updated>2022-03-21T14:31:44.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[计时器。一个日常的、一口大小的、基于浏览器的历史游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=30754417</id>
+        <link href="https://news.ycombinator.com/item?id=30754417"/>
+        <updated>2022-03-21T14:18:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Chrono. A daily, bite sized, browser based, history game]]></summary>
+        <author>
+            <name>tylerjaywood</name>
+            <uri>https://news.ycombinator.com/user?id=tylerjaywood</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[具有公共内容、挑战和技能地图的免费集体课程]]></title>
+        <id>https://news.ycombinator.com/item?id=30754180</id>
+        <link href="https://news.ycombinator.com/item?id=30754180"/>
+        <updated>2022-03-21T13:58:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Free collective courses with public content, challenges and skills map]]></summary>
+        <author>
+            <name>doraby</name>
+            <uri>https://news.ycombinator.com/user?id=doraby</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Actorle - 演员猜谜游戏]]></title>
         <id>https://news.ycombinator.com/item?id=30754258</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>arsalanb</name>
             <uri>https://news.ycombinator.com/user?id=arsalanb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordle.global - 61种语言的开源Wordle]]></title>
-        <id>https://news.ycombinator.com/item?id=30499493</id>
-        <link href="https://news.ycombinator.com/item?id=30499493"/>
-        <updated>2022-02-28T13:20:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Wordle.global — open-source Wordle in 61 languages]]></summary>
-        <author>
-            <name>montenegrohugo</name>
-            <uri>https://news.ycombinator.com/user?id=montenegrohugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[检查你的网站是否违反了GDPR]]></title>
-        <id>https://news.ycombinator.com/item?id=30498995</id>
-        <link href="https://news.ycombinator.com/item?id=30498995"/>
-        <updated>2022-02-28T12:09:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Check if your website violates GDPR]]></summary>
-        <author>
-            <name>hauken</name>
-            <uri>https://news.ycombinator.com/user?id=hauken</uri>
         </author>
     </entry>
 </feed>
