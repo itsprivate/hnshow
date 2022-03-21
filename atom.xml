@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-21T19:37:15.821Z</updated>
+    <updated>2022-03-21T20:14:51.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个火狐浏览器插件，在侧边栏按隐私容器分组标签]]></title>
+        <id>https://news.ycombinator.com/item?id=30759039</id>
+        <link href="https://news.ycombinator.com/item?id=30759039"/>
+        <updated>2022-03-21T20:05:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Firefox addon that groups tabs by privacy container in the sidebar]]></summary>
+        <author>
+            <name>maciekmm</name>
+            <uri>https://news.ycombinator.com/user?id=maciekmm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[发送或接收UDP包的节点CLI(西班牙语)]]></title>
         <id>https://news.ycombinator.com/item?id=30758617</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>difflens</name>
             <uri>https://news.ycombinator.com/user?id=difflens</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HackerDraw - 轻松绘制图表]]></title>
-        <id>https://news.ycombinator.com/item?id=30500996</id>
-        <link href="https://news.ycombinator.com/item?id=30500996"/>
-        <updated>2022-02-28T15:39:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: HackerDraw – Diagramming Made Easy]]></summary>
-        <author>
-            <name>akshayagarwal</name>
-            <uri>https://news.ycombinator.com/user?id=akshayagarwal</uri>
         </author>
     </entry>
 </feed>

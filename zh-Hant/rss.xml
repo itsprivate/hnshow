@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 21 Mar 2022 19:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 20:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個火狐瀏覽器插件，在側邊欄按隱私容器分組標籤]]></title>
+            <link>https://news.ycombinator.com/item?id=30759039</link>
+            <guid>https://news.ycombinator.com/item?id=30759039</guid>
+            <pubDate>Mon, 21 Mar 2022 20:05:54 GMT</pubDate>
+            <description><![CDATA[Show HN: A Firefox addon that groups tabs by privacy container in the sidebar]]></description>
+        </item>
         <item>
             <title><![CDATA[發送或接收UDP包的節點CLI(西班牙語)]]></title>
             <link>https://news.ycombinator.com/item?id=30758617</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30502020</guid>
             <pubDate>Mon, 28 Feb 2022 16:53:31 GMT</pubDate>
             <description><![CDATA[Show HN: Language aware diff on GitHub PRs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HackerDraw - 輕鬆繪製圖表]]></title>
-            <link>https://news.ycombinator.com/item?id=30500996</link>
-            <guid>https://news.ycombinator.com/item?id=30500996</guid>
-            <pubDate>Mon, 28 Feb 2022 15:39:59 GMT</pubDate>
-            <description><![CDATA[Show HN: HackerDraw – Diagramming Made Easy]]></description>
         </item>
     </channel>
 </rss>
