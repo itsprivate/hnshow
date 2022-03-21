@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 21 Mar 2022 16:52:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 17:08:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[微小的嵌入式腳本語言（在現代C++中）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30756518</link>
+            <guid>https://news.ycombinator.com/item?id=30756518</guid>
+            <pubDate>Mon, 21 Mar 2022 16:56:04 GMT</pubDate>
+            <description><![CDATA[Show HN: Tiny embedded scripting language (in modern C++)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[提交給HN瀏覽器擴展]]></title>
+            <link>https://news.ycombinator.com/item?id=30756414</link>
+            <guid>https://news.ycombinator.com/item?id=30756414</guid>
+            <pubDate>Mon, 21 Mar 2022 16:50:47 GMT</pubDate>
+            <description><![CDATA[Show HN: Submit to HN Chrome Extension]]></description>
+        </item>
         <item>
             <title><![CDATA[Go的通用函數式庫，靈感來自於Kotlin集合API]]></title>
             <link>https://news.ycombinator.com/item?id=30756056</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30499516</guid>
             <pubDate>Mon, 28 Feb 2022 13:23:10 GMT</pubDate>
             <description><![CDATA[Show HN: Securing Services with Pipy and OpenID Connect]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Docguard - DocSend類似於Notion文件的門控訪問]]></title>
-            <link>https://news.ycombinator.com/item?id=30499114</link>
-            <guid>https://news.ycombinator.com/item?id=30499114</guid>
-            <pubDate>Mon, 28 Feb 2022 12:32:12 GMT</pubDate>
-            <description><![CDATA[Show HN: Docguard – DocSend like gated-access for Notion documents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Prig - 與AWK類似，但使用Go進行 "腳本編寫"]]></title>
-            <link>https://news.ycombinator.com/item?id=30498735</link>
-            <guid>https://news.ycombinator.com/item?id=30498735</guid>
-            <pubDate>Mon, 28 Feb 2022 11:29:08 GMT</pubDate>
-            <description><![CDATA[Show HN: Prig – like AWK, but uses Go for “scripting”]]></description>
         </item>
     </channel>
 </rss>
