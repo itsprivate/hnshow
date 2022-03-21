@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-21T20:14:51.501Z</updated>
+    <updated>2022-03-21T20:35:03.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用一种有主见的方式来构建和维护复杂的YAML文档]]></title>
+        <id>https://news.ycombinator.com/item?id=30759115</id>
+        <link href="https://news.ycombinator.com/item?id=30759115"/>
+        <updated>2022-03-21T20:13:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An opinionated way to build and maintain complex YAML documents]]></summary>
+        <author>
+            <name>lucasepe</name>
+            <uri>https://news.ycombinator.com/user?id=lucasepe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个火狐浏览器插件，在侧边栏按隐私容器分组标签]]></title>
         <id>https://news.ycombinator.com/item?id=30759039</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>impish19</name>
             <uri>https://news.ycombinator.com/user?id=impish19</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在GitHub PR上的语言意识差异]]></title>
-        <id>https://news.ycombinator.com/item?id=30502020</id>
-        <link href="https://news.ycombinator.com/item?id=30502020"/>
-        <updated>2022-02-28T16:53:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Language aware diff on GitHub PRs]]></summary>
-        <author>
-            <name>difflens</name>
-            <uri>https://news.ycombinator.com/user?id=difflens</uri>
         </author>
     </entry>
 </feed>
