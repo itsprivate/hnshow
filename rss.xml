@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 21 Mar 2022 12:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 12:56:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[ZeroAcquire - 出售、购买和发现收入前的副业项目]]></title>
+            <link>https://news.ycombinator.com/item?id=30753465</link>
+            <guid>https://news.ycombinator.com/item?id=30753465</guid>
+            <pubDate>Mon, 21 Mar 2022 12:48:14 GMT</pubDate>
+            <description><![CDATA[Show HN: ZeroAcquire – Sell, buy and discover pre-revenue side projects]]></description>
+        </item>
         <item>
             <title><![CDATA[开源库解决了.NET C#中的PDF生成梦魇]]></title>
             <link>https://news.ycombinator.com/item?id=30753083</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30494031</guid>
             <pubDate>Sun, 27 Feb 2022 23:35:53 GMT</pubDate>
             <description><![CDATA[Show HN: Clj-Otel – Clojure API for OpenTelemetry]]></description>
-        </item>
-        <item>
-            <title><![CDATA[另一个Wordle解决方法，同时也解决了Nerdles问题]]></title>
-            <link>https://news.ycombinator.com/item?id=30492436</link>
-            <guid>https://news.ycombinator.com/item?id=30492436</guid>
-            <pubDate>Sun, 27 Feb 2022 20:57:22 GMT</pubDate>
-            <description><![CDATA[Show HN: Another Wordle Solver, Also Solves Nerdles]]></description>
         </item>
     </channel>
 </rss>
