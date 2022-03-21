@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-21T22:13:05.156Z</updated>
+    <updated>2022-03-21T22:43:07.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Benson.py將URL變成mp3--掌控你的閱讀積壓!]]></title>
+        <id>https://news.ycombinator.com/item?id=30760606</id>
+        <link href="https://news.ycombinator.com/item?id=30760606"/>
+        <updated>2022-03-21T22:32:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Benson.py turns URLs into mp3s – take charge of your reading backlog!]]></summary>
+        <author>
+            <name>timoteostewart</name>
+            <uri>https://news.ycombinator.com/user?id=timoteostewart</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個API來使Stripe快速而容易地集成]]></title>
         <id>https://news.ycombinator.com/item?id=30760156</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ayaanmomin</name>
             <uri>https://news.ycombinator.com/user?id=ayaanmomin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub採取行動，防止軟件供應鏈攻擊]]></title>
-        <id>https://news.ycombinator.com/item?id=30504205</id>
-        <link href="https://news.ycombinator.com/item?id=30504205"/>
-        <updated>2022-02-28T19:47:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GitHub Action to prevent software supply chain attacks]]></summary>
-        <author>
-            <name>varunsharma07</name>
-            <uri>https://news.ycombinator.com/user?id=varunsharma07</uri>
         </author>
     </entry>
 </feed>
