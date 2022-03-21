@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-21T09:51:38.626Z</updated>
+    <updated>2022-03-21T10:36:12.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们到底为什么这么害怕失败？[软技能]]]></title>
+        <id>https://news.ycombinator.com/item?id=30752271</id>
+        <link href="https://news.ycombinator.com/item?id=30752271"/>
+        <updated>2022-03-21T10:12:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Why are we so afraid of failure, anyway? [Soft Skills]]]></summary>
+        <author>
+            <name>nada_ss</name>
+            <uri>https://news.ycombinator.com/user?id=nada_ss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在同一地点搜索域名和用户名]]></title>
         <id>https://news.ycombinator.com/item?id=30752067</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gergelykalman</name>
             <uri>https://news.ycombinator.com/user?id=gergelykalman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简单朋友的宾果网络应用]]></title>
-        <id>https://news.ycombinator.com/item?id=30490313</id>
-        <link href="https://news.ycombinator.com/item?id=30490313"/>
-        <updated>2022-02-27T17:16:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Simple Friends bingo web app]]></summary>
-        <author>
-            <name>junot</name>
-            <uri>https://news.ycombinator.com/user?id=junot</uri>
         </author>
     </entry>
 </feed>
