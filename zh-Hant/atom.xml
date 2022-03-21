@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-21T07:30:28.246Z</updated>
+    <updated>2022-03-21T07:51:48.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Nuxt-speedkit 2.0--更快，更容易實現]]></title>
+        <id>https://news.ycombinator.com/item?id=30751360</id>
+        <link href="https://news.ycombinator.com/item?id=30751360"/>
+        <updated>2022-03-21T07:46:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Nuxt-speedkit 2.0 – even faster and easier to implement]]></summary>
+        <author>
+            <name>sgerbeth</name>
+            <uri>https://news.ycombinator.com/user?id=sgerbeth</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mindscape.pub (合作式思維導圖)]]></title>
         <id>https://news.ycombinator.com/item?id=30751005</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>choraria</name>
             <uri>https://news.ycombinator.com/user?id=choraria</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pdbr支持IPython %magics，如 %timeit]]></title>
-        <id>https://news.ycombinator.com/item?id=30490253</id>
-        <link href="https://news.ycombinator.com/item?id=30490253"/>
-        <updated>2022-02-27T17:09:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pdbr supports for IPython %magics, like %timeit]]></summary>
-        <author>
-            <name>cansargl</name>
-            <uri>https://news.ycombinator.com/user?id=cansargl</uri>
         </author>
     </entry>
 </feed>
