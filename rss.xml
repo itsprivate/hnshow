@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 21 Mar 2022 17:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 17:52:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[转到版本选择器]]></title>
+            <link>https://news.ycombinator.com/item?id=30757284</link>
+            <guid>https://news.ycombinator.com/item?id=30757284</guid>
+            <pubDate>Mon, 21 Mar 2022 17:42:29 GMT</pubDate>
+            <description><![CDATA[Show HN: Go Version Selector]]></description>
+        </item>
         <item>
             <title><![CDATA[我写了一本书，教医生了解人工智能]]></title>
             <link>https://news.ycombinator.com/item?id=30757054</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30500087</guid>
             <pubDate>Mon, 28 Feb 2022 14:23:27 GMT</pubDate>
             <description><![CDATA[Show HN: Just launched my blog of AI-generated creative writing [NSFW]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[W3rdl3 - Wordle和Threes的结合]]></title>
-            <link>https://news.ycombinator.com/item?id=30499601</link>
-            <guid>https://news.ycombinator.com/item?id=30499601</guid>
-            <pubDate>Mon, 28 Feb 2022 13:32:29 GMT</pubDate>
-            <description><![CDATA[Show HN: W3rdl3 – Wordle and Threes Combined]]></description>
         </item>
     </channel>
 </rss>
