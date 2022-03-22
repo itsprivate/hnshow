@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 22 Mar 2022 13:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 14:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Blokfeed的用户界面更新]]></title>
+            <link>https://news.ycombinator.com/item?id=30766196</link>
+            <guid>https://news.ycombinator.com/item?id=30766196</guid>
+            <pubDate>Tue, 22 Mar 2022 14:03:19 GMT</pubDate>
+            <description><![CDATA[Show HN: UI Updates to Blokfeed]]></description>
+        </item>
+        <item>
+            <title><![CDATA[编码面试给我带来压力，所以我建立了一个带回家的测试工具]]></title>
+            <link>https://news.ycombinator.com/item?id=30766059</link>
+            <guid>https://news.ycombinator.com/item?id=30766059</guid>
+            <pubDate>Tue, 22 Mar 2022 13:50:04 GMT</pubDate>
+            <description><![CDATA[Show HN: Coding interviews stress me out, so I built a takehome test tool]]></description>
+        </item>
         <item>
             <title><![CDATA[基于React的静态网站生成器，不输出客户端JS]]></title>
             <link>https://news.ycombinator.com/item?id=30765892</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30511664</guid>
             <pubDate>Tue, 01 Mar 2022 09:17:59 GMT</pubDate>
             <description><![CDATA[Show HN: NextDNS – Dark Theme]]></description>
-        </item>
-        <item>
-            <title><![CDATA[汇编网络应用程序的声明性抽象 (WIP)]]></title>
-            <link>https://news.ycombinator.com/item?id=30510676</link>
-            <guid>https://news.ycombinator.com/item?id=30510676</guid>
-            <pubDate>Tue, 01 Mar 2022 07:11:24 GMT</pubDate>
-            <description><![CDATA[Show HN: Declarative Abstraction for Assembling Web Apps (WIP)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[适用于Emacs的一体化GTD、时间、联系人、习惯和Zettelkasten系统]]></title>
-            <link>https://news.ycombinator.com/item?id=30510466</link>
-            <guid>https://news.ycombinator.com/item?id=30510466</guid>
-            <pubDate>Tue, 01 Mar 2022 06:37:48 GMT</pubDate>
-            <description><![CDATA[Show HN: All-in-One GTD, Time, Contacts, Habits & Zettelkasten system for Emacs]]></description>
         </item>
     </channel>
 </rss>
