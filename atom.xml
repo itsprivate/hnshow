@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-22T02:22:25.165Z</updated>
+    <updated>2022-03-22T08:36:44.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[生成QR码名片]]></title>
+        <id>https://news.ycombinator.com/item?id=30763822</id>
+        <link href="https://news.ycombinator.com/item?id=30763822"/>
+        <updated>2022-03-22T08:26:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Generate QR-Code Business Cards]]></summary>
+        <author>
+            <name>rmnclmnt</name>
+            <uri>https://news.ycombinator.com/user?id=rmnclmnt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在线学习和创建卡林巴舞曲谱]]></title>
         <id>https://news.ycombinator.com/item?id=30762085</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mborch</name>
             <uri>https://news.ycombinator.com/user?id=mborch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fetch Forms - 一个无头表格生成器]]></title>
-        <id>https://news.ycombinator.com/item?id=30505424</id>
-        <link href="https://news.ycombinator.com/item?id=30505424"/>
-        <updated>2022-02-28T21:33:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fetch Forms – a headless form builder]]></summary>
-        <author>
-            <name>lukefrogger</name>
-            <uri>https://news.ycombinator.com/user?id=lukefrogger</uri>
         </author>
     </entry>
 </feed>

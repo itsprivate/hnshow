@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 22 Mar 2022 02:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 08:36:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[生成QR码名片]]></title>
+            <link>https://news.ycombinator.com/item?id=30763822</link>
+            <guid>https://news.ycombinator.com/item?id=30763822</guid>
+            <pubDate>Tue, 22 Mar 2022 08:26:02 GMT</pubDate>
+            <description><![CDATA[Show HN: Generate QR-Code Business Cards]]></description>
+        </item>
         <item>
             <title><![CDATA[在线学习和创建卡林巴舞曲谱]]></title>
             <link>https://news.ycombinator.com/item?id=30762085</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30505471</guid>
             <pubDate>Mon, 28 Feb 2022 21:37:32 GMT</pubDate>
             <description><![CDATA[Show HN: Container registry on a budget using AWS S3]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fetch Forms - 一个无头表格生成器]]></title>
-            <link>https://news.ycombinator.com/item?id=30505424</link>
-            <guid>https://news.ycombinator.com/item?id=30505424</guid>
-            <pubDate>Mon, 28 Feb 2022 21:33:17 GMT</pubDate>
-            <description><![CDATA[Show HN: Fetch Forms – a headless form builder]]></description>
         </item>
     </channel>
 </rss>
