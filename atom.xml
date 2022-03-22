@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-22T08:53:16.428Z</updated>
+    <updated>2022-03-22T10:35:37.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个测试你对NFT价值估计能力的游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=30764524</id>
+        <link href="https://news.ycombinator.com/item?id=30764524"/>
+        <updated>2022-03-22T10:31:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A game that tests your ability to estimate the value of NFTs]]></summary>
+        <author>
+            <name>sultee</name>
+            <uri>https://news.ycombinator.com/user?id=sultee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为基于库存的初创企业提供小额融资]]></title>
         <id>https://news.ycombinator.com/item?id=30763969</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jamespwilliams</name>
             <uri>https://news.ycombinator.com/user?id=jamespwilliams</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学周刊--一份包含科学新闻和问题的通讯]]></title>
-        <id>https://news.ycombinator.com/item?id=30505904</id>
-        <link href="https://news.ycombinator.com/item?id=30505904"/>
-        <updated>2022-02-28T22:14:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Science Weekly – a newsletter containing science news and questions]]></summary>
-        <author>
-            <name>yasoob</name>
-            <uri>https://news.ycombinator.com/user?id=yasoob</uri>
         </author>
     </entry>
 </feed>
