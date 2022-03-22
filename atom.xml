@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-22T18:56:36.962Z</updated>
+    <updated>2022-03-22T19:11:59.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最近有人问，为什么GCP作为一个云计算供应商更受欢迎？]]></title>
+        <id>https://news.ycombinator.com/item?id=30770110</id>
+        <link href="https://news.ycombinator.com/item?id=30770110"/>
+        <updated>2022-03-22T19:05:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Someone asked recently why GCP more popular as a cloud provider]]></summary>
+        <author>
+            <name>more_corn</name>
+            <uri>https://news.ycombinator.com/user?id=more_corn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Collow - 软件团队的任务管理]]></title>
         <id>https://news.ycombinator.com/item?id=30769721</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>taubek</name>
             <uri>https://news.ycombinator.com/user?id=taubek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我创建了PlotPanel，一个用于创建交互式可视化的应用程序。]]></title>
-        <id>https://news.ycombinator.com/item?id=30515734</id>
-        <link href="https://news.ycombinator.com/item?id=30515734"/>
-        <updated>2022-03-01T16:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I created PlotPanel, an app for creating interactive visualisations]]></summary>
-        <author>
-            <name>batterylow</name>
-            <uri>https://news.ycombinator.com/user?id=batterylow</uri>
         </author>
     </entry>
 </feed>

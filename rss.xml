@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 22 Mar 2022 18:56:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 19:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[最近有人问，为什么GCP作为一个云计算供应商更受欢迎？]]></title>
+            <link>https://news.ycombinator.com/item?id=30770110</link>
+            <guid>https://news.ycombinator.com/item?id=30770110</guid>
+            <pubDate>Tue, 22 Mar 2022 19:05:20 GMT</pubDate>
+            <description><![CDATA[Show HN: Someone asked recently why GCP more popular as a cloud provider]]></description>
+        </item>
         <item>
             <title><![CDATA[Collow - 软件团队的任务管理]]></title>
             <link>https://news.ycombinator.com/item?id=30769721</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30515933</guid>
             <pubDate>Tue, 01 Mar 2022 16:12:20 GMT</pubDate>
             <description><![CDATA[Show HN: Memgraph 2.2. is released – graph database that supports streaming]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我创建了PlotPanel，一个用于创建交互式可视化的应用程序。]]></title>
-            <link>https://news.ycombinator.com/item?id=30515734</link>
-            <guid>https://news.ycombinator.com/item?id=30515734</guid>
-            <pubDate>Tue, 01 Mar 2022 16:00:48 GMT</pubDate>
-            <description><![CDATA[Show HN: I created PlotPanel, an app for creating interactive visualisations]]></description>
         </item>
     </channel>
 </rss>
