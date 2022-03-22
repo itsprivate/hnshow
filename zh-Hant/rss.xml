@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 22 Mar 2022 19:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 19:37:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[從命令行創建Matplotlib的可視化內容]]></title>
+            <link>https://news.ycombinator.com/item?id=30770388</link>
+            <guid>https://news.ycombinator.com/item?id=30770388</guid>
+            <pubDate>Tue, 22 Mar 2022 19:30:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Create Matplotlib visualizations from the command-line]]></description>
+        </item>
         <item>
             <title><![CDATA[用惡意軟件模擬包測試你的防禦能力]]></title>
             <link>https://news.ycombinator.com/item?id=30770270</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30516332</guid>
             <pubDate>Tue, 01 Mar 2022 16:38:09 GMT</pubDate>
             <description><![CDATA[Show HN: Doihavejavascriptenabled.com – Does what it says on the tin]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Twitter OAuth2.0客戶端的示例代碼（Node.js&TypeScript）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30516024</link>
-            <guid>https://news.ycombinator.com/item?id=30516024</guid>
-            <pubDate>Tue, 01 Mar 2022 16:17:25 GMT</pubDate>
-            <description><![CDATA[Show HN: Sample Code for the Twitter OAuth2.0 Client (Node.js&TypeScript)]]></description>
         </item>
     </channel>
 </rss>
