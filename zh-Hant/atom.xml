@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-21T22:51:35.302Z</updated>
+    <updated>2022-03-22T02:22:25.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在線學習和創建卡林巴舞曲譜]]></title>
+        <id>https://news.ycombinator.com/item?id=30762085</id>
+        <link href="https://news.ycombinator.com/item?id=30762085"/>
+        <updated>2022-03-22T02:15:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Learn and create Kalimba tabs online]]></summary>
+        <author>
+            <name>docuru</name>
+            <uri>https://news.ycombinator.com/user?id=docuru</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打字員，但有隨機抄寫的內容]]></title>
+        <id>https://news.ycombinator.com/item?id=30762062</id>
+        <link href="https://news.ycombinator.com/item?id=30762062"/>
+        <updated>2022-03-22T02:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Typeracer but with Random Copypasta]]></summary>
+        <author>
+            <name>bighoss97</name>
+            <uri>https://news.ycombinator.com/user?id=bighoss97</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用類編寫React鉤子]]></title>
         <id>https://news.ycombinator.com/item?id=30760696</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>lukefrogger</name>
             <uri>https://news.ycombinator.com/user?id=lukefrogger</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用ansible和stow更好地對待你的dotfiles]]></title>
-        <id>https://news.ycombinator.com/item?id=30497224</id>
-        <link href="https://news.ycombinator.com/item?id=30497224"/>
-        <updated>2022-02-28T07:17:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Treat your dotfiles better with ansible and stow]]></summary>
-        <author>
-            <name>iduoad</name>
-            <uri>https://news.ycombinator.com/user?id=iduoad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個網站，實時可視化烏克蘭的以太坊捐款情況]]></title>
-        <id>https://news.ycombinator.com/item?id=30505216</id>
-        <link href="https://news.ycombinator.com/item?id=30505216"/>
-        <updated>2022-02-28T21:13:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a site to visualize Ukraine's Ethereum donations in real time]]></summary>
-        <author>
-            <name>rlg</name>
-            <uri>https://news.ycombinator.com/user?id=rlg</uri>
         </author>
     </entry>
 </feed>
