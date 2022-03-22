@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-22T19:37:37.069Z</updated>
+    <updated>2022-03-22T20:33:56.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fetcher：抓取你過去手動刷新的帖子]]></title>
+        <id>https://news.ycombinator.com/item?id=30771060</id>
+        <link href="https://news.ycombinator.com/item?id=30771060"/>
+        <updated>2022-03-22T20:25:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fetcher: grab posts that you used to refresh manually]]></summary>
+        <author>
+            <name>neriymus</name>
+            <uri>https://news.ycombinator.com/user?id=neriymus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數據搜索引擎，使用你的內部數據]]></title>
+        <id>https://news.ycombinator.com/item?id=30771050</id>
+        <link href="https://news.ycombinator.com/item?id=30771050"/>
+        <updated>2022-03-22T20:25:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Search engine for data, using your internal data]]></summary>
+        <author>
+            <name>liquorice</name>
+            <uri>https://news.ycombinator.com/user?id=liquorice</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從命令行創建Matplotlib的可視化內容]]></title>
         <id>https://news.ycombinator.com/item?id=30770388</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>marshall2016</name>
             <uri>https://news.ycombinator.com/user?id=marshall2016</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的無代碼測試平臺正在測試自己，並獲得70%的覆蓋率]]></title>
-        <id>https://news.ycombinator.com/item?id=30515583</id>
-        <link href="https://news.ycombinator.com/item?id=30515583"/>
-        <updated>2022-03-01T15:49:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: My no-code testing platform is testing itself and getting 70% coverage]]></summary>
-        <author>
-            <name>slayerjain</name>
-            <uri>https://news.ycombinator.com/user?id=slayerjain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doihavejavascriptenabled.com - 做到了它在罐子上所說的。]]></title>
-        <id>https://news.ycombinator.com/item?id=30516332</id>
-        <link href="https://news.ycombinator.com/item?id=30516332"/>
-        <updated>2022-03-01T16:38:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Doihavejavascriptenabled.com – Does what it says on the tin]]></summary>
-        <author>
-            <name>xd1936</name>
-            <uri>https://news.ycombinator.com/user?id=xd1936</uri>
         </author>
     </entry>
 </feed>
