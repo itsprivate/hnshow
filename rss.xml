@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 22 Mar 2022 20:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 22:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Scrt - 一个命令行的秘密管理器]]></title>
+            <link>https://news.ycombinator.com/item?id=30772214</link>
+            <guid>https://news.ycombinator.com/item?id=30772214</guid>
+            <pubDate>Tue, 22 Mar 2022 22:08:40 GMT</pubDate>
+            <description><![CDATA[Show HN: Scrt – A secret manager for the command line]]></description>
+        </item>
         <item>
             <title><![CDATA[Fetcher：抓取你过去手动刷新的帖子]]></title>
             <link>https://news.ycombinator.com/item?id=30771060</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30516537</guid>
             <pubDate>Tue, 01 Mar 2022 16:53:17 GMT</pubDate>
             <description><![CDATA[Show HN: Watasu.js – Flexible Abstraction Interpreter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HackerPen - 练习如何在技术面试中获胜]]></title>
-            <link>https://news.ycombinator.com/item?id=30516444</link>
-            <guid>https://news.ycombinator.com/item?id=30516444</guid>
-            <pubDate>Tue, 01 Mar 2022 16:48:09 GMT</pubDate>
-            <description><![CDATA[Show HN: HackerPen – practice to ace tech interviews]]></description>
         </item>
     </channel>
 </rss>
