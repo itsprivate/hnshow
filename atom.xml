@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-22T14:14:54.387Z</updated>
+    <updated>2022-03-22T14:32:49.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Git分支之间快速切换 用rust编写的CLI]]></title>
+        <id>https://news.ycombinator.com/item?id=30766361</id>
+        <link href="https://news.ycombinator.com/item?id=30766361"/>
+        <updated>2022-03-22T14:16:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Quickly switch between Git branches CLI written in rust]]></summary>
+        <author>
+            <name>tushonka</name>
+            <uri>https://news.ycombinator.com/user?id=tushonka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blokfeed的用户界面更新]]></title>
         <id>https://news.ycombinator.com/item?id=30766196</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Dentrax</name>
             <uri>https://news.ycombinator.com/user?id=Dentrax</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[下一页DNS - 黑暗主题]]></title>
-        <id>https://news.ycombinator.com/item?id=30511664</id>
-        <link href="https://news.ycombinator.com/item?id=30511664"/>
-        <updated>2022-03-01T09:17:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: NextDNS – Dark Theme]]></summary>
-        <author>
-            <name>scim-knox-twox</name>
-            <uri>https://news.ycombinator.com/user?id=scim-knox-twox</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 22 Mar 2022 14:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 14:32:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在Git分支之間快速切換 用rust編寫的CLI]]></title>
+            <link>https://news.ycombinator.com/item?id=30766361</link>
+            <guid>https://news.ycombinator.com/item?id=30766361</guid>
+            <pubDate>Tue, 22 Mar 2022 14:16:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Quickly switch between Git branches CLI written in rust]]></description>
+        </item>
         <item>
             <title><![CDATA[Blokfeed的用戶界面更新]]></title>
             <link>https://news.ycombinator.com/item?id=30766196</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30512740</guid>
             <pubDate>Tue, 01 Mar 2022 11:19:38 GMT</pubDate>
             <description><![CDATA[Show HN: Build and push container images without Docker Daemon based on BuildKit]]></description>
-        </item>
-        <item>
-            <title><![CDATA[下一頁DNS - 黑暗主題]]></title>
-            <link>https://news.ycombinator.com/item?id=30511664</link>
-            <guid>https://news.ycombinator.com/item?id=30511664</guid>
-            <pubDate>Tue, 01 Mar 2022 09:17:59 GMT</pubDate>
-            <description><![CDATA[Show HN: NextDNS – Dark Theme]]></description>
         </item>
     </channel>
 </rss>
