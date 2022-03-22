@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-22T19:11:59.136Z</updated>
+    <updated>2022-03-22T19:28:02.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用惡意軟件模擬包測試你的防禦能力]]></title>
+        <id>https://news.ycombinator.com/item?id=30770270</id>
+        <link href="https://news.ycombinator.com/item?id=30770270"/>
+        <updated>2022-03-22T19:19:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Test Your Defenses with a Malware-Simulator Package]]></summary>
+        <author>
+            <name>varunsharma07</name>
+            <uri>https://news.ycombinator.com/user?id=varunsharma07</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最近有人問，為什麼GCP作為一個雲計算供應商更受歡迎？]]></title>
         <id>https://news.ycombinator.com/item?id=30770110</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kgoro</name>
             <uri>https://news.ycombinator.com/user?id=kgoro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memgraph 2.2.發佈--支持流媒體的圖數據庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30515933</id>
-        <link href="https://news.ycombinator.com/item?id=30515933"/>
-        <updated>2022-03-01T16:12:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Memgraph 2.2. is released – graph database that supports streaming]]></summary>
-        <author>
-            <name>taubek</name>
-            <uri>https://news.ycombinator.com/user?id=taubek</uri>
         </author>
     </entry>
 </feed>

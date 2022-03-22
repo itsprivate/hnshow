@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 22 Mar 2022 19:11:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 19:28:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用惡意軟件模擬包測試你的防禦能力]]></title>
+            <link>https://news.ycombinator.com/item?id=30770270</link>
+            <guid>https://news.ycombinator.com/item?id=30770270</guid>
+            <pubDate>Tue, 22 Mar 2022 19:19:13 GMT</pubDate>
+            <description><![CDATA[Show HN: Test Your Defenses with a Malware-Simulator Package]]></description>
+        </item>
         <item>
             <title><![CDATA[最近有人問，為什麼GCP作為一個雲計算供應商更受歡迎？]]></title>
             <link>https://news.ycombinator.com/item?id=30770110</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30516024</guid>
             <pubDate>Tue, 01 Mar 2022 16:17:25 GMT</pubDate>
             <description><![CDATA[Show HN: Sample Code for the Twitter OAuth2.0 Client (Node.js&TypeScript)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Memgraph 2.2.發佈--支持流媒體的圖數據庫]]></title>
-            <link>https://news.ycombinator.com/item?id=30515933</link>
-            <guid>https://news.ycombinator.com/item?id=30515933</guid>
-            <pubDate>Tue, 01 Mar 2022 16:12:20 GMT</pubDate>
-            <description><![CDATA[Show HN: Memgraph 2.2. is released – graph database that supports streaming]]></description>
         </item>
     </channel>
 </rss>
