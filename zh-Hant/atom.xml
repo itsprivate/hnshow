@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-22T15:58:42.446Z</updated>
+    <updated>2022-03-22T17:23:49.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Kaibex，一個省油的Uniswap克隆體]]></title>
+        <id>https://news.ycombinator.com/item?id=30768145</id>
+        <link href="https://news.ycombinator.com/item?id=30768145"/>
+        <updated>2022-03-22T16:28:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Kaibex, a Uniswap clone that saves on gas]]></summary>
+        <author>
+            <name>max__d</name>
+            <uri>https://news.ycombinator.com/user?id=max__d</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的書讓概率變得如此簡單，以至於狐猴也能學會它]]></title>
+        <id>https://news.ycombinator.com/item?id=30768109</id>
+        <link href="https://news.ycombinator.com/item?id=30768109"/>
+        <updated>2022-03-22T16:26:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My Book Making Probability So Easy That a Lemur Could Learn It]]></summary>
+        <author>
+            <name>wwwpatdelcom</name>
+            <uri>https://news.ycombinator.com/user?id=wwwpatdelcom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Machinegame - 一個多人的瀏覽器遊戲，你可以通過編碼來玩。]]></title>
         <id>https://news.ycombinator.com/item?id=30767490</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jcal93</name>
             <uri>https://news.ycombinator.com/user?id=jcal93</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘋果電視的派對旗幟]]></title>
-        <id>https://news.ycombinator.com/item?id=30513904</id>
-        <link href="https://news.ycombinator.com/item?id=30513904"/>
-        <updated>2022-03-01T13:37:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Party Banner for Apple TV]]></summary>
-        <author>
-            <name>willswire</name>
-            <uri>https://news.ycombinator.com/user?id=willswire</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[直接用Python轉換表，無需編寫SQL]]></title>
-        <id>https://news.ycombinator.com/item?id=30513780</id>
-        <link href="https://news.ycombinator.com/item?id=30513780"/>
-        <updated>2022-03-01T13:22:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Transform tables directly with Python, without writing SQL]]></summary>
-        <author>
-            <name>cpdough</name>
-            <uri>https://news.ycombinator.com/user?id=cpdough</uri>
         </author>
     </entry>
 </feed>
