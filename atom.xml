@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-22T22:32:42.106Z</updated>
+    <updated>2022-03-22T23:13:21.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[扫描食品包装上的营养成分、过敏原、产地等的应用程序。]]></title>
+        <id>https://news.ycombinator.com/item?id=30772756</id>
+        <link href="https://news.ycombinator.com/item?id=30772756"/>
+        <updated>2022-03-22T23:06:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: App that scans food packaging for nutritions, allergens, origin etc.]]></summary>
+        <author>
+            <name>FrankWeiss</name>
+            <uri>https://news.ycombinator.com/user?id=FrankWeiss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vault - 体育博彩数据聚合应用]]></title>
         <id>https://news.ycombinator.com/item?id=30772370</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jakestein</name>
             <uri>https://news.ycombinator.com/user?id=jakestein</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fweb3]]></title>
-        <id>https://news.ycombinator.com/item?id=30516847</id>
-        <link href="https://news.ycombinator.com/item?id=30516847"/>
-        <updated>2022-03-01T17:16:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fweb3]]></summary>
-        <author>
-            <name>sahillavingia</name>
-            <uri>https://news.ycombinator.com/user?id=sahillavingia</uri>
         </author>
     </entry>
 </feed>
