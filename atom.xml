@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-22T10:35:37.885Z</updated>
+    <updated>2022-03-22T11:12:21.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Budibase - 开源的Retool替代品 - 推出他们的公共API]]></title>
+        <id>https://news.ycombinator.com/item?id=30764687</id>
+        <link href="https://news.ycombinator.com/item?id=30764687"/>
+        <updated>2022-03-22T11:01:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Budibase – open-source Retool alternative – launch their Public API]]></summary>
+        <author>
+            <name>foxbee</name>
+            <uri>https://news.ycombinator.com/user?id=foxbee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个测试你对NFT价值估计能力的游戏]]></title>
         <id>https://news.ycombinator.com/item?id=30764524</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>graderjs</name>
             <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 1.18中SliceTricks的通用实现来自Go wiki]]></title>
-        <id>https://news.ycombinator.com/item?id=30506328</id>
-        <link href="https://news.ycombinator.com/item?id=30506328"/>
-        <updated>2022-02-28T22:56:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Go 1.18 generic implementations of SliceTricks from the Go wiki]]></summary>
-        <author>
-            <name>jamespwilliams</name>
-            <uri>https://news.ycombinator.com/user?id=jamespwilliams</uri>
         </author>
     </entry>
 </feed>
