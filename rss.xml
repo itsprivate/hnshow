@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Mar 2022 19:53:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 20:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用方法链在Swift中编写脚本]]></title>
+            <link>https://news.ycombinator.com/item?id=30782545</link>
+            <guid>https://news.ycombinator.com/item?id=30782545</guid>
+            <pubDate>Wed, 23 Mar 2022 19:53:40 GMT</pubDate>
+            <description><![CDATA[Show HN: Scripting in Swift with method chaining]]></description>
+        </item>
         <item>
             <title><![CDATA[Mogenius - 开发人员在云中运行任何应用程序的最简单方法]]></title>
             <link>https://news.ycombinator.com/item?id=30782501</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30527161</guid>
             <pubDate>Wed, 02 Mar 2022 13:39:23 GMT</pubDate>
             <description><![CDATA[Show HN: Next Level Token-Gating – Serve Media Based on NFT Ownership]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Backspace - 让你的网站实现碳中和]]></title>
-            <link>https://news.ycombinator.com/item?id=30527032</link>
-            <guid>https://news.ycombinator.com/item?id=30527032</guid>
-            <pubDate>Wed, 02 Mar 2022 13:23:06 GMT</pubDate>
-            <description><![CDATA[Show HN: Backspace – make your website carbon neutral]]></description>
         </item>
     </channel>
 </rss>
