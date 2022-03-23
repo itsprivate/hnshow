@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-23T12:56:56.773Z</updated>
+    <updated>2022-03-23T13:25:13.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们做了一个开源的个性化引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=30778100</id>
+        <link href="https://news.ycombinator.com/item?id=30778100"/>
+        <updated>2022-03-23T13:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We made an open-source personalization engine]]></summary>
+        <author>
+            <name>shutty</name>
+            <uri>https://news.ycombinator.com/user?id=shutty</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[敏捷破冰问题生成器]]></title>
+        <id>https://news.ycombinator.com/item?id=30778077</id>
+        <link href="https://news.ycombinator.com/item?id=30778077"/>
+        <updated>2022-03-23T13:09:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Agile Icebreaker Questions Generator]]></summary>
+        <author>
+            <name>m88m</name>
+            <uri>https://news.ycombinator.com/user?id=m88m</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React导入CSV/XLS流程。开源的Flatfile替代品]]></title>
+        <id>https://news.ycombinator.com/item?id=30778003</id>
+        <link href="https://news.ycombinator.com/item?id=30778003"/>
+        <updated>2022-03-23T13:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: React import CSV/XLS flow. Open source alternative to Flatfile]]></summary>
+        <author>
+            <name>masiulis</name>
+            <uri>https://news.ycombinator.com/user?id=masiulis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bloxs - 在你的笔记本上以卡片形式显示数据]]></title>
         <id>https://news.ycombinator.com/item?id=30777687</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>TimLeland</name>
             <uri>https://news.ycombinator.com/user?id=TimLeland</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个网页游戏，叫作 "Almost Pong"。]]></title>
-        <id>https://news.ycombinator.com/item?id=30517626</id>
-        <link href="https://news.ycombinator.com/item?id=30517626"/>
-        <updated>2022-03-01T18:09:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a web game called Almost Pong]]></summary>
-        <author>
-            <name>lessmilk</name>
-            <uri>https://news.ycombinator.com/user?id=lessmilk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zetteldesk - Org-Roam的Zettelkasten]]></title>
-        <id>https://news.ycombinator.com/item?id=30519681</id>
-        <link href="https://news.ycombinator.com/item?id=30519681"/>
-        <updated>2022-03-01T20:39:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Zetteldesk – Zettelkasten for Org-Roam]]></summary>
-        <author>
-            <name>drudoo</name>
-            <uri>https://news.ycombinator.com/user?id=drudoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FortunesRise - 适用于所有资产类型的投资追踪器]]></title>
-        <id>https://news.ycombinator.com/item?id=30519094</id>
-        <link href="https://news.ycombinator.com/item?id=30519094"/>
-        <updated>2022-03-01T19:50:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: FortunesRise – An investment tracker for all asset types]]></summary>
-        <author>
-            <name>ngburke</name>
-            <uri>https://news.ycombinator.com/user?id=ngburke</uri>
         </author>
     </entry>
 </feed>

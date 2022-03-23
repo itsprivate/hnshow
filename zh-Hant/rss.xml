@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Mar 2022 12:56:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 13:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們做了一個開源的個性化引擎]]></title>
+            <link>https://news.ycombinator.com/item?id=30778100</link>
+            <guid>https://news.ycombinator.com/item?id=30778100</guid>
+            <pubDate>Wed, 23 Mar 2022 13:12:44 GMT</pubDate>
+            <description><![CDATA[Show HN: We made an open-source personalization engine]]></description>
+        </item>
+        <item>
+            <title><![CDATA[敏捷破冰問題生成器]]></title>
+            <link>https://news.ycombinator.com/item?id=30778077</link>
+            <guid>https://news.ycombinator.com/item?id=30778077</guid>
+            <pubDate>Wed, 23 Mar 2022 13:09:42 GMT</pubDate>
+            <description><![CDATA[Show HN: Agile Icebreaker Questions Generator]]></description>
+        </item>
+        <item>
+            <title><![CDATA[React導入CSV/XLS流程。開源的Flatfile替代品]]></title>
+            <link>https://news.ycombinator.com/item?id=30778003</link>
+            <guid>https://news.ycombinator.com/item?id=30778003</guid>
+            <pubDate>Wed, 23 Mar 2022 13:00:39 GMT</pubDate>
+            <description><![CDATA[Show HN: React import CSV/XLS flow. Open source alternative to Flatfile]]></description>
+        </item>
         <item>
             <title><![CDATA[Bloxs - 在你的筆記本上以卡片形式顯示數據]]></title>
             <link>https://news.ycombinator.com/item?id=30777687</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30520424</guid>
             <pubDate>Tue, 01 Mar 2022 21:43:23 GMT</pubDate>
             <description><![CDATA[Show HN: New Room for Google Meet Extension]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一個網頁遊戲，叫作 "Almost Pong"。]]></title>
-            <link>https://news.ycombinator.com/item?id=30517626</link>
-            <guid>https://news.ycombinator.com/item?id=30517626</guid>
-            <pubDate>Tue, 01 Mar 2022 18:09:25 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a web game called Almost Pong]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Zetteldesk - Org-Roam的Zettelkasten]]></title>
-            <link>https://news.ycombinator.com/item?id=30519681</link>
-            <guid>https://news.ycombinator.com/item?id=30519681</guid>
-            <pubDate>Tue, 01 Mar 2022 20:39:08 GMT</pubDate>
-            <description><![CDATA[Show HN: Zetteldesk – Zettelkasten for Org-Roam]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FortunesRise - 適用於所有資產類型的投資追蹤器]]></title>
-            <link>https://news.ycombinator.com/item?id=30519094</link>
-            <guid>https://news.ycombinator.com/item?id=30519094</guid>
-            <pubDate>Tue, 01 Mar 2022 19:50:31 GMT</pubDate>
-            <description><![CDATA[Show HN: FortunesRise – An investment tracker for all asset types]]></description>
         </item>
     </channel>
 </rss>
