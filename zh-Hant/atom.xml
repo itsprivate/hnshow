@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-23T17:57:58.989Z</updated>
+    <updated>2022-03-23T18:16:52.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[羅馬尼亞新聞網站，有700多個消息來源，熟悉的設計]]></title>
+        <id>https://news.ycombinator.com/item?id=30781288</id>
+        <link href="https://news.ycombinator.com/item?id=30781288"/>
+        <updated>2022-03-23T17:55:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Romanian news website with over 700 sources, familiar design]]></summary>
+        <author>
+            <name>sturza</name>
+            <uri>https://news.ycombinator.com/user?id=sturza</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[預先考慮棋 - 一個有N輪不完整信息的國際象棋變體]]></title>
+        <id>https://news.ycombinator.com/item?id=30781173</id>
+        <link href="https://news.ycombinator.com/item?id=30781173"/>
+        <updated>2022-03-23T17:44:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Think Ahead Chess – A chess variant with n turns of incomplete info]]></summary>
+        <author>
+            <name>miej</name>
+            <uri>https://news.ycombinator.com/user?id=miej</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[撰寫科幻小說，宣傳科學，贏取獎品]]></title>
+        <id>https://news.ycombinator.com/item?id=30781126</id>
+        <link href="https://news.ycombinator.com/item?id=30781126"/>
+        <updated>2022-03-23T17:40:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Write sci-fi, promote science, and win prizes]]></summary>
+        <author>
+            <name>keiferski</name>
+            <uri>https://news.ycombinator.com/user?id=keiferski</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[限制器，一個低代碼的解決方案，用於設置和執行訂閱限制]]></title>
         <id>https://news.ycombinator.com/item?id=30780645</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>dzhou121</name>
             <uri>https://news.ycombinator.com/user?id=dzhou121</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Linux下與SSH密鑰管理的鬥爭]]></title>
-        <id>https://news.ycombinator.com/item?id=30526635</id>
-        <link href="https://news.ycombinator.com/item?id=30526635"/>
-        <updated>2022-03-02T12:35:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The struggle with SSH key management under Linux]]></summary>
-        <author>
-            <name>michidk</name>
-            <uri>https://news.ycombinator.com/user?id=michidk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我創建了顯示Wordle答案的ANSWERDLE。]]></title>
-        <id>https://news.ycombinator.com/item?id=30526631</id>
-        <link href="https://news.ycombinator.com/item?id=30526631"/>
-        <updated>2022-03-02T12:34:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I created ANSWERDLE that shows the answer of Wordle]]></summary>
-        <author>
-            <name>p1atdev</name>
-            <uri>https://news.ycombinator.com/user?id=p1atdev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我創建了一個網站來監測戰爭局勢]]></title>
-        <id>https://news.ycombinator.com/item?id=30526058</id>
-        <link href="https://news.ycombinator.com/item?id=30526058"/>
-        <updated>2022-03-02T11:14:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I created a website to monitor the war situation]]></summary>
-        <author>
-            <name>bobabob</name>
-            <uri>https://news.ycombinator.com/user?id=bobabob</uri>
         </author>
     </entry>
 </feed>
