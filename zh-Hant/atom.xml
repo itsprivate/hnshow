@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-22T23:33:09.845Z</updated>
+    <updated>2022-03-23T03:57:43.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[3D網站，展示我們的建設成果]]></title>
+        <id>https://news.ycombinator.com/item?id=30774753</id>
+        <link href="https://news.ycombinator.com/item?id=30774753"/>
+        <updated>2022-03-23T03:53:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: 3D site to show off what we've built]]></summary>
+        <author>
+            <name>theonlyriggs</name>
+            <uri>https://news.ycombinator.com/user?id=theonlyriggs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烏克蘭戰爭場景的三維重建]]></title>
         <id>https://news.ycombinator.com/item?id=30772804</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tracfren</name>
             <uri>https://news.ycombinator.com/user?id=tracfren</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幫助新的自由職業者管理客戶、項目和付款]]></title>
-        <id>https://news.ycombinator.com/item?id=30517118</id>
-        <link href="https://news.ycombinator.com/item?id=30517118"/>
-        <updated>2022-03-01T17:34:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Helping new Freelancers manage clients, projects and payments]]></summary>
-        <author>
-            <name>radi8</name>
-            <uri>https://news.ycombinator.com/user?id=radi8</uri>
         </author>
     </entry>
 </feed>
