@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Mar 2022 21:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 22:33:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[谱系评论论文竞赛，奖金高达1万美元]]></title>
+            <link>https://news.ycombinator.com/item?id=30784283</link>
+            <guid>https://news.ycombinator.com/item?id=30784283</guid>
+            <pubDate>Wed, 23 Mar 2022 22:20:41 GMT</pubDate>
+            <description><![CDATA[Show HN: Spectra review paper competition, prizes up to $10k]]></description>
+        </item>
         <item>
             <title><![CDATA[十亿美金的创业公司投稿集锦]]></title>
             <link>https://news.ycombinator.com/item?id=30783677</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30528365</guid>
             <pubDate>Wed, 02 Mar 2022 15:24:03 GMT</pubDate>
             <description><![CDATA[Show HN: Live Video Starter Kit (Open Source Hopin)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Miniboss，用Python实现多功能的本地容器管理]]></title>
-            <link>https://news.ycombinator.com/item?id=30528167</link>
-            <guid>https://news.ycombinator.com/item?id=30528167</guid>
-            <pubDate>Wed, 02 Mar 2022 15:07:52 GMT</pubDate>
-            <description><![CDATA[Show HN: Miniboss, versatile local container management with Python]]></description>
         </item>
     </channel>
 </rss>
