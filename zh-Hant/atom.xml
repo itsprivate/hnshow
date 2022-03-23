@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-23T11:38:01.939Z</updated>
+    <updated>2022-03-23T12:56:56.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Bloxs - 在你的筆記本上以卡片形式顯示數據]]></title>
+        <id>https://news.ycombinator.com/item?id=30777687</id>
+        <link href="https://news.ycombinator.com/item?id=30777687"/>
+        <updated>2022-03-23T12:21:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bloxs – display data as cards in your notebook]]></summary>
+        <author>
+            <name>pplonski86</name>
+            <uri>https://news.ycombinator.com/user?id=pplonski86</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WakeMeOps - 一個 Debian/Ubuntu repo，用於流行的 DevOps 工具和更多。]]></title>
+        <id>https://news.ycombinator.com/item?id=30777680</id>
+        <link href="https://news.ycombinator.com/item?id=30777680"/>
+        <updated>2022-03-23T12:21:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WakeMeOps – A Debian/Ubuntu repo for popular DevOps tools and more]]></summary>
+        <author>
+            <name>fyhertz</name>
+            <uri>https://news.ycombinator.com/user?id=fyhertz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蒸汽聊天。聊天室的一切蒸汽波]]></title>
         <id>https://news.ycombinator.com/item?id=30777308</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ngburke</name>
             <uri>https://news.ycombinator.com/user?id=ngburke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安樂室]]></title>
-        <id>https://news.ycombinator.com/item?id=30518680</id>
-        <link href="https://news.ycombinator.com/item?id=30518680"/>
-        <updated>2022-03-01T19:17:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Anonroom]]></summary>
-        <author>
-            <name>vinliao</name>
-            <uri>https://news.ycombinator.com/user?id=vinliao</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Louper - 現場音頻循環應用]]></title>
-        <id>https://news.ycombinator.com/item?id=30518587</id>
-        <link href="https://news.ycombinator.com/item?id=30518587"/>
-        <updated>2022-03-01T19:10:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Louper – live audio looping app]]></summary>
-        <author>
-            <name>wdfx</name>
-            <uri>https://news.ycombinator.com/user?id=wdfx</uri>
         </author>
     </entry>
 </feed>
