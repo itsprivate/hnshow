@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Mar 2022 14:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 17:30:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,55 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Flexishift--灵活工作时代的时间追踪 [iOS] 。]]></title>
+            <link>https://news.ycombinator.com/item?id=30779999</link>
+            <guid>https://news.ycombinator.com/item?id=30779999</guid>
+            <pubDate>Wed, 23 Mar 2022 16:13:33 GMT</pubDate>
+            <description><![CDATA[Show HN: Flexishift – time tracking for the age of flexible work [iOS]]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Chrome浏览器扩展，无需切换上下文即可快速记笔记]]></title>
+            <link>https://news.ycombinator.com/item?id=30779923</link>
+            <guid>https://news.ycombinator.com/item?id=30779923</guid>
+            <pubDate>Wed, 23 Mar 2022 16:07:06 GMT</pubDate>
+            <description><![CDATA[Show HN: Chrome extension to take quick notes without having context switch]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在你的终端呈现Jupyter笔记本]]></title>
+            <link>https://news.ycombinator.com/item?id=30779919</link>
+            <guid>https://news.ycombinator.com/item?id=30779919</guid>
+            <pubDate>Wed, 23 Mar 2022 16:06:53 GMT</pubDate>
+            <description><![CDATA[Show HN: Render Jupyter Notebooks in your terminal]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Forge - 一个Django SaaS框架]]></title>
+            <link>https://news.ycombinator.com/item?id=30779395</link>
+            <guid>https://news.ycombinator.com/item?id=30779395</guid>
+            <pubDate>Wed, 23 Mar 2022 15:22:18 GMT</pubDate>
+            <description><![CDATA[Show HN: Forge – A Django SaaS Framework]]></description>
+        </item>
+        <item>
+            <title><![CDATA[将你的产品目录转化为支付链接]]></title>
+            <link>https://news.ycombinator.com/item?id=30779292</link>
+            <guid>https://news.ycombinator.com/item?id=30779292</guid>
+            <pubDate>Wed, 23 Mar 2022 15:13:41 GMT</pubDate>
+            <description><![CDATA[Show HN: Transform your product catalog to payment links]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Vagon Streams - 无代码应用流平台]]></title>
+            <link>https://news.ycombinator.com/item?id=30779097</link>
+            <guid>https://news.ycombinator.com/item?id=30779097</guid>
+            <pubDate>Wed, 23 Mar 2022 14:56:26 GMT</pubDate>
+            <description><![CDATA[Show HN: Vagon Streams – No-code app streaming platform]]></description>
+        </item>
+        <item>
+            <title><![CDATA[YouTube上1/3的亲克里姆林宫宣传品来自两个乌克兰人]]></title>
+            <link>https://news.ycombinator.com/item?id=30779023</link>
+            <guid>https://news.ycombinator.com/item?id=30779023</guid>
+            <pubDate>Wed, 23 Mar 2022 14:49:58 GMT</pubDate>
+            <description><![CDATA[Show HN: 1/3 of all pro-Kremlin propaganda on YouTube comes from two Ukrainians]]></description>
+        </item>
         <item>
             <title><![CDATA[Datetime.tools - 方便的日期和时间转换]]></title>
             <link>https://news.ycombinator.com/item?id=30778837</link>
@@ -4164,55 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30526000</guid>
             <pubDate>Wed, 02 Mar 2022 11:04:23 GMT</pubDate>
             <description><![CDATA[Show HN: OAuth2.0 client_credentials flow with Smallstep TLS client auth]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Nextacular - 快速启动多租户SaaS平台]]></title>
-            <link>https://news.ycombinator.com/item?id=30525213</link>
-            <guid>https://news.ycombinator.com/item?id=30525213</guid>
-            <pubDate>Wed, 02 Mar 2022 08:40:59 GMT</pubDate>
-            <description><![CDATA[Show HN: Nextacular – Quickly Launch Multi-Tenant SaaS Platforms]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Goprisma - Prisma的Golang/cgo包装器：将GraphQL与任何数据库对话]]></title>
-            <link>https://news.ycombinator.com/item?id=30525107</link>
-            <guid>https://news.ycombinator.com/item?id=30525107</guid>
-            <pubDate>Wed, 02 Mar 2022 08:24:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Goprisma – Golang/cgo wrapper for Prisma: Talk GraphQL to any Database]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用Pipy作为Kubernetes策略引擎]]></title>
-            <link>https://news.ycombinator.com/item?id=30524815</link>
-            <guid>https://news.ycombinator.com/item?id=30524815</guid>
-            <pubDate>Wed, 02 Mar 2022 07:40:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Using Pipy as a Kubernetes policy engine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个用rust编写的本地文件搜索工具]]></title>
-            <link>https://news.ycombinator.com/item?id=30524251</link>
-            <guid>https://news.ycombinator.com/item?id=30524251</guid>
-            <pubDate>Wed, 02 Mar 2022 05:57:48 GMT</pubDate>
-            <description><![CDATA[Show HN: A local file search tool written in rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我建立了Voggle，一个比Wordle更具挑战性的文字游戏]]></title>
-            <link>https://news.ycombinator.com/item?id=30524014</link>
-            <guid>https://news.ycombinator.com/item?id=30524014</guid>
-            <pubDate>Wed, 02 Mar 2022 05:16:05 GMT</pubDate>
-            <description><![CDATA[Show HN: I built Voggle, a word game more challenging than Wordle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mutate - 一个使用大型LM合成文本数据集的库]]></title>
-            <link>https://news.ycombinator.com/item?id=30524008</link>
-            <guid>https://news.ycombinator.com/item?id=30524008</guid>
-            <pubDate>Wed, 02 Mar 2022 05:14:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Mutate – A library to synthesize text datasets using Large LMs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我用React-TypeScript做了一个Wordle的克隆版]]></title>
-            <link>https://news.ycombinator.com/item?id=30523869</link>
-            <guid>https://news.ycombinator.com/item?id=30523869</guid>
-            <pubDate>Wed, 02 Mar 2022 04:50:00 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a Wordle clone with React-TypeScript]]></description>
         </item>
     </channel>
 </rss>
