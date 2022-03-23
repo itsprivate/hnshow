@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Mar 2022 17:30:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 17:57:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[限制器，一個低代碼的解決方案，用於設置和執行訂閱限制]]></title>
+            <link>https://news.ycombinator.com/item?id=30780645</link>
+            <guid>https://news.ycombinator.com/item?id=30780645</guid>
+            <pubDate>Wed, 23 Mar 2022 17:03:23 GMT</pubDate>
+            <description><![CDATA[Show HN: Limiter, a low-code solution to set up and enforce subscription limits]]></description>
+        </item>
         <item>
             <title><![CDATA[Flexishift--靈活工作時代的時間追蹤 [iOS] 。]]></title>
             <link>https://news.ycombinator.com/item?id=30779999</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30526058</guid>
             <pubDate>Wed, 02 Mar 2022 11:14:32 GMT</pubDate>
             <description><![CDATA[Show HN: I created a website to monitor the war situation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OAuth2.0客戶端_憑證流程與Smallstep TLS客戶端認證]]></title>
-            <link>https://news.ycombinator.com/item?id=30526000</link>
-            <guid>https://news.ycombinator.com/item?id=30526000</guid>
-            <pubDate>Wed, 02 Mar 2022 11:04:23 GMT</pubDate>
-            <description><![CDATA[Show HN: OAuth2.0 client_credentials flow with Smallstep TLS client auth]]></description>
         </item>
     </channel>
 </rss>

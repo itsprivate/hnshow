@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-23T17:30:36.521Z</updated>
+    <updated>2022-03-23T17:57:58.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[限制器，一個低代碼的解決方案，用於設置和執行訂閱限制]]></title>
+        <id>https://news.ycombinator.com/item?id=30780645</id>
+        <link href="https://news.ycombinator.com/item?id=30780645"/>
+        <updated>2022-03-23T17:03:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Limiter, a low-code solution to set up and enforce subscription limits]]></summary>
+        <author>
+            <name>sssslyz</name>
+            <uri>https://news.ycombinator.com/user?id=sssslyz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flexishift--靈活工作時代的時間追蹤 [iOS] 。]]></title>
         <id>https://news.ycombinator.com/item?id=30779999</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bobabob</name>
             <uri>https://news.ycombinator.com/user?id=bobabob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OAuth2.0客戶端_憑證流程與Smallstep TLS客戶端認證]]></title>
-        <id>https://news.ycombinator.com/item?id=30526000</id>
-        <link href="https://news.ycombinator.com/item?id=30526000"/>
-        <updated>2022-03-02T11:04:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: OAuth2.0 client_credentials flow with Smallstep TLS client auth]]></summary>
-        <author>
-            <name>jothac</name>
-            <uri>https://news.ycombinator.com/user?id=jothac</uri>
         </author>
     </entry>
 </feed>
