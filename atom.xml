@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-23T09:51:56.352Z</updated>
+    <updated>2022-03-23T11:13:00.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[CreatorKit - 第一个专门为电子商务设计的视频创作工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30777086</id>
+        <link href="https://news.ycombinator.com/item?id=30777086"/>
+        <updated>2022-03-23T10:50:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: CreatorKit – First video creator purpose-built for ecommerce]]></summary>
+        <author>
+            <name>knatanzon</name>
+            <uri>https://news.ycombinator.com/user?id=knatanzon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个免费的Chrome浏览器插件可以让你更好地开会]]></title>
         <id>https://news.ycombinator.com/item?id=30776726</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jensneuse</name>
             <uri>https://news.ycombinator.com/user?id=jensneuse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对实时视频媒体流进行抖动]]></title>
-        <id>https://news.ycombinator.com/item?id=30518369</id>
-        <link href="https://news.ycombinator.com/item?id=30518369"/>
-        <updated>2022-03-01T18:55:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dithering a real-time video media stream]]></summary>
-        <author>
-            <name>rikroots</name>
-            <uri>https://news.ycombinator.com/user?id=rikroots</uri>
         </author>
     </entry>
 </feed>
