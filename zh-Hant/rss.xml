@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Mar 2022 20:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 20:35:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[直接交付給Slack的AWS節省費用]]></title>
+            <link>https://news.ycombinator.com/item?id=30782846</link>
+            <guid>https://news.ycombinator.com/item?id=30782846</guid>
+            <pubDate>Wed, 23 Mar 2022 20:21:55 GMT</pubDate>
+            <description><![CDATA[Show HN: AWS Savings Delivered Directly to Slack]]></description>
+        </item>
         <item>
             <title><![CDATA[用方法鏈在Swift中編寫腳本]]></title>
             <link>https://news.ycombinator.com/item?id=30782545</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30527406</guid>
             <pubDate>Wed, 02 Mar 2022 14:05:59 GMT</pubDate>
             <description><![CDATA[Show HN: Parsers VC – Venture Capital data provider]]></description>
-        </item>
-        <item>
-            <title><![CDATA[下一層次的代幣門控--基於NFT所有權的媒體服務]]></title>
-            <link>https://news.ycombinator.com/item?id=30527161</link>
-            <guid>https://news.ycombinator.com/item?id=30527161</guid>
-            <pubDate>Wed, 02 Mar 2022 13:39:23 GMT</pubDate>
-            <description><![CDATA[Show HN: Next Level Token-Gating – Serve Media Based on NFT Ownership]]></description>
         </item>
     </channel>
 </rss>
