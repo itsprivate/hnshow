@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Mar 2022 22:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 22:52:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[录制一段视频并发送给未来的自己。你会说什么？]]></title>
+            <link>https://news.ycombinator.com/item?id=30784527</link>
+            <guid>https://news.ycombinator.com/item?id=30784527</guid>
+            <pubDate>Wed, 23 Mar 2022 22:44:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Record a video and send to your future self. What would you say?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[来自字母的贝塞尔曲线发生器]]></title>
+            <link>https://news.ycombinator.com/item?id=30784488</link>
+            <guid>https://news.ycombinator.com/item?id=30784488</guid>
+            <pubDate>Wed, 23 Mar 2022 22:40:26 GMT</pubDate>
+            <description><![CDATA[Show HN: Bezier Curve Generator from Letters]]></description>
+        </item>
         <item>
             <title><![CDATA[谱系评论论文竞赛，奖金高达1万美元]]></title>
             <link>https://news.ycombinator.com/item?id=30784283</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30529727</guid>
             <pubDate>Wed, 02 Mar 2022 17:10:32 GMT</pubDate>
             <description><![CDATA[Show HN: My Book Bulletproof TLS and PKI (Second Edition) Is Out]]></description>
-        </item>
-        <item>
-            <title><![CDATA[色彩设计的机器学习]]></title>
-            <link>https://news.ycombinator.com/item?id=30529262</link>
-            <guid>https://news.ycombinator.com/item?id=30529262</guid>
-            <pubDate>Wed, 02 Mar 2022 16:38:43 GMT</pubDate>
-            <description><![CDATA[Show HN: Machine Learning for Color Design]]></description>
-        </item>
-        <item>
-            <title><![CDATA[直播视频入门套件（开源的HOPIN）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30528365</link>
-            <guid>https://news.ycombinator.com/item?id=30528365</guid>
-            <pubDate>Wed, 02 Mar 2022 15:24:03 GMT</pubDate>
-            <description><![CDATA[Show HN: Live Video Starter Kit (Open Source Hopin)]]></description>
         </item>
     </channel>
 </rss>

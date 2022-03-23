@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-23T22:33:56.593Z</updated>
+    <updated>2022-03-23T22:52:22.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[录制一段视频并发送给未来的自己。你会说什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=30784527</id>
+        <link href="https://news.ycombinator.com/item?id=30784527"/>
+        <updated>2022-03-23T22:44:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Record a video and send to your future self. What would you say?]]></summary>
+        <author>
+            <name>damechen</name>
+            <uri>https://news.ycombinator.com/user?id=damechen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[来自字母的贝塞尔曲线发生器]]></title>
+        <id>https://news.ycombinator.com/item?id=30784488</id>
+        <link href="https://news.ycombinator.com/item?id=30784488"/>
+        <updated>2022-03-23T22:40:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bezier Curve Generator from Letters]]></summary>
+        <author>
+            <name>enzo_m</name>
+            <uri>https://news.ycombinator.com/user?id=enzo_m</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谱系评论论文竞赛，奖金高达1万美元]]></title>
         <id>https://news.ycombinator.com/item?id=30784283</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ivanr</name>
             <uri>https://news.ycombinator.com/user?id=ivanr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[色彩设计的机器学习]]></title>
-        <id>https://news.ycombinator.com/item?id=30529262</id>
-        <link href="https://news.ycombinator.com/item?id=30529262"/>
-        <updated>2022-03-02T16:38:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Machine Learning for Color Design]]></summary>
-        <author>
-            <name>Jack000</name>
-            <uri>https://news.ycombinator.com/user?id=Jack000</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[直播视频入门套件（开源的HOPIN）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30528365</id>
-        <link href="https://news.ycombinator.com/item?id=30528365"/>
-        <updated>2022-03-02T15:24:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Live Video Starter Kit (Open Source Hopin)]]></summary>
-        <author>
-            <name>leerob</name>
-            <uri>https://news.ycombinator.com/user?id=leerob</uri>
         </author>
     </entry>
 </feed>
