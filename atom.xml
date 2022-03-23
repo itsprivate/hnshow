@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-23T13:25:13.843Z</updated>
+    <updated>2022-03-23T14:14:14.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大数据游戏--帮助8位数据工程师获取数据]]></title>
+        <id>https://news.ycombinator.com/item?id=30778605</id>
+        <link href="https://news.ycombinator.com/item?id=30778605"/>
+        <updated>2022-03-23T14:08:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Big Data Game – Help the 8-bit data engineer to get the data]]></summary>
+        <author>
+            <name>geekydev</name>
+            <uri>https://news.ycombinator.com/user?id=geekydev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lunar XDR 亮度控制]]></title>
+        <id>https://news.ycombinator.com/item?id=30776300</id>
+        <link href="https://news.ycombinator.com/item?id=30776300"/>
+        <updated>2022-03-23T08:33:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lunar XDR Brightness control]]></summary>
+        <author>
+            <name>alin23</name>
+            <uri>https://news.ycombinator.com/user?id=alin23</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们做了一个开源的个性化引擎]]></title>
         <id>https://news.ycombinator.com/item?id=30778100</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>codeguppy</name>
             <uri>https://news.ycombinator.com/user?id=codeguppy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻语言 - 为和平而生的通用编程语言]]></title>
-        <id>https://news.ycombinator.com/item?id=30521162</id>
-        <link href="https://news.ycombinator.com/item?id=30521162"/>
-        <updated>2022-03-01T22:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Light Language - General purpose programming language made for peace]]></summary>
-        <author>
-            <name>adelarsq</name>
-            <uri>https://news.ycombinator.com/user?id=adelarsq</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌会议扩展的新房间]]></title>
-        <id>https://news.ycombinator.com/item?id=30520424</id>
-        <link href="https://news.ycombinator.com/item?id=30520424"/>
-        <updated>2022-03-01T21:43:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: New Room for Google Meet Extension]]></summary>
-        <author>
-            <name>TimLeland</name>
-            <uri>https://news.ycombinator.com/user?id=TimLeland</uri>
         </author>
     </entry>
 </feed>
