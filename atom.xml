@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-23T21:27:15.002Z</updated>
+    <updated>2022-03-23T21:37:44.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[十亿美金的创业公司投稿集锦]]></title>
+        <id>https://news.ycombinator.com/item?id=30783677</id>
+        <link href="https://news.ycombinator.com/item?id=30783677"/>
+        <updated>2022-03-23T21:30:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Collection Of Billion Dollar Startup Pitch Decks]]></summary>
+        <author>
+            <name>jayra</name>
+            <uri>https://news.ycombinator.com/user?id=jayra</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reactirator，一个用于创建和管理React.js应用程序的桌面应用程序。]]></title>
         <id>https://news.ycombinator.com/item?id=30783462</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>afroisalreadyin</name>
             <uri>https://news.ycombinator.com/user?id=afroisalreadyin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[语音记忆]]></title>
-        <id>https://news.ycombinator.com/item?id=30527932</id>
-        <link href="https://news.ycombinator.com/item?id=30527932"/>
-        <updated>2022-03-02T14:50:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: VoiceMem]]></summary>
-        <author>
-            <name>mentalplus</name>
-            <uri>https://news.ycombinator.com/user?id=mentalplus</uri>
         </author>
     </entry>
 </feed>
