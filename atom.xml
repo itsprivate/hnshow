@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-23T03:57:42.992Z</updated>
+    <updated>2022-03-23T07:12:55.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[前端最佳实践模板和课程]]></title>
+        <id>https://news.ycombinator.com/item?id=30775823</id>
+        <link href="https://news.ycombinator.com/item?id=30775823"/>
+        <updated>2022-03-23T07:09:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Front-End Best Practices Boilerplate and Course]]></summary>
+        <author>
+            <name>pmouchan</name>
+            <uri>https://news.ycombinator.com/user?id=pmouchan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D网站，展示我们的建设成果]]></title>
         <id>https://news.ycombinator.com/item?id=30774753</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bczsalba</name>
             <uri>https://news.ycombinator.com/user?id=bczsalba</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS发布开源物联网应用工具包]]></title>
-        <id>https://news.ycombinator.com/item?id=30517156</id>
-        <link href="https://news.ycombinator.com/item?id=30517156"/>
-        <updated>2022-03-01T17:36:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: AWS Releases Open-Source IoT Application Kit]]></summary>
-        <author>
-            <name>tracfren</name>
-            <uri>https://news.ycombinator.com/user?id=tracfren</uri>
         </author>
     </entry>
 </feed>
