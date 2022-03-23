@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-23T20:35:18.327Z</updated>
+    <updated>2022-03-23T20:42:06.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的帶無線LED的NFC名片，由PCB製成]]></title>
+        <id>https://news.ycombinator.com/item?id=30783033</id>
+        <link href="https://news.ycombinator.com/item?id=30783033"/>
+        <updated>2022-03-23T20:38:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My NFC business card with wireless LEDs made of a PCB]]></summary>
+        <author>
+            <name>testmasterflex</name>
+            <uri>https://news.ycombinator.com/user?id=testmasterflex</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[測試庫展示臺]]></title>
+        <id>https://news.ycombinator.com/item?id=30782932</id>
+        <link href="https://news.ycombinator.com/item?id=30782932"/>
+        <updated>2022-03-23T20:29:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Testing Library Visualizer]]></summary>
+        <author>
+            <name>mdbenjam</name>
+            <uri>https://news.ycombinator.com/user?id=mdbenjam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[直接交付給Slack的AWS節省費用]]></title>
         <id>https://news.ycombinator.com/item?id=30782846</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>fben</name>
             <uri>https://news.ycombinator.com/user?id=fben</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LERA - 免費的基於網絡的自動無障礙測試和報告工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30527552</id>
-        <link href="https://news.ycombinator.com/item?id=30527552"/>
-        <updated>2022-03-02T14:20:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: LERA -  Free automated web-based accessibility testing & reporting tool]]></summary>
-        <author>
-            <name>abikkani</name>
-            <uri>https://news.ycombinator.com/user?id=abikkani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parsers VC - 風險投資數據提供商]]></title>
-        <id>https://news.ycombinator.com/item?id=30527406</id>
-        <link href="https://news.ycombinator.com/item?id=30527406"/>
-        <updated>2022-03-02T14:05:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Parsers VC – Venture Capital data provider]]></summary>
-        <author>
-            <name>loeona</name>
-            <uri>https://news.ycombinator.com/user?id=loeona</uri>
         </author>
     </entry>
 </feed>
