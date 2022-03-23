@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Mar 2022 20:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 21:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Reactirator，一个用于创建和管理React.js应用程序的桌面应用程序。]]></title>
+            <link>https://news.ycombinator.com/item?id=30783462</link>
+            <guid>https://news.ycombinator.com/item?id=30783462</guid>
+            <pubDate>Wed, 23 Mar 2022 21:13:09 GMT</pubDate>
+            <description><![CDATA[Show HN: Reactirator, a desktop app to create and manage React.js applications]]></description>
+        </item>
         <item>
             <title><![CDATA[我的带无线LED的NFC名片，由PCB制成]]></title>
             <link>https://news.ycombinator.com/item?id=30783033</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30527932</guid>
             <pubDate>Wed, 02 Mar 2022 14:50:20 GMT</pubDate>
             <description><![CDATA[Show HN: VoiceMem]]></description>
-        </item>
-        <item>
-            <title><![CDATA[免费快速建立一个漂亮的状态页面]]></title>
-            <link>https://news.ycombinator.com/item?id=30527802</link>
-            <guid>https://news.ycombinator.com/item?id=30527802</guid>
-            <pubDate>Wed, 02 Mar 2022 14:40:56 GMT</pubDate>
-            <description><![CDATA[Show HN: Quickly build a beautiful status page for free]]></description>
         </item>
     </channel>
 </rss>
