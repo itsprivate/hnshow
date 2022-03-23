@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-23T14:14:14.522Z</updated>
+    <updated>2022-03-23T14:31:55.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[代碼日曆 - 追蹤編碼競賽的開源應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30778691</id>
+        <link href="https://news.ycombinator.com/item?id=30778691"/>
+        <updated>2022-03-23T14:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Code Calendar – open-source app to keep track of coding contests]]></summary>
+        <author>
+            <name>stackbuffer</name>
+            <uri>https://news.ycombinator.com/user?id=stackbuffer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qvault的計算機科學課程]]></title>
+        <id>https://news.ycombinator.com/item?id=30778616</id>
+        <link href="https://news.ycombinator.com/item?id=30778616"/>
+        <updated>2022-03-23T14:09:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Qvault's Computer Science Curriculum]]></summary>
+        <author>
+            <name>wagslane</name>
+            <uri>https://news.ycombinator.com/user?id=wagslane</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大數據遊戲--幫助8位數據工程師獲取數據]]></title>
         <id>https://news.ycombinator.com/item?id=30778605</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>simondanerd</name>
             <uri>https://news.ycombinator.com/user?id=simondanerd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFun - Lisp 4 Go]]></title>
-        <id>https://news.ycombinator.com/item?id=30521756</id>
-        <link href="https://news.ycombinator.com/item?id=30521756"/>
-        <updated>2022-03-02T00:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GFun – Lisp 4 Go]]></summary>
-        <author>
-            <name>codr7</name>
-            <uri>https://news.ycombinator.com/user?id=codr7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為絕對的初學者開始一個新的編碼頻道。本週四]]></title>
-        <id>https://news.ycombinator.com/item?id=30521508</id>
-        <link href="https://news.ycombinator.com/item?id=30521508"/>
-        <updated>2022-03-01T23:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Starting a new coding channel for absolute beginners. This Thursday]]></summary>
-        <author>
-            <name>codeguppy</name>
-            <uri>https://news.ycombinator.com/user?id=codeguppy</uri>
         </author>
     </entry>
 </feed>
