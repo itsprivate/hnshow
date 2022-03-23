@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Mar 2022 14:31:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 14:38:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Datetime.tools - 方便的日期和时间转换]]></title>
+            <link>https://news.ycombinator.com/item?id=30778837</link>
+            <guid>https://news.ycombinator.com/item?id=30778837</guid>
+            <pubDate>Wed, 23 Mar 2022 14:33:31 GMT</pubDate>
+            <description><![CDATA[Show HN: Datetime.tools – convenient date and time conversions]]></description>
+        </item>
         <item>
             <title><![CDATA[代码日历 - 追踪编码竞赛的开源应用程序]]></title>
             <link>https://news.ycombinator.com/item?id=30778691</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30523869</guid>
             <pubDate>Wed, 02 Mar 2022 04:50:00 GMT</pubDate>
             <description><![CDATA[Show HN: I made a Wordle clone with React-TypeScript]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用'curl echoip.xyz'回声你的外部IP地址]]></title>
-            <link>https://news.ycombinator.com/item?id=30522233</link>
-            <guid>https://news.ycombinator.com/item?id=30522233</guid>
-            <pubDate>Wed, 02 Mar 2022 00:56:30 GMT</pubDate>
-            <description><![CDATA[Show HN: Echo your external IP address with 'curl echoip.xyz']]></description>
         </item>
     </channel>
 </rss>
