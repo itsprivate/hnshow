@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 23 Mar 2022 22:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 23:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Cppawk]]></title>
+            <link>https://news.ycombinator.com/item?id=30784722</link>
+            <guid>https://news.ycombinator.com/item?id=30784722</guid>
+            <pubDate>Wed, 23 Mar 2022 23:09:25 GMT</pubDate>
+            <description><![CDATA[Show HN: Cppawk]]></description>
+        </item>
+        <item>
+            <title><![CDATA[生成彩色QR码的网络应用程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30784595</link>
+            <guid>https://news.ycombinator.com/item?id=30784595</guid>
+            <pubDate>Wed, 23 Mar 2022 22:51:28 GMT</pubDate>
+            <description><![CDATA[Show HN: Webapp to generate colorful QR codes]]></description>
+        </item>
         <item>
             <title><![CDATA[录制一段视频并发送给未来的自己。你会说什么？]]></title>
             <link>https://news.ycombinator.com/item?id=30784527</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30530156</guid>
             <pubDate>Wed, 02 Mar 2022 17:41:31 GMT</pubDate>
             <description><![CDATA[Show HN: CellAware – Automated Verification for Spreadsheets]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TypeScript的运行时类型反射]]></title>
-            <link>https://news.ycombinator.com/item?id=30529745</link>
-            <guid>https://news.ycombinator.com/item?id=30529745</guid>
-            <pubDate>Wed, 02 Mar 2022 17:12:10 GMT</pubDate>
-            <description><![CDATA[Show HN: Runtime Type Reflection for TypeScript]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我的书《防弹的TLS和PKI（第二版）》出版了]]></title>
-            <link>https://news.ycombinator.com/item?id=30529727</link>
-            <guid>https://news.ycombinator.com/item?id=30529727</guid>
-            <pubDate>Wed, 02 Mar 2022 17:10:32 GMT</pubDate>
-            <description><![CDATA[Show HN: My Book Bulletproof TLS and PKI (Second Edition) Is Out]]></description>
         </item>
     </channel>
 </rss>
