@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-24T09:32:27.380Z</updated>
+    <updated>2022-03-24T10:52:35.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個設計實用工具來測量你屏幕上的任何東西]]></title>
+        <id>https://news.ycombinator.com/item?id=30788161</id>
+        <link href="https://news.ycombinator.com/item?id=30788161"/>
+        <updated>2022-03-24T10:49:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I've made a design utility tool to measure anything on your screen]]></summary>
+        <author>
+            <name>sc3w</name>
+            <uri>https://news.ycombinator.com/user?id=sc3w</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重新發現互聯網]]></title>
         <id>https://news.ycombinator.com/item?id=30787698</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>susam</name>
             <uri>https://news.ycombinator.com/user?id=susam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個基於WebGL的應用程序，用圓圈來追蹤圖像]]></title>
-        <id>https://news.ycombinator.com/item?id=30530376</id>
-        <link href="https://news.ycombinator.com/item?id=30530376"/>
-        <updated>2022-03-02T17:56:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a WebGL-based app that traces images using circles]]></summary>
-        <author>
-            <name>phqb</name>
-            <uri>https://news.ycombinator.com/user?id=phqb</uri>
         </author>
     </entry>
 </feed>
