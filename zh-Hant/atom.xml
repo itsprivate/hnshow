@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-24T12:58:16.778Z</updated>
+    <updated>2022-03-24T13:49:34.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在多個平臺上建立數字存在的快速方法]]></title>
+        <id>https://news.ycombinator.com/item?id=30788241</id>
+        <link href="https://news.ycombinator.com/item?id=30788241"/>
+        <updated>2022-03-24T11:01:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fast way to build digital presence across multiple platforms]]></summary>
+        <author>
+            <name>anuragk11</name>
+            <uri>https://news.ycombinator.com/user?id=anuragk11</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[堆棧溢流末日生存包]]></title>
         <id>https://news.ycombinator.com/item?id=30788931</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>alin23</name>
             <uri>https://news.ycombinator.com/user?id=alin23</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creodocs，一個基於LaTeX模板的文檔創建平臺]]></title>
-        <id>https://news.ycombinator.com/item?id=30533142</id>
-        <link href="https://news.ycombinator.com/item?id=30533142"/>
-        <updated>2022-03-02T21:05:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Creodocs, a document creation platform based on LaTeX templates]]></summary>
-        <author>
-            <name>VelNZ</name>
-            <uri>https://news.ycombinator.com/user?id=VelNZ</uri>
         </author>
     </entry>
 </feed>
