@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-23T23:14:00.733Z</updated>
+    <updated>2022-03-24T02:20:13.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自动暂停（带恢复和媒体控制）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30785712</id>
+        <link href="https://news.ycombinator.com/item?id=30785712"/>
+        <updated>2022-03-24T02:02:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: AutoPause (With Resume and Media Controls)]]></summary>
+        <author>
+            <name>ndevtk</name>
+            <uri>https://news.ycombinator.com/user?id=ndevtk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cppawk]]></title>
         <id>https://news.ycombinator.com/item?id=30784722</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aniketbehera</name>
             <uri>https://news.ycombinator.com/user?id=aniketbehera</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CellAware - 电子表格的自动验证]]></title>
-        <id>https://news.ycombinator.com/item?id=30530156</id>
-        <link href="https://news.ycombinator.com/item?id=30530156"/>
-        <updated>2022-03-02T17:41:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CellAware – Automated Verification for Spreadsheets]]></summary>
-        <author>
-            <name>_hl_</name>
-            <uri>https://news.ycombinator.com/user?id=_hl_</uri>
         </author>
     </entry>
 </feed>
