@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-24T18:15:03.754Z</updated>
+    <updated>2022-03-24T18:40:11.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Blocksend--在世界任何地方，以任何貨幣獲得即時兌現。]]></title>
+        <id>https://news.ycombinator.com/item?id=30793623</id>
+        <link href="https://news.ycombinator.com/item?id=30793623"/>
+        <updated>2022-03-24T18:27:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Blocksend- Get instant cashouts, in any currency, anywhere in the world]]></summary>
+        <author>
+            <name>a_burns</name>
+            <uri>https://news.ycombinator.com/user?id=a_burns</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個加密貨幣交易的原型視覺概述]]></title>
+        <id>https://news.ycombinator.com/item?id=30793580</id>
+        <link href="https://news.ycombinator.com/item?id=30793580"/>
+        <updated>2022-03-24T18:23:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A prototype visual overview for crypto transactions]]></summary>
+        <author>
+            <name>pcbje</name>
+            <uri>https://news.ycombinator.com/user?id=pcbje</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個簡單的文本到語音合成器]]></title>
         <id>https://news.ycombinator.com/item?id=30793382</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>onepingonly</name>
             <uri>https://news.ycombinator.com/user?id=onepingonly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[運行GitHub 制裁俄羅斯的公司名單]]></title>
-        <id>https://news.ycombinator.com/item?id=30536845</id>
-        <link href="https://news.ycombinator.com/item?id=30536845"/>
-        <updated>2022-03-03T03:36:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Running GitHub List of companies that sanctioned Russia]]></summary>
-        <author>
-            <name>7ziparchiver</name>
-            <uri>https://news.ycombinator.com/user?id=7ziparchiver</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為B2B SaaS供應商實現單點登錄的民主化]]></title>
-        <id>https://news.ycombinator.com/item?id=30536760</id>
-        <link href="https://news.ycombinator.com/item?id=30536760"/>
-        <updated>2022-03-03T03:23:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Democratize Single Sign-On for B2B SaaS Vendors]]></summary>
-        <author>
-            <name>ycmimi</name>
-            <uri>https://news.ycombinator.com/user?id=ycmimi</uri>
         </author>
     </entry>
 </feed>
