@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-24T14:14:27.012Z</updated>
+    <updated>2022-03-24T14:34:19.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[繼AKHQ（KafkaHQ）之後，我製作了Kestra開源的Airflow替代品]]></title>
+        <id>https://news.ycombinator.com/item?id=30790047</id>
+        <link href="https://news.ycombinator.com/item?id=30790047"/>
+        <updated>2022-03-24T14:14:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: After AKHQ (KafkaHQ), I Made Kestra Open-Source Airflow Alternative]]></summary>
+        <author>
+            <name>tchiotludo</name>
+            <uri>https://news.ycombinator.com/user?id=tchiotludo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HNGuessr - 猜測HN故事中的缺失單詞]]></title>
+        <id>https://news.ycombinator.com/item?id=30790007</id>
+        <link href="https://news.ycombinator.com/item?id=30790007"/>
+        <updated>2022-03-24T14:11:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: HNGuessr – Guessing the missing words in HN stories]]></summary>
+        <author>
+            <name>ggerganov</name>
+            <uri>https://news.ycombinator.com/user?id=ggerganov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vidu - 為銷售和營銷團隊提供個性化的GIF圖片]]></title>
         <id>https://news.ycombinator.com/item?id=30789981</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>northstar702</name>
             <uri>https://news.ycombinator.com/user?id=northstar702</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開發工具啟發了網站編輯器]]></title>
-        <id>https://news.ycombinator.com/item?id=30534267</id>
-        <link href="https://news.ycombinator.com/item?id=30534267"/>
-        <updated>2022-03-02T22:36:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dev tools inspired site editor]]></summary>
-        <author>
-            <name>dot_michael</name>
-            <uri>https://news.ycombinator.com/user?id=dot_michael</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拯救--Python的類型安全的異常]]></title>
-        <id>https://news.ycombinator.com/item?id=30533740</id>
-        <link href="https://news.ycombinator.com/item?id=30533740"/>
-        <updated>2022-03-02T21:55:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rescue – type-safe exceptions for Python]]></summary>
-        <author>
-            <name>idmitrievsky</name>
-            <uri>https://news.ycombinator.com/user?id=idmitrievsky</uri>
         </author>
     </entry>
 </feed>
