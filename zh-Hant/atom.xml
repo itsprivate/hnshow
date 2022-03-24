@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-24T08:14:59.264Z</updated>
+    <updated>2022-03-24T08:37:16.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我使用HTML5和Ionic製作了一個手機遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30787372</id>
+        <link href="https://news.ycombinator.com/item?id=30787372"/>
+        <updated>2022-03-24T08:20:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a mobile game using HTML5 with Ionic]]></summary>
+        <author>
+            <name>RupertWiser</name>
+            <uri>https://news.ycombinator.com/user?id=RupertWiser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隨機訪問噪聲 - 基於計數器的偽隨機數發生器]]></title>
         <id>https://news.ycombinator.com/item?id=30787317</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>eatonphil</name>
             <uri>https://news.ycombinator.com/user?id=eatonphil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WAPM - WebAssembly軟件包管理器]]></title>
-        <id>https://news.ycombinator.com/item?id=30531621</id>
-        <link href="https://news.ycombinator.com/item?id=30531621"/>
-        <updated>2022-03-02T19:22:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WAPM – WebAssembly Package Manager]]></summary>
-        <author>
-            <name>syrusakbary</name>
-            <uri>https://news.ycombinator.com/user?id=syrusakbary</uri>
         </author>
     </entry>
 </feed>
