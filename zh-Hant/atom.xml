@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-24T18:40:11.483Z</updated>
+    <updated>2022-03-24T19:37:51.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Postgres.js - 用於Node和Deno的最快速的全功能PostgreSQL客戶端]]></title>
+        <id>https://news.ycombinator.com/item?id=30794332</id>
+        <link href="https://news.ycombinator.com/item?id=30794332"/>
+        <updated>2022-03-24T19:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Postgres.js – Fastest Full-Featured PostgreSQL Client for Node and Deno]]></summary>
+        <author>
+            <name>porsager</name>
+            <uri>https://news.ycombinator.com/user?id=porsager</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blocksend--在世界任何地方，以任何貨幣獲得即時兌現。]]></title>
         <id>https://news.ycombinator.com/item?id=30793623</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>richbaby</name>
             <uri>https://news.ycombinator.com/user?id=richbaby</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[托爾洋蔥服務目錄]]></title>
-        <id>https://news.ycombinator.com/item?id=30537078</id>
-        <link href="https://news.ycombinator.com/item?id=30537078"/>
-        <updated>2022-03-03T04:10:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tor Onion Services Directory]]></summary>
-        <author>
-            <name>onepingonly</name>
-            <uri>https://news.ycombinator.com/user?id=onepingonly</uri>
         </author>
     </entry>
 </feed>
