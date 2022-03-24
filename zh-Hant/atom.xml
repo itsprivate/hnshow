@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-24T10:52:35.303Z</updated>
+    <updated>2022-03-24T12:58:16.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[堆棧溢流末日生存包]]></title>
+        <id>https://news.ycombinator.com/item?id=30788931</id>
+        <link href="https://news.ycombinator.com/item?id=30788931"/>
+        <updated>2022-03-24T12:38:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: StackOverflowgeddon Survival Kit]]></summary>
+        <author>
+            <name>david_bonilla</name>
+            <uri>https://news.ycombinator.com/user?id=david_bonilla</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[git-crecord。以交互方式選擇要提交的行的TUI]]></title>
+        <id>https://news.ycombinator.com/item?id=30788805</id>
+        <link href="https://news.ycombinator.com/item?id=30788805"/>
+        <updated>2022-03-24T12:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: git-crecord: TUI to interactively select lines to commit]]></summary>
+        <author>
+            <name>andrewshadura</name>
+            <uri>https://news.ycombinator.com/user?id=andrewshadura</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個設計實用工具來測量你屏幕上的任何東西]]></title>
         <id>https://news.ycombinator.com/item?id=30788161</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>VelNZ</name>
             <uri>https://news.ycombinator.com/user?id=VelNZ</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從Cloudflare工人免費發送電子郵件]]></title>
-        <id>https://news.ycombinator.com/item?id=30533032</id>
-        <link href="https://news.ycombinator.com/item?id=30533032"/>
-        <updated>2022-03-02T20:57:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Sending Email from Cloudflare Workers for free]]></summary>
-        <author>
-            <name>ttul</name>
-            <uri>https://news.ycombinator.com/user?id=ttul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個80年代街機風格的網頁遊戲來實現童年的夢想]]></title>
-        <id>https://news.ycombinator.com/item?id=30532961</id>
-        <link href="https://news.ycombinator.com/item?id=30532961"/>
-        <updated>2022-03-02T20:52:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a 1980s-arcade-style web game to fulfil a childhood dream]]></summary>
-        <author>
-            <name>susam</name>
-            <uri>https://news.ycombinator.com/user?id=susam</uri>
         </author>
     </entry>
 </feed>

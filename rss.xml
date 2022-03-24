@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 24 Mar 2022 10:52:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 12:58:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[堆栈溢流末日生存包]]></title>
+            <link>https://news.ycombinator.com/item?id=30788931</link>
+            <guid>https://news.ycombinator.com/item?id=30788931</guid>
+            <pubDate>Thu, 24 Mar 2022 12:38:43 GMT</pubDate>
+            <description><![CDATA[Show HN: StackOverflowgeddon Survival Kit]]></description>
+        </item>
+        <item>
+            <title><![CDATA[git-crecord。以交互方式选择要提交的行的TUI]]></title>
+            <link>https://news.ycombinator.com/item?id=30788805</link>
+            <guid>https://news.ycombinator.com/item?id=30788805</guid>
+            <pubDate>Thu, 24 Mar 2022 12:21:14 GMT</pubDate>
+            <description><![CDATA[Show HN: git-crecord: TUI to interactively select lines to commit]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一个设计实用工具来测量你屏幕上的任何东西]]></title>
             <link>https://news.ycombinator.com/item?id=30788161</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30533142</guid>
             <pubDate>Wed, 02 Mar 2022 21:05:05 GMT</pubDate>
             <description><![CDATA[Show HN: Creodocs, a document creation platform based on LaTeX templates]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从Cloudflare工人免费发送电子邮件]]></title>
-            <link>https://news.ycombinator.com/item?id=30533032</link>
-            <guid>https://news.ycombinator.com/item?id=30533032</guid>
-            <pubDate>Wed, 02 Mar 2022 20:57:29 GMT</pubDate>
-            <description><![CDATA[Show HN: Sending Email from Cloudflare Workers for free]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个80年代街机风格的网页游戏来实现童年的梦想]]></title>
-            <link>https://news.ycombinator.com/item?id=30532961</link>
-            <guid>https://news.ycombinator.com/item?id=30532961</guid>
-            <pubDate>Wed, 02 Mar 2022 20:52:39 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a 1980s-arcade-style web game to fulfil a childhood dream]]></description>
         </item>
     </channel>
 </rss>
