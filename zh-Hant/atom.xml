@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-24T16:42:25.269Z</updated>
+    <updated>2022-03-24T17:43:42.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個基於維基百科的RSS新聞聚合器]]></title>
+        <id>https://news.ycombinator.com/item?id=30792239</id>
+        <link href="https://news.ycombinator.com/item?id=30792239"/>
+        <updated>2022-03-24T16:37:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I’ve made an RSS news-aggregator based on Wikipedia]]></summary>
+        <author>
+            <name>ushakov</name>
+            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IMDBench - 用現實的查詢為ORM做基準測試]]></title>
         <id>https://news.ycombinator.com/item?id=30791405</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>KenMW</name>
             <uri>https://news.ycombinator.com/user?id=KenMW</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隨機的蒂魯庫拉]]></title>
-        <id>https://news.ycombinator.com/item?id=30535723</id>
-        <link href="https://news.ycombinator.com/item?id=30535723"/>
-        <updated>2022-03-03T00:59:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Random Thirukural]]></summary>
-        <author>
-            <name>rammy1234</name>
-            <uri>https://news.ycombinator.com/user?id=rammy1234</uri>
         </author>
     </entry>
 </feed>
