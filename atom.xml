@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-24T20:45:49.708Z</updated>
+    <updated>2022-03-24T21:34:02.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[匹配3 RPG]]></title>
+        <id>https://news.ycombinator.com/item?id=30795286</id>
+        <link href="https://news.ycombinator.com/item?id=30795286"/>
+        <updated>2022-03-24T21:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Match 3 RPG]]></summary>
+        <author>
+            <name>hvidevold</name>
+            <uri>https://news.ycombinator.com/user?id=hvidevold</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推特上的每日破译测验]]></title>
         <id>https://news.ycombinator.com/item?id=30794771</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>riskycodes</name>
             <uri>https://news.ycombinator.com/user?id=riskycodes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[习惯的金钱--预算编制变得简单]]></title>
-        <id>https://news.ycombinator.com/item?id=30538854</id>
-        <link href="https://news.ycombinator.com/item?id=30538854"/>
-        <updated>2022-03-03T09:10:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Habitual Money – budgeting made easy]]></summary>
-        <author>
-            <name>mkalra</name>
-            <uri>https://news.ycombinator.com/user?id=mkalra</uri>
         </author>
     </entry>
 </feed>
