@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-24T14:34:19.399Z</updated>
+    <updated>2022-03-24T16:42:25.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[IMDBench - 用现实的查询为ORM做基准测试]]></title>
+        <id>https://news.ycombinator.com/item?id=30791405</id>
+        <link href="https://news.ycombinator.com/item?id=30791405"/>
+        <updated>2022-03-24T15:39:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: IMDBench – Benchmarking ORMs with realistic queries]]></summary>
+        <author>
+            <name>colinmcd</name>
+            <uri>https://news.ycombinator.com/user?id=colinmcd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个网站，让你发现待售的微型创业公司]]></title>
+        <id>https://news.ycombinator.com/item?id=30791151</id>
+        <link href="https://news.ycombinator.com/item?id=30791151"/>
+        <updated>2022-03-24T15:21:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a site that lets you discover micro-startups for sale]]></summary>
+        <author>
+            <name>sweatC</name>
+            <uri>https://news.ycombinator.com/user?id=sweatC</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[带有伪装饰器语法的简单JavaScript类型]]></title>
+        <id>https://news.ycombinator.com/item?id=30790987</id>
+        <link href="https://news.ycombinator.com/item?id=30790987"/>
+        <updated>2022-03-24T15:11:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Simple JavaScript types with pseudo-decorator syntax]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[继AKHQ（KafkaHQ）之后，我制作了Kestra开源的Airflow替代品]]></title>
         <id>https://news.ycombinator.com/item?id=30790047</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>rammy1234</name>
             <uri>https://news.ycombinator.com/user?id=rammy1234</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFun - Lisp 4 Go]]></title>
-        <id>https://news.ycombinator.com/item?id=30535664</id>
-        <link href="https://news.ycombinator.com/item?id=30535664"/>
-        <updated>2022-03-03T00:51:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GFun – Lisp 4 Go]]></summary>
-        <author>
-            <name>codr7</name>
-            <uri>https://news.ycombinator.com/user?id=codr7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[走向远方？在Coda中建立的城市搬迁分析工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30535401</id>
-        <link href="https://news.ycombinator.com/item?id=30535401"/>
-        <updated>2022-03-03T00:19:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Going Remote? City Relocation Analysis Tool Built in Coda]]></summary>
-        <author>
-            <name>theutan</name>
-            <uri>https://news.ycombinator.com/user?id=theutan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Bytewax和Redpanda进行异常检测]]></title>
-        <id>https://news.ycombinator.com/item?id=30535006</id>
-        <link href="https://news.ycombinator.com/item?id=30535006"/>
-        <updated>2022-03-02T23:34:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Anomaly Detection with Bytewax and Redpanda]]></summary>
-        <author>
-            <name>northstar702</name>
-            <uri>https://news.ycombinator.com/user?id=northstar702</uri>
         </author>
     </entry>
 </feed>
