@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-24T17:43:42.290Z</updated>
+    <updated>2022-03-24T18:15:03.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个简单的文本到语音合成器]]></title>
+        <id>https://news.ycombinator.com/item?id=30793382</id>
+        <link href="https://news.ycombinator.com/item?id=30793382"/>
+        <updated>2022-03-24T18:02:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A simple text to speech synthesizer]]></summary>
+        <author>
+            <name>westcort</name>
+            <uri>https://news.ycombinator.com/user?id=westcort</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个基于维基百科的RSS新闻聚合器]]></title>
         <id>https://news.ycombinator.com/item?id=30792239</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ycmimi</name>
             <uri>https://news.ycombinator.com/user?id=ycmimi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有趣的工作场所关系测验]]></title>
-        <id>https://news.ycombinator.com/item?id=30536500</id>
-        <link href="https://news.ycombinator.com/item?id=30536500"/>
-        <updated>2022-03-03T02:44:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fun work place relationship quiz]]></summary>
-        <author>
-            <name>KenMW</name>
-            <uri>https://news.ycombinator.com/user?id=KenMW</uri>
         </author>
     </entry>
 </feed>
