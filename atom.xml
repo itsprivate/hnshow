@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-25T14:00:44.492Z</updated>
+    <updated>2022-03-25T15:37:11.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用回调的Python可操作的通知]]></title>
+        <id>https://news.ycombinator.com/item?id=30803267</id>
+        <link href="https://news.ycombinator.com/item?id=30803267"/>
+        <updated>2022-03-25T15:23:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Actionable Notifications from Python with Callbacks]]></summary>
+        <author>
+            <name>tymm</name>
+            <uri>https://news.ycombinator.com/user?id=tymm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cheatle - 在Wordle作弊的简单网络应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30803243</id>
+        <link href="https://news.ycombinator.com/item?id=30803243"/>
+        <updated>2022-03-25T15:21:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Cheatle – simple webapp for cheating at Wordle]]></summary>
+        <author>
+            <name>Ivoah</name>
+            <uri>https://news.ycombinator.com/user?id=Ivoah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[抛出--匿名提问和回答问题的新空间]]></title>
         <id>https://news.ycombinator.com/item?id=30801845</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>zacincceo</name>
             <uri>https://news.ycombinator.com/user?id=zacincceo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RateYourRecruiter.dev]]></title>
-        <id>https://news.ycombinator.com/item?id=30550743</id>
-        <link href="https://news.ycombinator.com/item?id=30550743"/>
-        <updated>2022-03-04T04:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: RateYourRecruiter.dev]]></summary>
-        <author>
-            <name>afs35mm</name>
-            <uri>https://news.ycombinator.com/user?id=afs35mm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浏览器中的实时程序化图像操作]]></title>
-        <id>https://news.ycombinator.com/item?id=30550113</id>
-        <link href="https://news.ycombinator.com/item?id=30550113"/>
-        <updated>2022-03-04T02:58:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Realtime programmatic image manipulation in the browser]]></summary>
-        <author>
-            <name>brrrrrm</name>
-            <uri>https://news.ycombinator.com/user?id=brrrrrm</uri>
         </author>
     </entry>
 </feed>
