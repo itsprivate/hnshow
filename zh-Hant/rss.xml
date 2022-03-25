@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 25 Mar 2022 00:37:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 02:14:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個iOS應用程序來釀造你自己的內容飼料]]></title>
+            <link>https://news.ycombinator.com/item?id=30797953</link>
+            <guid>https://news.ycombinator.com/item?id=30797953</guid>
+            <pubDate>Fri, 25 Mar 2022 02:08:10 GMT</pubDate>
+            <description><![CDATA[Show HN: An iOS App to brew your own content feed]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Snabl - 一個實用的嵌入式Lisp的C++版本]]></title>
+            <link>https://news.ycombinator.com/item?id=30797550</link>
+            <guid>https://news.ycombinator.com/item?id=30797550</guid>
+            <pubDate>Fri, 25 Mar 2022 00:57:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Snabl – a practical embedded Lisp in C++]]></description>
+        </item>
         <item>
             <title><![CDATA[Later Cam - 一個可以給你郵寄照片的一次性相機應用]]></title>
             <link>https://news.ycombinator.com/item?id=30797336</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30540616</guid>
             <pubDate>Thu, 03 Mar 2022 13:22:23 GMT</pubDate>
             <description><![CDATA[Show HN: Improve your Wordle game with a browser extension]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一個Python輪子的混淆器]]></title>
-            <link>https://news.ycombinator.com/item?id=30540075</link>
-            <guid>https://news.ycombinator.com/item?id=30540075</guid>
-            <pubDate>Thu, 03 Mar 2022 12:32:26 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a obfuscator for Python wheel]]></description>
-        </item>
-        <item>
-            <title><![CDATA[眾籌創建烏克蘭/俄羅斯和平協議]]></title>
-            <link>https://news.ycombinator.com/item?id=30540034</link>
-            <guid>https://news.ycombinator.com/item?id=30540034</guid>
-            <pubDate>Thu, 03 Mar 2022 12:26:32 GMT</pubDate>
-            <description><![CDATA[Show HN: Crowdsource creation of Ukraine/Russia peace agreement]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-25T00:37:03.385Z</updated>
+    <updated>2022-03-25T02:14:37.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个iOS应用程序来酿造你自己的内容饲料]]></title>
+        <id>https://news.ycombinator.com/item?id=30797953</id>
+        <link href="https://news.ycombinator.com/item?id=30797953"/>
+        <updated>2022-03-25T02:08:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An iOS App to brew your own content feed]]></summary>
+        <author>
+            <name>soupynoodles</name>
+            <uri>https://news.ycombinator.com/user?id=soupynoodles</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snabl - 一个实用的嵌入式Lisp的C++版本]]></title>
+        <id>https://news.ycombinator.com/item?id=30797550</id>
+        <link href="https://news.ycombinator.com/item?id=30797550"/>
+        <updated>2022-03-25T00:57:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Snabl – a practical embedded Lisp in C++]]></summary>
+        <author>
+            <name>codr7</name>
+            <uri>https://news.ycombinator.com/user?id=codr7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Later Cam - 一个可以给你邮寄照片的一次性相机应用]]></title>
         <id>https://news.ycombinator.com/item?id=30797336</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>fheisler</name>
             <uri>https://news.ycombinator.com/user?id=fheisler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个Python轮子的混淆器]]></title>
-        <id>https://news.ycombinator.com/item?id=30540075</id>
-        <link href="https://news.ycombinator.com/item?id=30540075"/>
-        <updated>2022-03-03T12:32:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a obfuscator for Python wheel]]></summary>
-        <author>
-            <name>huntzhan</name>
-            <uri>https://news.ycombinator.com/user?id=huntzhan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[众筹创建乌克兰/俄罗斯和平协议]]></title>
-        <id>https://news.ycombinator.com/item?id=30540034</id>
-        <link href="https://news.ycombinator.com/item?id=30540034"/>
-        <updated>2022-03-03T12:26:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Crowdsource creation of Ukraine/Russia peace agreement]]></summary>
-        <author>
-            <name>plesiv</name>
-            <uri>https://news.ycombinator.com/user?id=plesiv</uri>
         </author>
     </entry>
 </feed>
