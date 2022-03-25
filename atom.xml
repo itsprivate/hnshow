@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-25T06:15:12.668Z</updated>
+    <updated>2022-03-25T06:57:26.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个90年代版本的登陆页面]]></title>
+        <id>https://news.ycombinator.com/item?id=30799301</id>
+        <link href="https://news.ycombinator.com/item?id=30799301"/>
+        <updated>2022-03-25T06:44:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a 90s version of my landing page]]></summary>
+        <author>
+            <name>drikerf</name>
+            <uri>https://news.ycombinator.com/user?id=drikerf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用安全的NPM减轻对0天供应链攻击的影响]]></title>
         <id>https://news.ycombinator.com/item?id=30799071</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hacked_news</name>
             <uri>https://news.ycombinator.com/user?id=hacked_news</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最佳的iOS信息网站，让开发者了解最新情况]]></title>
-        <id>https://news.ycombinator.com/item?id=30545954</id>
-        <link href="https://news.ycombinator.com/item?id=30545954"/>
-        <updated>2022-03-03T19:55:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Best iOS information websites to keep developer up to date]]></summary>
-        <author>
-            <name>onmyway133</name>
-            <uri>https://news.ycombinator.com/user?id=onmyway133</uri>
         </author>
     </entry>
 </feed>
