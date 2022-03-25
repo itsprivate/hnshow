@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-25T17:37:12.755Z</updated>
+    <updated>2022-03-25T18:15:28.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[罗曼-乌尔都语的Wordle克隆]]></title>
+        <id>https://news.ycombinator.com/item?id=30805217</id>
+        <link href="https://news.ycombinator.com/item?id=30805217"/>
+        <updated>2022-03-25T17:53:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Roman urdu Wordle clone]]></summary>
+        <author>
+            <name>asadawadia</name>
+            <uri>https://news.ycombinator.com/user?id=asadawadia</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[臀部移动器，一个IRL生产力和健康改善游戏]]></title>
         <id>https://news.ycombinator.com/item?id=30804893</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kirchhoff</name>
             <uri>https://news.ycombinator.com/user?id=kirchhoff</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免费游戏商店数据安全报告生成器]]></title>
-        <id>https://news.ycombinator.com/item?id=30553331</id>
-        <link href="https://news.ycombinator.com/item?id=30553331"/>
-        <updated>2022-03-04T11:31:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Free Play Store Data Safety Report Generator]]></summary>
-        <author>
-            <name>vaibhavantil2</name>
-            <uri>https://news.ycombinator.com/user?id=vaibhavantil2</uri>
         </author>
     </entry>
 </feed>
