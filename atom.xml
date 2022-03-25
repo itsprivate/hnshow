@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-25T19:11:58.058Z</updated>
+    <updated>2022-03-25T20:34:58.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自动化的KISS方式。不涉及YAML]]></title>
+        <id>https://news.ycombinator.com/item?id=30806615</id>
+        <link href="https://news.ycombinator.com/item?id=30806615"/>
+        <updated>2022-03-25T20:16:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Automation the KISS way. No YAML involved]]></summary>
+        <author>
+            <name>linkdd</name>
+            <uri>https://news.ycombinator.com/user?id=linkdd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[检查证书透明度日志的CLI工具]]></title>
         <id>https://news.ycombinator.com/item?id=30805874</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mmackh</name>
             <uri>https://news.ycombinator.com/user?id=mmackh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我用表情符号做了一个网页游戏，没有使用JS框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30555274</id>
-        <link href="https://news.ycombinator.com/item?id=30555274"/>
-        <updated>2022-03-04T14:31:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a web game using emojis and no JS framework]]></summary>
-        <author>
-            <name>dylanjcastillo</name>
-            <uri>https://news.ycombinator.com/user?id=dylanjcastillo</uri>
         </author>
     </entry>
 </feed>

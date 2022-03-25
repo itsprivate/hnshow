@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 25 Mar 2022 19:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 20:34:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[自動化的KISS方式。不涉及YAML]]></title>
+            <link>https://news.ycombinator.com/item?id=30806615</link>
+            <guid>https://news.ycombinator.com/item?id=30806615</guid>
+            <pubDate>Fri, 25 Mar 2022 20:16:22 GMT</pubDate>
+            <description><![CDATA[Show HN: Automation the KISS way. No YAML involved]]></description>
+        </item>
         <item>
             <title><![CDATA[檢查證書透明度日誌的CLI工具]]></title>
             <link>https://news.ycombinator.com/item?id=30805874</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30556343</guid>
             <pubDate>Fri, 04 Mar 2022 15:47:14 GMT</pubDate>
             <description><![CDATA[Show HN: InstaNFC – Access Control for Developers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我用表情符號做了一個網頁遊戲，沒有使用JS框架]]></title>
-            <link>https://news.ycombinator.com/item?id=30555274</link>
-            <guid>https://news.ycombinator.com/item?id=30555274</guid>
-            <pubDate>Fri, 04 Mar 2022 14:31:12 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a web game using emojis and no JS framework]]></description>
         </item>
     </channel>
 </rss>
