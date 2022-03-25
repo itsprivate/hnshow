@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-25T13:29:32.217Z</updated>
+    <updated>2022-03-25T14:00:44.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[抛出--匿名提问和回答问题的新空间]]></title>
+        <id>https://news.ycombinator.com/item?id=30801845</id>
+        <link href="https://news.ycombinator.com/item?id=30801845"/>
+        <updated>2022-03-25T13:24:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Throw – The new space for asking and answering questions anonymously]]></summary>
+        <author>
+            <name>luisamodio</name>
+            <uri>https://news.ycombinator.com/user?id=luisamodio</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个发现NFT艺术家的多人游戏，用WebAssembly构建]]></title>
         <id>https://news.ycombinator.com/item?id=30801825</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>brrrrrm</name>
             <uri>https://news.ycombinator.com/user?id=brrrrrm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GFun - Lisp 4 Go]]></title>
-        <id>https://news.ycombinator.com/item?id=30549643</id>
-        <link href="https://news.ycombinator.com/item?id=30549643"/>
-        <updated>2022-03-04T01:53:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GFun – Lisp 4 Go]]></summary>
-        <author>
-            <name>codr7</name>
-            <uri>https://news.ycombinator.com/user?id=codr7</uri>
         </author>
     </entry>
 </feed>
