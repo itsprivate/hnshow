@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-25T22:13:13.141Z</updated>
+    <updated>2022-03-25T22:33:30.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Gzip-Server]]></title>
+        <id>https://news.ycombinator.com/item?id=30807542</id>
+        <link href="https://news.ycombinator.com/item?id=30807542"/>
+        <updated>2022-03-25T22:18:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Gzip-Server]]></summary>
+        <author>
+            <name>lhmiles</name>
+            <uri>https://news.ycombinator.com/user?id=lhmiles</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何在Linux上啟用超級鍵]]></title>
         <id>https://news.ycombinator.com/item?id=30807418</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tjsdavies</name>
             <uri>https://news.ycombinator.com/user?id=tjsdavies</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於全球衝突的新聞的地理可視化]]></title>
-        <id>https://news.ycombinator.com/item?id=30557356</id>
-        <link href="https://news.ycombinator.com/item?id=30557356"/>
-        <updated>2022-03-04T17:05:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Geovisualization of news about global conflicts]]></summary>
-        <author>
-            <name>janfb</name>
-            <uri>https://news.ycombinator.com/user?id=janfb</uri>
         </author>
     </entry>
 </feed>
