@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-25T03:39:09.036Z</updated>
+    <updated>2022-03-25T03:53:43.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Pipy 0.30.0]]></title>
+        <id>https://news.ycombinator.com/item?id=30798479</id>
+        <link href="https://news.ycombinator.com/item?id=30798479"/>
+        <updated>2022-03-25T03:50:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pipy 0.30.0]]></summary>
+        <author>
+            <name>shaderx13</name>
+            <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT Domains Bot - 获得你自己的NFT域名]]></title>
         <id>https://news.ycombinator.com/item?id=30798278</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mathgladiator</name>
             <uri>https://news.ycombinator.com/user?id=mathgladiator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StumbleMe，原始StumbleUpon的复活]]></title>
-        <id>https://news.ycombinator.com/item?id=30541012</id>
-        <link href="https://news.ycombinator.com/item?id=30541012"/>
-        <updated>2022-03-03T13:55:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: StumbleMe, the Resurrection of the Original StumbleUpon]]></summary>
-        <author>
-            <name>TheOmkarBirje</name>
-            <uri>https://news.ycombinator.com/user?id=TheOmkarBirje</uri>
         </author>
     </entry>
 </feed>
