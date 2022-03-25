@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-25T15:58:37.232Z</updated>
+    <updated>2022-03-25T16:53:47.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Typeables是一个由单元类型、内容类型、媒体类型组成的Rust板块。]]></title>
+        <id>https://news.ycombinator.com/item?id=30804262</id>
+        <link href="https://news.ycombinator.com/item?id=30804262"/>
+        <updated>2022-03-25T16:38:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Typeables is a Rust crate of unit types, content types, media types]]></summary>
+        <author>
+            <name>jph</name>
+            <uri>https://news.ycombinator.com/user?id=jph</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小型会议和活动策划者的在线市场]]></title>
+        <id>https://news.ycombinator.com/item?id=30804189</id>
+        <link href="https://news.ycombinator.com/item?id=30804189"/>
+        <updated>2022-03-25T16:33:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Online Marketplace for Planners of Small Meetings and Events]]></summary>
+        <author>
+            <name>FWKevents</name>
+            <uri>https://news.ycombinator.com/user?id=FWKevents</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Dumper库将任何数据转储为Go中的有效语法]]></title>
         <id>https://news.ycombinator.com/item?id=30803415</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gpirescampos</name>
             <uri>https://news.ycombinator.com/user?id=gpirescampos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超轻量级的自定义元素，用于标识（头像）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30551786</id>
-        <link href="https://news.ycombinator.com/item?id=30551786"/>
-        <updated>2022-03-04T07:39:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Super-lightweight custom element for identicons (avatars)]]></summary>
-        <author>
-            <name>FroLeMageBlanc</name>
-            <uri>https://news.ycombinator.com/user?id=FroLeMageBlanc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brackit - 分离JSON查询处理中的关键关注点]]></title>
-        <id>https://news.ycombinator.com/item?id=30551666</id>
-        <link href="https://news.ycombinator.com/item?id=30551666"/>
-        <updated>2022-03-04T07:19:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Brackit – Separating Key Concerns in JSON Query Processing]]></summary>
-        <author>
-            <name>lichtenberger</name>
-            <uri>https://news.ycombinator.com/user?id=lichtenberger</uri>
         </author>
     </entry>
 </feed>
