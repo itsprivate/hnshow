@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-25T06:57:26.250Z</updated>
+    <updated>2022-03-25T13:29:32.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个发现NFT艺术家的多人游戏，用WebAssembly构建]]></title>
+        <id>https://news.ycombinator.com/item?id=30801825</id>
+        <link href="https://news.ycombinator.com/item?id=30801825"/>
+        <updated>2022-03-25T13:22:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A multiplayer game to discover NFT artists, built with WebAssembly]]></summary>
+        <author>
+            <name>diegomacario</name>
+            <uri>https://news.ycombinator.com/user?id=diegomacario</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Pipy中管理HTTP头信息]]></title>
+        <id>https://news.ycombinator.com/item?id=30801617</id>
+        <link href="https://news.ycombinator.com/item?id=30801617"/>
+        <updated>2022-03-25T13:01:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Managing HTTP Headers in Pipy]]></summary>
+        <author>
+            <name>shaderx13</name>
+            <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文本和媒体"--多功能的内容展示]]></title>
+        <id>https://news.ycombinator.com/item?id=30801334</id>
+        <link href="https://news.ycombinator.com/item?id=30801334"/>
+        <updated>2022-03-25T12:32:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: 'Text and Media' – versatile content presentation]]></summary>
+        <author>
+            <name>rado</name>
+            <uri>https://news.ycombinator.com/user?id=rado</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个90年代版本的登陆页面]]></title>
         <id>https://news.ycombinator.com/item?id=30799301</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>codr7</name>
             <uri>https://news.ycombinator.com/user?id=codr7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于OPA的细化授权和访问控制系统]]></title>
-        <id>https://news.ycombinator.com/item?id=30548475</id>
-        <link href="https://news.ycombinator.com/item?id=30548475"/>
-        <updated>2022-03-03T23:24:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Granular Authorization and Access Control System Based on OPA]]></summary>
-        <author>
-            <name>mtolga</name>
-            <uri>https://news.ycombinator.com/user?id=mtolga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冲浪板 - 用于Arduino的CodeSandbox]]></title>
-        <id>https://news.ycombinator.com/item?id=30547101</id>
-        <link href="https://news.ycombinator.com/item?id=30547101"/>
-        <updated>2022-03-03T21:15:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Surfboard – CodeSandbox for Arduino]]></summary>
-        <author>
-            <name>birudeghi</name>
-            <uri>https://news.ycombinator.com/user?id=birudeghi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个叫Wheredle.xyz的游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=30546159</id>
-        <link href="https://news.ycombinator.com/item?id=30546159"/>
-        <updated>2022-03-03T20:08:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a game called Wheredle.xyz]]></summary>
-        <author>
-            <name>hacked_news</name>
-            <uri>https://news.ycombinator.com/user?id=hacked_news</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 25 Mar 2022 06:57:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 13:29:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個發現NFT藝術家的多人遊戲，用WebAssembly構建]]></title>
+            <link>https://news.ycombinator.com/item?id=30801825</link>
+            <guid>https://news.ycombinator.com/item?id=30801825</guid>
+            <pubDate>Fri, 25 Mar 2022 13:22:54 GMT</pubDate>
+            <description><![CDATA[Show HN: A multiplayer game to discover NFT artists, built with WebAssembly]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在Pipy中管理HTTP頭信息]]></title>
+            <link>https://news.ycombinator.com/item?id=30801617</link>
+            <guid>https://news.ycombinator.com/item?id=30801617</guid>
+            <pubDate>Fri, 25 Mar 2022 13:01:49 GMT</pubDate>
+            <description><![CDATA[Show HN: Managing HTTP Headers in Pipy]]></description>
+        </item>
+        <item>
+            <title><![CDATA[文本和媒體"--多功能的內容展示]]></title>
+            <link>https://news.ycombinator.com/item?id=30801334</link>
+            <guid>https://news.ycombinator.com/item?id=30801334</guid>
+            <pubDate>Fri, 25 Mar 2022 12:32:19 GMT</pubDate>
+            <description><![CDATA[Show HN: 'Text and Media' – versatile content presentation]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一個90年代版本的登陸頁面]]></title>
             <link>https://news.ycombinator.com/item?id=30799301</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30549643</guid>
             <pubDate>Fri, 04 Mar 2022 01:53:46 GMT</pubDate>
             <description><![CDATA[Show HN: GFun – Lisp 4 Go]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基於OPA的細化授權和訪問控制系統]]></title>
-            <link>https://news.ycombinator.com/item?id=30548475</link>
-            <guid>https://news.ycombinator.com/item?id=30548475</guid>
-            <pubDate>Thu, 03 Mar 2022 23:24:36 GMT</pubDate>
-            <description><![CDATA[Show HN: Granular Authorization and Access Control System Based on OPA]]></description>
-        </item>
-        <item>
-            <title><![CDATA[衝浪板 - 用於Arduino的CodeSandbox]]></title>
-            <link>https://news.ycombinator.com/item?id=30547101</link>
-            <guid>https://news.ycombinator.com/item?id=30547101</guid>
-            <pubDate>Thu, 03 Mar 2022 21:15:44 GMT</pubDate>
-            <description><![CDATA[Show HN: Surfboard – CodeSandbox for Arduino]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一個叫Wheredle.xyz的遊戲]]></title>
-            <link>https://news.ycombinator.com/item?id=30546159</link>
-            <guid>https://news.ycombinator.com/item?id=30546159</guid>
-            <pubDate>Thu, 03 Mar 2022 20:08:21 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a game called Wheredle.xyz]]></description>
         </item>
     </channel>
 </rss>
