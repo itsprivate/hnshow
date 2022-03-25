@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 25 Mar 2022 15:37:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 15:58:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Data Dumper庫將任何數據轉儲為Go中的有效語法]]></title>
+            <link>https://news.ycombinator.com/item?id=30803415</link>
+            <guid>https://news.ycombinator.com/item?id=30803415</guid>
+            <pubDate>Fri, 25 Mar 2022 15:36:06 GMT</pubDate>
+            <description><![CDATA[Show HN: Data Dumper library dumps any data as valid syntax in Go]]></description>
+        </item>
         <item>
             <title><![CDATA[使用回調的Python可操作的通知]]></title>
             <link>https://news.ycombinator.com/item?id=30803267</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30551666</guid>
             <pubDate>Fri, 04 Mar 2022 07:19:26 GMT</pubDate>
             <description><![CDATA[Show HN: Brackit – Separating Key Concerns in JSON Query Processing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通過Filebase和Thirdweb在IPFS上發佈一個NFT落款]]></title>
-            <link>https://news.ycombinator.com/item?id=30550827</link>
-            <guid>https://news.ycombinator.com/item?id=30550827</guid>
-            <pubDate>Fri, 04 Mar 2022 04:51:18 GMT</pubDate>
-            <description><![CDATA[Show HN: Release an NFT Drop on IPFS via Filebase and Thirdweb]]></description>
         </item>
     </channel>
 </rss>
