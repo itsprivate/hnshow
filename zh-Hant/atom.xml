@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-26T14:37:03.768Z</updated>
+    <updated>2022-03-26T15:51:48.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個計算器來計算Stripe的費用]]></title>
+        <id>https://news.ycombinator.com/item?id=30812872</id>
+        <link href="https://news.ycombinator.com/item?id=30812872"/>
+        <updated>2022-03-26T15:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a calculator to figure out Stripe fees]]></summary>
+        <author>
+            <name>samlevy</name>
+            <uri>https://news.ycombinator.com/user?id=samlevy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ClassiCube是Minecraft Classic 0.30，可在網絡瀏覽器上運行。]]></title>
         <id>https://news.ycombinator.com/item?id=30812081</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>difflens</name>
             <uri>https://news.ycombinator.com/user?id=difflens</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WTFBins，一個收集良性但看起來可疑的應用程序的項目]]></title>
-        <id>https://news.ycombinator.com/item?id=30564815</id>
-        <link href="https://news.ycombinator.com/item?id=30564815"/>
-        <updated>2022-03-05T06:08:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WTFBins, a project to collect benign, but suspicious-looking apps]]></summary>
-        <author>
-            <name>mttaggart</name>
-            <uri>https://news.ycombinator.com/user?id=mttaggart</uri>
         </author>
     </entry>
 </feed>
