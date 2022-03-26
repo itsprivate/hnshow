@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 26 Mar 2022 12:49:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 13:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Wayland上Podman中的GUI應用]]></title>
+            <link>https://news.ycombinator.com/item?id=30811661</link>
+            <guid>https://news.ycombinator.com/item?id=30811661</guid>
+            <pubDate>Sat, 26 Mar 2022 13:36:21 GMT</pubDate>
+            <description><![CDATA[Show HN: GUI Applications in Podman on Wayland]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個尋找公共鋼琴的網站]]></title>
+            <link>https://news.ycombinator.com/item?id=30811648</link>
+            <guid>https://news.ycombinator.com/item?id=30811648</guid>
+            <pubDate>Sat, 26 Mar 2022 13:34:05 GMT</pubDate>
+            <description><![CDATA[Show HN: A website to find public pianos]]></description>
+        </item>
         <item>
             <title><![CDATA[Callibella - 同步個人日曆到工作日曆，私下進行]]></title>
             <link>https://news.ycombinator.com/item?id=30811263</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30564278</guid>
             <pubDate>Sat, 05 Mar 2022 04:32:05 GMT</pubDate>
             <description><![CDATA[Show HN: Gadsby – Constrained Text Generation with Transformers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[探索λ-微積分中的大數]]></title>
-            <link>https://news.ycombinator.com/item?id=30564263</link>
-            <guid>https://news.ycombinator.com/item?id=30564263</guid>
-            <pubDate>Sat, 05 Mar 2022 04:29:28 GMT</pubDate>
-            <description><![CDATA[Show HN: Exploring big numbers in lambda-calculus]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Floordle - NFT分析和警報]]></title>
-            <link>https://news.ycombinator.com/item?id=30563801</link>
-            <guid>https://news.ycombinator.com/item?id=30563801</guid>
-            <pubDate>Sat, 05 Mar 2022 03:08:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Floordle – NFT Analytics and Alerts]]></description>
         </item>
     </channel>
 </rss>
