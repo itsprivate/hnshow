@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 26 Mar 2022 04:58:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 06:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用React制作的背诵器]]></title>
+            <link>https://news.ycombinator.com/item?id=30809639</link>
+            <guid>https://news.ycombinator.com/item?id=30809639</guid>
+            <pubDate>Sat, 26 Mar 2022 06:05:23 GMT</pubDate>
+            <description><![CDATA[Show HN: Memorize-Up Made with React]]></description>
+        </item>
+        <item>
+            <title><![CDATA[终端渲染的ASCII着色器]]></title>
+            <link>https://news.ycombinator.com/item?id=30809616</link>
+            <guid>https://news.ycombinator.com/item?id=30809616</guid>
+            <pubDate>Sat, 26 Mar 2022 05:59:08 GMT</pubDate>
+            <description><![CDATA[Show HN: Terminal-Rendered ASCII Shaders]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Quickgres.js，430个LoC管道式的PostgreSQL客户端库]]></title>
+            <link>https://news.ycombinator.com/item?id=30809560</link>
+            <guid>https://news.ycombinator.com/item?id=30809560</guid>
+            <pubDate>Sat, 26 Mar 2022 05:49:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Quickgres.js, 430 LoC pipelined PostgreSQL client library]]></description>
+        </item>
         <item>
             <title><![CDATA[如何用Pipy代理创建一个回声服务器]]></title>
             <link>https://news.ycombinator.com/item?id=30809296</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30560272</guid>
             <pubDate>Fri, 04 Mar 2022 20:43:35 GMT</pubDate>
             <description><![CDATA[Show HN: Satoshi and this PayPal Co-Founder wrote with two spaces after a period]]></description>
-        </item>
-        <item>
-            <title><![CDATA[贝宝的最初使命是类似比特币的货币]]></title>
-            <link>https://news.ycombinator.com/item?id=30560131</link>
-            <guid>https://news.ycombinator.com/item?id=30560131</guid>
-            <pubDate>Fri, 04 Mar 2022 20:32:46 GMT</pubDate>
-            <description><![CDATA[Show HN: Original mission of PayPal was Bitcoin-like currency]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mailwitness - 通过电子邮件进行数字签名]]></title>
-            <link>https://news.ycombinator.com/item?id=30558020</link>
-            <guid>https://news.ycombinator.com/item?id=30558020</guid>
-            <pubDate>Fri, 04 Mar 2022 17:56:01 GMT</pubDate>
-            <description><![CDATA[Show HN: Mailwitness – Digital Signatures over Email]]></description>
-        </item>
-        <item>
-            <title><![CDATA[伯克利单色字体]]></title>
-            <link>https://news.ycombinator.com/item?id=30557557</link>
-            <guid>https://news.ycombinator.com/item?id=30557557</guid>
-            <pubDate>Fri, 04 Mar 2022 17:21:25 GMT</pubDate>
-            <description><![CDATA[Show HN: Berkeley Mono Typeface]]></description>
         </item>
     </channel>
 </rss>

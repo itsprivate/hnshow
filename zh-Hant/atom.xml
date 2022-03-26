@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-26T04:58:21.374Z</updated>
+    <updated>2022-03-26T06:14:19.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用React製作的背誦器]]></title>
+        <id>https://news.ycombinator.com/item?id=30809639</id>
+        <link href="https://news.ycombinator.com/item?id=30809639"/>
+        <updated>2022-03-26T06:05:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Memorize-Up Made with React]]></summary>
+        <author>
+            <name>JoeOfTexas</name>
+            <uri>https://news.ycombinator.com/user?id=JoeOfTexas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[終端渲染的ASCII著色器]]></title>
+        <id>https://news.ycombinator.com/item?id=30809616</id>
+        <link href="https://news.ycombinator.com/item?id=30809616"/>
+        <updated>2022-03-26T05:59:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Terminal-Rendered ASCII Shaders]]></summary>
+        <author>
+            <name>teaearlgraycold</name>
+            <uri>https://news.ycombinator.com/user?id=teaearlgraycold</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quickgres.js，430個LoC管道式的PostgreSQL客戶端庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30809560</id>
+        <link href="https://news.ycombinator.com/item?id=30809560"/>
+        <updated>2022-03-26T05:49:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Quickgres.js, 430 LoC pipelined PostgreSQL client library]]></summary>
+        <author>
+            <name>kig</name>
+            <uri>https://news.ycombinator.com/user?id=kig</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何用Pipy代理創建一個回聲服務器]]></title>
         <id>https://news.ycombinator.com/item?id=30809296</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>sahil50</name>
             <uri>https://news.ycombinator.com/user?id=sahil50</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[貝寶的最初使命是類似比特幣的貨幣]]></title>
-        <id>https://news.ycombinator.com/item?id=30560131</id>
-        <link href="https://news.ycombinator.com/item?id=30560131"/>
-        <updated>2022-03-04T20:32:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Original mission of PayPal was Bitcoin-like currency]]></summary>
-        <author>
-            <name>sahil50</name>
-            <uri>https://news.ycombinator.com/user?id=sahil50</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mailwitness - 通過電子郵件進行數字簽名]]></title>
-        <id>https://news.ycombinator.com/item?id=30558020</id>
-        <link href="https://news.ycombinator.com/item?id=30558020"/>
-        <updated>2022-03-04T17:56:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mailwitness – Digital Signatures over Email]]></summary>
-        <author>
-            <name>siersciu</name>
-            <uri>https://news.ycombinator.com/user?id=siersciu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伯克利單色字體]]></title>
-        <id>https://news.ycombinator.com/item?id=30557557</id>
-        <link href="https://news.ycombinator.com/item?id=30557557"/>
-        <updated>2022-03-04T17:21:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Berkeley Mono Typeface]]></summary>
-        <author>
-            <name>neilpanchal</name>
-            <uri>https://news.ycombinator.com/user?id=neilpanchal</uri>
         </author>
     </entry>
 </feed>
