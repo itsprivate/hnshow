@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 26 Mar 2022 02:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 04:58:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何用Pipy代理創建一個回聲服務器]]></title>
+            <link>https://news.ycombinator.com/item?id=30809296</link>
+            <guid>https://news.ycombinator.com/item?id=30809296</guid>
+            <pubDate>Sat, 26 Mar 2022 04:45:43 GMT</pubDate>
+            <description><![CDATA[Show HN: How to create an echo server with Pipy proxy]]></description>
+        </item>
         <item>
             <title><![CDATA[Snabl - 一個實用的嵌入式Lisp的C++版本]]></title>
             <link>https://news.ycombinator.com/item?id=30808446</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30557557</guid>
             <pubDate>Fri, 04 Mar 2022 17:21:25 GMT</pubDate>
             <description><![CDATA[Show HN: Berkeley Mono Typeface]]></description>
-        </item>
-        <item>
-            <title><![CDATA[柏林共享交通的交互式三維可視化]]></title>
-            <link>https://news.ycombinator.com/item?id=30557514</link>
-            <guid>https://news.ycombinator.com/item?id=30557514</guid>
-            <pubDate>Fri, 04 Mar 2022 17:18:31 GMT</pubDate>
-            <description><![CDATA[Show HN: Interactive 3D Visualization of the Shared Mobility Traffic in Berlin]]></description>
         </item>
     </channel>
 </rss>
