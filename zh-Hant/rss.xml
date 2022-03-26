@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 26 Mar 2022 19:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 19:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[世界上最整潔的開源Pomodoro計時器，用於macOS菜單欄]]></title>
+            <link>https://news.ycombinator.com/item?id=30814490</link>
+            <guid>https://news.ycombinator.com/item?id=30814490</guid>
+            <pubDate>Sat, 26 Mar 2022 19:15:46 GMT</pubDate>
+            <description><![CDATA[Show HN: World's neatest open source Pomodoro timer for macOS menu bar]]></description>
+        </item>
         <item>
             <title><![CDATA[把賭注押在設計良好的移動優先鏈接的生物工具上]]></title>
             <link>https://news.ycombinator.com/item?id=30814371</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30566670</guid>
             <pubDate>Sat, 05 Mar 2022 11:50:16 GMT</pubDate>
             <description><![CDATA[Show HN: I wrote a lovely JSON parser in ANSI-C]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了SUMPOST新聞室--頭條新聞轉儲，沒有算法，每天更新一次]]></title>
-            <link>https://news.ycombinator.com/item?id=30566167</link>
-            <guid>https://news.ycombinator.com/item?id=30566167</guid>
-            <pubDate>Sat, 05 Mar 2022 10:16:55 GMT</pubDate>
-            <description><![CDATA[Show HN: I made SUMPOST Newsroom – headlines dump, no algos, updated once a day]]></description>
         </item>
     </channel>
 </rss>
