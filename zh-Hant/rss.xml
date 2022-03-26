@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 25 Mar 2022 22:33:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 02:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Snabl - 一個實用的嵌入式Lisp的C++版本]]></title>
+            <link>https://news.ycombinator.com/item?id=30808446</link>
+            <guid>https://news.ycombinator.com/item?id=30808446</guid>
+            <pubDate>Sat, 26 Mar 2022 01:10:09 GMT</pubDate>
+            <description><![CDATA[Show HN: Snabl – a practical embedded Lisp in C++]]></description>
+        </item>
         <item>
             <title><![CDATA[Gzip-Server]]></title>
             <link>https://news.ycombinator.com/item?id=30807542</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30557514</guid>
             <pubDate>Fri, 04 Mar 2022 17:18:31 GMT</pubDate>
             <description><![CDATA[Show HN: Interactive 3D Visualization of the Shared Mobility Traffic in Berlin]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了Wordle，但是是為了孩子們的拼寫表]]></title>
-            <link>https://news.ycombinator.com/item?id=30557498</link>
-            <guid>https://news.ycombinator.com/item?id=30557498</guid>
-            <pubDate>Fri, 04 Mar 2022 17:16:53 GMT</pubDate>
-            <description><![CDATA[Show HN: I made Wordle but for kids spelling lists]]></description>
         </item>
     </channel>
 </rss>
