@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 26 Mar 2022 10:35:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 11:52:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Glicol: 用Rust編寫的面向圖的實時編碼語言和DSP庫]]></title>
+            <link>https://news.ycombinator.com/item?id=30811015</link>
+            <guid>https://news.ycombinator.com/item?id=30811015</guid>
+            <pubDate>Sat, 26 Mar 2022 11:43:53 GMT</pubDate>
+            <description><![CDATA[Show HN: Glicol: Graph-oriented live coding language and DSP lib written in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[現在是褲子還是短褲的天氣？]]></title>
             <link>https://news.ycombinator.com/item?id=30810657</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30561667</guid>
             <pubDate>Fri, 04 Mar 2022 22:48:27 GMT</pubDate>
             <description><![CDATA[Show HN: Remember to eat every two hours]]></description>
-        </item>
-        <item>
-            <title><![CDATA[誠實 - 圍繞你的產品或服務進行誠實的討論]]></title>
-            <link>https://news.ycombinator.com/item?id=30561142</link>
-            <guid>https://news.ycombinator.com/item?id=30561142</guid>
-            <pubDate>Fri, 04 Mar 2022 21:56:33 GMT</pubDate>
-            <description><![CDATA[Show HN: Thonest – Honest discussions around your product or service]]></description>
         </item>
     </channel>
 </rss>
