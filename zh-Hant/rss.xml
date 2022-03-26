@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 26 Mar 2022 13:43:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 14:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[iOS版的黨旗]]></title>
+            <link>https://news.ycombinator.com/item?id=30811770</link>
+            <guid>https://news.ycombinator.com/item?id=30811770</guid>
+            <pubDate>Sat, 26 Mar 2022 13:52:15 GMT</pubDate>
+            <description><![CDATA[Show HN: Party Banner for iOS]]></description>
+        </item>
         <item>
             <title><![CDATA[Wayland上Podman中的GUI應用]]></title>
             <link>https://news.ycombinator.com/item?id=30811661</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30564346</guid>
             <pubDate>Sat, 05 Mar 2022 04:46:11 GMT</pubDate>
             <description><![CDATA[Show HN: How to Create a Network Proxy Using Stream Processor Pipy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gadsby - 使用變形金剛的受限文本生成]]></title>
-            <link>https://news.ycombinator.com/item?id=30564278</link>
-            <guid>https://news.ycombinator.com/item?id=30564278</guid>
-            <pubDate>Sat, 05 Mar 2022 04:32:05 GMT</pubDate>
-            <description><![CDATA[Show HN: Gadsby – Constrained Text Generation with Transformers]]></description>
         </item>
     </channel>
 </rss>
