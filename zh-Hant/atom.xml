@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-26T15:51:48.227Z</updated>
+    <updated>2022-03-26T16:14:52.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Wachy - 一個基於eBPF的性能調試的用戶界面]]></title>
+        <id>https://news.ycombinator.com/item?id=30812988</id>
+        <link href="https://news.ycombinator.com/item?id=30812988"/>
+        <updated>2022-03-26T15:59:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Wachy – A UI for eBPF-based performance debugging]]></summary>
+        <author>
+            <name>vivek-jain</name>
+            <uri>https://news.ycombinator.com/user?id=vivek-jain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個計算器來計算Stripe的費用]]></title>
         <id>https://news.ycombinator.com/item?id=30812872</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mconst</name>
             <uri>https://news.ycombinator.com/user?id=mconst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對審查代碼修改的一種改進]]></title>
-        <id>https://news.ycombinator.com/item?id=30565249</id>
-        <link href="https://news.ycombinator.com/item?id=30565249"/>
-        <updated>2022-03-05T07:25:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An improvement to reviewing code changes]]></summary>
-        <author>
-            <name>difflens</name>
-            <uri>https://news.ycombinator.com/user?id=difflens</uri>
         </author>
     </entry>
 </feed>
