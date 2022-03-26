@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-26T16:14:52.118Z</updated>
+    <updated>2022-03-26T17:41:27.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[零和 - 一個關於數字相加的網頁遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30813712</id>
+        <link href="https://news.ycombinator.com/item?id=30813712"/>
+        <updated>2022-03-26T17:38:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Zero Sum – A web game about summing numbers]]></summary>
+        <author>
+            <name>mrpelican</name>
+            <uri>https://news.ycombinator.com/user?id=mrpelican</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wachy - 一個基於eBPF的性能調試的用戶界面]]></title>
         <id>https://news.ycombinator.com/item?id=30812988</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Jamesbarford</name>
             <uri>https://news.ycombinator.com/user?id=Jamesbarford</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Word-in-one--每天的Wordle式謎題]]></title>
-        <id>https://news.ycombinator.com/item?id=30565855</id>
-        <link href="https://news.ycombinator.com/item?id=30565855"/>
-        <updated>2022-03-05T09:13:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Word-in-one – a daily Wordle-style puzzle]]></summary>
-        <author>
-            <name>mconst</name>
-            <uri>https://news.ycombinator.com/user?id=mconst</uri>
         </author>
     </entry>
 </feed>
