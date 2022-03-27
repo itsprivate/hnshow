@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 27 Mar 2022 09:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 12:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[RaveForce - 一个用于音乐生成实验的OpenAI Gym风格的工具箱]]></title>
+            <link>https://news.ycombinator.com/item?id=30819646</link>
+            <guid>https://news.ycombinator.com/item?id=30819646</guid>
+            <pubDate>Sun, 27 Mar 2022 12:11:33 GMT</pubDate>
+            <description><![CDATA[Show HN: RaveForce – An OpenAI Gym style toolkit for music generation experiment]]></description>
+        </item>
         <item>
             <title><![CDATA[KeepAlive.Finance - 保持你的信用卡活力]]></title>
             <link>https://news.ycombinator.com/item?id=30818800</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30571043</guid>
             <pubDate>Sat, 05 Mar 2022 19:31:49 GMT</pubDate>
             <description><![CDATA[Show HN: Windows XP Themed Mastodon Instance]]></description>
-        </item>
-        <item>
-            <title><![CDATA[操纵Minecraft的FUSE文件系统]]></title>
-            <link>https://news.ycombinator.com/item?id=30570814</link>
-            <guid>https://news.ycombinator.com/item?id=30570814</guid>
-            <pubDate>Sat, 05 Mar 2022 19:11:03 GMT</pubDate>
-            <description><![CDATA[Show HN: FUSE Filesystem for Manipulating Minecraft]]></description>
         </item>
     </channel>
 </rss>

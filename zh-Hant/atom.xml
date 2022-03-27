@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-27T09:15:18.874Z</updated>
+    <updated>2022-03-27T12:17:22.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RaveForce - 一個用於音樂生成實驗的OpenAI Gym風格的工具箱]]></title>
+        <id>https://news.ycombinator.com/item?id=30819646</id>
+        <link href="https://news.ycombinator.com/item?id=30819646"/>
+        <updated>2022-03-27T12:11:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: RaveForce – An OpenAI Gym style toolkit for music generation experiment]]></summary>
+        <author>
+            <name>chaosprint</name>
+            <uri>https://news.ycombinator.com/user?id=chaosprint</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KeepAlive.Finance - 保持你的信用卡活力]]></title>
         <id>https://news.ycombinator.com/item?id=30818800</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>assemblylang</name>
             <uri>https://news.ycombinator.com/user?id=assemblylang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[操縱Minecraft的FUSE文件系統]]></title>
-        <id>https://news.ycombinator.com/item?id=30570814</id>
-        <link href="https://news.ycombinator.com/item?id=30570814"/>
-        <updated>2022-03-05T19:11:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: FUSE Filesystem for Manipulating Minecraft]]></summary>
-        <author>
-            <name>tiddles</name>
-            <uri>https://news.ycombinator.com/user?id=tiddles</uri>
         </author>
     </entry>
 </feed>
