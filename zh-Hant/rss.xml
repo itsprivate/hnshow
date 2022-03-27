@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 27 Mar 2022 20:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 21:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[免費託管的帶GPU的JupyerLab]]></title>
+            <link>https://news.ycombinator.com/item?id=30824146</link>
+            <guid>https://news.ycombinator.com/item?id=30824146</guid>
+            <pubDate>Sun, 27 Mar 2022 21:06:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Free Hosted JupyerLab with GPU]]></description>
+        </item>
         <item>
             <title><![CDATA[Awardedfilms.com - 所有奧斯卡獎提名的完整集合]]></title>
             <link>https://news.ycombinator.com/item?id=30823690</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30577742</guid>
             <pubDate>Sun, 06 Mar 2022 14:19:22 GMT</pubDate>
             <description><![CDATA[Show HN: Encrypt/Decrypt plain text POC]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個確定性的密碼管理器POC]]></title>
-            <link>https://news.ycombinator.com/item?id=30577729</link>
-            <guid>https://news.ycombinator.com/item?id=30577729</guid>
-            <pubDate>Sun, 06 Mar 2022 14:15:47 GMT</pubDate>
-            <description><![CDATA[Show HN: A deterministic password manager POC]]></description>
         </item>
     </channel>
 </rss>
