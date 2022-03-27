@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-27T16:47:59.019Z</updated>
+    <updated>2022-03-27T17:02:22.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[讓你的生活區可以黑化]]></title>
+        <id>https://news.ycombinator.com/item?id=30821800</id>
+        <link href="https://news.ycombinator.com/item?id=30821800"/>
+        <updated>2022-03-27T16:58:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Make your living area hackable]]></summary>
+        <author>
+            <name>MasaYanagida</name>
+            <uri>https://news.ycombinator.com/user?id=MasaYanagida</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在幾秒鐘內生成虛構的以太坊錢包地址]]></title>
         <id>https://news.ycombinator.com/item?id=30821502</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>EGreg</name>
             <uri>https://news.ycombinator.com/user?id=EGreg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clipton, Clipboard Manager]]></title>
-        <id>https://news.ycombinator.com/item?id=30575988</id>
-        <link href="https://news.ycombinator.com/item?id=30575988"/>
-        <updated>2022-03-06T08:28:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Clipton, Clipboard Manager]]></summary>
-        <author>
-            <name>madprops</name>
-            <uri>https://news.ycombinator.com/user?id=madprops</uri>
         </author>
     </entry>
 </feed>
