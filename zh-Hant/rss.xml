@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 27 Mar 2022 02:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 02:59:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[帶有本地目錄掛載的遠程Docker命令]]></title>
+            <link>https://news.ycombinator.com/item?id=30817279</link>
+            <guid>https://news.ycombinator.com/item?id=30817279</guid>
+            <pubDate>Sun, 27 Mar 2022 02:40:51 GMT</pubDate>
+            <description><![CDATA[Show HN: Remote Docker commands with local directory mount]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何用Pipy代理創建一個網絡代理]]></title>
+            <link>https://news.ycombinator.com/item?id=30817252</link>
+            <guid>https://news.ycombinator.com/item?id=30817252</guid>
+            <pubDate>Sun, 27 Mar 2022 02:35:05 GMT</pubDate>
+            <description><![CDATA[Show HN: How to create a network proxy with Pipy proxy]]></description>
+        </item>
         <item>
             <title><![CDATA[在網絡瀏覽器中嘗試開源的敘事遊戲開發工具Yarn Spinner]]></title>
             <link>https://news.ycombinator.com/item?id=30816832</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30570578</guid>
             <pubDate>Sat, 05 Mar 2022 18:47:55 GMT</pubDate>
             <description><![CDATA[Show HN: CL and FB reselling app with auto renew and auto price reduction]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一個與Clockify同步的Pomodoro Timer]]></title>
-            <link>https://news.ycombinator.com/item?id=30570377</link>
-            <guid>https://news.ycombinator.com/item?id=30570377</guid>
-            <pubDate>Sat, 05 Mar 2022 18:30:47 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a Pomodoro Timer that sync with Clockify]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FlexStr - Rust的不可變的、克隆效率高的字符串替代品]]></title>
-            <link>https://news.ycombinator.com/item?id=30570118</link>
-            <guid>https://news.ycombinator.com/item?id=30570118</guid>
-            <pubDate>Sat, 05 Mar 2022 18:10:42 GMT</pubDate>
-            <description><![CDATA[Show HN: FlexStr – An immutable, clone-efficient String replacement for Rust]]></description>
         </item>
     </channel>
 </rss>
