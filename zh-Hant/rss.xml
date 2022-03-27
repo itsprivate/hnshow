@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 27 Mar 2022 21:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 21:52:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Boredle - 使用任何網頁上的單詞玩Wordle遊戲]]></title>
+            <link>https://news.ycombinator.com/item?id=30823264</link>
+            <guid>https://news.ycombinator.com/item?id=30823264</guid>
+            <pubDate>Sun, 27 Mar 2022 19:30:24 GMT</pubDate>
+            <description><![CDATA[Show HN: Boredle – play Wordle using the words on any webpage]]></description>
+        </item>
         <item>
             <title><![CDATA[我正在寫一本名為《從零開始的計算機網絡》的免費書籍]]></title>
             <link>https://news.ycombinator.com/item?id=30824357</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30577897</guid>
             <pubDate>Sun, 06 Mar 2022 14:50:47 GMT</pubDate>
             <description><![CDATA[Show HN: Instantly search active jobs and read the job highlights (TL;DR)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pipy，一個微小、快速、穩定和可編程的下一代代理。]]></title>
-            <link>https://news.ycombinator.com/item?id=30577757</link>
-            <guid>https://news.ycombinator.com/item?id=30577757</guid>
-            <pubDate>Sun, 06 Mar 2022 14:22:52 GMT</pubDate>
-            <description><![CDATA[Show HN: Pipy, a tiny, fast, stable and programmable next generation of proxy]]></description>
         </item>
     </channel>
 </rss>
