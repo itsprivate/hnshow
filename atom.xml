@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-27T18:37:42.006Z</updated>
+    <updated>2022-03-27T20:33:37.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Awardedfilms.com - 所有奥斯卡奖提名的完整集合]]></title>
+        <id>https://news.ycombinator.com/item?id=30823690</id>
+        <link href="https://news.ycombinator.com/item?id=30823690"/>
+        <updated>2022-03-27T20:18:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Awardedfilms.com – Complete collection of all the Oscars nominations]]></summary>
+        <author>
+            <name>peaches_</name>
+            <uri>https://news.ycombinator.com/user?id=peaches_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个网站来增加你的注意力]]></title>
         <id>https://news.ycombinator.com/item?id=30822630</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aselvan</name>
             <uri>https://news.ycombinator.com/user?id=aselvan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[建立或不建立一个软件功能？]]></title>
-        <id>https://news.ycombinator.com/item?id=30576746</id>
-        <link href="https://news.ycombinator.com/item?id=30576746"/>
-        <updated>2022-03-06T11:24:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Build or don't build a software feature?]]></summary>
-        <author>
-            <name>knadh</name>
-            <uri>https://news.ycombinator.com/user?id=knadh</uri>
         </author>
     </entry>
 </feed>
