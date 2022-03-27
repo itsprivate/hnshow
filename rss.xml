@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 27 Mar 2022 17:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 18:37:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一个网站来增加你的注意力]]></title>
+            <link>https://news.ycombinator.com/item?id=30822630</link>
+            <guid>https://news.ycombinator.com/item?id=30822630</guid>
+            <pubDate>Sun, 27 Mar 2022 18:21:59 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a website to increase your focus]]></description>
+        </item>
+        <item>
+            <title><![CDATA[包含100多个公共Bug赏金项目数据的Bug赏金侦察数据集]]></title>
+            <link>https://news.ycombinator.com/item?id=30822540</link>
+            <guid>https://news.ycombinator.com/item?id=30822540</guid>
+            <pubDate>Sun, 27 Mar 2022 18:13:09 GMT</pubDate>
+            <description><![CDATA[Show HN: Bug Bounty Recon Dataset with data from 100+ Public Bug Bounty Programs]]></description>
+        </item>
         <item>
             <title><![CDATA[辛霍克]]></title>
             <link>https://news.ycombinator.com/item?id=30821850</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30576746</guid>
             <pubDate>Sun, 06 Mar 2022 11:24:32 GMT</pubDate>
             <description><![CDATA[Show HN: Build or don't build a software feature?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[免费资金管理应用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30576705</link>
-            <guid>https://news.ycombinator.com/item?id=30576705</guid>
-            <pubDate>Sun, 06 Mar 2022 11:15:44 GMT</pubDate>
-            <description><![CDATA[Show HN: Free Money-Management Apps]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我为SqlAlchemy模型/表做了一个FastApi CRUD API生成器]]></title>
-            <link>https://news.ycombinator.com/item?id=30576316</link>
-            <guid>https://news.ycombinator.com/item?id=30576316</guid>
-            <pubDate>Sun, 06 Mar 2022 09:51:06 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a FastApi CRUD API generator for SqlAlchemy model/table]]></description>
         </item>
     </channel>
 </rss>
