@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-27T12:17:22.485Z</updated>
+    <updated>2022-03-27T14:30:38.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在拉动请求时抓住布局和拼写错误]]></title>
+        <id>https://news.ycombinator.com/item?id=30820420</id>
+        <link href="https://news.ycombinator.com/item?id=30820420"/>
+        <updated>2022-03-27T14:16:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Catch layout and spelling mistakes at pull request time]]></summary>
+        <author>
+            <name>joshdsouza</name>
+            <uri>https://news.ycombinator.com/user?id=joshdsouza</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RaveForce - 一个用于音乐生成实验的OpenAI Gym风格的工具箱]]></title>
         <id>https://news.ycombinator.com/item?id=30819646</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mmmmkay</name>
             <uri>https://news.ycombinator.com/user?id=mmmmkay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows XP主题的Mastodon实例]]></title>
-        <id>https://news.ycombinator.com/item?id=30571043</id>
-        <link href="https://news.ycombinator.com/item?id=30571043"/>
-        <updated>2022-03-05T19:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Windows XP Themed Mastodon Instance]]></summary>
-        <author>
-            <name>assemblylang</name>
-            <uri>https://news.ycombinator.com/user?id=assemblylang</uri>
         </author>
     </entry>
 </feed>
