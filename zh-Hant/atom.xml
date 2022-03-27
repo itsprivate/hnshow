@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-27T17:02:22.856Z</updated>
+    <updated>2022-03-27T17:19:40.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[辛霍克]]></title>
+        <id>https://news.ycombinator.com/item?id=30821850</id>
+        <link href="https://news.ycombinator.com/item?id=30821850"/>
+        <updated>2022-03-27T17:04:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SimHok]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[讓你的生活區可以黑化]]></title>
         <id>https://news.ycombinator.com/item?id=30821800</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kenton18</name>
             <uri>https://news.ycombinator.com/user?id=kenton18</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[所有的世界大戰的總和似乎都是68... 這是一個巨大的巧合嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=30576188</id>
-        <link href="https://news.ycombinator.com/item?id=30576188"/>
-        <updated>2022-03-06T09:15:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: All world wars seem to sum to 68... Is it a giant coincidence?]]></summary>
-        <author>
-            <name>EGreg</name>
-            <uri>https://news.ycombinator.com/user?id=EGreg</uri>
         </author>
     </entry>
 </feed>
