@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 27 Mar 2022 00:43:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 02:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在網絡瀏覽器中嘗試開源的敘事遊戲開發工具Yarn Spinner]]></title>
+            <link>https://news.ycombinator.com/item?id=30816832</link>
+            <guid>https://news.ycombinator.com/item?id=30816832</guid>
+            <pubDate>Sun, 27 Mar 2022 01:13:46 GMT</pubDate>
+            <description><![CDATA[Show HN: Try Yarn Spinner, open source narrative game dev tool, in a web browser]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Npx 順序生成行星-mbtiles |低硬度世界矢量瓷磚]]></title>
+            <link>https://news.ycombinator.com/item?id=30816831</link>
+            <guid>https://news.ycombinator.com/item?id=30816831</guid>
+            <pubDate>Sun, 27 Mar 2022 01:13:21 GMT</pubDate>
+            <description><![CDATA[Show HN: Npx sequentially-generate-planet-mbtiles |low hdware world vector tiles]]></description>
+        </item>
         <item>
             <title><![CDATA[HOV彈夾 - 我們為加州CAV貼紙製作了可拆卸的彈夾條。]]></title>
             <link>https://news.ycombinator.com/item?id=30816484</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30570118</guid>
             <pubDate>Sat, 05 Mar 2022 18:10:42 GMT</pubDate>
             <description><![CDATA[Show HN: FlexStr – An immutable, clone-efficient String replacement for Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我建立了一個Wordle解碼器，可以猜出你的猜測]]></title>
-            <link>https://news.ycombinator.com/item?id=30570029</link>
-            <guid>https://news.ycombinator.com/item?id=30570029</guid>
-            <pubDate>Sat, 05 Mar 2022 18:02:58 GMT</pubDate>
-            <description><![CDATA[Show HN: I built a Wordle decoder that guesses your guesses]]></description>
-        </item>
-        <item>
-            <title><![CDATA[RImageShield，用於保護嵌入版權信息的圖像的免費工具]]></title>
-            <link>https://news.ycombinator.com/item?id=30568645</link>
-            <guid>https://news.ycombinator.com/item?id=30568645</guid>
-            <pubDate>Sat, 05 Mar 2022 16:07:41 GMT</pubDate>
-            <description><![CDATA[Show HN: RImageShield, free tool to protect images embedding a copyright message]]></description>
         </item>
     </channel>
 </rss>
