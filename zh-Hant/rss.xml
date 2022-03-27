@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 27 Mar 2022 23:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 23:51:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為Facit C1-13機械計算器設計的正在進行中的模擬器]]></title>
+            <link>https://news.ycombinator.com/item?id=30825306</link>
+            <guid>https://news.ycombinator.com/item?id=30825306</guid>
+            <pubDate>Sun, 27 Mar 2022 23:42:35 GMT</pubDate>
+            <description><![CDATA[Show HN: A work-in-progress simulator for the Facit C1-13 mechanical calculator]]></description>
+        </item>
         <item>
             <title><![CDATA[Pg_plan_guarantee - 保證你的（查詢）計劃永不改變]]></title>
             <link>https://news.ycombinator.com/item?id=30825069</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30578481</guid>
             <pubDate>Sun, 06 Mar 2022 16:08:41 GMT</pubDate>
             <description><![CDATA[Show HN: I made a diet diary using Ionic and React]]></description>
-        </item>
-        <item>
-            <title><![CDATA[軸心 - 用人工智能測量任何歌曲的（吉米）亨德里克斯式（Hendrixian-Ness）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30578153</link>
-            <guid>https://news.ycombinator.com/item?id=30578153</guid>
-            <pubDate>Sun, 06 Mar 2022 15:27:54 GMT</pubDate>
-            <description><![CDATA[Show HN: The Axis – Measure the (Jimi) Hendrixian-Ness of Any Song, with AI]]></description>
         </item>
     </channel>
 </rss>
