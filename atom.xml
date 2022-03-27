@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-27T15:34:01.733Z</updated>
+    <updated>2022-03-27T16:47:58.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在几秒钟内生成虚构的以太坊钱包地址]]></title>
+        <id>https://news.ycombinator.com/item?id=30821502</id>
+        <link href="https://news.ycombinator.com/item?id=30821502"/>
+        <updated>2022-03-27T16:22:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Generate vanity Ethereum wallet addresses within seconds]]></summary>
+        <author>
+            <name>danieltanfh95</name>
+            <uri>https://news.ycombinator.com/user?id=danieltanfh95</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我只用代码做了一本漫画书]]></title>
+        <id>https://news.ycombinator.com/item?id=30821501</id>
+        <link href="https://news.ycombinator.com/item?id=30821501"/>
+        <updated>2022-03-27T16:22:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I have made a comic book using only code]]></summary>
+        <author>
+            <name>toto444</name>
+            <uri>https://news.ycombinator.com/user?id=toto444</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3by3 - 通过回答三个简单的问题发现新鲜的播客节目]]></title>
+        <id>https://news.ycombinator.com/item?id=30821488</id>
+        <link href="https://news.ycombinator.com/item?id=30821488"/>
+        <updated>2022-03-27T16:21:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: 3by3 – discover fresh podcasts by answering three simple questions]]></summary>
+        <author>
+            <name>p5v</name>
+            <uri>https://news.ycombinator.com/user?id=p5v</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bookvine.io - 帮助寻找适合6至14岁孩子的书籍]]></title>
+        <id>https://news.ycombinator.com/item?id=30821434</id>
+        <link href="https://news.ycombinator.com/item?id=30821434"/>
+        <updated>2022-03-27T16:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bookvine.io – Help find age appropriate books for kids aged 6 to 14]]></summary>
+        <author>
+            <name>realcul</name>
+            <uri>https://news.ycombinator.com/user?id=realcul</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[只是另一个记事的应用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30820940</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>madprops</name>
             <uri>https://news.ycombinator.com/user?id=madprops</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一个在线的热力模型工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30575357</id>
-        <link href="https://news.ycombinator.com/item?id=30575357"/>
-        <updated>2022-03-06T05:53:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built an online tool for thermal modeling]]></summary>
-        <author>
-            <name>lrobinovitch</name>
-            <uri>https://news.ycombinator.com/user?id=lrobinovitch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个网站，鼓励你多写东西]]></title>
-        <id>https://news.ycombinator.com/item?id=30575014</id>
-        <link href="https://news.ycombinator.com/item?id=30575014"/>
-        <updated>2022-03-06T04:24:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a website that encourages you to write more often]]></summary>
-        <author>
-            <name>ICodeSometimes</name>
-            <uri>https://news.ycombinator.com/user?id=ICodeSometimes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust中的SQL生成器]]></title>
-        <id>https://news.ycombinator.com/item?id=30574446</id>
-        <link href="https://news.ycombinator.com/item?id=30574446"/>
-        <updated>2022-03-06T02:28:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An SQL Builder in Rust]]></summary>
-        <author>
-            <name>bagol</name>
-            <uri>https://news.ycombinator.com/user?id=bagol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xordle，我做的一个Wordle变体]]></title>
-        <id>https://news.ycombinator.com/item?id=30571534</id>
-        <link href="https://news.ycombinator.com/item?id=30571534"/>
-        <updated>2022-03-05T20:25:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Xordle, a Wordle variant I made]]></summary>
-        <author>
-            <name>furyofantares</name>
-            <uri>https://news.ycombinator.com/user?id=furyofantares</uri>
         </author>
     </entry>
 </feed>
