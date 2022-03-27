@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-26T23:31:39.042Z</updated>
+    <updated>2022-03-27T00:43:16.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HOV彈夾 - 我們為加州CAV貼紙製作了可拆卸的彈夾條。]]></title>
+        <id>https://news.ycombinator.com/item?id=30816484</id>
+        <link href="https://news.ycombinator.com/item?id=30816484"/>
+        <updated>2022-03-27T00:04:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: HOV Mags – we made removable mag strips for the California CAV stickers]]></summary>
+        <author>
+            <name>opengee</name>
+            <uri>https://news.ycombinator.com/user?id=opengee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[反向工程GitHub的身份識別算法]]></title>
         <id>https://news.ycombinator.com/item?id=30816189</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>raylibdev</name>
             <uri>https://news.ycombinator.com/user?id=raylibdev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[招聘人員電子郵件域和電子郵件過濾自動化的儲存庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30568265</id>
-        <link href="https://news.ycombinator.com/item?id=30568265"/>
-        <updated>2022-03-05T15:19:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Repository of Recruiter Email Domains and Email Filter Automation]]></summary>
-        <author>
-            <name>appsoftware</name>
-            <uri>https://news.ycombinator.com/user?id=appsoftware</uri>
         </author>
     </entry>
 </feed>
