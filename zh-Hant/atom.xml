@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-27T02:59:06.570Z</updated>
+    <updated>2022-03-27T09:15:18.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[KeepAlive.Finance - 保持你的信用卡活力]]></title>
+        <id>https://news.ycombinator.com/item?id=30818800</id>
+        <link href="https://news.ycombinator.com/item?id=30818800"/>
+        <updated>2022-03-27T08:58:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: KeepAlive.Finance – Keep your credit cards alive]]></summary>
+        <author>
+            <name>cameronehrlich</name>
+            <uri>https://news.ycombinator.com/user?id=cameronehrlich</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帶有本地目錄掛載的遠程Docker命令]]></title>
         <id>https://news.ycombinator.com/item?id=30817279</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tiddles</name>
             <uri>https://news.ycombinator.com/user?id=tiddles</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具有自動更新和自動降價功能的CL和FB轉售應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30570578</id>
-        <link href="https://news.ycombinator.com/item?id=30570578"/>
-        <updated>2022-03-05T18:47:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CL and FB reselling app with auto renew and auto price reduction]]></summary>
-        <author>
-            <name>shtopointo</name>
-            <uri>https://news.ycombinator.com/user?id=shtopointo</uri>
         </author>
     </entry>
 </feed>
