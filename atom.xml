@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-27T22:32:55.730Z</updated>
+    <updated>2022-03-27T23:13:07.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Pg_plan_guarantee - 保证你的（查询）计划永不改变]]></title>
+        <id>https://news.ycombinator.com/item?id=30825069</id>
+        <link href="https://news.ycombinator.com/item?id=30825069"/>
+        <updated>2022-03-27T23:04:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pg_plan_guarantee – Guarantee that your (query) plans will never change]]></summary>
+        <author>
+            <name>gurjeet</name>
+            <uri>https://news.ycombinator.com/user?id=gurjeet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KeepAlive.finance - 保持你的不活跃信用卡的活力]]></title>
         <id>https://news.ycombinator.com/item?id=30824683</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hendrixia</name>
             <uri>https://news.ycombinator.com/user?id=hendrixia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[请帮助我做出决定]]></title>
-        <id>https://news.ycombinator.com/item?id=30577951</id>
-        <link href="https://news.ycombinator.com/item?id=30577951"/>
-        <updated>2022-03-06T14:58:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Help Me Decide Please]]></summary>
-        <author>
-            <name>tannerljohnson</name>
-            <uri>https://news.ycombinator.com/user?id=tannerljohnson</uri>
         </author>
     </entry>
 </feed>
