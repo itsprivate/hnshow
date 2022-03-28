@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T20:35:20.112Z</updated>
+    <updated>2022-03-28T20:52:09.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GPT3工具--將YT視頻轉換為博客]]></title>
+        <id>https://news.ycombinator.com/item?id=30835355</id>
+        <link href="https://news.ycombinator.com/item?id=30835355"/>
+        <updated>2022-03-28T20:46:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GPT3 tool – Transforms YT vids into Blogs]]></summary>
+        <author>
+            <name>loutromans</name>
+            <uri>https://news.ycombinator.com/user?id=loutromans</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幫助創建和管理您的花園的Java庫]]></title>
         <id>https://news.ycombinator.com/item?id=30834958</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>illahi</name>
             <uri>https://news.ycombinator.com/user?id=illahi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPod Clickwheel.js]]></title>
-        <id>https://news.ycombinator.com/item?id=30592456</id>
-        <link href="https://news.ycombinator.com/item?id=30592456"/>
-        <updated>2022-03-07T19:46:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: iPod Clickwheel.js]]></summary>
-        <author>
-            <name>jarrenae</name>
-            <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
         </author>
     </entry>
 </feed>
