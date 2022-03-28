@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 28 Mar 2022 19:26:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 19:52:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何生成合成数据]]></title>
+            <link>https://news.ycombinator.com/item?id=30834731</link>
+            <guid>https://news.ycombinator.com/item?id=30834731</guid>
+            <pubDate>Mon, 28 Mar 2022 19:46:17 GMT</pubDate>
+            <description><![CDATA[Show HN: How to Generate Synthetic Data]]></description>
+        </item>
         <item>
             <title><![CDATA[变革的成分]]></title>
             <link>https://news.ycombinator.com/item?id=30834446</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30592311</guid>
             <pubDate>Mon, 07 Mar 2022 19:34:07 GMT</pubDate>
             <description><![CDATA[Show HN: utt, the Universal Text Transformer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个人工智能学习平台使用间隔重复法来创建学习计划]]></title>
-            <link>https://news.ycombinator.com/item?id=30592139</link>
-            <guid>https://news.ycombinator.com/item?id=30592139</guid>
-            <pubDate>Mon, 07 Mar 2022 19:19:58 GMT</pubDate>
-            <description><![CDATA[Show HN: An AI learning platform using spaced-repetition to create a study plan]]></description>
         </item>
     </channel>
 </rss>

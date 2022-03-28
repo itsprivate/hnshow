@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T19:26:59.903Z</updated>
+    <updated>2022-03-28T19:52:47.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何生成合成数据]]></title>
+        <id>https://news.ycombinator.com/item?id=30834731</id>
+        <link href="https://news.ycombinator.com/item?id=30834731"/>
+        <updated>2022-03-28T19:46:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How to Generate Synthetic Data]]></summary>
+        <author>
+            <name>repeat_or</name>
+            <uri>https://news.ycombinator.com/user?id=repeat_or</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[变革的成分]]></title>
         <id>https://news.ycombinator.com/item?id=30834446</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>notamy</name>
             <uri>https://news.ycombinator.com/user?id=notamy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个人工智能学习平台使用间隔重复法来创建学习计划]]></title>
-        <id>https://news.ycombinator.com/item?id=30592139</id>
-        <link href="https://news.ycombinator.com/item?id=30592139"/>
-        <updated>2022-03-07T19:19:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An AI learning platform using spaced-repetition to create a study plan]]></summary>
-        <author>
-            <name>techmowgli</name>
-            <uri>https://news.ycombinator.com/user?id=techmowgli</uri>
         </author>
     </entry>
 </feed>
