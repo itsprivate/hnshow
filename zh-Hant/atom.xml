@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T13:45:29.564Z</updated>
+    <updated>2022-03-28T13:52:32.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何用Pipy實現一個簡單的路由代理]]></title>
+        <id>https://news.ycombinator.com/item?id=30830420</id>
+        <link href="https://news.ycombinator.com/item?id=30830420"/>
+        <updated>2022-03-28T13:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How to implement a simple routing proxy with Pipy]]></summary>
+        <author>
+            <name>shaderx13</name>
+            <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[類似的筆記本電腦搜索器。找到與你最相似的筆記本電腦]]></title>
         <id>https://news.ycombinator.com/item?id=30830346</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>baransel</name>
             <uri>https://news.ycombinator.com/user?id=baransel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[獲取當前HN熱門帖子的CLI工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30586276</id>
-        <link href="https://news.ycombinator.com/item?id=30586276"/>
-        <updated>2022-03-07T10:50:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CLI tool to get current HN top posts]]></summary>
-        <author>
-            <name>daschaa</name>
-            <uri>https://news.ycombinator.com/user?id=daschaa</uri>
         </author>
     </entry>
 </feed>

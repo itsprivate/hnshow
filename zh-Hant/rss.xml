@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 28 Mar 2022 13:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 13:52:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何用Pipy實現一個簡單的路由代理]]></title>
+            <link>https://news.ycombinator.com/item?id=30830420</link>
+            <guid>https://news.ycombinator.com/item?id=30830420</guid>
+            <pubDate>Mon, 28 Mar 2022 13:46:03 GMT</pubDate>
+            <description><![CDATA[Show HN: How to implement a simple routing proxy with Pipy]]></description>
+        </item>
         <item>
             <title><![CDATA[類似的筆記本電腦搜索器。找到與你最相似的筆記本電腦]]></title>
             <link>https://news.ycombinator.com/item?id=30830346</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30585080</guid>
             <pubDate>Mon, 07 Mar 2022 07:25:30 GMT</pubDate>
             <description><![CDATA[Show HN: Just 5 Top headlines of the world you need to start your day with]]></description>
-        </item>
-        <item>
-            <title><![CDATA[獲取當前HN熱門帖子的CLI工具]]></title>
-            <link>https://news.ycombinator.com/item?id=30586276</link>
-            <guid>https://news.ycombinator.com/item?id=30586276</guid>
-            <pubDate>Mon, 07 Mar 2022 10:50:14 GMT</pubDate>
-            <description><![CDATA[Show HN: CLI tool to get current HN top posts]]></description>
         </item>
     </channel>
 </rss>
