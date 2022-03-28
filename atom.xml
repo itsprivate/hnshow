@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T07:51:36.395Z</updated>
+    <updated>2022-03-28T08:56:46.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Wordga - 与其他HNers的游戏，创造最高得分的单词。]]></title>
+        <id>https://news.ycombinator.com/item?id=30828578</id>
+        <link href="https://news.ycombinator.com/item?id=30828578"/>
+        <updated>2022-03-28T08:51:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Wordga – A game against other HNers to create the highest scoring word]]></summary>
+        <author>
+            <name>danieltait</name>
+            <uri>https://news.ycombinator.com/user?id=danieltait</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[提取视频中的ppt并导出pdf]]></title>
         <id>https://news.ycombinator.com/item?id=30828160</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>massanishi</name>
             <uri>https://news.ycombinator.com/user?id=massanishi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lovenotwar.js 一个代表和平的极简主义旗帜]]></title>
-        <id>https://news.ycombinator.com/item?id=30581451</id>
-        <link href="https://news.ycombinator.com/item?id=30581451"/>
-        <updated>2022-03-06T21:30:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lovenotwar.js a minimalist banner to stand for peace]]></summary>
-        <author>
-            <name>javierluraschi</name>
-            <uri>https://news.ycombinator.com/user?id=javierluraschi</uri>
         </author>
     </entry>
 </feed>
