@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T12:58:56.717Z</updated>
+    <updated>2022-03-28T13:45:29.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[類似的筆記本電腦搜索器。找到與你最相似的筆記本電腦]]></title>
+        <id>https://news.ycombinator.com/item?id=30830346</id>
+        <link href="https://news.ycombinator.com/item?id=30830346"/>
+        <updated>2022-03-28T13:32:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Similar Laptop Finder. Finds the Laptop Most Similar to Yours]]></summary>
+        <author>
+            <name>mg</name>
+            <uri>https://news.ycombinator.com/user?id=mg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個蹩腳的註冊頁面]]></title>
+        <id>https://news.ycombinator.com/item?id=30830267</id>
+        <link href="https://news.ycombinator.com/item?id=30830267"/>
+        <updated>2022-03-28T13:23:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Crappy Signup Page]]></summary>
+        <author>
+            <name>djlewald</name>
+            <uri>https://news.ycombinator.com/user?id=djlewald</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個為遊牧民族尋找摩托車租賃的應用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30829686</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>daschaa</name>
             <uri>https://news.ycombinator.com/user?id=daschaa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tinx.ai - 為你預製的AI模型]]></title>
-        <id>https://news.ycombinator.com/item?id=30586087</id>
-        <link href="https://news.ycombinator.com/item?id=30586087"/>
-        <updated>2022-03-07T10:20:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tinx.ai – Prebuilt AI Models for You]]></summary>
-        <author>
-            <name>thebillkidy</name>
-            <uri>https://news.ycombinator.com/user?id=thebillkidy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個為股市和加密貨幣建立預測器的人工智能工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30585861</id>
-        <link href="https://news.ycombinator.com/item?id=30585861"/>
-        <updated>2022-03-07T09:43:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An AI tool to build predictors for stock market and crypto]]></summary>
-        <author>
-            <name>mycomputerlags</name>
-            <uri>https://news.ycombinator.com/user?id=mycomputerlags</uri>
         </author>
     </entry>
 </feed>
