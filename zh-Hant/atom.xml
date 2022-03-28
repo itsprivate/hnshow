@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T10:15:39.258Z</updated>
+    <updated>2022-03-28T11:51:25.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Reddit上的 "建電腦 "銷售的一個簡單探索器]]></title>
+        <id>https://news.ycombinator.com/item?id=30829421</id>
+        <link href="https://news.ycombinator.com/item?id=30829421"/>
+        <updated>2022-03-28T11:42:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A simple explorer for Build-a-PC sales on Reddit]]></summary>
+        <author>
+            <name>lamplamplamp</name>
+            <uri>https://news.ycombinator.com/user?id=lamplamplamp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Jupyter筆記本中從bloxs建立儀表盤]]></title>
         <id>https://news.ycombinator.com/item?id=30828962</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nassimsoftware</name>
             <uri>https://news.ycombinator.com/user?id=nassimsoftware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個移動優先的Prolog編輯器]]></title>
-        <id>https://news.ycombinator.com/item?id=30582052</id>
-        <link href="https://news.ycombinator.com/item?id=30582052"/>
-        <updated>2022-03-06T22:44:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a mobile-first Prolog editor]]></summary>
-        <author>
-            <name>fallat</name>
-            <uri>https://news.ycombinator.com/user?id=fallat</uri>
         </author>
     </entry>
 </feed>
