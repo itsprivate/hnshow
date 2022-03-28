@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T22:14:30.543Z</updated>
+    <updated>2022-03-28T22:34:52.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[搜索社交媒體上最熱門的 Substacks]]></title>
+        <id>https://news.ycombinator.com/item?id=30836324</id>
+        <link href="https://news.ycombinator.com/item?id=30836324"/>
+        <updated>2022-03-28T22:21:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Search the top trending Substacks on social media]]></summary>
+        <author>
+            <name>quinto_quarto</name>
+            <uri>https://news.ycombinator.com/user?id=quinto_quarto</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zen (YC S21) - 通過網絡攝像頭的姿勢矯正軟件(免費測試版)]]></title>
         <id>https://news.ycombinator.com/item?id=30836124</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>truetaurus</name>
             <uri>https://news.ycombinator.com/user?id=truetaurus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Databar.ai - 無需代碼即可連接到任何API]]></title>
-        <id>https://news.ycombinator.com/item?id=30593046</id>
-        <link href="https://news.ycombinator.com/item?id=30593046"/>
-        <updated>2022-03-07T20:39:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Databar.ai – Connect to any API without code]]></summary>
-        <author>
-            <name>david_abaev</name>
-            <uri>https://news.ycombinator.com/user?id=david_abaev</uri>
         </author>
     </entry>
 </feed>
