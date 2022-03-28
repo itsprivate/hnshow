@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 28 Mar 2022 14:31:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 14:41:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[FP-bindgen - 全棧式WASM插件的綁定生成器]]></title>
+            <link>https://news.ycombinator.com/item?id=30830925</link>
+            <guid>https://news.ycombinator.com/item?id=30830925</guid>
+            <pubDate>Mon, 28 Mar 2022 14:36:37 GMT</pubDate>
+            <description><![CDATA[Show HN: FP-bindgen – bindings generator for full-stack WASM plugins]]></description>
+        </item>
         <item>
             <title><![CDATA[介紹一下Caddy-SSH]]></title>
             <link>https://news.ycombinator.com/item?id=30830749</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30587350</guid>
             <pubDate>Mon, 07 Mar 2022 13:16:49 GMT</pubDate>
             <description><![CDATA[Show HN: Collate web pages to read later with Sammelband]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一個工具，通過消除數據包丟失來加快TCP/IP的速度]]></title>
-            <link>https://news.ycombinator.com/item?id=30586705</link>
-            <guid>https://news.ycombinator.com/item?id=30586705</guid>
-            <pubDate>Mon, 07 Mar 2022 11:57:03 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a tool that speeds up TCP/IP by eliminating packet loss]]></description>
         </item>
     </channel>
 </rss>

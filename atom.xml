@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T14:31:36.173Z</updated>
+    <updated>2022-03-28T14:41:22.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FP-bindgen - 全栈式WASM插件的绑定生成器]]></title>
+        <id>https://news.ycombinator.com/item?id=30830925</id>
+        <link href="https://news.ycombinator.com/item?id=30830925"/>
+        <updated>2022-03-28T14:36:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: FP-bindgen – bindings generator for full-stack WASM plugins]]></summary>
+        <author>
+            <name>miesie</name>
+            <uri>https://news.ycombinator.com/user?id=miesie</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[介绍一下Caddy-SSH]]></title>
         <id>https://news.ycombinator.com/item?id=30830749</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pizzicato</name>
             <uri>https://news.ycombinator.com/user?id=pizzicato</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个工具，通过消除数据包丢失来加快TCP/IP的速度]]></title>
-        <id>https://news.ycombinator.com/item?id=30586705</id>
-        <link href="https://news.ycombinator.com/item?id=30586705"/>
-        <updated>2022-03-07T11:57:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a tool that speeds up TCP/IP by eliminating packet loss]]></summary>
-        <author>
-            <name>bruce_parker</name>
-            <uri>https://news.ycombinator.com/user?id=bruce_parker</uri>
         </author>
     </entry>
 </feed>
