@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T15:38:20.309Z</updated>
+    <updated>2022-03-28T15:57:17.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ExKeyMo - 无需root即可定制安卓外置键盘布局]]></title>
+        <id>https://news.ycombinator.com/item?id=30831755</id>
+        <link href="https://news.ycombinator.com/item?id=30831755"/>
+        <updated>2022-03-28T15:47:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ExKeyMo – Android external keyboard layout customization without root]]></summary>
+        <author>
+            <name>ris58h</name>
+            <uri>https://news.ycombinator.com/user?id=ris58h</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Factle, Wordle but for Trivia]]></title>
         <id>https://news.ycombinator.com/item?id=30831470</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>corywatilo</name>
             <uri>https://news.ycombinator.com/user?id=corywatilo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paydept - 显示你使用的每一个寻求捐赠的依赖性。]]></title>
-        <id>https://news.ycombinator.com/item?id=30588882</id>
-        <link href="https://news.ycombinator.com/item?id=30588882"/>
-        <updated>2022-03-07T15:29:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Paydept – Shows every dependency you use that are seeking donations]]></summary>
-        <author>
-            <name>mufeedvh</name>
-            <uri>https://news.ycombinator.com/user?id=mufeedvh</uri>
         </author>
     </entry>
 </feed>
