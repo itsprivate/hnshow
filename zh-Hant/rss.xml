@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 28 Mar 2022 14:52:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 15:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在沒有PyTorch/TensorFlow的情況下創建圖像嵌入的Python包]]></title>
+            <link>https://news.ycombinator.com/item?id=30831251</link>
+            <guid>https://news.ycombinator.com/item?id=30831251</guid>
+            <pubDate>Mon, 28 Mar 2022 15:07:40 GMT</pubDate>
+            <description><![CDATA[Show HN: Python package to create image embeddings without PyTorch/TensorFlow]]></description>
+        </item>
         <item>
             <title><![CDATA[SwitchKeeper - 無聊的簡單功能標誌]]></title>
             <link>https://news.ycombinator.com/item?id=30831005</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30588089</guid>
             <pubDate>Mon, 07 Mar 2022 14:20:35 GMT</pubDate>
             <description><![CDATA[Show HN: All desktop calculators are wrong, so I had to build my own]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我建立了一項服務來發現快速增長的初創企業、主題和應用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30587734</link>
-            <guid>https://news.ycombinator.com/item?id=30587734</guid>
-            <pubDate>Mon, 07 Mar 2022 13:52:13 GMT</pubDate>
-            <description><![CDATA[Show HN: I built a service to discover rapidly growing startups, topics and apps]]></description>
         </item>
     </channel>
 </rss>

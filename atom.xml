@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T14:52:56.714Z</updated>
+    <updated>2022-03-28T15:14:37.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在没有PyTorch/TensorFlow的情况下创建图像嵌入的Python包]]></title>
+        <id>https://news.ycombinator.com/item?id=30831251</id>
+        <link href="https://news.ycombinator.com/item?id=30831251"/>
+        <updated>2022-03-28T15:07:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Python package to create image embeddings without PyTorch/TensorFlow]]></summary>
+        <author>
+            <name>minimaxir</name>
+            <uri>https://news.ycombinator.com/user?id=minimaxir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SwitchKeeper - 无聊的简单功能标志]]></title>
         <id>https://news.ycombinator.com/item?id=30831005</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>chacha21</name>
             <uri>https://news.ycombinator.com/user?id=chacha21</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一项服务来发现快速增长的初创企业、主题和应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30587734</id>
-        <link href="https://news.ycombinator.com/item?id=30587734"/>
-        <updated>2022-03-07T13:52:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a service to discover rapidly growing startups, topics and apps]]></summary>
-        <author>
-            <name>jakobgreenfeld</name>
-            <uri>https://news.ycombinator.com/user?id=jakobgreenfeld</uri>
         </author>
     </entry>
 </feed>
