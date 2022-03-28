@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T00:38:17.118Z</updated>
+    <updated>2022-03-28T02:28:49.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Go泛型的網絡庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30826368</id>
+        <link href="https://news.ycombinator.com/item?id=30826368"/>
+        <updated>2022-03-28T02:17:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Networking Library Using Go Generics]]></summary>
+        <author>
+            <name>brendoncarroll</name>
+            <uri>https://news.ycombinator.com/user?id=brendoncarroll</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為Twitter內容建立一個看板，有什麼想法？]]></title>
+        <id>https://news.ycombinator.com/item?id=30825807</id>
+        <link href="https://news.ycombinator.com/item?id=30825807"/>
+        <updated>2022-03-28T00:54:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Building a kanban board for Twitter content, thoughts?]]></summary>
+        <author>
+            <name>mariobalca</name>
+            <uri>https://news.ycombinator.com/user?id=mariobalca</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Snabl - 一個實用的嵌入式Lisp的C++版本]]></title>
         <id>https://news.ycombinator.com/item?id=30825483</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>bimbashrestha</name>
             <uri>https://news.ycombinator.com/user?id=bimbashrestha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從蘋果鑰匙串將SSH密鑰加載到代理中]]></title>
-        <id>https://news.ycombinator.com/item?id=30578713</id>
-        <link href="https://news.ycombinator.com/item?id=30578713"/>
-        <updated>2022-03-06T16:36:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Load SSH Keys into Agent from Apple Keychain]]></summary>
-        <author>
-            <name>piaverous</name>
-            <uri>https://news.ycombinator.com/user?id=piaverous</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[透視]]></title>
-        <id>https://news.ycombinator.com/item?id=30578558</id>
-        <link href="https://news.ycombinator.com/item?id=30578558"/>
-        <updated>2022-03-06T16:17:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Perspective]]></summary>
-        <author>
-            <name>stuartmscott</name>
-            <uri>https://news.ycombinator.com/user?id=stuartmscott</uri>
         </author>
     </entry>
 </feed>

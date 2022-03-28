@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 28 Mar 2022 00:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 02:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用Go泛型的网络库]]></title>
+            <link>https://news.ycombinator.com/item?id=30826368</link>
+            <guid>https://news.ycombinator.com/item?id=30826368</guid>
+            <pubDate>Mon, 28 Mar 2022 02:17:07 GMT</pubDate>
+            <description><![CDATA[Show HN: Networking Library Using Go Generics]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为Twitter内容建立一个看板，有什么想法？]]></title>
+            <link>https://news.ycombinator.com/item?id=30825807</link>
+            <guid>https://news.ycombinator.com/item?id=30825807</guid>
+            <pubDate>Mon, 28 Mar 2022 00:54:45 GMT</pubDate>
+            <description><![CDATA[Show HN: Building a kanban board for Twitter content, thoughts?]]></description>
+        </item>
         <item>
             <title><![CDATA[Snabl - 一个实用的嵌入式Lisp的C++版本]]></title>
             <link>https://news.ycombinator.com/item?id=30825483</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30577625</guid>
             <pubDate>Sun, 06 Mar 2022 13:58:47 GMT</pubDate>
             <description><![CDATA[Show HN: I made a privacy-first minimalist Backblaze]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从苹果钥匙串将SSH密钥加载到代理中]]></title>
-            <link>https://news.ycombinator.com/item?id=30578713</link>
-            <guid>https://news.ycombinator.com/item?id=30578713</guid>
-            <pubDate>Sun, 06 Mar 2022 16:36:10 GMT</pubDate>
-            <description><![CDATA[Show HN: Load SSH Keys into Agent from Apple Keychain]]></description>
-        </item>
-        <item>
-            <title><![CDATA[透视]]></title>
-            <link>https://news.ycombinator.com/item?id=30578558</link>
-            <guid>https://news.ycombinator.com/item?id=30578558</guid>
-            <pubDate>Sun, 06 Mar 2022 16:17:05 GMT</pubDate>
-            <description><![CDATA[Show HN: Perspective]]></description>
         </item>
     </channel>
 </rss>
