@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T15:57:17.612Z</updated>
+    <updated>2022-03-28T17:09:08.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个比AWS控制台更好的选择]]></title>
+        <id>https://news.ycombinator.com/item?id=30832687</id>
+        <link href="https://news.ycombinator.com/item?id=30832687"/>
+        <updated>2022-03-28T17:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Better Alternative to the AWS Console]]></summary>
+        <author>
+            <name>kavehkhorram</name>
+            <uri>https://news.ycombinator.com/user?id=kavehkhorram</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neverinstall 2.0 - 浏览器是新的操作系统]]></title>
+        <id>https://news.ycombinator.com/item?id=30832602</id>
+        <link href="https://news.ycombinator.com/item?id=30832602"/>
+        <updated>2022-03-28T16:53:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Neverinstall 2.0 - The browser is the new operating system]]></summary>
+        <author>
+            <name>igniteram</name>
+            <uri>https://news.ycombinator.com/user?id=igniteram</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ExKeyMo - 无需root即可定制安卓外置键盘布局]]></title>
         <id>https://news.ycombinator.com/item?id=30831755</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gmzi</name>
             <uri>https://news.ycombinator.com/user?id=gmzi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mdut - 用于生成Markdown URL标签的CLI工具和Python库]]></title>
-        <id>https://news.ycombinator.com/item?id=30589609</id>
-        <link href="https://news.ycombinator.com/item?id=30589609"/>
-        <updated>2022-03-07T16:19:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: mdut – CLI tool and Python library for generating Markdown URL tags]]></summary>
-        <author>
-            <name>nkantar</name>
-            <uri>https://news.ycombinator.com/user?id=nkantar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们如何使用Gatsby和Puppeteer来创建动态的Open Graph图像]]></title>
-        <id>https://news.ycombinator.com/item?id=30589390</id>
-        <link href="https://news.ycombinator.com/item?id=30589390"/>
-        <updated>2022-03-07T16:03:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: How we used Gatsby and Puppeteer to create dynamic Open Graph images]]></summary>
-        <author>
-            <name>corywatilo</name>
-            <uri>https://news.ycombinator.com/user?id=corywatilo</uri>
         </author>
     </entry>
 </feed>
