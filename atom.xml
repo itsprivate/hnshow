@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T15:14:37.081Z</updated>
+    <updated>2022-03-28T15:38:20.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Factle, Wordle but for Trivia]]></title>
+        <id>https://news.ycombinator.com/item?id=30831470</id>
+        <link href="https://news.ycombinator.com/item?id=30831470"/>
+        <updated>2022-03-28T15:23:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Factle, Wordle but for Trivia]]></summary>
+        <author>
+            <name>garrettscott</name>
+            <uri>https://news.ycombinator.com/user?id=garrettscott</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[叙事项目--促进和平的新闻产品]]></title>
+        <id>https://news.ycombinator.com/item?id=30831396</id>
+        <link href="https://news.ycombinator.com/item?id=30831396"/>
+        <updated>2022-03-28T15:18:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Narratives Project – A news product for peace]]></summary>
+        <author>
+            <name>ShaunCammack</name>
+            <uri>https://news.ycombinator.com/user?id=ShaunCammack</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在没有PyTorch/TensorFlow的情况下创建图像嵌入的Python包]]></title>
         <id>https://news.ycombinator.com/item?id=30831251</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mufeedvh</name>
             <uri>https://news.ycombinator.com/user?id=mufeedvh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[动态符号对照表]]></title>
-        <id>https://news.ycombinator.com/item?id=30588320</id>
-        <link href="https://news.ycombinator.com/item?id=30588320"/>
-        <updated>2022-03-07T14:38:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dynamic Symbols Cross-Reference]]></summary>
-        <author>
-            <name>nwellnhof</name>
-            <uri>https://news.ycombinator.com/user?id=nwellnhof</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[所有的桌面计算器都是错的，所以我不得不建立自己的]]></title>
-        <id>https://news.ycombinator.com/item?id=30588089</id>
-        <link href="https://news.ycombinator.com/item?id=30588089"/>
-        <updated>2022-03-07T14:20:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: All desktop calculators are wrong, so I had to build my own]]></summary>
-        <author>
-            <name>chacha21</name>
-            <uri>https://news.ycombinator.com/user?id=chacha21</uri>
         </author>
     </entry>
 </feed>

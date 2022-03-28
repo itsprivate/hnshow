@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 28 Mar 2022 15:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 15:38:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Factle, Wordle but for Trivia]]></title>
+            <link>https://news.ycombinator.com/item?id=30831470</link>
+            <guid>https://news.ycombinator.com/item?id=30831470</guid>
+            <pubDate>Mon, 28 Mar 2022 15:23:44 GMT</pubDate>
+            <description><![CDATA[Show HN: Factle, Wordle but for Trivia]]></description>
+        </item>
+        <item>
+            <title><![CDATA[叙事项目--促进和平的新闻产品]]></title>
+            <link>https://news.ycombinator.com/item?id=30831396</link>
+            <guid>https://news.ycombinator.com/item?id=30831396</guid>
+            <pubDate>Mon, 28 Mar 2022 15:18:26 GMT</pubDate>
+            <description><![CDATA[Show HN: Narratives Project – A news product for peace]]></description>
+        </item>
         <item>
             <title><![CDATA[在没有PyTorch/TensorFlow的情况下创建图像嵌入的Python包]]></title>
             <link>https://news.ycombinator.com/item?id=30831251</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30588882</guid>
             <pubDate>Mon, 07 Mar 2022 15:29:34 GMT</pubDate>
             <description><![CDATA[Show HN: Paydept – Shows every dependency you use that are seeking donations]]></description>
-        </item>
-        <item>
-            <title><![CDATA[动态符号对照表]]></title>
-            <link>https://news.ycombinator.com/item?id=30588320</link>
-            <guid>https://news.ycombinator.com/item?id=30588320</guid>
-            <pubDate>Mon, 07 Mar 2022 14:38:56 GMT</pubDate>
-            <description><![CDATA[Show HN: Dynamic Symbols Cross-Reference]]></description>
-        </item>
-        <item>
-            <title><![CDATA[所有的桌面计算器都是错的，所以我不得不建立自己的]]></title>
-            <link>https://news.ycombinator.com/item?id=30588089</link>
-            <guid>https://news.ycombinator.com/item?id=30588089</guid>
-            <pubDate>Mon, 07 Mar 2022 14:20:35 GMT</pubDate>
-            <description><![CDATA[Show HN: All desktop calculators are wrong, so I had to build my own]]></description>
         </item>
     </channel>
 </rss>
