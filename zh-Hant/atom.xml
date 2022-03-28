@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T02:28:49.505Z</updated>
+    <updated>2022-03-28T03:47:46.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MLbot - 用一個命令在你的雲中訓練ML模型]]></title>
+        <id>https://news.ycombinator.com/item?id=30826845</id>
+        <link href="https://news.ycombinator.com/item?id=30826845"/>
+        <updated>2022-03-28T03:30:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MLbot – Train ML models in your cloud with a single command]]></summary>
+        <author>
+            <name>subtech</name>
+            <uri>https://news.ycombinator.com/user?id=subtech</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑暗麻將（鼠標，桌面）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30826843</id>
+        <link href="https://news.ycombinator.com/item?id=30826843"/>
+        <updated>2022-03-28T03:30:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dark Mahjong (Mouse, Desktop)]]></summary>
+        <author>
+            <name>pp19dd</name>
+            <uri>https://news.ycombinator.com/user?id=pp19dd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Go泛型的網絡庫]]></title>
         <id>https://news.ycombinator.com/item?id=30826368</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>damnv</name>
             <uri>https://news.ycombinator.com/user?id=damnv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[心靈聖地、情緒跟蹤和心理測試]]></title>
-        <id>https://news.ycombinator.com/item?id=30579822</id>
-        <link href="https://news.ycombinator.com/item?id=30579822"/>
-        <updated>2022-03-06T18:34:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mind Sanctuary, mood tracking and psychological testing]]></summary>
-        <author>
-            <name>Diego-Little</name>
-            <uri>https://news.ycombinator.com/user?id=Diego-Little</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個隱私至上的極簡主義Backblaze]]></title>
-        <id>https://news.ycombinator.com/item?id=30577625</id>
-        <link href="https://news.ycombinator.com/item?id=30577625"/>
-        <updated>2022-03-06T13:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a privacy-first minimalist Backblaze]]></summary>
-        <author>
-            <name>bimbashrestha</name>
-            <uri>https://news.ycombinator.com/user?id=bimbashrestha</uri>
         </author>
     </entry>
 </feed>
