@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 28 Mar 2022 04:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 04:57:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[KevaIoC: 輕量級的Spring-like Java IoC框架]]></title>
+            <link>https://news.ycombinator.com/item?id=30827236</link>
+            <guid>https://news.ycombinator.com/item?id=30827236</guid>
+            <pubDate>Mon, 28 Mar 2022 04:46:16 GMT</pubDate>
+            <description><![CDATA[Show HN: KevaIoC: Lightweight Spring-Like Java IoC Framework]]></description>
+        </item>
         <item>
             <title><![CDATA[一個製作易於記憶的強大密碼的工具]]></title>
             <link>https://news.ycombinator.com/item?id=30827125</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30580857</guid>
             <pubDate>Sun, 06 Mar 2022 20:19:25 GMT</pubDate>
             <description><![CDATA[Show HN: Rebluff Poker, no limit hold'em for loose-aggressive players]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lemonadejs v2 - JavaScript微型反應式庫 (~6Kbytes)]]></title>
-            <link>https://news.ycombinator.com/item?id=30580278</link>
-            <guid>https://news.ycombinator.com/item?id=30580278</guid>
-            <pubDate>Sun, 06 Mar 2022 19:21:31 GMT</pubDate>
-            <description><![CDATA[Show HN: Lemonadejs v2 – A JavaScript micro reactive library (~6Kbytes)]]></description>
         </item>
     </channel>
 </rss>
