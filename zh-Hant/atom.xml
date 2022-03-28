@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T04:57:59.017Z</updated>
+    <updated>2022-03-28T07:51:36.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[提取視頻中的ppt並導出pdf]]></title>
+        <id>https://news.ycombinator.com/item?id=30828160</id>
+        <link href="https://news.ycombinator.com/item?id=30828160"/>
+        <updated>2022-03-28T07:45:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Extract the ppt in the video and export pdf]]></summary>
+        <author>
+            <name>brid_wu</name>
+            <uri>https://news.ycombinator.com/user?id=brid_wu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KevaIoC: 輕量級的Spring-like Java IoC框架]]></title>
         <id>https://news.ycombinator.com/item?id=30827236</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>javierluraschi</name>
             <uri>https://news.ycombinator.com/user?id=javierluraschi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rebluff撲克，為寬鬆激進的玩家提供無限制的撲克。]]></title>
-        <id>https://news.ycombinator.com/item?id=30580857</id>
-        <link href="https://news.ycombinator.com/item?id=30580857"/>
-        <updated>2022-03-06T20:19:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rebluff Poker, no limit hold'em for loose-aggressive players]]></summary>
-        <author>
-            <name>uberf1sh</name>
-            <uri>https://news.ycombinator.com/user?id=uberf1sh</uri>
         </author>
     </entry>
 </feed>
