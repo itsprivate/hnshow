@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T08:56:46.434Z</updated>
+    <updated>2022-03-28T10:15:39.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Jupyter筆記本中從bloxs建立儀表盤]]></title>
+        <id>https://news.ycombinator.com/item?id=30828962</id>
+        <link href="https://news.ycombinator.com/item?id=30828962"/>
+        <updated>2022-03-28T10:07:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build dashboards in Jupyter Notebook from bloxs]]></summary>
+        <author>
+            <name>pplonski86</name>
+            <uri>https://news.ycombinator.com/user?id=pplonski86</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wordga - 與其他HNers的遊戲，創造最高得分的單詞。]]></title>
         <id>https://news.ycombinator.com/item?id=30828578</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>fallat</name>
             <uri>https://news.ycombinator.com/user?id=fallat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在線約會的聊天建議應用]]></title>
-        <id>https://news.ycombinator.com/item?id=30581711</id>
-        <link href="https://news.ycombinator.com/item?id=30581711"/>
-        <updated>2022-03-06T21:59:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Chat Suggestion App for Online Dating]]></summary>
-        <author>
-            <name>massanishi</name>
-            <uri>https://news.ycombinator.com/user?id=massanishi</uri>
         </author>
     </entry>
 </feed>
