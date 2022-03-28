@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T13:52:32.788Z</updated>
+    <updated>2022-03-28T14:16:50.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Promtail-Loki-Grafana堆栈的简易安装]]></title>
+        <id>https://news.ycombinator.com/item?id=30830635</id>
+        <link href="https://news.ycombinator.com/item?id=30830635"/>
+        <updated>2022-03-28T14:08:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Easy installation of Promtail-Loki-Grafana stack]]></summary>
+        <author>
+            <name>AishwaryaVenkat</name>
+            <uri>https://news.ycombinator.com/user?id=AishwaryaVenkat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何用Pipy实现一个简单的路由代理]]></title>
         <id>https://news.ycombinator.com/item?id=30830420</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>d4v1dc0l3s</name>
             <uri>https://news.ycombinator.com/user?id=d4v1dc0l3s</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你需要用5个世界顶级头条新闻来开始你的一天]]></title>
-        <id>https://news.ycombinator.com/item?id=30585080</id>
-        <link href="https://news.ycombinator.com/item?id=30585080"/>
-        <updated>2022-03-07T07:25:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Just 5 Top headlines of the world you need to start your day with]]></summary>
-        <author>
-            <name>baransel</name>
-            <uri>https://news.ycombinator.com/user?id=baransel</uri>
         </author>
     </entry>
 </feed>
