@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T11:51:25.016Z</updated>
+    <updated>2022-03-28T12:19:24.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[現在工作廣告，英國工作搜索引擎每小時更新一次]]></title>
+        <id>https://news.ycombinator.com/item?id=30829632</id>
+        <link href="https://news.ycombinator.com/item?id=30829632"/>
+        <updated>2022-03-28T12:14:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Job Ads Now, the UK jobs search engine updating every hour]]></summary>
+        <author>
+            <name>Oras</name>
+            <uri>https://news.ycombinator.com/user?id=Oras</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文本模式 - 在Content-Type=text/plain中查看網頁]]></title>
+        <id>https://news.ycombinator.com/item?id=30829568</id>
+        <link href="https://news.ycombinator.com/item?id=30829568"/>
+        <updated>2022-03-28T12:03:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Text Mode – View the web in Content-Type=text/plain]]></summary>
+        <author>
+            <name>adamgordonbell</name>
+            <uri>https://news.ycombinator.com/user?id=adamgordonbell</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[互聯網故事的故事--一個成功失敗的互聯網實驗]]></title>
+        <id>https://news.ycombinator.com/item?id=30829534</id>
+        <link href="https://news.ycombinator.com/item?id=30829534"/>
+        <updated>2022-03-28T11:58:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The internet story tale – a successfully failed internet experiment]]></summary>
+        <author>
+            <name>jollyrosso</name>
+            <uri>https://news.ycombinator.com/user?id=jollyrosso</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[讓tailwind代碼可讀，自動拆分長的classNames]]></title>
+        <id>https://news.ycombinator.com/item?id=30829463</id>
+        <link href="https://news.ycombinator.com/item?id=30829463"/>
+        <updated>2022-03-28T11:47:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Make tailwind code readable automatically splitting long classNames]]></summary>
+        <author>
+            <name>xmorse</name>
+            <uri>https://news.ycombinator.com/user?id=xmorse</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reddit上的 "建電腦 "銷售的一個簡單探索器]]></title>
         <id>https://news.ycombinator.com/item?id=30829421</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>b4rtaz__</name>
             <uri>https://news.ycombinator.com/user?id=b4rtaz__</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tradle - 通過出口猜測國家的情況]]></title>
-        <id>https://news.ycombinator.com/item?id=30584540</id>
-        <link href="https://news.ycombinator.com/item?id=30584540"/>
-        <updated>2022-03-07T05:38:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tradle – Guess the Country by Their Exports]]></summary>
-        <author>
-            <name>simoes</name>
-            <uri>https://news.ycombinator.com/user?id=simoes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jamn.io（社交媒體結構為加權定向圖）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30584434</id>
-        <link href="https://news.ycombinator.com/item?id=30584434"/>
-        <updated>2022-03-07T05:11:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Jamn.io (social media structured as a weighted directed graph)]]></summary>
-        <author>
-            <name>hzwei</name>
-            <uri>https://news.ycombinator.com/user?id=hzwei</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[受藝術類Twitter機器人的啟發，我為NFTs創建了RightClickSaveBot。]]></title>
-        <id>https://news.ycombinator.com/item?id=30583981</id>
-        <link href="https://news.ycombinator.com/item?id=30583981"/>
-        <updated>2022-03-07T03:38:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Inspired by art Twitter bots, I created RightClickSaveBot for NFTs]]></summary>
-        <author>
-            <name>wTheRockb</name>
-            <uri>https://news.ycombinator.com/user?id=wTheRockb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個簡單的網頁遊戲，叫做 "生存乒乓"。]]></title>
-        <id>https://news.ycombinator.com/item?id=30582390</id>
-        <link href="https://news.ycombinator.com/item?id=30582390"/>
-        <updated>2022-03-06T23:38:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a simple web game called Survival Pong]]></summary>
-        <author>
-            <name>nassimsoftware</name>
-            <uri>https://news.ycombinator.com/user?id=nassimsoftware</uri>
         </author>
     </entry>
 </feed>
