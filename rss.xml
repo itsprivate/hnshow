@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 28 Mar 2022 17:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 17:53:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们为YC创业公司目录建立了一个GraphQL层]]></title>
+            <link>https://news.ycombinator.com/item?id=30833352</link>
+            <guid>https://news.ycombinator.com/item?id=30833352</guid>
+            <pubDate>Mon, 28 Mar 2022 17:48:36 GMT</pubDate>
+            <description><![CDATA[Show HN: We Built a GraphQL Layer for the YC Startup Directory]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Gasnow.is - 以太坊气体监测器与警报，我的第一个Web3迷你项目]]></title>
+            <link>https://news.ycombinator.com/item?id=30833329</link>
+            <guid>https://news.ycombinator.com/item?id=30833329</guid>
+            <pubDate>Mon, 28 Mar 2022 17:47:29 GMT</pubDate>
+            <description><![CDATA[Show HN: Gasnow.is – Ethereum gas monitor with alert, my first Web3 mini project]]></description>
+        </item>
+        <item>
+            <title><![CDATA[TypeScript类型中的CSS解析器]]></title>
+            <link>https://news.ycombinator.com/item?id=30833199</link>
+            <guid>https://news.ycombinator.com/item?id=30833199</guid>
+            <pubDate>Mon, 28 Mar 2022 17:37:12 GMT</pubDate>
+            <description><![CDATA[Show HN: CSS Parser in TypeScript Types]]></description>
+        </item>
         <item>
             <title><![CDATA[一个比AWS控制台更好的选择]]></title>
             <link>https://news.ycombinator.com/item?id=30832687</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30591511</guid>
             <pubDate>Mon, 07 Mar 2022 18:32:23 GMT</pubDate>
             <description><![CDATA[Show HN: I made a minimalist writing tool]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用GitHub repo轻松填写表格]]></title>
-            <link>https://news.ycombinator.com/item?id=30590248</link>
-            <guid>https://news.ycombinator.com/item?id=30590248</guid>
-            <pubDate>Mon, 07 Mar 2022 17:00:47 GMT</pubDate>
-            <description><![CDATA[Show HN: Fill forms easily using GitHub repo]]></description>
-        </item>
-        <item>
-            <title><![CDATA[浏览器扩展，显示保存的文章和图片作为你的社交反馈的一部分]]></title>
-            <link>https://news.ycombinator.com/item?id=30589960</link>
-            <guid>https://news.ycombinator.com/item?id=30589960</guid>
-            <pubDate>Mon, 07 Mar 2022 16:40:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Chrome extension that show saves articles,img as part of ur social feed]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个最小的博客平台，带有添加/删除帖子和ISR功能。]]></title>
-            <link>https://news.ycombinator.com/item?id=30589790</link>
-            <guid>https://news.ycombinator.com/item?id=30589790</guid>
-            <pubDate>Mon, 07 Mar 2022 16:30:32 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a minimal blog platform with add/delete post and ISR]]></description>
         </item>
     </channel>
 </rss>

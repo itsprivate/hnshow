@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T17:09:08.605Z</updated>
+    <updated>2022-03-28T17:53:04.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们为YC创业公司目录建立了一个GraphQL层]]></title>
+        <id>https://news.ycombinator.com/item?id=30833352</id>
+        <link href="https://news.ycombinator.com/item?id=30833352"/>
+        <updated>2022-03-28T17:48:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We Built a GraphQL Layer for the YC Startup Directory]]></summary>
+        <author>
+            <name>zaiste</name>
+            <uri>https://news.ycombinator.com/user?id=zaiste</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gasnow.is - 以太坊气体监测器与警报，我的第一个Web3迷你项目]]></title>
+        <id>https://news.ycombinator.com/item?id=30833329</id>
+        <link href="https://news.ycombinator.com/item?id=30833329"/>
+        <updated>2022-03-28T17:47:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Gasnow.is – Ethereum gas monitor with alert, my first Web3 mini project]]></summary>
+        <author>
+            <name>ttchu</name>
+            <uri>https://news.ycombinator.com/user?id=ttchu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript类型中的CSS解析器]]></title>
+        <id>https://news.ycombinator.com/item?id=30833199</id>
+        <link href="https://news.ycombinator.com/item?id=30833199"/>
+        <updated>2022-03-28T17:37:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: CSS Parser in TypeScript Types]]></summary>
+        <author>
+            <name>speajus</name>
+            <uri>https://news.ycombinator.com/user?id=speajus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个比AWS控制台更好的选择]]></title>
         <id>https://news.ycombinator.com/item?id=30832687</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>touchmarine</name>
             <uri>https://news.ycombinator.com/user?id=touchmarine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用GitHub repo轻松填写表格]]></title>
-        <id>https://news.ycombinator.com/item?id=30590248</id>
-        <link href="https://news.ycombinator.com/item?id=30590248"/>
-        <updated>2022-03-07T17:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fill forms easily using GitHub repo]]></summary>
-        <author>
-            <name>pdrojack</name>
-            <uri>https://news.ycombinator.com/user?id=pdrojack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浏览器扩展，显示保存的文章和图片作为你的社交反馈的一部分]]></title>
-        <id>https://news.ycombinator.com/item?id=30589960</id>
-        <link href="https://news.ycombinator.com/item?id=30589960"/>
-        <updated>2022-03-07T16:40:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Chrome extension that show saves articles,img as part of ur social feed]]></summary>
-        <author>
-            <name>Ketan-fullstack</name>
-            <uri>https://news.ycombinator.com/user?id=Ketan-fullstack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个最小的博客平台，带有添加/删除帖子和ISR功能。]]></title>
-        <id>https://news.ycombinator.com/item?id=30589790</id>
-        <link href="https://news.ycombinator.com/item?id=30589790"/>
-        <updated>2022-03-07T16:30:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a minimal blog platform with add/delete post and ISR]]></summary>
-        <author>
-            <name>gmzi</name>
-            <uri>https://news.ycombinator.com/user?id=gmzi</uri>
         </author>
     </entry>
 </feed>
