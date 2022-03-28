@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T03:47:46.305Z</updated>
+    <updated>2022-03-28T04:42:15.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个制作易于记忆的强大密码的工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30827125</id>
+        <link href="https://news.ycombinator.com/item?id=30827125"/>
+        <updated>2022-03-28T04:21:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A tool to make strong passwords that are easy to remember]]></summary>
+        <author>
+            <name>ideogirl</name>
+            <uri>https://news.ycombinator.com/user?id=ideogirl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MLbot - 用一个命令在你的云中训练ML模型]]></title>
         <id>https://news.ycombinator.com/item?id=30826845</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hodware</name>
             <uri>https://news.ycombinator.com/user?id=hodware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我已经不再关心网页上的 "受公司信任 "一行了。]]></title>
-        <id>https://news.ycombinator.com/item?id=30580194</id>
-        <link href="https://news.ycombinator.com/item?id=30580194"/>
-        <updated>2022-03-06T19:11:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I've stopped giving a fck to 'Trusted By Companies' line on web pages]]></summary>
-        <author>
-            <name>damnv</name>
-            <uri>https://news.ycombinator.com/user?id=damnv</uri>
         </author>
     </entry>
 </feed>

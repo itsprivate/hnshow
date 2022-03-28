@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 28 Mar 2022 03:47:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 04:42:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個製作易於記憶的強大密碼的工具]]></title>
+            <link>https://news.ycombinator.com/item?id=30827125</link>
+            <guid>https://news.ycombinator.com/item?id=30827125</guid>
+            <pubDate>Mon, 28 Mar 2022 04:21:51 GMT</pubDate>
+            <description><![CDATA[Show HN: A tool to make strong passwords that are easy to remember]]></description>
+        </item>
         <item>
             <title><![CDATA[MLbot - 用一個命令在你的雲中訓練ML模型]]></title>
             <link>https://news.ycombinator.com/item?id=30826845</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30580278</guid>
             <pubDate>Sun, 06 Mar 2022 19:21:31 GMT</pubDate>
             <description><![CDATA[Show HN: Lemonadejs v2 – A JavaScript micro reactive library (~6Kbytes)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我已經不再關心網頁上的 "受公司信任 "一行了。]]></title>
-            <link>https://news.ycombinator.com/item?id=30580194</link>
-            <guid>https://news.ycombinator.com/item?id=30580194</guid>
-            <pubDate>Sun, 06 Mar 2022 19:11:27 GMT</pubDate>
-            <description><![CDATA[Show HN: I've stopped giving a fck to 'Trusted By Companies' line on web pages]]></description>
         </item>
     </channel>
 </rss>
