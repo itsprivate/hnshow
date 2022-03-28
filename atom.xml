@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T22:51:57.596Z</updated>
+    <updated>2022-03-28T23:32:48.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[旧金山、洛杉矶和西雅图的最新电动车租赁清单]]></title>
+        <id>https://news.ycombinator.com/item?id=30836801</id>
+        <link href="https://news.ycombinator.com/item?id=30836801"/>
+        <updated>2022-03-28T23:20:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An updating EV Lease List for San Francisco, Los Angeles and Seattle]]></summary>
+        <author>
+            <name>nikodunk</name>
+            <uri>https://news.ycombinator.com/user?id=nikodunk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[医学博士]]></title>
+        <id>https://news.ycombinator.com/item?id=30836753</id>
+        <link href="https://news.ycombinator.com/item?id=30836753"/>
+        <updated>2022-03-28T23:13:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: DocsQL]]></summary>
+        <author>
+            <name>peterbe</name>
+            <uri>https://news.ycombinator.com/user?id=peterbe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nat.app，知道你与谁失去联系的个人CRM]]></title>
         <id>https://news.ycombinator.com/item?id=30836418</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>msaltz</name>
             <uri>https://news.ycombinator.com/user?id=msaltz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从Jupyter中标记图像类、边界框和掩码]]></title>
-        <id>https://news.ycombinator.com/item?id=30594267</id>
-        <link href="https://news.ycombinator.com/item?id=30594267"/>
-        <updated>2022-03-07T22:34:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Label image classes, bounding boxes, and masks from Jupyter]]></summary>
-        <author>
-            <name>faustomorales</name>
-            <uri>https://news.ycombinator.com/user?id=faustomorales</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一个扩展来解决我刷新网页的瘾头]]></title>
-        <id>https://news.ycombinator.com/item?id=30593836</id>
-        <link href="https://news.ycombinator.com/item?id=30593836"/>
-        <updated>2022-03-07T21:58:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built an extension to solve my addiction to refreshing webpages]]></summary>
-        <author>
-            <name>neriymus</name>
-            <uri>https://news.ycombinator.com/user?id=neriymus</uri>
         </author>
     </entry>
 </feed>

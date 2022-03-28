@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 28 Mar 2022 22:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 23:32:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[舊金山、洛杉磯和西雅圖的最新電動車租賃清單]]></title>
+            <link>https://news.ycombinator.com/item?id=30836801</link>
+            <guid>https://news.ycombinator.com/item?id=30836801</guid>
+            <pubDate>Mon, 28 Mar 2022 23:20:32 GMT</pubDate>
+            <description><![CDATA[Show HN: An updating EV Lease List for San Francisco, Los Angeles and Seattle]]></description>
+        </item>
+        <item>
+            <title><![CDATA[醫學博士]]></title>
+            <link>https://news.ycombinator.com/item?id=30836753</link>
+            <guid>https://news.ycombinator.com/item?id=30836753</guid>
+            <pubDate>Mon, 28 Mar 2022 23:13:49 GMT</pubDate>
+            <description><![CDATA[Show HN: DocsQL]]></description>
+        </item>
         <item>
             <title><![CDATA[Nat.app，知道你與誰失去聯繫的個人CRM]]></title>
             <link>https://news.ycombinator.com/item?id=30836418</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30594809</guid>
             <pubDate>Mon, 07 Mar 2022 23:42:13 GMT</pubDate>
             <description><![CDATA[Show HN: Event loop library in Zig using io_uring]]></description>
-        </item>
-        <item>
-            <title><![CDATA[從Jupyter中標記圖像類、邊界框和掩碼]]></title>
-            <link>https://news.ycombinator.com/item?id=30594267</link>
-            <guid>https://news.ycombinator.com/item?id=30594267</guid>
-            <pubDate>Mon, 07 Mar 2022 22:34:37 GMT</pubDate>
-            <description><![CDATA[Show HN: Label image classes, bounding boxes, and masks from Jupyter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我建立了一個擴展來解決我刷新網頁的癮頭]]></title>
-            <link>https://news.ycombinator.com/item?id=30593836</link>
-            <guid>https://news.ycombinator.com/item?id=30593836</guid>
-            <pubDate>Mon, 07 Mar 2022 21:58:23 GMT</pubDate>
-            <description><![CDATA[Show HN: I built an extension to solve my addiction to refreshing webpages]]></description>
         </item>
     </channel>
 </rss>
