@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T12:19:23.993Z</updated>
+    <updated>2022-03-28T12:58:56.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个为游牧民族寻找摩托车租赁的应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30829686</id>
+        <link href="https://news.ycombinator.com/item?id=30829686"/>
+        <updated>2022-03-28T12:20:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An app for nomads to find motorbike rentals]]></summary>
+        <author>
+            <name>NithurM</name>
+            <uri>https://news.ycombinator.com/user?id=NithurM</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[现在工作广告，英国工作搜索引擎每小时更新一次]]></title>
         <id>https://news.ycombinator.com/item?id=30829632</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mycomputerlags</name>
             <uri>https://news.ycombinator.com/user?id=mycomputerlags</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LetNFTin - 为NFT所有者提供的独家内容]]></title>
-        <id>https://news.ycombinator.com/item?id=30585774</id>
-        <link href="https://news.ycombinator.com/item?id=30585774"/>
-        <updated>2022-03-07T09:25:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: LetNFTin – Exclusive Contents for NFT Owners]]></summary>
-        <author>
-            <name>b4rtaz__</name>
-            <uri>https://news.ycombinator.com/user?id=b4rtaz__</uri>
         </author>
     </entry>
 </feed>
