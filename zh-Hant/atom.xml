@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-27T23:51:32.138Z</updated>
+    <updated>2022-03-28T00:38:17.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Snabl - 一個實用的嵌入式Lisp的C++版本]]></title>
+        <id>https://news.ycombinator.com/item?id=30825483</id>
+        <link href="https://news.ycombinator.com/item?id=30825483"/>
+        <updated>2022-03-28T00:05:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Snabl – a practical embedded Lisp in C++]]></summary>
+        <author>
+            <name>codr7</name>
+            <uri>https://news.ycombinator.com/user?id=codr7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為Facit C1-13機械計算器設計的正在進行中的模擬器]]></title>
         <id>https://news.ycombinator.com/item?id=30825306</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>stuartmscott</name>
             <uri>https://news.ycombinator.com/user?id=stuartmscott</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我用Ionic和React做了一個減肥日記]]></title>
-        <id>https://news.ycombinator.com/item?id=30578481</id>
-        <link href="https://news.ycombinator.com/item?id=30578481"/>
-        <updated>2022-03-06T16:08:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a diet diary using Ionic and React]]></summary>
-        <author>
-            <name>RupertWiser</name>
-            <uri>https://news.ycombinator.com/user?id=RupertWiser</uri>
         </author>
     </entry>
 </feed>
