@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 29 Mar 2022 00:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 02:29:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[ApiLogicServer - 从数据库中创建应用程序和API]]></title>
+            <link>https://news.ycombinator.com/item?id=30837381</link>
+            <guid>https://news.ycombinator.com/item?id=30837381</guid>
+            <pubDate>Tue, 29 Mar 2022 00:45:15 GMT</pubDate>
+            <description><![CDATA[Show HN: ApiLogicServer – Create apps and APIs from a database]]></description>
+        </item>
         <item>
             <title><![CDATA[Snabl - 一个实用的嵌入式Lisp的C++版本]]></title>
             <link>https://news.ycombinator.com/item?id=30837237</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30595459</guid>
             <pubDate>Tue, 08 Mar 2022 01:27:58 GMT</pubDate>
             <description><![CDATA[Show HN: Octordle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tygo - 从Go代码中生成TypeScript类型]]></title>
-            <link>https://news.ycombinator.com/item?id=30595325</link>
-            <guid>https://news.ycombinator.com/item?id=30595325</guid>
-            <pubDate>Tue, 08 Mar 2022 01:05:11 GMT</pubDate>
-            <description><![CDATA[Show HN: Tygo – Generating TypeScript typings from Go code]]></description>
         </item>
     </channel>
 </rss>

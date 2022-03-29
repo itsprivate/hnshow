@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-29T00:46:16.075Z</updated>
+    <updated>2022-03-29T02:29:18.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ApiLogicServer - 从数据库中创建应用程序和API]]></title>
+        <id>https://news.ycombinator.com/item?id=30837381</id>
+        <link href="https://news.ycombinator.com/item?id=30837381"/>
+        <updated>2022-03-29T00:45:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ApiLogicServer – Create apps and APIs from a database]]></summary>
+        <author>
+            <name>maxtardiveau2</name>
+            <uri>https://news.ycombinator.com/user?id=maxtardiveau2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Snabl - 一个实用的嵌入式Lisp的C++版本]]></title>
         <id>https://news.ycombinator.com/item?id=30837237</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>i13e</name>
             <uri>https://news.ycombinator.com/user?id=i13e</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tygo - 从Go代码中生成TypeScript类型]]></title>
-        <id>https://news.ycombinator.com/item?id=30595325</id>
-        <link href="https://news.ycombinator.com/item?id=30595325"/>
-        <updated>2022-03-08T01:05:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tygo – Generating TypeScript typings from Go code]]></summary>
-        <author>
-            <name>protoduction</name>
-            <uri>https://news.ycombinator.com/user?id=protoduction</uri>
         </author>
     </entry>
 </feed>
