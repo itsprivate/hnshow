@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-29T13:00:11.943Z</updated>
+    <updated>2022-03-29T13:25:12.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HelloTeams - SaaS支出/使用分析]]></title>
+        <id>https://news.ycombinator.com/item?id=30842074</id>
+        <link href="https://news.ycombinator.com/item?id=30842074"/>
+        <updated>2022-03-29T13:10:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: HelloTeams – SaaS Spend/Usage Analysis]]></summary>
+        <author>
+            <name>Dave_Paul</name>
+            <uri>https://news.ycombinator.com/user?id=Dave_Paul</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初創企業的員工推薦計劃]]></title>
         <id>https://news.ycombinator.com/item?id=30841788</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ZYinMD</name>
             <uri>https://news.ycombinator.com/user?id=ZYinMD</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML簡單發佈（HSP）--整潔的網絡出版物]]></title>
-        <id>https://news.ycombinator.com/item?id=30598744</id>
-        <link href="https://news.ycombinator.com/item?id=30598744"/>
-        <updated>2022-03-08T11:24:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: HTML Simple Publishing (HSP) – Neat Web Publications]]></summary>
-        <author>
-            <name>DomenicoMazza</name>
-            <uri>https://news.ycombinator.com/user?id=DomenicoMazza</uri>
         </author>
     </entry>
 </feed>
