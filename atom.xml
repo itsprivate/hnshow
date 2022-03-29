@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-29T18:15:37.654Z</updated>
+    <updated>2022-03-29T18:39:56.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在同一地点搜索域名和用户名]]></title>
+        <id>https://news.ycombinator.com/item?id=30846428</id>
+        <link href="https://news.ycombinator.com/item?id=30846428"/>
+        <updated>2022-03-29T18:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Search Domain and Username in the same place]]></summary>
+        <author>
+            <name>rajasimon</name>
+            <uri>https://news.ycombinator.com/user?id=rajasimon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SAML SSO集成的开源测试工具（mocksaml.com）。]]></title>
         <id>https://news.ycombinator.com/item?id=30846020</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>guidum80</name>
             <uri>https://news.ycombinator.com/user?id=guidum80</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从答案和数字中推导出正确方程式的数学游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=30603317</id>
-        <link href="https://news.ycombinator.com/item?id=30603317"/>
-        <updated>2022-03-08T18:04:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Math game where you derive correct equation from answer and numbers]]></summary>
-        <author>
-            <name>rosariom</name>
-            <uri>https://news.ycombinator.com/user?id=rosariom</uri>
         </author>
     </entry>
 </feed>
