@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-29T08:39:13.486Z</updated>
+    <updated>2022-03-29T09:13:40.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[遞歸Shell格式變量替換模板的節點腳本]]></title>
+        <id>https://news.ycombinator.com/item?id=30840322</id>
+        <link href="https://news.ycombinator.com/item?id=30840322"/>
+        <updated>2022-03-29T08:56:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Node script for recursive shell format variable replace in templates]]></summary>
+        <author>
+            <name>gbro3n</name>
+            <uri>https://news.ycombinator.com/user?id=gbro3n</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用WebUSB和HackRF打開特斯拉充電端口]]></title>
         <id>https://news.ycombinator.com/item?id=30840101</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>martyalain</name>
             <uri>https://news.ycombinator.com/user?id=martyalain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代碼掃描器 - 一個用於掃描和創建代碼的FOSS Android應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30596286</id>
-        <link href="https://news.ycombinator.com/item?id=30596286"/>
-        <updated>2022-03-08T04:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Code Scanner – a FOSS Android app for scanning and creating codes]]></summary>
-        <author>
-            <name>czlucius</name>
-            <uri>https://news.ycombinator.com/user?id=czlucius</uri>
         </author>
     </entry>
 </feed>
