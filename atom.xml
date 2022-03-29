@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-29T10:43:13.817Z</updated>
+    <updated>2022-03-29T11:07:00.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[条形图制作]]></title>
+        <id>https://news.ycombinator.com/item?id=30840975</id>
+        <link href="https://news.ycombinator.com/item?id=30840975"/>
+        <updated>2022-03-29T10:52:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bar Graph Maker]]></summary>
+        <author>
+            <name>atharvtathe</name>
+            <uri>https://news.ycombinator.com/user?id=atharvtathe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生成一个scrum/agile/ackathon团队名称]]></title>
         <id>https://news.ycombinator.com/item?id=30840881</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sebastianvoelkl</name>
             <uri>https://news.ycombinator.com/user?id=sebastianvoelkl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mrrle - 尝试猜测公司的MRRs]]></title>
-        <id>https://news.ycombinator.com/item?id=30597155</id>
-        <link href="https://news.ycombinator.com/item?id=30597155"/>
-        <updated>2022-03-08T06:53:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mrrle – Try to Guess Company MRRs]]></summary>
-        <author>
-            <name>3dwafflee</name>
-            <uri>https://news.ycombinator.com/user?id=3dwafflee</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 29 Mar 2022 10:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 11:07:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[條形圖製作]]></title>
+            <link>https://news.ycombinator.com/item?id=30840975</link>
+            <guid>https://news.ycombinator.com/item?id=30840975</guid>
+            <pubDate>Tue, 29 Mar 2022 10:52:23 GMT</pubDate>
+            <description><![CDATA[Show HN: Bar Graph Maker]]></description>
+        </item>
         <item>
             <title><![CDATA[生成一個scrum/agile/ackathon團隊名稱]]></title>
             <link>https://news.ycombinator.com/item?id=30840881</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30597784</guid>
             <pubDate>Tue, 08 Mar 2022 08:26:04 GMT</pubDate>
             <description><![CDATA[Show HN: I 3D printed a Moai tissue dispenser]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mrrle - 嘗試猜測公司的MRRs]]></title>
-            <link>https://news.ycombinator.com/item?id=30597155</link>
-            <guid>https://news.ycombinator.com/item?id=30597155</guid>
-            <pubDate>Tue, 08 Mar 2022 06:53:26 GMT</pubDate>
-            <description><![CDATA[Show HN: Mrrle – Try to Guess Company MRRs]]></description>
         </item>
     </channel>
 </rss>
