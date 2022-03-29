@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-29T17:38:57.195Z</updated>
+    <updated>2022-03-29T18:15:37.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SAML SSO集成的開源測試工具（mocksaml.com）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30846020</id>
+        <link href="https://news.ycombinator.com/item?id=30846020"/>
+        <updated>2022-03-29T17:49:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-source testing tool for SAML SSO integrations (mocksaml.com)]]></summary>
+        <author>
+            <name>deepakprab</name>
+            <uri>https://news.ycombinator.com/user?id=deepakprab</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個有數據支持的測驗來確定你應該住在哪個城市]]></title>
         <id>https://news.ycombinator.com/item?id=30845367</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rosariom</name>
             <uri>https://news.ycombinator.com/user?id=rosariom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從你的瀏覽器中探索博爾赫斯的巴別圖書館]]></title>
-        <id>https://news.ycombinator.com/item?id=30602456</id>
-        <link href="https://news.ycombinator.com/item?id=30602456"/>
-        <updated>2022-03-08T17:13:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Explore Borges' Library of Babel from your browser]]></summary>
-        <author>
-            <name>tdjsnelling</name>
-            <uri>https://news.ycombinator.com/user?id=tdjsnelling</uri>
         </author>
     </entry>
 </feed>

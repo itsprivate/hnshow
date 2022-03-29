@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 29 Mar 2022 17:38:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 18:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[SAML SSO集成的開源測試工具（mocksaml.com）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30846020</link>
+            <guid>https://news.ycombinator.com/item?id=30846020</guid>
+            <pubDate>Tue, 29 Mar 2022 17:49:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Open-source testing tool for SAML SSO integrations (mocksaml.com)]]></description>
+        </item>
         <item>
             <title><![CDATA[一個有數據支持的測驗來確定你應該住在哪個城市]]></title>
             <link>https://news.ycombinator.com/item?id=30845367</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30603317</guid>
             <pubDate>Tue, 08 Mar 2022 18:04:49 GMT</pubDate>
             <description><![CDATA[Show HN: Math game where you derive correct equation from answer and numbers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[從你的瀏覽器中探索博爾赫斯的巴別圖書館]]></title>
-            <link>https://news.ycombinator.com/item?id=30602456</link>
-            <guid>https://news.ycombinator.com/item?id=30602456</guid>
-            <pubDate>Tue, 08 Mar 2022 17:13:47 GMT</pubDate>
-            <description><![CDATA[Show HN: Explore Borges' Library of Babel from your browser]]></description>
         </item>
     </channel>
 </rss>
