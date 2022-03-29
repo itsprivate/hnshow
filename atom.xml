@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-29T22:51:46.927Z</updated>
+    <updated>2022-03-29T23:12:51.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Moodflix - 你的心情，我们的建议]]></title>
+        <id>https://news.ycombinator.com/item?id=30849404</id>
+        <link href="https://news.ycombinator.com/item?id=30849404"/>
+        <updated>2022-03-29T22:58:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Moodflix – Your mood, our suggestions]]></summary>
+        <author>
+            <name>th3wall</name>
+            <uri>https://news.ycombinator.com/user?id=th3wall</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Snabl - 一个实用的嵌入式Lisp的C++版本]]></title>
         <id>https://news.ycombinator.com/item?id=30849273</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aaronlevin</name>
             <uri>https://news.ycombinator.com/user?id=aaronlevin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在这一天猜测一个词]]></title>
-        <id>https://news.ycombinator.com/item?id=30608432</id>
-        <link href="https://news.ycombinator.com/item?id=30608432"/>
-        <updated>2022-03-08T22:53:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Guess a Word on This Day]]></summary>
-        <author>
-            <name>ihndan</name>
-            <uri>https://news.ycombinator.com/user?id=ihndan</uri>
         </author>
     </entry>
 </feed>
