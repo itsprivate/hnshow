@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-29T16:49:59.861Z</updated>
+    <updated>2022-03-29T17:38:57.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個有數據支持的測驗來確定你應該住在哪個城市]]></title>
+        <id>https://news.ycombinator.com/item?id=30845367</id>
+        <link href="https://news.ycombinator.com/item?id=30845367"/>
+        <updated>2022-03-29T17:06:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A data-backed quiz to identify what city you should live in]]></summary>
+        <author>
+            <name>danwaters</name>
+            <uri>https://news.ycombinator.com/user?id=danwaters</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rust庫中PostgREST的力量]]></title>
         <id>https://news.ycombinator.com/item?id=30844838</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tdjsnelling</name>
             <uri>https://news.ycombinator.com/user?id=tdjsnelling</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上傳和分享互動式火焰圖]]></title>
-        <id>https://news.ycombinator.com/item?id=30601813</id>
-        <link href="https://news.ycombinator.com/item?id=30601813"/>
-        <updated>2022-03-08T16:30:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Upload and Share Interactive Flamegraphs]]></summary>
-        <author>
-            <name>petethepig</name>
-            <uri>https://news.ycombinator.com/user?id=petethepig</uri>
         </author>
     </entry>
 </feed>
