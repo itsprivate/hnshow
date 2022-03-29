@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-29T02:29:18.884Z</updated>
+    <updated>2022-03-29T08:39:13.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用WebUSB和HackRF打開特斯拉充電端口]]></title>
+        <id>https://news.ycombinator.com/item?id=30840101</id>
+        <link href="https://news.ycombinator.com/item?id=30840101"/>
+        <updated>2022-03-29T08:19:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Opening the Tesla charging port with WebUSB and HackRF]]></summary>
+        <author>
+            <name>rgerganov</name>
+            <uri>https://news.ycombinator.com/user?id=rgerganov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ApiLogicServer - 從數據庫中創建應用程序和API]]></title>
         <id>https://news.ycombinator.com/item?id=30837381</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>czlucius</name>
             <uri>https://news.ycombinator.com/user?id=czlucius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[八達嶺]]></title>
-        <id>https://news.ycombinator.com/item?id=30595459</id>
-        <link href="https://news.ycombinator.com/item?id=30595459"/>
-        <updated>2022-03-08T01:27:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Octordle]]></summary>
-        <author>
-            <name>i13e</name>
-            <uri>https://news.ycombinator.com/user?id=i13e</uri>
         </author>
     </entry>
 </feed>
