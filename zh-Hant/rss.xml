@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 29 Mar 2022 14:52:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 15:56:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[博客的搜索引擎]]></title>
+            <link>https://news.ycombinator.com/item?id=30844149</link>
+            <guid>https://news.ycombinator.com/item?id=30844149</guid>
+            <pubDate>Tue, 29 Mar 2022 15:50:18 GMT</pubDate>
+            <description><![CDATA[Show HN: Search Engine for Blogs]]></description>
+        </item>
         <item>
             <title><![CDATA[Ectomigo - 在合併前測量數據庫變化的影響]]></title>
             <link>https://news.ycombinator.com/item?id=30843241</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30601251</guid>
             <pubDate>Tue, 08 Mar 2022 15:53:16 GMT</pubDate>
             <description><![CDATA[Show HN: Share fine-grained access to your Kubernetes cluster temporarily]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Kaado.io - 統一個人生產力]]></title>
-            <link>https://news.ycombinator.com/item?id=30600622</link>
-            <guid>https://news.ycombinator.com/item?id=30600622</guid>
-            <pubDate>Tue, 08 Mar 2022 15:02:38 GMT</pubDate>
-            <description><![CDATA[Show HN: Kaado.io – Unifying Personal Productivity]]></description>
         </item>
     </channel>
 </rss>

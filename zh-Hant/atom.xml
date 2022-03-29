@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-29T14:52:59.377Z</updated>
+    <updated>2022-03-29T15:56:42.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[博客的搜索引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=30844149</id>
+        <link href="https://news.ycombinator.com/item?id=30844149"/>
+        <updated>2022-03-29T15:50:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Search Engine for Blogs]]></summary>
+        <author>
+            <name>dbrereton</name>
+            <uri>https://news.ycombinator.com/user?id=dbrereton</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ectomigo - 在合併前測量數據庫變化的影響]]></title>
         <id>https://news.ycombinator.com/item?id=30843241</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>viveksingh</name>
             <uri>https://news.ycombinator.com/user?id=viveksingh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaado.io - 統一個人生產力]]></title>
-        <id>https://news.ycombinator.com/item?id=30600622</id>
-        <link href="https://news.ycombinator.com/item?id=30600622"/>
-        <updated>2022-03-08T15:02:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Kaado.io – Unifying Personal Productivity]]></summary>
-        <author>
-            <name>blackbrokkoli</name>
-            <uri>https://news.ycombinator.com/user?id=blackbrokkoli</uri>
         </author>
     </entry>
 </feed>
