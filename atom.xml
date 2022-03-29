@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-29T18:39:56.362Z</updated>
+    <updated>2022-03-29T19:27:48.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Typogram - 新一代的标志设计工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30847121</id>
+        <link href="https://news.ycombinator.com/item?id=30847121"/>
+        <updated>2022-03-29T19:18:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Typogram – Next-Generation Logo Design Tool]]></summary>
+        <author>
+            <name>wentin</name>
+            <uri>https://news.ycombinator.com/user?id=wentin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在同一地点搜索域名和用户名]]></title>
         <id>https://news.ycombinator.com/item?id=30846428</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>SuDa2103</name>
             <uri>https://news.ycombinator.com/user?id=SuDa2103</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个免费的iOS应用可以获得比Instagram Insights更好的分析结果]]></title>
-        <id>https://news.ycombinator.com/item?id=30603442</id>
-        <link href="https://news.ycombinator.com/item?id=30603442"/>
-        <updated>2022-03-08T18:12:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A free iOS app to get better analytics than Instagram Insights]]></summary>
-        <author>
-            <name>guidum80</name>
-            <uri>https://news.ycombinator.com/user?id=guidum80</uri>
         </author>
     </entry>
 </feed>
