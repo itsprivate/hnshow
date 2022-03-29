@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-28T23:32:48.797Z</updated>
+    <updated>2022-03-29T00:46:16.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Snabl - 一个实用的嵌入式Lisp的C++版本]]></title>
+        <id>https://news.ycombinator.com/item?id=30837237</id>
+        <link href="https://news.ycombinator.com/item?id=30837237"/>
+        <updated>2022-03-29T00:26:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Snabl – a practical embedded Lisp in C++]]></summary>
+        <author>
+            <name>codr7</name>
+            <uri>https://news.ycombinator.com/user?id=codr7</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个计算器来显示无服务器GPU与AWS的成本节约情况]]></title>
+        <id>https://news.ycombinator.com/item?id=30836976</id>
+        <link href="https://news.ycombinator.com/item?id=30836976"/>
+        <updated>2022-03-28T23:48:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a calculator to show cost savings of serverless GPUs vs. AWS]]></summary>
+        <author>
+            <name>votick</name>
+            <uri>https://news.ycombinator.com/user?id=votick</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[旧金山、洛杉矶和西雅图的最新电动车租赁清单]]></title>
         <id>https://news.ycombinator.com/item?id=30836801</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>protoduction</name>
             <uri>https://news.ycombinator.com/user?id=protoduction</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简单的兰姆达微积分可视化工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30594934</id>
-        <link href="https://news.ycombinator.com/item?id=30594934"/>
-        <updated>2022-03-08T00:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Simple Lambda Calculus Visualizer]]></summary>
-        <author>
-            <name>westoncb</name>
-            <uri>https://news.ycombinator.com/user?id=westoncb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Zig中使用io_uring的事件循环库]]></title>
-        <id>https://news.ycombinator.com/item?id=30594809</id>
-        <link href="https://news.ycombinator.com/item?id=30594809"/>
-        <updated>2022-03-07T23:42:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Event loop library in Zig using io_uring]]></summary>
-        <author>
-            <name>msaltz</name>
-            <uri>https://news.ycombinator.com/user?id=msaltz</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 28 Mar 2022 23:32:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 00:46:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Snabl - 一個實用的嵌入式Lisp的C++版本]]></title>
+            <link>https://news.ycombinator.com/item?id=30837237</link>
+            <guid>https://news.ycombinator.com/item?id=30837237</guid>
+            <pubDate>Tue, 29 Mar 2022 00:26:44 GMT</pubDate>
+            <description><![CDATA[Show HN: Snabl – a practical embedded Lisp in C++]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我做了一個計算器來顯示無服務器GPU與AWS的成本節約情況]]></title>
+            <link>https://news.ycombinator.com/item?id=30836976</link>
+            <guid>https://news.ycombinator.com/item?id=30836976</guid>
+            <pubDate>Mon, 28 Mar 2022 23:48:26 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a calculator to show cost savings of serverless GPUs vs. AWS]]></description>
+        </item>
         <item>
             <title><![CDATA[舊金山、洛杉磯和西雅圖的最新電動車租賃清單]]></title>
             <link>https://news.ycombinator.com/item?id=30836801</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30595325</guid>
             <pubDate>Tue, 08 Mar 2022 01:05:11 GMT</pubDate>
             <description><![CDATA[Show HN: Tygo – Generating TypeScript typings from Go code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[簡單的蘭姆達微積分可視化工具]]></title>
-            <link>https://news.ycombinator.com/item?id=30594934</link>
-            <guid>https://news.ycombinator.com/item?id=30594934</guid>
-            <pubDate>Tue, 08 Mar 2022 00:00:24 GMT</pubDate>
-            <description><![CDATA[Show HN: Simple Lambda Calculus Visualizer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Zig中使用io_uring的事件循環庫]]></title>
-            <link>https://news.ycombinator.com/item?id=30594809</link>
-            <guid>https://news.ycombinator.com/item?id=30594809</guid>
-            <pubDate>Mon, 07 Mar 2022 23:42:13 GMT</pubDate>
-            <description><![CDATA[Show HN: Event loop library in Zig using io_uring]]></description>
         </item>
     </channel>
 </rss>
