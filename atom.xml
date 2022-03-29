@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-29T19:27:48.984Z</updated>
+    <updated>2022-03-29T20:14:08.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[微软365许可证优化器]]></title>
+        <id>https://news.ycombinator.com/item?id=30847686</id>
+        <link href="https://news.ycombinator.com/item?id=30847686"/>
+        <updated>2022-03-29T20:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Microsoft 365 License Optimizer]]></summary>
+        <author>
+            <name>out_sider</name>
+            <uri>https://news.ycombinator.com/user?id=out_sider</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果你输入 "Jada"，Chrome扩展程序会给你一巴掌]]></title>
+        <id>https://news.ycombinator.com/item?id=30847575</id>
+        <link href="https://news.ycombinator.com/item?id=30847575"/>
+        <updated>2022-03-29T19:57:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Chrome Extension that slaps you if you type “Jada”]]></summary>
+        <author>
+            <name>higgins</name>
+            <uri>https://news.ycombinator.com/user?id=higgins</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Typogram - 新一代的标志设计工具]]></title>
         <id>https://news.ycombinator.com/item?id=30847121</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mcculley</name>
             <uri>https://news.ycombinator.com/user?id=mcculley</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过命令行进行macOS语音识别]]></title>
-        <id>https://news.ycombinator.com/item?id=30603842</id>
-        <link href="https://news.ycombinator.com/item?id=30603842"/>
-        <updated>2022-03-08T18:32:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: macOS speech recognition via the command line]]></summary>
-        <author>
-            <name>svth</name>
-            <uri>https://news.ycombinator.com/user?id=svth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新手加密 - 每周2封电子邮件，解释加密的重要概念]]></title>
-        <id>https://news.ycombinator.com/item?id=30603542</id>
-        <link href="https://news.ycombinator.com/item?id=30603542"/>
-        <updated>2022-03-08T18:18:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Newbie Crypto – 2 emails a week explaining important concepts in crypto]]></summary>
-        <author>
-            <name>SuDa2103</name>
-            <uri>https://news.ycombinator.com/user?id=SuDa2103</uri>
         </author>
     </entry>
 </feed>
