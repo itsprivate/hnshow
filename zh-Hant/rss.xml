@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 30 Mar 2022 14:30:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 14:53:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[EnvKey 2.0 - 端到端加密環境（現已開放源代碼）]]></title>
+            <link>https://news.ycombinator.com/item?id=30855879</link>
+            <guid>https://news.ycombinator.com/item?id=30855879</guid>
+            <pubDate>Wed, 30 Mar 2022 14:42:50 GMT</pubDate>
+            <description><![CDATA[Show HN: EnvKey 2.0 – End-To-End Encrypted Environments (now open source)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Dstack - 訓練模型並毫不費力地管理數據]]></title>
+            <link>https://news.ycombinator.com/item?id=30855814</link>
+            <guid>https://news.ycombinator.com/item?id=30855814</guid>
+            <pubDate>Wed, 30 Mar 2022 14:39:13 GMT</pubDate>
+            <description><![CDATA[Show HN: Dstack – Train models and manage data effortlessly]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在JSX代碼中自動分割長的className屬性]]></title>
+            <link>https://news.ycombinator.com/item?id=30855792</link>
+            <guid>https://news.ycombinator.com/item?id=30855792</guid>
+            <pubDate>Wed, 30 Mar 2022 14:37:06 GMT</pubDate>
+            <description><![CDATA[Show HN: Automatically split long className attributes in JSX code]]></description>
+        </item>
         <item>
             <title><![CDATA[建立一個與他人保持聯繫的系統]]></title>
             <link>https://news.ycombinator.com/item?id=30855573</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30617545</guid>
             <pubDate>Wed, 09 Mar 2022 17:38:21 GMT</pubDate>
             <description><![CDATA[Show HN: Signal channel with news briefs from western publications]]></description>
-        </item>
-        <item>
-            <title><![CDATA[芝加哥黑幫歷史舵手圖]]></title>
-            <link>https://news.ycombinator.com/item?id=30617006</link>
-            <guid>https://news.ycombinator.com/item?id=30617006</guid>
-            <pubDate>Wed, 09 Mar 2022 17:08:06 GMT</pubDate>
-            <description><![CDATA[Show HN: Chicago Gang History Helm Chart]]></description>
-        </item>
-        <item>
-            <title><![CDATA[A]]></title>
-            <link>https://news.ycombinator.com/item?id=30616502</link>
-            <guid>https://news.ycombinator.com/item?id=30616502</guid>
-            <pubDate>Wed, 09 Mar 2022 16:37:16 GMT</pubDate>
-            <description><![CDATA[Show HN: A Notebook about using `client-go` to write Go clients for Kubernetes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[杜]]></title>
-            <link>https://news.ycombinator.com/item?id=30616376</link>
-            <guid>https://news.ycombinator.com/item?id=30616376</guid>
-            <pubDate>Wed, 09 Mar 2022 16:28:32 GMT</pubDate>
-            <description><![CDATA[Show HN: Duotone image filter to show your support for Ukraine]]></description>
         </item>
     </channel>
 </rss>
