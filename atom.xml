@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-30T14:53:05.214Z</updated>
+    <updated>2022-03-30T15:37:59.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vectorwiki, 浏览和下载任何品牌标志]]></title>
+        <id>https://news.ycombinator.com/item?id=30856376</id>
+        <link href="https://news.ycombinator.com/item?id=30856376"/>
+        <updated>2022-03-30T15:19:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Vectorwiki, Browse and download any brand logo]]></summary>
+        <author>
+            <name>bluefin</name>
+            <uri>https://news.ycombinator.com/user?id=bluefin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jsfix，一个用于自动化NPM软件包升级的codemod工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30856319</id>
+        <link href="https://news.ycombinator.com/item?id=30856319"/>
+        <updated>2022-03-30T15:15:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Jsfix, a codemod tool for automating NPM package upgrades]]></summary>
+        <author>
+            <name>mtorp</name>
+            <uri>https://news.ycombinator.com/user?id=mtorp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EnvKey 2.0 - 端到端加密环境（现已开放源代码）]]></title>
         <id>https://news.ycombinator.com/item?id=30855879</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Tarantanon</name>
             <uri>https://news.ycombinator.com/user?id=Tarantanon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我受到启发，建立一个应用程序，以更好地管理财务目标]]></title>
-        <id>https://news.ycombinator.com/item?id=30618810</id>
-        <link href="https://news.ycombinator.com/item?id=30618810"/>
-        <updated>2022-03-09T19:19:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I was inspired to build an app to manage financial goals better]]></summary>
-        <author>
-            <name>ironstrange</name>
-            <uri>https://news.ycombinator.com/user?id=ironstrange</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[提供西方出版物的新闻简报的信号频道]]></title>
-        <id>https://news.ycombinator.com/item?id=30617545</id>
-        <link href="https://news.ycombinator.com/item?id=30617545"/>
-        <updated>2022-03-09T17:38:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Signal channel with news briefs from western publications]]></summary>
-        <author>
-            <name>jandll</name>
-            <uri>https://news.ycombinator.com/user?id=jandll</uri>
         </author>
     </entry>
 </feed>
