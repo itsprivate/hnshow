@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 30 Mar 2022 04:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 04:41:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[dataset-orm 数据集库的Active Record ORM]]></title>
+            <link>https://news.ycombinator.com/item?id=30851519</link>
+            <guid>https://news.ycombinator.com/item?id=30851519</guid>
+            <pubDate>Wed, 30 Mar 2022 04:35:52 GMT</pubDate>
+            <description><![CDATA[Show HN: dataset-orm Active Record ORM for the dataset library]]></description>
+        </item>
         <item>
             <title><![CDATA[一个干净的替代Hacker News的界面]]></title>
             <link>https://news.ycombinator.com/item?id=30851402</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30612003</guid>
             <pubDate>Wed, 09 Mar 2022 07:58:30 GMT</pubDate>
             <description><![CDATA[Show HN: World’s first £3 flat fee (0% FX markup) money transfer service]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个快速将枯燥的屏幕截图变成美丽图片的应用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30611657</link>
-            <guid>https://news.ycombinator.com/item?id=30611657</guid>
-            <pubDate>Wed, 09 Mar 2022 06:58:25 GMT</pubDate>
-            <description><![CDATA[Show HN: An app to quickly turn boring screenshots into beautiful images]]></description>
         </item>
     </channel>
 </rss>
