@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-30T10:36:25.294Z</updated>
+    <updated>2022-03-30T11:12:07.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為圖片添加漸變背景]]></title>
+        <id>https://news.ycombinator.com/item?id=30853585</id>
+        <link href="https://news.ycombinator.com/item?id=30853585"/>
+        <updated>2022-03-30T11:05:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Add a Gradient Background to a Pic]]></summary>
+        <author>
+            <name>okumurahata</name>
+            <uri>https://news.ycombinator.com/user?id=okumurahata</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Humbo - 旅行的IMDB]]></title>
         <id>https://news.ycombinator.com/item?id=30853332</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cosbgn</name>
             <uri>https://news.ycombinator.com/user?id=cosbgn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免費的烏克蘭語和俄語語音轉文字AI解決方案]]></title>
-        <id>https://news.ycombinator.com/item?id=30613872</id>
-        <link href="https://news.ycombinator.com/item?id=30613872"/>
-        <updated>2022-03-09T12:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Free Ukrainian and Russian speech-to-text AI solution]]></summary>
-        <author>
-            <name>matgillard</name>
-            <uri>https://news.ycombinator.com/user?id=matgillard</uri>
         </author>
     </entry>
 </feed>
