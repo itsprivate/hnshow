@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-30T13:53:51.228Z</updated>
+    <updated>2022-03-30T14:30:17.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[建立一个与他人保持联系的系统]]></title>
+        <id>https://news.ycombinator.com/item?id=30855573</id>
+        <link href="https://news.ycombinator.com/item?id=30855573"/>
+        <updated>2022-03-30T14:19:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build a system to keep in touch with others]]></summary>
+        <author>
+            <name>dhaef</name>
+            <uri>https://news.ycombinator.com/user?id=dhaef</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通过审查产品破损后的寿命来跟踪产品的使用寿命]]></title>
         <id>https://news.ycombinator.com/item?id=30855193</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>topshelf</name>
             <uri>https://news.ycombinator.com/user?id=topshelf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Browser extension to quickly open/add bookmarks via keywords like a CLI]]></title>
-        <id>https://news.ycombinator.com/item?id=30616216</id>
-        <link href="https://news.ycombinator.com/item?id=30616216"/>
-        <updated>2022-03-09T16:19:27.000Z</updated>
-        <summary type="html"><![CDATA[Browser extension to quickly open/add bookmarks via keywords like a CLI]]></summary>
-        <author>
-            <name>binarynate</name>
-            <uri>https://news.ycombinator.com/user?id=binarynate</uri>
         </author>
     </entry>
 </feed>

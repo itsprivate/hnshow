@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 30 Mar 2022 13:53:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 14:30:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[建立一个与他人保持联系的系统]]></title>
+            <link>https://news.ycombinator.com/item?id=30855573</link>
+            <guid>https://news.ycombinator.com/item?id=30855573</guid>
+            <pubDate>Wed, 30 Mar 2022 14:19:58 GMT</pubDate>
+            <description><![CDATA[Show HN: Build a system to keep in touch with others]]></description>
+        </item>
         <item>
             <title><![CDATA[通过审查产品破损后的寿命来跟踪产品的使用寿命]]></title>
             <link>https://news.ycombinator.com/item?id=30855193</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30616376</guid>
             <pubDate>Wed, 09 Mar 2022 16:28:32 GMT</pubDate>
             <description><![CDATA[Show HN: Duotone image filter to show your support for Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Browser extension to quickly open/add bookmarks via keywords like a CLI]]></title>
-            <link>https://news.ycombinator.com/item?id=30616216</link>
-            <guid>https://news.ycombinator.com/item?id=30616216</guid>
-            <pubDate>Wed, 09 Mar 2022 16:19:27 GMT</pubDate>
-            <description><![CDATA[Browser extension to quickly open/add bookmarks via keywords like a CLI]]></description>
         </item>
     </channel>
 </rss>
