@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 30 Mar 2022 18:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 19:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[字謎對決]]></title>
+            <link>https://news.ycombinator.com/item?id=30859357</link>
+            <guid>https://news.ycombinator.com/item?id=30859357</guid>
+            <pubDate>Wed, 30 Mar 2022 18:55:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Wordle Duel]]></description>
+        </item>
         <item>
             <title><![CDATA[可預約的時間表 - 直接在一個電子郵件中安排會議]]></title>
             <link>https://news.ycombinator.com/item?id=30858813</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30621899</guid>
             <pubDate>Thu, 10 Mar 2022 00:42:11 GMT</pubDate>
             <description><![CDATA[Show HN: Search EDU Domains on DMOZ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Chezmoi cross-platform dotfile manager, 6K GitHub stars]]></title>
-            <link>https://news.ycombinator.com/item?id=30621715</link>
-            <guid>https://news.ycombinator.com/item?id=30621715</guid>
-            <pubDate>Thu, 10 Mar 2022 00:16:39 GMT</pubDate>
-            <description><![CDATA[Chezmoi cross-platform dotfile manager, 6K GitHub stars]]></description>
         </item>
     </channel>
 </rss>
