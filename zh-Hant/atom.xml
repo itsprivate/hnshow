@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-30T09:13:40.803Z</updated>
+    <updated>2022-03-30T10:14:47.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[尋找有工作機會的公司，使用你喜歡的技術]]></title>
+        <id>https://news.ycombinator.com/item?id=30853281</id>
+        <link href="https://news.ycombinator.com/item?id=30853281"/>
+        <updated>2022-03-30T10:09:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Find companies with jobs using technologies you love]]></summary>
+        <author>
+            <name>joergrech</name>
+            <uri>https://news.ycombinator.com/user?id=joergrech</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[設計和製作複雜用戶界面原型的應用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30852905</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>joelspokane</name>
             <uri>https://news.ycombinator.com/user?id=joelspokane</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Raspberry Pi Pico上構建的復古風格遊戲機]]></title>
-        <id>https://news.ycombinator.com/item?id=30613666</id>
-        <link href="https://news.ycombinator.com/item?id=30613666"/>
-        <updated>2022-03-09T12:20:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Retro style game console build on Raspberry Pi Pico]]></summary>
-        <author>
-            <name>codetiger</name>
-            <uri>https://news.ycombinator.com/user?id=codetiger</uri>
         </author>
     </entry>
 </feed>
