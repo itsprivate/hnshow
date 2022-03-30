@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-30T15:56:37.774Z</updated>
+    <updated>2022-03-30T16:19:04.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AppTotal - 针对可疑OAuth应用的搜索引擎和沙盒]]></title>
+        <id>https://news.ycombinator.com/item?id=30856959</id>
+        <link href="https://news.ycombinator.com/item?id=30856959"/>
+        <updated>2022-03-30T15:57:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: AppTotal – Search engine and sandbox for suspicious OAuth apps]]></summary>
+        <author>
+            <name>nivstein</name>
+            <uri>https://news.ycombinator.com/user?id=nivstein</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ActionStitch - 使用2台动作相机DIY 180°运动视频记录]]></title>
         <id>https://news.ycombinator.com/item?id=30856783</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cminnick</name>
             <uri>https://news.ycombinator.com/user?id=cminnick</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[react-creme – A lightweight UI Toolkit / Component library for React]]></title>
-        <id>https://news.ycombinator.com/item?id=30619100</id>
-        <link href="https://news.ycombinator.com/item?id=30619100"/>
-        <updated>2022-03-09T19:46:25.000Z</updated>
-        <summary type="html"><![CDATA[react-creme – A lightweight UI Toolkit / Component library for React]]></summary>
-        <author>
-            <name>prabhuignoto</name>
-            <uri>https://news.ycombinator.com/user?id=prabhuignoto</uri>
         </author>
     </entry>
 </feed>
