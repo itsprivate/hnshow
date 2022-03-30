@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-30T13:00:08.755Z</updated>
+    <updated>2022-03-30T13:27:35.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你的测试出了什么问题？]]></title>
+        <id>https://news.ycombinator.com/item?id=30854637</id>
+        <link href="https://news.ycombinator.com/item?id=30854637"/>
+        <updated>2022-03-30T13:06:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: What Is Wrong with Your Testing?]]></summary>
+        <author>
+            <name>godfryd2</name>
+            <uri>https://news.ycombinator.com/user?id=godfryd2</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LERA - 免费的自动网站可及性测试和报告工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30854630</id>
+        <link href="https://news.ycombinator.com/item?id=30854630"/>
+        <updated>2022-03-30T13:05:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: LERA – Free automated website accessibility testing and reporting tool]]></summary>
+        <author>
+            <name>abikkani</name>
+            <uri>https://news.ycombinator.com/user?id=abikkani</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我把HN按主题分组，这样你就不需要]]></title>
         <id>https://news.ycombinator.com/item?id=30854261</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>323454</name>
             <uri>https://news.ycombinator.com/user?id=323454</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于Rust的Axum网络框架--演示教程]]></title>
-        <id>https://news.ycombinator.com/item?id=30615288</id>
-        <link href="https://news.ycombinator.com/item?id=30615288"/>
-        <updated>2022-03-09T15:14:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Axum web framework for Rust – a demo tutorial]]></summary>
-        <author>
-            <name>jph</name>
-            <uri>https://news.ycombinator.com/user?id=jph</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将你的无代码/低代码应用程序变成企业就绪的B2B SaaS应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30614828</id>
-        <link href="https://news.ycombinator.com/item?id=30614828"/>
-        <updated>2022-03-09T14:38:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Turn your no/low-code apps into enterprise ready B2B SaaS apps]]></summary>
-        <author>
-            <name>mtolga</name>
-            <uri>https://news.ycombinator.com/user?id=mtolga</uri>
         </author>
     </entry>
 </feed>

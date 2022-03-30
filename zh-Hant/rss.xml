@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 30 Mar 2022 13:00:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 13:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你的測試出了什麼問題？]]></title>
+            <link>https://news.ycombinator.com/item?id=30854637</link>
+            <guid>https://news.ycombinator.com/item?id=30854637</guid>
+            <pubDate>Wed, 30 Mar 2022 13:06:57 GMT</pubDate>
+            <description><![CDATA[Show HN: What Is Wrong with Your Testing?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[LERA - 免費的自動網站可及性測試和報告工具]]></title>
+            <link>https://news.ycombinator.com/item?id=30854630</link>
+            <guid>https://news.ycombinator.com/item?id=30854630</guid>
+            <pubDate>Wed, 30 Mar 2022 13:05:51 GMT</pubDate>
+            <description><![CDATA[Show HN: LERA – Free automated website accessibility testing and reporting tool]]></description>
+        </item>
         <item>
             <title><![CDATA[我把HN按主題分組，這樣你就不需要]]></title>
             <link>https://news.ycombinator.com/item?id=30854261</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30615605</guid>
             <pubDate>Wed, 09 Mar 2022 15:37:03 GMT</pubDate>
             <description><![CDATA[Open source machine learning inference accelerators on FPGA]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用於Rust的Axum網絡框架--演示教程]]></title>
-            <link>https://news.ycombinator.com/item?id=30615288</link>
-            <guid>https://news.ycombinator.com/item?id=30615288</guid>
-            <pubDate>Wed, 09 Mar 2022 15:14:11 GMT</pubDate>
-            <description><![CDATA[Show HN: Axum web framework for Rust – a demo tutorial]]></description>
-        </item>
-        <item>
-            <title><![CDATA[將你的無代碼/低代碼應用程序變成企業就緒的B2B SaaS應用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30614828</link>
-            <guid>https://news.ycombinator.com/item?id=30614828</guid>
-            <pubDate>Wed, 09 Mar 2022 14:38:27 GMT</pubDate>
-            <description><![CDATA[Show HN: Turn your no/low-code apps into enterprise ready B2B SaaS apps]]></description>
         </item>
     </channel>
 </rss>
