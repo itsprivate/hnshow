@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-30T16:19:04.873Z</updated>
+    <updated>2022-03-30T17:03:08.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ishield.ai的助手在Lever中创建包容性的工作岗位]]></title>
+        <id>https://news.ycombinator.com/item?id=30857679</id>
+        <link href="https://news.ycombinator.com/item?id=30857679"/>
+        <updated>2022-03-30T16:46:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ishield.ai's assistant to create inclusive job posts available in Lever]]></summary>
+        <author>
+            <name>kesavan_kk</name>
+            <uri>https://news.ycombinator.com/user?id=kesavan_kk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AppTotal - 针对可疑OAuth应用的搜索引擎和沙盒]]></title>
         <id>https://news.ycombinator.com/item?id=30856959</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nschloe</name>
             <uri>https://news.ycombinator.com/user?id=nschloe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I wrote a good React book / website]]></title>
-        <id>https://news.ycombinator.com/item?id=30620011</id>
-        <link href="https://news.ycombinator.com/item?id=30620011"/>
-        <updated>2022-03-09T21:10:59.000Z</updated>
-        <summary type="html"><![CDATA[I wrote a good React book / website]]></summary>
-        <author>
-            <name>cminnick</name>
-            <uri>https://news.ycombinator.com/user?id=cminnick</uri>
         </author>
     </entry>
 </feed>
