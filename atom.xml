@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-30T00:40:09.305Z</updated>
+    <updated>2022-03-30T02:28:47.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Scriptbar Snippets - 在浏览器中保存方便的代码片段]]></title>
+        <id>https://news.ycombinator.com/item?id=30850458</id>
+        <link href="https://news.ycombinator.com/item?id=30850458"/>
+        <updated>2022-03-30T01:15:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Scriptbar Snippets – Handy code snippet to save in the browser]]></summary>
+        <author>
+            <name>datduyng</name>
+            <uri>https://news.ycombinator.com/user?id=datduyng</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不是影响者？Pinz是我们其他人的链接，在简历中。]]></title>
         <id>https://news.ycombinator.com/item?id=30849979</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>arrkco</name>
             <uri>https://news.ycombinator.com/user?id=arrkco</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWP快讯。即时、分布式的基于浏览器的网络存档]]></title>
-        <id>https://news.ycombinator.com/item?id=30610623</id>
-        <link href="https://news.ycombinator.com/item?id=30610623"/>
-        <updated>2022-03-09T03:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: AWP Express: Instant, distributed browser-based web archiving]]></summary>
-        <author>
-            <name>ikreymer</name>
-            <uri>https://news.ycombinator.com/user?id=ikreymer</uri>
         </author>
     </entry>
 </feed>
