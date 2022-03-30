@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 30 Mar 2022 17:43:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 18:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Podbabble - 一個討論播客的地方]]></title>
+            <link>https://news.ycombinator.com/item?id=30858693</link>
+            <guid>https://news.ycombinator.com/item?id=30858693</guid>
+            <pubDate>Wed, 30 Mar 2022 18:07:10 GMT</pubDate>
+            <description><![CDATA[Show HN: Podbabble – A Place to Discuss Podcasts]]></description>
+        </item>
         <item>
             <title><![CDATA[代碼審查讓我感到害怕，所以我建立了一個關於如何掌握它們的課程]]></title>
             <link>https://news.ycombinator.com/item?id=30858304</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30620957</guid>
             <pubDate>Wed, 09 Mar 2022 22:45:27 GMT</pubDate>
             <description><![CDATA[Show HN: MT63 digital radio transmitter and receiver in WebAssembly]]></description>
-        </item>
-        <item>
-            <title><![CDATA[2D Game engine and editor for Windows and Linux]]></title>
-            <link>https://news.ycombinator.com/item?id=30620897</link>
-            <guid>https://news.ycombinator.com/item?id=30620897</guid>
-            <pubDate>Wed, 09 Mar 2022 22:37:39 GMT</pubDate>
-            <description><![CDATA[2D Game engine and editor for Windows and Linux]]></description>
         </item>
     </channel>
 </rss>
