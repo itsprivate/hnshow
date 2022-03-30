@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-30T13:27:35.691Z</updated>
+    <updated>2022-03-30T13:48:35.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[打開特斯拉充電端口的網頁]]></title>
+        <id>https://news.ycombinator.com/item?id=30854927</id>
+        <link href="https://news.ycombinator.com/item?id=30854927"/>
+        <updated>2022-03-30T13:28:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Web page for opening the Tesla charging port]]></summary>
+        <author>
+            <name>rgerganov</name>
+            <uri>https://news.ycombinator.com/user?id=rgerganov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coolify v2 一個開源的、可自行託管的Heroku/Netlify替代品]]></title>
+        <id>https://news.ycombinator.com/item?id=30854912</id>
+        <link href="https://news.ycombinator.com/item?id=30854912"/>
+        <updated>2022-03-30T13:27:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Coolify v2 An open-source and self-hostable Heroku/Netlify alternative]]></summary>
+        <author>
+            <name>andrasbacsai</name>
+            <uri>https://news.ycombinator.com/user?id=andrasbacsai</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[適用於火狐的一鍵式URL縮短器]]></title>
+        <id>https://news.ycombinator.com/item?id=30854857</id>
+        <link href="https://news.ycombinator.com/item?id=30854857"/>
+        <updated>2022-03-30T13:22:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: 1-Click URL Shortener for Firefox]]></summary>
+        <author>
+            <name>zenull</name>
+            <uri>https://news.ycombinator.com/user?id=zenull</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的測試出了什麼問題？]]></title>
         <id>https://news.ycombinator.com/item?id=30854637</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>lionkor</name>
             <uri>https://news.ycombinator.com/user?id=lionkor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ダウンロード]]></title>
-        <id>https://news.ycombinator.com/item?id=30615847</id>
-        <link href="https://news.ycombinator.com/item?id=30615847"/>
-        <updated>2022-03-09T15:57:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Daily for Mac – The simplest way to track your time]]></summary>
-        <author>
-            <name>nielsmouthaan</name>
-            <uri>https://news.ycombinator.com/user?id=nielsmouthaan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phoenix PVM-Based Virtual Machine Monitors]]></title>
-        <id>https://news.ycombinator.com/item?id=30615622</id>
-        <link href="https://news.ycombinator.com/item?id=30615622"/>
-        <updated>2022-03-09T15:38:25.000Z</updated>
-        <summary type="html"><![CDATA[Phoenix PVM-Based Virtual Machine Monitors]]></summary>
-        <author>
-            <name>michidk</name>
-            <uri>https://news.ycombinator.com/user?id=michidk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open source machine learning inference accelerators on FPGA]]></title>
-        <id>https://news.ycombinator.com/item?id=30615605</id>
-        <link href="https://news.ycombinator.com/item?id=30615605"/>
-        <updated>2022-03-09T15:37:03.000Z</updated>
-        <summary type="html"><![CDATA[Open source machine learning inference accelerators on FPGA]]></summary>
-        <author>
-            <name>323454</name>
-            <uri>https://news.ycombinator.com/user?id=323454</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 30 Mar 2022 13:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 13:48:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[打開特斯拉充電端口的網頁]]></title>
+            <link>https://news.ycombinator.com/item?id=30854927</link>
+            <guid>https://news.ycombinator.com/item?id=30854927</guid>
+            <pubDate>Wed, 30 Mar 2022 13:28:33 GMT</pubDate>
+            <description><![CDATA[Show HN: Web page for opening the Tesla charging port]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Coolify v2 一個開源的、可自行託管的Heroku/Netlify替代品]]></title>
+            <link>https://news.ycombinator.com/item?id=30854912</link>
+            <guid>https://news.ycombinator.com/item?id=30854912</guid>
+            <pubDate>Wed, 30 Mar 2022 13:27:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Coolify v2 An open-source and self-hostable Heroku/Netlify alternative]]></description>
+        </item>
+        <item>
+            <title><![CDATA[適用於火狐的一鍵式URL縮短器]]></title>
+            <link>https://news.ycombinator.com/item?id=30854857</link>
+            <guid>https://news.ycombinator.com/item?id=30854857</guid>
+            <pubDate>Wed, 30 Mar 2022 13:22:44 GMT</pubDate>
+            <description><![CDATA[Show HN: 1-Click URL Shortener for Firefox]]></description>
+        </item>
         <item>
             <title><![CDATA[你的測試出了什麼問題？]]></title>
             <link>https://news.ycombinator.com/item?id=30854637</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30616175</guid>
             <pubDate>Wed, 09 Mar 2022 16:17:30 GMT</pubDate>
             <description><![CDATA[Commandline, a C++ library for async terminal I/O]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ダウンロード]]></title>
-            <link>https://news.ycombinator.com/item?id=30615847</link>
-            <guid>https://news.ycombinator.com/item?id=30615847</guid>
-            <pubDate>Wed, 09 Mar 2022 15:57:25 GMT</pubDate>
-            <description><![CDATA[Show HN: Daily for Mac – The simplest way to track your time]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Phoenix PVM-Based Virtual Machine Monitors]]></title>
-            <link>https://news.ycombinator.com/item?id=30615622</link>
-            <guid>https://news.ycombinator.com/item?id=30615622</guid>
-            <pubDate>Wed, 09 Mar 2022 15:38:25 GMT</pubDate>
-            <description><![CDATA[Phoenix PVM-Based Virtual Machine Monitors]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Open source machine learning inference accelerators on FPGA]]></title>
-            <link>https://news.ycombinator.com/item?id=30615605</link>
-            <guid>https://news.ycombinator.com/item?id=30615605</guid>
-            <pubDate>Wed, 09 Mar 2022 15:37:03 GMT</pubDate>
-            <description><![CDATA[Open source machine learning inference accelerators on FPGA]]></description>
         </item>
     </channel>
 </rss>
