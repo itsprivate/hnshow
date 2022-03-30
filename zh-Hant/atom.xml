@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-30T17:03:08.955Z</updated>
+    <updated>2022-03-30T17:43:01.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[代碼審查讓我感到害怕，所以我建立了一個關於如何掌握它們的課程]]></title>
+        <id>https://news.ycombinator.com/item?id=30858304</id>
+        <link href="https://news.ycombinator.com/item?id=30858304"/>
+        <updated>2022-03-30T17:34:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Code reviews intimidated me, so I built a course on how to master them]]></summary>
+        <author>
+            <name>curtiseinsmann</name>
+            <uri>https://news.ycombinator.com/user?id=curtiseinsmann</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ishield.ai的助手在Lever中創建包容性的工作崗位]]></title>
         <id>https://news.ycombinator.com/item?id=30857679</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ensiferum</name>
             <uri>https://news.ycombinator.com/user?id=ensiferum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在covid之前，我全職旅行，向企業客戶教授ReactJS。我的學生（大部分是銀行和保險公司的開發人員）會問我 "什麼是好的React書？"我會努力推薦一些書，因為我知道所有的書都很爛，或者真的過時了。<p>我開始閱讀所有關於React的暢銷書，是的，它們都是過時的、不完整的，或者是錯誤的。<p>當我開始寫我希望成為一本真正好的React書時，我也希望這個網站是有用的，比一般的圖書網站高一等。因此，我試圖]]></title>
-        <id>https://news.ycombinator.com/item?id=30620257</id>
-        <link href="https://news.ycombinator.com/item?id=30620257"/>
-        <updated>2022-03-09T21:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: tiptop]]></summary>
-        <author>
-            <name>nschloe</name>
-            <uri>https://news.ycombinator.com/user?id=nschloe</uri>
         </author>
     </entry>
 </feed>
