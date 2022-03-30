@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-30T10:14:47.219Z</updated>
+    <updated>2022-03-30T10:36:25.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Humbo - 旅行的IMDB]]></title>
+        <id>https://news.ycombinator.com/item?id=30853332</id>
+        <link href="https://news.ycombinator.com/item?id=30853332"/>
+        <updated>2022-03-30T10:17:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Humbo – The IMDB of Travel]]></summary>
+        <author>
+            <name>anderspalm</name>
+            <uri>https://news.ycombinator.com/user?id=anderspalm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尋找有工作機會的公司，使用你喜歡的技術]]></title>
         <id>https://news.ycombinator.com/item?id=30853281</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>matgillard</name>
             <uri>https://news.ycombinator.com/user?id=matgillard</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一部分 建立你自己的JavaScript框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30613674</id>
-        <link href="https://news.ycombinator.com/item?id=30613674"/>
-        <updated>2022-03-09T12:21:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Part 1 build your own JavaScript framework]]></summary>
-        <author>
-            <name>joelspokane</name>
-            <uri>https://news.ycombinator.com/user?id=joelspokane</uri>
         </author>
     </entry>
 </feed>
