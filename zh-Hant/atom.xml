@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-30T19:13:20.629Z</updated>
+    <updated>2022-03-30T19:52:58.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Nanojob.com - 微型任務工作委員會]]></title>
+        <id>https://news.ycombinator.com/item?id=30859889</id>
+        <link href="https://news.ycombinator.com/item?id=30859889"/>
+        <updated>2022-03-30T19:40:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Nanojob.com – Micro Task Job Board]]></summary>
+        <author>
+            <name>monological</name>
+            <uri>https://news.ycombinator.com/user?id=monological</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[字謎對決]]></title>
         <id>https://news.ycombinator.com/item?id=30859357</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>growt</name>
             <uri>https://news.ycombinator.com/user?id=growt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[座位]]></title>
-        <id>https://news.ycombinator.com/item?id=30621899</id>
-        <link href="https://news.ycombinator.com/item?id=30621899"/>
-        <updated>2022-03-10T00:42:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Search EDU Domains on DMOZ]]></summary>
-        <author>
-            <name>westcort</name>
-            <uri>https://news.ycombinator.com/user?id=westcort</uri>
         </author>
     </entry>
 </feed>
