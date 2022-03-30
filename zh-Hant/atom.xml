@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-30T18:16:06.328Z</updated>
+    <updated>2022-03-30T18:42:10.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[可預約的時間表 - 直接在一個電子郵件中安排會議]]></title>
+        <id>https://news.ycombinator.com/item?id=30858813</id>
+        <link href="https://news.ycombinator.com/item?id=30858813"/>
+        <updated>2022-03-30T18:17:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bookable Schedule – Schedule meetings directly inside ONE email]]></summary>
+        <author>
+            <name>Coko</name>
+            <uri>https://news.ycombinator.com/user?id=Coko</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Podbabble - 一個討論播客的地方]]></title>
         <id>https://news.ycombinator.com/item?id=30858693</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>twp</name>
             <uri>https://news.ycombinator.com/user?id=twp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在WebAssembly中的MT63數字無線電發射器和接收器]]></title>
-        <id>https://news.ycombinator.com/item?id=30620957</id>
-        <link href="https://news.ycombinator.com/item?id=30620957"/>
-        <updated>2022-03-09T22:45:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: MT63 digital radio transmitter and receiver in WebAssembly]]></summary>
-        <author>
-            <name>miunau</name>
-            <uri>https://news.ycombinator.com/user?id=miunau</uri>
         </author>
     </entry>
 </feed>
