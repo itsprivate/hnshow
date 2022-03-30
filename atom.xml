@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-30T06:39:02.483Z</updated>
+    <updated>2022-03-30T08:17:20.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用poby sidecar代理提高springboot的QPS达10%。]]></title>
+        <id>https://news.ycombinator.com/item?id=30852479</id>
+        <link href="https://news.ycombinator.com/item?id=30852479"/>
+        <updated>2022-03-30T07:54:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Use pipy sidecar proxy improve springboot QPS up to 10%]]></summary>
+        <author>
+            <name>caishu97</name>
+            <uri>https://news.ycombinator.com/user?id=caishu97</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[电视直播；ThreeJS和React]]></title>
         <id>https://news.ycombinator.com/item?id=30852015</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>TomZ_33</name>
             <uri>https://news.ycombinator.com/user?id=TomZ_33</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Place.Dog - 可爱狗狗的占位符图片服务]]></title>
-        <id>https://news.ycombinator.com/item?id=30613482</id>
-        <link href="https://news.ycombinator.com/item?id=30613482"/>
-        <updated>2022-03-09T11:51:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Place.Dog – Placeholder image service of cute dogs]]></summary>
-        <author>
-            <name>joshghent</name>
-            <uri>https://news.ycombinator.com/user?id=joshghent</uri>
         </author>
     </entry>
 </feed>
