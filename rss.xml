@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 30 Mar 2022 11:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 13:00:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我把HN按主题分组，这样你就不需要]]></title>
+            <link>https://news.ycombinator.com/item?id=30854261</link>
+            <guid>https://news.ycombinator.com/item?id=30854261</guid>
+            <pubDate>Wed, 30 Mar 2022 12:33:53 GMT</pubDate>
+            <description><![CDATA[Show HN: I grouped HN by topics, so you don‘t have to]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我的地毯正在生成大量有效的QR码]]></title>
+            <link>https://news.ycombinator.com/item?id=30854259</link>
+            <guid>https://news.ycombinator.com/item?id=30854259</guid>
+            <pubDate>Wed, 30 Mar 2022 12:33:50 GMT</pubDate>
+            <description><![CDATA[Show HN: My carpet is generating a lot of valid QR Codes]]></description>
+        </item>
         <item>
             <title><![CDATA[满意度调查已经过时了。专家对支持代理人的反馈]]></title>
             <link>https://news.ycombinator.com/item?id=30853704</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30614828</guid>
             <pubDate>Wed, 09 Mar 2022 14:38:27 GMT</pubDate>
             <description><![CDATA[Show HN: Turn your no/low-code apps into enterprise ready B2B SaaS apps]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用你的母语聊天]]></title>
-            <link>https://news.ycombinator.com/item?id=30614673</link>
-            <guid>https://news.ycombinator.com/item?id=30614673</guid>
-            <pubDate>Wed, 09 Mar 2022 14:23:59 GMT</pubDate>
-            <description><![CDATA[Show HN: Chat in Your Native Language]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TimeCheck compares availability to find times when everyone is free]]></title>
-            <link>https://news.ycombinator.com/item?id=30614646</link>
-            <guid>https://news.ycombinator.com/item?id=30614646</guid>
-            <pubDate>Wed, 09 Mar 2022 14:21:21 GMT</pubDate>
-            <description><![CDATA[TimeCheck compares availability to find times when everyone is free]]></description>
         </item>
     </channel>
 </rss>
