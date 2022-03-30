@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-30T04:41:37.930Z</updated>
+    <updated>2022-03-30T06:39:02.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[電視直播；ThreeJS和React]]></title>
+        <id>https://news.ycombinator.com/item?id=30852015</id>
+        <link href="https://news.ycombinator.com/item?id=30852015"/>
+        <updated>2022-03-30T06:17:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Live TV; ThreeJS and React]]></summary>
+        <author>
+            <name>soheil</name>
+            <uri>https://news.ycombinator.com/user?id=soheil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dataset-orm 數據集庫的Active Record ORM]]></title>
         <id>https://news.ycombinator.com/item?id=30851519</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>joshghent</name>
             <uri>https://news.ycombinator.com/user?id=joshghent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界上第一個3英鎊統一費用（0%外匯加價）的匯款服務]]></title>
-        <id>https://news.ycombinator.com/item?id=30612003</id>
-        <link href="https://news.ycombinator.com/item?id=30612003"/>
-        <updated>2022-03-09T07:58:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: World’s first £3 flat fee (0% FX markup) money transfer service]]></summary>
-        <author>
-            <name>wdaareg</name>
-            <uri>https://news.ycombinator.com/user?id=wdaareg</uri>
         </author>
     </entry>
 </feed>
