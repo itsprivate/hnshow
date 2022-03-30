@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 30 Mar 2022 02:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 03:46:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[只是一个日历。查看简单的日历，无需登录，超级轻便]]></title>
+            <link>https://news.ycombinator.com/item?id=30851174</link>
+            <guid>https://news.ycombinator.com/item?id=30851174</guid>
+            <pubDate>Wed, 30 Mar 2022 03:11:43 GMT</pubDate>
+            <description><![CDATA[Show HN: Just a Calendar: Simple Calendar to look at, no login, super light]]></description>
+        </item>
         <item>
             <title><![CDATA[Scriptbar Snippets - 在浏览器中保存方便的代码片段]]></title>
             <link>https://news.ycombinator.com/item?id=30850458</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30611380</guid>
             <pubDate>Wed, 09 Mar 2022 06:02:09 GMT</pubDate>
             <description><![CDATA[Show HN: FURE – Free Rideshare]]></description>
-        </item>
-        <item>
-            <title><![CDATA[超级数独 - 每15分钟一次的多人数独游戏]]></title>
-            <link>https://news.ycombinator.com/item?id=30610718</link>
-            <guid>https://news.ycombinator.com/item?id=30610718</guid>
-            <pubDate>Wed, 09 Mar 2022 03:50:08 GMT</pubDate>
-            <description><![CDATA[Show HN: HyperSudoku – Multiplayer sudoku puzzle every 15 min]]></description>
         </item>
     </channel>
 </rss>

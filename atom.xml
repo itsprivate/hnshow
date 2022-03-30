@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-30T02:28:47.326Z</updated>
+    <updated>2022-03-30T03:46:53.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[只是一个日历。查看简单的日历，无需登录，超级轻便]]></title>
+        <id>https://news.ycombinator.com/item?id=30851174</id>
+        <link href="https://news.ycombinator.com/item?id=30851174"/>
+        <updated>2022-03-30T03:11:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Just a Calendar: Simple Calendar to look at, no login, super light]]></summary>
+        <author>
+            <name>sharat87</name>
+            <uri>https://news.ycombinator.com/user?id=sharat87</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scriptbar Snippets - 在浏览器中保存方便的代码片段]]></title>
         <id>https://news.ycombinator.com/item?id=30850458</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>redstarpa</name>
             <uri>https://news.ycombinator.com/user?id=redstarpa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超级数独 - 每15分钟一次的多人数独游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=30610718</id>
-        <link href="https://news.ycombinator.com/item?id=30610718"/>
-        <updated>2022-03-09T03:50:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: HyperSudoku – Multiplayer sudoku puzzle every 15 min]]></summary>
-        <author>
-            <name>arrkco</name>
-            <uri>https://news.ycombinator.com/user?id=arrkco</uri>
         </author>
     </entry>
 </feed>
