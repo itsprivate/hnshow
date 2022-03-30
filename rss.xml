@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 30 Mar 2022 13:48:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 13:53:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[通过审查产品破损后的寿命来跟踪产品的使用寿命]]></title>
+            <link>https://news.ycombinator.com/item?id=30855193</link>
+            <guid>https://news.ycombinator.com/item?id=30855193</guid>
+            <pubDate>Wed, 30 Mar 2022 13:49:30 GMT</pubDate>
+            <description><![CDATA[Show HN: Tracking the longevity of products by reviewing them after they break]]></description>
+        </item>
         <item>
             <title><![CDATA[打开特斯拉充电端口的网页]]></title>
             <link>https://news.ycombinator.com/item?id=30854927</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30616216</guid>
             <pubDate>Wed, 09 Mar 2022 16:19:27 GMT</pubDate>
             <description><![CDATA[Browser extension to quickly open/add bookmarks via keywords like a CLI]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Commandline, a C++ library for async terminal I/O]]></title>
-            <link>https://news.ycombinator.com/item?id=30616175</link>
-            <guid>https://news.ycombinator.com/item?id=30616175</guid>
-            <pubDate>Wed, 09 Mar 2022 16:17:30 GMT</pubDate>
-            <description><![CDATA[Commandline, a C++ library for async terminal I/O]]></description>
         </item>
     </channel>
 </rss>
