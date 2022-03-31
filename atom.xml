@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T16:54:01.407Z</updated>
+    <updated>2022-03-31T17:09:18.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个网站探索游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=30869570</id>
+        <link href="https://news.ycombinator.com/item?id=30869570"/>
+        <updated>2022-03-31T17:01:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Website Exploration Game]]></summary>
+        <author>
+            <name>marginalia_nu</name>
+            <uri>https://news.ycombinator.com/user?id=marginalia_nu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Magma Studio - 用于游戏开发/动画的多人绘画/艺术平台]]></title>
         <id>https://news.ycombinator.com/item?id=30869131</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>arpit</name>
             <uri>https://news.ycombinator.com/user?id=arpit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ratarmount - 通过FUSE快速透明地访问档案馆]]></title>
-        <id>https://news.ycombinator.com/item?id=30631387</id>
-        <link href="https://news.ycombinator.com/item?id=30631387"/>
-        <updated>2022-03-10T19:35:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ratarmount – Fast transparent access to archives through FUSE]]></summary>
-        <author>
-            <name>mxmlnkn</name>
-            <uri>https://news.ycombinator.com/user?id=mxmlnkn</uri>
         </author>
     </entry>
 </feed>

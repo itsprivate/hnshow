@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 31 Mar 2022 16:54:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 17:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个网站探索游戏]]></title>
+            <link>https://news.ycombinator.com/item?id=30869570</link>
+            <guid>https://news.ycombinator.com/item?id=30869570</guid>
+            <pubDate>Thu, 31 Mar 2022 17:01:15 GMT</pubDate>
+            <description><![CDATA[Show HN: A Website Exploration Game]]></description>
+        </item>
         <item>
             <title><![CDATA[Magma Studio - 用于游戏开发/动画的多人绘画/艺术平台]]></title>
             <link>https://news.ycombinator.com/item?id=30869131</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30632123</guid>
             <pubDate>Thu, 10 Mar 2022 20:37:46 GMT</pubDate>
             <description><![CDATA[Show HN: Pantry tracker with progress bars/alerts when items are about to go bad]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ratarmount - 通过FUSE快速透明地访问档案馆]]></title>
-            <link>https://news.ycombinator.com/item?id=30631387</link>
-            <guid>https://news.ycombinator.com/item?id=30631387</guid>
-            <pubDate>Thu, 10 Mar 2022 19:35:46 GMT</pubDate>
-            <description><![CDATA[Show HN: Ratarmount – Fast transparent access to archives through FUSE]]></description>
         </item>
     </channel>
 </rss>
