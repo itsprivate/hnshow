@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T14:32:22.286Z</updated>
+    <updated>2022-03-31T15:38:02.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[熱泵與其他取暖方式的成本計算]]></title>
+        <id>https://news.ycombinator.com/item?id=30868307</id>
+        <link href="https://news.ycombinator.com/item?id=30868307"/>
+        <updated>2022-03-31T15:29:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Heat Pump vs. Other Heating Cost Calculator]]></summary>
+        <author>
+            <name>Siecje</name>
+            <uri>https://news.ycombinator.com/user?id=Siecje</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日英圖畫詞典，現在帶有SRS閃卡]]></title>
         <id>https://news.ycombinator.com/item?id=30867519</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dreamsome</name>
             <uri>https://news.ycombinator.com/user?id=dreamsome</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寵物知識問答網]]></title>
-        <id>https://news.ycombinator.com/item?id=30628388</id>
-        <link href="https://news.ycombinator.com/item?id=30628388"/>
-        <updated>2022-03-10T16:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Petlovequiz.com]]></summary>
-        <author>
-            <name>davidpalacios</name>
-            <uri>https://news.ycombinator.com/user?id=davidpalacios</uri>
         </author>
     </entry>
 </feed>
