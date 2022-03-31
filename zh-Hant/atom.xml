@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T13:50:39.214Z</updated>
+    <updated>2022-03-31T14:15:07.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一款讓購物成為社交的應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30867373</id>
+        <link href="https://news.ycombinator.com/item?id=30867373"/>
+        <updated>2022-03-31T14:09:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An app that makes shopping social]]></summary>
+        <author>
+            <name>julianandjuliet</name>
+            <uri>https://news.ycombinator.com/user?id=julianandjuliet</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana Workbench，您的Solana開發一站式商店]]></title>
+        <id>https://news.ycombinator.com/item?id=30867134</id>
+        <link href="https://news.ycombinator.com/item?id=30867134"/>
+        <updated>2022-03-31T13:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Solana Workbench, your one stop shop for Solana development]]></summary>
+        <author>
+            <name>zenlikethat</name>
+            <uri>https://news.ycombinator.com/user?id=zenlikethat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solana Workbench，您的Solana開發一站式商店]]></title>
         <id>https://news.ycombinator.com/item?id=30867057</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>vulgar_otter</name>
             <uri>https://news.ycombinator.com/user?id=vulgar_otter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多層CSS梯度生成器]]></title>
-        <id>https://news.ycombinator.com/item?id=30627823</id>
-        <link href="https://news.ycombinator.com/item?id=30627823"/>
-        <updated>2022-03-10T15:16:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Multi-Layer CSS Gradient Generator]]></summary>
-        <author>
-            <name>tonerow</name>
-            <uri>https://news.ycombinator.com/user?id=tonerow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加速融合科學--一篇文字轉語音的文章]]></title>
-        <id>https://news.ycombinator.com/item?id=30627616</id>
-        <link href="https://news.ycombinator.com/item?id=30627616"/>
-        <updated>2022-03-10T14:59:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Accelerating Fusion Science – A Text-to-Speech Article]]></summary>
-        <author>
-            <name>Simorgh</name>
-            <uri>https://news.ycombinator.com/user?id=Simorgh</uri>
         </author>
     </entry>
 </feed>
