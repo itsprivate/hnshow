@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 31 Mar 2022 11:37:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 11:51:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[15Rock开源TCFD报告工具]]></title>
+            <link>https://news.ycombinator.com/item?id=30866077</link>
+            <guid>https://news.ycombinator.com/item?id=30866077</guid>
+            <pubDate>Thu, 31 Mar 2022 11:42:04 GMT</pubDate>
+            <description><![CDATA[Show HN: 15Rock open sources TCFD reporting tool]]></description>
+        </item>
         <item>
             <title><![CDATA[开源的角色管理和权限库]]></title>
             <link>https://news.ycombinator.com/item?id=30866012</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30627202</guid>
             <pubDate>Thu, 10 Mar 2022 14:24:34 GMT</pubDate>
             <description><![CDATA[Show HN: Dockerized – Run CLI tools without installation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Parsers VC - 实时跟踪风险投资数据的供应商]]></title>
-            <link>https://news.ycombinator.com/item?id=30627121</link>
-            <guid>https://news.ycombinator.com/item?id=30627121</guid>
-            <pubDate>Thu, 10 Mar 2022 14:16:32 GMT</pubDate>
-            <description><![CDATA[Show HN: Parsers VC – Real-time tracking Venture Capital data provider]]></description>
         </item>
     </channel>
 </rss>

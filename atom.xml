@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T11:37:16.419Z</updated>
+    <updated>2022-03-31T11:51:36.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[15Rock开源TCFD报告工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30866077</id>
+        <link href="https://news.ycombinator.com/item?id=30866077"/>
+        <updated>2022-03-31T11:42:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: 15Rock open sources TCFD reporting tool]]></summary>
+        <author>
+            <name>lostsoul8282</name>
+            <uri>https://news.ycombinator.com/user?id=lostsoul8282</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源的角色管理和权限库]]></title>
         <id>https://news.ycombinator.com/item?id=30866012</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>datastack</name>
             <uri>https://news.ycombinator.com/user?id=datastack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parsers VC - 实时跟踪风险投资数据的供应商]]></title>
-        <id>https://news.ycombinator.com/item?id=30627121</id>
-        <link href="https://news.ycombinator.com/item?id=30627121"/>
-        <updated>2022-03-10T14:16:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Parsers VC – Real-time tracking Venture Capital data provider]]></summary>
-        <author>
-            <name>loeona</name>
-            <uri>https://news.ycombinator.com/user?id=loeona</uri>
         </author>
     </entry>
 </feed>
