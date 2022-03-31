@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T06:39:06.891Z</updated>
+    <updated>2022-03-31T07:31:53.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我为我的孩子们做了一个数学应用游戏，帮助他们进行正负计算。]]></title>
+        <id>https://news.ycombinator.com/item?id=30864647</id>
+        <link href="https://news.ycombinator.com/item?id=30864647"/>
+        <updated>2022-03-31T07:11:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a math app game for my kids to help them with plus/minus calcs]]></summary>
+        <author>
+            <name>Hitman666</name>
+            <uri>https://news.ycombinator.com/user?id=Hitman666</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kusk-gateway，一个OpenAPI入口控制器，现在已经进入Beta版。]]></title>
         <id>https://news.ycombinator.com/item?id=30864349</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>AshleysBrain</name>
             <uri>https://news.ycombinator.com/user?id=AshleysBrain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于QEMU的浏览器内串行控制台客户端]]></title>
-        <id>https://news.ycombinator.com/item?id=30625304</id>
-        <link href="https://news.ycombinator.com/item?id=30625304"/>
-        <updated>2022-03-10T10:27:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: In-browser serial console client for QEMU]]></summary>
-        <author>
-            <name>ddiss</name>
-            <uri>https://news.ycombinator.com/user?id=ddiss</uri>
         </author>
     </entry>
 </feed>
