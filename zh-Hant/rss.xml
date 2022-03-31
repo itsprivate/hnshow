@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 31 Mar 2022 17:09:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 17:46:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Pync - 用於Python的Netcat]]></title>
+            <link>https://news.ycombinator.com/item?id=30869910</link>
+            <guid>https://news.ycombinator.com/item?id=30869910</guid>
+            <pubDate>Thu, 31 Mar 2022 17:26:07 GMT</pubDate>
+            <description><![CDATA[Show HN: Pync – Netcat for Python]]></description>
+        </item>
         <item>
             <title><![CDATA[一個網站探索遊戲]]></title>
             <link>https://news.ycombinator.com/item?id=30869570</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30631991</guid>
             <pubDate>Thu, 10 Mar 2022 20:27:51 GMT</pubDate>
             <description><![CDATA[Show HN: Prepform – AI and spaced-repetition to optimize learning]]></description>
-        </item>
-        <item>
-            <title><![CDATA[儲藏室跟蹤器，帶有進度條/物品即將變壞時的提醒]]></title>
-            <link>https://news.ycombinator.com/item?id=30632123</link>
-            <guid>https://news.ycombinator.com/item?id=30632123</guid>
-            <pubDate>Thu, 10 Mar 2022 20:37:46 GMT</pubDate>
-            <description><![CDATA[Show HN: Pantry tracker with progress bars/alerts when items are about to go bad]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T17:09:18.458Z</updated>
+    <updated>2022-03-31T17:46:09.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Pync - 用於Python的Netcat]]></title>
+        <id>https://news.ycombinator.com/item?id=30869910</id>
+        <link href="https://news.ycombinator.com/item?id=30869910"/>
+        <updated>2022-03-31T17:26:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pync – Netcat for Python]]></summary>
+        <author>
+            <name>brenw0rth</name>
+            <uri>https://news.ycombinator.com/user?id=brenw0rth</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個網站探索遊戲]]></title>
         <id>https://news.ycombinator.com/item?id=30869570</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>techmowgli</name>
             <uri>https://news.ycombinator.com/user?id=techmowgli</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[儲藏室跟蹤器，帶有進度條/物品即將變壞時的提醒]]></title>
-        <id>https://news.ycombinator.com/item?id=30632123</id>
-        <link href="https://news.ycombinator.com/item?id=30632123"/>
-        <updated>2022-03-10T20:37:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pantry tracker with progress bars/alerts when items are about to go bad]]></summary>
-        <author>
-            <name>arpit</name>
-            <uri>https://news.ycombinator.com/user?id=arpit</uri>
         </author>
     </entry>
 </feed>
