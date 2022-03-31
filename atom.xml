@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T21:52:24.620Z</updated>
+    <updated>2022-03-31T22:12:38.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个愚蠢的游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=30867002</id>
+        <link href="https://news.ycombinator.com/item?id=30867002"/>
+        <updated>2022-03-31T13:36:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I Made a Stupid Game]]></summary>
+        <author>
+            <name>last_one_in</name>
+            <uri>https://news.ycombinator.com/user?id=last_one_in</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celestron--提交给madewithreplit的塔防作品]]></title>
         <id>https://news.ycombinator.com/item?id=30872540</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>BrandiATMuhkuh</name>
             <uri>https://news.ycombinator.com/user?id=BrandiATMuhkuh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Soda Flow - 一个小型、简单的CSS和排版工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30636684</id>
-        <link href="https://news.ycombinator.com/item?id=30636684"/>
-        <updated>2022-03-11T05:42:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CSS Soda Flow – a small, simple CSS and typography tool]]></summary>
-        <author>
-            <name>modinfo</name>
-            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
         </author>
     </entry>
 </feed>
