@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T18:16:02.287Z</updated>
+    <updated>2022-03-31T19:28:29.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Nginx常见的有用配置]]></title>
+        <id>https://news.ycombinator.com/item?id=30871242</id>
+        <link href="https://news.ycombinator.com/item?id=30871242"/>
+        <updated>2022-03-31T19:21:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Nginx Common Useful Configuration]]></summary>
+        <author>
+            <name>frizzy</name>
+            <uri>https://news.ycombinator.com/user?id=frizzy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于发展新的创业公司的自我托管技术启动包]]></title>
+        <id>https://news.ycombinator.com/item?id=30871211</id>
+        <link href="https://news.ycombinator.com/item?id=30871211"/>
+        <updated>2022-03-31T19:17:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Selfhosted tech starter pack for development of new startup]]></summary>
+        <author>
+            <name>frizzy</name>
+            <uri>https://news.ycombinator.com/user?id=frizzy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个应用程序来监测和提醒ETH气体费用低的时候]]></title>
         <id>https://news.ycombinator.com/item?id=30870391</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>zorlack</name>
             <uri>https://news.ycombinator.com/user?id=zorlack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们是Substack的创始人，我们刚刚推出了一个iOS应用程序。AMA]]></title>
-        <id>https://news.ycombinator.com/item?id=30632952</id>
-        <link href="https://news.ycombinator.com/item?id=30632952"/>
-        <updated>2022-03-10T21:51:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We’re the founders of Substack, we just launched an iOS app. AMA]]></summary>
-        <author>
-            <name>internet_jockey</name>
-            <uri>https://news.ycombinator.com/user?id=internet_jockey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asmle - 512个字节中的Wordle]]></title>
-        <id>https://news.ycombinator.com/item?id=30630574</id>
-        <link href="https://news.ycombinator.com/item?id=30630574"/>
-        <updated>2022-03-10T18:33:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Asmle – Wordle in 512 Bytes]]></summary>
-        <author>
-            <name>KatPurpy</name>
-            <uri>https://news.ycombinator.com/user?id=KatPurpy</uri>
         </author>
     </entry>
 </feed>
