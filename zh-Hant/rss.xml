@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 31 Mar 2022 15:38:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 15:56:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Hexmap，基於WebGL/WASM的互動式二進制數據探索]]></title>
+            <link>https://news.ycombinator.com/item?id=30868423</link>
+            <guid>https://news.ycombinator.com/item?id=30868423</guid>
+            <pubDate>Thu, 31 Mar 2022 15:40:32 GMT</pubDate>
+            <description><![CDATA[Show HN: Hexmap, interactive WebGL/WASM based binary data exploration]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個小遊戲應用程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30868394</link>
+            <guid>https://news.ycombinator.com/item?id=30868394</guid>
+            <pubDate>Thu, 31 Mar 2022 15:37:50 GMT</pubDate>
+            <description><![CDATA[Show HN: A Trivia App]]></description>
+        </item>
         <item>
             <title><![CDATA[熱泵與其他取暖方式的成本計算]]></title>
             <link>https://news.ycombinator.com/item?id=30868307</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30629400</guid>
             <pubDate>Thu, 10 Mar 2022 17:15:03 GMT</pubDate>
             <description><![CDATA[Show HN: API Inventory and Test Automation = ApiHome]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Curacel (YC W22)為非洲的保險業提供格子布]]></title>
-            <link>https://news.ycombinator.com/item?id=30629200</link>
-            <guid>https://news.ycombinator.com/item?id=30629200</guid>
-            <pubDate>Thu, 10 Mar 2022 16:59:43 GMT</pubDate>
-            <description><![CDATA[Show HN: Curacel (YC W22) Plaid for Insurance in Africa]]></description>
-        </item>
-        <item>
-            <title><![CDATA[區塊鏈Spark--將智能合約活動解碼成DataFrame]]></title>
-            <link>https://news.ycombinator.com/item?id=30628733</link>
-            <guid>https://news.ycombinator.com/item?id=30628733</guid>
-            <pubDate>Thu, 10 Mar 2022 16:28:27 GMT</pubDate>
-            <description><![CDATA[Show HN: Blockchain Spark – Decode smart contract activity into DataFrame]]></description>
         </item>
     </channel>
 </rss>

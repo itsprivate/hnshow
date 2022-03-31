@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T15:38:02.703Z</updated>
+    <updated>2022-03-31T15:56:39.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Hexmap，基于WebGL/WASM的互动式二进制数据探索]]></title>
+        <id>https://news.ycombinator.com/item?id=30868423</id>
+        <link href="https://news.ycombinator.com/item?id=30868423"/>
+        <updated>2022-03-31T15:40:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hexmap, interactive WebGL/WASM based binary data exploration]]></summary>
+        <author>
+            <name>Unit520</name>
+            <uri>https://news.ycombinator.com/user?id=Unit520</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个小游戏应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30868394</id>
+        <link href="https://news.ycombinator.com/item?id=30868394"/>
+        <updated>2022-03-31T15:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Trivia App]]></summary>
+        <author>
+            <name>Pranav2612000</name>
+            <uri>https://news.ycombinator.com/user?id=Pranav2612000</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[热泵与其他取暖方式的成本计算]]></title>
         <id>https://news.ycombinator.com/item?id=30868307</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>sgshanks</name>
             <uri>https://news.ycombinator.com/user?id=sgshanks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curacel (YC W22)为非洲的保险业提供格子布]]></title>
-        <id>https://news.ycombinator.com/item?id=30629200</id>
-        <link href="https://news.ycombinator.com/item?id=30629200"/>
-        <updated>2022-03-10T16:59:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Curacel (YC W22) Plaid for Insurance in Africa]]></summary>
-        <author>
-            <name>henrino3</name>
-            <uri>https://news.ycombinator.com/user?id=henrino3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[区块链Spark--将智能合约活动解码成DataFrame]]></title>
-        <id>https://news.ycombinator.com/item?id=30628733</id>
-        <link href="https://news.ycombinator.com/item?id=30628733"/>
-        <updated>2022-03-10T16:28:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Blockchain Spark – Decode smart contract activity into DataFrame]]></summary>
-        <author>
-            <name>dreamsome</name>
-            <uri>https://news.ycombinator.com/user?id=dreamsome</uri>
         </author>
     </entry>
 </feed>
