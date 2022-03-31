@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T05:13:13.237Z</updated>
+    <updated>2022-03-31T06:39:06.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Kusk-gateway，一个OpenAPI入口控制器，现在已经进入Beta版。]]></title>
+        <id>https://news.ycombinator.com/item?id=30864349</id>
+        <link href="https://news.ycombinator.com/item?id=30864349"/>
+        <updated>2022-03-31T06:16:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Kusk-gateway, an OpenAPI Ingress Controller, is now in Beta]]></summary>
+        <author>
+            <name>aabedraba</name>
+            <uri>https://news.ycombinator.com/user?id=aabedraba</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nitric - 无服务器应用程序的开源框架，无锁定性]]></title>
         <id>https://news.ycombinator.com/item?id=30863957</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ddiss</name>
             <uri>https://news.ycombinator.com/user?id=ddiss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用JupyterLab进行实时协作的VTK可视化]]></title>
-        <id>https://news.ycombinator.com/item?id=30624939</id>
-        <link href="https://news.ycombinator.com/item?id=30624939"/>
-        <updated>2022-03-10T09:23:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Real-Time Collaborative VTK Visualization with JupyterLab]]></summary>
-        <author>
-            <name>trungld</name>
-            <uri>https://news.ycombinator.com/user?id=trungld</uri>
         </author>
     </entry>
 </feed>

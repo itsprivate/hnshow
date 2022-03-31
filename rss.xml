@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 31 Mar 2022 05:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 06:39:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Kusk-gateway，一个OpenAPI入口控制器，现在已经进入Beta版。]]></title>
+            <link>https://news.ycombinator.com/item?id=30864349</link>
+            <guid>https://news.ycombinator.com/item?id=30864349</guid>
+            <pubDate>Thu, 31 Mar 2022 06:16:41 GMT</pubDate>
+            <description><![CDATA[Show HN: Kusk-gateway, an OpenAPI Ingress Controller, is now in Beta]]></description>
+        </item>
         <item>
             <title><![CDATA[Nitric - 无服务器应用程序的开源框架，无锁定性]]></title>
             <link>https://news.ycombinator.com/item?id=30863957</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30625304</guid>
             <pubDate>Thu, 10 Mar 2022 10:27:50 GMT</pubDate>
             <description><![CDATA[Show HN: In-browser serial console client for QEMU]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用JupyterLab进行实时协作的VTK可视化]]></title>
-            <link>https://news.ycombinator.com/item?id=30624939</link>
-            <guid>https://news.ycombinator.com/item?id=30624939</guid>
-            <pubDate>Thu, 10 Mar 2022 09:23:20 GMT</pubDate>
-            <description><![CDATA[Show HN: Real-Time Collaborative VTK Visualization with JupyterLab]]></description>
         </item>
     </channel>
 </rss>
