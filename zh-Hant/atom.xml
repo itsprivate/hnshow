@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-30T20:14:18.336Z</updated>
+    <updated>2022-03-31T04:13:42.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[環境作為一種服務。一個創建短暫環境的平臺]]></title>
+        <id>https://news.ycombinator.com/item?id=30863708</id>
+        <link href="https://news.ycombinator.com/item?id=30863708"/>
+        <updated>2022-03-31T04:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Environments as a service. A platform to create ephemeral environments]]></summary>
+        <author>
+            <name>pratikshadake</name>
+            <uri>https://news.ycombinator.com/user?id=pratikshadake</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於CI/CD的開放源碼和協作平臺]]></title>
         <id>https://news.ycombinator.com/item?id=30853914</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>macondorivers</name>
             <uri>https://news.ycombinator.com/user?id=macondorivers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better Choice for Dailymotion video download – DMsave]]></title>
-        <id>https://news.ycombinator.com/item?id=30624007</id>
-        <link href="https://news.ycombinator.com/item?id=30624007"/>
-        <updated>2022-03-10T07:19:08.000Z</updated>
-        <summary type="html"><![CDATA[Better Choice for Dailymotion video download – DMsave]]></summary>
-        <author>
-            <name>Vimeomate</name>
-            <uri>https://news.ycombinator.com/user?id=Vimeomate</uri>
         </author>
     </entry>
 </feed>
