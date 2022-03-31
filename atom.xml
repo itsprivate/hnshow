@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T11:51:36.183Z</updated>
+    <updated>2022-03-31T13:00:20.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每天2分钟的专业成长[iOS应用的全面重建]]]></title>
+        <id>https://news.ycombinator.com/item?id=30866342</id>
+        <link href="https://news.ycombinator.com/item?id=30866342"/>
+        <updated>2022-03-31T12:20:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Professional growth in 2 min a day [total rebuild of iOS app]]]></summary>
+        <author>
+            <name>darjagutnick</name>
+            <uri>https://news.ycombinator.com/user?id=darjagutnick</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[15Rock开源TCFD报告工具]]></title>
         <id>https://news.ycombinator.com/item?id=30866077</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kartayyar</name>
             <uri>https://news.ycombinator.com/user?id=kartayyar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dockerized - 无需安装即可运行CLI工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30627202</id>
-        <link href="https://news.ycombinator.com/item?id=30627202"/>
-        <updated>2022-03-10T14:24:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dockerized – Run CLI tools without installation]]></summary>
-        <author>
-            <name>datastack</name>
-            <uri>https://news.ycombinator.com/user?id=datastack</uri>
         </author>
     </entry>
 </feed>
