@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T10:53:39.242Z</updated>
+    <updated>2022-03-31T11:12:29.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SHOW HN：將你的無聊任務變成有趣的遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30865578</id>
+        <link href="https://news.ycombinator.com/item?id=30865578"/>
+        <updated>2022-03-31T10:17:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SHOW HN: Turn your boring tasks into a fun game]]></summary>
+        <author>
+            <name>marclou</name>
+            <uri>https://news.ycombinator.com/user?id=marclou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個收集反饋和顯示你正在進行的功能的小部件]]></title>
         <id>https://news.ycombinator.com/item?id=30865746</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dtagames</name>
             <uri>https://news.ycombinator.com/user?id=dtagames</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我為初創企業做了職業網站建設者]]></title>
-        <id>https://news.ycombinator.com/item?id=30626557</id>
-        <link href="https://news.ycombinator.com/item?id=30626557"/>
-        <updated>2022-03-10T13:19:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made careers site builder for startups]]></summary>
-        <author>
-            <name>MD_page</name>
-            <uri>https://news.ycombinator.com/user?id=MD_page</uri>
         </author>
     </entry>
 </feed>
