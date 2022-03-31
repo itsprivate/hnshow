@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T09:44:23.018Z</updated>
+    <updated>2022-03-31T10:17:07.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[追踪免费、FOSS、URL缩短器]]></title>
+        <id>https://news.ycombinator.com/item?id=30865491</id>
+        <link href="https://news.ycombinator.com/item?id=30865491"/>
+        <updated>2022-03-31T09:59:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tracking free, FOSS, URL shortener]]></summary>
+        <author>
+            <name>mcs_</name>
+            <uri>https://news.ycombinator.com/user?id=mcs_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个能在你输入时放屁的VSCode扩展程序]]></title>
         <id>https://news.ycombinator.com/item?id=30865360</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>eriksjolund</name>
             <uri>https://news.ycombinator.com/user?id=eriksjolund</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一项服务来发现快速增长的市场、初创企业和应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30625877</id>
-        <link href="https://news.ycombinator.com/item?id=30625877"/>
-        <updated>2022-03-10T11:49:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a service to discover fast-growing markets, startups and apps]]></summary>
-        <author>
-            <name>jakobgreenfeld</name>
-            <uri>https://news.ycombinator.com/user?id=jakobgreenfeld</uri>
         </author>
     </entry>
 </feed>
