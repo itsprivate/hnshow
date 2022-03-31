@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T17:46:09.797Z</updated>
+    <updated>2022-03-31T18:16:02.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个应用程序来监测和提醒ETH气体费用低的时候]]></title>
+        <id>https://news.ycombinator.com/item?id=30870391</id>
+        <link href="https://news.ycombinator.com/item?id=30870391"/>
+        <updated>2022-03-31T18:07:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I've made an app to monitor and remind when ETH gas fee is low]]></summary>
+        <author>
+            <name>pradeepb28</name>
+            <uri>https://news.ycombinator.com/user?id=pradeepb28</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pync - 用于Python的Netcat]]></title>
         <id>https://news.ycombinator.com/item?id=30869910</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>KatPurpy</name>
             <uri>https://news.ycombinator.com/user?id=KatPurpy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prepform - 人工智能和间隔重复来优化学习]]></title>
-        <id>https://news.ycombinator.com/item?id=30631991</id>
-        <link href="https://news.ycombinator.com/item?id=30631991"/>
-        <updated>2022-03-10T20:27:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Prepform – AI and spaced-repetition to optimize learning]]></summary>
-        <author>
-            <name>techmowgli</name>
-            <uri>https://news.ycombinator.com/user?id=techmowgli</uri>
         </author>
     </entry>
 </feed>
