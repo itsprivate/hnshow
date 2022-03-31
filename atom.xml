@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T14:15:07.679Z</updated>
+    <updated>2022-03-31T14:32:22.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[日英图画词典，现在带有SRS闪卡]]></title>
+        <id>https://news.ycombinator.com/item?id=30867519</id>
+        <link href="https://news.ycombinator.com/item?id=30867519"/>
+        <updated>2022-03-31T14:21:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Japanese-English picture dictionary, now with SRS flashcards]]></summary>
+        <author>
+            <name>mhay</name>
+            <uri>https://news.ycombinator.com/user?id=mhay</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一款让购物成为社交的应用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30867373</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>davidpalacios</name>
             <uri>https://news.ycombinator.com/user?id=davidpalacios</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nbpreview - 一个用于Jupyter笔记本的终端浏览器]]></title>
-        <id>https://news.ycombinator.com/item?id=30628167</id>
-        <link href="https://news.ycombinator.com/item?id=30628167"/>
-        <updated>2022-03-10T15:44:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Nbpreview – a terminal viewer for Jupyter notebooks]]></summary>
-        <author>
-            <name>vulgar_otter</name>
-            <uri>https://news.ycombinator.com/user?id=vulgar_otter</uri>
         </author>
     </entry>
 </feed>
