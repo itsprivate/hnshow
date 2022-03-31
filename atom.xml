@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T13:00:20.361Z</updated>
+    <updated>2022-03-31T13:50:39.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Solana Workbench，您的Solana开发一站式商店]]></title>
+        <id>https://news.ycombinator.com/item?id=30867057</id>
+        <link href="https://news.ycombinator.com/item?id=30867057"/>
+        <updated>2022-03-31T13:42:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Solana Workbench, your one stop shop for Solana development]]></summary>
+        <author>
+            <name>zenlikethat</name>
+            <uri>https://news.ycombinator.com/user?id=zenlikethat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序员的互动指南，使收入最大化，成本最小化]]></title>
+        <id>https://news.ycombinator.com/item?id=30866885</id>
+        <link href="https://news.ycombinator.com/item?id=30866885"/>
+        <updated>2022-03-31T13:25:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Programmer's Interactive Guide to Maximize Revenue and Minimize Costs]]></summary>
+        <author>
+            <name>jozsefdev</name>
+            <uri>https://news.ycombinator.com/user?id=jozsefdev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面向DevOps社区的开源自动化脚本]]></title>
+        <id>https://news.ycombinator.com/item?id=30865469</id>
+        <link href="https://news.ycombinator.com/item?id=30865469"/>
+        <updated>2022-03-31T09:56:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-source automation scripts for DevOps community]]></summary>
+        <author>
+            <name>samsonazatyan</name>
+            <uri>https://news.ycombinator.com/user?id=samsonazatyan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Vim键绑定的最快的日计划工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30859052</id>
+        <link href="https://news.ycombinator.com/item?id=30859052"/>
+        <updated>2022-03-30T18:35:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The fastest day planning tool with Vim keybindings]]></summary>
+        <author>
+            <name>captain-phil</name>
+            <uri>https://news.ycombinator.com/user?id=captain-phil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每天2分钟的专业成长[iOS应用的全面重建]]]></title>
         <id>https://news.ycombinator.com/item?id=30866342</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>Simorgh</name>
             <uri>https://news.ycombinator.com/user?id=Simorgh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[节段--Python中的简易树形数据结构]]></title>
-        <id>https://news.ycombinator.com/item?id=30627582</id>
-        <link href="https://news.ycombinator.com/item?id=30627582"/>
-        <updated>2022-03-10T14:55:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Sections – Easy tree data structures in Python]]></summary>
-        <author>
-            <name>emacs28</name>
-            <uri>https://news.ycombinator.com/user?id=emacs28</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fx - 一个工作区工具管理器，用于创建开发者友好的CLI工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30627541</id>
-        <link href="https://news.ycombinator.com/item?id=30627541"/>
-        <updated>2022-03-10T14:51:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: fx – a workspace tool manager to create developer friendly CLI tools]]></summary>
-        <author>
-            <name>jathu</name>
-            <uri>https://news.ycombinator.com/user?id=jathu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Afterplay - 在浏览器中通过所有设备玩你的复古游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=30627372</id>
-        <link href="https://news.ycombinator.com/item?id=30627372"/>
-        <updated>2022-03-10T14:37:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Afterplay – Play your retro games in a browser across all your devices]]></summary>
-        <author>
-            <name>jimjimjimjim</name>
-            <uri>https://news.ycombinator.com/user?id=jimjimjimjim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[避免带有付费墙或过多广告的搜索结果链接]]></title>
-        <id>https://news.ycombinator.com/item?id=30627294</id>
-        <link href="https://news.ycombinator.com/item?id=30627294"/>
-        <updated>2022-03-10T14:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Avoid search result links with paywalls or excessive ads]]></summary>
-        <author>
-            <name>kartayyar</name>
-            <uri>https://news.ycombinator.com/user?id=kartayyar</uri>
         </author>
     </entry>
 </feed>
