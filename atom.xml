@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T04:13:42.157Z</updated>
+    <updated>2022-03-31T05:13:13.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Nitric - 无服务器应用程序的开源框架，无锁定性]]></title>
+        <id>https://news.ycombinator.com/item?id=30863957</id>
+        <link href="https://news.ycombinator.com/item?id=30863957"/>
+        <updated>2022-03-31T04:58:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Nitric – An open-source framework for serverless apps without lock-in]]></summary>
+        <author>
+            <name>jcusch</name>
+            <uri>https://news.ycombinator.com/user?id=jcusch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[环境作为一种服务。一个创建短暂环境的平台]]></title>
         <id>https://news.ycombinator.com/item?id=30863708</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>trungld</name>
             <uri>https://news.ycombinator.com/user?id=trungld</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扔掉 - 一次性使用，1-1，e2e加密信息传递（在浏览器中）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30624920</id>
-        <link href="https://news.ycombinator.com/item?id=30624920"/>
-        <updated>2022-03-10T09:21:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Throwaway – single-use, 1-1, e2e encrypted messaging (in-browser)]]></summary>
-        <author>
-            <name>macondorivers</name>
-            <uri>https://news.ycombinator.com/user?id=macondorivers</uri>
         </author>
     </entry>
 </feed>
