@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 31 Mar 2022 23:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 23:43:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[带有缩略图预览和链接细节的黑客新闻界面]]></title>
+            <link>https://news.ycombinator.com/item?id=30873438</link>
+            <guid>https://news.ycombinator.com/item?id=30873438</guid>
+            <pubDate>Thu, 31 Mar 2022 23:27:54 GMT</pubDate>
+            <description><![CDATA[Show HN: Hacker News interface with thumbnail previews plus details about links]]></description>
+        </item>
         <item>
             <title><![CDATA[用你的数字键盘来徒步旅行洛斯帕德雷斯国家森林]]></title>
             <link>https://news.ycombinator.com/item?id=30873448</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30639160</guid>
             <pubDate>Fri, 11 Mar 2022 12:49:55 GMT</pubDate>
             <description><![CDATA[Show HN: Google Maps Shadow Calculator]]></description>
-        </item>
-        <item>
-            <title><![CDATA[去他妈的Twitter搜索，Bird搜索在这里]]></title>
-            <link>https://news.ycombinator.com/item?id=30639109</link>
-            <guid>https://news.ycombinator.com/item?id=30639109</guid>
-            <pubDate>Fri, 11 Mar 2022 12:44:03 GMT</pubDate>
-            <description><![CDATA[Show HN: Fuck Twitter search, Bird search is here]]></description>
         </item>
     </channel>
 </rss>
