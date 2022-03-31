@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T20:52:33.542Z</updated>
+    <updated>2022-03-31T21:52:24.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Celestron--提交給madewithreplit的塔防作品]]></title>
+        <id>https://news.ycombinator.com/item?id=30872540</id>
+        <link href="https://news.ycombinator.com/item?id=30872540"/>
+        <updated>2022-03-31T21:44:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Celestron – a tower defense submission to madewithreplit]]></summary>
+        <author>
+            <name>IroncladDev</name>
+            <uri>https://news.ycombinator.com/user?id=IroncladDev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帶有錯誤恢復功能的Python類型分析器組合庫]]></title>
         <id>https://news.ycombinator.com/item?id=30871933</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>modinfo</name>
             <uri>https://news.ycombinator.com/user?id=modinfo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[編碼的絕對初學者YouTube頻道]]></title>
-        <id>https://news.ycombinator.com/item?id=30636481</id>
-        <link href="https://news.ycombinator.com/item?id=30636481"/>
-        <updated>2022-03-11T05:11:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Coding for absolute beginners YouTube channel]]></summary>
-        <author>
-            <name>codeguppy</name>
-            <uri>https://news.ycombinator.com/user?id=codeguppy</uri>
         </author>
     </entry>
 </feed>
