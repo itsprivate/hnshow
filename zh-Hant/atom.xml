@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T10:17:07.351Z</updated>
+    <updated>2022-03-31T10:38:42.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[無通信的鍋爐模板 有狀態的無服務器]]></title>
+        <id>https://news.ycombinator.com/item?id=30865627</id>
+        <link href="https://news.ycombinator.com/item?id=30865627"/>
+        <updated>2022-03-31T10:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: No-communication-boilerplate Stateful Serverless]]></summary>
+        <author>
+            <name>eneuman</name>
+            <uri>https://news.ycombinator.com/user?id=eneuman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brametric - 確定你的正確胸罩尺寸的高級計算器]]></title>
+        <id>https://news.ycombinator.com/item?id=30865572</id>
+        <link href="https://news.ycombinator.com/item?id=30865572"/>
+        <updated>2022-03-31T10:15:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Brametric – Advanced calculator to determining your correct bra size]]></summary>
+        <author>
+            <name>Mike-br</name>
+            <uri>https://news.ycombinator.com/user?id=Mike-br</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[追蹤免費、FOSS、URL縮短器]]></title>
         <id>https://news.ycombinator.com/item?id=30865491</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>harbottle</name>
             <uri>https://news.ycombinator.com/user?id=harbottle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個簡單的在線圖像裁剪工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30626257</id>
-        <link href="https://news.ycombinator.com/item?id=30626257"/>
-        <updated>2022-03-10T12:43:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Simple Online Image cropping tool]]></summary>
-        <author>
-            <name>tealpod</name>
-            <uri>https://news.ycombinator.com/user?id=tealpod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基因測量的網絡瀏覽器（單一數據文件和OpenSeadragon）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30625998</id>
-        <link href="https://news.ycombinator.com/item?id=30625998"/>
-        <updated>2022-03-10T12:06:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Web viewer for gene measurements (single data file and OpenSeadragon)]]></summary>
-        <author>
-            <name>eriksjolund</name>
-            <uri>https://news.ycombinator.com/user?id=eriksjolund</uri>
         </author>
     </entry>
 </feed>
