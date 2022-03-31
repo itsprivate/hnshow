@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T15:56:39.655Z</updated>
+    <updated>2022-03-31T16:54:01.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Magma Studio - 用于游戏开发/动画的多人绘画/艺术平台]]></title>
+        <id>https://news.ycombinator.com/item?id=30869131</id>
+        <link href="https://news.ycombinator.com/item?id=30869131"/>
+        <updated>2022-03-31T16:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Magma Studio – multiplayer drawing/art platform for game dev/animation]]></summary>
+        <author>
+            <name>RushPL</name>
+            <uri>https://news.ycombinator.com/user?id=RushPL</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airlist - 一个适用于iPhone和iPad的本地纲要文件]]></title>
+        <id>https://news.ycombinator.com/item?id=30869009</id>
+        <link href="https://news.ycombinator.com/item?id=30869009"/>
+        <updated>2022-03-31T16:23:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Airlist – A Native Outliner for iPhone and iPad]]></summary>
+        <author>
+            <name>apple_crafts</name>
+            <uri>https://news.ycombinator.com/user?id=apple_crafts</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hexmap，基于WebGL/WASM的互动式二进制数据探索]]></title>
         <id>https://news.ycombinator.com/item?id=30868423</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mxmlnkn</name>
             <uri>https://news.ycombinator.com/user?id=mxmlnkn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graphsignal - 用于训练和推理的机器学习分析器]]></title>
-        <id>https://news.ycombinator.com/item?id=30628618</id>
-        <link href="https://news.ycombinator.com/item?id=30628618"/>
-        <updated>2022-03-10T16:18:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Graphsignal – Machine learning profiler for training and inference]]></summary>
-        <author>
-            <name>dmitrim</name>
-            <uri>https://news.ycombinator.com/user?id=dmitrim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API库存和测试自动化 = ApiHome]]></title>
-        <id>https://news.ycombinator.com/item?id=30629400</id>
-        <link href="https://news.ycombinator.com/item?id=30629400"/>
-        <updated>2022-03-10T17:15:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: API Inventory and Test Automation = ApiHome]]></summary>
-        <author>
-            <name>sgshanks</name>
-            <uri>https://news.ycombinator.com/user?id=sgshanks</uri>
         </author>
     </entry>
 </feed>
