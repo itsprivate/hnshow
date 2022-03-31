@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T07:31:53.739Z</updated>
+    <updated>2022-03-31T07:52:46.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[收集產品反饋的微觀調查]]></title>
+        <id>https://news.ycombinator.com/item?id=30864807</id>
+        <link href="https://news.ycombinator.com/item?id=30864807"/>
+        <updated>2022-03-31T07:42:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tiny-miny-micro-surveys to collect product feedback]]></summary>
+        <author>
+            <name>guico</name>
+            <uri>https://news.ycombinator.com/user?id=guico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我為我的孩子們做了一個數學應用遊戲，幫助他們進行正負計算。]]></title>
         <id>https://news.ycombinator.com/item?id=30864647</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>schille</name>
             <uri>https://news.ycombinator.com/user?id=schille</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[完全基於瀏覽器的HTML5遊戲編輯器]]></title>
-        <id>https://news.ycombinator.com/item?id=30625593</id>
-        <link href="https://news.ycombinator.com/item?id=30625593"/>
-        <updated>2022-03-10T11:05:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fully browser-based HTML5 games editor]]></summary>
-        <author>
-            <name>AshleysBrain</name>
-            <uri>https://news.ycombinator.com/user?id=AshleysBrain</uri>
         </author>
     </entry>
 </feed>

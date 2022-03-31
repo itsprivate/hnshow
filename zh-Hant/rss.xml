@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 31 Mar 2022 07:31:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 07:52:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[收集產品反饋的微觀調查]]></title>
+            <link>https://news.ycombinator.com/item?id=30864807</link>
+            <guid>https://news.ycombinator.com/item?id=30864807</guid>
+            <pubDate>Thu, 31 Mar 2022 07:42:41 GMT</pubDate>
+            <description><![CDATA[Show HN: Tiny-miny-micro-surveys to collect product feedback]]></description>
+        </item>
         <item>
             <title><![CDATA[我為我的孩子們做了一個數學應用遊戲，幫助他們進行正負計算。]]></title>
             <link>https://news.ycombinator.com/item?id=30864647</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30625699</guid>
             <pubDate>Thu, 10 Mar 2022 11:22:14 GMT</pubDate>
             <description><![CDATA[Show HN: Open-source project for service development directly in Kubernetes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[完全基於瀏覽器的HTML5遊戲編輯器]]></title>
-            <link>https://news.ycombinator.com/item?id=30625593</link>
-            <guid>https://news.ycombinator.com/item?id=30625593</guid>
-            <pubDate>Thu, 10 Mar 2022 11:05:54 GMT</pubDate>
-            <description><![CDATA[Show HN: Fully browser-based HTML5 games editor]]></description>
         </item>
     </channel>
 </rss>
