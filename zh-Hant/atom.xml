@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-01T18:58:19.264Z</updated>
+    <updated>2022-04-01T19:27:17.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們能幫你找到有挑戰性的自由職業嗎？(beta)]]></title>
+        <id>https://news.ycombinator.com/item?id=30882251</id>
+        <link href="https://news.ycombinator.com/item?id=30882251"/>
+        <updated>2022-04-01T19:23:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Can we pls help you find challenging freelance work? (beta)]]></summary>
+        <author>
+            <name>dvykhopen</name>
+            <uri>https://news.ycombinator.com/user?id=dvykhopen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在沒有PyTorch/TensorFlow的情況下創建圖像嵌入的Python包]]></title>
+        <id>https://news.ycombinator.com/item?id=30882114</id>
+        <link href="https://news.ycombinator.com/item?id=30882114"/>
+        <updated>2022-04-01T19:09:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Python package to create image embeddings without PyTorch/TensorFlow]]></summary>
+        <author>
+            <name>minimaxir</name>
+            <uri>https://news.ycombinator.com/user?id=minimaxir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[五天內完成Lisp]]></title>
         <id>https://news.ycombinator.com/item?id=30881894</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>chjj</name>
             <uri>https://news.ycombinator.com/user?id=chjj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我用Phaser 3把我的個人網站做成了一個迷你遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30656961</id>
-        <link href="https://news.ycombinator.com/item?id=30656961"/>
-        <updated>2022-03-13T01:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made my personal website a minigame using Phaser 3]]></summary>
-        <author>
-            <name>cartucho1</name>
-            <uri>https://news.ycombinator.com/user?id=cartucho1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不和諧的小路]]></title>
-        <id>https://news.ycombinator.com/item?id=30656689</id>
-        <link href="https://news.ycombinator.com/item?id=30656689"/>
-        <updated>2022-03-13T00:44:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dissonant Trails]]></summary>
-        <author>
-            <name>vb42</name>
-            <uri>https://news.ycombinator.com/user?id=vb42</uri>
         </author>
     </entry>
 </feed>
