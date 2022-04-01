@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 01 Apr 2022 17:40:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 17:52:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[將你的一天想象成144個長方形]]></title>
+            <link>https://news.ycombinator.com/item?id=30881096</link>
+            <guid>https://news.ycombinator.com/item?id=30881096</guid>
+            <pubDate>Fri, 01 Apr 2022 17:49:00 GMT</pubDate>
+            <description><![CDATA[Show HN: Visualize your day as 144 rectangles]]></description>
+        </item>
+        <item>
+            <title><![CDATA[制裁 - 想象一個搜索引擎，你可以按國家進行制裁]]></title>
+            <link>https://news.ycombinator.com/item?id=30881089</link>
+            <guid>https://news.ycombinator.com/item?id=30881089</guid>
+            <pubDate>Fri, 01 Apr 2022 17:48:05 GMT</pubDate>
+            <description><![CDATA[Show HN: Sanction – Imagine a search engine where you can sanction by country]]></description>
+        </item>
         <item>
             <title><![CDATA[Svend3r，一個用於Svelte的交互式即插即用圖表庫]]></title>
             <link>https://news.ycombinator.com/item?id=30880833</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30654449</guid>
             <pubDate>Sat, 12 Mar 2022 20:08:07 GMT</pubDate>
             <description><![CDATA[Show HN: MekaBytes – Image Labeling Community]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Yourkube - 創建和展示數字現代內容]]></title>
-            <link>https://news.ycombinator.com/item?id=30654263</link>
-            <guid>https://news.ycombinator.com/item?id=30654263</guid>
-            <pubDate>Sat, 12 Mar 2022 19:45:33 GMT</pubDate>
-            <description><![CDATA[Show HN: Yourkube – Create and show digital modern content]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hubfs - GitHub的文件系統]]></title>
-            <link>https://news.ycombinator.com/item?id=30653916</link>
-            <guid>https://news.ycombinator.com/item?id=30653916</guid>
-            <pubDate>Sat, 12 Mar 2022 19:09:35 GMT</pubDate>
-            <description><![CDATA[Show HN: Hubfs – File System for GitHub]]></description>
         </item>
     </channel>
 </rss>
