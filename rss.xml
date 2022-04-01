@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 01 Apr 2022 15:57:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 16:53:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[生成Wordle风格的解决方案，用于社交发布]]></title>
+            <link>https://news.ycombinator.com/item?id=30880326</link>
+            <guid>https://news.ycombinator.com/item?id=30880326</guid>
+            <pubDate>Fri, 01 Apr 2022 16:48:09 GMT</pubDate>
+            <description><![CDATA[Show HN: Generate Wordle-style solutions for social posting]]></description>
+        </item>
         <item>
             <title><![CDATA[一个纯文本文件格式的工作日程和检查清单]]></title>
             <link>https://news.ycombinator.com/item?id=30879327</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30653736</guid>
             <pubDate>Sat, 12 Mar 2022 18:49:39 GMT</pubDate>
             <description><![CDATA[Show HN: Sci-Hub Scholar – Firefox Extension Update v1.2]]></description>
-        </item>
-        <item>
-            <title><![CDATA[字库控制台和计时器]]></title>
-            <link>https://news.ycombinator.com/item?id=30653322</link>
-            <guid>https://news.ycombinator.com/item?id=30653322</guid>
-            <pubDate>Sat, 12 Mar 2022 18:03:45 GMT</pubDate>
-            <description><![CDATA[Show HN: Wordle Console and Timer]]></description>
         </item>
     </channel>
 </rss>
