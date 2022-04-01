@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-01T09:51:41.780Z</updated>
+    <updated>2022-04-01T10:38:30.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[M3O - 一個無服務器的雲平臺]]></title>
+        <id>https://news.ycombinator.com/item?id=30876691</id>
+        <link href="https://news.ycombinator.com/item?id=30876691"/>
+        <updated>2022-04-01T10:17:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: M3O – A Serverless Cloud Platform]]></summary>
+        <author>
+            <name>asim</name>
+            <uri>https://news.ycombinator.com/user?id=asim</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一個可編輯的模板來學習真實世界的數據科學]]></title>
+        <id>https://news.ycombinator.com/item?id=30876680</id>
+        <link href="https://news.ycombinator.com/item?id=30876680"/>
+        <updated>2022-04-01T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an editable template to learn real-world Data Science]]></summary>
+        <author>
+            <name>edylemond</name>
+            <uri>https://news.ycombinator.com/user?id=edylemond</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個適用於Firefox的簡約的JavaScript注入插件]]></title>
+        <id>https://news.ycombinator.com/item?id=30876677</id>
+        <link href="https://news.ycombinator.com/item?id=30876677"/>
+        <updated>2022-04-01T10:14:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A minimalistic JavaScript injection addon for Firefox]]></summary>
+        <author>
+            <name>mivanchev</name>
+            <uri>https://news.ycombinator.com/user?id=mivanchev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DronaHQ推出了一個UI控制編輯器]]></title>
         <id>https://news.ycombinator.com/item?id=30876558</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>seanplusplus</name>
             <uri>https://news.ycombinator.com/user?id=seanplusplus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Runtracks - 為你的跑步提供自適應的蘋果音樂播放列表]]></title>
-        <id>https://news.ycombinator.com/item?id=30645251</id>
-        <link href="https://news.ycombinator.com/item?id=30645251"/>
-        <updated>2022-03-11T19:59:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Runtracks – Adaptive Apple Music playlists for your runs]]></summary>
-        <author>
-            <name>nickoneill</name>
-            <uri>https://news.ycombinator.com/user?id=nickoneill</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reactive Resume v3 - 一個免費和開源的簡歷生成器]]></title>
-        <id>https://news.ycombinator.com/item?id=30645213</id>
-        <link href="https://news.ycombinator.com/item?id=30645213"/>
-        <updated>2022-03-11T19:55:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Reactive Resume v3 – A free and open source resume builder]]></summary>
-        <author>
-            <name>AmruthPillai</name>
-            <uri>https://news.ycombinator.com/user?id=AmruthPillai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yoloframe - 我的視頻通話中的圖片框架。每個人都可以上傳圖片]]></title>
-        <id>https://news.ycombinator.com/item?id=30645127</id>
-        <link href="https://news.ycombinator.com/item?id=30645127"/>
-        <updated>2022-03-11T19:48:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Yoloframe – Picture frame in my video calls. Everyone can upload pics]]></summary>
-        <author>
-            <name>fabrik42</name>
-            <uri>https://news.ycombinator.com/user?id=fabrik42</uri>
         </author>
     </entry>
 </feed>
