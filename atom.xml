@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-01T13:04:11.337Z</updated>
+    <updated>2022-04-01T13:34:12.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DevITjobs--StackOverflow工作的替代品，提供所需工资数据]]></title>
+        <id>https://news.ycombinator.com/item?id=30877735</id>
+        <link href="https://news.ycombinator.com/item?id=30877735"/>
+        <updated>2022-04-01T13:10:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: DevITjobs – a StackOverflow Jobs alternative with required salary data]]></summary>
+        <author>
+            <name>Varqu</name>
+            <uri>https://news.ycombinator.com/user?id=Varqu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mercury - 从Python笔记本构建和分享网络应用]]></title>
         <id>https://news.ycombinator.com/item?id=30877528</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kazinator</name>
             <uri>https://news.ycombinator.com/user?id=kazinator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使得PlantUML图可以很容易地从Markdown、GitHub风味中获得。]]></title>
-        <id>https://news.ycombinator.com/item?id=30647822</id>
-        <link href="https://news.ycombinator.com/item?id=30647822"/>
-        <updated>2022-03-12T00:32:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Make PlantUML diagrams easily accessible from Markdown, GitHub flavored]]></summary>
-        <author>
-            <name>danielyaa5</name>
-            <uri>https://news.ycombinator.com/user?id=danielyaa5</uri>
         </author>
     </entry>
 </feed>
