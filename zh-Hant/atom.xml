@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-01T10:38:30.696Z</updated>
+    <updated>2022-04-01T11:31:41.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[根據天氣和健康數據創作音樂的應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30877037</id>
+        <link href="https://news.ycombinator.com/item?id=30877037"/>
+        <updated>2022-04-01T11:14:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: App That Creates Music Based on Weather and Health Data]]></summary>
+        <author>
+            <name>vldalecu</name>
+            <uri>https://news.ycombinator.com/user?id=vldalecu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[M3O - 一個無服務器的雲平臺]]></title>
         <id>https://news.ycombinator.com/item?id=30876691</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>karlkeefer</name>
             <uri>https://news.ycombinator.com/user?id=karlkeefer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瑣事 16]]></title>
-        <id>https://news.ycombinator.com/item?id=30646006</id>
-        <link href="https://news.ycombinator.com/item?id=30646006"/>
-        <updated>2022-03-11T21:05:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Trivia 16]]></summary>
-        <author>
-            <name>seanplusplus</name>
-            <uri>https://news.ycombinator.com/user?id=seanplusplus</uri>
         </author>
     </entry>
 </feed>
