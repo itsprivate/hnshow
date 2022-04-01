@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-01T03:40:24.328Z</updated>
+    <updated>2022-04-01T04:45:50.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通过Python实现简单快速的反向端口转发工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30875087</id>
+        <link href="https://news.ycombinator.com/item?id=30875087"/>
+        <updated>2022-04-01T04:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Simple and fast reverse port forwarding tool by Python]]></summary>
+        <author>
+            <name>xitongsys</name>
+            <uri>https://news.ycombinator.com/user?id=xitongsys</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[出售你的域名]]></title>
+        <id>https://news.ycombinator.com/item?id=30875021</id>
+        <link href="https://news.ycombinator.com/item?id=30875021"/>
+        <updated>2022-04-01T03:57:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sell Your Domain]]></summary>
+        <author>
+            <name>lifeencoder</name>
+            <uri>https://news.ycombinator.com/user?id=lifeencoder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Globemallow-创造一个更可持续的互联网]]></title>
         <id>https://news.ycombinator.com/item?id=30874678</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>IanWard1</name>
             <uri>https://news.ycombinator.com/user?id=IanWard1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隐藏推广推文和赞助内容]]></title>
-        <id>https://news.ycombinator.com/item?id=30640965</id>
-        <link href="https://news.ycombinator.com/item?id=30640965"/>
-        <updated>2022-03-11T15:21:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hide promoted tweets and sponsored content]]></summary>
-        <author>
-            <name>promotino</name>
-            <uri>https://news.ycombinator.com/user?id=promotino</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好高骛远者从何而来]]></title>
-        <id>https://news.ycombinator.com/item?id=30640701</id>
-        <link href="https://news.ycombinator.com/item?id=30640701"/>
-        <updated>2022-03-11T14:59:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Where do hyper-ambitious individuals come from]]></summary>
-        <author>
-            <name>jamalavedra</name>
-            <uri>https://news.ycombinator.com/user?id=jamalavedra</uri>
         </author>
     </entry>
 </feed>
