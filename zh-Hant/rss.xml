@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 01 Apr 2022 16:53:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 17:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Svend3r，一個用於Svelte的交互式即插即用圖表庫]]></title>
+            <link>https://news.ycombinator.com/item?id=30880833</link>
+            <guid>https://news.ycombinator.com/item?id=30880833</guid>
+            <pubDate>Fri, 01 Apr 2022 17:29:31 GMT</pubDate>
+            <description><![CDATA[Show HN: Svend3r, an interactive plug and play charting library for Svelte]]></description>
+        </item>
         <item>
             <title><![CDATA[生成Wordle風格的解決方案，用於社交發布]]></title>
             <link>https://news.ycombinator.com/item?id=30880326</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30653916</guid>
             <pubDate>Sat, 12 Mar 2022 19:09:35 GMT</pubDate>
             <description><![CDATA[Show HN: Hubfs – File System for GitHub]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sci-Hub Scholar - 火狐瀏覽器擴展更新 v1.2]]></title>
-            <link>https://news.ycombinator.com/item?id=30653736</link>
-            <guid>https://news.ycombinator.com/item?id=30653736</guid>
-            <pubDate>Sat, 12 Mar 2022 18:49:39 GMT</pubDate>
-            <description><![CDATA[Show HN: Sci-Hub Scholar – Firefox Extension Update v1.2]]></description>
         </item>
     </channel>
 </rss>
