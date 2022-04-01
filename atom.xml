@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-01T12:21:21.139Z</updated>
+    <updated>2022-04-01T13:04:11.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mercury - 从Python笔记本构建和分享网络应用]]></title>
+        <id>https://news.ycombinator.com/item?id=30877528</id>
+        <link href="https://news.ycombinator.com/item?id=30877528"/>
+        <updated>2022-04-01T12:35:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mercury – build and share web apps from Python notebooks]]></summary>
+        <author>
+            <name>pplonski86</name>
+            <uri>https://news.ycombinator.com/user?id=pplonski86</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我为创作者做了一个零佣金的市场平台]]></title>
         <id>https://news.ycombinator.com/item?id=30877237</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>danielyaa5</name>
             <uri>https://news.ycombinator.com/user?id=danielyaa5</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Python装饰器编写网络搜刮器的简单框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30647161</id>
-        <link href="https://news.ycombinator.com/item?id=30647161"/>
-        <updated>2022-03-11T22:59:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A simple framework for writing a web scraper using Python decorators]]></summary>
-        <author>
-            <name>roniemartinez</name>
-            <uri>https://news.ycombinator.com/user?id=roniemartinez</uri>
         </author>
     </entry>
 </feed>
