@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-01T13:34:12.669Z</updated>
+    <updated>2022-04-01T13:53:41.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我制作了桌面应用程序来浏览和减少AWS云的成本]]></title>
+        <id>https://news.ycombinator.com/item?id=30877954</id>
+        <link href="https://news.ycombinator.com/item?id=30877954"/>
+        <updated>2022-04-01T13:40:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made desktop app to browse and reduce AWS cloud costs]]></summary>
+        <author>
+            <name>pzubkiewicz</name>
+            <uri>https://news.ycombinator.com/user?id=pzubkiewicz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevITjobs--StackOverflow工作的替代品，提供所需工资数据]]></title>
         <id>https://news.ycombinator.com/item?id=30877735</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>martyalain</name>
             <uri>https://news.ycombinator.com/user?id=martyalain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亨特 (1986)]]></title>
-        <id>https://news.ycombinator.com/item?id=30648097</id>
-        <link href="https://news.ycombinator.com/item?id=30648097"/>
-        <updated>2022-03-12T01:22:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hunt (1986)]]></summary>
-        <author>
-            <name>kazinator</name>
-            <uri>https://news.ycombinator.com/user?id=kazinator</uri>
         </author>
     </entry>
 </feed>
