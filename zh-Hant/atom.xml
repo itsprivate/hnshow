@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-03-31T23:43:30.433Z</updated>
+    <updated>2022-04-01T02:47:45.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Attnam.com的愚人節網站皮膚]]></title>
+        <id>https://news.ycombinator.com/item?id=30874094</id>
+        <link href="https://news.ycombinator.com/item?id=30874094"/>
+        <updated>2022-04-01T01:03:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Attnam.com April Fool's day website skin]]></summary>
+        <author>
+            <name>tigerlily</name>
+            <uri>https://news.ycombinator.com/user?id=tigerlily</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[活動策劃者應用程序的MVP]]></title>
+        <id>https://news.ycombinator.com/item?id=30874019</id>
+        <link href="https://news.ycombinator.com/item?id=30874019"/>
+        <updated>2022-04-01T00:50:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MVP for an Event Planner App]]></summary>
+        <author>
+            <name>perryraskin</name>
+            <uri>https://news.ycombinator.com/user?id=perryraskin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帶有縮略圖預覽和鏈接細節的黑客新聞界面]]></title>
         <id>https://news.ycombinator.com/item?id=30873438</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Malp</name>
             <uri>https://news.ycombinator.com/user?id=Malp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lofi.limo - 工作和學習時間的流媒體音樂]]></title>
-        <id>https://news.ycombinator.com/item?id=30639723</id>
-        <link href="https://news.ycombinator.com/item?id=30639723"/>
-        <updated>2022-03-11T13:40:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lofi.limo – streaming music for work and study time]]></summary>
-        <author>
-            <name>aparks517</name>
-            <uri>https://news.ycombinator.com/user?id=aparks517</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌地圖陰影計算器]]></title>
-        <id>https://news.ycombinator.com/item?id=30639160</id>
-        <link href="https://news.ycombinator.com/item?id=30639160"/>
-        <updated>2022-03-11T12:49:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Google Maps Shadow Calculator]]></summary>
-        <author>
-            <name>gdaramouskas</name>
-            <uri>https://news.ycombinator.com/user?id=gdaramouskas</uri>
         </author>
     </entry>
 </feed>
