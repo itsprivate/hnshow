@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-01T11:31:41.535Z</updated>
+    <updated>2022-04-01T12:21:21.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我為創作者做了一個零佣金的市場平臺]]></title>
+        <id>https://news.ycombinator.com/item?id=30877237</id>
+        <link href="https://news.ycombinator.com/item?id=30877237"/>
+        <updated>2022-04-01T11:53:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a zero-commission marketplace for creators]]></summary>
+        <author>
+            <name>TheOmkarBirje</name>
+            <uri>https://news.ycombinator.com/user?id=TheOmkarBirje</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[根據天氣和健康數據創作音樂的應用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30877037</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>roniemartinez</name>
             <uri>https://news.ycombinator.com/user?id=roniemartinez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[根據您的日程安排，向您的收件箱發送感恩日記的提示信息]]></title>
-        <id>https://news.ycombinator.com/item?id=30646037</id>
-        <link href="https://news.ycombinator.com/item?id=30646037"/>
-        <updated>2022-03-11T21:07:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Gratitude Journal prompts to your inbox, on your schedule]]></summary>
-        <author>
-            <name>karlkeefer</name>
-            <uri>https://news.ycombinator.com/user?id=karlkeefer</uri>
         </author>
     </entry>
 </feed>
