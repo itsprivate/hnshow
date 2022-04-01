@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-01T19:27:17.999Z</updated>
+    <updated>2022-04-01T19:37:24.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌搜索結果在摺疊下方]]></title>
+        <id>https://news.ycombinator.com/item?id=30882286</id>
+        <link href="https://news.ycombinator.com/item?id=30882286"/>
+        <updated>2022-04-01T19:27:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Google Search results are below the fold]]></summary>
+        <author>
+            <name>herpderperator</name>
+            <uri>https://news.ycombinator.com/user?id=herpderperator</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們能幫你找到有挑戰性的自由職業嗎？(beta)]]></title>
         <id>https://news.ycombinator.com/item?id=30882251</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>elpakal</name>
             <uri>https://news.ycombinator.com/user?id=elpakal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lcdb - 用C語言實現的LevelDB]]></title>
-        <id>https://news.ycombinator.com/item?id=30657302</id>
-        <link href="https://news.ycombinator.com/item?id=30657302"/>
-        <updated>2022-03-13T02:30:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: lcdb – LevelDB Implemented in C]]></summary>
-        <author>
-            <name>chjj</name>
-            <uri>https://news.ycombinator.com/user?id=chjj</uri>
         </author>
     </entry>
 </feed>
