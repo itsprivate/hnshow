@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-01T18:41:23.985Z</updated>
+    <updated>2022-04-01T18:58:19.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[五天內完成Lisp]]></title>
+        <id>https://news.ycombinator.com/item?id=30881894</id>
+        <link href="https://news.ycombinator.com/item?id=30881894"/>
+        <updated>2022-04-01T18:49:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lisp in Five Days]]></summary>
+        <author>
+            <name>triumphantomato</name>
+            <uri>https://news.ycombinator.com/user?id=triumphantomato</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[gh-dash - GitHub CLI 儀表板，用於拉動請求和問題。]]></title>
         <id>https://news.ycombinator.com/item?id=30881441</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vb42</name>
             <uri>https://news.ycombinator.com/user?id=vb42</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[派系CPO]]></title>
-        <id>https://news.ycombinator.com/item?id=30654826</id>
-        <link href="https://news.ycombinator.com/item?id=30654826"/>
-        <updated>2022-03-12T20:59:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Factional CPO]]></summary>
-        <author>
-            <name>ckluis</name>
-            <uri>https://news.ycombinator.com/user?id=ckluis</uri>
         </author>
     </entry>
 </feed>
