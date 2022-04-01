@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 01 Apr 2022 04:45:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 09:32:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Subcap - 视频的字幕 CC]]></title>
+            <link>https://news.ycombinator.com/item?id=30876454</link>
+            <guid>https://news.ycombinator.com/item?id=30876454</guid>
+            <pubDate>Fri, 01 Apr 2022 09:19:00 GMT</pubDate>
+            <description><![CDATA[Show HN: Subcap – Captions for Videos CC]]></description>
+        </item>
         <item>
             <title><![CDATA[通过Python实现简单快速的反向端口转发工具]]></title>
             <link>https://news.ycombinator.com/item?id=30875087</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30642254</guid>
             <pubDate>Fri, 11 Mar 2022 16:48:49 GMT</pubDate>
             <description><![CDATA[Show HN: Generate curl commands using UI]]></description>
-        </item>
-        <item>
-            <title><![CDATA[5字节/帧的视频编码（Python中）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30642195</link>
-            <guid>https://news.ycombinator.com/item?id=30642195</guid>
-            <pubDate>Fri, 11 Mar 2022 16:43:50 GMT</pubDate>
-            <description><![CDATA[Show HN: Video Encoding at 5 bytes/frame (in Python)]]></description>
         </item>
     </channel>
 </rss>
