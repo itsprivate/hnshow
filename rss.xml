@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 01 Apr 2022 21:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 22:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们为排行榜上的位置制定了哈贝格税]]></title>
+            <link>https://news.ycombinator.com/item?id=30883844</link>
+            <guid>https://news.ycombinator.com/item?id=30883844</guid>
+            <pubDate>Fri, 01 Apr 2022 22:11:55 GMT</pubDate>
+            <description><![CDATA[Show HN: We instituted a Harberger Tax for leaderboard spots]]></description>
+        </item>
         <item>
             <title><![CDATA[一个在线学习平台，但为交易者服务]]></title>
             <link>https://news.ycombinator.com/item?id=30882852</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30661011</guid>
             <pubDate>Sun, 13 Mar 2022 13:24:46 GMT</pubDate>
             <description><![CDATA[Show HN: How to Craft Inspiring Speeches – Learning from the Greats]]></description>
-        </item>
-        <item>
-            <title><![CDATA[RSS404 - 无需任何代码即可自动将网页转换为RSS。]]></title>
-            <link>https://news.ycombinator.com/item?id=30660922</link>
-            <guid>https://news.ycombinator.com/item?id=30660922</guid>
-            <pubDate>Sun, 13 Mar 2022 13:10:03 GMT</pubDate>
-            <description><![CDATA[Show HN: RSS404 – Automatically convert web page to RSS without any code.[Demo]]]></description>
         </item>
     </channel>
 </rss>

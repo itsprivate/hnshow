@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-01T21:51:57.469Z</updated>
+    <updated>2022-04-01T22:33:36.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们为排行榜上的位置制定了哈贝格税]]></title>
+        <id>https://news.ycombinator.com/item?id=30883844</id>
+        <link href="https://news.ycombinator.com/item?id=30883844"/>
+        <updated>2022-04-01T22:11:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We instituted a Harberger Tax for leaderboard spots]]></summary>
+        <author>
+            <name>akrolsmir</name>
+            <uri>https://news.ycombinator.com/user?id=akrolsmir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个在线学习平台，但为交易者服务]]></title>
         <id>https://news.ycombinator.com/item?id=30882852</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>SuDa2103</name>
             <uri>https://news.ycombinator.com/user?id=SuDa2103</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSS404 - 无需任何代码即可自动将网页转换为RSS。]]></title>
-        <id>https://news.ycombinator.com/item?id=30660922</id>
-        <link href="https://news.ycombinator.com/item?id=30660922"/>
-        <updated>2022-03-13T13:10:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: RSS404 – Automatically convert web page to RSS without any code.[Demo]]]></summary>
-        <author>
-            <name>gaojiuli</name>
-            <uri>https://news.ycombinator.com/user?id=gaojiuli</uri>
         </author>
     </entry>
 </feed>
