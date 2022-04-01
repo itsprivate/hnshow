@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-01T20:14:27.218Z</updated>
+    <updated>2022-04-01T21:51:57.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个在线学习平台，但为交易者服务]]></title>
+        <id>https://news.ycombinator.com/item?id=30882852</id>
+        <link href="https://news.ycombinator.com/item?id=30882852"/>
+        <updated>2022-04-01T20:17:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An online learning platform but for traders]]></summary>
+        <author>
+            <name>omidh28</name>
+            <uri>https://news.ycombinator.com/user?id=omidh28</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rickblocker，一种计算机视觉的方法来结束佝偻病。]]></title>
         <id>https://news.ycombinator.com/item?id=30882757</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gaojiuli</name>
             <uri>https://news.ycombinator.com/user?id=gaojiuli</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[版本控制的IETF RFC（草案、RFC、勘误表、ABNF）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30660849</id>
-        <link href="https://news.ycombinator.com/item?id=30660849"/>
-        <updated>2022-03-13T12:58:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Version controlled IETF RFCs (draft,RFC,errata,ABNF)]]></summary>
-        <author>
-            <name>andreineculau</name>
-            <uri>https://news.ycombinator.com/user?id=andreineculau</uri>
         </author>
     </entry>
 </feed>
