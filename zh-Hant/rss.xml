@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 01 Apr 2022 22:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 23:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GreetPool - 一個簡單的平臺，可以創建並與團隊分享團體卡片]]></title>
+            <link>https://news.ycombinator.com/item?id=30884369</link>
+            <guid>https://news.ycombinator.com/item?id=30884369</guid>
+            <pubDate>Fri, 01 Apr 2022 23:28:48 GMT</pubDate>
+            <description><![CDATA[Show HN: GreetPool – an easy platform to create and share group cards with teams]]></description>
+        </item>
         <item>
             <title><![CDATA[我們為排行榜上的位置制定了哈貝格稅]]></title>
             <link>https://news.ycombinator.com/item?id=30883844</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30661577</guid>
             <pubDate>Sun, 13 Mar 2022 14:38:13 GMT</pubDate>
             <description><![CDATA[Show HN: A Self-Hosted back end solution in Node.js]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何起草鼓舞人心的演講稿--向偉大的人學習]]></title>
-            <link>https://news.ycombinator.com/item?id=30661011</link>
-            <guid>https://news.ycombinator.com/item?id=30661011</guid>
-            <pubDate>Sun, 13 Mar 2022 13:24:46 GMT</pubDate>
-            <description><![CDATA[Show HN: How to Craft Inspiring Speeches – Learning from the Greats]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-01T22:33:36.758Z</updated>
+    <updated>2022-04-01T23:33:22.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GreetPool - 一个简单的平台，可以创建并与团队分享团体卡片]]></title>
+        <id>https://news.ycombinator.com/item?id=30884369</id>
+        <link href="https://news.ycombinator.com/item?id=30884369"/>
+        <updated>2022-04-01T23:28:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GreetPool – an easy platform to create and share group cards with teams]]></summary>
+        <author>
+            <name>jjassal</name>
+            <uri>https://news.ycombinator.com/user?id=jjassal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们为排行榜上的位置制定了哈贝格税]]></title>
         <id>https://news.ycombinator.com/item?id=30883844</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kkopanidis</name>
             <uri>https://news.ycombinator.com/user?id=kkopanidis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何起草鼓舞人心的演讲稿--向伟大的人学习]]></title>
-        <id>https://news.ycombinator.com/item?id=30661011</id>
-        <link href="https://news.ycombinator.com/item?id=30661011"/>
-        <updated>2022-03-13T13:24:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: How to Craft Inspiring Speeches – Learning from the Greats]]></summary>
-        <author>
-            <name>SuDa2103</name>
-            <uri>https://news.ycombinator.com/user?id=SuDa2103</uri>
         </author>
     </entry>
 </feed>
