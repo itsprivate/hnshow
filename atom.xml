@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-02T12:16:49.507Z</updated>
+    <updated>2022-04-02T15:52:47.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[与Git（hub/lab/EA）兼容的自我托管CI/CD]]></title>
+        <id>https://news.ycombinator.com/item?id=30889084</id>
+        <link href="https://news.ycombinator.com/item?id=30889084"/>
+        <updated>2022-04-02T15:46:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Git(hub/lab/EA) compatible self hosted CI/CD]]></summary>
+        <author>
+            <name>theSage</name>
+            <uri>https://news.ycombinator.com/user?id=theSage</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的TUI库现在可以导出终端的HTML和SVG屏幕截图了]]></title>
         <id>https://news.ycombinator.com/item?id=30887577</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>westcort</name>
             <uri>https://news.ycombinator.com/user?id=westcort</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我为小型生物技术初创企业建立了一个招聘网站]]></title>
-        <id>https://news.ycombinator.com/item?id=30664173</id>
-        <link href="https://news.ycombinator.com/item?id=30664173"/>
-        <updated>2022-03-13T18:18:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a job board for small biotech startups]]></summary>
-        <author>
-            <name>tima101</name>
-            <uri>https://news.ycombinator.com/user?id=tima101</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 02 Apr 2022 12:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 15:52:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[與Git（hub/lab/EA）兼容的自我託管CI/CD]]></title>
+            <link>https://news.ycombinator.com/item?id=30889084</link>
+            <guid>https://news.ycombinator.com/item?id=30889084</guid>
+            <pubDate>Sat, 02 Apr 2022 15:46:45 GMT</pubDate>
+            <description><![CDATA[Show HN: Git(hub/lab/EA) compatible self hosted CI/CD]]></description>
+        </item>
         <item>
             <title><![CDATA[我的TUI庫現在可以導出終端的HTML和SVG屏幕截圖了]]></title>
             <link>https://news.ycombinator.com/item?id=30887577</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30664233</guid>
             <pubDate>Sun, 13 Mar 2022 18:24:48 GMT</pubDate>
             <description><![CDATA[Show HN: Random Selections from Project Gutenberg]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我為小型生物技術初創企業建立了一個招聘網站]]></title>
-            <link>https://news.ycombinator.com/item?id=30664173</link>
-            <guid>https://news.ycombinator.com/item?id=30664173</guid>
-            <pubDate>Sun, 13 Mar 2022 18:18:38 GMT</pubDate>
-            <description><![CDATA[Show HN: I built a job board for small biotech startups]]></description>
         </item>
     </channel>
 </rss>
