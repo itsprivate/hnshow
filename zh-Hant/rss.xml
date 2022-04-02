@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 02 Apr 2022 02:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 03:13:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[飢餓兒童的NFTs]]></title>
+            <link>https://news.ycombinator.com/item?id=30885362</link>
+            <guid>https://news.ycombinator.com/item?id=30885362</guid>
+            <pubDate>Sat, 02 Apr 2022 02:25:14 GMT</pubDate>
+            <description><![CDATA[Show HN: NFTs for Starving Children]]></description>
+        </item>
         <item>
             <title><![CDATA[免費主持無接觸式菜單]]></title>
             <link>https://news.ycombinator.com/item?id=30884883</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30663197</guid>
             <pubDate>Sun, 13 Mar 2022 17:00:19 GMT</pubDate>
             <description><![CDATA[Show HN: A Go Library for Website Log Analysis]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一個更慢的，延遲的Hacker News]]></title>
-            <link>https://news.ycombinator.com/item?id=30661517</link>
-            <guid>https://news.ycombinator.com/item?id=30661517</guid>
-            <pubDate>Sun, 13 Mar 2022 14:32:22 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a slower, delayed Hacker News]]></description>
         </item>
     </channel>
 </rss>
