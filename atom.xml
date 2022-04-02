@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-02T09:12:03.072Z</updated>
+    <updated>2022-04-02T09:40:27.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[带有预告和付费墙的概念页]]></title>
+        <id>https://news.ycombinator.com/item?id=30886958</id>
+        <link href="https://news.ycombinator.com/item?id=30886958"/>
+        <updated>2022-04-02T09:33:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Notion Pages with Teasers and Paywall]]></summary>
+        <author>
+            <name>gxjoe</name>
+            <uri>https://news.ycombinator.com/user?id=gxjoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个网站，发现了另一个网站]]></title>
         <id>https://news.ycombinator.com/item?id=30886860</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ssnxd</name>
             <uri>https://news.ycombinator.com/user?id=ssnxd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Partnerly - 开始一个美丽的伙伴关系，由区块链驱动]]></title>
-        <id>https://news.ycombinator.com/item?id=30663977</id>
-        <link href="https://news.ycombinator.com/item?id=30663977"/>
-        <updated>2022-03-13T18:02:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Partnerly – Start a beautiful partnership, powered by blockchain]]></summary>
-        <author>
-            <name>predictand</name>
-            <uri>https://news.ycombinator.com/user?id=predictand</uri>
         </author>
     </entry>
 </feed>
