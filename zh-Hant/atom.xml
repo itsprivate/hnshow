@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-01T23:33:22.122Z</updated>
+    <updated>2022-04-02T00:38:59.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Snabl - 一個實用的嵌入式Lisp的C++版本]]></title>
+        <id>https://news.ycombinator.com/item?id=30884766</id>
+        <link href="https://news.ycombinator.com/item?id=30884766"/>
+        <updated>2022-04-02T00:31:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Snabl – a practical embedded Lisp in C++]]></summary>
+        <author>
+            <name>codr7</name>
+            <uri>https://news.ycombinator.com/user?id=codr7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GreetPool - 一個簡單的平臺，可以創建並與團隊分享團體卡片]]></title>
         <id>https://news.ycombinator.com/item?id=30884369</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ecotto123</name>
             <uri>https://news.ycombinator.com/user?id=ecotto123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js中的自我託管後端解決方案]]></title>
-        <id>https://news.ycombinator.com/item?id=30661577</id>
-        <link href="https://news.ycombinator.com/item?id=30661577"/>
-        <updated>2022-03-13T14:38:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Self-Hosted back end solution in Node.js]]></summary>
-        <author>
-            <name>kkopanidis</name>
-            <uri>https://news.ycombinator.com/user?id=kkopanidis</uri>
         </author>
     </entry>
 </feed>
