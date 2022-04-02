@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 02 Apr 2022 11:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 12:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我的TUI库现在可以导出终端的HTML和SVG屏幕截图了]]></title>
+            <link>https://news.ycombinator.com/item?id=30887577</link>
+            <guid>https://news.ycombinator.com/item?id=30887577</guid>
+            <pubDate>Sat, 02 Apr 2022 12:01:35 GMT</pubDate>
+            <description><![CDATA[Show HN: My TUI library can now export HTML and SVG screenshots of your terminal]]></description>
+        </item>
         <item>
             <title><![CDATA[Datetime.tools - 方便的日期和时间转换]]></title>
             <link>https://news.ycombinator.com/item?id=30887355</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30664173</guid>
             <pubDate>Sun, 13 Mar 2022 18:18:38 GMT</pubDate>
             <description><![CDATA[Show HN: I built a job board for small biotech startups]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个从任何应用程序捕获和优先处理任务的应用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30664140</link>
-            <guid>https://news.ycombinator.com/item?id=30664140</guid>
-            <pubDate>Sun, 13 Mar 2022 18:14:42 GMT</pubDate>
-            <description><![CDATA[Show HN: An app to capture and prioritize tasks from any app]]></description>
         </item>
     </channel>
 </rss>

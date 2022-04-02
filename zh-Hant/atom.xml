@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-02T11:28:41.509Z</updated>
+    <updated>2022-04-02T12:16:49.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的TUI庫現在可以導出終端的HTML和SVG屏幕截圖了]]></title>
+        <id>https://news.ycombinator.com/item?id=30887577</id>
+        <link href="https://news.ycombinator.com/item?id=30887577"/>
+        <updated>2022-04-02T12:01:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My TUI library can now export HTML and SVG screenshots of your terminal]]></summary>
+        <author>
+            <name>bczsalba</name>
+            <uri>https://news.ycombinator.com/user?id=bczsalba</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Datetime.tools - 方便的日期和時間轉換]]></title>
         <id>https://news.ycombinator.com/item?id=30887355</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tima101</name>
             <uri>https://news.ycombinator.com/user?id=tima101</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個從任何應用程序捕獲和優先處理任務的應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30664140</id>
-        <link href="https://news.ycombinator.com/item?id=30664140"/>
-        <updated>2022-03-13T18:14:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An app to capture and prioritize tasks from any app]]></summary>
-        <author>
-            <name>patricia_bsc</name>
-            <uri>https://news.ycombinator.com/user?id=patricia_bsc</uri>
         </author>
     </entry>
 </feed>
