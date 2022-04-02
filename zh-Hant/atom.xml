@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-02T16:15:35.218Z</updated>
+    <updated>2022-04-02T17:20:26.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個微小的太陽能服務器只在白天醒著]]></title>
+        <id>https://news.ycombinator.com/item?id=30889828</id>
+        <link href="https://news.ycombinator.com/item?id=30889828"/>
+        <updated>2022-04-02T17:10:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A tiny solar-powered server only awake during the day]]></summary>
+        <author>
+            <name>lowercasename</name>
+            <uri>https://news.ycombinator.com/user?id=lowercasename</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英吋]]></title>
         <id>https://news.ycombinator.com/item?id=30889120</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>teaearlgraycold</name>
             <uri>https://news.ycombinator.com/user?id=teaearlgraycold</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過維基百科摘要的隨機書籍]]></title>
-        <id>https://news.ycombinator.com/item?id=30664485</id>
-        <link href="https://news.ycombinator.com/item?id=30664485"/>
-        <updated>2022-03-13T18:50:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Random Books via Wikipedia Summaries]]></summary>
-        <author>
-            <name>westcort</name>
-            <uri>https://news.ycombinator.com/user?id=westcort</uri>
         </author>
     </entry>
 </feed>
