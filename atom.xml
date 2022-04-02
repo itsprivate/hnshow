@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-02T03:13:44.862Z</updated>
+    <updated>2022-04-02T06:38:57.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我将一个习惯跟踪器游戏化以对抗拖延症]]></title>
+        <id>https://news.ycombinator.com/item?id=30886183</id>
+        <link href="https://news.ycombinator.com/item?id=30886183"/>
+        <updated>2022-04-02T06:12:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I gamified a habit tracker to fight procrastination]]></summary>
+        <author>
+            <name>marclou</name>
+            <uri>https://news.ycombinator.com/user?id=marclou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[饥饿儿童的NFTs]]></title>
         <id>https://news.ycombinator.com/item?id=30885362</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mjirv</name>
             <uri>https://news.ycombinator.com/user?id=mjirv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个用于网站日志分析的围棋库]]></title>
-        <id>https://news.ycombinator.com/item?id=30663197</id>
-        <link href="https://news.ycombinator.com/item?id=30663197"/>
-        <updated>2022-03-13T17:00:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Go Library for Website Log Analysis]]></summary>
-        <author>
-            <name>stuartmscott</name>
-            <uri>https://news.ycombinator.com/user?id=stuartmscott</uri>
         </author>
     </entry>
 </feed>
