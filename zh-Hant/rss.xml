@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 02 Apr 2022 17:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 18:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[秘密機器人基地]]></title>
+            <link>https://news.ycombinator.com/item?id=30890190</link>
+            <guid>https://news.ycombinator.com/item?id=30890190</guid>
+            <pubDate>Sat, 02 Apr 2022 17:55:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Secret Robot Base]]></description>
+        </item>
         <item>
             <title><![CDATA[我的網站只做了純文本]]></title>
             <link>https://news.ycombinator.com/item?id=30890060</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30666248</guid>
             <pubDate>Sun, 13 Mar 2022 22:09:24 GMT</pubDate>
             <description><![CDATA[Show HN: SmoothWAN a simple home internet bonding router using Speedify]]></description>
-        </item>
-        <item>
-            <title><![CDATA[VS代碼擴展到文檔代碼]]></title>
-            <link>https://news.ycombinator.com/item?id=30665821</link>
-            <guid>https://news.ycombinator.com/item?id=30665821</guid>
-            <pubDate>Sun, 13 Mar 2022 21:18:50 GMT</pubDate>
-            <description><![CDATA[Show HN: VS Code Extension to Document Code]]></description>
         </item>
     </channel>
 </rss>

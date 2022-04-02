@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-02T17:43:08.941Z</updated>
+    <updated>2022-04-02T18:14:58.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[秘密机器人基地]]></title>
+        <id>https://news.ycombinator.com/item?id=30890190</id>
+        <link href="https://news.ycombinator.com/item?id=30890190"/>
+        <updated>2022-04-02T17:55:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Secret Robot Base]]></summary>
+        <author>
+            <name>paulinko_</name>
+            <uri>https://news.ycombinator.com/user?id=paulinko_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的网站只做了纯文本]]></title>
         <id>https://news.ycombinator.com/item?id=30890060</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>goodburb</name>
             <uri>https://news.ycombinator.com/user?id=goodburb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS代码扩展到文档代码]]></title>
-        <id>https://news.ycombinator.com/item?id=30665821</id>
-        <link href="https://news.ycombinator.com/item?id=30665821"/>
-        <updated>2022-03-13T21:18:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: VS Code Extension to Document Code]]></summary>
-        <author>
-            <name>calum-bird</name>
-            <uri>https://news.ycombinator.com/user?id=calum-bird</uri>
         </author>
     </entry>
 </feed>
