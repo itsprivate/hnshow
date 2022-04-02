@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-02T18:14:58.059Z</updated>
+    <updated>2022-04-02T21:51:00.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在Gmail中引入了链接共享]]></title>
+        <id>https://news.ycombinator.com/item?id=30891956</id>
+        <link href="https://news.ycombinator.com/item?id=30891956"/>
+        <updated>2022-04-02T21:45:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I introduced link sharing to Gmail]]></summary>
+        <author>
+            <name>laurinstahl</name>
+            <uri>https://news.ycombinator.com/user?id=laurinstahl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[秘密机器人基地]]></title>
         <id>https://news.ycombinator.com/item?id=30890190</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ivanvas</name>
             <uri>https://news.ycombinator.com/user?id=ivanvas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SmoothWAN一个简单的家庭互联网绑定路由器，使用Speedify]]></title>
-        <id>https://news.ycombinator.com/item?id=30666248</id>
-        <link href="https://news.ycombinator.com/item?id=30666248"/>
-        <updated>2022-03-13T22:09:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: SmoothWAN a simple home internet bonding router using Speedify]]></summary>
-        <author>
-            <name>goodburb</name>
-            <uri>https://news.ycombinator.com/user?id=goodburb</uri>
         </author>
     </entry>
 </feed>
