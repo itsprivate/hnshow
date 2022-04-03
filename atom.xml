@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-03T08:13:58.671Z</updated>
+    <updated>2022-04-03T08:36:25.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Yaade - 一个开源的、自我托管的、协作的API开发环境]]></title>
+        <id>https://news.ycombinator.com/item?id=30895372</id>
+        <link href="https://news.ycombinator.com/item?id=30895372"/>
+        <updated>2022-04-03T08:23:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Yaade – An open-source, self-hosted, collaborative API dev environment]]></summary>
+        <author>
+            <name>jonrosner</name>
+            <uri>https://news.ycombinator.com/user?id=jonrosner</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deps.live - 实时显示依赖性的 "技术树"。]]></title>
         <id>https://news.ycombinator.com/item?id=30895255</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>edgartaor</name>
             <uri>https://news.ycombinator.com/user?id=edgartaor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[matplotlibcpp17 - matplotlibcpp的替代品，具有更多的功能]]></title>
-        <id>https://news.ycombinator.com/item?id=30669268</id>
-        <link href="https://news.ycombinator.com/item?id=30669268"/>
-        <updated>2022-03-14T07:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: matplotlibcpp17 – An alternative to matplotlibcpp with more features]]></summary>
-        <author>
-            <name>soblin</name>
-            <uri>https://news.ycombinator.com/user?id=soblin</uri>
         </author>
     </entry>
 </feed>
