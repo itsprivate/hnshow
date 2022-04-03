@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-03T15:34:14.815Z</updated>
+    <updated>2022-04-03T17:19:30.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PodHound - Podcast的產品搜索]]></title>
+        <id>https://news.ycombinator.com/item?id=30898529</id>
+        <link href="https://news.ycombinator.com/item?id=30898529"/>
+        <updated>2022-04-03T17:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PodHound – ProductHunt for Podcasts]]></summary>
+        <author>
+            <name>jdbiggs</name>
+            <uri>https://news.ycombinator.com/user?id=jdbiggs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[隱性貨幣的新手指南]]></title>
         <id>https://news.ycombinator.com/item?id=30897592</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>TheMightyLlama</name>
             <uri>https://news.ycombinator.com/user?id=TheMightyLlama</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我使用谷歌趨勢數據對所有YC公司進行了排名]]></title>
-        <id>https://news.ycombinator.com/item?id=30672683</id>
-        <link href="https://news.ycombinator.com/item?id=30672683"/>
-        <updated>2022-03-14T14:14:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I ranked all YC companies using Google Trends data]]></summary>
-        <author>
-            <name>jakobgreenfeld</name>
-            <uri>https://news.ycombinator.com/user?id=jakobgreenfeld</uri>
         </author>
     </entry>
 </feed>
