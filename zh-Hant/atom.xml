@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-02T22:12:27.698Z</updated>
+    <updated>2022-04-03T02:24:31.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Platform9管理的Kubernetes與Hetzner雲節點 - 一鍵設置]]></title>
+        <id>https://news.ycombinator.com/item?id=30893668</id>
+        <link href="https://news.ycombinator.com/item?id=30893668"/>
+        <updated>2022-04-03T02:10:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Platform9 managed Kubernetes with Hetzner Cloud node – One click setup]]></summary>
+        <author>
+            <name>herz0g</name>
+            <uri>https://news.ycombinator.com/user?id=herz0g</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一個Wi-Fi 6調查套件，看看它在我的地區有多普遍。]]></title>
         <id>https://news.ycombinator.com/item?id=30891962</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dajas</name>
             <uri>https://news.ycombinator.com/user?id=dajas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讓用戶生成的內容更容易10倍]]></title>
-        <id>https://news.ycombinator.com/item?id=30666691</id>
-        <link href="https://news.ycombinator.com/item?id=30666691"/>
-        <updated>2022-03-13T23:09:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Making user-generated content 10x easier]]></summary>
-        <author>
-            <name>i14</name>
-            <uri>https://news.ycombinator.com/user?id=i14</uri>
         </author>
     </entry>
 </feed>
