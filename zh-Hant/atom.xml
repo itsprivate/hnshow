@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-03T19:27:17.283Z</updated>
+    <updated>2022-04-03T20:43:51.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Writemore.io - 建立每日寫作習慣]]></title>
+        <id>https://news.ycombinator.com/item?id=30900364</id>
+        <link href="https://news.ycombinator.com/item?id=30900364"/>
+        <updated>2022-04-03T20:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Writemore.io – Build a daily writing habit]]></summary>
+        <author>
+            <name>ICodeSometimes</name>
+            <uri>https://news.ycombinator.com/user?id=ICodeSometimes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MakeTime - 一個簡單的工具來幫助你安排閱讀時間]]></title>
         <id>https://news.ycombinator.com/item?id=30899759</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jarrenae</name>
             <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[輕鬆編輯、註釋和分享文章 - Smort.io]]></title>
-        <id>https://news.ycombinator.com/item?id=30673502</id>
-        <link href="https://news.ycombinator.com/item?id=30673502"/>
-        <updated>2022-03-14T15:24:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Edit, annotate and share articles easily – Smort.io]]></summary>
-        <author>
-            <name>sabr</name>
-            <uri>https://news.ycombinator.com/user?id=sabr</uri>
         </author>
     </entry>
 </feed>
