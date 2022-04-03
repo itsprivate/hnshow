@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-03T14:51:46.337Z</updated>
+    <updated>2022-04-03T15:34:14.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[隱性貨幣的新手指南]]></title>
+        <id>https://news.ycombinator.com/item?id=30897592</id>
+        <link href="https://news.ycombinator.com/item?id=30897592"/>
+        <updated>2022-04-03T15:22:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Newbies Guide to Crypto]]></summary>
+        <author>
+            <name>SuDa2103</name>
+            <uri>https://news.ycombinator.com/user?id=SuDa2103</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌瀏覽器的URL縮短器擴展（Opera, Brave, Edge）。]]></title>
         <id>https://news.ycombinator.com/item?id=30897235</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jakobgreenfeld</name>
             <uri>https://news.ycombinator.com/user?id=jakobgreenfeld</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我寫了一本初學SRE的書，今天是免費的]]></title>
-        <id>https://news.ycombinator.com/item?id=30672041</id>
-        <link href="https://news.ycombinator.com/item?id=30672041"/>
-        <updated>2022-03-14T13:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I wrote a beginner SRE book, and it's free today]]></summary>
-        <author>
-            <name>dm03514</name>
-            <uri>https://news.ycombinator.com/user?id=dm03514</uri>
         </author>
     </entry>
 </feed>
