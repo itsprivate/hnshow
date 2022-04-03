@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-03T17:19:30.442Z</updated>
+    <updated>2022-04-03T19:27:17.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MakeTime - 一个简单的工具来帮助你安排阅读时间]]></title>
+        <id>https://news.ycombinator.com/item?id=30899759</id>
+        <link href="https://news.ycombinator.com/item?id=30899759"/>
+        <updated>2022-04-03T19:16:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MakeTime – A simple tool to help you schedule reading time]]></summary>
+        <author>
+            <name>rpatni</name>
+            <uri>https://news.ycombinator.com/user?id=rpatni</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PodHound - Podcast的产品搜索]]></title>
         <id>https://news.ycombinator.com/item?id=30898529</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sabr</name>
             <uri>https://news.ycombinator.com/user?id=sabr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个网站，以一个新闻事件的新闻来源年表为特色]]></title>
-        <id>https://news.ycombinator.com/item?id=30673127</id>
-        <link href="https://news.ycombinator.com/item?id=30673127"/>
-        <updated>2022-03-14T14:52:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a site featuring a chronology of news sources for a news event]]></summary>
-        <author>
-            <name>TheMightyLlama</name>
-            <uri>https://news.ycombinator.com/user?id=TheMightyLlama</uri>
         </author>
     </entry>
 </feed>
