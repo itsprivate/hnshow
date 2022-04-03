@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-03T04:40:35.732Z</updated>
+    <updated>2022-04-03T08:13:58.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Deps.live - 實時顯示依賴性的 "技術樹"。]]></title>
+        <id>https://news.ycombinator.com/item?id=30895255</id>
+        <link href="https://news.ycombinator.com/item?id=30895255"/>
+        <updated>2022-04-03T07:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Deps.live – On the fly “tech tree” visualization of dependencies]]></summary>
+        <author>
+            <name>jensmtg</name>
+            <uri>https://news.ycombinator.com/user?id=jensmtg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個關於未來的點擊遊戲]]></title>
         <id>https://news.ycombinator.com/item?id=30894442</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>soblin</name>
             <uri>https://news.ycombinator.com/user?id=soblin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們建立了DeTy.org，一個烏克蘭的失蹤人員平臺。]]></title>
-        <id>https://news.ycombinator.com/item?id=30668237</id>
-        <link href="https://news.ycombinator.com/item?id=30668237"/>
-        <updated>2022-03-14T03:28:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We built DeTy.org, a missing persons platform for Ukraine]]></summary>
-        <author>
-            <name>BuleBule</name>
-            <uri>https://news.ycombinator.com/user?id=BuleBule</uri>
         </author>
     </entry>
 </feed>
