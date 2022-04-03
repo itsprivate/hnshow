@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-03T11:36:31.436Z</updated>
+    <updated>2022-04-03T14:51:46.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谷歌浏览器的URL缩短器扩展（Opera, Brave, Edge）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30897235</id>
+        <link href="https://news.ycombinator.com/item?id=30897235"/>
+        <updated>2022-04-03T14:36:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: URL Shortener Extension for Google Chrome (Opera, Brave, Edge)]]></summary>
+        <author>
+            <name>zenull</name>
+            <uri>https://news.ycombinator.com/user?id=zenull</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个冥想的网站，你看着窗外，画着极光]]></title>
         <id>https://news.ycombinator.com/item?id=30896084</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dm03514</name>
             <uri>https://news.ycombinator.com/user?id=dm03514</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN关于俄乌冲突的帖子]]></title>
-        <id>https://news.ycombinator.com/item?id=30672016</id>
-        <link href="https://news.ycombinator.com/item?id=30672016"/>
-        <updated>2022-03-14T13:13:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: HN Posts on the Russian-Ukrainian Conflict]]></summary>
-        <author>
-            <name>z3c0</name>
-            <uri>https://news.ycombinator.com/user?id=z3c0</uri>
         </author>
     </entry>
 </feed>
