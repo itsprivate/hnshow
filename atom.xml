@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-03T10:14:57.849Z</updated>
+    <updated>2022-04-03T11:12:07.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Ipyvizzu - Jupyter笔记本中的动画图表]]></title>
+        <id>https://news.ycombinator.com/item?id=30895975</id>
+        <link href="https://news.ycombinator.com/item?id=30895975"/>
+        <updated>2022-04-03T10:57:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Ipyvizzu – animated charts in Jupyter Notebooks]]></summary>
+        <author>
+            <name>vidipeti</name>
+            <uri>https://news.ycombinator.com/user?id=vidipeti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一个开源的自动化系统来从PDF中提取关键词]]></title>
         <id>https://news.ycombinator.com/item?id=30895762</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>0xhh</name>
             <uri>https://news.ycombinator.com/user?id=0xhh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CareerCupid。工作的OkCupid]]></title>
-        <id>https://news.ycombinator.com/item?id=30670028</id>
-        <link href="https://news.ycombinator.com/item?id=30670028"/>
-        <updated>2022-03-14T09:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CareerCupid. OkCupid for Jobs]]></summary>
-        <author>
-            <name>rglullis</name>
-            <uri>https://news.ycombinator.com/user?id=rglullis</uri>
         </author>
     </entry>
 </feed>
