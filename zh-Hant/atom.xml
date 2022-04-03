@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-03T11:12:07.693Z</updated>
+    <updated>2022-04-03T11:29:53.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個冥想的網站，你看著窗外，畫著極光]]></title>
+        <id>https://news.ycombinator.com/item?id=30896072</id>
+        <link href="https://news.ycombinator.com/item?id=30896072"/>
+        <updated>2022-04-03T11:23:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A meditative website where you look out of a window and draw auroras]]></summary>
+        <author>
+            <name>shriracha</name>
+            <uri>https://news.ycombinator.com/user?id=shriracha</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基於Markdown的Todo應用]]></title>
+        <id>https://news.ycombinator.com/item?id=30896024</id>
+        <link href="https://news.ycombinator.com/item?id=30896024"/>
+        <updated>2022-04-03T11:11:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Markdown Based Todo App]]></summary>
+        <author>
+            <name>motyar</name>
+            <uri>https://news.ycombinator.com/user?id=motyar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ipyvizzu - Jupyter筆記本中的動畫圖表]]></title>
         <id>https://news.ycombinator.com/item?id=30895975</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>micadep</name>
             <uri>https://news.ycombinator.com/user?id=micadep</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技術人員教PM的技術]]></title>
-        <id>https://news.ycombinator.com/item?id=30671764</id>
-        <link href="https://news.ycombinator.com/item?id=30671764"/>
-        <updated>2022-03-14T12:49:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tech guys teaching PM's Tech]]></summary>
-        <author>
-            <name>Exorust</name>
-            <uri>https://news.ycombinator.com/user?id=Exorust</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於Summarygenerator.com的安卓AI文本總結器]]></title>
-        <id>https://news.ycombinator.com/item?id=30670242</id>
-        <link href="https://news.ycombinator.com/item?id=30670242"/>
-        <updated>2022-03-14T09:33:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: AI Text Summarizer for Android Based on Summarygenerator.com]]></summary>
-        <author>
-            <name>0xhh</name>
-            <uri>https://news.ycombinator.com/user?id=0xhh</uri>
         </author>
     </entry>
 </feed>
