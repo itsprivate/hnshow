@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-03T11:29:53.886Z</updated>
+    <updated>2022-04-03T11:36:31.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個冥想的網站，你看著窗外，畫著極光]]></title>
+        <id>https://news.ycombinator.com/item?id=30896084</id>
+        <link href="https://news.ycombinator.com/item?id=30896084"/>
+        <updated>2022-04-03T11:27:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A meditative website where you look out of a window and draw auroras]]></summary>
+        <author>
+            <name>shriracha</name>
+            <uri>https://news.ycombinator.com/user?id=shriracha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個冥想的網站，你看著窗外，畫著極光]]></title>
         <id>https://news.ycombinator.com/item?id=30896072</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>z3c0</name>
             <uri>https://news.ycombinator.com/user?id=z3c0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[狩獵網站 - 你不知道的最佳網站]]></title>
-        <id>https://news.ycombinator.com/item?id=30671880</id>
-        <link href="https://news.ycombinator.com/item?id=30671880"/>
-        <updated>2022-03-14T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Website Hunt – Best websites you didn't know]]></summary>
-        <author>
-            <name>micadep</name>
-            <uri>https://news.ycombinator.com/user?id=micadep</uri>
         </author>
     </entry>
 </feed>
