@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-04T07:40:16.001Z</updated>
+    <updated>2022-04-04T08:38:47.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對人類的信心--你今天感覺如何？]]></title>
+        <id>https://news.ycombinator.com/item?id=30904415</id>
+        <link href="https://news.ycombinator.com/item?id=30904415"/>
+        <updated>2022-04-04T08:27:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Faith in Humanity – how do you feel today?]]></summary>
+        <author>
+            <name>jaggs</name>
+            <uri>https://news.ycombinator.com/user?id=jaggs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRDTs+WASM用於在瀏覽器中進行本地優先的協作式記事]]></title>
+        <id>https://news.ycombinator.com/item?id=30904405</id>
+        <link href="https://news.ycombinator.com/item?id=30904405"/>
+        <updated>2022-04-04T08:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: CRDTs+WASM for local-first, collaborative note-taking in the browser]]></summary>
+        <author>
+            <name>sambigeara</name>
+            <uri>https://news.ycombinator.com/user?id=sambigeara</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[將Jupyter筆記本變成交互式網絡應用程序並與無代碼的人分享]]></title>
         <id>https://news.ycombinator.com/item?id=30904146</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>utahjones</name>
             <uri>https://news.ycombinator.com/user?id=utahjones</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grryno.com - 一個按使用量付費的遊戲服務器託管服務]]></title>
-        <id>https://news.ycombinator.com/item?id=30677886</id>
-        <link href="https://news.ycombinator.com/item?id=30677886"/>
-        <updated>2022-03-14T20:34:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Grryno.com – A pay-per-use game server hosting service]]></summary>
-        <author>
-            <name>rejacobson</name>
-            <uri>https://news.ycombinator.com/user?id=rejacobson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我為靜態網站建立了一個開源的虛擬主機平臺]]></title>
-        <id>https://news.ycombinator.com/item?id=30676595</id>
-        <link href="https://news.ycombinator.com/item?id=30676595"/>
-        <updated>2022-03-14T18:57:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built an open source web hosting platform for static sites]]></summary>
-        <author>
-            <name>symkat</name>
-            <uri>https://news.ycombinator.com/user?id=symkat</uri>
         </author>
     </entry>
 </feed>
