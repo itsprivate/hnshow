@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 04 Apr 2022 15:38:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 16:54:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[JavaScript中的递归数独解算器]]></title>
+            <link>https://news.ycombinator.com/item?id=30908439</link>
+            <guid>https://news.ycombinator.com/item?id=30908439</guid>
+            <pubDate>Mon, 04 Apr 2022 16:20:31 GMT</pubDate>
+            <description><![CDATA[Show HN: A recursive Sudoku solver in JavaScript]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Blocksend - 即时向市场上的供应商付款]]></title>
+            <link>https://news.ycombinator.com/item?id=30908370</link>
+            <guid>https://news.ycombinator.com/item?id=30908370</guid>
+            <pubDate>Mon, 04 Apr 2022 16:15:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Blocksend – instantly pay out vendors on marketplaces]]></description>
+        </item>
         <item>
             <title><![CDATA[Snipd将播客亮点同步到Notion，并提供摘要和文字记录]]></title>
             <link>https://news.ycombinator.com/item?id=30907709</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30684232</guid>
             <pubDate>Tue, 15 Mar 2022 11:56:17 GMT</pubDate>
             <description><![CDATA[Show HN: Vim Reference Guide]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Reams，一个深度肤浅的RSS iOS应用，React Native，开源]]></title>
-            <link>https://news.ycombinator.com/item?id=30682504</link>
-            <guid>https://news.ycombinator.com/item?id=30682504</guid>
-            <pubDate>Tue, 15 Mar 2022 07:18:52 GMT</pubDate>
-            <description><![CDATA[Show HN: Reams, a deeply superficial RSS iOS app, React Native, open source]]></description>
-        </item>
-        <item>
-            <title><![CDATA[mailto HTML属性的无代码替代。]]></title>
-            <link>https://news.ycombinator.com/item?id=30682412</link>
-            <guid>https://news.ycombinator.com/item?id=30682412</guid>
-            <pubDate>Tue, 15 Mar 2022 07:00:46 GMT</pubDate>
-            <description><![CDATA[Show HN: A no-code replacement for the mailto HTML attribute]]></description>
         </item>
     </channel>
 </rss>
