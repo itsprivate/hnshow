@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 04 Apr 2022 08:38:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 10:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个能给你的同事发送巧克力的Slack机器人]]></title>
+            <link>https://news.ycombinator.com/item?id=30904808</link>
+            <guid>https://news.ycombinator.com/item?id=30904808</guid>
+            <pubDate>Mon, 04 Apr 2022 09:48:13 GMT</pubDate>
+            <description><![CDATA[Show HN: A Slack bot that sends chocolates to your coworkers]]></description>
+        </item>
         <item>
             <title><![CDATA[对人类的信心--你今天感觉如何？]]></title>
             <link>https://news.ycombinator.com/item?id=30904415</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30679098</guid>
             <pubDate>Mon, 14 Mar 2022 22:10:10 GMT</pubDate>
             <description><![CDATA[Show HN: npm install actual-malware]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Scordle - 一个用React编写的单词搜索游戏]]></title>
-            <link>https://news.ycombinator.com/item?id=30678109</link>
-            <guid>https://news.ycombinator.com/item?id=30678109</guid>
-            <pubDate>Mon, 14 Mar 2022 20:51:57 GMT</pubDate>
-            <description><![CDATA[Show HN: Scordle – a word search game written in React]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-04T08:38:47.626Z</updated>
+    <updated>2022-04-04T10:37:19.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個能給你的同事發送巧克力的Slack機器人]]></title>
+        <id>https://news.ycombinator.com/item?id=30904808</id>
+        <link href="https://news.ycombinator.com/item?id=30904808"/>
+        <updated>2022-04-04T09:48:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Slack bot that sends chocolates to your coworkers]]></summary>
+        <author>
+            <name>Lior539</name>
+            <uri>https://news.ycombinator.com/user?id=Lior539</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對人類的信心--你今天感覺如何？]]></title>
         <id>https://news.ycombinator.com/item?id=30904415</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lhmiles</name>
             <uri>https://news.ycombinator.com/user?id=lhmiles</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scordle - 一個用React編寫的單詞搜索遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30678109</id>
-        <link href="https://news.ycombinator.com/item?id=30678109"/>
-        <updated>2022-03-14T20:51:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Scordle – a word search game written in React]]></summary>
-        <author>
-            <name>utahjones</name>
-            <uri>https://news.ycombinator.com/user?id=utahjones</uri>
         </author>
     </entry>
 </feed>
