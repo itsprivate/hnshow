@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-04T21:31:46.948Z</updated>
+    <updated>2022-04-04T22:34:40.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[想象一下，在一個搜索引擎中，你可以通過國家來制裁結果]]></title>
+        <id>https://news.ycombinator.com/item?id=30912733</id>
+        <link href="https://news.ycombinator.com/item?id=30912733"/>
+        <updated>2022-04-04T22:21:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Imagine a search engine where you can sanction results by country]]></summary>
+        <author>
+            <name>taxonomyman</name>
+            <uri>https://news.ycombinator.com/user?id=taxonomyman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[猜測體重小知識]]></title>
         <id>https://news.ycombinator.com/item?id=30912064</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ZYinMD</name>
             <uri>https://news.ycombinator.com/user?id=ZYinMD</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[極客的密碼學益智遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30685281</id>
-        <link href="https://news.ycombinator.com/item?id=30685281"/>
-        <updated>2022-03-15T13:54:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cryptography Puzzle Game for Geeks]]></summary>
-        <author>
-            <name>turcutudor</name>
-            <uri>https://news.ycombinator.com/user?id=turcutudor</uri>
         </author>
     </entry>
 </feed>
