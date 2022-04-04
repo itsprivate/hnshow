@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 04 Apr 2022 20:34:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 21:31:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[猜測體重小知識]]></title>
+            <link>https://news.ycombinator.com/item?id=30912064</link>
+            <guid>https://news.ycombinator.com/item?id=30912064</guid>
+            <pubDate>Mon, 04 Apr 2022 21:20:00 GMT</pubDate>
+            <description><![CDATA[Show HN: Guess the Weight Trivia]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Tricorder - 自動化的KISS方式，不涉及YAML，用Rust編寫]]></title>
+            <link>https://news.ycombinator.com/item?id=30912049</link>
+            <guid>https://news.ycombinator.com/item?id=30912049</guid>
+            <pubDate>Mon, 04 Apr 2022 21:18:33 GMT</pubDate>
+            <description><![CDATA[Show HN: Tricorder – Automation the KISS way, no YAML involved, written in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[使用波函數摺疊的程序生成的瓦片地圖]]></title>
             <link>https://news.ycombinator.com/item?id=30911454</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30685281</guid>
             <pubDate>Tue, 15 Mar 2022 13:54:49 GMT</pubDate>
             <description><![CDATA[Show HN: Cryptography Puzzle Game for Geeks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個工具包使得將網頁歸檔到IPFS更容易。]]></title>
-            <link>https://news.ycombinator.com/item?id=30685161</link>
-            <guid>https://news.ycombinator.com/item?id=30685161</guid>
-            <pubDate>Tue, 15 Mar 2022 13:44:34 GMT</pubDate>
-            <description><![CDATA[Show HN: A toolkit makes it easier to archive webpages to IPFS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PlotAPI，實現美麗的交互式可視化]]></title>
-            <link>https://news.ycombinator.com/item?id=30684686</link>
-            <guid>https://news.ycombinator.com/item?id=30684686</guid>
-            <pubDate>Tue, 15 Mar 2022 13:00:18 GMT</pubDate>
-            <description><![CDATA[Show HN: PlotAPI, enabling beautiful interactive visualisations]]></description>
         </item>
     </channel>
 </rss>

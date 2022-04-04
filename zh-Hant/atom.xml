@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-04T20:34:34.862Z</updated>
+    <updated>2022-04-04T21:31:46.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[猜測體重小知識]]></title>
+        <id>https://news.ycombinator.com/item?id=30912064</id>
+        <link href="https://news.ycombinator.com/item?id=30912064"/>
+        <updated>2022-04-04T21:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Guess the Weight Trivia]]></summary>
+        <author>
+            <name>Dorcy64</name>
+            <uri>https://news.ycombinator.com/user?id=Dorcy64</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tricorder - 自動化的KISS方式，不涉及YAML，用Rust編寫]]></title>
+        <id>https://news.ycombinator.com/item?id=30912049</id>
+        <link href="https://news.ycombinator.com/item?id=30912049"/>
+        <updated>2022-04-04T21:18:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tricorder – Automation the KISS way, no YAML involved, written in Rust]]></summary>
+        <author>
+            <name>linkdd</name>
+            <uri>https://news.ycombinator.com/user?id=linkdd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用波函數摺疊的程序生成的瓦片地圖]]></title>
         <id>https://news.ycombinator.com/item?id=30911454</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>turcutudor</name>
             <uri>https://news.ycombinator.com/user?id=turcutudor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個工具包使得將網頁歸檔到IPFS更容易。]]></title>
-        <id>https://news.ycombinator.com/item?id=30685161</id>
-        <link href="https://news.ycombinator.com/item?id=30685161"/>
-        <updated>2022-03-15T13:44:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A toolkit makes it easier to archive webpages to IPFS]]></summary>
-        <author>
-            <name>wabarc</name>
-            <uri>https://news.ycombinator.com/user?id=wabarc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlotAPI，實現美麗的交互式可視化]]></title>
-        <id>https://news.ycombinator.com/item?id=30684686</id>
-        <link href="https://news.ycombinator.com/item?id=30684686"/>
-        <updated>2022-03-15T13:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PlotAPI, enabling beautiful interactive visualisations]]></summary>
-        <author>
-            <name>DataCrayon</name>
-            <uri>https://news.ycombinator.com/user?id=DataCrayon</uri>
         </author>
     </entry>
 </feed>
