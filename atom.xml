@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-04T22:34:40.185Z</updated>
+    <updated>2022-04-04T22:43:42.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Faros CE - 开源的工程操作平台]]></title>
+        <id>https://news.ycombinator.com/item?id=30912914</id>
+        <link href="https://news.ycombinator.com/item?id=30912914"/>
+        <updated>2022-04-04T22:40:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Faros CE – open-source engineering operations platform]]></summary>
+        <author>
+            <name>vgordon</name>
+            <uri>https://news.ycombinator.com/user?id=vgordon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[想象一下，在一个搜索引擎中，你可以通过国家来制裁结果]]></title>
         <id>https://news.ycombinator.com/item?id=30912733</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>codazoda</name>
             <uri>https://news.ycombinator.com/user?id=codazoda</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[myfaveTT - 从TikTok下载你所有的[喜欢的]视频，以便安全保存]]></title>
-        <id>https://news.ycombinator.com/item?id=30685938</id>
-        <link href="https://news.ycombinator.com/item?id=30685938"/>
-        <updated>2022-03-15T14:42:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: myfaveTT – download all your [Liked] videos from TikTok for safekeeping]]></summary>
-        <author>
-            <name>ZYinMD</name>
-            <uri>https://news.ycombinator.com/user?id=ZYinMD</uri>
         </author>
     </entry>
 </feed>
