@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-04T17:39:56.698Z</updated>
+    <updated>2022-04-04T18:57:32.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在同一個地方搜索域名和用戶名]]></title>
+        <id>https://news.ycombinator.com/item?id=30910621</id>
+        <link href="https://news.ycombinator.com/item?id=30910621"/>
+        <updated>2022-04-04T18:54:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Search domain and username in the same place]]></summary>
+        <author>
+            <name>rajasimon</name>
+            <uri>https://news.ycombinator.com/user?id=rajasimon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小型的ML輔助CLI，可以在常見的存儲庫中查找軟件包]]></title>
+        <id>https://news.ycombinator.com/item?id=30910584</id>
+        <link href="https://news.ycombinator.com/item?id=30910584"/>
+        <updated>2022-04-04T18:51:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Small ML assisted CLI to look up packages in common repositories]]></summary>
+        <author>
+            <name>pacmanche</name>
+            <uri>https://news.ycombinator.com/user?id=pacmanche</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tapgiant.com - 商店供應]]></title>
+        <id>https://news.ycombinator.com/item?id=30910525</id>
+        <link href="https://news.ycombinator.com/item?id=30910525"/>
+        <updated>2022-04-04T18:45:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tapgiant.com – Store Provisioning]]></summary>
+        <author>
+            <name>tapgiant</name>
+            <uri>https://news.ycombinator.com/user?id=tapgiant</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hypersearch - 用於改善谷歌、亞馬遜等的開源擴展。]]></title>
         <id>https://news.ycombinator.com/item?id=30909261</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>akshayg7</name>
             <uri>https://news.ycombinator.com/user?id=akshayg7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在.NET 6中播放Zork的Z-Machine]]></title>
-        <id>https://news.ycombinator.com/item?id=30684376</id>
-        <link href="https://news.ycombinator.com/item?id=30684376"/>
-        <updated>2022-03-15T12:19:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Z-Machine to play Zork in .NET 6]]></summary>
-        <author>
-            <name>danjc</name>
-            <uri>https://news.ycombinator.com/user?id=danjc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SwiftBar - 用腳本構建macOS菜單欄應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30684329</id>
-        <link href="https://news.ycombinator.com/item?id=30684329"/>
-        <updated>2022-03-15T12:12:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: SwiftBar – build macOS menu bar apps with scripts]]></summary>
-        <author>
-            <name>melonamin</name>
-            <uri>https://news.ycombinator.com/user?id=melonamin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cosigneth：以太坊上的容器圖像簽名和驗證 [Testnet]]]></title>
-        <id>https://news.ycombinator.com/item?id=30684267</id>
-        <link href="https://news.ycombinator.com/item?id=30684267"/>
-        <updated>2022-03-15T12:00:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cosigneth: Container Image Signing and Verifying on Ethereum [Testnet]]]></summary>
-        <author>
-            <name>Dentrax</name>
-            <uri>https://news.ycombinator.com/user?id=Dentrax</uri>
         </author>
     </entry>
 </feed>

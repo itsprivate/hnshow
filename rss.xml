@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 04 Apr 2022 17:39:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 18:57:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在同一个地方搜索域名和用户名]]></title>
+            <link>https://news.ycombinator.com/item?id=30910621</link>
+            <guid>https://news.ycombinator.com/item?id=30910621</guid>
+            <pubDate>Mon, 04 Apr 2022 18:54:22 GMT</pubDate>
+            <description><![CDATA[Show HN: Search domain and username in the same place]]></description>
+        </item>
+        <item>
+            <title><![CDATA[小型的ML辅助CLI，可以在常见的存储库中查找软件包]]></title>
+            <link>https://news.ycombinator.com/item?id=30910584</link>
+            <guid>https://news.ycombinator.com/item?id=30910584</guid>
+            <pubDate>Mon, 04 Apr 2022 18:51:28 GMT</pubDate>
+            <description><![CDATA[Show HN: Small ML assisted CLI to look up packages in common repositories]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Tapgiant.com - 商店供应]]></title>
+            <link>https://news.ycombinator.com/item?id=30910525</link>
+            <guid>https://news.ycombinator.com/item?id=30910525</guid>
+            <pubDate>Mon, 04 Apr 2022 18:45:19 GMT</pubDate>
+            <description><![CDATA[Show HN: Tapgiant.com – Store Provisioning]]></description>
+        </item>
         <item>
             <title><![CDATA[Hypersearch - 用于改善谷歌、亚马逊等的开源扩展。]]></title>
             <link>https://news.ycombinator.com/item?id=30909261</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30684646</guid>
             <pubDate>Tue, 15 Mar 2022 12:56:37 GMT</pubDate>
             <description><![CDATA[Show HN: Buy/Sell digital resources like Software Licenses and Tech platforms]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在.NET 6中播放Zork的Z-Machine]]></title>
-            <link>https://news.ycombinator.com/item?id=30684376</link>
-            <guid>https://news.ycombinator.com/item?id=30684376</guid>
-            <pubDate>Tue, 15 Mar 2022 12:19:21 GMT</pubDate>
-            <description><![CDATA[Show HN: Z-Machine to play Zork in .NET 6]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SwiftBar - 用脚本构建macOS菜单栏应用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30684329</link>
-            <guid>https://news.ycombinator.com/item?id=30684329</guid>
-            <pubDate>Tue, 15 Mar 2022 12:12:01 GMT</pubDate>
-            <description><![CDATA[Show HN: SwiftBar – build macOS menu bar apps with scripts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cosigneth：以太坊上的容器图像签名和验证 [Testnet]]]></title>
-            <link>https://news.ycombinator.com/item?id=30684267</link>
-            <guid>https://news.ycombinator.com/item?id=30684267</guid>
-            <pubDate>Tue, 15 Mar 2022 12:00:54 GMT</pubDate>
-            <description><![CDATA[Show HN: Cosigneth: Container Image Signing and Verifying on Ethereum [Testnet]]]></description>
         </item>
     </channel>
 </rss>
