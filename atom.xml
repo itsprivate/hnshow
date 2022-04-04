@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-04T14:32:39.746Z</updated>
+    <updated>2022-04-04T15:15:31.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通过记录深度链接和端点选择实现快速DNS查询]]></title>
+        <id>https://news.ycombinator.com/item?id=30907478</id>
+        <link href="https://news.ycombinator.com/item?id=30907478"/>
+        <updated>2022-04-04T15:03:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fast DNS lookups with record deep linking and endpoint selection]]></summary>
+        <author>
+            <name>jmorf</name>
+            <uri>https://news.ycombinator.com/user?id=jmorf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[制裁 - 想象一个搜索引擎，你可以按国家进行制裁]]></title>
         <id>https://news.ycombinator.com/item?id=30906954</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bilater</name>
             <uri>https://news.ycombinator.com/user?id=bilater</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的单文件HTML和VueJS网站模板]]></title>
-        <id>https://news.ycombinator.com/item?id=30681409</id>
-        <link href="https://news.ycombinator.com/item?id=30681409"/>
-        <updated>2022-03-15T03:35:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: My Single-file HTML and VueJS website template]]></summary>
-        <author>
-            <name>TheGoodBarn</name>
-            <uri>https://news.ycombinator.com/user?id=TheGoodBarn</uri>
         </author>
     </entry>
 </feed>

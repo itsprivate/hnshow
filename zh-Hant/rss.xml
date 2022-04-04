@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 04 Apr 2022 14:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 15:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[通過記錄深度鏈接和端點選擇實現快速DNS查詢]]></title>
+            <link>https://news.ycombinator.com/item?id=30907478</link>
+            <guid>https://news.ycombinator.com/item?id=30907478</guid>
+            <pubDate>Mon, 04 Apr 2022 15:03:43 GMT</pubDate>
+            <description><![CDATA[Show HN: Fast DNS lookups with record deep linking and endpoint selection]]></description>
+        </item>
         <item>
             <title><![CDATA[制裁 - 想象一個搜索引擎，你可以按國家進行制裁]]></title>
             <link>https://news.ycombinator.com/item?id=30906954</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30681897</guid>
             <pubDate>Tue, 15 Mar 2022 05:17:33 GMT</pubDate>
             <description><![CDATA[Show HN: The Clock App – See the Time and Weather in Places You Care About]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我的單文件HTML和VueJS網站模板]]></title>
-            <link>https://news.ycombinator.com/item?id=30681409</link>
-            <guid>https://news.ycombinator.com/item?id=30681409</guid>
-            <pubDate>Tue, 15 Mar 2022 03:35:54 GMT</pubDate>
-            <description><![CDATA[Show HN: My Single-file HTML and VueJS website template]]></description>
         </item>
     </channel>
 </rss>
