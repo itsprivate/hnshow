@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-04T18:57:32.211Z</updated>
+    <updated>2022-04-04T20:34:34.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用波函数折叠的程序生成的瓦片地图]]></title>
+        <id>https://news.ycombinator.com/item?id=30911454</id>
+        <link href="https://news.ycombinator.com/item?id=30911454"/>
+        <updated>2022-04-04T20:14:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Procedurally-generated tile maps using Wave Function Collapse]]></summary>
+        <author>
+            <name>arriu</name>
+            <uri>https://news.ycombinator.com/user?id=arriu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在同一个地方搜索域名和用户名]]></title>
         <id>https://news.ycombinator.com/item?id=30910621</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>DataCrayon</name>
             <uri>https://news.ycombinator.com/user?id=DataCrayon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[买/卖数字资源，如软件许可证和技术平台]]></title>
-        <id>https://news.ycombinator.com/item?id=30684646</id>
-        <link href="https://news.ycombinator.com/item?id=30684646"/>
-        <updated>2022-03-15T12:56:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Buy/Sell digital resources like Software Licenses and Tech platforms]]></summary>
-        <author>
-            <name>akshayg7</name>
-            <uri>https://news.ycombinator.com/user?id=akshayg7</uri>
         </author>
     </entry>
 </feed>

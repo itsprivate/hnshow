@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 04 Apr 2022 18:57:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 20:34:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用波函数折叠的程序生成的瓦片地图]]></title>
+            <link>https://news.ycombinator.com/item?id=30911454</link>
+            <guid>https://news.ycombinator.com/item?id=30911454</guid>
+            <pubDate>Mon, 04 Apr 2022 20:14:13 GMT</pubDate>
+            <description><![CDATA[Show HN: Procedurally-generated tile maps using Wave Function Collapse]]></description>
+        </item>
         <item>
             <title><![CDATA[在同一个地方搜索域名和用户名]]></title>
             <link>https://news.ycombinator.com/item?id=30910621</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30684686</guid>
             <pubDate>Tue, 15 Mar 2022 13:00:18 GMT</pubDate>
             <description><![CDATA[Show HN: PlotAPI, enabling beautiful interactive visualisations]]></description>
-        </item>
-        <item>
-            <title><![CDATA[买/卖数字资源，如软件许可证和技术平台]]></title>
-            <link>https://news.ycombinator.com/item?id=30684646</link>
-            <guid>https://news.ycombinator.com/item?id=30684646</guid>
-            <pubDate>Tue, 15 Mar 2022 12:56:37 GMT</pubDate>
-            <description><![CDATA[Show HN: Buy/Sell digital resources like Software Licenses and Tech platforms]]></description>
         </item>
     </channel>
 </rss>
