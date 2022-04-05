@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-05T20:15:01.530Z</updated>
+    <updated>2022-04-05T21:52:29.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用ThreeJS製作的《泰坦尼克號》體驗]]></title>
+        <id>https://news.ycombinator.com/item?id=30925369</id>
+        <link href="https://news.ycombinator.com/item?id=30925369"/>
+        <updated>2022-04-05T21:39:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An Attack on Titan Experience Made with ThreeJS]]></summary>
+        <author>
+            <name>_bramses</name>
+            <uri>https://news.ycombinator.com/user?id=_bramses</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Firecracker實驗室--從容器鏡像中構建一個微型VM]]></title>
         <id>https://news.ycombinator.com/item?id=30924298</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>asadawadia</name>
             <uri>https://news.ycombinator.com/user?id=asadawadia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開源的Terraform HCL檢查器 - ValidIaC]]></title>
-        <id>https://news.ycombinator.com/item?id=30701378</id>
-        <link href="https://news.ycombinator.com/item?id=30701378"/>
-        <updated>2022-03-16T17:07:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An Open Source Terraform HCL Checker – ValidIaC]]></summary>
-        <author>
-            <name>sefi-infralight</name>
-            <uri>https://news.ycombinator.com/user?id=sefi-infralight</uri>
         </author>
     </entry>
 </feed>
