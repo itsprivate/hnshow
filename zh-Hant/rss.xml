@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 05 Apr 2022 05:30:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 06:15:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[鉻記錄器爬蟲]]></title>
+            <link>https://news.ycombinator.com/item?id=30915738</link>
+            <guid>https://news.ycombinator.com/item?id=30915738</guid>
+            <pubDate>Tue, 05 Apr 2022 05:58:35 GMT</pubDate>
+            <description><![CDATA[Show HN: Chrome Recorder Crawler]]></description>
+        </item>
         <item>
             <title><![CDATA[Pipy和Redis以及Sentinel=高可用Redis]]></title>
             <link>https://news.ycombinator.com/item?id=30915547</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30688643</guid>
             <pubDate>Tue, 15 Mar 2022 18:00:01 GMT</pubDate>
             <description><![CDATA[Show HN: Dakka – modern way to test the UI]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Rust編寫的快速子域枚舉器]]></title>
-            <link>https://news.ycombinator.com/item?id=30688516</link>
-            <guid>https://news.ycombinator.com/item?id=30688516</guid>
-            <pubDate>Tue, 15 Mar 2022 17:51:25 GMT</pubDate>
-            <description><![CDATA[Show HN: Fast subdomain enumerator written in Rust]]></description>
         </item>
     </channel>
 </rss>
