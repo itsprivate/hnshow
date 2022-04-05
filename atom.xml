@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-05T12:56:22.355Z</updated>
+    <updated>2022-04-05T13:25:46.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用VS Code扩展的Webhooks开发继电器]]></title>
+        <id>https://news.ycombinator.com/item?id=30918426</id>
+        <link href="https://news.ycombinator.com/item?id=30918426"/>
+        <updated>2022-04-05T13:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Webhooks development relay with VS Code extension]]></summary>
+        <author>
+            <name>petems</name>
+            <uri>https://news.ycombinator.com/user?id=petems</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测量能源消耗的Rust测试线束]]></title>
+        <id>https://news.ycombinator.com/item?id=30918318</id>
+        <link href="https://news.ycombinator.com/item?id=30918318"/>
+        <updated>2022-04-05T12:51:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Rust test harness that measures energy consumption]]></summary>
+        <author>
+            <name>thijsr</name>
+            <uri>https://news.ycombinator.com/user?id=thijsr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Encome，一个发现、分析和交易北交所股票的地方]]></title>
         <id>https://news.ycombinator.com/item?id=30918240</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>weakfish</name>
             <uri>https://news.ycombinator.com/user?id=weakfish</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于共享pprof差异的在线flamegraph查看器]]></title>
-        <id>https://news.ycombinator.com/item?id=30691340</id>
-        <link href="https://news.ycombinator.com/item?id=30691340"/>
-        <updated>2022-03-15T20:41:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An online flamegraph viewer for sharing pprof diffs]]></summary>
-        <author>
-            <name>Rperry2174</name>
-            <uri>https://news.ycombinator.com/user?id=Rperry2174</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sortes Alearum - 一个古罗马骰子神谕的网络模拟器]]></title>
-        <id>https://news.ycombinator.com/item?id=30690866</id>
-        <link href="https://news.ycombinator.com/item?id=30690866"/>
-        <updated>2022-03-15T20:10:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Sortes Alearum – a web emulator for an ancient Roman dice oracle]]></summary>
-        <author>
-            <name>vgel</name>
-            <uri>https://news.ycombinator.com/user?id=vgel</uri>
         </author>
     </entry>
 </feed>
