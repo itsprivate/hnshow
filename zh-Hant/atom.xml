@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-05T18:40:32.809Z</updated>
+    <updated>2022-04-05T19:00:29.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一項服務，幫助企業減少50%以上的AWS支出]]></title>
+        <id>https://news.ycombinator.com/item?id=30923285</id>
+        <link href="https://news.ycombinator.com/item?id=30923285"/>
+        <updated>2022-04-05T18:53:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a service to help companies reduce AWS spend by 50%+]]></summary>
+        <author>
+            <name>kavehkhorram</name>
+            <uri>https://news.ycombinator.com/user?id=kavehkhorram</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlotPanel - 無需任何代碼即可實現美麗的互動式可視化]]></title>
+        <id>https://news.ycombinator.com/item?id=30923149</id>
+        <link href="https://news.ycombinator.com/item?id=30923149"/>
+        <updated>2022-04-05T18:44:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PlotPanel – Beautiful and Interactive Visualizations Without Any Code]]></summary>
+        <author>
+            <name>batterylow</name>
+            <uri>https://news.ycombinator.com/user?id=batterylow</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vappy，為新加坡的鑑賞家提供的編程語言]]></title>
+        <id>https://news.ycombinator.com/item?id=30923147</id>
+        <link href="https://news.ycombinator.com/item?id=30923147"/>
+        <updated>2022-04-05T18:44:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Vappy, the programming language for Vaporeon connoisseurs]]></summary>
+        <author>
+            <name>vappy-lang</name>
+            <uri>https://news.ycombinator.com/user?id=vappy-lang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monokle，一個Kubernetes Manifest IDE]]></title>
         <id>https://news.ycombinator.com/item?id=30922995</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>mab477</name>
             <uri>https://news.ycombinator.com/user?id=mab477</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[內容區塊網站組件設計系統]]></title>
-        <id>https://news.ycombinator.com/item?id=30700459</id>
-        <link href="https://news.ycombinator.com/item?id=30700459"/>
-        <updated>2022-03-16T15:59:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Content Blocks Web Components Design System]]></summary>
-        <author>
-            <name>ContentBlocks</name>
-            <uri>https://news.ycombinator.com/user?id=ContentBlocks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[類似LeechBlock的桌面生產力工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30700405</id>
-        <link href="https://news.ycombinator.com/item?id=30700405"/>
-        <updated>2022-03-16T15:56:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: LeechBlock-like productivity tool for the desktop]]></summary>
-        <author>
-            <name>abrandnewalt</name>
-            <uri>https://news.ycombinator.com/user?id=abrandnewalt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我寫了一本關於用Kotlin跟蹤你的淨資產的電子書]]></title>
-        <id>https://news.ycombinator.com/item?id=30699937</id>
-        <link href="https://news.ycombinator.com/item?id=30699937"/>
-        <updated>2022-03-16T15:23:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I wrote an eBook about tracking your Net Worth with Kotlin]]></summary>
-        <author>
-            <name>scastiel</name>
-            <uri>https://news.ycombinator.com/user?id=scastiel</uri>
         </author>
     </entry>
 </feed>
