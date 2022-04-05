@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-05T11:39:18.472Z</updated>
+    <updated>2022-04-05T11:52:08.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[互联网的未来？虫洞和强键入的URL]]></title>
+        <id>https://news.ycombinator.com/item?id=30917714</id>
+        <link href="https://news.ycombinator.com/item?id=30917714"/>
+        <updated>2022-04-05T11:37:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The future of internet? Wormholes and strongly typed URLs]]></summary>
+        <author>
+            <name>anon012012</name>
+            <uri>https://news.ycombinator.com/user?id=anon012012</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LeFun.fun - 一个用React构建的在线棋牌游戏平台。]]></title>
         <id>https://news.ycombinator.com/item?id=30917621</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bradwoodsio</name>
             <uri>https://news.ycombinator.com/user?id=bradwoodsio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于合成数据的实时AMA正在进行中]]></title>
-        <id>https://news.ycombinator.com/item?id=30690368</id>
-        <link href="https://news.ycombinator.com/item?id=30690368"/>
-        <updated>2022-03-15T19:39:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Live AMA on Synthetic Data Going on Right Now]]></summary>
-        <author>
-            <name>repeat_or</name>
-            <uri>https://news.ycombinator.com/user?id=repeat_or</uri>
         </author>
     </entry>
 </feed>
