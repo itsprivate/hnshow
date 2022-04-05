@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-05T10:14:50.763Z</updated>
+    <updated>2022-04-05T11:13:03.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不分心地打坐的簡單方法]]></title>
+        <id>https://news.ycombinator.com/item?id=30917481</id>
+        <link href="https://news.ycombinator.com/item?id=30917481"/>
+        <updated>2022-04-05T11:04:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A simple method to meditate without getting distracted]]></summary>
+        <author>
+            <name>danieltait</name>
+            <uri>https://news.ycombinator.com/user?id=danieltait</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沒有推薦的YouTube登陸頁面]]></title>
         <id>https://news.ycombinator.com/item?id=30917141</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hodware</name>
             <uri>https://news.ycombinator.com/user?id=hodware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社會公益社交網絡 - 投標牌]]></title>
-        <id>https://news.ycombinator.com/item?id=30689502</id>
-        <link href="https://news.ycombinator.com/item?id=30689502"/>
-        <updated>2022-03-15T18:59:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Social Good Social Network – pitch deck]]></summary>
-        <author>
-            <name>jph</name>
-            <uri>https://news.ycombinator.com/user?id=jph</uri>
         </author>
     </entry>
 </feed>
