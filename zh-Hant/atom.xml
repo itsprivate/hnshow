@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-05T02:24:00.758Z</updated>
+    <updated>2022-04-05T03:10:03.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[查看回溯到年初的每週內幕交易]]></title>
+        <id>https://news.ycombinator.com/item?id=30914642</id>
+        <link href="https://news.ycombinator.com/item?id=30914642"/>
+        <updated>2022-04-05T02:24:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: View Weekly Insider transactions back to the beginning of the year]]></summary>
+        <author>
+            <name>finfun234</name>
+            <uri>https://news.ycombinator.com/user?id=finfun234</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們建立了一個專門的數據科學招聘網站]]></title>
         <id>https://news.ycombinator.com/item?id=30913993</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ogogmad</name>
             <uri>https://news.ycombinator.com/user?id=ogogmad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免費支付任何發票--即使你的供應商不接受卡。]]></title>
-        <id>https://news.ycombinator.com/item?id=30687688</id>
-        <link href="https://news.ycombinator.com/item?id=30687688"/>
-        <updated>2022-03-15T16:55:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pay any invoice for FREE – even if your vendor doesn’t accept cards]]></summary>
-        <author>
-            <name>matrione</name>
-            <uri>https://news.ycombinator.com/user?id=matrione</uri>
         </author>
     </entry>
 </feed>
