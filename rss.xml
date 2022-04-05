@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 05 Apr 2022 11:30:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 11:39:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[LeFun.fun - 一个用React构建的在线棋牌游戏平台。]]></title>
+            <link>https://news.ycombinator.com/item?id=30917621</link>
+            <guid>https://news.ycombinator.com/item?id=30917621</guid>
+            <pubDate>Tue, 05 Apr 2022 11:25:56 GMT</pubDate>
+            <description><![CDATA[Show HN: LeFun.fun – an online board game platform with games built in React]]></description>
+        </item>
         <item>
             <title><![CDATA[一个用于快速、上下文记事的Chrome扩展程序]]></title>
             <link>https://news.ycombinator.com/item?id=30917504</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30690368</guid>
             <pubDate>Tue, 15 Mar 2022 19:39:58 GMT</pubDate>
             <description><![CDATA[Show HN: Live AMA on Synthetic Data Going on Right Now]]></description>
-        </item>
-        <item>
-            <title><![CDATA[按主题发现1千份新闻简报，由你来排名]]></title>
-            <link>https://news.ycombinator.com/item?id=30690303</link>
-            <guid>https://news.ycombinator.com/item?id=30690303</guid>
-            <pubDate>Tue, 15 Mar 2022 19:36:01 GMT</pubDate>
-            <description><![CDATA[Show HN: Discover 1k newsletters by topic, ranked by you]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-05T11:30:03.950Z</updated>
+    <updated>2022-04-05T11:39:18.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[LeFun.fun - 一个用React构建的在线棋牌游戏平台。]]></title>
+        <id>https://news.ycombinator.com/item?id=30917621</id>
+        <link href="https://news.ycombinator.com/item?id=30917621"/>
+        <updated>2022-04-05T11:25:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: LeFun.fun – an online board game platform with games built in React]]></summary>
+        <author>
+            <name>slmx</name>
+            <uri>https://news.ycombinator.com/user?id=slmx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个用于快速、上下文记事的Chrome扩展程序]]></title>
         <id>https://news.ycombinator.com/item?id=30917504</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>repeat_or</name>
             <uri>https://news.ycombinator.com/user?id=repeat_or</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[按主题发现1千份新闻简报，由你来排名]]></title>
-        <id>https://news.ycombinator.com/item?id=30690303</id>
-        <link href="https://news.ycombinator.com/item?id=30690303"/>
-        <updated>2022-03-15T19:36:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Discover 1k newsletters by topic, ranked by you]]></summary>
-        <author>
-            <name>quinto_quarto</name>
-            <uri>https://news.ycombinator.com/user?id=quinto_quarto</uri>
         </author>
     </entry>
 </feed>
