@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-05T13:25:46.274Z</updated>
+    <updated>2022-04-05T13:50:08.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將GitHub貢獻者的頭像網格生成為SVG的工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30918619</id>
+        <link href="https://news.ycombinator.com/item?id=30918619"/>
+        <updated>2022-04-05T13:21:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tool to generate GitHub contributor avatar grid as SVG]]></summary>
+        <author>
+            <name>kriztle</name>
+            <uri>https://news.ycombinator.com/user?id=kriztle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用VS Code擴展的Webhooks開發繼電器]]></title>
         <id>https://news.ycombinator.com/item?id=30918426</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>oldstrangers</name>
             <uri>https://news.ycombinator.com/user?id=oldstrangers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goptional，一個我在半小時內製作的圍棋選項庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30693125</id>
-        <link href="https://news.ycombinator.com/item?id=30693125"/>
-        <updated>2022-03-15T23:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Goptional, an Option library for Go I made in half an hour]]></summary>
-        <author>
-            <name>weakfish</name>
-            <uri>https://news.ycombinator.com/user?id=weakfish</uri>
         </author>
     </entry>
 </feed>
