@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-05T00:40:08.172Z</updated>
+    <updated>2022-04-05T02:24:00.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们建立了一个专门的数据科学招聘网站]]></title>
+        <id>https://news.ycombinator.com/item?id=30913993</id>
+        <link href="https://news.ycombinator.com/item?id=30913993"/>
+        <updated>2022-04-05T00:57:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We built a Data Science specific job board]]></summary>
+        <author>
+            <name>data4lyfe</name>
+            <uri>https://news.ycombinator.com/user?id=data4lyfe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在React中克隆一个开源的DEV.to。]]></title>
         <id>https://news.ycombinator.com/item?id=30913797</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>matrione</name>
             <uri>https://news.ycombinator.com/user?id=matrione</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个新的LLVM优化通道，积极地减少WebAssembly的大小]]></title>
-        <id>https://news.ycombinator.com/item?id=30686919</id>
-        <link href="https://news.ycombinator.com/item?id=30686919"/>
-        <updated>2022-03-15T15:57:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A new LLVM optimization pass that aggressively reduces WebAssembly size]]></summary>
-        <author>
-            <name>apignotti</name>
-            <uri>https://news.ycombinator.com/user?id=apignotti</uri>
         </author>
     </entry>
 </feed>
