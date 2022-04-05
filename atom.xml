@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-05T07:13:02.364Z</updated>
+    <updated>2022-04-05T10:14:50.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[没有推荐的YouTube登陆页面]]></title>
+        <id>https://news.ycombinator.com/item?id=30917141</id>
+        <link href="https://news.ycombinator.com/item?id=30917141"/>
+        <updated>2022-04-05T10:05:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: YouTube landing page without recommendations]]></summary>
+        <author>
+            <name>openquery</name>
+            <uri>https://news.ycombinator.com/user?id=openquery</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个Messenger UI克隆，用于查看Facebook导出的JSON数据]]></title>
+        <id>https://news.ycombinator.com/item?id=30917114</id>
+        <link href="https://news.ycombinator.com/item?id=30917114"/>
+        <updated>2022-04-05T10:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a Messenger UI clone for viewing Facebook-exported JSON data]]></summary>
+        <author>
+            <name>yukaii</name>
+            <uri>https://news.ycombinator.com/user?id=yukaii</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[易于参考的HTTP状态代码数据库]]></title>
         <id>https://news.ycombinator.com/item?id=30916043</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jph</name>
             <uri>https://news.ycombinator.com/user?id=jph</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WikiNewsFeed - 由维基百科提供的RSS聚合器]]></title>
-        <id>https://news.ycombinator.com/item?id=30689079</id>
-        <link href="https://news.ycombinator.com/item?id=30689079"/>
-        <updated>2022-03-15T18:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WikiNewsFeed – RSS aggregator powered by Wikipedia]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了Devzat - 它就像discord，但在终端，通过SSH。]]></title>
-        <id>https://news.ycombinator.com/item?id=30688691</id>
-        <link href="https://news.ycombinator.com/item?id=30688691"/>
-        <updated>2022-03-15T18:02:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made Devzat – It's like discord but in the terminal, over SSH]]></summary>
-        <author>
-            <name>quackduck</name>
-            <uri>https://news.ycombinator.com/user?id=quackduck</uri>
         </author>
     </entry>
 </feed>
