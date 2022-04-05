@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-05T03:10:03.441Z</updated>
+    <updated>2022-04-05T05:30:35.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Pipy和Redis以及Sentinel=高可用Redis]]></title>
+        <id>https://news.ycombinator.com/item?id=30915547</id>
+        <link href="https://news.ycombinator.com/item?id=30915547"/>
+        <updated>2022-04-05T05:20:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pipy and Redis and Sentinel = High Available Redis]]></summary>
+        <author>
+            <name>shaderx13</name>
+            <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[查看回溯到年初的每周内幕交易]]></title>
         <id>https://news.ycombinator.com/item?id=30914642</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>chockchocschoir</name>
             <uri>https://news.ycombinator.com/user?id=chockchocschoir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[显示QR算法动态的视频]]></title>
-        <id>https://news.ycombinator.com/item?id=30688427</id>
-        <link href="https://news.ycombinator.com/item?id=30688427"/>
-        <updated>2022-03-15T17:45:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Video showing the dynamics of the QR algorithm]]></summary>
-        <author>
-            <name>ogogmad</name>
-            <uri>https://news.ycombinator.com/user?id=ogogmad</uri>
         </author>
     </entry>
 </feed>

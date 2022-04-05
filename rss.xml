@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 05 Apr 2022 03:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 05:30:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Pipy和Redis以及Sentinel=高可用Redis]]></title>
+            <link>https://news.ycombinator.com/item?id=30915547</link>
+            <guid>https://news.ycombinator.com/item?id=30915547</guid>
+            <pubDate>Tue, 05 Apr 2022 05:20:17 GMT</pubDate>
+            <description><![CDATA[Show HN: Pipy and Redis and Sentinel = High Available Redis]]></description>
+        </item>
         <item>
             <title><![CDATA[查看回溯到年初的每周内幕交易]]></title>
             <link>https://news.ycombinator.com/item?id=30914642</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30688516</guid>
             <pubDate>Tue, 15 Mar 2022 17:51:25 GMT</pubDate>
             <description><![CDATA[Show HN: Fast subdomain enumerator written in Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[显示QR算法动态的视频]]></title>
-            <link>https://news.ycombinator.com/item?id=30688427</link>
-            <guid>https://news.ycombinator.com/item?id=30688427</guid>
-            <pubDate>Tue, 15 Mar 2022 17:45:37 GMT</pubDate>
-            <description><![CDATA[Show HN: Video showing the dynamics of the QR algorithm]]></description>
         </item>
     </channel>
 </rss>
