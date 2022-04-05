@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 04 Apr 2022 23:34:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 00:40:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在React中克隆一個開源的DEV.to。]]></title>
+            <link>https://news.ycombinator.com/item?id=30913797</link>
+            <guid>https://news.ycombinator.com/item?id=30913797</guid>
+            <pubDate>Tue, 05 Apr 2022 00:29:27 GMT</pubDate>
+            <description><![CDATA[Show HN: An open-source DEV.to clone in React]]></description>
+        </item>
+        <item>
+            <title><![CDATA[iOS版的Markdown鍵盤]]></title>
+            <link>https://news.ycombinator.com/item?id=30913647</link>
+            <guid>https://news.ycombinator.com/item?id=30913647</guid>
+            <pubDate>Tue, 05 Apr 2022 00:11:51 GMT</pubDate>
+            <description><![CDATA[Show HN: Markdown Keyboard for iOS]]></description>
+        </item>
         <item>
             <title><![CDATA[基於組件的靜態網站啟動器和模板 100/100 LH得分]]></title>
             <link>https://news.ycombinator.com/item?id=30913184</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30686919</guid>
             <pubDate>Tue, 15 Mar 2022 15:57:36 GMT</pubDate>
             <description><![CDATA[Show HN: A new LLVM optimization pass that aggressively reduces WebAssembly size]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新的React Flow版本有許多新功能]]></title>
-            <link>https://news.ycombinator.com/item?id=30686759</link>
-            <guid>https://news.ycombinator.com/item?id=30686759</guid>
-            <pubDate>Tue, 15 Mar 2022 15:45:45 GMT</pubDate>
-            <description><![CDATA[Show HN: New React Flow version with many new features]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用動態UTM標籤和JavaScript簡化你的漏斗分析]]></title>
-            <link>https://news.ycombinator.com/item?id=30686456</link>
-            <guid>https://news.ycombinator.com/item?id=30686456</guid>
-            <pubDate>Tue, 15 Mar 2022 15:24:22 GMT</pubDate>
-            <description><![CDATA[Show HN: Streamline Your Funnel Analytics with Dynamic UTM Tags and JavaScript]]></description>
         </item>
     </channel>
 </rss>

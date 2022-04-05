@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-04T23:34:06.257Z</updated>
+    <updated>2022-04-05T00:40:08.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在React中克隆一個開源的DEV.to。]]></title>
+        <id>https://news.ycombinator.com/item?id=30913797</id>
+        <link href="https://news.ycombinator.com/item?id=30913797"/>
+        <updated>2022-04-05T00:29:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An open-source DEV.to clone in React]]></summary>
+        <author>
+            <name>epic_within</name>
+            <uri>https://news.ycombinator.com/user?id=epic_within</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS版的Markdown鍵盤]]></title>
+        <id>https://news.ycombinator.com/item?id=30913647</id>
+        <link href="https://news.ycombinator.com/item?id=30913647"/>
+        <updated>2022-04-05T00:11:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Markdown Keyboard for iOS]]></summary>
+        <author>
+            <name>andrewon</name>
+            <uri>https://news.ycombinator.com/user?id=andrewon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基於組件的靜態網站啟動器和模板 100/100 LH得分]]></title>
         <id>https://news.ycombinator.com/item?id=30913184</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>apignotti</name>
             <uri>https://news.ycombinator.com/user?id=apignotti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的React Flow版本有許多新功能]]></title>
-        <id>https://news.ycombinator.com/item?id=30686759</id>
-        <link href="https://news.ycombinator.com/item?id=30686759"/>
-        <updated>2022-03-15T15:45:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: New React Flow version with many new features]]></summary>
-        <author>
-            <name>moklick</name>
-            <uri>https://news.ycombinator.com/user?id=moklick</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用動態UTM標籤和JavaScript簡化你的漏斗分析]]></title>
-        <id>https://news.ycombinator.com/item?id=30686456</id>
-        <link href="https://news.ycombinator.com/item?id=30686456"/>
-        <updated>2022-03-15T15:24:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Streamline Your Funnel Analytics with Dynamic UTM Tags and JavaScript]]></summary>
-        <author>
-            <name>chrismore</name>
-            <uri>https://news.ycombinator.com/user?id=chrismore</uri>
         </author>
     </entry>
 </feed>
