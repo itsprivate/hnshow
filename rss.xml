@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 05 Apr 2022 16:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 16:53:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Warp，一个基于Rust的现代终端]]></title>
+            <link>https://news.ycombinator.com/item?id=30921231</link>
+            <guid>https://news.ycombinator.com/item?id=30921231</guid>
+            <pubDate>Tue, 05 Apr 2022 16:40:25 GMT</pubDate>
+            <description><![CDATA[Show HN: Warp, a Rust-based terminal for the modern age]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Xpastebin - X/CLI xclip(1)/xdg-open(1)启用的粘贴库和URL工具。]]></title>
+            <link>https://news.ycombinator.com/item?id=30920986</link>
+            <guid>https://news.ycombinator.com/item?id=30920986</guid>
+            <pubDate>Tue, 05 Apr 2022 16:22:19 GMT</pubDate>
+            <description><![CDATA[Show HN: Xpastebin – X/CLI xclip(1)/xdg-open(1) enabled pastebin and URL utility]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Flight Penguin - 与Hipmunk类似，但却是一个浏览器扩展。]]></title>
+            <link>https://news.ycombinator.com/item?id=30920891</link>
+            <guid>https://news.ycombinator.com/item?id=30920891</guid>
+            <pubDate>Tue, 05 Apr 2022 16:15:04 GMT</pubDate>
+            <description><![CDATA[Show HN: Flight Penguin – Like Hipmunk, but a browser extension]]></description>
+        </item>
         <item>
             <title><![CDATA[为您的下一次短信活动尝试使用短信二维码生成器]]></title>
             <link>https://news.ycombinator.com/item?id=30920547</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30697324</guid>
             <pubDate>Wed, 16 Mar 2022 10:58:22 GMT</pubDate>
             <description><![CDATA[Show HN: Great tech solution for individuals who feel helpless about Ukraine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个像Firestore和Algolia一样的数据存储，合二为一]]></title>
-            <link>https://news.ycombinator.com/item?id=30696718</link>
-            <guid>https://news.ycombinator.com/item?id=30696718</guid>
-            <pubDate>Wed, 16 Mar 2022 09:08:30 GMT</pubDate>
-            <description><![CDATA[Show HN: A data store like Firestore and Algolia all in one]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个扩展，为你的推特设计风格]]></title>
-            <link>https://news.ycombinator.com/item?id=30696643</link>
-            <guid>https://news.ycombinator.com/item?id=30696643</guid>
-            <pubDate>Wed, 16 Mar 2022 08:55:40 GMT</pubDate>
-            <description><![CDATA[Show HN: I made an extension to style your tweet]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为您的StackOverflow简历/CV提供JSON备份]]></title>
-            <link>https://news.ycombinator.com/item?id=30696196</link>
-            <guid>https://news.ycombinator.com/item?id=30696196</guid>
-            <pubDate>Wed, 16 Mar 2022 07:31:34 GMT</pubDate>
-            <description><![CDATA[Show HN: JSON Backup for your StackOverflow resume/CV]]></description>
         </item>
     </channel>
 </rss>
