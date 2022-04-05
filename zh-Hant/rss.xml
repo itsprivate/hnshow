@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 05 Apr 2022 06:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 07:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[易於參考的HTTP狀態代碼數據庫]]></title>
+            <link>https://news.ycombinator.com/item?id=30916043</link>
+            <guid>https://news.ycombinator.com/item?id=30916043</guid>
+            <pubDate>Tue, 05 Apr 2022 06:52:58 GMT</pubDate>
+            <description><![CDATA[Show HN: Easy to reference database of HTTP Status Codes]]></description>
+        </item>
         <item>
             <title><![CDATA[鉻記錄器爬蟲]]></title>
             <link>https://news.ycombinator.com/item?id=30915738</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30688691</guid>
             <pubDate>Tue, 15 Mar 2022 18:02:45 GMT</pubDate>
             <description><![CDATA[Show HN: I made Devzat – It's like discord but in the terminal, over SSH]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dakka - 測試用戶界面的現代方法]]></title>
-            <link>https://news.ycombinator.com/item?id=30688643</link>
-            <guid>https://news.ycombinator.com/item?id=30688643</guid>
-            <pubDate>Tue, 15 Mar 2022 18:00:01 GMT</pubDate>
-            <description><![CDATA[Show HN: Dakka – modern way to test the UI]]></description>
         </item>
     </channel>
 </rss>
