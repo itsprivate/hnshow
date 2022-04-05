@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-05T21:52:29.755Z</updated>
+    <updated>2022-04-05T22:42:18.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DivPay - 通过分享你的编程知识获得报酬]]></title>
+        <id>https://news.ycombinator.com/item?id=30925950</id>
+        <link href="https://news.ycombinator.com/item?id=30925950"/>
+        <updated>2022-04-05T22:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: DivPay – Get paid for sharing your programming knowledge]]></summary>
+        <author>
+            <name>anthonygore</name>
+            <uri>https://news.ycombinator.com/user?id=anthonygore</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从VS代码中获取GitHub链接]]></title>
+        <id>https://news.ycombinator.com/item?id=30925915</id>
+        <link href="https://news.ycombinator.com/item?id=30925915"/>
+        <updated>2022-04-05T22:29:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Get GitHub Links from VS Code]]></summary>
+        <author>
+            <name>behzadhaghgoo</name>
+            <uri>https://news.ycombinator.com/user?id=behzadhaghgoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用ThreeJS制作的《泰坦尼克号》体验]]></title>
         <id>https://news.ycombinator.com/item?id=30925369</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>perryogwuche</name>
             <uri>https://news.ycombinator.com/user?id=perryogwuche</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sqljson - 使用Go泛型，轻松地将Go结构作为JSON使用，并使用SQL。]]></title>
-        <id>https://news.ycombinator.com/item?id=30701608</id>
-        <link href="https://news.ycombinator.com/item?id=30701608"/>
-        <updated>2022-03-16T17:28:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: sqljson – Using Go generics, easily use Go structs as JSONs with SQL]]></summary>
-        <author>
-            <name>orisho</name>
-            <uri>https://news.ycombinator.com/user?id=orisho</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个具有加密持久性和自动备份功能的内存KV存储器]]></title>
-        <id>https://news.ycombinator.com/item?id=30701458</id>
-        <link href="https://news.ycombinator.com/item?id=30701458"/>
-        <updated>2022-03-16T17:15:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An in memory KV store with encrypted persistence and automatic backups]]></summary>
-        <author>
-            <name>asadawadia</name>
-            <uri>https://news.ycombinator.com/user?id=asadawadia</uri>
         </author>
     </entry>
 </feed>

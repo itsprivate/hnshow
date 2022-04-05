@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 05 Apr 2022 21:52:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 22:42:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[DivPay - 通过分享你的编程知识获得报酬]]></title>
+            <link>https://news.ycombinator.com/item?id=30925950</link>
+            <guid>https://news.ycombinator.com/item?id=30925950</guid>
+            <pubDate>Tue, 05 Apr 2022 22:32:47 GMT</pubDate>
+            <description><![CDATA[Show HN: DivPay – Get paid for sharing your programming knowledge]]></description>
+        </item>
+        <item>
+            <title><![CDATA[从VS代码中获取GitHub链接]]></title>
+            <link>https://news.ycombinator.com/item?id=30925915</link>
+            <guid>https://news.ycombinator.com/item?id=30925915</guid>
+            <pubDate>Tue, 05 Apr 2022 22:29:34 GMT</pubDate>
+            <description><![CDATA[Show HN: Get GitHub Links from VS Code]]></description>
+        </item>
         <item>
             <title><![CDATA[用ThreeJS制作的《泰坦尼克号》体验]]></title>
             <link>https://news.ycombinator.com/item?id=30925369</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30701762</guid>
             <pubDate>Wed, 16 Mar 2022 17:42:45 GMT</pubDate>
             <description><![CDATA[Show HN: Manage Your Investments with Ease]]></description>
-        </item>
-        <item>
-            <title><![CDATA[sqljson - 使用Go泛型，轻松地将Go结构作为JSON使用，并使用SQL。]]></title>
-            <link>https://news.ycombinator.com/item?id=30701608</link>
-            <guid>https://news.ycombinator.com/item?id=30701608</guid>
-            <pubDate>Wed, 16 Mar 2022 17:28:34 GMT</pubDate>
-            <description><![CDATA[Show HN: sqljson – Using Go generics, easily use Go structs as JSONs with SQL]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个具有加密持久性和自动备份功能的内存KV存储器]]></title>
-            <link>https://news.ycombinator.com/item?id=30701458</link>
-            <guid>https://news.ycombinator.com/item?id=30701458</guid>
-            <pubDate>Wed, 16 Mar 2022 17:15:23 GMT</pubDate>
-            <description><![CDATA[Show HN: An in memory KV store with encrypted persistence and automatic backups]]></description>
         </item>
     </channel>
 </rss>
