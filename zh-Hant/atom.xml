@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-05T13:50:08.885Z</updated>
+    <updated>2022-04-05T14:15:51.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[BigSearch - 比任何普通的多引擎網絡搜索器能做的更多]]></title>
+        <id>https://news.ycombinator.com/item?id=30918971</id>
+        <link href="https://news.ycombinator.com/item?id=30918971"/>
+        <updated>2022-04-05T13:52:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: BigSearch – More than any ordinary multi-engines web searcher can do]]></summary>
+        <author>
+            <name>gry_gh</name>
+            <uri>https://news.ycombinator.com/user?id=gry_gh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[將GitHub貢獻者的頭像網格生成為SVG的工具]]></title>
         <id>https://news.ycombinator.com/item?id=30918619</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aenero</name>
             <uri>https://news.ycombinator.com/user?id=aenero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個實際有用的設計資源集合]]></title>
-        <id>https://news.ycombinator.com/item?id=30693603</id>
-        <link href="https://news.ycombinator.com/item?id=30693603"/>
-        <updated>2022-03-16T00:07:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An actually useful collection of design resources]]></summary>
-        <author>
-            <name>oldstrangers</name>
-            <uri>https://news.ycombinator.com/user?id=oldstrangers</uri>
         </author>
     </entry>
 </feed>
