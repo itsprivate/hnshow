@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 05 Apr 2022 11:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 11:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个用于快速、上下文记事的Chrome扩展程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30917504</link>
+            <guid>https://news.ycombinator.com/item?id=30917504</guid>
+            <pubDate>Tue, 05 Apr 2022 11:08:36 GMT</pubDate>
+            <description><![CDATA[Show HN: A Chrome extension for fast, contextual notetaking]]></description>
+        </item>
         <item>
             <title><![CDATA[不分心地打坐的简单方法]]></title>
             <link>https://news.ycombinator.com/item?id=30917481</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30690303</guid>
             <pubDate>Tue, 15 Mar 2022 19:36:01 GMT</pubDate>
             <description><![CDATA[Show HN: Discover 1k newsletters by topic, ranked by you]]></description>
-        </item>
-        <item>
-            <title><![CDATA[LemonadeJS 2 Micro(6Kb) Reactive Library。没有Transpile，没有依赖性]]></title>
-            <link>https://news.ycombinator.com/item?id=30689646</link>
-            <guid>https://news.ycombinator.com/item?id=30689646</guid>
-            <pubDate>Tue, 15 Mar 2022 19:04:34 GMT</pubDate>
-            <description><![CDATA[Show HN: LemonadeJS 2 Micro(6Kb) Reactive Library. No Transpile, No Dependencies]]></description>
         </item>
     </channel>
 </rss>
