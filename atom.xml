@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-06T15:16:29.898Z</updated>
+    <updated>2022-04-06T15:56:58.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个开源的Patreon/Substack]]></title>
+        <id>https://news.ycombinator.com/item?id=30933320</id>
+        <link href="https://news.ycombinator.com/item?id=30933320"/>
+        <updated>2022-04-06T15:35:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An open source Patreon / Substack]]></summary>
+        <author>
+            <name>rentfree-media</name>
+            <uri>https://news.ycombinator.com/user?id=rentfree-media</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ProductDiv - 开发人员的网站编辑器]]></title>
         <id>https://news.ycombinator.com/item?id=30932838</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>roblaszczak</name>
             <uri>https://news.ycombinator.com/user?id=roblaszczak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[威廉斯的元气世界]]></title>
-        <id>https://news.ycombinator.com/item?id=30710315</id>
-        <link href="https://news.ycombinator.com/item?id=30710315"/>
-        <updated>2022-03-17T12:19:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Metaverse on Minecraft]]></summary>
-        <author>
-            <name>GTP</name>
-            <uri>https://news.ycombinator.com/user?id=GTP</uri>
         </author>
     </entry>
 </feed>
