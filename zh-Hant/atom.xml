@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-05T22:42:18.674Z</updated>
+    <updated>2022-04-06T06:39:38.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Bloben - 自我託管的網絡CalDAV日曆客戶端]]></title>
+        <id>https://news.ycombinator.com/item?id=30929022</id>
+        <link href="https://news.ycombinator.com/item?id=30929022"/>
+        <updated>2022-04-06T06:23:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bloben – self hosted web CalDAV calendar client]]></summary>
+        <author>
+            <name>nibdo</name>
+            <uri>https://news.ycombinator.com/user?id=nibdo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於Slack的虛擬團隊破冰方案]]></title>
+        <id>https://news.ycombinator.com/item?id=30928997</id>
+        <link href="https://news.ycombinator.com/item?id=30928997"/>
+        <updated>2022-04-06T06:17:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Virtual Team Icebreakers for Slack]]></summary>
+        <author>
+            <name>bbling</name>
+            <uri>https://news.ycombinator.com/user?id=bbling</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DivPay - 通過分享你的編程知識獲得報酬]]></title>
         <id>https://news.ycombinator.com/item?id=30925950</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>titzer</name>
             <uri>https://news.ycombinator.com/user?id=titzer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[根據一個文件的HEREDOCs對其進行部分加密]]></title>
-        <id>https://news.ycombinator.com/item?id=30703161</id>
-        <link href="https://news.ycombinator.com/item?id=30703161"/>
-        <updated>2022-03-16T19:48:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Partially encrypt a file based on its HEREDOCs]]></summary>
-        <author>
-            <name>higgins</name>
-            <uri>https://news.ycombinator.com/user?id=higgins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[輕鬆地管理你的投資]]></title>
-        <id>https://news.ycombinator.com/item?id=30701762</id>
-        <link href="https://news.ycombinator.com/item?id=30701762"/>
-        <updated>2022-03-16T17:42:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Manage Your Investments with Ease]]></summary>
-        <author>
-            <name>perryogwuche</name>
-            <uri>https://news.ycombinator.com/user?id=perryogwuche</uri>
         </author>
     </entry>
 </feed>
