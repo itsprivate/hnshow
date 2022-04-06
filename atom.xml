@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-06T22:34:37.477Z</updated>
+    <updated>2022-04-06T23:51:44.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个HTML5的多人游戏引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=30938892</id>
+        <link href="https://news.ycombinator.com/item?id=30938892"/>
+        <updated>2022-04-06T23:47:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I Made a HTML5 Multiplayer Game Engine]]></summary>
+        <author>
+            <name>m0dE</name>
+            <uri>https://news.ycombinator.com/user?id=m0dE</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MetricFlow - 开源的度量衡框架]]></title>
         <id>https://news.ycombinator.com/item?id=30938109</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>asadawadia</name>
             <uri>https://news.ycombinator.com/user?id=asadawadia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Covid - 你的情况如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=30713153</id>
-        <link href="https://news.ycombinator.com/item?id=30713153"/>
-        <updated>2022-03-17T16:44:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Covid – How did you fare?]]></summary>
-        <author>
-            <name>loyalneighbor</name>
-            <uri>https://news.ycombinator.com/user?id=loyalneighbor</uri>
         </author>
     </entry>
 </feed>
