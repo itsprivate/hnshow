@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 06 Apr 2022 10:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 11:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[對在瀏覽器中運行的macOS Drift屏保的頌揚]]></title>
+            <link>https://news.ycombinator.com/item?id=30930638</link>
+            <guid>https://news.ycombinator.com/item?id=30930638</guid>
+            <pubDate>Wed, 06 Apr 2022 10:56:33 GMT</pubDate>
+            <description><![CDATA[Show HN: An ode to the macOS Drift screensaver that runs in the browser]]></description>
+        </item>
         <item>
             <title><![CDATA[C-LISTS - 審查和管理你的日常工作]]></title>
             <link>https://news.ycombinator.com/item?id=30930399</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30705500</guid>
             <pubDate>Wed, 16 Mar 2022 23:28:25 GMT</pubDate>
             <description><![CDATA[Show HN: SHOW HN: Stripe STOLE OUR $159k]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SimpleKV - 一個極其簡單的、匿名的鍵值存儲器]]></title>
-            <link>https://news.ycombinator.com/item?id=30705060</link>
-            <guid>https://news.ycombinator.com/item?id=30705060</guid>
-            <pubDate>Wed, 16 Mar 2022 22:40:33 GMT</pubDate>
-            <description><![CDATA[Show HN: SimpleKV – an extremely simple, anonymous key-value store]]></description>
         </item>
     </channel>
 </rss>
