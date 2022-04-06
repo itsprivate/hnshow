@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-06T10:16:53.071Z</updated>
+    <updated>2022-04-06T10:38:00.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[C-LISTS - 審查和管理你的日常工作]]></title>
+        <id>https://news.ycombinator.com/item?id=30930399</id>
+        <link href="https://news.ycombinator.com/item?id=30930399"/>
+        <updated>2022-04-06T10:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: C-LISTS – Review and manage your daily routines]]></summary>
+        <author>
+            <name>nebukad</name>
+            <uri>https://news.ycombinator.com/user?id=nebukad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kukkee--免費、開源、可自行託管的Doodle替代品]]></title>
         <id>https://news.ycombinator.com/item?id=30930304</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>re6tor</name>
             <uri>https://news.ycombinator.com/user?id=re6tor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plaraphy - 免費的轉述API和工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30704294</id>
-        <link href="https://news.ycombinator.com/item?id=30704294"/>
-        <updated>2022-03-16T21:24:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Plaraphy – Paraphrasing API and Tool for Free]]></summary>
-        <author>
-            <name>Valentina_Zyla</name>
-            <uri>https://news.ycombinator.com/user?id=Valentina_Zyla</uri>
         </author>
     </entry>
 </feed>
