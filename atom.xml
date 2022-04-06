@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-06T11:12:37.337Z</updated>
+    <updated>2022-04-06T12:59:40.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ServiceNow Ansible Collection的新版本，1.3.3版]]></title>
+        <id>https://news.ycombinator.com/item?id=30931340</id>
+        <link href="https://news.ycombinator.com/item?id=30931340"/>
+        <updated>2022-04-06T12:41:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: New Release of ServiceNow Ansible Collection, Version 1.3.3]]></summary>
+        <author>
+            <name>xlab-si</name>
+            <uri>https://news.ycombinator.com/user?id=xlab-si</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在瑞士找到一份软件工程师的工作（指南）（2019年）]]></title>
+        <id>https://news.ycombinator.com/item?id=30931046</id>
+        <link href="https://news.ycombinator.com/item?id=30931046"/>
+        <updated>2022-04-06T11:56:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How to find a job as a Software Engineer in Switzerland (Guide) (2019)]]></summary>
+        <author>
+            <name>Varqu</name>
+            <uri>https://news.ycombinator.com/user?id=Varqu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GuitarApp - 将Youtube上最好的吉他内容组织成每天的feeds。]]></title>
+        <id>https://news.ycombinator.com/item?id=30931091</id>
+        <link href="https://news.ycombinator.com/item?id=30931091"/>
+        <updated>2022-04-06T12:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GuitarApp - Youtube's finest guitar content organised into daily feeds]]></summary>
+        <author>
+            <name>Shredzilla</name>
+            <uri>https://news.ycombinator.com/user?id=Shredzilla</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对在浏览器中运行的macOS Drift屏保的颂扬]]></title>
         <id>https://news.ycombinator.com/item?id=30930638</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>ryukoposting</name>
             <uri>https://news.ycombinator.com/user?id=ryukoposting</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为我们其他人提供的活动流]]></title>
-        <id>https://news.ycombinator.com/item?id=30706380</id>
-        <link href="https://news.ycombinator.com/item?id=30706380"/>
-        <updated>2022-03-17T01:19:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Event Streaming for the Rest of Us]]></summary>
-        <author>
-            <name>northstar702</name>
-            <uri>https://news.ycombinator.com/user?id=northstar702</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在没有ML经验的情况下建立预测模型]]></title>
-        <id>https://news.ycombinator.com/item?id=30706193</id>
-        <link href="https://news.ycombinator.com/item?id=30706193"/>
-        <updated>2022-03-17T00:54:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Build predictive models with no prior ML experience]]></summary>
-        <author>
-            <name>TommyDANGerous</name>
-            <uri>https://news.ycombinator.com/user?id=TommyDANGerous</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[显示HN：Stripe偷走了我们的15万美金]]></title>
-        <id>https://news.ycombinator.com/item?id=30705500</id>
-        <link href="https://news.ycombinator.com/item?id=30705500"/>
-        <updated>2022-03-16T23:28:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: SHOW HN: Stripe STOLE OUR $159k]]></summary>
-        <author>
-            <name>neginbringshop</name>
-            <uri>https://news.ycombinator.com/user?id=neginbringshop</uri>
         </author>
     </entry>
 </feed>
