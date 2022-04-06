@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-06T12:59:40.660Z</updated>
+    <updated>2022-04-06T13:28:11.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Tilepieces - 一个可视化编辑HTML文档的开源项目]]></title>
+        <id>https://news.ycombinator.com/item?id=30931586</id>
+        <link href="https://news.ycombinator.com/item?id=30931586"/>
+        <updated>2022-04-06T13:14:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tilepieces – An open source project to visually editing HTML documents]]></summary>
+        <author>
+            <name>dinuovos</name>
+            <uri>https://news.ycombinator.com/user?id=dinuovos</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[变换和多表关系型数据库]]></title>
+        <id>https://news.ycombinator.com/item?id=30931580</id>
+        <link href="https://news.ycombinator.com/item?id=30931580"/>
+        <updated>2022-04-06T13:13:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Transforms and Multi-Table Relational Databases]]></summary>
+        <author>
+            <name>repeat_or</name>
+            <uri>https://news.ycombinator.com/user?id=repeat_or</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[共享的--数据交换和持久性]]></title>
+        <id>https://news.ycombinator.com/item?id=30931476</id>
+        <link href="https://news.ycombinator.com/item?id=30931476"/>
+        <updated>2022-04-06T12:59:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Shared – Data Exchange and Persistence]]></summary>
+        <author>
+            <name>alexrustic</name>
+            <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ServiceNow Ansible Collection的新版本，1.3.3版]]></title>
         <id>https://news.ycombinator.com/item?id=30931340</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>arkgil</name>
             <uri>https://news.ycombinator.com/user?id=arkgil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[改变这个页面 - 你决定新的文本]]></title>
-        <id>https://news.ycombinator.com/item?id=30709107</id>
-        <link href="https://news.ycombinator.com/item?id=30709107"/>
-        <updated>2022-03-17T09:10:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Change this page · You decide the new text]]></summary>
-        <author>
-            <name>baransel</name>
-            <uri>https://news.ycombinator.com/user?id=baransel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Payitfwd.dev - 捐赠给依赖性的依赖性]]></title>
-        <id>https://news.ycombinator.com/item?id=30707596</id>
-        <link href="https://news.ycombinator.com/item?id=30707596"/>
-        <updated>2022-03-17T04:12:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Payitfwd.dev – Donate to Dependencies of Dependencies]]></summary>
-        <author>
-            <name>smashah</name>
-            <uri>https://news.ycombinator.com/user?id=smashah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheatle - 我在2小时内制作的Wordle作弊器应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30707315</id>
-        <link href="https://news.ycombinator.com/item?id=30707315"/>
-        <updated>2022-03-17T03:23:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cheatle – a Wordle cheat app I made in 2 hours]]></summary>
-        <author>
-            <name>ryukoposting</name>
-            <uri>https://news.ycombinator.com/user?id=ryukoposting</uri>
         </author>
     </entry>
 </feed>
