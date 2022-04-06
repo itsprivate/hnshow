@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-06T13:28:12.012Z</updated>
+    <updated>2022-04-06T14:32:41.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Address.pub - 用於加密貨幣錢包的電子郵件]]></title>
+        <id>https://news.ycombinator.com/item?id=30932265</id>
+        <link href="https://news.ycombinator.com/item?id=30932265"/>
+        <updated>2022-04-06T14:22:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Address.pub – email for crypto hw wallets]]></summary>
+        <author>
+            <name>kcolemangt</name>
+            <uri>https://news.ycombinator.com/user?id=kcolemangt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airbyte雲--將數據移至數據倉庫、湖泊和數據庫]]></title>
+        <id>https://news.ycombinator.com/item?id=30932219</id>
+        <link href="https://news.ycombinator.com/item?id=30932219"/>
+        <updated>2022-04-06T14:19:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Airbyte Cloud – Move data to data warehouses, lakes and databases]]></summary>
+        <author>
+            <name>Arimbr</name>
+            <uri>https://news.ycombinator.com/user?id=Arimbr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tilepieces - 一個可視化編輯HTML文檔的開源項目]]></title>
         <id>https://news.ycombinator.com/item?id=30931586</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>kiru_io</name>
             <uri>https://news.ycombinator.com/user?id=kiru_io</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高質量的NSFW視頻應用]]></title>
-        <id>https://news.ycombinator.com/item?id=30709570</id>
-        <link href="https://news.ycombinator.com/item?id=30709570"/>
-        <updated>2022-03-17T10:33:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: High-Quality NSFW Video App]]></summary>
-        <author>
-            <name>ShelbyKU</name>
-            <uri>https://news.ycombinator.com/user?id=ShelbyKU</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PDF API - 生成、轉換和修改PDF文件]]></title>
-        <id>https://news.ycombinator.com/item?id=30709524</id>
-        <link href="https://news.ycombinator.com/item?id=30709524"/>
-        <updated>2022-03-17T10:24:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PDF API – Generate, convert, and modify PDF documents]]></summary>
-        <author>
-            <name>arkgil</name>
-            <uri>https://news.ycombinator.com/user?id=arkgil</uri>
         </author>
     </entry>
 </feed>
