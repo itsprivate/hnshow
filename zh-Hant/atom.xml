@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-06T20:14:21.977Z</updated>
+    <updated>2022-04-06T21:32:44.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個純粹基於GitHub的益智遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30937597</id>
+        <link href="https://news.ycombinator.com/item?id=30937597"/>
+        <updated>2022-04-06T21:25:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A puzzle game based purely on GitHub]]></summary>
+        <author>
+            <name>Karthikeshwar</name>
+            <uri>https://news.ycombinator.com/user?id=Karthikeshwar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為健身創建了一個高蛋白食譜目錄]]></title>
+        <id>https://news.ycombinator.com/item?id=30937456</id>
+        <link href="https://news.ycombinator.com/item?id=30937456"/>
+        <updated>2022-04-06T21:10:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Created a high protein recipes directory for Fitness]]></summary>
+        <author>
+            <name>Shazeb</name>
+            <uri>https://news.ycombinator.com/user?id=Shazeb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一個工具來彙總你的投資並跟蹤其他投資者]]></title>
         <id>https://news.ycombinator.com/item?id=30936844</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>therealzenzei</name>
             <uri>https://news.ycombinator.com/user?id=therealzenzei</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客新聞不斷標記負面條紋的帖子]]></title>
-        <id>https://news.ycombinator.com/item?id=30706672</id>
-        <link href="https://news.ycombinator.com/item?id=30706672"/>
-        <updated>2022-03-17T01:55:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hacker News keep flagging negative stripe posts]]></summary>
-        <author>
-            <name>neginshoppers</name>
-            <uri>https://news.ycombinator.com/user?id=neginshoppers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voby - 一個新的（玩具？）高性能網絡框架，類似於Solid]]></title>
-        <id>https://news.ycombinator.com/item?id=30712111</id>
-        <link href="https://news.ycombinator.com/item?id=30712111"/>
-        <updated>2022-03-17T15:22:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Voby – a new (toy?) high-performance web framework similar to Solid]]></summary>
-        <author>
-            <name>fabiospampinato</name>
-            <uri>https://news.ycombinator.com/user?id=fabiospampinato</uri>
         </author>
     </entry>
 </feed>
