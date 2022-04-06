@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-06T06:39:38.579Z</updated>
+    <updated>2022-04-06T08:37:31.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Curated，一個用於保存新聞簡報和RSS訂閱的Pocket擴展程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30929779</id>
+        <link href="https://news.ycombinator.com/item?id=30929779"/>
+        <updated>2022-04-06T08:27:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Curated, a Pocket extension to save newsletters and RSS Feeds]]></summary>
+        <author>
+            <name>achrafash</name>
+            <uri>https://news.ycombinator.com/user?id=achrafash</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bloben - 自我託管的網絡CalDAV日曆客戶端]]></title>
         <id>https://news.ycombinator.com/item?id=30929022</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ghostoftiber</name>
             <uri>https://news.ycombinator.com/user?id=ghostoftiber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[進度：一個簡單的文本子任務進度標準]]></title>
-        <id>https://news.ycombinator.com/item?id=30703392</id>
-        <link href="https://news.ycombinator.com/item?id=30703392"/>
-        <updated>2022-03-16T20:08:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Progress: a simple-text subtask progress standard]]></summary>
-        <author>
-            <name>titzer</name>
-            <uri>https://news.ycombinator.com/user?id=titzer</uri>
         </author>
     </entry>
 </feed>

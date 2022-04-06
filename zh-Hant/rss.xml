@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 06 Apr 2022 06:39:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 08:37:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Curated，一個用於保存新聞簡報和RSS訂閱的Pocket擴展程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30929779</link>
+            <guid>https://news.ycombinator.com/item?id=30929779</guid>
+            <pubDate>Wed, 06 Apr 2022 08:27:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Curated, a Pocket extension to save newsletters and RSS Feeds]]></description>
+        </item>
         <item>
             <title><![CDATA[Bloben - 自我託管的網絡CalDAV日曆客戶端]]></title>
             <link>https://news.ycombinator.com/item?id=30929022</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30703520</guid>
             <pubDate>Wed, 16 Mar 2022 20:20:09 GMT</pubDate>
             <description><![CDATA[Show HN: The grype admission controller for Kubernetes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[進度：一個簡單的文本子任務進度標準]]></title>
-            <link>https://news.ycombinator.com/item?id=30703392</link>
-            <guid>https://news.ycombinator.com/item?id=30703392</guid>
-            <pubDate>Wed, 16 Mar 2022 20:08:35 GMT</pubDate>
-            <description><![CDATA[Show HN: Progress: a simple-text subtask progress standard]]></description>
         </item>
     </channel>
 </rss>
