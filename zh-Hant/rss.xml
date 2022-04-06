@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 06 Apr 2022 08:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 10:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Kukkee--免費、開源、可自行託管的Doodle替代品]]></title>
+            <link>https://news.ycombinator.com/item?id=30930304</link>
+            <guid>https://news.ycombinator.com/item?id=30930304</guid>
+            <pubDate>Wed, 06 Apr 2022 10:03:14 GMT</pubDate>
+            <description><![CDATA[Show HN: Kukkee – the free, open source and self-hostable Doodle alternative]]></description>
+        </item>
         <item>
             <title><![CDATA[Curated，一個用於保存新聞簡報和RSS訂閱的Pocket擴展程序]]></title>
             <link>https://news.ycombinator.com/item?id=30929779</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30704294</guid>
             <pubDate>Wed, 16 Mar 2022 21:24:29 GMT</pubDate>
             <description><![CDATA[Show HN: Plaraphy – Paraphrasing API and Tool for Free]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用於Kubernetes的grype接納控制器]]></title>
-            <link>https://news.ycombinator.com/item?id=30703520</link>
-            <guid>https://news.ycombinator.com/item?id=30703520</guid>
-            <pubDate>Wed, 16 Mar 2022 20:20:09 GMT</pubDate>
-            <description><![CDATA[Show HN: The grype admission controller for Kubernetes]]></description>
         </item>
     </channel>
 </rss>
