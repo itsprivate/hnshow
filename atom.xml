@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-06T21:32:44.207Z</updated>
+    <updated>2022-04-06T22:34:37.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MetricFlow - 开源的度量衡框架]]></title>
+        <id>https://news.ycombinator.com/item?id=30938109</id>
+        <link href="https://news.ycombinator.com/item?id=30938109"/>
+        <updated>2022-04-06T22:12:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MetricFlow – open-source metric framework]]></summary>
+        <author>
+            <name>nicholashandel</name>
+            <uri>https://news.ycombinator.com/user?id=nicholashandel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个纯粹基于GitHub的益智游戏]]></title>
         <id>https://news.ycombinator.com/item?id=30937597</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>loyalneighbor</name>
             <uri>https://news.ycombinator.com/user?id=loyalneighbor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Python和MyNotifier向自己发送推送通知]]></title>
-        <id>https://news.ycombinator.com/item?id=30713146</id>
-        <link href="https://news.ycombinator.com/item?id=30713146"/>
-        <updated>2022-03-17T16:44:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Send Push Notifications to Yourself with Python and MyNotifier]]></summary>
-        <author>
-            <name>therealzenzei</name>
-            <uri>https://news.ycombinator.com/user?id=therealzenzei</uri>
         </author>
     </entry>
 </feed>

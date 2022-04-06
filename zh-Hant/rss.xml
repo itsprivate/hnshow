@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 06 Apr 2022 21:32:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 22:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[MetricFlow - 開源的度量衡框架]]></title>
+            <link>https://news.ycombinator.com/item?id=30938109</link>
+            <guid>https://news.ycombinator.com/item?id=30938109</guid>
+            <pubDate>Wed, 06 Apr 2022 22:12:03 GMT</pubDate>
+            <description><![CDATA[Show HN: MetricFlow – open-source metric framework]]></description>
+        </item>
         <item>
             <title><![CDATA[一個純粹基於GitHub的益智遊戲]]></title>
             <link>https://news.ycombinator.com/item?id=30937597</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30713153</guid>
             <pubDate>Thu, 17 Mar 2022 16:44:51 GMT</pubDate>
             <description><![CDATA[Show HN: Covid – How did you fare?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Python和MyNotifier向自己發送推送通知]]></title>
-            <link>https://news.ycombinator.com/item?id=30713146</link>
-            <guid>https://news.ycombinator.com/item?id=30713146</guid>
-            <pubDate>Thu, 17 Mar 2022 16:44:35 GMT</pubDate>
-            <description><![CDATA[Show HN: Send Push Notifications to Yourself with Python and MyNotifier]]></description>
         </item>
     </channel>
 </rss>
