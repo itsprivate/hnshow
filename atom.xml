@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-07T14:13:21.549Z</updated>
+    <updated>2022-04-07T14:45:02.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SnapAlgo, Algorand on MetaMask]]></title>
+        <id>https://news.ycombinator.com/item?id=30944959</id>
+        <link href="https://news.ycombinator.com/item?id=30944959"/>
+        <updated>2022-04-07T14:36:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SnapAlgo, Algorand on MetaMask]]></summary>
+        <author>
+            <name>paulfears</name>
+            <uri>https://news.ycombinator.com/user?id=paulfears</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无需编码即可将Jupyter笔记本转换为交互式网络应用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30944561</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>oxplot</name>
             <uri>https://news.ycombinator.com/user?id=oxplot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Echo Prof - 一个可以与之对话的学习应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30717887</id>
-        <link href="https://news.ycombinator.com/item?id=30717887"/>
-        <updated>2022-03-18T01:48:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Echo Prof – An app for studying that you can talk with]]></summary>
-        <author>
-            <name>david_d12345</name>
-            <uri>https://news.ycombinator.com/user?id=david_d12345</uri>
         </author>
     </entry>
 </feed>
