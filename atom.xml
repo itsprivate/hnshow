@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-06T23:51:44.553Z</updated>
+    <updated>2022-04-07T00:43:43.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[计算系统中延迟的原因，以及为什么它使我们感到沮丧]]></title>
+        <id>https://news.ycombinator.com/item?id=30939040</id>
+        <link href="https://news.ycombinator.com/item?id=30939040"/>
+        <updated>2022-04-07T00:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Causes of Latency in Computing Systems, and Why It Frustrates Us]]></summary>
+        <author>
+            <name>narner</name>
+            <uri>https://news.ycombinator.com/user?id=narner</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个HTML5的多人游戏引擎]]></title>
         <id>https://news.ycombinator.com/item?id=30938892</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>distartin</name>
             <uri>https://news.ycombinator.com/user?id=distartin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fin TCP Proxy - 使用Vert.x的TCP代理中的一个风扇]]></title>
-        <id>https://news.ycombinator.com/item?id=30713685</id>
-        <link href="https://news.ycombinator.com/item?id=30713685"/>
-        <updated>2022-03-17T17:29:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fin TCP Proxy – A fan in TCP proxy using Vert.x]]></summary>
-        <author>
-            <name>asadawadia</name>
-            <uri>https://news.ycombinator.com/user?id=asadawadia</uri>
         </author>
     </entry>
 </feed>

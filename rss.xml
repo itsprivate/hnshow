@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 06 Apr 2022 23:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 00:43:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[计算系统中延迟的原因，以及为什么它使我们感到沮丧]]></title>
+            <link>https://news.ycombinator.com/item?id=30939040</link>
+            <guid>https://news.ycombinator.com/item?id=30939040</guid>
+            <pubDate>Thu, 07 Apr 2022 00:05:40 GMT</pubDate>
+            <description><![CDATA[Show HN: The Causes of Latency in Computing Systems, and Why It Frustrates Us]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一个HTML5的多人游戏引擎]]></title>
             <link>https://news.ycombinator.com/item?id=30938892</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30713902</guid>
             <pubDate>Thu, 17 Mar 2022 17:46:30 GMT</pubDate>
             <description><![CDATA[Show HN: Dezbor.com – Create Dashboard with No-Code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fin TCP Proxy - 使用Vert.x的TCP代理中的一个风扇]]></title>
-            <link>https://news.ycombinator.com/item?id=30713685</link>
-            <guid>https://news.ycombinator.com/item?id=30713685</guid>
-            <pubDate>Thu, 17 Mar 2022 17:29:12 GMT</pubDate>
-            <description><![CDATA[Show HN: Fin TCP Proxy – A fan in TCP proxy using Vert.x]]></description>
         </item>
     </channel>
 </rss>
