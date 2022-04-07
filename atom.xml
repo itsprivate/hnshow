@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-07T13:00:57.419Z</updated>
+    <updated>2022-04-07T13:26:16.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[CodeSpread-帮助开发者和客户充分利用开源资源]]></title>
+        <id>https://news.ycombinator.com/item?id=30944001</id>
+        <link href="https://news.ycombinator.com/item?id=30944001"/>
+        <updated>2022-04-07T13:15:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: CodeSpread-Helping Developers and Clients Make the Most of Open Source]]></summary>
+        <author>
+            <name>Dalida</name>
+            <uri>https://news.ycombinator.com/user?id=Dalida</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arc53 - 免费为Shopify提供类似项目的AI]]></title>
+        <id>https://news.ycombinator.com/item?id=30943892</id>
+        <link href="https://news.ycombinator.com/item?id=30943892"/>
+        <updated>2022-04-07T13:05:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Arc53 ‑ Similar items AI for Shopify for Free]]></summary>
+        <author>
+            <name>hcalium</name>
+            <uri>https://news.ycombinator.com/user?id=hcalium</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全栈式无服务器应用程序]]></title>
         <id>https://news.ycombinator.com/item?id=30943754</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>rednosehacker</name>
             <uri>https://news.ycombinator.com/user?id=rednosehacker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API安全评估工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30716698</id>
-        <link href="https://news.ycombinator.com/item?id=30716698"/>
-        <updated>2022-03-17T22:45:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: API Security Assessment Tool]]></summary>
-        <author>
-            <name>intesar</name>
-            <uri>https://news.ycombinator.com/user?id=intesar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我正在打造一个人工智能助手，帮助你浏览金融信息]]></title>
-        <id>https://news.ycombinator.com/item?id=30716545</id>
-        <link href="https://news.ycombinator.com/item?id=30716545"/>
-        <updated>2022-03-17T22:23:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I'm building an AI assistant to help you navigate financial information]]></summary>
-        <author>
-            <name>albertod</name>
-            <uri>https://news.ycombinator.com/user?id=albertod</uri>
         </author>
     </entry>
 </feed>
