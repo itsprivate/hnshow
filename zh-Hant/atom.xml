@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-07T18:17:29.637Z</updated>
+    <updated>2022-04-07T18:39:16.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我為代表不足的人推出了一個開放源碼軟件程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30948325</id>
+        <link href="https://news.ycombinator.com/item?id=30948325"/>
+        <updated>2022-04-07T18:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I launched an open source software program for the underrepresented]]></summary>
+        <author>
+            <name>lirantal</name>
+            <uri>https://news.ycombinator.com/user?id=lirantal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[關於美妙地方的美麗信件]]></title>
+        <id>https://news.ycombinator.com/item?id=30948312</id>
+        <link href="https://news.ycombinator.com/item?id=30948312"/>
+        <updated>2022-04-07T18:15:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Beautiful letters about wonderful places]]></summary>
+        <author>
+            <name>kioleanu</name>
+            <uri>https://news.ycombinator.com/user?id=kioleanu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用代碼創建Conductor工作流]]></title>
+        <id>https://news.ycombinator.com/item?id=30948293</id>
+        <link href="https://news.ycombinator.com/item?id=30948293"/>
+        <updated>2022-04-07T18:14:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Create Conductor Workflows Using Code]]></summary>
+        <author>
+            <name>hackerdad</name>
+            <uri>https://news.ycombinator.com/user?id=hackerdad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個基於故事的腦錢包]]></title>
         <id>https://news.ycombinator.com/item?id=30948004</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>MrsPeaches</name>
             <uri>https://news.ycombinator.com/user?id=MrsPeaches</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我製作了世界上最輕的Windows瀏覽器選擇器]]></title>
-        <id>https://news.ycombinator.com/item?id=30721305</id>
-        <link href="https://news.ycombinator.com/item?id=30721305"/>
-        <updated>2022-03-18T12:28:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I've made the lightest in the world browser picker for Windows]]></summary>
-        <author>
-            <name>aloneguid</name>
-            <uri>https://news.ycombinator.com/user?id=aloneguid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尋找可以用Mac App Store版本替代的Mac應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30721278</id>
-        <link href="https://news.ycombinator.com/item?id=30721278"/>
-        <updated>2022-03-18T12:25:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Find Mac Apps that could be replaced with Mac App Store version]]></summary>
-        <author>
-            <name>seedgou</name>
-            <uri>https://news.ycombinator.com/user?id=seedgou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週五=比薩日]]></title>
-        <id>https://news.ycombinator.com/item?id=30721269</id>
-        <link href="https://news.ycombinator.com/item?id=30721269"/>
-        <updated>2022-03-18T12:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fridays = Pizza Day]]></summary>
-        <author>
-            <name>leonagano</name>
-            <uri>https://news.ycombinator.com/user?id=leonagano</uri>
         </author>
     </entry>
 </feed>
