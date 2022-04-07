@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-07T19:27:51.978Z</updated>
+    <updated>2022-04-07T19:52:08.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Phenixio - 实时比特币支付平台 [API]]]></title>
+        <id>https://news.ycombinator.com/item?id=30949534</id>
+        <link href="https://news.ycombinator.com/item?id=30949534"/>
+        <updated>2022-04-07T19:49:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Phenixio – Real-time Bitcoin payments platform [API]]]></summary>
+        <author>
+            <name>yagizc</name>
+            <uri>https://news.ycombinator.com/user?id=yagizc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BraNFT bra NFTs，现实世界中的数字加密资产]]></title>
         <id>https://news.ycombinator.com/item?id=30949031</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>stagas</name>
             <uri>https://news.ycombinator.com/user?id=stagas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[追踪提及情况以获得线索（来自乌克兰）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30721661</id>
-        <link href="https://news.ycombinator.com/item?id=30721661"/>
-        <updated>2022-03-18T13:04:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Track mentions to get leads (from Ukraine)]]></summary>
-        <author>
-            <name>AlexandrBel</name>
-            <uri>https://news.ycombinator.com/user?id=AlexandrBel</uri>
         </author>
     </entry>
 </feed>

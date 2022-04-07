@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 07 Apr 2022 19:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 19:52:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Phenixio - 實時比特幣支付平臺 [API]]]></title>
+            <link>https://news.ycombinator.com/item?id=30949534</link>
+            <guid>https://news.ycombinator.com/item?id=30949534</guid>
+            <pubDate>Thu, 07 Apr 2022 19:49:18 GMT</pubDate>
+            <description><![CDATA[Show HN: Phenixio – Real-time Bitcoin payments platform [API]]]></description>
+        </item>
         <item>
             <title><![CDATA[BraNFT bra NFTs，現實世界中的數字加密資產]]></title>
             <link>https://news.ycombinator.com/item?id=30949031</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30721918</guid>
             <pubDate>Fri, 18 Mar 2022 13:25:51 GMT</pubDate>
             <description><![CDATA[Show HN: Safe-node – PoC of node with permissions prompts a la Deno]]></description>
-        </item>
-        <item>
-            <title><![CDATA[追蹤提及情況以獲得線索（來自烏克蘭）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30721661</link>
-            <guid>https://news.ycombinator.com/item?id=30721661</guid>
-            <pubDate>Fri, 18 Mar 2022 13:04:06 GMT</pubDate>
-            <description><![CDATA[Show HN: Track mentions to get leads (from Ukraine)]]></description>
         </item>
     </channel>
 </rss>
