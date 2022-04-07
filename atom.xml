@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-07T11:13:25.350Z</updated>
+    <updated>2022-04-07T13:00:57.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[全栈式无服务器应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30943754</id>
+        <link href="https://news.ycombinator.com/item?id=30943754"/>
+        <updated>2022-04-07T12:51:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fullstack Serverless Apps]]></summary>
+        <author>
+            <name>seekayel</name>
+            <uri>https://news.ycombinator.com/user?id=seekayel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[flomo-基于API的免费工具，通过TG快速捕捉和审查想法]]></title>
+        <id>https://news.ycombinator.com/item?id=30943676</id>
+        <link href="https://news.ycombinator.com/item?id=30943676"/>
+        <updated>2022-04-07T12:44:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: flomo-A free API-based tool to fast capture and review ideas via TG]]></summary>
+        <author>
+            <name>flomo101</name>
+            <uri>https://news.ycombinator.com/user?id=flomo101</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[与其他玩家竞赛完成CSS挑战]]></title>
         <id>https://news.ycombinator.com/item?id=30942969</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>albertod</name>
             <uri>https://news.ycombinator.com/user?id=albertod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latency Sensei - 揭开主要云上不合格的虚拟机和网络故障的面纱]]></title>
-        <id>https://news.ycombinator.com/item?id=30716454</id>
-        <link href="https://news.ycombinator.com/item?id=30716454"/>
-        <updated>2022-03-17T22:15:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Latency Sensei – uncover subpar VMs and network hiccups on major clouds]]></summary>
-        <author>
-            <name>danzheng</name>
-            <uri>https://news.ycombinator.com/user?id=danzheng</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ExplainDev - 一个用OpenAI Codex解释代码的扩展程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30715984</id>
-        <link href="https://news.ycombinator.com/item?id=30715984"/>
-        <updated>2022-03-17T21:17:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ExplainDev – An extension that explains code with OpenAI Codex]]></summary>
-        <author>
-            <name>ediardo</name>
-            <uri>https://news.ycombinator.com/user?id=ediardo</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 07 Apr 2022 11:13:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 13:00:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[全栈式无服务器应用程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30943754</link>
+            <guid>https://news.ycombinator.com/item?id=30943754</guid>
+            <pubDate>Thu, 07 Apr 2022 12:51:22 GMT</pubDate>
+            <description><![CDATA[Show HN: Fullstack Serverless Apps]]></description>
+        </item>
+        <item>
+            <title><![CDATA[flomo-基于API的免费工具，通过TG快速捕捉和审查想法]]></title>
+            <link>https://news.ycombinator.com/item?id=30943676</link>
+            <guid>https://news.ycombinator.com/item?id=30943676</guid>
+            <pubDate>Thu, 07 Apr 2022 12:44:43 GMT</pubDate>
+            <description><![CDATA[Show HN: flomo-A free API-based tool to fast capture and review ideas via TG]]></description>
+        </item>
         <item>
             <title><![CDATA[与其他玩家竞赛完成CSS挑战]]></title>
             <link>https://news.ycombinator.com/item?id=30942969</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30716545</guid>
             <pubDate>Thu, 17 Mar 2022 22:23:22 GMT</pubDate>
             <description><![CDATA[Show HN: I'm building an AI assistant to help you navigate financial information]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Latency Sensei - 揭开主要云上不合格的虚拟机和网络故障的面纱]]></title>
-            <link>https://news.ycombinator.com/item?id=30716454</link>
-            <guid>https://news.ycombinator.com/item?id=30716454</guid>
-            <pubDate>Thu, 17 Mar 2022 22:15:15 GMT</pubDate>
-            <description><![CDATA[Show HN: Latency Sensei – uncover subpar VMs and network hiccups on major clouds]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ExplainDev - 一个用OpenAI Codex解释代码的扩展程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30715984</link>
-            <guid>https://news.ycombinator.com/item?id=30715984</guid>
-            <pubDate>Thu, 17 Mar 2022 21:17:17 GMT</pubDate>
-            <description><![CDATA[Show HN: ExplainDev – An extension that explains code with OpenAI Codex]]></description>
         </item>
     </channel>
 </rss>
