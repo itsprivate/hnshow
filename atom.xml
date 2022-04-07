@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-07T03:46:01.452Z</updated>
+    <updated>2022-04-07T05:51:22.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[建立一个美味的克隆]]></title>
+        <id>https://news.ycombinator.com/item?id=30940991</id>
+        <link href="https://news.ycombinator.com/item?id=30940991"/>
+        <updated>2022-04-07T05:40:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Building a Delicious Clone]]></summary>
+        <author>
+            <name>thongda</name>
+            <uri>https://news.ycombinator.com/user?id=thongda</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Codestat.dev - 来自200多万个开放源码库的统计资料]]></title>
         <id>https://news.ycombinator.com/item?id=30940251</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>egea</name>
             <uri>https://news.ycombinator.com/user?id=egea</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TowerBI - 简单的可编程商业智能工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30714533</id>
-        <link href="https://news.ycombinator.com/item?id=30714533"/>
-        <updated>2022-03-17T18:45:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: TowerBI – Simple programmable business intelligence tool]]></summary>
-        <author>
-            <name>mrwnmonm</name>
-            <uri>https://news.ycombinator.com/user?id=mrwnmonm</uri>
         </author>
     </entry>
 </feed>
