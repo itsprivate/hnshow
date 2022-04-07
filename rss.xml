@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 07 Apr 2022 07:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 08:54:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Glicol（面向图形的实时编码语言）和用Rust编写的DSP库]]></title>
+            <link>https://news.ycombinator.com/item?id=30942074</link>
+            <guid>https://news.ycombinator.com/item?id=30942074</guid>
+            <pubDate>Thu, 07 Apr 2022 08:35:20 GMT</pubDate>
+            <description><![CDATA[Show HN: Glicol(Graph-Oriented Live Coding Language) and DSP Lib Written in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[Pipedream 2.0 - AWS Lambda和Zapier替代品]]></title>
             <link>https://news.ycombinator.com/item?id=30941740</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30715739</guid>
             <pubDate>Thu, 17 Mar 2022 20:50:11 GMT</pubDate>
             <description><![CDATA[Show HN: Goose, a service to simplify adding gitops functionality to systems]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我建立了最好的代码到图像转换器 - 创建独特的代码图像]]></title>
-            <link>https://news.ycombinator.com/item?id=30715612</link>
-            <guid>https://news.ycombinator.com/item?id=30715612</guid>
-            <pubDate>Thu, 17 Mar 2022 20:37:37 GMT</pubDate>
-            <description><![CDATA[Show HN: I built the best Code to Image Converter – Create unique code images]]></description>
         </item>
     </channel>
 </rss>

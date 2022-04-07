@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-07T07:41:24.935Z</updated>
+    <updated>2022-04-07T08:54:50.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Glicol（面向图形的实时编码语言）和用Rust编写的DSP库]]></title>
+        <id>https://news.ycombinator.com/item?id=30942074</id>
+        <link href="https://news.ycombinator.com/item?id=30942074"/>
+        <updated>2022-04-07T08:35:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Glicol(Graph-Oriented Live Coding Language) and DSP Lib Written in Rust]]></summary>
+        <author>
+            <name>chaosprint</name>
+            <uri>https://news.ycombinator.com/user?id=chaosprint</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pipedream 2.0 - AWS Lambda和Zapier替代品]]></title>
         <id>https://news.ycombinator.com/item?id=30941740</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>justinlilly</name>
             <uri>https://news.ycombinator.com/user?id=justinlilly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了最好的代码到图像转换器 - 创建独特的代码图像]]></title>
-        <id>https://news.ycombinator.com/item?id=30715612</id>
-        <link href="https://news.ycombinator.com/item?id=30715612"/>
-        <updated>2022-03-17T20:37:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built the best Code to Image Converter – Create unique code images]]></summary>
-        <author>
-            <name>fthtls</name>
-            <uri>https://news.ycombinator.com/user?id=fthtls</uri>
         </author>
     </entry>
 </feed>
