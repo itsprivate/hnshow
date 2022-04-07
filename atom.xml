@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-07T05:51:22.051Z</updated>
+    <updated>2022-04-07T07:13:52.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[强有力的密码生成器（浏览器内和批量多重密码）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30941492</id>
+        <link href="https://news.ycombinator.com/item?id=30941492"/>
+        <updated>2022-04-07T07:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Strong Password Generator (in-browser and batch mutiple passwords)]]></summary>
+        <author>
+            <name>zenull</name>
+            <uri>https://news.ycombinator.com/user?id=zenull</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[建立一个美味的克隆]]></title>
         <id>https://news.ycombinator.com/item?id=30940991</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>annielu689</name>
             <uri>https://news.ycombinator.com/user?id=annielu689</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[访问控制和授权的开发者API]]></title>
-        <id>https://news.ycombinator.com/item?id=30714629</id>
-        <link href="https://news.ycombinator.com/item?id=30714629"/>
-        <updated>2022-03-17T18:56:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Developer API for Access Control & Authorizations]]></summary>
-        <author>
-            <name>egea</name>
-            <uri>https://news.ycombinator.com/user?id=egea</uri>
         </author>
     </entry>
 </feed>
