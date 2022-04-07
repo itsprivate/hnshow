@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-07T07:13:52.950Z</updated>
+    <updated>2022-04-07T07:31:16.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ConcertMash - 為您即將舉行的音樂會輕鬆生成播放列表]]></title>
+        <id>https://news.ycombinator.com/item?id=30941616</id>
+        <link href="https://news.ycombinator.com/item?id=30941616"/>
+        <updated>2022-04-07T07:18:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ConcertMash – Easily generate a playlist for your upcoming concerts]]></summary>
+        <author>
+            <name>mcmxc</name>
+            <uri>https://news.ycombinator.com/user?id=mcmxc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[強有力的密碼生成器（瀏覽器內和批量多重密碼）。]]></title>
         <id>https://news.ycombinator.com/item?id=30941492</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Q26124</name>
             <uri>https://news.ycombinator.com/user?id=Q26124</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SaharaCloud - 在雲上虛擬構建硬件]]></title>
-        <id>https://news.ycombinator.com/item?id=30714764</id>
-        <link href="https://news.ycombinator.com/item?id=30714764"/>
-        <updated>2022-03-17T19:07:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: SaharaCloud – Build hardware virtually on the cloud]]></summary>
-        <author>
-            <name>annielu689</name>
-            <uri>https://news.ycombinator.com/user?id=annielu689</uri>
         </author>
     </entry>
 </feed>
