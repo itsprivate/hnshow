@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-07T18:39:16.554Z</updated>
+    <updated>2022-04-07T19:27:51.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[BraNFT bra NFTs，现实世界中的数字加密资产]]></title>
+        <id>https://news.ycombinator.com/item?id=30949031</id>
+        <link href="https://news.ycombinator.com/item?id=30949031"/>
+        <updated>2022-04-07T19:09:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: BraNFT bra NFTs, real world to digital crypto assets]]></summary>
+        <author>
+            <name>branft</name>
+            <uri>https://news.ycombinator.com/user?id=branft</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我为代表不足的人推出了一个开放源码软件程序]]></title>
         <id>https://news.ycombinator.com/item?id=30948325</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>AlexandrBel</name>
             <uri>https://news.ycombinator.com/user?id=AlexandrBel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个可学习的太阳能充电控制器]]></title>
-        <id>https://news.ycombinator.com/item?id=30721493</id>
-        <link href="https://news.ycombinator.com/item?id=30721493"/>
-        <updated>2022-03-18T12:48:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A learnable solar charge controller]]></summary>
-        <author>
-            <name>MrsPeaches</name>
-            <uri>https://news.ycombinator.com/user?id=MrsPeaches</uri>
         </author>
     </entry>
 </feed>
