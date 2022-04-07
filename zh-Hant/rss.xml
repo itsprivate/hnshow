@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 07 Apr 2022 00:43:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 02:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[無記載的API封裝器（用於現場拍賣）。]]></title>
+            <link>https://news.ycombinator.com/item?id=30939743</link>
+            <guid>https://news.ycombinator.com/item?id=30939743</guid>
+            <pubDate>Thu, 07 Apr 2022 01:48:33 GMT</pubDate>
+            <description><![CDATA[Show HN: Undocumented API Wrapper (for Live Auctions)]]></description>
+        </item>
         <item>
             <title><![CDATA[計算系統中延遲的原因，以及為什麼它使我們感到沮喪]]></title>
             <link>https://news.ycombinator.com/item?id=30939040</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30714513</guid>
             <pubDate>Thu, 17 Mar 2022 18:43:26 GMT</pubDate>
             <description><![CDATA[Show HN: Redis Unleashed: A Free Udemy Course from the Rockstar Frank Kane]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dezbor.com - 使用無代碼創建儀表板]]></title>
-            <link>https://news.ycombinator.com/item?id=30713902</link>
-            <guid>https://news.ycombinator.com/item?id=30713902</guid>
-            <pubDate>Thu, 17 Mar 2022 17:46:30 GMT</pubDate>
-            <description><![CDATA[Show HN: Dezbor.com – Create Dashboard with No-Code]]></description>
         </item>
     </channel>
 </rss>

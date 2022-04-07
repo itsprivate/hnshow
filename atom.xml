@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-07T00:43:43.846Z</updated>
+    <updated>2022-04-07T02:21:20.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[无记载的API封装器（用于现场拍卖）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30939743</id>
+        <link href="https://news.ycombinator.com/item?id=30939743"/>
+        <updated>2022-04-07T01:48:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Undocumented API Wrapper (for Live Auctions)]]></summary>
+        <author>
+            <name>holts-shoe</name>
+            <uri>https://news.ycombinator.com/user?id=holts-shoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[计算系统中延迟的原因，以及为什么它使我们感到沮丧]]></title>
         <id>https://news.ycombinator.com/item?id=30939040</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>node-bayarea</name>
             <uri>https://news.ycombinator.com/user?id=node-bayarea</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dezbor.com - 使用无代码创建仪表板]]></title>
-        <id>https://news.ycombinator.com/item?id=30713902</id>
-        <link href="https://news.ycombinator.com/item?id=30713902"/>
-        <updated>2022-03-17T17:46:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dezbor.com – Create Dashboard with No-Code]]></summary>
-        <author>
-            <name>distartin</name>
-            <uri>https://news.ycombinator.com/user?id=distartin</uri>
         </author>
     </entry>
 </feed>
