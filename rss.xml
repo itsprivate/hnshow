@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 07 Apr 2022 08:54:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 11:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[与其他玩家竞赛完成CSS挑战]]></title>
+            <link>https://news.ycombinator.com/item?id=30942969</link>
+            <guid>https://news.ycombinator.com/item?id=30942969</guid>
+            <pubDate>Thu, 07 Apr 2022 11:08:06 GMT</pubDate>
+            <description><![CDATA[Show HN: Race to complete CSS challenges against other players]]></description>
+        </item>
+        <item>
+            <title><![CDATA[网络搏击俱乐部]]></title>
+            <link>https://news.ycombinator.com/item?id=30942936</link>
+            <guid>https://news.ycombinator.com/item?id=30942936</guid>
+            <pubDate>Thu, 07 Apr 2022 11:02:11 GMT</pubDate>
+            <description><![CDATA[Show HN: Internet Fight Club]]></description>
+        </item>
         <item>
             <title><![CDATA[Glicol（面向图形的实时编码语言）和用Rust编写的DSP库]]></title>
             <link>https://news.ycombinator.com/item?id=30942074</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30715984</guid>
             <pubDate>Thu, 17 Mar 2022 21:17:17 GMT</pubDate>
             <description><![CDATA[Show HN: ExplainDev – An extension that explains code with OpenAI Codex]]></description>
-        </item>
-        <item>
-            <title><![CDATA[无限的广播剧和有声剧]]></title>
-            <link>https://news.ycombinator.com/item?id=30715744</link>
-            <guid>https://news.ycombinator.com/item?id=30715744</guid>
-            <pubDate>Thu, 17 Mar 2022 20:50:38 GMT</pubDate>
-            <description><![CDATA[Show HN: Infinite radio dramas and audio plays]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Goose，一项简化向系统添加gitops功能的服务]]></title>
-            <link>https://news.ycombinator.com/item?id=30715739</link>
-            <guid>https://news.ycombinator.com/item?id=30715739</guid>
-            <pubDate>Thu, 17 Mar 2022 20:50:11 GMT</pubDate>
-            <description><![CDATA[Show HN: Goose, a service to simplify adding gitops functionality to systems]]></description>
         </item>
     </channel>
 </rss>
