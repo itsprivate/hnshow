@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 07 Apr 2022 13:54:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 14:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[无需编码即可将Jupyter笔记本转换为交互式网络应用程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30944561</link>
+            <guid>https://news.ycombinator.com/item?id=30944561</guid>
+            <pubDate>Thu, 07 Apr 2022 14:03:44 GMT</pubDate>
+            <description><![CDATA[Show HN: Convert Jupyter Notebook to interactive web app without coding]]></description>
+        </item>
         <item>
             <title><![CDATA[Flowbite - Tailwind CSS的开源组件库 [MIT License]]]></title>
             <link>https://news.ycombinator.com/item?id=30944373</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30717887</guid>
             <pubDate>Fri, 18 Mar 2022 01:48:46 GMT</pubDate>
             <description><![CDATA[Show HN: Echo Prof – An app for studying that you can talk with]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cloudflare Workers WebSockets瑞士军刀]]></title>
-            <link>https://news.ycombinator.com/item?id=30717509</link>
-            <guid>https://news.ycombinator.com/item?id=30717509</guid>
-            <pubDate>Fri, 18 Mar 2022 00:52:30 GMT</pubDate>
-            <description><![CDATA[Show HN: Cloudflare Workers WebSockets Swiss Army Knife]]></description>
         </item>
     </channel>
 </rss>
