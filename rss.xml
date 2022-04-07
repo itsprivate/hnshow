@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 07 Apr 2022 16:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 18:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个基于故事的脑钱包]]></title>
+            <link>https://news.ycombinator.com/item?id=30948004</link>
+            <guid>https://news.ycombinator.com/item?id=30948004</guid>
+            <pubDate>Thu, 07 Apr 2022 17:52:26 GMT</pubDate>
+            <description><![CDATA[Show HN: A Story-Based Brainwallet]]></description>
+        </item>
         <item>
             <title><![CDATA[Kcaps.app - 一个设计键盘快捷方式图像的工具]]></title>
             <link>https://news.ycombinator.com/item?id=30946919</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30721269</guid>
             <pubDate>Fri, 18 Mar 2022 12:24:00 GMT</pubDate>
             <description><![CDATA[Show HN: Fridays = Pizza Day]]></description>
-        </item>
-        <item>
-            <title><![CDATA[黑客新闻的键盘导航[Chrome扩展]]]></title>
-            <link>https://news.ycombinator.com/item?id=30720894</link>
-            <guid>https://news.ycombinator.com/item?id=30720894</guid>
-            <pubDate>Fri, 18 Mar 2022 11:40:28 GMT</pubDate>
-            <description><![CDATA[Show HN: Hacker News keyboard navigation [Chrome extension]]]></description>
         </item>
     </channel>
 </rss>
