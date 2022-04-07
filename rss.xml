@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 07 Apr 2022 13:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 13:54:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Flowbite - Tailwind CSS的开源组件库 [MIT License]]]></title>
+            <link>https://news.ycombinator.com/item?id=30944373</link>
+            <guid>https://news.ycombinator.com/item?id=30944373</guid>
+            <pubDate>Thu, 07 Apr 2022 13:48:02 GMT</pubDate>
+            <description><![CDATA[Show HN: Flowbite – open-source component library for Tailwind CSS [MIT License]]]></description>
+        </item>
         <item>
             <title><![CDATA[CodeSpread-帮助开发者和客户充分利用开源资源]]></title>
             <link>https://news.ycombinator.com/item?id=30944001</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30717509</guid>
             <pubDate>Fri, 18 Mar 2022 00:52:30 GMT</pubDate>
             <description><![CDATA[Show HN: Cloudflare Workers WebSockets Swiss Army Knife]]></description>
-        </item>
-        <item>
-            <title><![CDATA[重新审视Guile XUnit]]></title>
-            <link>https://news.ycombinator.com/item?id=30716964</link>
-            <guid>https://news.ycombinator.com/item?id=30716964</guid>
-            <pubDate>Thu, 17 Mar 2022 23:22:54 GMT</pubDate>
-            <description><![CDATA[Show HN: Revisiting Guile XUnit]]></description>
         </item>
     </channel>
 </rss>

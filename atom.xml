@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-07T13:26:16.613Z</updated>
+    <updated>2022-04-07T13:54:16.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Flowbite - Tailwind CSS的开源组件库 [MIT License]]]></title>
+        <id>https://news.ycombinator.com/item?id=30944373</id>
+        <link href="https://news.ycombinator.com/item?id=30944373"/>
+        <updated>2022-04-07T13:48:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Flowbite – open-source component library for Tailwind CSS [MIT License]]]></summary>
+        <author>
+            <name>elwingo1</name>
+            <uri>https://news.ycombinator.com/user?id=elwingo1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CodeSpread-帮助开发者和客户充分利用开源资源]]></title>
         <id>https://news.ycombinator.com/item?id=30944001</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>alexleclair</name>
             <uri>https://news.ycombinator.com/user?id=alexleclair</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重新审视Guile XUnit]]></title>
-        <id>https://news.ycombinator.com/item?id=30716964</id>
-        <link href="https://news.ycombinator.com/item?id=30716964"/>
-        <updated>2022-03-17T23:22:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Revisiting Guile XUnit]]></summary>
-        <author>
-            <name>rednosehacker</name>
-            <uri>https://news.ycombinator.com/user?id=rednosehacker</uri>
         </author>
     </entry>
 </feed>
