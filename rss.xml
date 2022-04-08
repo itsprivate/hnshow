@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 08 Apr 2022 14:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 14:31:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[它是否被剪短了？看看一个电视节目是否以悬念结束]]></title>
+            <link>https://news.ycombinator.com/item?id=30957035</link>
+            <guid>https://news.ycombinator.com/item?id=30957035</guid>
+            <pubDate>Fri, 08 Apr 2022 14:16:14 GMT</pubDate>
+            <description><![CDATA[Show HN: Is it cut short? See if a TV show ended with a cliffhanger]]></description>
+        </item>
         <item>
             <title><![CDATA[我用HTML5做了一个益智游戏]]></title>
             <link>https://news.ycombinator.com/item?id=30956775</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30727009</guid>
             <pubDate>Fri, 18 Mar 2022 20:19:01 GMT</pubDate>
             <description><![CDATA[Show HN: Flappy Brain]]></description>
-        </item>
-        <item>
-            <title><![CDATA[微风搜索查询最近的创业公司新闻稿]]></title>
-            <link>https://news.ycombinator.com/item?id=30726585</link>
-            <guid>https://news.ycombinator.com/item?id=30726585</guid>
-            <pubDate>Fri, 18 Mar 2022 19:41:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Breeze search query for recent startup press releases]]></description>
         </item>
     </channel>
 </rss>
