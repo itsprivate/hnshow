@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-08T18:15:46.671Z</updated>
+    <updated>2022-04-08T18:58:08.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Relevanto（測試版）--我策劃的相關網絡]]></title>
+        <id>https://news.ycombinator.com/item?id=30960897</id>
+        <link href="https://news.ycombinator.com/item?id=30960897"/>
+        <updated>2022-04-08T18:39:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Relevanto (beta) – I curate the relevant web]]></summary>
+        <author>
+            <name>AlexDragusin</name>
+            <uri>https://news.ycombinator.com/user?id=AlexDragusin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FeedVid Live - 一個用React/Three.js製作的文字冒險靈感遊戲]]></title>
         <id>https://news.ycombinator.com/item?id=30960581</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>roblevintennis</name>
             <uri>https://news.ycombinator.com/user?id=roblevintennis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個測試你對當地瞭解程度的遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30733339</id>
-        <link href="https://news.ycombinator.com/item?id=30733339"/>
-        <updated>2022-03-19T12:50:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A game that tests how well you know your local area]]></summary>
-        <author>
-            <name>adamlynch</name>
-            <uri>https://news.ycombinator.com/user?id=adamlynch</uri>
         </author>
     </entry>
 </feed>
