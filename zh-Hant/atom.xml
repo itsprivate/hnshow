@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-08T17:39:57.334Z</updated>
+    <updated>2022-04-08T18:15:46.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FeedVid Live - 一個用React/Three.js製作的文字冒險靈感遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30960581</id>
+        <link href="https://news.ycombinator.com/item?id=30960581"/>
+        <updated>2022-04-08T18:11:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: FeedVid Live – A text-adventure inspired game made in React / Three.js]]></summary>
+        <author>
+            <name>varunramesh</name>
+            <uri>https://news.ycombinator.com/user?id=varunramesh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gomarvin：為Go REST服務器生成自定義模板]]></title>
+        <id>https://news.ycombinator.com/item?id=30960565</id>
+        <link href="https://news.ycombinator.com/item?id=30960565"/>
+        <updated>2022-04-08T18:10:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Gomarvin: generate custom boilerplate for Go REST servers]]></summary>
+        <author>
+            <name>tompston</name>
+            <uri>https://news.ycombinator.com/user?id=tompston</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zaplib - 用Rust+Wasm加速你的webapp]]></title>
+        <id>https://news.ycombinator.com/item?id=30960509</id>
+        <link href="https://news.ycombinator.com/item?id=30960509"/>
+        <updated>2022-04-08T18:06:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Zaplib – Speedup your webapp with Rust+Wasm]]></summary>
+        <author>
+            <name>stevekrouse</name>
+            <uri>https://news.ycombinator.com/user?id=stevekrouse</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[手淫頻率追蹤器]]></title>
         <id>https://news.ycombinator.com/item?id=30960094</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>adamlynch</name>
             <uri>https://news.ycombinator.com/user?id=adamlynch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[禪宗模式 - 隱藏一切。靜音一切]]></title>
-        <id>https://news.ycombinator.com/item?id=30733308</id>
-        <link href="https://news.ycombinator.com/item?id=30733308"/>
-        <updated>2022-03-19T12:43:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Zen Mode – Hide Everything. Mute Everything]]></summary>
-        <author>
-            <name>pradeepb28</name>
-            <uri>https://news.ycombinator.com/user?id=pradeepb28</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將你的GitHub貢獻打印成藝術品]]></title>
-        <id>https://news.ycombinator.com/item?id=30733258</id>
-        <link href="https://news.ycombinator.com/item?id=30733258"/>
-        <updated>2022-03-19T12:33:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Print your GitHub contributions as an artwork]]></summary>
-        <author>
-            <name>djyde</name>
-            <uri>https://news.ycombinator.com/user?id=djyde</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個iOS應用，讓你跟蹤你的廣告收入]]></title>
-        <id>https://news.ycombinator.com/item?id=30733201</id>
-        <link href="https://news.ycombinator.com/item?id=30733201"/>
-        <updated>2022-03-19T12:24:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made an iOS app to allow you to track your ad revenue]]></summary>
-        <author>
-            <name>furkansimsir</name>
-            <uri>https://news.ycombinator.com/user?id=furkansimsir</uri>
         </author>
     </entry>
 </feed>
