@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-08T15:19:08.230Z</updated>
+    <updated>2022-04-08T15:55:18.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個類似於CTF的平臺，但有基於人工智能的交互式協助。]]></title>
+        <id>https://news.ycombinator.com/item?id=30958667</id>
+        <link href="https://news.ycombinator.com/item?id=30958667"/>
+        <updated>2022-04-08T15:44:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A CTF like platform, but interactive with an AI-Based assistance]]></summary>
+        <author>
+            <name>aviCC</name>
+            <uri>https://news.ycombinator.com/user?id=aviCC</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我把我的網絡應用程序翻譯成107種語言]]></title>
+        <id>https://news.ycombinator.com/item?id=30958663</id>
+        <link href="https://news.ycombinator.com/item?id=30958663"/>
+        <updated>2022-04-08T15:44:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I translated my web app in 107 languages]]></summary>
+        <author>
+            <name>seinecle</name>
+            <uri>https://news.ycombinator.com/user?id=seinecle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Efficient-VDVAE是一個開源的內存效率高的深度分層VAE]]></title>
+        <id>https://news.ycombinator.com/item?id=30958530</id>
+        <link href="https://news.ycombinator.com/item?id=30958530"/>
+        <updated>2022-04-08T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Efficient-VDVAE an Open-source memory-efficient deep hierarchical VAE]]></summary>
+        <author>
+            <name>Lou-AI</name>
+            <uri>https://news.ycombinator.com/user?id=Lou-AI</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌雲計算引擎比較]]></title>
         <id>https://news.ycombinator.com/item?id=30957842</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>Kostarrr</name>
             <uri>https://news.ycombinator.com/user?id=Kostarrr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於驗證異步函數響應的小型GO庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30730154</id>
-        <link href="https://news.ycombinator.com/item?id=30730154"/>
-        <updated>2022-03-19T01:58:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Small GO library for verify async function response]]></summary>
-        <author>
-            <name>pyxru</name>
-            <uri>https://news.ycombinator.com/user?id=pyxru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edrys - 一個開源的遠程教學平臺]]></title>
-        <id>https://news.ycombinator.com/item?id=30728064</id>
-        <link href="https://news.ycombinator.com/item?id=30728064"/>
-        <updated>2022-03-18T21:57:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Edrys – an open-source remote teaching platform]]></summary>
-        <author>
-            <name>edrys</name>
-            <uri>https://news.ycombinator.com/user?id=edrys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tensorbox, Python/JS的Grammarly]]></title>
-        <id>https://news.ycombinator.com/item?id=30727375</id>
-        <link href="https://news.ycombinator.com/item?id=30727375"/>
-        <updated>2022-03-18T20:52:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tensorbox, Grammarly for Python/JS]]></summary>
-        <author>
-            <name>nmalikusha</name>
-            <uri>https://news.ycombinator.com/user?id=nmalikusha</uri>
         </author>
     </entry>
 </feed>
