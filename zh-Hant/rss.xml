@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 08 Apr 2022 15:55:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 16:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GraphQL服務器基準測試]]></title>
+            <link>https://news.ycombinator.com/item?id=30958949</link>
+            <guid>https://news.ycombinator.com/item?id=30958949</guid>
+            <pubDate>Fri, 08 Apr 2022 16:07:44 GMT</pubDate>
+            <description><![CDATA[Show HN: GraphQL Server Benchmarks]]></description>
+        </item>
         <item>
             <title><![CDATA[一個類似於CTF的平臺，但有基於人工智能的交互式協助。]]></title>
             <link>https://news.ycombinator.com/item?id=30958667</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30732147</guid>
             <pubDate>Sat, 19 Mar 2022 08:23:49 GMT</pubDate>
             <description><![CDATA[Show HN: Tinder4Cats]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Go現在有適當的和類型]]></title>
-            <link>https://news.ycombinator.com/item?id=30732038</link>
-            <guid>https://news.ycombinator.com/item?id=30732038</guid>
-            <pubDate>Sat, 19 Mar 2022 07:55:23 GMT</pubDate>
-            <description><![CDATA[Show HN: Go has proper sum types now]]></description>
         </item>
     </channel>
 </rss>
