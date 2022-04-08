@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-08T09:43:33.830Z</updated>
+    <updated>2022-04-08T10:52:39.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在會議或公共場所，只需點擊一下，就能整理你的桌面]]></title>
+        <id>https://news.ycombinator.com/item?id=30955366</id>
+        <link href="https://news.ycombinator.com/item?id=30955366"/>
+        <updated>2022-04-08T10:36:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: With a one click declutter your desktop in meetings or in public places]]></summary>
+        <author>
+            <name>pradeepb28</name>
+            <uri>https://news.ycombinator.com/user?id=pradeepb28</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Selfem - 創始人、自由職業者和小企業主的抵押貸款]]></title>
         <id>https://news.ycombinator.com/item?id=30955070</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kazinator</name>
             <uri>https://news.ycombinator.com/user?id=kazinator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MdSilo桌面，你桌面上最小的本地知識倉]]></title>
-        <id>https://news.ycombinator.com/item?id=30724372</id>
-        <link href="https://news.ycombinator.com/item?id=30724372"/>
-        <updated>2022-03-18T16:36:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: MdSilo Desktop, smallest local knowledge silo on your desktop]]></summary>
-        <author>
-            <name>ihndan</name>
-            <uri>https://news.ycombinator.com/user?id=ihndan</uri>
         </author>
     </entry>
 </feed>
