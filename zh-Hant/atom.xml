@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-08T13:49:59.029Z</updated>
+    <updated>2022-04-08T14:14:25.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我用HTML5做了一個益智遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30956775</id>
+        <link href="https://news.ycombinator.com/item?id=30956775"/>
+        <updated>2022-04-08T13:54:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I Made a Puzzle Game in HTML5]]></summary>
+        <author>
+            <name>shubhamjain</name>
+            <uri>https://news.ycombinator.com/user?id=shubhamjain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Colludle - 協作式Wordle遊戲]]></title>
         <id>https://news.ycombinator.com/item?id=30956613</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>aghilmort</name>
             <uri>https://news.ycombinator.com/user?id=aghilmort</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ddosify Cloud - Nocode負載測試平臺 [現場演示]]]></title>
-        <id>https://news.ycombinator.com/item?id=30726067</id>
-        <link href="https://news.ycombinator.com/item?id=30726067"/>
-        <updated>2022-03-18T18:54:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ddosify Cloud – Nocode Load Testing Platfrom [Live Demo]]]></summary>
-        <author>
-            <name>kursat_</name>
-            <uri>https://news.ycombinator.com/user?id=kursat_</uri>
         </author>
     </entry>
 </feed>
