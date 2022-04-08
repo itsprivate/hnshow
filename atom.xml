@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-07T19:52:08.736Z</updated>
+    <updated>2022-04-08T00:45:38.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Himalayas.app - 按时区、技术栈等寻找远程工作]]></title>
+        <id>https://news.ycombinator.com/item?id=30951804</id>
+        <link href="https://news.ycombinator.com/item?id=30951804"/>
+        <updated>2022-04-08T00:01:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Himalayas.app – find remote jobs by time zone, tech stack, and more]]></summary>
+        <author>
+            <name>AbiTyasTunggal</name>
+            <uri>https://news.ycombinator.com/user?id=AbiTyasTunggal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phenixio - 实时比特币支付平台 [API]]]></title>
         <id>https://news.ycombinator.com/item?id=30949534</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>leonagano</name>
             <uri>https://news.ycombinator.com/user?id=leonagano</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安全节点--带有权限提示的节点的PoC，就像Deno一样]]></title>
-        <id>https://news.ycombinator.com/item?id=30721918</id>
-        <link href="https://news.ycombinator.com/item?id=30721918"/>
-        <updated>2022-03-18T13:25:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Safe-node – PoC of node with permissions prompts a la Deno]]></summary>
-        <author>
-            <name>stagas</name>
-            <uri>https://news.ycombinator.com/user?id=stagas</uri>
         </author>
     </entry>
 </feed>
