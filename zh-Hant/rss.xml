@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 08 Apr 2022 13:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 13:49:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Colludle - 協作式Wordle遊戲]]></title>
+            <link>https://news.ycombinator.com/item?id=30956613</link>
+            <guid>https://news.ycombinator.com/item?id=30956613</guid>
+            <pubDate>Fri, 08 Apr 2022 13:37:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Colludle – Collaborative Wordle Game]]></description>
+        </item>
         <item>
             <title><![CDATA[Boot.dev - 我試圖幫助解決編碼教育的副業項目]]></title>
             <link>https://news.ycombinator.com/item?id=30956339</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30726067</guid>
             <pubDate>Fri, 18 Mar 2022 18:54:56 GMT</pubDate>
             <description><![CDATA[Show HN: Ddosify Cloud – Nocode Load Testing Platfrom [Live Demo]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WinSSH-Pageant，橋接Pageant協議密鑰請求到OpenSSH代理]]></title>
-            <link>https://news.ycombinator.com/item?id=30725655</link>
-            <guid>https://news.ycombinator.com/item?id=30725655</guid>
-            <pubDate>Fri, 18 Mar 2022 18:17:30 GMT</pubDate>
-            <description><![CDATA[Show HN: WinSSH-Pageant, Bridge Pageant Protocol Key Requests to OpenSSH Agent]]></description>
         </item>
     </channel>
 </rss>

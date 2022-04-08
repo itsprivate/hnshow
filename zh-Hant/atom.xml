@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-08T13:28:57.095Z</updated>
+    <updated>2022-04-08T13:49:59.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Colludle - 協作式Wordle遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=30956613</id>
+        <link href="https://news.ycombinator.com/item?id=30956613"/>
+        <updated>2022-04-08T13:37:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Colludle – Collaborative Wordle Game]]></summary>
+        <author>
+            <name>dxchester</name>
+            <uri>https://news.ycombinator.com/user?id=dxchester</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Boot.dev - 我試圖幫助解決編碼教育的副業項目]]></title>
         <id>https://news.ycombinator.com/item?id=30956339</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kursat_</name>
             <uri>https://news.ycombinator.com/user?id=kursat_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WinSSH-Pageant，橋接Pageant協議密鑰請求到OpenSSH代理]]></title>
-        <id>https://news.ycombinator.com/item?id=30725655</id>
-        <link href="https://news.ycombinator.com/item?id=30725655"/>
-        <updated>2022-03-18T18:17:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WinSSH-Pageant, Bridge Pageant Protocol Key Requests to OpenSSH Agent]]></summary>
-        <author>
-            <name>Xarodon</name>
-            <uri>https://news.ycombinator.com/user?id=Xarodon</uri>
         </author>
     </entry>
 </feed>
