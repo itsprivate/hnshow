@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 08 Apr 2022 20:51:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 22:33:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一個簡單的本地多人遊戲的開放源代碼]]></title>
+            <link>https://news.ycombinator.com/item?id=30963282</link>
+            <guid>https://news.ycombinator.com/item?id=30963282</guid>
+            <pubDate>Fri, 08 Apr 2022 22:28:07 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a simple local multiplayer game open source]]></description>
+        </item>
         <item>
             <title><![CDATA[由GPT-3驅動的占卜板可以移動你的鼠標]]></title>
             <link>https://news.ycombinator.com/item?id=30962274</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30735426</guid>
             <pubDate>Sat, 19 Mar 2022 17:00:33 GMT</pubDate>
             <description><![CDATA[Show HN: Transcrib, a speech-to-text Android app for WhatsApp voice notes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[`Git add -p`與多個桶的關係]]></title>
-            <link>https://news.ycombinator.com/item?id=30735294</link>
-            <guid>https://news.ycombinator.com/item?id=30735294</guid>
-            <pubDate>Sat, 19 Mar 2022 16:47:27 GMT</pubDate>
-            <description><![CDATA[Show HN: `Git add -p` with multiple buckets]]></description>
         </item>
     </channel>
 </rss>

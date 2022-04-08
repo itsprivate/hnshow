@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-08T20:51:38.769Z</updated>
+    <updated>2022-04-08T22:33:58.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个简单的本地多人游戏的开放源代码]]></title>
+        <id>https://news.ycombinator.com/item?id=30963282</id>
+        <link href="https://news.ycombinator.com/item?id=30963282"/>
+        <updated>2022-04-08T22:28:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a simple local multiplayer game open source]]></summary>
+        <author>
+            <name>viraelin</name>
+            <uri>https://news.ycombinator.com/user?id=viraelin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[由GPT-3驱动的占卜板可以移动你的鼠标]]></title>
         <id>https://news.ycombinator.com/item?id=30962274</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jay00</name>
             <uri>https://news.ycombinator.com/user?id=jay00</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[`Git add -p`与多个桶的关系]]></title>
-        <id>https://news.ycombinator.com/item?id=30735294</id>
-        <link href="https://news.ycombinator.com/item?id=30735294"/>
-        <updated>2022-03-19T16:47:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: `Git add -p` with multiple buckets]]></summary>
-        <author>
-            <name>aleclm</name>
-            <uri>https://news.ycombinator.com/user?id=aleclm</uri>
         </author>
     </entry>
 </feed>
