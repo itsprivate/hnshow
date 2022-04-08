@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 08 Apr 2022 09:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 09:43:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Selfem - 創始人、自由職業者和小企業主的抵押貸款]]></title>
+            <link>https://news.ycombinator.com/item?id=30955070</link>
+            <guid>https://news.ycombinator.com/item?id=30955070</guid>
+            <pubDate>Fri, 08 Apr 2022 09:37:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Selfem – Mortgage for founders, freelancers and small business owners]]></description>
+        </item>
         <item>
             <title><![CDATA[將任何數據變成快速分析的API]]></title>
             <link>https://news.ycombinator.com/item?id=30955002</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30724372</guid>
             <pubDate>Fri, 18 Mar 2022 16:36:45 GMT</pubDate>
             <description><![CDATA[Show HN: MdSilo Desktop, smallest local knowledge silo on your desktop]]></description>
-        </item>
-        <item>
-            <title><![CDATA[從一個單源文件構建和推送多個Docker鏡像]]></title>
-            <link>https://news.ycombinator.com/item?id=30724367</link>
-            <guid>https://news.ycombinator.com/item?id=30724367</guid>
-            <pubDate>Fri, 18 Mar 2022 16:36:01 GMT</pubDate>
-            <description><![CDATA[Show HN: Build and push multiple Docker images from a monorepo]]></description>
         </item>
     </channel>
 </rss>
