@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 08 Apr 2022 07:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 08:38:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我對HN的用戶風格]]></title>
+            <link>https://news.ycombinator.com/item?id=30954587</link>
+            <guid>https://news.ycombinator.com/item?id=30954587</guid>
+            <pubDate>Fri, 08 Apr 2022 08:18:50 GMT</pubDate>
+            <description><![CDATA[Show HN: My Userstyle for HN]]></description>
+        </item>
         <item>
             <title><![CDATA[在Firefox中禁用現在無用的 "最新消息 "頁面]]></title>
             <link>https://news.ycombinator.com/item?id=30954232</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30724248</guid>
             <pubDate>Fri, 18 Mar 2022 16:27:29 GMT</pubDate>
             <description><![CDATA[Show HN: QjsIpc, Invoke JavaScript procedure on dotnet with QuickJS and wasmtime]]></description>
-        </item>
-        <item>
-            <title><![CDATA[根據你的具體需求尋找和研究合適的電動汽車]]></title>
-            <link>https://news.ycombinator.com/item?id=30724127</link>
-            <guid>https://news.ycombinator.com/item?id=30724127</guid>
-            <pubDate>Fri, 18 Mar 2022 16:18:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Find and Research the Right Electric Car Based on Your Specific Needs]]></description>
         </item>
     </channel>
 </rss>

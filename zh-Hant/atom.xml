@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-08T07:33:09.407Z</updated>
+    <updated>2022-04-08T08:38:19.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我對HN的用戶風格]]></title>
+        <id>https://news.ycombinator.com/item?id=30954587</id>
+        <link href="https://news.ycombinator.com/item?id=30954587"/>
+        <updated>2022-04-08T08:18:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My Userstyle for HN]]></summary>
+        <author>
+            <name>hiroshiyui</name>
+            <uri>https://news.ycombinator.com/user?id=hiroshiyui</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Firefox中禁用現在無用的 "最新消息 "頁面]]></title>
         <id>https://news.ycombinator.com/item?id=30954232</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>iwate</name>
             <uri>https://news.ycombinator.com/user?id=iwate</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[根據你的具體需求尋找和研究合適的電動汽車]]></title>
-        <id>https://news.ycombinator.com/item?id=30724127</id>
-        <link href="https://news.ycombinator.com/item?id=30724127"/>
-        <updated>2022-03-18T16:18:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Find and Research the Right Electric Car Based on Your Specific Needs]]></summary>
-        <author>
-            <name>electricdriver</name>
-            <uri>https://news.ycombinator.com/user?id=electricdriver</uri>
         </author>
     </entry>
 </feed>
