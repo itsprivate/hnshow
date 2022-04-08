@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-08T10:52:39.208Z</updated>
+    <updated>2022-04-08T11:52:41.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[程序化--创建标签数据的REPL]]></title>
+        <id>https://news.ycombinator.com/item?id=30955699</id>
+        <link href="https://news.ycombinator.com/item?id=30955699"/>
+        <updated>2022-04-08T11:35:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Programmatic – a REPL for creating labeled data]]></summary>
+        <author>
+            <name>jordn</name>
+            <uri>https://news.ycombinator.com/user?id=jordn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在会议或公共场所，只需点击一下，就能整理你的桌面]]></title>
         <id>https://news.ycombinator.com/item?id=30955366</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>asadawadia</name>
             <uri>https://news.ycombinator.com/user?id=asadawadia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[带有C语言预处理的Awk封装器]]></title>
-        <id>https://news.ycombinator.com/item?id=30724373</id>
-        <link href="https://news.ycombinator.com/item?id=30724373"/>
-        <updated>2022-03-18T16:36:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Awk Wrapper with C Preprocessing]]></summary>
-        <author>
-            <name>kazinator</name>
-            <uri>https://news.ycombinator.com/user?id=kazinator</uri>
         </author>
     </entry>
 </feed>

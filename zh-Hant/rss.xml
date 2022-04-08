@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 08 Apr 2022 10:52:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 11:52:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[程序化--創建標籤數據的REPL]]></title>
+            <link>https://news.ycombinator.com/item?id=30955699</link>
+            <guid>https://news.ycombinator.com/item?id=30955699</guid>
+            <pubDate>Fri, 08 Apr 2022 11:35:31 GMT</pubDate>
+            <description><![CDATA[Show HN: Programmatic – a REPL for creating labeled data]]></description>
+        </item>
         <item>
             <title><![CDATA[在會議或公共場所，只需點擊一下，就能整理你的桌面]]></title>
             <link>https://news.ycombinator.com/item?id=30955366</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30724808</guid>
             <pubDate>Fri, 18 Mar 2022 17:12:09 GMT</pubDate>
             <description><![CDATA[Show HN: A TCP and HTTP and WebSocket and UDP Echo server for all your needs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[帶有C語言預處理的Awk封裝器]]></title>
-            <link>https://news.ycombinator.com/item?id=30724373</link>
-            <guid>https://news.ycombinator.com/item?id=30724373</guid>
-            <pubDate>Fri, 18 Mar 2022 16:36:49 GMT</pubDate>
-            <description><![CDATA[Show HN: Awk Wrapper with C Preprocessing]]></description>
         </item>
     </channel>
 </rss>
