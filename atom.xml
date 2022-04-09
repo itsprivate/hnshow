@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-09T14:52:29.757Z</updated>
+    <updated>2022-04-09T17:03:56.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MassCode v2 - 开发人员的代码片断管理器]]></title>
+        <id>https://news.ycombinator.com/item?id=30969650</id>
+        <link href="https://news.ycombinator.com/item?id=30969650"/>
+        <updated>2022-04-09T16:53:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MassCode v2 – a code snippets manager for developers]]></summary>
+        <author>
+            <name>antonreshetov</name>
+            <uri>https://news.ycombinator.com/user?id=antonreshetov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YOLO v4 Tiny with Tensil on Ultra96 FPGA Board]]></title>
+        <id>https://news.ycombinator.com/item?id=30969598</id>
+        <link href="https://news.ycombinator.com/item?id=30969598"/>
+        <updated>2022-04-09T16:47:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: YOLO v4 Tiny with Tensil on Ultra96 FPGA Board]]></summary>
+        <author>
+            <name>petrohi</name>
+            <uri>https://news.ycombinator.com/user?id=petrohi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[StreamPQ - 在Python中流式传输PostgreSQL查询结果，无需游标]]></title>
         <id>https://news.ycombinator.com/item?id=30968425</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>caramellow</name>
             <uri>https://news.ycombinator.com/user?id=caramellow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shuz - 在二维码的帮助下，轻松实现近距离的信息传递]]></title>
-        <id>https://news.ycombinator.com/item?id=30738537</id>
-        <link href="https://news.ycombinator.com/item?id=30738537"/>
-        <updated>2022-03-19T23:32:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Shuz – Easy close-quarters messaging, with help from QR codes]]></summary>
-        <author>
-            <name>lmc</name>
-            <uri>https://news.ycombinator.com/user?id=lmc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一个加密钱币筛选器]]></title>
-        <id>https://news.ycombinator.com/item?id=30738218</id>
-        <link href="https://news.ycombinator.com/item?id=30738218"/>
-        <updated>2022-03-19T22:41:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I build a crypto coin screener]]></summary>
-        <author>
-            <name>visox</name>
-            <uri>https://news.ycombinator.com/user?id=visox</uri>
         </author>
     </entry>
 </feed>
