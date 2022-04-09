@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-09T17:03:56.837Z</updated>
+    <updated>2022-04-09T17:21:00.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用嵌套运行程序减少GitHub的行动成本]]></title>
+        <id>https://news.ycombinator.com/item?id=30969866</id>
+        <link href="https://news.ycombinator.com/item?id=30969866"/>
+        <updated>2022-04-09T17:15:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Reduce GitHub Action costs with nested runners]]></summary>
+        <author>
+            <name>dougcalobrisi</name>
+            <uri>https://news.ycombinator.com/user?id=dougcalobrisi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MassCode v2 - 开发人员的代码片断管理器]]></title>
         <id>https://news.ycombinator.com/item?id=30969650</id>
@@ -6599,17 +6610,6 @@
         <link href="https://news.ycombinator.com/item?id=30739304"/>
         <updated>2022-03-20T01:55:16.000Z</updated>
         <summary type="html"><![CDATA[Show HN: I made a CLI tool that turns pixels into emojis]]></summary>
-        <author>
-            <name>caramellow</name>
-            <uri>https://news.ycombinator.com/user?id=caramellow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了自动调整大小--在给定的文件大小下，缩放图像以完全适合。]]></title>
-        <id>https://news.ycombinator.com/item?id=30739206</id>
-        <link href="https://news.ycombinator.com/item?id=30739206"/>
-        <updated>2022-03-20T01:37:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made autosize – Scale images to fit perfectly under a given filesize]]></summary>
         <author>
             <name>caramellow</name>
             <uri>https://news.ycombinator.com/user?id=caramellow</uri>
