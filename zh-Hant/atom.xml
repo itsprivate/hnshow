@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-08T22:33:58.691Z</updated>
+    <updated>2022-04-09T04:41:15.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在JavaScript中使用筆和紙的算法進行大整數乘法運算]]></title>
+        <id>https://news.ycombinator.com/item?id=30965286</id>
+        <link href="https://news.ycombinator.com/item?id=30965286"/>
+        <updated>2022-04-09T04:32:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Big integer multiplication in JavaScript using pen-and-paper algorithm]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HRCloud3 早期原型noSQL和無cookieless自我託管的雲/CMS]]></title>
+        <id>https://news.ycombinator.com/item?id=30965238</id>
+        <link href="https://news.ycombinator.com/item?id=30965238"/>
+        <updated>2022-04-09T04:15:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: HRCloud3 Early prototype noSQL and cookieless self-hosted Cloud/CMS]]></summary>
+        <author>
+            <name>zelon88</name>
+            <uri>https://news.ycombinator.com/user?id=zelon88</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個簡單的本地多人遊戲的開放源代碼]]></title>
         <id>https://news.ycombinator.com/item?id=30963282</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>wwwpatdelcom</name>
             <uri>https://news.ycombinator.com/user?id=wwwpatdelcom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pontrdle，一個你創造自己的物種並競爭食物的遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30735778</id>
-        <link href="https://news.ycombinator.com/item?id=30735778"/>
-        <updated>2022-03-19T17:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pontrdle, a game where you create your own specie and compete for food]]></summary>
-        <author>
-            <name>gcampos</name>
-            <uri>https://news.ycombinator.com/user?id=gcampos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transcrib，一款用於WhatsApp語音筆記的語音轉文本安卓應用]]></title>
-        <id>https://news.ycombinator.com/item?id=30735426</id>
-        <link href="https://news.ycombinator.com/item?id=30735426"/>
-        <updated>2022-03-19T17:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Transcrib, a speech-to-text Android app for WhatsApp voice notes]]></summary>
-        <author>
-            <name>jay00</name>
-            <uri>https://news.ycombinator.com/user?id=jay00</uri>
         </author>
     </entry>
 </feed>
