@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 09 Apr 2022 17:35:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 19:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我為你做了一個網站，以第一人稱POV的方式環遊世界]]></title>
+            <link>https://news.ycombinator.com/item?id=30970911</link>
+            <guid>https://news.ycombinator.com/item?id=30970911</guid>
+            <pubDate>Sat, 09 Apr 2022 18:58:35 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a website for you to travel the world in first-person POV]]></description>
+        </item>
         <item>
             <title><![CDATA[這就像鯊魚坦克，但對我們其他人來說，這就是鯊魚坦克。]]></title>
             <link>https://news.ycombinator.com/item?id=30969960</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30741440</guid>
             <pubDate>Sun, 20 Mar 2022 10:06:20 GMT</pubDate>
             <description><![CDATA[Show HN: A program that predicts the best Fantasy F1 teams]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通過投票對Spotify播放列表進行排序，最近更新並可合併]]></title>
-            <link>https://news.ycombinator.com/item?id=30741356</link>
-            <guid>https://news.ycombinator.com/item?id=30741356</guid>
-            <pubDate>Sun, 20 Mar 2022 09:43:28 GMT</pubDate>
-            <description><![CDATA[Show HN: Spotify playlists sorted via votes and recently updated and mergable]]></description>
         </item>
     </channel>
 </rss>
