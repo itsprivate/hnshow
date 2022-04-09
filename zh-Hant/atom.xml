@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-09T19:52:08.767Z</updated>
+    <updated>2022-04-09T20:34:05.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在谷歌上添加班級搜索]]></title>
+        <id>https://news.ycombinator.com/item?id=30971604</id>
+        <link href="https://news.ycombinator.com/item?id=30971604"/>
+        <updated>2022-04-09T20:15:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Add Bang Searches to Google]]></summary>
+        <author>
+            <name>jpopesculian</name>
+            <uri>https://news.ycombinator.com/user?id=jpopesculian</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開發工具箱 - 一個具有簡單的離線開發工具的瀏覽器擴展]]></title>
         <id>https://news.ycombinator.com/item?id=30971333</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>roschdal</name>
             <uri>https://news.ycombinator.com/user?id=roschdal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medusa-extender新版本1.6.0]]></title>
-        <id>https://news.ycombinator.com/item?id=30741569</id>
-        <link href="https://news.ycombinator.com/item?id=30741569"/>
-        <updated>2022-03-20T10:38:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Medusa-extender new release 1.6.0]]></summary>
-        <author>
-            <name>adrien2p</name>
-            <uri>https://news.ycombinator.com/user?id=adrien2p</uri>
         </author>
     </entry>
 </feed>
