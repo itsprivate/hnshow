@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-09T04:41:15.597Z</updated>
+    <updated>2022-04-09T08:16:16.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于Windows资源管理器的3D模型文件缩略图]]></title>
+        <id>https://news.ycombinator.com/item?id=30966099</id>
+        <link href="https://news.ycombinator.com/item?id=30966099"/>
+        <updated>2022-04-09T08:05:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: 3D model file thumbnails for Windows Explorer]]></summary>
+        <author>
+            <name>eyhn</name>
+            <uri>https://news.ycombinator.com/user?id=eyhn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在JavaScript中使用笔和纸的算法进行大整数乘法运算]]></title>
         <id>https://news.ycombinator.com/item?id=30965286</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rajasimon</name>
             <uri>https://news.ycombinator.com/user?id=rajasimon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一本使用基于狐猴的插图的概率书]]></title>
-        <id>https://news.ycombinator.com/item?id=30735817</id>
-        <link href="https://news.ycombinator.com/item?id=30735817"/>
-        <updated>2022-03-19T17:42:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Book on Probability Using Lemur-Based Illustrations]]></summary>
-        <author>
-            <name>wwwpatdelcom</name>
-            <uri>https://news.ycombinator.com/user?id=wwwpatdelcom</uri>
         </author>
     </entry>
 </feed>
