@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-09T19:11:43.687Z</updated>
+    <updated>2022-04-09T19:52:08.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開發工具箱 - 一個具有簡單的離線開發工具的瀏覽器擴展]]></title>
+        <id>https://news.ycombinator.com/item?id=30971333</id>
+        <link href="https://news.ycombinator.com/item?id=30971333"/>
+        <updated>2022-04-09T19:43:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dev Toolbox – A browser extension with simple offline dev tools]]></summary>
+        <author>
+            <name>cnanney</name>
+            <uri>https://news.ycombinator.com/user?id=cnanney</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我為你做了一個網站，以第一人稱POV的方式環遊世界]]></title>
         <id>https://news.ycombinator.com/item?id=30970911</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>adrien2p</name>
             <uri>https://news.ycombinator.com/user?id=adrien2p</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個能預測最佳夢幻F1車隊的程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30741440</id>
-        <link href="https://news.ycombinator.com/item?id=30741440"/>
-        <updated>2022-03-20T10:06:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A program that predicts the best Fantasy F1 teams]]></summary>
-        <author>
-            <name>strnisa</name>
-            <uri>https://news.ycombinator.com/user?id=strnisa</uri>
         </author>
     </entry>
 </feed>
