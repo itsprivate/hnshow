@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-09T14:11:56.087Z</updated>
+    <updated>2022-04-09T14:52:29.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[StreamPQ - 在Python中流式傳輸PostgreSQL查詢結果，無需遊標]]></title>
+        <id>https://news.ycombinator.com/item?id=30968425</id>
+        <link href="https://news.ycombinator.com/item?id=30968425"/>
+        <updated>2022-04-09T14:39:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: StreamPQ – Stream PostgreSQL query results in Python without a cursor]]></summary>
+        <author>
+            <name>michalc</name>
+            <uri>https://news.ycombinator.com/user?id=michalc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anno - 毫不費力地對視頻/音頻進行註釋和評論]]></title>
+        <id>https://news.ycombinator.com/item?id=30968391</id>
+        <link href="https://news.ycombinator.com/item?id=30968391"/>
+        <updated>2022-04-09T14:36:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Anno – Effortlessly annotate and comment on videos/audio]]></summary>
+        <author>
+            <name>zackoverflow</name>
+            <uri>https://news.ycombinator.com/user?id=zackoverflow</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一個在線文本編輯器（尋找反饋）。]]></title>
+        <id>https://news.ycombinator.com/item?id=30968373</id>
+        <link href="https://news.ycombinator.com/item?id=30968373"/>
+        <updated>2022-04-09T14:33:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an online text editor (looking for feedback)]]></summary>
+        <author>
+            <name>rahulbstomar</name>
+            <uri>https://news.ycombinator.com/user?id=rahulbstomar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在谷歌表格單元中拖放文件的簡單方法]]></title>
         <id>https://news.ycombinator.com/item?id=30968091</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>visox</name>
             <uri>https://news.ycombinator.com/user?id=visox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Regex語法到Python語法，反之亦然]]></title>
-        <id>https://news.ycombinator.com/item?id=30737753</id>
-        <link href="https://news.ycombinator.com/item?id=30737753"/>
-        <updated>2022-03-19T21:31:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Regex syntax to Python syntax and vice versa]]></summary>
-        <author>
-            <name>antizeus</name>
-            <uri>https://news.ycombinator.com/user?id=antizeus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於實現詞典/解析器的神奇Python庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30737743</id>
-        <link href="https://news.ycombinator.com/item?id=30737743"/>
-        <updated>2022-03-19T21:29:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Magic Python lib to implement lexers/parsers]]></summary>
-        <author>
-            <name>antizeus</name>
-            <uri>https://news.ycombinator.com/user?id=antizeus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go中的新驗證函數庫，具有通用支持功能]]></title>
-        <id>https://news.ycombinator.com/item?id=30736127</id>
-        <link href="https://news.ycombinator.com/item?id=30736127"/>
-        <updated>2022-03-19T18:10:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: New library for verify function in Go with generic supports]]></summary>
-        <author>
-            <name>pyxru</name>
-            <uri>https://news.ycombinator.com/user?id=pyxru</uri>
         </author>
     </entry>
 </feed>
