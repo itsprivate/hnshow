@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-09T21:14:40.160Z</updated>
+    <updated>2022-04-09T21:39:32.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何將C語言編譯成WASM]]></title>
+        <id>https://news.ycombinator.com/item?id=30972300</id>
+        <link href="https://news.ycombinator.com/item?id=30972300"/>
+        <updated>2022-04-09T21:35:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How to Compile C to WASM]]></summary>
+        <author>
+            <name>ern0</name>
+            <uri>https://news.ycombinator.com/user?id=ern0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tmux.nvim - 將Neovim變成一個終端複用器]]></title>
         <id>https://news.ycombinator.com/item?id=30971946</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>MarkMc</name>
             <uri>https://news.ycombinator.com/user?id=MarkMc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對講機的開源替代方案]]></title>
-        <id>https://news.ycombinator.com/item?id=30741956</id>
-        <link href="https://news.ycombinator.com/item?id=30741956"/>
-        <updated>2022-03-20T12:02:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open-Source Alternative to Intercom]]></summary>
-        <author>
-            <name>mikawp3</name>
-            <uri>https://news.ycombinator.com/user?id=mikawp3</uri>
         </author>
     </entry>
 </feed>
