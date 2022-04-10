@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-10T16:47:12.202Z</updated>
+    <updated>2022-04-10T17:43:28.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Kubis - 在雲端輕鬆訓練機器學習模型]]></title>
+        <id>https://news.ycombinator.com/item?id=30979472</id>
+        <link href="https://news.ycombinator.com/item?id=30979472"/>
+        <updated>2022-04-10T17:36:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Kubis – Effortlessly train machine learning models in the cloud]]></summary>
+        <author>
+            <name>TanelSar</name>
+            <uri>https://news.ycombinator.com/user?id=TanelSar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何起草鼓舞人心的演講稿課程--向偉大人物學習]]></title>
         <id>https://news.ycombinator.com/item?id=30978736</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>garritfra</name>
             <uri>https://news.ycombinator.com/user?id=garritfra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Owarezaka，一個針對iOS/Android的Gitlab移動平臺]]></title>
-        <id>https://news.ycombinator.com/item?id=30745322</id>
-        <link href="https://news.ycombinator.com/item?id=30745322"/>
-        <updated>2022-03-20T18:38:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Owarezaka, a Gitlab mobile platform for iOS/Android]]></summary>
-        <author>
-            <name>alperakgun</name>
-            <uri>https://news.ycombinator.com/user?id=alperakgun</uri>
         </author>
     </entry>
 </feed>
