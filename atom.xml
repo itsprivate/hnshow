@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-10T14:31:22.121Z</updated>
+    <updated>2022-04-10T14:51:33.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Rubbrband，一个为音乐家设计的跟踪动态的应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30977329</id>
+        <link href="https://news.ycombinator.com/item?id=30977329"/>
+        <updated>2022-04-10T14:46:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Rubbrband, an app for musicians that tracks dynamics]]></summary>
+        <author>
+            <name>oaknutspiano</name>
+            <uri>https://news.ycombinator.com/user?id=oaknutspiano</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mindboo - 为你的思想提供发展、聊天、游戏和联系的空间]]></title>
         <id>https://news.ycombinator.com/item?id=30977131</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Fnalsk</name>
             <uri>https://news.ycombinator.com/user?id=Fnalsk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QR算法的动态可视化[视频]。]]></title>
-        <id>https://news.ycombinator.com/item?id=30745152</id>
-        <link href="https://news.ycombinator.com/item?id=30745152"/>
-        <updated>2022-03-20T18:20:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: QR algorithm's dynamics visualized [video]]]></summary>
-        <author>
-            <name>ogogmad</name>
-            <uri>https://news.ycombinator.com/user?id=ogogmad</uri>
         </author>
     </entry>
 </feed>
