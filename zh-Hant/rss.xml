@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 10 Apr 2022 02:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 05:30:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[簡單的安卓應用，將Twitter URLs深度鏈接到Nitter]]></title>
+            <link>https://news.ycombinator.com/item?id=30974654</link>
+            <guid>https://news.ycombinator.com/item?id=30974654</guid>
+            <pubDate>Sun, 10 Apr 2022 05:16:25 GMT</pubDate>
+            <description><![CDATA[Show HN: Simple Android app that deep links Twitter URLs to Nitter]]></description>
+        </item>
         <item>
             <title><![CDATA[關於實用深度學習的新課程]]></title>
             <link>https://news.ycombinator.com/item?id=30973875</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30742650</guid>
             <pubDate>Sun, 20 Mar 2022 14:01:14 GMT</pubDate>
             <description><![CDATA[Show HN: A license designed to save the open source movement]]></description>
-        </item>
-        <item>
-            <title><![CDATA[從任何地方實時監控你的終端輸出]]></title>
-            <link>https://news.ycombinator.com/item?id=30742626</link>
-            <guid>https://news.ycombinator.com/item?id=30742626</guid>
-            <pubDate>Sun, 20 Mar 2022 13:58:34 GMT</pubDate>
-            <description><![CDATA[Show HN: Monitor your terminal output in realtime from everywhere]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-10T02:27:02.811Z</updated>
+    <updated>2022-04-10T05:30:09.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[簡單的安卓應用，將Twitter URLs深度鏈接到Nitter]]></title>
+        <id>https://news.ycombinator.com/item?id=30974654</id>
+        <link href="https://news.ycombinator.com/item?id=30974654"/>
+        <updated>2022-04-10T05:16:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Simple Android app that deep links Twitter URLs to Nitter]]></summary>
+        <author>
+            <name>WiggleGuy</name>
+            <uri>https://news.ycombinator.com/user?id=WiggleGuy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於實用深度學習的新課程]]></title>
         <id>https://news.ycombinator.com/item?id=30973875</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gioscarab</name>
             <uri>https://news.ycombinator.com/user?id=gioscarab</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從任何地方實時監控你的終端輸出]]></title>
-        <id>https://news.ycombinator.com/item?id=30742626</id>
-        <link href="https://news.ycombinator.com/item?id=30742626"/>
-        <updated>2022-03-20T13:58:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Monitor your terminal output in realtime from everywhere]]></summary>
-        <author>
-            <name>asdgftr</name>
-            <uri>https://news.ycombinator.com/user?id=asdgftr</uri>
         </author>
     </entry>
 </feed>
