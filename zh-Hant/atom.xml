@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-10T17:43:28.799Z</updated>
+    <updated>2022-04-10T18:38:47.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用純JavaScript編寫的URL解析器]]></title>
+        <id>https://news.ycombinator.com/item?id=30980178</id>
+        <link href="https://news.ycombinator.com/item?id=30980178"/>
+        <updated>2022-04-10T18:33:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: URL parser written in pure JavaScript]]></summary>
+        <author>
+            <name>yagiznizipli</name>
+            <uri>https://news.ycombinator.com/user?id=yagiznizipli</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[賽普拉斯錄音機，通過電子郵件測試適應用戶界面的變化]]></title>
+        <id>https://news.ycombinator.com/item?id=30980017</id>
+        <link href="https://news.ycombinator.com/item?id=30980017"/>
+        <updated>2022-04-10T18:21:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Cypress Recorder that adapts to UI changes with Email testing]]></summary>
+        <author>
+            <name>mesadb</name>
+            <uri>https://news.ycombinator.com/user?id=mesadb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免費的安卓離線食譜和購物清單管理器]]></title>
+        <id>https://news.ycombinator.com/item?id=30979960</id>
+        <link href="https://news.ycombinator.com/item?id=30979960"/>
+        <updated>2022-04-10T18:16:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Free, offline recipe and shopping list manager for Android]]></summary>
+        <author>
+            <name>boredumb</name>
+            <uri>https://news.ycombinator.com/user?id=boredumb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kubis - 在雲端輕鬆訓練機器學習模型]]></title>
         <id>https://news.ycombinator.com/item?id=30979472</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>weihz</name>
             <uri>https://news.ycombinator.com/user?id=weihz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開源的基於3D定位的無線網狀網絡]]></title>
-        <id>https://news.ycombinator.com/item?id=30748048</id>
-        <link href="https://news.ycombinator.com/item?id=30748048"/>
-        <updated>2022-03-20T23:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open-Source 3D Location-Based Wireless Mesh Network]]></summary>
-        <author>
-            <name>khilde</name>
-            <uri>https://news.ycombinator.com/user?id=khilde</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個CLI工具，從圖像中創建一個色調轉換的GIF。]]></title>
-        <id>https://news.ycombinator.com/item?id=30747435</id>
-        <link href="https://news.ycombinator.com/item?id=30747435"/>
-        <updated>2022-03-20T22:33:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a CLI tool creates a hue-shifted GIF from an image]]></summary>
-        <author>
-            <name>caramellow</name>
-            <uri>https://news.ycombinator.com/user?id=caramellow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一個平臺，讓項目找到維護者]]></title>
-        <id>https://news.ycombinator.com/item?id=30746326</id>
-        <link href="https://news.ycombinator.com/item?id=30746326"/>
-        <updated>2022-03-20T20:32:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a platform for projects to find maintainers]]></summary>
-        <author>
-            <name>garritfra</name>
-            <uri>https://news.ycombinator.com/user?id=garritfra</uri>
         </author>
     </entry>
 </feed>
