@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-10T07:30:03.998Z</updated>
+    <updated>2022-04-10T12:52:10.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Verik，一種用於RTL設計和驗證的現代語言]]></title>
+        <id>https://news.ycombinator.com/item?id=30976433</id>
+        <link href="https://news.ycombinator.com/item?id=30976433"/>
+        <updated>2022-04-10T12:31:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Verik, a modern language for RTL design and verification]]></summary>
+        <author>
+            <name>frwang</name>
+            <uri>https://news.ycombinator.com/user?id=frwang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CodeViz - 源代碼統計的OSS，包括VS代碼中的互動圖表]]></title>
+        <id>https://news.ycombinator.com/item?id=30976380</id>
+        <link href="https://news.ycombinator.com/item?id=30976380"/>
+        <updated>2022-04-10T12:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: CodeViz – OSS for source code stats w. interactive charts in VS Code]]></summary>
+        <author>
+            <name>vidipeti</name>
+            <uri>https://news.ycombinator.com/user?id=vidipeti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在一個react應用中同步動畫和定時器]]></title>
         <id>https://news.ycombinator.com/item?id=30975056</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>vpanyam</name>
             <uri>https://news.ycombinator.com/user?id=vpanyam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聽見你所看到的。將圖像轉換為音頻的神經網絡]]></title>
-        <id>https://news.ycombinator.com/item?id=30743612</id>
-        <link href="https://news.ycombinator.com/item?id=30743612"/>
-        <updated>2022-03-20T15:44:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hear what you see: Neural net to convert images to audio]]></summary>
-        <author>
-            <name>muxamilian</name>
-            <uri>https://news.ycombinator.com/user?id=muxamilian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分離度，但對足球運動員而言]]></title>
-        <id>https://news.ycombinator.com/item?id=30743029</id>
-        <link href="https://news.ycombinator.com/item?id=30743029"/>
-        <updated>2022-03-20T14:46:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Degrees of Separation but for Soccer Players]]></summary>
-        <author>
-            <name>cerivitos</name>
-            <uri>https://news.ycombinator.com/user?id=cerivitos</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 10 Apr 2022 07:30:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 12:52:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Verik，一种用于RTL设计和验证的现代语言]]></title>
+            <link>https://news.ycombinator.com/item?id=30976433</link>
+            <guid>https://news.ycombinator.com/item?id=30976433</guid>
+            <pubDate>Sun, 10 Apr 2022 12:31:53 GMT</pubDate>
+            <description><![CDATA[Show HN: Verik, a modern language for RTL design and verification]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CodeViz - 源代码统计的OSS，包括VS代码中的互动图表]]></title>
+            <link>https://news.ycombinator.com/item?id=30976380</link>
+            <guid>https://news.ycombinator.com/item?id=30976380</guid>
+            <pubDate>Sun, 10 Apr 2022 12:19:14 GMT</pubDate>
+            <description><![CDATA[Show HN: CodeViz – OSS for source code stats w. interactive charts in VS Code]]></description>
+        </item>
         <item>
             <title><![CDATA[在一个react应用中同步动画和定时器]]></title>
             <link>https://news.ycombinator.com/item?id=30975056</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30743639</guid>
             <pubDate>Sun, 20 Mar 2022 15:47:31 GMT</pubDate>
             <description><![CDATA[Show HN: I’m Building a Nerf Dart Missile Defense System]]></description>
-        </item>
-        <item>
-            <title><![CDATA[听见你所看到的。将图像转换为音频的神经网络]]></title>
-            <link>https://news.ycombinator.com/item?id=30743612</link>
-            <guid>https://news.ycombinator.com/item?id=30743612</guid>
-            <pubDate>Sun, 20 Mar 2022 15:44:12 GMT</pubDate>
-            <description><![CDATA[Show HN: Hear what you see: Neural net to convert images to audio]]></description>
-        </item>
-        <item>
-            <title><![CDATA[分离度，但对足球运动员而言]]></title>
-            <link>https://news.ycombinator.com/item?id=30743029</link>
-            <guid>https://news.ycombinator.com/item?id=30743029</guid>
-            <pubDate>Sun, 20 Mar 2022 14:46:17 GMT</pubDate>
-            <description><![CDATA[Show HN: Degrees of Separation but for Soccer Players]]></description>
         </item>
     </channel>
 </rss>
