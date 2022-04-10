@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-09T23:31:33.014Z</updated>
+    <updated>2022-04-10T02:27:02.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于实用深度学习的新课程]]></title>
+        <id>https://news.ycombinator.com/item?id=30973875</id>
+        <link href="https://news.ycombinator.com/item?id=30973875"/>
+        <updated>2022-04-10T02:09:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: New course on practical deep learning]]></summary>
+        <author>
+            <name>amaas</name>
+            <uri>https://news.ycombinator.com/user?id=amaas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mailbiter - 一个轻量级的电子邮件规则引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=30973699</id>
+        <link href="https://news.ycombinator.com/item?id=30973699"/>
+        <updated>2022-04-10T01:28:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mailbiter – a lightweight email rules engine]]></summary>
+        <author>
+            <name>cyansmoker</name>
+            <uri>https://news.ycombinator.com/user?id=cyansmoker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[根据领导的网站编写破冰台词的SaaS系统]]></title>
         <id>https://news.ycombinator.com/item?id=30973132</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>asdgftr</name>
             <uri>https://news.ycombinator.com/user?id=asdgftr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lafajol，一个媒体对象的实时工作台]]></title>
-        <id>https://news.ycombinator.com/item?id=30742533</id>
-        <link href="https://news.ycombinator.com/item?id=30742533"/>
-        <updated>2022-03-20T13:42:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lafajol, a live workbench for media objects]]></summary>
-        <author>
-            <name>jcelerier</name>
-            <uri>https://news.ycombinator.com/user?id=jcelerier</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typebeat。键盘控制的音乐音序器、采样器和合成器]]></title>
-        <id>https://news.ycombinator.com/item?id=30742073</id>
-        <link href="https://news.ycombinator.com/item?id=30742073"/>
-        <updated>2022-03-20T12:23:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Typebeat: Keyboard-controlled music sequencer, sampler, and synth]]></summary>
-        <author>
-            <name>hkgumbs</name>
-            <uri>https://news.ycombinator.com/user?id=hkgumbs</uri>
         </author>
     </entry>
 </feed>

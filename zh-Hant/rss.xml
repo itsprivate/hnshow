@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 09 Apr 2022 23:31:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 02:27:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[關於實用深度學習的新課程]]></title>
+            <link>https://news.ycombinator.com/item?id=30973875</link>
+            <guid>https://news.ycombinator.com/item?id=30973875</guid>
+            <pubDate>Sun, 10 Apr 2022 02:09:29 GMT</pubDate>
+            <description><![CDATA[Show HN: New course on practical deep learning]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Mailbiter - 一個輕量級的電子郵件規則引擎]]></title>
+            <link>https://news.ycombinator.com/item?id=30973699</link>
+            <guid>https://news.ycombinator.com/item?id=30973699</guid>
+            <pubDate>Sun, 10 Apr 2022 01:28:47 GMT</pubDate>
+            <description><![CDATA[Show HN: Mailbiter – a lightweight email rules engine]]></description>
+        </item>
         <item>
             <title><![CDATA[根據領導的網站編寫破冰臺詞的SaaS系統]]></title>
             <link>https://news.ycombinator.com/item?id=30973132</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30742626</guid>
             <pubDate>Sun, 20 Mar 2022 13:58:34 GMT</pubDate>
             <description><![CDATA[Show HN: Monitor your terminal output in realtime from everywhere]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lafajol，一個媒體對象的實時工作臺]]></title>
-            <link>https://news.ycombinator.com/item?id=30742533</link>
-            <guid>https://news.ycombinator.com/item?id=30742533</guid>
-            <pubDate>Sun, 20 Mar 2022 13:42:26 GMT</pubDate>
-            <description><![CDATA[Show HN: Lafajol, a live workbench for media objects]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Typebeat。鍵盤控制的音樂音序器、採樣器和合成器]]></title>
-            <link>https://news.ycombinator.com/item?id=30742073</link>
-            <guid>https://news.ycombinator.com/item?id=30742073</guid>
-            <pubDate>Sun, 20 Mar 2022 12:23:28 GMT</pubDate>
-            <description><![CDATA[Show HN: Typebeat: Keyboard-controlled music sequencer, sampler, and synth]]></description>
         </item>
     </channel>
 </rss>
