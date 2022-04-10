@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-10T05:30:08.927Z</updated>
+    <updated>2022-04-10T06:14:21.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个表情符号URL缩短器]]></title>
+        <id>https://news.ycombinator.com/item?id=30974768</id>
+        <link href="https://news.ycombinator.com/item?id=30974768"/>
+        <updated>2022-04-10T06:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an emoji URL shortener]]></summary>
+        <author>
+            <name>sekun</name>
+            <uri>https://news.ycombinator.com/user?id=sekun</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[简单的安卓应用，将Twitter URLs深度链接到Nitter]]></title>
         <id>https://news.ycombinator.com/item?id=30974654</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>roniemartinez</name>
             <uri>https://news.ycombinator.com/user?id=roniemartinez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旨在拯救开放源代码运动的许可证]]></title>
-        <id>https://news.ycombinator.com/item?id=30742650</id>
-        <link href="https://news.ycombinator.com/item?id=30742650"/>
-        <updated>2022-03-20T14:01:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A license designed to save the open source movement]]></summary>
-        <author>
-            <name>gioscarab</name>
-            <uri>https://news.ycombinator.com/user?id=gioscarab</uri>
         </author>
     </entry>
 </feed>
