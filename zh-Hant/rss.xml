@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 10 Apr 2022 06:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 07:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在一個react應用中同步動畫和定時器]]></title>
+            <link>https://news.ycombinator.com/item?id=30975056</link>
+            <guid>https://news.ycombinator.com/item?id=30975056</guid>
+            <pubDate>Sun, 10 Apr 2022 07:14:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Sync animations and timers across a react app]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一個表情符號URL縮短器]]></title>
             <link>https://news.ycombinator.com/item?id=30974768</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30743029</guid>
             <pubDate>Sun, 20 Mar 2022 14:46:17 GMT</pubDate>
             <description><![CDATA[Show HN: Degrees of Separation but for Soccer Players]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用FastAPI創建實時圖表]]></title>
-            <link>https://news.ycombinator.com/item?id=30742963</link>
-            <guid>https://news.ycombinator.com/item?id=30742963</guid>
-            <pubDate>Sun, 20 Mar 2022 14:37:37 GMT</pubDate>
-            <description><![CDATA[Show HN: Creating Real-Time Charts with FastAPI]]></description>
         </item>
     </channel>
 </rss>

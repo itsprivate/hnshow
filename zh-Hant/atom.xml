@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-10T06:14:21.615Z</updated>
+    <updated>2022-04-10T07:30:03.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在一個react應用中同步動畫和定時器]]></title>
+        <id>https://news.ycombinator.com/item?id=30975056</id>
+        <link href="https://news.ycombinator.com/item?id=30975056"/>
+        <updated>2022-04-10T07:14:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sync animations and timers across a react app]]></summary>
+        <author>
+            <name>peterjuras</name>
+            <uri>https://news.ycombinator.com/user?id=peterjuras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個表情符號URL縮短器]]></title>
         <id>https://news.ycombinator.com/item?id=30974768</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cerivitos</name>
             <uri>https://news.ycombinator.com/user?id=cerivitos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用FastAPI創建實時圖表]]></title>
-        <id>https://news.ycombinator.com/item?id=30742963</id>
-        <link href="https://news.ycombinator.com/item?id=30742963"/>
-        <updated>2022-03-20T14:37:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Creating Real-Time Charts with FastAPI]]></summary>
-        <author>
-            <name>roniemartinez</name>
-            <uri>https://news.ycombinator.com/user?id=roniemartinez</uri>
         </author>
     </entry>
 </feed>
