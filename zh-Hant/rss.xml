@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 10 Apr 2022 19:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 19:27:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個基於信任-DNS的挖掘替代方案]]></title>
+            <link>https://news.ycombinator.com/item?id=30980679</link>
+            <guid>https://news.ycombinator.com/item?id=30980679</guid>
+            <pubDate>Sun, 10 Apr 2022 19:19:09 GMT</pubDate>
+            <description><![CDATA[Show HN: A Trust-DNS based dig alternative]]></description>
+        </item>
+        <item>
+            <title><![CDATA[內置在Svelte中的大麻灌溉自動化工具]]></title>
+            <link>https://news.ycombinator.com/item?id=30980664</link>
+            <guid>https://news.ycombinator.com/item?id=30980664</guid>
+            <pubDate>Sun, 10 Apr 2022 19:17:35 GMT</pubDate>
+            <description><![CDATA[Show HN: Cannabis Irrigation Automation Tool Built in Svelte]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Rust編寫的超快速Terraform計劃和狀態解析器]]></title>
+            <link>https://news.ycombinator.com/item?id=30980599</link>
+            <guid>https://news.ycombinator.com/item?id=30980599</guid>
+            <pubDate>Sun, 10 Apr 2022 19:11:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Ultra fast Terraform plan and state parser written in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[後臺開發工作、面試和經驗]]></title>
             <link>https://news.ycombinator.com/item?id=30980528</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30752746</guid>
             <pubDate>Mon, 21 Mar 2022 11:26:46 GMT</pubDate>
             <description><![CDATA[Show HN: One liner adding a LIVE star history chart to your GitHub README]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為網絡開發和數字設計師提供的多色矢量圖集]]></title>
-            <link>https://news.ycombinator.com/item?id=30752440</link>
-            <guid>https://news.ycombinator.com/item?id=30752440</guid>
-            <pubDate>Mon, 21 Mar 2022 10:42:58 GMT</pubDate>
-            <description><![CDATA[Show HN: A collection of multi-color vectors for web dev and digital designers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們到底為什麼這麼害怕失敗？[軟技能]]]></title>
-            <link>https://news.ycombinator.com/item?id=30752271</link>
-            <guid>https://news.ycombinator.com/item?id=30752271</guid>
-            <pubDate>Mon, 21 Mar 2022 10:12:47 GMT</pubDate>
-            <description><![CDATA[Show HN: Why are we so afraid of failure, anyway? [Soft Skills]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在同一地點搜索域名和用戶名]]></title>
-            <link>https://news.ycombinator.com/item?id=30752067</link>
-            <guid>https://news.ycombinator.com/item?id=30752067</guid>
-            <pubDate>Mon, 21 Mar 2022 09:40:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Search Domain and Username in the same place]]></description>
         </item>
     </channel>
 </rss>
