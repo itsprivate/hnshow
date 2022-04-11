@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-11T18:59:24.781Z</updated>
+    <updated>2022-04-11T20:15:35.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个API来计算任何旅程的碳足迹。]]></title>
+        <id>https://news.ycombinator.com/item?id=30988226</id>
+        <link href="https://news.ycombinator.com/item?id=30988226"/>
+        <updated>2022-04-11T13:17:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an API to calculate to carbon footprint of any journey]]></summary>
+        <author>
+            <name>pattle</name>
+            <uri>https://news.ycombinator.com/user?id=pattle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ANECompat，评估CoreML模型与苹果神经引擎的兼容性]]></title>
         <id>https://news.ycombinator.com/item?id=30992872</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kretaceous</name>
             <uri>https://news.ycombinator.com/user?id=kretaceous</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS版的党旗]]></title>
-        <id>https://news.ycombinator.com/item?id=30759727</id>
-        <link href="https://news.ycombinator.com/item?id=30759727"/>
-        <updated>2022-03-21T21:07:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Party Banner for iOS]]></summary>
-        <author>
-            <name>willswire</name>
-            <uri>https://news.ycombinator.com/user?id=willswire</uri>
         </author>
     </entry>
 </feed>
