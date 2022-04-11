@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Apr 2022 16:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 16:55:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Beam.gg - 通过游戏化的体验实现自动参与]]></title>
+            <link>https://news.ycombinator.com/item?id=30991287</link>
+            <guid>https://news.ycombinator.com/item?id=30991287</guid>
+            <pubDate>Mon, 11 Apr 2022 16:38:51 GMT</pubDate>
+            <description><![CDATA[Show HN: Beam.gg – Automate engagement through gamified experiences]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何为WASM编译C/C++，纯Clang，无libs，无框架]]></title>
+            <link>https://news.ycombinator.com/item?id=30991235</link>
+            <guid>https://news.ycombinator.com/item?id=30991235</guid>
+            <pubDate>Mon, 11 Apr 2022 16:35:00 GMT</pubDate>
+            <description><![CDATA[Show HN: How to compile C/C++ for WASM, pure Clang, no libs, no framework]]></description>
+        </item>
         <item>
             <title><![CDATA[通过网络扩展为黑客新闻提供黑暗模式]]></title>
             <link>https://news.ycombinator.com/item?id=30990344</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30758312</guid>
             <pubDate>Mon, 21 Mar 2022 19:05:04 GMT</pubDate>
             <description><![CDATA[Show HN: PyTermGUI now features auto RGB to xterm16 graceful color degradation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[避免阅读沃尔玛/亚马逊上的评论的AI助手]]></title>
-            <link>https://news.ycombinator.com/item?id=30757525</link>
-            <guid>https://news.ycombinator.com/item?id=30757525</guid>
-            <pubDate>Mon, 21 Mar 2022 18:02:15 GMT</pubDate>
-            <description><![CDATA[Show HN: AI helper to avoid reading reviews on Walmart/Amazon]]></description>
-        </item>
-        <item>
-            <title><![CDATA[转到版本选择器]]></title>
-            <link>https://news.ycombinator.com/item?id=30757284</link>
-            <guid>https://news.ycombinator.com/item?id=30757284</guid>
-            <pubDate>Mon, 21 Mar 2022 17:42:29 GMT</pubDate>
-            <description><![CDATA[Show HN: Go Version Selector]]></description>
         </item>
     </channel>
 </rss>
