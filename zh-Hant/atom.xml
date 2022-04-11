@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-11T08:15:30.770Z</updated>
+    <updated>2022-04-11T08:37:59.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個最小的、不臃腫的歸檔和書籤工具]]></title>
+        <id>https://news.ycombinator.com/item?id=30986023</id>
+        <link href="https://news.ycombinator.com/item?id=30986023"/>
+        <updated>2022-04-11T08:18:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A minimal, unbloated archiving and bookmarking tool]]></summary>
+        <author>
+            <name>gform</name>
+            <uri>https://news.ycombinator.com/user?id=gform</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[實時HTML編輯器]]></title>
         <id>https://news.ycombinator.com/item?id=30985920</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>doraby</name>
             <uri>https://news.ycombinator.com/user?id=doraby</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Actorle - 演員猜謎遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30754258</id>
-        <link href="https://news.ycombinator.com/item?id=30754258"/>
-        <updated>2022-03-21T14:05:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Actorle – The Actor Guessing Game]]></summary>
-        <author>
-            <name>lkiss</name>
-            <uri>https://news.ycombinator.com/user?id=lkiss</uri>
         </author>
     </entry>
 </feed>
