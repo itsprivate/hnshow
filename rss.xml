@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Apr 2022 02:38:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 06:56:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[测试Moment.js格式化的工具]]></title>
+            <link>https://news.ycombinator.com/item?id=30985406</link>
+            <guid>https://news.ycombinator.com/item?id=30985406</guid>
+            <pubDate>Mon, 11 Apr 2022 06:37:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Tool to Test Moment.js Formatting]]></description>
+        </item>
         <item>
             <title><![CDATA[来自Visual Studio Code的独立终端应用程序]]></title>
             <link>https://news.ycombinator.com/item?id=30983630</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30753774</guid>
             <pubDate>Mon, 21 Mar 2022 13:18:40 GMT</pubDate>
             <description><![CDATA[Show HN: Customize your own virtual IP fancy talking videos]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ZeroAcquire - 出售、购买和发现收入前的副业项目]]></title>
-            <link>https://news.ycombinator.com/item?id=30753465</link>
-            <guid>https://news.ycombinator.com/item?id=30753465</guid>
-            <pubDate>Mon, 21 Mar 2022 12:48:14 GMT</pubDate>
-            <description><![CDATA[Show HN: ZeroAcquire – Sell, buy and discover pre-revenue side projects]]></description>
         </item>
     </channel>
 </rss>
