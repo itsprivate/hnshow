@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Apr 2022 16:55:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 17:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[500行TypeScript中的繪圖動畫師]]></title>
+            <link>https://news.ycombinator.com/item?id=30991827</link>
+            <guid>https://news.ycombinator.com/item?id=30991827</guid>
+            <pubDate>Mon, 11 Apr 2022 17:10:58 GMT</pubDate>
+            <description><![CDATA[Show HN: Drawing animator in 500 lines of TypeScript]]></description>
+        </item>
         <item>
             <title><![CDATA[Beam.gg - 通過遊戲化的體驗實現自動參與]]></title>
             <link>https://news.ycombinator.com/item?id=30991287</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30758617</guid>
             <pubDate>Mon, 21 Mar 2022 19:29:32 GMT</pubDate>
             <description><![CDATA[Show HN: Node CLI to send or recieve UDP packages (in Spanish)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PyTermGUI現在具有自動將RGB轉換為xterm16的優雅色彩退化功能。]]></title>
-            <link>https://news.ycombinator.com/item?id=30758312</link>
-            <guid>https://news.ycombinator.com/item?id=30758312</guid>
-            <pubDate>Mon, 21 Mar 2022 19:05:04 GMT</pubDate>
-            <description><![CDATA[Show HN: PyTermGUI now features auto RGB to xterm16 graceful color degradation]]></description>
         </item>
     </channel>
 </rss>

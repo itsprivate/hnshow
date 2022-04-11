@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-11T16:55:09.823Z</updated>
+    <updated>2022-04-11T17:20:31.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[500行TypeScript中的绘图动画师]]></title>
+        <id>https://news.ycombinator.com/item?id=30991827</id>
+        <link href="https://news.ycombinator.com/item?id=30991827"/>
+        <updated>2022-04-11T17:10:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Drawing animator in 500 lines of TypeScript]]></summary>
+        <author>
+            <name>novocantico</name>
+            <uri>https://news.ycombinator.com/user?id=novocantico</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beam.gg - 通过游戏化的体验实现自动参与]]></title>
         <id>https://news.ycombinator.com/item?id=30991287</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>piuma</name>
             <uri>https://news.ycombinator.com/user?id=piuma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTermGUI现在具有自动将RGB转换为xterm16的优雅色彩退化功能。]]></title>
-        <id>https://news.ycombinator.com/item?id=30758312</id>
-        <link href="https://news.ycombinator.com/item?id=30758312"/>
-        <updated>2022-03-21T19:05:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PyTermGUI now features auto RGB to xterm16 graceful color degradation]]></summary>
-        <author>
-            <name>bczsalba</name>
-            <uri>https://news.ycombinator.com/user?id=bczsalba</uri>
         </author>
     </entry>
 </feed>
