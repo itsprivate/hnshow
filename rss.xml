@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 10 Apr 2022 21:52:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 02:38:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[来自Visual Studio Code的独立终端应用程序]]></title>
+            <link>https://news.ycombinator.com/item?id=30983630</link>
+            <guid>https://news.ycombinator.com/item?id=30983630</guid>
+            <pubDate>Mon, 11 Apr 2022 01:44:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Standalone terminal app from Visual Studio Code]]></description>
+        </item>
         <item>
             <title><![CDATA[iOS版Caloree首次测试]]></title>
             <link>https://news.ycombinator.com/item?id=30981995</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30753465</guid>
             <pubDate>Mon, 21 Mar 2022 12:48:14 GMT</pubDate>
             <description><![CDATA[Show HN: ZeroAcquire – Sell, buy and discover pre-revenue side projects]]></description>
-        </item>
-        <item>
-            <title><![CDATA[开源库解决了.NET C#中的PDF生成梦魇]]></title>
-            <link>https://news.ycombinator.com/item?id=30753083</link>
-            <guid>https://news.ycombinator.com/item?id=30753083</guid>
-            <pubDate>Mon, 21 Mar 2022 12:06:51 GMT</pubDate>
-            <description><![CDATA[Show HN: Open-source library solving PDF generation nightmares in .NET C#]]></description>
         </item>
     </channel>
 </rss>

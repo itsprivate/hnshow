@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-10T21:52:36.156Z</updated>
+    <updated>2022-04-11T02:38:12.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[來自Visual Studio Code的獨立終端應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30983630</id>
+        <link href="https://news.ycombinator.com/item?id=30983630"/>
+        <updated>2022-04-11T01:44:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Standalone terminal app from Visual Studio Code]]></summary>
+        <author>
+            <name>xcodebuild</name>
+            <uri>https://news.ycombinator.com/user?id=xcodebuild</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS版Caloree首次測試]]></title>
         <id>https://news.ycombinator.com/item?id=30981995</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>naeemnur</name>
             <uri>https://news.ycombinator.com/user?id=naeemnur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開源庫解決了.NET C#中的PDF生成夢魘]]></title>
-        <id>https://news.ycombinator.com/item?id=30753083</id>
-        <link href="https://news.ycombinator.com/item?id=30753083"/>
-        <updated>2022-03-21T12:06:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open-source library solving PDF generation nightmares in .NET C#]]></summary>
-        <author>
-            <name>MarcinZiabek</name>
-            <uri>https://news.ycombinator.com/user?id=MarcinZiabek</uri>
         </author>
     </entry>
 </feed>
