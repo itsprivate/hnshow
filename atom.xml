@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-11T17:20:31.560Z</updated>
+    <updated>2022-04-11T17:39:45.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[纸质桦木笔记]]></title>
+        <id>https://news.ycombinator.com/item?id=30992106</id>
+        <link href="https://news.ycombinator.com/item?id=30992106"/>
+        <updated>2022-04-11T17:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Paper Birch Notes]]></summary>
+        <author>
+            <name>NWoodsman</name>
+            <uri>https://news.ycombinator.com/user?id=NWoodsman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[500行TypeScript中的绘图动画师]]></title>
         <id>https://news.ycombinator.com/item?id=30991827</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>maciekmm</name>
             <uri>https://news.ycombinator.com/user?id=maciekmm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发送或接收UDP包的节点CLI(西班牙语)]]></title>
-        <id>https://news.ycombinator.com/item?id=30758617</id>
-        <link href="https://news.ycombinator.com/item?id=30758617"/>
-        <updated>2022-03-21T19:29:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Node CLI to send or recieve UDP packages (in Spanish)]]></summary>
-        <author>
-            <name>piuma</name>
-            <uri>https://news.ycombinator.com/user?id=piuma</uri>
         </author>
     </entry>
 </feed>

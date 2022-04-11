@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Apr 2022 17:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 17:39:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[纸质桦木笔记]]></title>
+            <link>https://news.ycombinator.com/item?id=30992106</link>
+            <guid>https://news.ycombinator.com/item?id=30992106</guid>
+            <pubDate>Mon, 11 Apr 2022 17:30:54 GMT</pubDate>
+            <description><![CDATA[Show HN: Paper Birch Notes]]></description>
+        </item>
         <item>
             <title><![CDATA[500行TypeScript中的绘图动画师]]></title>
             <link>https://news.ycombinator.com/item?id=30991827</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30759039</guid>
             <pubDate>Mon, 21 Mar 2022 20:05:54 GMT</pubDate>
             <description><![CDATA[Show HN: A Firefox addon that groups tabs by privacy container in the sidebar]]></description>
-        </item>
-        <item>
-            <title><![CDATA[发送或接收UDP包的节点CLI(西班牙语)]]></title>
-            <link>https://news.ycombinator.com/item?id=30758617</link>
-            <guid>https://news.ycombinator.com/item?id=30758617</guid>
-            <pubDate>Mon, 21 Mar 2022 19:29:32 GMT</pubDate>
-            <description><![CDATA[Show HN: Node CLI to send or recieve UDP packages (in Spanish)]]></description>
         </item>
     </channel>
 </rss>
