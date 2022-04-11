@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-11T07:51:22.907Z</updated>
+    <updated>2022-04-11T08:15:30.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[实时HTML编辑器]]></title>
+        <id>https://news.ycombinator.com/item?id=30985920</id>
+        <link href="https://news.ycombinator.com/item?id=30985920"/>
+        <updated>2022-04-11T08:01:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Real Time HTML Editor]]></summary>
+        <author>
+            <name>rahulbstomar</name>
+            <uri>https://news.ycombinator.com/user?id=rahulbstomar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用更多的元数据和kBookmarks来充实你的bookmarsk]]></title>
         <id>https://news.ycombinator.com/item?id=30985823</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lkiss</name>
             <uri>https://news.ycombinator.com/user?id=lkiss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AsyncGo - 远程/混合型团队的持续改进]]></title>
-        <id>https://news.ycombinator.com/item?id=30754117</id>
-        <link href="https://news.ycombinator.com/item?id=30754117"/>
-        <updated>2022-03-21T13:52:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: AsyncGo – Continuous improvement for remote/hybrid teams]]></summary>
-        <author>
-            <name>j4yav</name>
-            <uri>https://news.ycombinator.com/user?id=j4yav</uri>
         </author>
     </entry>
 </feed>
