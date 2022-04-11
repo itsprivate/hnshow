@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Apr 2022 18:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 18:44:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Elixir構建的多人遊戲演示]]></title>
+            <link>https://news.ycombinator.com/item?id=30992587</link>
+            <guid>https://news.ycombinator.com/item?id=30992587</guid>
+            <pubDate>Mon, 11 Apr 2022 18:15:06 GMT</pubDate>
+            <description><![CDATA[Show HN: Multiplayer Demo Built with Elixir]]></description>
+        </item>
         <item>
             <title><![CDATA[想為氣候變化做點什麼的開發者的工作機會]]></title>
             <link>https://news.ycombinator.com/item?id=30992518</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30759351</guid>
             <pubDate>Mon, 21 Mar 2022 20:34:47 GMT</pubDate>
             <description><![CDATA[Show HN: Bose-dfu, a reverse-engineered firmware updater for my Bose speaker]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Chemiscripts：將ASCII化學公式翻譯成Unicode。]]></title>
-            <link>https://news.ycombinator.com/item?id=30759338</link>
-            <guid>https://news.ycombinator.com/item?id=30759338</guid>
-            <pubDate>Mon, 21 Mar 2022 20:33:49 GMT</pubDate>
-            <description><![CDATA[Show HN: Chemiscripts: translate ASCII chemical formulas into Unicode]]></description>
         </item>
     </channel>
 </rss>

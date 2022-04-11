@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-11T18:16:18.422Z</updated>
+    <updated>2022-04-11T18:44:33.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Elixir构建的多人游戏演示]]></title>
+        <id>https://news.ycombinator.com/item?id=30992587</id>
+        <link href="https://news.ycombinator.com/item?id=30992587"/>
+        <updated>2022-04-11T18:15:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Multiplayer Demo Built with Elixir]]></summary>
+        <author>
+            <name>wenbo</name>
+            <uri>https://news.ycombinator.com/user?id=wenbo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[想为气候变化做点什么的开发者的工作机会]]></title>
         <id>https://news.ycombinator.com/item?id=30992518</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tchebb</name>
             <uri>https://news.ycombinator.com/user?id=tchebb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chemiscripts：将ASCII化学公式翻译成Unicode。]]></title>
-        <id>https://news.ycombinator.com/item?id=30759338</id>
-        <link href="https://news.ycombinator.com/item?id=30759338"/>
-        <updated>2022-03-21T20:33:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Chemiscripts: translate ASCII chemical formulas into Unicode]]></summary>
-        <author>
-            <name>jwilk</name>
-            <uri>https://news.ycombinator.com/user?id=jwilk</uri>
         </author>
     </entry>
 </feed>
