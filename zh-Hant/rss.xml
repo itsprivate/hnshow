@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Apr 2022 14:40:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 14:53:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[啟動前的等待名單，內置推薦人以驗證想法]]></title>
+            <link>https://news.ycombinator.com/item?id=30989452</link>
+            <guid>https://news.ycombinator.com/item?id=30989452</guid>
+            <pubDate>Mon, 11 Apr 2022 14:41:52 GMT</pubDate>
+            <description><![CDATA[Show HN: Pre-launch waitlist with built-in referral to validate ideas]]></description>
+        </item>
         <item>
             <title><![CDATA[關於有機想法驗證的簡要指南]]></title>
             <link>https://news.ycombinator.com/item?id=30989300</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30755816</guid>
             <pubDate>Mon, 21 Mar 2022 16:14:02 GMT</pubDate>
             <description><![CDATA[Show HN: I built a SaaS to allow users to submit quick feedback]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Stridle，一個針對跑步者的Wordle克隆版]]></title>
-            <link>https://news.ycombinator.com/item?id=30755225</link>
-            <guid>https://news.ycombinator.com/item?id=30755225</guid>
-            <pubDate>Mon, 21 Mar 2022 15:31:23 GMT</pubDate>
-            <description><![CDATA[Show HN: Stridle, a Wordle Clone for Runners]]></description>
         </item>
     </channel>
 </rss>

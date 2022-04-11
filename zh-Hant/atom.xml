@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-11T14:40:45.481Z</updated>
+    <updated>2022-04-11T14:53:00.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[啟動前的等待名單，內置推薦人以驗證想法]]></title>
+        <id>https://news.ycombinator.com/item?id=30989452</id>
+        <link href="https://news.ycombinator.com/item?id=30989452"/>
+        <updated>2022-04-11T14:41:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pre-launch waitlist with built-in referral to validate ideas]]></summary>
+        <author>
+            <name>navneetsingh</name>
+            <uri>https://news.ycombinator.com/user?id=navneetsingh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於有機想法驗證的簡要指南]]></title>
         <id>https://news.ycombinator.com/item?id=30989300</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dshannon</name>
             <uri>https://news.ycombinator.com/user?id=dshannon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stridle，一個針對跑步者的Wordle克隆版]]></title>
-        <id>https://news.ycombinator.com/item?id=30755225</id>
-        <link href="https://news.ycombinator.com/item?id=30755225"/>
-        <updated>2022-03-21T15:31:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Stridle, a Wordle Clone for Runners]]></summary>
-        <author>
-            <name>jwood27</name>
-            <uri>https://news.ycombinator.com/user?id=jwood27</uri>
         </author>
     </entry>
 </feed>
