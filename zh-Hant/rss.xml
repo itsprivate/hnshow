@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Apr 2022 20:15:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 20:51:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Esht - 可嵌入的SHell標籤]]></title>
+            <link>https://news.ycombinator.com/item?id=30994748</link>
+            <guid>https://news.ycombinator.com/item?id=30994748</guid>
+            <pubDate>Mon, 11 Apr 2022 20:45:37 GMT</pubDate>
+            <description><![CDATA[Show HN: Esht – Embeddable SHell Tags]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一個API來計算任何旅程的碳足跡。]]></title>
             <link>https://news.ycombinator.com/item?id=30988226</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30760025</guid>
             <pubDate>Mon, 21 Mar 2022 21:36:35 GMT</pubDate>
             <description><![CDATA[Show HN: Speech2Code – Code with Voice]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WhatsAlysis - 可視化您的WhatsApp聊天統計數據]]></title>
-            <link>https://news.ycombinator.com/item?id=30759890</link>
-            <guid>https://news.ycombinator.com/item?id=30759890</guid>
-            <pubDate>Mon, 21 Mar 2022 21:25:09 GMT</pubDate>
-            <description><![CDATA[Show HN: WhatsAlysis – Visualise your WhatsApp chat statistics]]></description>
         </item>
     </channel>
 </rss>
