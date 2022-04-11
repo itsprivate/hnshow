@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-11T13:00:52.904Z</updated>
+    <updated>2022-04-11T14:16:34.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[寶萊塢歌詞數據集]]></title>
+        <id>https://news.ycombinator.com/item?id=30988857</id>
+        <link href="https://news.ycombinator.com/item?id=30988857"/>
+        <updated>2022-04-11T14:04:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bollywood Lyrics Dataset]]></summary>
+        <author>
+            <name>hdesh</name>
+            <uri>https://news.ycombinator.com/user?id=hdesh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安卓版的GIMP]]></title>
+        <id>https://news.ycombinator.com/item?id=30988666</id>
+        <link href="https://news.ycombinator.com/item?id=30988666"/>
+        <updated>2022-04-11T13:50:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GIMP for Android]]></summary>
+        <author>
+            <name>userland_tech</name>
+            <uri>https://news.ycombinator.com/user?id=userland_tech</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Whowrotethis.xyz - 一個用於評級記者的瀏覽器擴展]]></title>
         <id>https://news.ycombinator.com/item?id=30987771</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ashwinvasu</name>
             <uri>https://news.ycombinator.com/user?id=ashwinvasu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[切入點評論--向新讀者展示你的程序開始的地方]]></title>
-        <id>https://news.ycombinator.com/item?id=30754770</id>
-        <link href="https://news.ycombinator.com/item?id=30754770"/>
-        <updated>2022-03-21T14:50:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Entrypoint comments – show new readers where your program starts]]></summary>
-        <author>
-            <name>gushogg-blake</name>
-            <uri>https://news.ycombinator.com/user?id=gushogg-blake</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把你的舊安卓手機變成安全系統]]></title>
-        <id>https://news.ycombinator.com/item?id=30754706</id>
-        <link href="https://news.ycombinator.com/item?id=30754706"/>
-        <updated>2022-03-21T14:44:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Turn Your Old Android Phone into Secuity System]]></summary>
-        <author>
-            <name>vasilipupkin</name>
-            <uri>https://news.ycombinator.com/user?id=vasilipupkin</uri>
         </author>
     </entry>
 </feed>
