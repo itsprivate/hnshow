@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-11T18:44:33.654Z</updated>
+    <updated>2022-04-11T18:59:24.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ANECompat，评估CoreML模型与苹果神经引擎的兼容性]]></title>
+        <id>https://news.ycombinator.com/item?id=30992872</id>
+        <link href="https://news.ycombinator.com/item?id=30992872"/>
+        <updated>2022-04-11T18:40:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ANECompat, evaluate CoreML model compatibility with Apple Neural Engine]]></summary>
+        <author>
+            <name>fredyshox</name>
+            <uri>https://news.ycombinator.com/user?id=fredyshox</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Elixir构建的多人游戏演示]]></title>
         <id>https://news.ycombinator.com/item?id=30992587</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>willswire</name>
             <uri>https://news.ycombinator.com/user?id=willswire</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bose-dfu，一个为我的Bose扬声器反向设计的固件升级器]]></title>
-        <id>https://news.ycombinator.com/item?id=30759351</id>
-        <link href="https://news.ycombinator.com/item?id=30759351"/>
-        <updated>2022-03-21T20:34:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bose-dfu, a reverse-engineered firmware updater for my Bose speaker]]></summary>
-        <author>
-            <name>tchebb</name>
-            <uri>https://news.ycombinator.com/user?id=tchebb</uri>
         </author>
     </entry>
 </feed>
