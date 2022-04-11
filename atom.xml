@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-11T14:16:34.521Z</updated>
+    <updated>2022-04-11T14:40:45.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于有机想法验证的简要指南]]></title>
+        <id>https://news.ycombinator.com/item?id=30989300</id>
+        <link href="https://news.ycombinator.com/item?id=30989300"/>
+        <updated>2022-04-11T14:32:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A brief guide on organic idea validation]]></summary>
+        <author>
+            <name>adamhp</name>
+            <uri>https://news.ycombinator.com/user?id=adamhp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[宝莱坞歌词数据集]]></title>
         <id>https://news.ycombinator.com/item?id=30988857</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jwood27</name>
             <uri>https://news.ycombinator.com/user?id=jwood27</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scrapex.ai - 低代码搜刮平台]]></title>
-        <id>https://news.ycombinator.com/item?id=30755015</id>
-        <link href="https://news.ycombinator.com/item?id=30755015"/>
-        <updated>2022-03-21T15:13:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Scrapex.ai – Low code scraping platform]]></summary>
-        <author>
-            <name>ashwinvasu</name>
-            <uri>https://news.ycombinator.com/user?id=ashwinvasu</uri>
         </author>
     </entry>
 </feed>

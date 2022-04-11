@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Apr 2022 14:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 14:40:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[关于有机想法验证的简要指南]]></title>
+            <link>https://news.ycombinator.com/item?id=30989300</link>
+            <guid>https://news.ycombinator.com/item?id=30989300</guid>
+            <pubDate>Mon, 11 Apr 2022 14:32:39 GMT</pubDate>
+            <description><![CDATA[Show HN: A brief guide on organic idea validation]]></description>
+        </item>
         <item>
             <title><![CDATA[宝莱坞歌词数据集]]></title>
             <link>https://news.ycombinator.com/item?id=30988857</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30755225</guid>
             <pubDate>Mon, 21 Mar 2022 15:31:23 GMT</pubDate>
             <description><![CDATA[Show HN: Stridle, a Wordle Clone for Runners]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Scrapex.ai - 低代码搜刮平台]]></title>
-            <link>https://news.ycombinator.com/item?id=30755015</link>
-            <guid>https://news.ycombinator.com/item?id=30755015</guid>
-            <pubDate>Mon, 21 Mar 2022 15:13:45 GMT</pubDate>
-            <description><![CDATA[Show HN: Scrapex.ai – Low code scraping platform]]></description>
         </item>
     </channel>
 </rss>
