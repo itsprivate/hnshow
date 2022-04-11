@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-11T15:38:36.097Z</updated>
+    <updated>2022-04-11T16:18:52.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通過網絡擴展為黑客新聞提供黑暗模式]]></title>
+        <id>https://news.ycombinator.com/item?id=30990344</id>
+        <link href="https://news.ycombinator.com/item?id=30990344"/>
+        <updated>2022-04-11T15:43:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dark mode for Hacker News via web extension]]></summary>
+        <author>
+            <name>johnthuss</name>
+            <uri>https://news.ycombinator.com/user?id=johnthuss</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於在TikTok上創建和運行競賽的網絡應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=30989066</id>
+        <link href="https://news.ycombinator.com/item?id=30989066"/>
+        <updated>2022-04-11T14:18:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Web app for creating and running contests on TikTok]]></summary>
+        <author>
+            <name>rscm17</name>
+            <uri>https://news.ycombinator.com/user?id=rscm17</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OldestSearch - 自定義搜索網上最古老的結果]]></title>
         <id>https://news.ycombinator.com/item?id=30989976</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>pierreprinetti</name>
             <uri>https://news.ycombinator.com/user?id=pierreprinetti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我寫了一本書，教醫生了解人工智能]]></title>
-        <id>https://news.ycombinator.com/item?id=30757054</id>
-        <link href="https://news.ycombinator.com/item?id=30757054"/>
-        <updated>2022-03-21T17:26:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I wrote a book to teach doctors about AI]]></summary>
-        <author>
-            <name>abhisuri97</name>
-            <uri>https://news.ycombinator.com/user?id=abhisuri97</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微小的嵌入式腳本語言（在現代C++中）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30756518</id>
-        <link href="https://news.ycombinator.com/item?id=30756518"/>
-        <updated>2022-03-21T16:56:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tiny embedded scripting language (in modern C++)]]></summary>
-        <author>
-            <name>phafu</name>
-            <uri>https://news.ycombinator.com/user?id=phafu</uri>
         </author>
     </entry>
 </feed>
