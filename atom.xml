@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-11T14:53:00.204Z</updated>
+    <updated>2022-04-11T15:38:35.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[OldestSearch - 自定义搜索网上最古老的结果]]></title>
+        <id>https://news.ycombinator.com/item?id=30989976</id>
+        <link href="https://news.ycombinator.com/item?id=30989976"/>
+        <updated>2022-04-11T15:15:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: OldestSearch – A custom search for the oldest results online]]></summary>
+        <author>
+            <name>jarrenae</name>
+            <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[与Vite集成的Electron CLI]]></title>
+        <id>https://news.ycombinator.com/item?id=30989938</id>
+        <link href="https://news.ycombinator.com/item?id=30989938"/>
+        <updated>2022-04-11T15:13:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An Electron CLI Integrated with Vite]]></summary>
+        <author>
+            <name>alex114</name>
+            <uri>https://news.ycombinator.com/user?id=alex114</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[合理的颜色，一个用于无障碍调色板的开源颜色系统]]></title>
+        <id>https://news.ycombinator.com/item?id=30989932</id>
+        <link href="https://news.ycombinator.com/item?id=30989932"/>
+        <updated>2022-04-11T15:13:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Reasonable Colors, an open-source color system for accessible palettes]]></summary>
+        <author>
+            <name>mthwl</name>
+            <uri>https://news.ycombinator.com/user?id=mthwl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[启动前的等待名单，内置推荐人以验证想法]]></title>
         <id>https://news.ycombinator.com/item?id=30989452</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>phafu</name>
             <uri>https://news.ycombinator.com/user?id=phafu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[提交给HN浏览器扩展]]></title>
-        <id>https://news.ycombinator.com/item?id=30756414</id>
-        <link href="https://news.ycombinator.com/item?id=30756414"/>
-        <updated>2022-03-21T16:50:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Submit to HN Chrome Extension]]></summary>
-        <author>
-            <name>jarrenae</name>
-            <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go的通用函数式库，灵感来自于Kotlin集合API]]></title>
-        <id>https://news.ycombinator.com/item?id=30756056</id>
-        <link href="https://news.ycombinator.com/item?id=30756056"/>
-        <updated>2022-03-21T16:29:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Generic functional library for Go, inspired by Kotlin collection API]]></summary>
-        <author>
-            <name>yyammka</name>
-            <uri>https://news.ycombinator.com/user?id=yyammka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一个SaaS，允许用户快速提交反馈意见]]></title>
-        <id>https://news.ycombinator.com/item?id=30755816</id>
-        <link href="https://news.ycombinator.com/item?id=30755816"/>
-        <updated>2022-03-21T16:14:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a SaaS to allow users to submit quick feedback]]></summary>
-        <author>
-            <name>dshannon</name>
-            <uri>https://news.ycombinator.com/user?id=dshannon</uri>
         </author>
     </entry>
 </feed>

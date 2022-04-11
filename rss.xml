@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Apr 2022 14:53:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 15:38:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[OldestSearch - 自定义搜索网上最古老的结果]]></title>
+            <link>https://news.ycombinator.com/item?id=30989976</link>
+            <guid>https://news.ycombinator.com/item?id=30989976</guid>
+            <pubDate>Mon, 11 Apr 2022 15:15:45 GMT</pubDate>
+            <description><![CDATA[Show HN: OldestSearch – A custom search for the oldest results online]]></description>
+        </item>
+        <item>
+            <title><![CDATA[与Vite集成的Electron CLI]]></title>
+            <link>https://news.ycombinator.com/item?id=30989938</link>
+            <guid>https://news.ycombinator.com/item?id=30989938</guid>
+            <pubDate>Mon, 11 Apr 2022 15:13:26 GMT</pubDate>
+            <description><![CDATA[Show HN: An Electron CLI Integrated with Vite]]></description>
+        </item>
+        <item>
+            <title><![CDATA[合理的颜色，一个用于无障碍调色板的开源颜色系统]]></title>
+            <link>https://news.ycombinator.com/item?id=30989932</link>
+            <guid>https://news.ycombinator.com/item?id=30989932</guid>
+            <pubDate>Mon, 11 Apr 2022 15:13:05 GMT</pubDate>
+            <description><![CDATA[Show HN: Reasonable Colors, an open-source color system for accessible palettes]]></description>
+        </item>
         <item>
             <title><![CDATA[启动前的等待名单，内置推荐人以验证想法]]></title>
             <link>https://news.ycombinator.com/item?id=30989452</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30756518</guid>
             <pubDate>Mon, 21 Mar 2022 16:56:04 GMT</pubDate>
             <description><![CDATA[Show HN: Tiny embedded scripting language (in modern C++)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[提交给HN浏览器扩展]]></title>
-            <link>https://news.ycombinator.com/item?id=30756414</link>
-            <guid>https://news.ycombinator.com/item?id=30756414</guid>
-            <pubDate>Mon, 21 Mar 2022 16:50:47 GMT</pubDate>
-            <description><![CDATA[Show HN: Submit to HN Chrome Extension]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Go的通用函数式库，灵感来自于Kotlin集合API]]></title>
-            <link>https://news.ycombinator.com/item?id=30756056</link>
-            <guid>https://news.ycombinator.com/item?id=30756056</guid>
-            <pubDate>Mon, 21 Mar 2022 16:29:04 GMT</pubDate>
-            <description><![CDATA[Show HN: Generic functional library for Go, inspired by Kotlin collection API]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我建立了一个SaaS，允许用户快速提交反馈意见]]></title>
-            <link>https://news.ycombinator.com/item?id=30755816</link>
-            <guid>https://news.ycombinator.com/item?id=30755816</guid>
-            <pubDate>Mon, 21 Mar 2022 16:14:02 GMT</pubDate>
-            <description><![CDATA[Show HN: I built a SaaS to allow users to submit quick feedback]]></description>
         </item>
     </channel>
 </rss>
