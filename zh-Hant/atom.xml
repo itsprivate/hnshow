@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-11T17:39:45.485Z</updated>
+    <updated>2022-04-11T18:16:18.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[想為氣候變化做點什麼的開發者的工作機會]]></title>
+        <id>https://news.ycombinator.com/item?id=30992518</id>
+        <link href="https://news.ycombinator.com/item?id=30992518"/>
+        <updated>2022-04-11T18:03:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Jobs for devs who want to do something about climate change]]></summary>
+        <author>
+            <name>pogopaule</name>
+            <uri>https://news.ycombinator.com/user?id=pogopaule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crunchbase的REST API的一個Python客戶端。]]></title>
+        <id>https://news.ycombinator.com/item?id=30992435</id>
+        <link href="https://news.ycombinator.com/item?id=30992435"/>
+        <updated>2022-04-11T17:58:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Python client for Crunchbase's REST API]]></summary>
+        <author>
+            <name>fahad_noor</name>
+            <uri>https://news.ycombinator.com/user?id=fahad_noor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[紙質樺木筆記]]></title>
         <id>https://news.ycombinator.com/item?id=30992106</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jwilk</name>
             <uri>https://news.ycombinator.com/user?id=jwilk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用一種有主見的方式來構建和維護複雜的YAML文檔]]></title>
-        <id>https://news.ycombinator.com/item?id=30759115</id>
-        <link href="https://news.ycombinator.com/item?id=30759115"/>
-        <updated>2022-03-21T20:13:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An opinionated way to build and maintain complex YAML documents]]></summary>
-        <author>
-            <name>lucasepe</name>
-            <uri>https://news.ycombinator.com/user?id=lucasepe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個火狐瀏覽器插件，在側邊欄按隱私容器分組標籤]]></title>
-        <id>https://news.ycombinator.com/item?id=30759039</id>
-        <link href="https://news.ycombinator.com/item?id=30759039"/>
-        <updated>2022-03-21T20:05:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Firefox addon that groups tabs by privacy container in the sidebar]]></summary>
-        <author>
-            <name>maciekmm</name>
-            <uri>https://news.ycombinator.com/user?id=maciekmm</uri>
         </author>
     </entry>
 </feed>

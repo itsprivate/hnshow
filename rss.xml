@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Apr 2022 17:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 18:16:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[想为气候变化做点什么的开发者的工作机会]]></title>
+            <link>https://news.ycombinator.com/item?id=30992518</link>
+            <guid>https://news.ycombinator.com/item?id=30992518</guid>
+            <pubDate>Mon, 11 Apr 2022 18:03:45 GMT</pubDate>
+            <description><![CDATA[Show HN: Jobs for devs who want to do something about climate change]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Crunchbase的REST API的一个Python客户端。]]></title>
+            <link>https://news.ycombinator.com/item?id=30992435</link>
+            <guid>https://news.ycombinator.com/item?id=30992435</guid>
+            <pubDate>Mon, 11 Apr 2022 17:58:13 GMT</pubDate>
+            <description><![CDATA[Show HN: A Python client for Crunchbase's REST API]]></description>
+        </item>
         <item>
             <title><![CDATA[纸质桦木笔记]]></title>
             <link>https://news.ycombinator.com/item?id=30992106</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30759338</guid>
             <pubDate>Mon, 21 Mar 2022 20:33:49 GMT</pubDate>
             <description><![CDATA[Show HN: Chemiscripts: translate ASCII chemical formulas into Unicode]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用一种有主见的方式来构建和维护复杂的YAML文档]]></title>
-            <link>https://news.ycombinator.com/item?id=30759115</link>
-            <guid>https://news.ycombinator.com/item?id=30759115</guid>
-            <pubDate>Mon, 21 Mar 2022 20:13:12 GMT</pubDate>
-            <description><![CDATA[Show HN: An opinionated way to build and maintain complex YAML documents]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个火狐浏览器插件，在侧边栏按隐私容器分组标签]]></title>
-            <link>https://news.ycombinator.com/item?id=30759039</link>
-            <guid>https://news.ycombinator.com/item?id=30759039</guid>
-            <pubDate>Mon, 21 Mar 2022 20:05:54 GMT</pubDate>
-            <description><![CDATA[Show HN: A Firefox addon that groups tabs by privacy container in the sidebar]]></description>
         </item>
     </channel>
 </rss>
