@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Apr 2022 09:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 13:00:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Whowrotethis.xyz - 一個用於評級記者的瀏覽器擴展]]></title>
+            <link>https://news.ycombinator.com/item?id=30987771</link>
+            <guid>https://news.ycombinator.com/item?id=30987771</guid>
+            <pubDate>Mon, 11 Apr 2022 12:28:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Whowrotethis.xyz – a browser extension for rating journalists]]></description>
+        </item>
         <item>
             <title><![CDATA[黑客新聞的CSS樣式修復]]></title>
             <link>https://news.ycombinator.com/item?id=30986252</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30754706</guid>
             <pubDate>Mon, 21 Mar 2022 14:44:50 GMT</pubDate>
             <description><![CDATA[Show HN: Turn Your Old Android Phone into Secuity System]]></description>
-        </item>
-        <item>
-            <title><![CDATA[計時器。一個日常的、一口大小的、基於瀏覽器的歷史游戲]]></title>
-            <link>https://news.ycombinator.com/item?id=30754417</link>
-            <guid>https://news.ycombinator.com/item?id=30754417</guid>
-            <pubDate>Mon, 21 Mar 2022 14:18:49 GMT</pubDate>
-            <description><![CDATA[Show HN: Chrono. A daily, bite sized, browser based, history game]]></description>
         </item>
     </channel>
 </rss>
