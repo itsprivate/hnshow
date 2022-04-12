@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-12T07:32:37.105Z</updated>
+    <updated>2022-04-12T09:33:18.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我买了一个短域名。我应该用它做什么？]]></title>
+        <id>https://news.ycombinator.com/item?id=31000355</id>
+        <link href="https://news.ycombinator.com/item?id=31000355"/>
+        <updated>2022-04-12T09:22:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I bought a short domain name. What should I do with it?]]></summary>
+        <author>
+            <name>slightknack</name>
+            <uri>https://news.ycombinator.com/user?id=slightknack</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FHIR Auth，FHIR服务器认证变得简单了]]></title>
+        <id>https://news.ycombinator.com/item?id=31000265</id>
+        <link href="https://news.ycombinator.com/item?id=31000265"/>
+        <updated>2022-04-12T09:10:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: FHIR Auth, FHIR server authentication made easy]]></summary>
+        <author>
+            <name>rukshn</name>
+            <uri>https://news.ycombinator.com/user?id=rukshn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HRConvert2 v2.7发布]]></title>
         <id>https://news.ycombinator.com/item?id=30999612</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>krmmalik</name>
             <uri>https://news.ycombinator.com/user?id=krmmalik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生成QR码名片]]></title>
-        <id>https://news.ycombinator.com/item?id=30763822</id>
-        <link href="https://news.ycombinator.com/item?id=30763822"/>
-        <updated>2022-03-22T08:26:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Generate QR-Code Business Cards]]></summary>
-        <author>
-            <name>rmnclmnt</name>
-            <uri>https://news.ycombinator.com/user?id=rmnclmnt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在线学习和创建卡林巴舞曲谱]]></title>
-        <id>https://news.ycombinator.com/item?id=30762085</id>
-        <link href="https://news.ycombinator.com/item?id=30762085"/>
-        <updated>2022-03-22T02:15:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Learn and create Kalimba tabs online]]></summary>
-        <author>
-            <name>docuru</name>
-            <uri>https://news.ycombinator.com/user?id=docuru</uri>
         </author>
     </entry>
 </feed>
