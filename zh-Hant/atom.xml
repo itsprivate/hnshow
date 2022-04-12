@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-12T14:32:24.909Z</updated>
+    <updated>2022-04-12T14:52:21.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個在PHP中建立穩固的分散式應用程序的庫]]></title>
+        <id>https://news.ycombinator.com/item?id=31003389</id>
+        <link href="https://news.ycombinator.com/item?id=31003389"/>
+        <updated>2022-04-12T14:42:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A library to build Solid decentralized applications in PHP]]></summary>
+        <author>
+            <name>kdunglas</name>
+            <uri>https://news.ycombinator.com/user?id=kdunglas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AV1和WebRTC]]></title>
         <id>https://news.ycombinator.com/item?id=31003111</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>acavailhez</name>
             <uri>https://news.ycombinator.com/user?id=acavailhez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BoxyHQ--Auth0/WorkOS的開源替代品（HTTPS://boxyhq.com）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30767084</id>
-        <link href="https://news.ycombinator.com/item?id=30767084"/>
-        <updated>2022-03-22T15:16:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: BoxyHQ – open-source alternative to Auth0/WorkOS (HTTPS://boxyhq.com)]]></summary>
-        <author>
-            <name>deepakprab</name>
-            <uri>https://news.ycombinator.com/user?id=deepakprab</uri>
         </author>
     </entry>
 </feed>

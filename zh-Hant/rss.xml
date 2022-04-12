@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 12 Apr 2022 14:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 14:52:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個在PHP中建立穩固的分散式應用程序的庫]]></title>
+            <link>https://news.ycombinator.com/item?id=31003389</link>
+            <guid>https://news.ycombinator.com/item?id=31003389</guid>
+            <pubDate>Tue, 12 Apr 2022 14:42:36 GMT</pubDate>
+            <description><![CDATA[Show HN: A library to build Solid decentralized applications in PHP]]></description>
+        </item>
         <item>
             <title><![CDATA[AV1和WebRTC]]></title>
             <link>https://news.ycombinator.com/item?id=31003111</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30767490</guid>
             <pubDate>Tue, 22 Mar 2022 15:44:45 GMT</pubDate>
             <description><![CDATA[Show HN: Machinegame – a multiplayer browser game where you code to play]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BoxyHQ--Auth0/WorkOS的開源替代品（HTTPS://boxyhq.com）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30767084</link>
-            <guid>https://news.ycombinator.com/item?id=30767084</guid>
-            <pubDate>Tue, 22 Mar 2022 15:16:28 GMT</pubDate>
-            <description><![CDATA[Show HN: BoxyHQ – open-source alternative to Auth0/WorkOS (HTTPS://boxyhq.com)]]></description>
         </item>
     </channel>
 </rss>
