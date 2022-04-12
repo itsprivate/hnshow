@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-12T13:27:37.320Z</updated>
+    <updated>2022-04-12T13:50:25.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[具有所有專業功能的在線照片編輯器]]></title>
+        <id>https://news.ycombinator.com/item?id=31002588</id>
+        <link href="https://news.ycombinator.com/item?id=31002588"/>
+        <updated>2022-04-12T13:42:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Online photo editor with all professional features]]></summary>
+        <author>
+            <name>rahulbstomar</name>
+            <uri>https://news.ycombinator.com/user?id=rahulbstomar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個簡單的r/place克隆]]></title>
+        <id>https://news.ycombinator.com/item?id=31002519</id>
+        <link href="https://news.ycombinator.com/item?id=31002519"/>
+        <updated>2022-04-12T13:36:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A simple r/place clone]]></summary>
+        <author>
+            <name>filippofinke</name>
+            <uri>https://news.ycombinator.com/user?id=filippofinke</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文件和鍵值數據庫的實時分佈式存儲]]></title>
+        <id>https://news.ycombinator.com/item?id=31002401</id>
+        <link href="https://news.ycombinator.com/item?id=31002401"/>
+        <updated>2022-04-12T13:27:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Real-time distributed storage for files and key value databases]]></summary>
+        <author>
+            <name>Hexadecible</name>
+            <uri>https://news.ycombinator.com/user?id=Hexadecible</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[發現獨立網絡，每次都是一篇博文]]></title>
         <id>https://news.ycombinator.com/item?id=31002171</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>spdydve</name>
             <uri>https://news.ycombinator.com/user?id=spdydve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[編碼面試給我帶來壓力，所以我建立了一個帶回家的測試工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30766059</id>
-        <link href="https://news.ycombinator.com/item?id=30766059"/>
-        <updated>2022-03-22T13:50:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Coding interviews stress me out, so I built a takehome test tool]]></summary>
-        <author>
-            <name>vorador</name>
-            <uri>https://news.ycombinator.com/user?id=vorador</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於React的靜態網站生成器，不輸出客戶端JS]]></title>
-        <id>https://news.ycombinator.com/item?id=30765892</id>
-        <link href="https://news.ycombinator.com/item?id=30765892"/>
-        <updated>2022-03-22T13:35:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: React-based static site generator that outputs no client-side JS]]></summary>
-        <author>
-            <name>jakelazaroff</name>
-            <uri>https://news.ycombinator.com/user?id=jakelazaroff</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我把我的工具箱作為共享數據庫發佈在概念上。]]></title>
-        <id>https://news.ycombinator.com/item?id=30765800</id>
-        <link href="https://news.ycombinator.com/item?id=30765800"/>
-        <updated>2022-03-22T13:28:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I published my toolbox as shared database on notion]]></summary>
-        <author>
-            <name>namiheike</name>
-            <uri>https://news.ycombinator.com/user?id=namiheike</uri>
         </author>
     </entry>
 </feed>
