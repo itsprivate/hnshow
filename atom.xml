@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-12T13:50:25.194Z</updated>
+    <updated>2022-04-12T14:14:02.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在你的GitHub个人资料上显示你的Spotify "正在播放 "状态的工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31002916</id>
+        <link href="https://news.ycombinator.com/item?id=31002916"/>
+        <updated>2022-04-12T14:05:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A tool to show your Spotify “Now Playing” status on your GitHub profile]]></summary>
+        <author>
+            <name>flotwig</name>
+            <uri>https://news.ycombinator.com/user?id=flotwig</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[具有所有专业功能的在线照片编辑器]]></title>
         <id>https://news.ycombinator.com/item?id=31002588</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tushonka</name>
             <uri>https://news.ycombinator.com/user?id=tushonka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blokfeed的用户界面更新]]></title>
-        <id>https://news.ycombinator.com/item?id=30766196</id>
-        <link href="https://news.ycombinator.com/item?id=30766196"/>
-        <updated>2022-03-22T14:03:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: UI Updates to Blokfeed]]></summary>
-        <author>
-            <name>spdydve</name>
-            <uri>https://news.ycombinator.com/user?id=spdydve</uri>
         </author>
     </entry>
 </feed>
