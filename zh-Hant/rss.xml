@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 12 Apr 2022 20:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 22:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[讓電子郵件渠道變得可靠。讓合法的電子郵件落入收件箱]]></title>
+            <link>https://news.ycombinator.com/item?id=31008811</link>
+            <guid>https://news.ycombinator.com/item?id=31008811</guid>
+            <pubDate>Tue, 12 Apr 2022 22:04:28 GMT</pubDate>
+            <description><![CDATA[Show HN: Make the email channel reliable. Have legit emails land in the inbox]]></description>
+        </item>
         <item>
             <title><![CDATA[在虛擬和增強現實中實現代碼的可視化]]></title>
             <link>https://news.ycombinator.com/item?id=31007552</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30772214</guid>
             <pubDate>Tue, 22 Mar 2022 22:08:40 GMT</pubDate>
             <description><![CDATA[Show HN: Scrt – A secret manager for the command line]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fetcher：抓取你過去手動刷新的帖子]]></title>
-            <link>https://news.ycombinator.com/item?id=30771060</link>
-            <guid>https://news.ycombinator.com/item?id=30771060</guid>
-            <pubDate>Tue, 22 Mar 2022 20:25:54 GMT</pubDate>
-            <description><![CDATA[Show HN: Fetcher: grab posts that you used to refresh manually]]></description>
         </item>
     </channel>
 </rss>

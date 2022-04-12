@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-12T20:15:15.442Z</updated>
+    <updated>2022-04-12T22:13:49.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[讓電子郵件渠道變得可靠。讓合法的電子郵件落入收件箱]]></title>
+        <id>https://news.ycombinator.com/item?id=31008811</id>
+        <link href="https://news.ycombinator.com/item?id=31008811"/>
+        <updated>2022-04-12T22:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Make the email channel reliable. Have legit emails land in the inbox]]></summary>
+        <author>
+            <name>mikeshnaider</name>
+            <uri>https://news.ycombinator.com/user?id=mikeshnaider</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在虛擬和增強現實中實現代碼的可視化]]></title>
         <id>https://news.ycombinator.com/item?id=31007552</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>loderunnr</name>
             <uri>https://news.ycombinator.com/user?id=loderunnr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fetcher：抓取你過去手動刷新的帖子]]></title>
-        <id>https://news.ycombinator.com/item?id=30771060</id>
-        <link href="https://news.ycombinator.com/item?id=30771060"/>
-        <updated>2022-03-22T20:25:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fetcher: grab posts that you used to refresh manually]]></summary>
-        <author>
-            <name>neriymus</name>
-            <uri>https://news.ycombinator.com/user?id=neriymus</uri>
         </author>
     </entry>
 </feed>
