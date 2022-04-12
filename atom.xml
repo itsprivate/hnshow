@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-12T05:52:05.853Z</updated>
+    <updated>2022-04-12T07:32:37.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HRConvert2 v2.7发布]]></title>
+        <id>https://news.ycombinator.com/item?id=30999612</id>
+        <link href="https://news.ycombinator.com/item?id=30999612"/>
+        <updated>2022-04-12T07:16:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: HRConvert2 v2.7 Released]]></summary>
+        <author>
+            <name>zelon88</name>
+            <uri>https://news.ycombinator.com/user?id=zelon88</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[pyinfra v2]]></title>
         <id>https://news.ycombinator.com/item?id=30999030</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>docuru</name>
             <uri>https://news.ycombinator.com/user?id=docuru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[打字员，但有随机抄写的内容]]></title>
-        <id>https://news.ycombinator.com/item?id=30762062</id>
-        <link href="https://news.ycombinator.com/item?id=30762062"/>
-        <updated>2022-03-22T02:10:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Typeracer but with Random Copypasta]]></summary>
-        <author>
-            <name>bighoss97</name>
-            <uri>https://news.ycombinator.com/user?id=bighoss97</uri>
         </author>
     </entry>
 </feed>
