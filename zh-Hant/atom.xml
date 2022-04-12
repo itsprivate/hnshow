@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-12T14:14:02.603Z</updated>
+    <updated>2022-04-12T14:32:24.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AV1和WebRTC]]></title>
+        <id>https://news.ycombinator.com/item?id=31003111</id>
+        <link href="https://news.ycombinator.com/item?id=31003111"/>
+        <updated>2022-04-12T14:20:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: AV1 and WebRTC]]></summary>
+        <author>
+            <name>Sean-Der</name>
+            <uri>https://news.ycombinator.com/user?id=Sean-Der</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在你的GitHub個人資料上顯示你的Spotify "正在播放 "狀態的工具]]></title>
         <id>https://news.ycombinator.com/item?id=31002916</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>deepakprab</name>
             <uri>https://news.ycombinator.com/user?id=deepakprab</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Git分支之間快速切換 用rust編寫的CLI]]></title>
-        <id>https://news.ycombinator.com/item?id=30766361</id>
-        <link href="https://news.ycombinator.com/item?id=30766361"/>
-        <updated>2022-03-22T14:16:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Quickly switch between Git branches CLI written in rust]]></summary>
-        <author>
-            <name>tushonka</name>
-            <uri>https://news.ycombinator.com/user?id=tushonka</uri>
         </author>
     </entry>
 </feed>
