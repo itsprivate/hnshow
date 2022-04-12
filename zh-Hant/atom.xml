@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-12T15:39:18.321Z</updated>
+    <updated>2022-04-12T15:56:37.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[舊的火焰，新的火焰]]></title>
+        <id>https://news.ycombinator.com/item?id=31004141</id>
+        <link href="https://news.ycombinator.com/item?id=31004141"/>
+        <updated>2022-04-12T15:39:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Old Flame, New Flame]]></summary>
+        <author>
+            <name>stuartmscott</name>
+            <uri>https://news.ycombinator.com/user?id=stuartmscott</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[樹幹檢測和處理預先存在的林特問題]]></title>
         <id>https://news.ycombinator.com/item?id=31003974</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>quinto_quarto</name>
             <uri>https://news.ycombinator.com/user?id=quinto_quarto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[餅乾刀--為你解答餅乾提示的Chrome擴展程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30768758</id>
-        <link href="https://news.ycombinator.com/item?id=30768758"/>
-        <updated>2022-03-22T17:13:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cookie Cutter – Chrome Extension That Answers Cookie Prompts for You]]></summary>
-        <author>
-            <name>jlynch630</name>
-            <uri>https://news.ycombinator.com/user?id=jlynch630</uri>
         </author>
     </entry>
 </feed>
