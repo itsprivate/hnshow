@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-11T23:34:56.814Z</updated>
+    <updated>2022-04-12T00:39:04.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[按公司名稱、職位或地點過濾遠程設計工作]]></title>
+        <id>https://news.ycombinator.com/item?id=30996826</id>
+        <link href="https://news.ycombinator.com/item?id=30996826"/>
+        <updated>2022-04-12T00:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Filter remote design jobs by company name, position or location]]></summary>
+        <author>
+            <name>itsdailyin</name>
+            <uri>https://news.ycombinator.com/user?id=itsdailyin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄勒岡州立大學班級數據瀏覽器]]></title>
         <id>https://news.ycombinator.com/item?id=30996478</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>timoteostewart</name>
             <uri>https://news.ycombinator.com/user?id=timoteostewart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個API來使Stripe快速而容易地集成]]></title>
-        <id>https://news.ycombinator.com/item?id=30760156</id>
-        <link href="https://news.ycombinator.com/item?id=30760156"/>
-        <updated>2022-03-21T21:50:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made an API to make Stripe fast and easy to integrate]]></summary>
-        <author>
-            <name>Yassine_Rjl</name>
-            <uri>https://news.ycombinator.com/user?id=Yassine_Rjl</uri>
         </author>
     </entry>
 </feed>
