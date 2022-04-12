@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-12T12:58:45.354Z</updated>
+    <updated>2022-04-12T13:27:37.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[发现独立网络，每次都是一篇博文]]></title>
+        <id>https://news.ycombinator.com/item?id=31002171</id>
+        <link href="https://news.ycombinator.com/item?id=31002171"/>
+        <updated>2022-04-12T13:11:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Discover the IndieWeb, one blog post at a time]]></summary>
+        <author>
+            <name>splitbrain</name>
+            <uri>https://news.ycombinator.com/user?id=splitbrain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monocle - 双向的代码生成库]]></title>
         <id>https://news.ycombinator.com/item?id=31001922</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>namiheike</name>
             <uri>https://news.ycombinator.com/user?id=namiheike</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[报道航天工业的每日通讯]]></title>
-        <id>https://news.ycombinator.com/item?id=30765506</id>
-        <link href="https://news.ycombinator.com/item?id=30765506"/>
-        <updated>2022-03-22T13:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A daily newsletter covering the space industry]]></summary>
-        <author>
-            <name>aml183</name>
-            <uri>https://news.ycombinator.com/user?id=aml183</uri>
         </author>
     </entry>
 </feed>
