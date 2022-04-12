@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-12T18:58:34.078Z</updated>
+    <updated>2022-04-12T20:15:15.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在虚拟和增强现实中实现代码的可视化]]></title>
+        <id>https://news.ycombinator.com/item?id=31007552</id>
+        <link href="https://news.ycombinator.com/item?id=31007552"/>
+        <updated>2022-04-12T19:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Visualizing Code in Virtual and Augmented Reality]]></summary>
+        <author>
+            <name>tikimcfee</name>
+            <uri>https://news.ycombinator.com/user?id=tikimcfee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在你的Mac上安心阅读]]></title>
         <id>https://news.ycombinator.com/item?id=31006770</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>neriymus</name>
             <uri>https://news.ycombinator.com/user?id=neriymus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据搜索引擎，使用你的内部数据]]></title>
-        <id>https://news.ycombinator.com/item?id=30771050</id>
-        <link href="https://news.ycombinator.com/item?id=30771050"/>
-        <updated>2022-03-22T20:25:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Search engine for data, using your internal data]]></summary>
-        <author>
-            <name>liquorice</name>
-            <uri>https://news.ycombinator.com/user?id=liquorice</uri>
         </author>
     </entry>
 </feed>
