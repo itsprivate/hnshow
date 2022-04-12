@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-12T15:15:02.057Z</updated>
+    <updated>2022-04-12T15:39:18.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[树干检测和处理预先存在的林特问题]]></title>
+        <id>https://news.ycombinator.com/item?id=31003974</id>
+        <link href="https://news.ycombinator.com/item?id=31003974"/>
+        <updated>2022-04-12T15:27:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Trunk detects and handles preexisting linter issues]]></summary>
+        <author>
+            <name>dapirian</name>
+            <uri>https://news.ycombinator.com/user?id=dapirian</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Factor.fyi - 使用SQL将金融、加密货币和经济数据集可视化]]></title>
+        <id>https://news.ycombinator.com/item?id=31003785</id>
+        <link href="https://news.ycombinator.com/item?id=31003785"/>
+        <updated>2022-04-12T15:14:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Factor.fyi – use SQL to visualize financial, crypto and econ datasets]]></summary>
+        <author>
+            <name>sdcoffey</name>
+            <uri>https://news.ycombinator.com/user?id=sdcoffey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Addy - 一个用于快速保存内容的网络扩展程序]]></title>
         <id>https://news.ycombinator.com/item?id=31003608</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>jlynch630</name>
             <uri>https://news.ycombinator.com/user?id=jlynch630</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AutoFloApp - 低代码测试自动化WebApp]]></title>
-        <id>https://news.ycombinator.com/item?id=30768667</id>
-        <link href="https://news.ycombinator.com/item?id=30768667"/>
-        <updated>2022-03-22T17:05:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: AutoFloApp – LowCode TestAutomation WebApp]]></summary>
-        <author>
-            <name>JyotiSharma</name>
-            <uri>https://news.ycombinator.com/user?id=JyotiSharma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaibex，一个省油的Uniswap克隆体]]></title>
-        <id>https://news.ycombinator.com/item?id=30768145</id>
-        <link href="https://news.ycombinator.com/item?id=30768145"/>
-        <updated>2022-03-22T16:28:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Kaibex, a Uniswap clone that saves on gas]]></summary>
-        <author>
-            <name>max__d</name>
-            <uri>https://news.ycombinator.com/user?id=max__d</uri>
         </author>
     </entry>
 </feed>
