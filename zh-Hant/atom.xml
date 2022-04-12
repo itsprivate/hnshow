@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-12T00:39:04.371Z</updated>
+    <updated>2022-04-12T02:31:52.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ToolJet v1.10 Retool的開源替代品]]></title>
+        <id>https://news.ycombinator.com/item?id=30997514</id>
+        <link href="https://news.ycombinator.com/item?id=30997514"/>
+        <updated>2022-04-12T01:32:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ToolJet v1.10 The open-source alternative to Retool]]></summary>
+        <author>
+            <name>kriztle</name>
+            <uri>https://news.ycombinator.com/user?id=kriztle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[按公司名稱、職位或地點過濾遠程設計工作]]></title>
         <id>https://news.ycombinator.com/item?id=30996826</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>wishawa</name>
             <uri>https://news.ycombinator.com/user?id=wishawa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benson.py將URL變成mp3--掌控你的閱讀積壓!]]></title>
-        <id>https://news.ycombinator.com/item?id=30760606</id>
-        <link href="https://news.ycombinator.com/item?id=30760606"/>
-        <updated>2022-03-21T22:32:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Benson.py turns URLs into mp3s – take charge of your reading backlog!]]></summary>
-        <author>
-            <name>timoteostewart</name>
-            <uri>https://news.ycombinator.com/user?id=timoteostewart</uri>
         </author>
     </entry>
 </feed>
