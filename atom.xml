@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-12T14:52:21.754Z</updated>
+    <updated>2022-04-12T15:15:02.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Addy - 一个用于快速保存内容的网络扩展程序]]></title>
+        <id>https://news.ycombinator.com/item?id=31003608</id>
+        <link href="https://news.ycombinator.com/item?id=31003608"/>
+        <updated>2022-04-12T14:58:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Addy – A web extension for saving content quickly]]></summary>
+        <author>
+            <name>hkben</name>
+            <uri>https://news.ycombinator.com/user?id=hkben</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GRGate，根据提交状态自动发布GitHub/Gitlab的版本草案]]></title>
+        <id>https://news.ycombinator.com/item?id=31003499</id>
+        <link href="https://news.ycombinator.com/item?id=31003499"/>
+        <updated>2022-04-12T14:50:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GRGate, autopublish GitHub/Gitlab draft releases based on commit status]]></summary>
+        <author>
+            <name>etrem</name>
+            <uri>https://news.ycombinator.com/user?id=etrem</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个在PHP中建立稳固的分散式应用程序的库]]></title>
         <id>https://news.ycombinator.com/item?id=31003389</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>max__d</name>
             <uri>https://news.ycombinator.com/user?id=max__d</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的书让概率变得如此简单，以至于狐猴也能学会它]]></title>
-        <id>https://news.ycombinator.com/item?id=30768109</id>
-        <link href="https://news.ycombinator.com/item?id=30768109"/>
-        <updated>2022-03-22T16:26:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: My Book Making Probability So Easy That a Lemur Could Learn It]]></summary>
-        <author>
-            <name>wwwpatdelcom</name>
-            <uri>https://news.ycombinator.com/user?id=wwwpatdelcom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machinegame - 一个多人的浏览器游戏，你可以通过编码来玩。]]></title>
-        <id>https://news.ycombinator.com/item?id=30767490</id>
-        <link href="https://news.ycombinator.com/item?id=30767490"/>
-        <updated>2022-03-22T15:44:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Machinegame – a multiplayer browser game where you code to play]]></summary>
-        <author>
-            <name>acavailhez</name>
-            <uri>https://news.ycombinator.com/user?id=acavailhez</uri>
         </author>
     </entry>
 </feed>

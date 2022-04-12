@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 12 Apr 2022 14:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 15:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Addy - 一個用於快速保存內容的網絡擴展程序]]></title>
+            <link>https://news.ycombinator.com/item?id=31003608</link>
+            <guid>https://news.ycombinator.com/item?id=31003608</guid>
+            <pubDate>Tue, 12 Apr 2022 14:58:55 GMT</pubDate>
+            <description><![CDATA[Show HN: Addy – A web extension for saving content quickly]]></description>
+        </item>
+        <item>
+            <title><![CDATA[GRGate，根據提交狀態自動發佈GitHub/Gitlab的版本草案]]></title>
+            <link>https://news.ycombinator.com/item?id=31003499</link>
+            <guid>https://news.ycombinator.com/item?id=31003499</guid>
+            <pubDate>Tue, 12 Apr 2022 14:50:39 GMT</pubDate>
+            <description><![CDATA[Show HN: GRGate, autopublish GitHub/Gitlab draft releases based on commit status]]></description>
+        </item>
         <item>
             <title><![CDATA[一個在PHP中建立穩固的分散式應用程序的庫]]></title>
             <link>https://news.ycombinator.com/item?id=31003389</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30768145</guid>
             <pubDate>Tue, 22 Mar 2022 16:28:56 GMT</pubDate>
             <description><![CDATA[Show HN: Kaibex, a Uniswap clone that saves on gas]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我的書讓概率變得如此簡單，以至於狐猴也能學會它]]></title>
-            <link>https://news.ycombinator.com/item?id=30768109</link>
-            <guid>https://news.ycombinator.com/item?id=30768109</guid>
-            <pubDate>Tue, 22 Mar 2022 16:26:32 GMT</pubDate>
-            <description><![CDATA[Show HN: My Book Making Probability So Easy That a Lemur Could Learn It]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Machinegame - 一個多人的瀏覽器遊戲，你可以通過編碼來玩。]]></title>
-            <link>https://news.ycombinator.com/item?id=30767490</link>
-            <guid>https://news.ycombinator.com/item?id=30767490</guid>
-            <pubDate>Tue, 22 Mar 2022 15:44:45 GMT</pubDate>
-            <description><![CDATA[Show HN: Machinegame – a multiplayer browser game where you code to play]]></description>
         </item>
     </channel>
 </rss>
