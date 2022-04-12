@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-12T22:13:49.392Z</updated>
+    <updated>2022-04-12T22:34:08.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[连接Segment并生成产品使用报告]]></title>
+        <id>https://news.ycombinator.com/item?id=31008994</id>
+        <link href="https://news.ycombinator.com/item?id=31008994"/>
+        <updated>2022-04-12T22:27:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Connect Segment and generate product usage reports]]></summary>
+        <author>
+            <name>0xferruccio</name>
+            <uri>https://news.ycombinator.com/user?id=0xferruccio</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[让电子邮件渠道变得可靠。让合法的电子邮件落入收件箱]]></title>
         <id>https://news.ycombinator.com/item?id=31008811</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cdykema</name>
             <uri>https://news.ycombinator.com/user?id=cdykema</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scrt - 一个命令行的秘密管理器]]></title>
-        <id>https://news.ycombinator.com/item?id=30772214</id>
-        <link href="https://news.ycombinator.com/item?id=30772214"/>
-        <updated>2022-03-22T22:08:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Scrt – A secret manager for the command line]]></summary>
-        <author>
-            <name>loderunnr</name>
-            <uri>https://news.ycombinator.com/user?id=loderunnr</uri>
         </author>
     </entry>
 </feed>
