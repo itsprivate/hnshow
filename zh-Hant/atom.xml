@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-12T16:52:19.425Z</updated>
+    <updated>2022-04-12T17:08:23.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[弗林特--文本的Pinterest]]></title>
+        <id>https://news.ycombinator.com/item?id=31005207</id>
+        <link href="https://news.ycombinator.com/item?id=31005207"/>
+        <updated>2022-04-12T16:53:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Flint – Pinterest for Text]]></summary>
+        <author>
+            <name>leedj</name>
+            <uri>https://news.ycombinator.com/user?id=leedj</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modus，一種用於構建Docker/OCI容器鏡像的Datalog方言]]></title>
+        <id>https://news.ycombinator.com/item?id=31005156</id>
+        <link href="https://news.ycombinator.com/item?id=31005156"/>
+        <updated>2022-04-12T16:51:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Modus, a Datalog dialect for building Docker/OCI container images]]></summary>
+        <author>
+            <name>mechtaev</name>
+            <uri>https://news.ycombinator.com/user?id=mechtaev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在你的開發文檔中添加可運行的實時代碼]]></title>
         <id>https://news.ycombinator.com/item?id=31004973</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>more_corn</name>
             <uri>https://news.ycombinator.com/user?id=more_corn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collow - 軟件團隊的任務管理]]></title>
-        <id>https://news.ycombinator.com/item?id=30769721</id>
-        <link href="https://news.ycombinator.com/item?id=30769721"/>
-        <updated>2022-03-22T18:35:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Collow – Task Management for Software Teams]]></summary>
-        <author>
-            <name>zhaozheid</name>
-            <uri>https://news.ycombinator.com/user?id=zhaozheid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appwrite - 開源和自我託管的Firebase替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30769044</id>
-        <link href="https://news.ycombinator.com/item?id=30769044"/>
-        <updated>2022-03-22T17:37:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Appwrite – Open-Source and Self Hosted Firebase Alternative]]></summary>
-        <author>
-            <name>christyjacob4</name>
-            <uri>https://news.ycombinator.com/user?id=christyjacob4</uri>
         </author>
     </entry>
 </feed>
