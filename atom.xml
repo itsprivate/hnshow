@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-12T18:40:23.709Z</updated>
+    <updated>2022-04-12T18:58:34.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在你的Mac上安心阅读]]></title>
+        <id>https://news.ycombinator.com/item?id=31006770</id>
+        <link href="https://news.ycombinator.com/item?id=31006770"/>
+        <updated>2022-04-12T18:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Read in Peace on Your Mac]]></summary>
+        <author>
+            <name>navidsafa</name>
+            <uri>https://news.ycombinator.com/user?id=navidsafa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Razer x Lambda Tensorbook]]></title>
+        <id>https://news.ycombinator.com/item?id=31006716</id>
+        <link href="https://news.ycombinator.com/item?id=31006716"/>
+        <updated>2022-04-12T18:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Razer x Lambda Tensorbook]]></summary>
+        <author>
+            <name>vimeh</name>
+            <uri>https://news.ycombinator.com/user?id=vimeh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界上最糟糕的时间/日期选择器]]></title>
         <id>https://news.ycombinator.com/item?id=31006543</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>liquorice</name>
             <uri>https://news.ycombinator.com/user?id=liquorice</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从命令行创建Matplotlib的可视化内容]]></title>
-        <id>https://news.ycombinator.com/item?id=30770388</id>
-        <link href="https://news.ycombinator.com/item?id=30770388"/>
-        <updated>2022-03-22T19:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Create Matplotlib visualizations from the command-line]]></summary>
-        <author>
-            <name>dmoura</name>
-            <uri>https://news.ycombinator.com/user?id=dmoura</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用恶意软件模拟包测试你的防御能力]]></title>
-        <id>https://news.ycombinator.com/item?id=30770270</id>
-        <link href="https://news.ycombinator.com/item?id=30770270"/>
-        <updated>2022-03-22T19:19:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Test Your Defenses with a Malware-Simulator Package]]></summary>
-        <author>
-            <name>varunsharma07</name>
-            <uri>https://news.ycombinator.com/user?id=varunsharma07</uri>
         </author>
     </entry>
 </feed>

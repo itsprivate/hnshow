@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 12 Apr 2022 18:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 18:58:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在你的Mac上安心閱讀]]></title>
+            <link>https://news.ycombinator.com/item?id=31006770</link>
+            <guid>https://news.ycombinator.com/item?id=31006770</guid>
+            <pubDate>Tue, 12 Apr 2022 18:47:00 GMT</pubDate>
+            <description><![CDATA[Show HN: Read in Peace on Your Mac]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Razer x Lambda Tensorbook]]></title>
+            <link>https://news.ycombinator.com/item?id=31006716</link>
+            <guid>https://news.ycombinator.com/item?id=31006716</guid>
+            <pubDate>Tue, 12 Apr 2022 18:42:18 GMT</pubDate>
+            <description><![CDATA[Show HN: Razer x Lambda Tensorbook]]></description>
+        </item>
         <item>
             <title><![CDATA[世界上最糟糕的時間/日期選擇器]]></title>
             <link>https://news.ycombinator.com/item?id=31006543</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30771050</guid>
             <pubDate>Tue, 22 Mar 2022 20:25:18 GMT</pubDate>
             <description><![CDATA[Show HN: Search engine for data, using your internal data]]></description>
-        </item>
-        <item>
-            <title><![CDATA[從命令行創建Matplotlib的可視化內容]]></title>
-            <link>https://news.ycombinator.com/item?id=30770388</link>
-            <guid>https://news.ycombinator.com/item?id=30770388</guid>
-            <pubDate>Tue, 22 Mar 2022 19:30:01 GMT</pubDate>
-            <description><![CDATA[Show HN: Create Matplotlib visualizations from the command-line]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用惡意軟件模擬包測試你的防禦能力]]></title>
-            <link>https://news.ycombinator.com/item?id=30770270</link>
-            <guid>https://news.ycombinator.com/item?id=30770270</guid>
-            <pubDate>Tue, 22 Mar 2022 19:19:13 GMT</pubDate>
-            <description><![CDATA[Show HN: Test Your Defenses with a Malware-Simulator Package]]></description>
         </item>
     </channel>
 </rss>
