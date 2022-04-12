@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-12T09:33:18.346Z</updated>
+    <updated>2022-04-12T10:55:07.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[四维矿工，一个四维的沙盒游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=31000813</id>
+        <link href="https://news.ycombinator.com/item?id=31000813"/>
+        <updated>2022-04-12T10:38:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: 4D Miner, A 4-dimensional Sandbox Game]]></summary>
+        <author>
+            <name>mashpoe</name>
+            <uri>https://news.ycombinator.com/user?id=mashpoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我买了一个短域名。我应该用它做什么？]]></title>
         <id>https://news.ycombinator.com/item?id=31000355</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sultee</name>
             <uri>https://news.ycombinator.com/user?id=sultee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为基于库存的初创企业提供小额融资]]></title>
-        <id>https://news.ycombinator.com/item?id=30763969</id>
-        <link href="https://news.ycombinator.com/item?id=30763969"/>
-        <updated>2022-03-22T08:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Micro-financing for inventory based startups]]></summary>
-        <author>
-            <name>krmmalik</name>
-            <uri>https://news.ycombinator.com/user?id=krmmalik</uri>
         </author>
     </entry>
 </feed>
