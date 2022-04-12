@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-12T02:31:52.805Z</updated>
+    <updated>2022-04-12T05:52:05.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[pyinfra v2]]></title>
+        <id>https://news.ycombinator.com/item?id=30999030</id>
+        <link href="https://news.ycombinator.com/item?id=30999030"/>
+        <updated>2022-04-12T05:43:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: pyinfra v2]]></summary>
+        <author>
+            <name>Fizzadar</name>
+            <uri>https://news.ycombinator.com/user?id=Fizzadar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ToolJet v1.10 Retool的开源替代品]]></title>
         <id>https://news.ycombinator.com/item?id=30997514</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bighoss97</name>
             <uri>https://news.ycombinator.com/user?id=bighoss97</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用类编写React钩子]]></title>
-        <id>https://news.ycombinator.com/item?id=30760696</id>
-        <link href="https://news.ycombinator.com/item?id=30760696"/>
-        <updated>2022-03-21T22:41:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Write React Hooks with Classes]]></summary>
-        <author>
-            <name>wishawa</name>
-            <uri>https://news.ycombinator.com/user?id=wishawa</uri>
         </author>
     </entry>
 </feed>
