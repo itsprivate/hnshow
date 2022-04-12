@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-12T15:56:37.547Z</updated>
+    <updated>2022-04-12T16:52:19.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在你的开发文档中添加可运行的实时代码]]></title>
+        <id>https://news.ycombinator.com/item?id=31004973</id>
+        <link href="https://news.ycombinator.com/item?id=31004973"/>
+        <updated>2022-04-12T16:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Add live runnable code to your dev docs]]></summary>
+        <author>
+            <name>mlejva</name>
+            <uri>https://news.ycombinator.com/user?id=mlejva</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[代码片段格式化 - 用于电子邮件和文档]]></title>
+        <id>https://news.ycombinator.com/item?id=31004906</id>
+        <link href="https://news.ycombinator.com/item?id=31004906"/>
+        <updated>2022-04-12T16:33:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Code Snippet Formatter – for email and docs]]></summary>
+        <author>
+            <name>georgewr</name>
+            <uri>https://news.ycombinator.com/user?id=georgewr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[旧的火焰，新的火焰]]></title>
         <id>https://news.ycombinator.com/item?id=31004141</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>christyjacob4</name>
             <uri>https://news.ycombinator.com/user?id=christyjacob4</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[突出链接的扩展，付费墙或臃肿的网站]]></title>
-        <id>https://news.ycombinator.com/item?id=30769039</id>
-        <link href="https://news.ycombinator.com/item?id=30769039"/>
-        <updated>2022-03-22T17:36:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Extension that underlines links paywalled or bloated sites]]></summary>
-        <author>
-            <name>kartayyar</name>
-            <uri>https://news.ycombinator.com/user?id=kartayyar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[按主题搜索数百份经过审查的新闻简报]]></title>
-        <id>https://news.ycombinator.com/item?id=30768812</id>
-        <link href="https://news.ycombinator.com/item?id=30768812"/>
-        <updated>2022-03-22T17:17:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Search hundreds of vetted newsletters by topic]]></summary>
-        <author>
-            <name>quinto_quarto</name>
-            <uri>https://news.ycombinator.com/user?id=quinto_quarto</uri>
         </author>
     </entry>
 </feed>
