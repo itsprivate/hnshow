@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-13T22:42:05.289Z</updated>
+    <updated>2022-04-13T23:32:22.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[地理探索(GeoQuest)]]></title>
+        <id>https://news.ycombinator.com/item?id=31021460</id>
+        <link href="https://news.ycombinator.com/item?id=31021460"/>
+        <updated>2022-04-13T23:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GeoQuest]]></summary>
+        <author>
+            <name>POiNTx</name>
+            <uri>https://news.ycombinator.com/user?id=POiNTx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在GitHub.dev上用零設置運行Python代碼]]></title>
         <id>https://news.ycombinator.com/item?id=31021156</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dawiddr</name>
             <uri>https://news.ycombinator.com/user?id=dawiddr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome瀏覽器擴展，無需切換上下文即可快速記筆記]]></title>
-        <id>https://news.ycombinator.com/item?id=30779923</id>
-        <link href="https://news.ycombinator.com/item?id=30779923"/>
-        <updated>2022-03-23T16:07:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Chrome extension to take quick notes without having context switch]]></summary>
-        <author>
-            <name>deady213</name>
-            <uri>https://news.ycombinator.com/user?id=deady213</uri>
         </author>
     </entry>
 </feed>

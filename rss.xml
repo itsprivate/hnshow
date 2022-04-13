@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 13 Apr 2022 22:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 23:32:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[地理探索(GeoQuest)]]></title>
+            <link>https://news.ycombinator.com/item?id=31021460</link>
+            <guid>https://news.ycombinator.com/item?id=31021460</guid>
+            <pubDate>Wed, 13 Apr 2022 23:11:00 GMT</pubDate>
+            <description><![CDATA[Show HN: GeoQuest]]></description>
+        </item>
         <item>
             <title><![CDATA[在GitHub.dev上用零设置运行Python代码]]></title>
             <link>https://news.ycombinator.com/item?id=31021156</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30779999</guid>
             <pubDate>Wed, 23 Mar 2022 16:13:33 GMT</pubDate>
             <description><![CDATA[Show HN: Flexishift – time tracking for the age of flexible work [iOS]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Chrome浏览器扩展，无需切换上下文即可快速记笔记]]></title>
-            <link>https://news.ycombinator.com/item?id=30779923</link>
-            <guid>https://news.ycombinator.com/item?id=30779923</guid>
-            <pubDate>Wed, 23 Mar 2022 16:07:06 GMT</pubDate>
-            <description><![CDATA[Show HN: Chrome extension to take quick notes without having context switch]]></description>
         </item>
     </channel>
 </rss>
