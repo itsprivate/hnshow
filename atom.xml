@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-13T20:46:02.048Z</updated>
+    <updated>2022-04-13T21:32:10.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HeftySearch - 同时搜索任何数量的网站]]></title>
+        <id>https://news.ycombinator.com/item?id=31020507</id>
+        <link href="https://news.ycombinator.com/item?id=31020507"/>
+        <updated>2022-04-13T21:26:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: HeftySearch – Search any number of sites at the same time]]></summary>
+        <author>
+            <name>jarrenae</name>
+            <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一个工具，用于统一调整图像的大小/裁剪/框架，以便于记录。]]></title>
         <id>https://news.ycombinator.com/item?id=31019941</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pickleMeTimbers</name>
             <uri>https://news.ycombinator.com/user?id=pickleMeTimbers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forge - 一个Django SaaS框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30779395</id>
-        <link href="https://news.ycombinator.com/item?id=30779395"/>
-        <updated>2022-03-23T15:22:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Forge – A Django SaaS Framework]]></summary>
-        <author>
-            <name>davegaeddert</name>
-            <uri>https://news.ycombinator.com/user?id=davegaeddert</uri>
         </author>
     </entry>
 </feed>
