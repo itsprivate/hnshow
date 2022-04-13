@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-13T12:19:54.360Z</updated>
+    <updated>2022-04-13T12:57:34.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GitNoter - 为你的GitHub仓库存储笔记]]></title>
+        <id>https://news.ycombinator.com/item?id=31013945</id>
+        <link href="https://news.ycombinator.com/item?id=31013945"/>
+        <updated>2022-04-13T12:44:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GitNoter – Store notes to your GitHub repository]]></summary>
+        <author>
+            <name>vivekweb2013</name>
+            <uri>https://news.ycombinator.com/user?id=vivekweb2013</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI安全网，减少销售中的人为错误]]></title>
         <id>https://news.ycombinator.com/item?id=31013625</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pplonski86</name>
             <uri>https://news.ycombinator.com/user?id=pplonski86</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WakeMeOps - 一个 Debian/Ubuntu repo，用于流行的 DevOps 工具和更多。]]></title>
-        <id>https://news.ycombinator.com/item?id=30777680</id>
-        <link href="https://news.ycombinator.com/item?id=30777680"/>
-        <updated>2022-03-23T12:21:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WakeMeOps – A Debian/Ubuntu repo for popular DevOps tools and more]]></summary>
-        <author>
-            <name>fyhertz</name>
-            <uri>https://news.ycombinator.com/user?id=fyhertz</uri>
         </author>
     </entry>
 </feed>
