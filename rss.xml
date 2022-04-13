@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 13 Apr 2022 15:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 15:38:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一个国家猜谜游戏]]></title>
+            <link>https://news.ycombinator.com/item?id=31015663</link>
+            <guid>https://news.ycombinator.com/item?id=31015663</guid>
+            <pubDate>Wed, 13 Apr 2022 15:15:57 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a country guessing game]]></description>
+        </item>
         <item>
             <title><![CDATA[用于Ruby的程序合成]]></title>
             <link>https://news.ycombinator.com/item?id=31015363</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30778616</guid>
             <pubDate>Wed, 23 Mar 2022 14:09:44 GMT</pubDate>
             <description><![CDATA[Show HN: Qvault's Computer Science Curriculum]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大数据游戏--帮助8位数据工程师获取数据]]></title>
-            <link>https://news.ycombinator.com/item?id=30778605</link>
-            <guid>https://news.ycombinator.com/item?id=30778605</guid>
-            <pubDate>Wed, 23 Mar 2022 14:08:24 GMT</pubDate>
-            <description><![CDATA[Show HN: The Big Data Game – Help the 8-bit data engineer to get the data]]></description>
         </item>
     </channel>
 </rss>
