@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-13T12:57:34.403Z</updated>
+    <updated>2022-04-13T13:27:46.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Stacktape - 以類似Heroku的體驗充分發揮AWS的力量]]></title>
+        <id>https://news.ycombinator.com/item?id=31014247</id>
+        <link href="https://news.ycombinator.com/item?id=31014247"/>
+        <updated>2022-04-13T13:16:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Stacktape – Full power of AWS with Heroku-like experience]]></summary>
+        <author>
+            <name>matus_congrady</name>
+            <uri>https://news.ycombinator.com/user?id=matus_congrady</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[發現VevestaX--在Excel中跟蹤ML特徵、實驗和EDA]]></title>
+        <id>https://news.ycombinator.com/item?id=31014034</id>
+        <link href="https://news.ycombinator.com/item?id=31014034"/>
+        <updated>2022-04-13T12:54:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Discover VevestaX – Track ML features, experiments and EDA in an Excel]]></summary>
+        <author>
+            <name>priyankanath</name>
+            <uri>https://news.ycombinator.com/user?id=priyankanath</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitNoter - 為你的GitHub倉庫存儲筆記]]></title>
         <id>https://news.ycombinator.com/item?id=31013945</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>m88m</name>
             <uri>https://news.ycombinator.com/user?id=m88m</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React導入CSV/XLS流程。開源的Flatfile替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30778003</id>
-        <link href="https://news.ycombinator.com/item?id=30778003"/>
-        <updated>2022-03-23T13:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: React import CSV/XLS flow. Open source alternative to Flatfile]]></summary>
-        <author>
-            <name>masiulis</name>
-            <uri>https://news.ycombinator.com/user?id=masiulis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloxs - 在你的筆記本上以卡片形式顯示數據]]></title>
-        <id>https://news.ycombinator.com/item?id=30777687</id>
-        <link href="https://news.ycombinator.com/item?id=30777687"/>
-        <updated>2022-03-23T12:21:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bloxs – display data as cards in your notebook]]></summary>
-        <author>
-            <name>pplonski86</name>
-            <uri>https://news.ycombinator.com/user?id=pplonski86</uri>
         </author>
     </entry>
 </feed>
