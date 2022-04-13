@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 13 Apr 2022 07:32:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 10:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用Firebase SDK連接到PostgreSQL]]></title>
+            <link>https://news.ycombinator.com/item?id=31012822</link>
+            <guid>https://news.ycombinator.com/item?id=31012822</guid>
+            <pubDate>Wed, 13 Apr 2022 09:55:07 GMT</pubDate>
+            <description><![CDATA[Show HN: Connect to PostgreSQL Using Firebase SDK]]></description>
+        </item>
         <item>
             <title><![CDATA[使你的內容或下一個項目貨幣化的聯盟計劃]]></title>
             <link>https://news.ycombinator.com/item?id=31012042</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30776726</guid>
             <pubDate>Wed, 23 Mar 2022 09:45:26 GMT</pubDate>
             <description><![CDATA[Show HN: A free Chrome plug-in for better meetings]]></description>
-        </item>
-        <item>
-            <title><![CDATA[1MB的水平已經提高了]]></title>
-            <link>https://news.ycombinator.com/item?id=30776672</link>
-            <guid>https://news.ycombinator.com/item?id=30776672</guid>
-            <pubDate>Wed, 23 Mar 2022 09:38:17 GMT</pubDate>
-            <description><![CDATA[Show HN: 1MB Has Leveled Up]]></description>
         </item>
     </channel>
 </rss>

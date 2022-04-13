@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-13T07:32:27.890Z</updated>
+    <updated>2022-04-13T10:15:04.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Firebase SDK連接到PostgreSQL]]></title>
+        <id>https://news.ycombinator.com/item?id=31012822</id>
+        <link href="https://news.ycombinator.com/item?id=31012822"/>
+        <updated>2022-04-13T09:55:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Connect to PostgreSQL Using Firebase SDK]]></summary>
+        <author>
+            <name>mjay23</name>
+            <uri>https://news.ycombinator.com/user?id=mjay23</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使你的內容或下一個項目貨幣化的聯盟計劃]]></title>
         <id>https://news.ycombinator.com/item?id=31012042</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>anavizcarrondo</name>
             <uri>https://news.ycombinator.com/user?id=anavizcarrondo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1MB的水平已經提高了]]></title>
-        <id>https://news.ycombinator.com/item?id=30776672</id>
-        <link href="https://news.ycombinator.com/item?id=30776672"/>
-        <updated>2022-03-23T09:38:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: 1MB Has Leveled Up]]></summary>
-        <author>
-            <name>1mbsite</name>
-            <uri>https://news.ycombinator.com/user?id=1mbsite</uri>
         </author>
     </entry>
 </feed>
