@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-13T11:31:04.027Z</updated>
+    <updated>2022-04-13T12:19:54.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AI安全網，減少銷售中的人為錯誤]]></title>
+        <id>https://news.ycombinator.com/item?id=31013625</id>
+        <link href="https://news.ycombinator.com/item?id=31013625"/>
+        <updated>2022-04-13T12:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: AI Safety-net to reduce human errors in sales]]></summary>
+        <author>
+            <name>vivganes</name>
+            <uri>https://news.ycombinator.com/user?id=vivganes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為HN添加 "Less "按鈕的用戶腳本]]></title>
+        <id>https://news.ycombinator.com/item?id=31013603</id>
+        <link href="https://news.ycombinator.com/item?id=31013603"/>
+        <updated>2022-04-13T11:59:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Userscript to add “Less” button to HN]]></summary>
+        <author>
+            <name>itsHel</name>
+            <uri>https://news.ycombinator.com/user?id=itsHel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個網站來搜索你附近的半條麵包]]></title>
         <id>https://news.ycombinator.com/item?id=31013326</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>fyhertz</name>
             <uri>https://news.ycombinator.com/user?id=fyhertz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蒸汽聊天。聊天室的一切蒸汽波]]></title>
-        <id>https://news.ycombinator.com/item?id=30777308</id>
-        <link href="https://news.ycombinator.com/item?id=30777308"/>
-        <updated>2022-03-23T11:24:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Vapor Chat. Chat Room for Everything Vaporwave]]></summary>
-        <author>
-            <name>ptskd</name>
-            <uri>https://news.ycombinator.com/user?id=ptskd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CreatorKit - 第一個專門為電子商務設計的視頻創作工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30777086</id>
-        <link href="https://news.ycombinator.com/item?id=30777086"/>
-        <updated>2022-03-23T10:50:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CreatorKit – First video creator purpose-built for ecommerce]]></summary>
-        <author>
-            <name>knatanzon</name>
-            <uri>https://news.ycombinator.com/user?id=knatanzon</uri>
         </author>
     </entry>
 </feed>
