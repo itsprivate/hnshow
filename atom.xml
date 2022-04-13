@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-13T16:17:46.056Z</updated>
+    <updated>2022-04-13T16:52:24.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开放源码数据库，一个开源替代品的众包数据库]]></title>
+        <id>https://news.ycombinator.com/item?id=31016919</id>
+        <link href="https://news.ycombinator.com/item?id=31016919"/>
+        <updated>2022-04-13T16:45:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: OSS Database, A crowdsourced database of Open Source alternatives]]></summary>
+        <author>
+            <name>pvsukale3</name>
+            <uri>https://news.ycombinator.com/user?id=pvsukale3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我正在为供应商和企业建立一个电子拍卖平台]]></title>
         <id>https://news.ycombinator.com/item?id=31016375</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>uiii</name>
             <uri>https://news.ycombinator.com/user?id=uiii</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代码日历 - 追踪编码竞赛的开源应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30778691</id>
-        <link href="https://news.ycombinator.com/item?id=30778691"/>
-        <updated>2022-03-23T14:17:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Code Calendar – open-source app to keep track of coding contests]]></summary>
-        <author>
-            <name>stackbuffer</name>
-            <uri>https://news.ycombinator.com/user?id=stackbuffer</uri>
         </author>
     </entry>
 </feed>

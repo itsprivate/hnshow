@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 13 Apr 2022 16:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 16:52:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[开放源码数据库，一个开源替代品的众包数据库]]></title>
+            <link>https://news.ycombinator.com/item?id=31016919</link>
+            <guid>https://news.ycombinator.com/item?id=31016919</guid>
+            <pubDate>Wed, 13 Apr 2022 16:45:13 GMT</pubDate>
+            <description><![CDATA[Show HN: OSS Database, A crowdsourced database of Open Source alternatives]]></description>
+        </item>
         <item>
             <title><![CDATA[我正在为供应商和企业建立一个电子拍卖平台]]></title>
             <link>https://news.ycombinator.com/item?id=31016375</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30778837</guid>
             <pubDate>Wed, 23 Mar 2022 14:33:31 GMT</pubDate>
             <description><![CDATA[Show HN: Datetime.tools – convenient date and time conversions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[代码日历 - 追踪编码竞赛的开源应用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30778691</link>
-            <guid>https://news.ycombinator.com/item?id=30778691</guid>
-            <pubDate>Wed, 23 Mar 2022 14:17:47 GMT</pubDate>
-            <description><![CDATA[Show HN: Code Calendar – open-source app to keep track of coding contests]]></description>
         </item>
     </channel>
 </rss>
