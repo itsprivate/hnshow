@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-13T17:51:57.935Z</updated>
+    <updated>2022-04-13T18:16:32.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一個投注池的市場]]></title>
+        <id>https://news.ycombinator.com/item?id=31018108</id>
+        <link href="https://news.ycombinator.com/item?id=31018108"/>
+        <updated>2022-04-13T18:10:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a marketplace for betting pools]]></summary>
+        <author>
+            <name>Gaita</name>
+            <uri>https://news.ycombinator.com/user?id=Gaita</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Rust語言編寫的Dattorro混響VST插件，使用egui和glicol_synth。]]></title>
         <id>https://news.ycombinator.com/item?id=31017633</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hasancanyasar</name>
             <uri>https://news.ycombinator.com/user?id=hasancanyasar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube上1/3的親克里姆林宮宣傳品來自兩個烏克蘭人]]></title>
-        <id>https://news.ycombinator.com/item?id=30779023</id>
-        <link href="https://news.ycombinator.com/item?id=30779023"/>
-        <updated>2022-03-23T14:49:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: 1/3 of all pro-Kremlin propaganda on YouTube comes from two Ukrainians]]></summary>
-        <author>
-            <name>asats</name>
-            <uri>https://news.ycombinator.com/user?id=asats</uri>
         </author>
     </entry>
 </feed>
