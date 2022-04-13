@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-13T13:27:46.174Z</updated>
+    <updated>2022-04-13T14:33:21.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[建立游戏化社区，以前所未有的方式参与其中]]></title>
+        <id>https://news.ycombinator.com/item?id=31014965</id>
+        <link href="https://news.ycombinator.com/item?id=31014965"/>
+        <updated>2022-04-13T14:21:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build gamified communities and engage like never before]]></summary>
+        <author>
+            <name>jazz_prado</name>
+            <uri>https://news.ycombinator.com/user?id=jazz_prado</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stacktape - 以类似Heroku的体验充分发挥AWS的力量]]></title>
         <id>https://news.ycombinator.com/item?id=31014247</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>shutty</name>
             <uri>https://news.ycombinator.com/user?id=shutty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[敏捷破冰问题生成器]]></title>
-        <id>https://news.ycombinator.com/item?id=30778077</id>
-        <link href="https://news.ycombinator.com/item?id=30778077"/>
-        <updated>2022-03-23T13:09:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Agile Icebreaker Questions Generator]]></summary>
-        <author>
-            <name>m88m</name>
-            <uri>https://news.ycombinator.com/user?id=m88m</uri>
         </author>
     </entry>
 </feed>
