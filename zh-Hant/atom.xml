@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-13T04:43:35.144Z</updated>
+    <updated>2022-04-13T07:32:27.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使你的內容或下一個項目貨幣化的聯盟計劃]]></title>
+        <id>https://news.ycombinator.com/item?id=31012042</id>
+        <link href="https://news.ycombinator.com/item?id=31012042"/>
+        <updated>2022-04-13T07:26:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Affiliate programs to monetize your content or next project]]></summary>
+        <author>
+            <name>twankrui</name>
+            <uri>https://news.ycombinator.com/user?id=twankrui</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從OpenAPI生成類型安全的React鉤子]]></title>
+        <id>https://news.ycombinator.com/item?id=31011988</id>
+        <link href="https://news.ycombinator.com/item?id=31011988"/>
+        <updated>2022-04-13T07:14:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Generating Type-Safe React Hooks from OpenAPI]]></summary>
+        <author>
+            <name>tejaskumar_</name>
+            <uri>https://news.ycombinator.com/user?id=tejaskumar_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個檢查你的博客元數據的工具]]></title>
         <id>https://news.ycombinator.com/item?id=31011235</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>1mbsite</name>
             <uri>https://news.ycombinator.com/user?id=1mbsite</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免費的人臉識別應用可以在視頻和照片中找到人]]></title>
-        <id>https://news.ycombinator.com/item?id=30776353</id>
-        <link href="https://news.ycombinator.com/item?id=30776353"/>
-        <updated>2022-03-23T08:42:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Free face recognition app to find people in videos an pics]]></summary>
-        <author>
-            <name>elastetic</name>
-            <uri>https://news.ycombinator.com/user?id=elastetic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從iOS向Windows/Linux發送文本的最便捷方式]]></title>
-        <id>https://news.ycombinator.com/item?id=30776331</id>
-        <link href="https://news.ycombinator.com/item?id=30776331"/>
-        <updated>2022-03-23T08:37:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The most convenient way to send a text from iOS to Windows/Linux]]></summary>
-        <author>
-            <name>DaniDaniel5005</name>
-            <uri>https://news.ycombinator.com/user?id=DaniDaniel5005</uri>
         </author>
     </entry>
 </feed>
