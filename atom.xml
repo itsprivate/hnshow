@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-13T18:16:31.948Z</updated>
+    <updated>2022-04-13T19:28:57.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[科技人员合作的社会影响社区]]></title>
+        <id>https://news.ycombinator.com/item?id=31019028</id>
+        <link href="https://news.ycombinator.com/item?id=31019028"/>
+        <updated>2022-04-13T19:22:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A community for techies collaborating on social impact]]></summary>
+        <author>
+            <name>Rayan_NM</name>
+            <uri>https://news.ycombinator.com/user?id=Rayan_NM</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一个投注池的市场]]></title>
         <id>https://news.ycombinator.com/item?id=31018108</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sebrindom</name>
             <uri>https://news.ycombinator.com/user?id=sebrindom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vagon Streams - 无代码应用流平台]]></title>
-        <id>https://news.ycombinator.com/item?id=30779097</id>
-        <link href="https://news.ycombinator.com/item?id=30779097"/>
-        <updated>2022-03-23T14:56:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Vagon Streams – No-code app streaming platform]]></summary>
-        <author>
-            <name>hasancanyasar</name>
-            <uri>https://news.ycombinator.com/user?id=hasancanyasar</uri>
         </author>
     </entry>
 </feed>
