@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-13T21:32:10.308Z</updated>
+    <updated>2022-04-13T22:42:05.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在GitHub.dev上用零設置運行Python代碼]]></title>
+        <id>https://news.ycombinator.com/item?id=31021156</id>
+        <link href="https://news.ycombinator.com/item?id=31021156"/>
+        <updated>2022-04-13T22:35:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Run Python code on GitHub.dev with zero-setup]]></summary>
+        <author>
+            <name>seahyinghang8</name>
+            <uri>https://news.ycombinator.com/user?id=seahyinghang8</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HeftySearch - 同時搜索任何數量的網站]]></title>
         <id>https://news.ycombinator.com/item?id=31020507</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>deady213</name>
             <uri>https://news.ycombinator.com/user?id=deady213</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在你的終端呈現Jupyter筆記本]]></title>
-        <id>https://news.ycombinator.com/item?id=30779919</id>
-        <link href="https://news.ycombinator.com/item?id=30779919"/>
-        <updated>2022-03-23T16:06:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Render Jupyter Notebooks in your terminal]]></summary>
-        <author>
-            <name>pickleMeTimbers</name>
-            <uri>https://news.ycombinator.com/user?id=pickleMeTimbers</uri>
         </author>
     </entry>
 </feed>

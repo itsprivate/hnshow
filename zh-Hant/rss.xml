@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 13 Apr 2022 21:32:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 22:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在GitHub.dev上用零設置運行Python代碼]]></title>
+            <link>https://news.ycombinator.com/item?id=31021156</link>
+            <guid>https://news.ycombinator.com/item?id=31021156</guid>
+            <pubDate>Wed, 13 Apr 2022 22:35:35 GMT</pubDate>
+            <description><![CDATA[Show HN: Run Python code on GitHub.dev with zero-setup]]></description>
+        </item>
         <item>
             <title><![CDATA[HeftySearch - 同時搜索任何數量的網站]]></title>
             <link>https://news.ycombinator.com/item?id=31020507</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30779923</guid>
             <pubDate>Wed, 23 Mar 2022 16:07:06 GMT</pubDate>
             <description><![CDATA[Show HN: Chrome extension to take quick notes without having context switch]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在你的終端呈現Jupyter筆記本]]></title>
-            <link>https://news.ycombinator.com/item?id=30779919</link>
-            <guid>https://news.ycombinator.com/item?id=30779919</guid>
-            <pubDate>Wed, 23 Mar 2022 16:06:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Render Jupyter Notebooks in your terminal]]></description>
         </item>
     </channel>
 </rss>
