@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 13 Apr 2022 03:30:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 04:43:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个检查你的博客元数据的工具]]></title>
+            <link>https://news.ycombinator.com/item?id=31011235</link>
+            <guid>https://news.ycombinator.com/item?id=31011235</guid>
+            <pubDate>Wed, 13 Apr 2022 04:39:40 GMT</pubDate>
+            <description><![CDATA[Show HN: A tool to check the meta data of your blog]]></description>
+        </item>
         <item>
             <title><![CDATA[俄罗斯网站的认证过期情况分析报告]]></title>
             <link>https://news.ycombinator.com/item?id=31010814</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30776331</guid>
             <pubDate>Wed, 23 Mar 2022 08:37:59 GMT</pubDate>
             <description><![CDATA[Show HN: The most convenient way to send a text from iOS to Windows/Linux]]></description>
-        </item>
-        <item>
-            <title><![CDATA[前端最佳实践模板和课程]]></title>
-            <link>https://news.ycombinator.com/item?id=30775823</link>
-            <guid>https://news.ycombinator.com/item?id=30775823</guid>
-            <pubDate>Wed, 23 Mar 2022 07:09:10 GMT</pubDate>
-            <description><![CDATA[Show HN: Front-End Best Practices Boilerplate and Course]]></description>
         </item>
     </channel>
 </rss>

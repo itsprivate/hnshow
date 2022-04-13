@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-13T03:30:31.054Z</updated>
+    <updated>2022-04-13T04:43:35.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個檢查你的博客元數據的工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31011235</id>
+        <link href="https://news.ycombinator.com/item?id=31011235"/>
+        <updated>2022-04-13T04:39:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A tool to check the meta data of your blog]]></summary>
+        <author>
+            <name>derekzhouzhen</name>
+            <uri>https://news.ycombinator.com/user?id=derekzhouzhen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[俄羅斯網站的認證過期情況分析報告]]></title>
         <id>https://news.ycombinator.com/item?id=31010814</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>DaniDaniel5005</name>
             <uri>https://news.ycombinator.com/user?id=DaniDaniel5005</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端最佳實踐模板和課程]]></title>
-        <id>https://news.ycombinator.com/item?id=30775823</id>
-        <link href="https://news.ycombinator.com/item?id=30775823"/>
-        <updated>2022-03-23T07:09:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Front-End Best Practices Boilerplate and Course]]></summary>
-        <author>
-            <name>pmouchan</name>
-            <uri>https://news.ycombinator.com/user?id=pmouchan</uri>
         </author>
     </entry>
 </feed>
