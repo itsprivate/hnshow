@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-13T15:38:27.757Z</updated>
+    <updated>2022-04-13T16:17:46.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我正在为供应商和企业建立一个电子拍卖平台]]></title>
+        <id>https://news.ycombinator.com/item?id=31016375</id>
+        <link href="https://news.ycombinator.com/item?id=31016375"/>
+        <updated>2022-04-13T16:07:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I’m building an eAuctioning platform for suppliers and businesses]]></summary>
+        <author>
+            <name>talhof8</name>
+            <uri>https://news.ycombinator.com/user?id=talhof8</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个国家猜谜游戏]]></title>
         <id>https://news.ycombinator.com/item?id=31015663</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>stackbuffer</name>
             <uri>https://news.ycombinator.com/user?id=stackbuffer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qvault的计算机科学课程]]></title>
-        <id>https://news.ycombinator.com/item?id=30778616</id>
-        <link href="https://news.ycombinator.com/item?id=30778616"/>
-        <updated>2022-03-23T14:09:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Qvault's Computer Science Curriculum]]></summary>
-        <author>
-            <name>wagslane</name>
-            <uri>https://news.ycombinator.com/user?id=wagslane</uri>
         </author>
     </entry>
 </feed>
