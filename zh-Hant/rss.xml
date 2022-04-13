@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 13 Apr 2022 19:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 20:46:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我建立了一個工具，用於統一調整圖像的大小/裁剪/框架，以便於記錄。]]></title>
+            <link>https://news.ycombinator.com/item?id=31019941</link>
+            <guid>https://news.ycombinator.com/item?id=31019941</guid>
+            <pubDate>Wed, 13 Apr 2022 20:38:43 GMT</pubDate>
+            <description><![CDATA[Show HN: I built a tool to resize/crop/frame images uniformly for documentation]]></description>
+        </item>
         <item>
             <title><![CDATA[科技人員合作的社會影響社區]]></title>
             <link>https://news.ycombinator.com/item?id=31019028</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30779395</guid>
             <pubDate>Wed, 23 Mar 2022 15:22:18 GMT</pubDate>
             <description><![CDATA[Show HN: Forge – A Django SaaS Framework]]></description>
-        </item>
-        <item>
-            <title><![CDATA[將你的產品目錄轉化為支付鏈接]]></title>
-            <link>https://news.ycombinator.com/item?id=30779292</link>
-            <guid>https://news.ycombinator.com/item?id=30779292</guid>
-            <pubDate>Wed, 23 Mar 2022 15:13:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Transform your product catalog to payment links]]></description>
         </item>
     </channel>
 </rss>
