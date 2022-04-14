@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 14 Apr 2022 21:52:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 22:53:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[String.is - 一個開源的、保護隱私的在線字符串工具包]]></title>
+            <link>https://news.ycombinator.com/item?id=31034398</link>
+            <guid>https://news.ycombinator.com/item?id=31034398</guid>
+            <pubDate>Thu, 14 Apr 2022 22:48:34 GMT</pubDate>
+            <description><![CDATA[Show HN: String.is – an open-source, privacy-friendly online string toolkit]]></description>
+        </item>
         <item>
             <title><![CDATA[Parsers VC - 實時跟蹤風險投資數據的供應商]]></title>
             <link>https://news.ycombinator.com/item?id=31027611</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30787698</guid>
             <pubDate>Thu, 24 Mar 2022 09:27:23 GMT</pubDate>
             <description><![CDATA[Show HN: Rediscover the Internet]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我使用HTML5和Ionic製作了一個手機遊戲]]></title>
-            <link>https://news.ycombinator.com/item?id=30787372</link>
-            <guid>https://news.ycombinator.com/item?id=30787372</guid>
-            <pubDate>Thu, 24 Mar 2022 08:20:28 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a mobile game using HTML5 with Ionic]]></description>
         </item>
     </channel>
 </rss>
