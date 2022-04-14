@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-13T23:32:22.654Z</updated>
+    <updated>2022-04-14T02:34:28.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的简单猜测和学习游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=31012246</id>
+        <link href="https://news.ycombinator.com/item?id=31012246"/>
+        <updated>2022-04-13T08:07:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My simple guessing and learning game]]></summary>
+        <author>
+            <name>physh17</name>
+            <uri>https://news.ycombinator.com/user?id=physh17</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地理探索(GeoQuest)]]></title>
         <id>https://news.ycombinator.com/item?id=31021460</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sssslyz</name>
             <uri>https://news.ycombinator.com/user?id=sssslyz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flexishift--灵活工作时代的时间追踪 [iOS] 。]]></title>
-        <id>https://news.ycombinator.com/item?id=30779999</id>
-        <link href="https://news.ycombinator.com/item?id=30779999"/>
-        <updated>2022-03-23T16:13:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Flexishift – time tracking for the age of flexible work [iOS]]]></summary>
-        <author>
-            <name>dawiddr</name>
-            <uri>https://news.ycombinator.com/user?id=dawiddr</uri>
         </author>
     </entry>
 </feed>
