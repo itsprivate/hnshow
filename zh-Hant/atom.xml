@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-14T15:38:33.015Z</updated>
+    <updated>2022-04-14T17:22:08.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用rust和flutter構建移動應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=31029846</id>
+        <link href="https://news.ycombinator.com/item?id=31029846"/>
+        <updated>2022-04-14T17:06:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Building mobile apps in rust and flutter]]></summary>
+        <author>
+            <name>dvc94ch</name>
+            <uri>https://news.ycombinator.com/user?id=dvc94ch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HacheQL，一個輕量級的庫，使GraphQL請求可被HTTP緩存。]]></title>
+        <id>https://news.ycombinator.com/item?id=31029841</id>
+        <link href="https://news.ycombinator.com/item?id=31029841"/>
+        <updated>2022-04-14T17:06:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: HacheQL, a lightweight library to make GraphQL requests HTTP-cacheable]]></summary>
+        <author>
+            <name>jtorsella</name>
+            <uri>https://news.ycombinator.com/user?id=jtorsella</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[根據你的輸入獲得一個獨特的櫻花基地]]></title>
         <id>https://news.ycombinator.com/item?id=31028004</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>kazinator</name>
             <uri>https://news.ycombinator.com/user?id=kazinator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生成彩色QR碼的網絡應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30784595</id>
-        <link href="https://news.ycombinator.com/item?id=30784595"/>
-        <updated>2022-03-23T22:51:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Webapp to generate colorful QR codes]]></summary>
-        <author>
-            <name>kith</name>
-            <uri>https://news.ycombinator.com/user?id=kith</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[錄製一段視頻併發送給未來的自己。你會說什麼？]]></title>
-        <id>https://news.ycombinator.com/item?id=30784527</id>
-        <link href="https://news.ycombinator.com/item?id=30784527"/>
-        <updated>2022-03-23T22:44:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Record a video and send to your future self. What would you say?]]></summary>
-        <author>
-            <name>damechen</name>
-            <uri>https://news.ycombinator.com/user?id=damechen</uri>
         </author>
     </entry>
 </feed>
