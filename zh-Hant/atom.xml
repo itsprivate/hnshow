@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-14T09:13:32.334Z</updated>
+    <updated>2022-04-14T09:33:10.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[編寫量子奧拉的編程語言]]></title>
+        <id>https://news.ycombinator.com/item?id=31024777</id>
+        <link href="https://news.ycombinator.com/item?id=31024777"/>
+        <updated>2022-04-14T09:25:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Programming Language for Writing Quantum Oracles]]></summary>
+        <author>
+            <name>atamb</name>
+            <uri>https://news.ycombinator.com/user?id=atamb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[簡單的VPN]]></title>
         <id>https://news.ycombinator.com/item?id=31024638</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>farnerup</name>
             <uri>https://news.ycombinator.com/user?id=farnerup</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[羅馬尼亞新聞網站，有700多個消息來源，熟悉的設計]]></title>
-        <id>https://news.ycombinator.com/item?id=30781288</id>
-        <link href="https://news.ycombinator.com/item?id=30781288"/>
-        <updated>2022-03-23T17:55:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Romanian news website with over 700 sources, familiar design]]></summary>
-        <author>
-            <name>sturza</name>
-            <uri>https://news.ycombinator.com/user?id=sturza</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 14 Apr 2022 09:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 09:33:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[编写量子奥拉的编程语言]]></title>
+            <link>https://news.ycombinator.com/item?id=31024777</link>
+            <guid>https://news.ycombinator.com/item?id=31024777</guid>
+            <pubDate>Thu, 14 Apr 2022 09:25:04 GMT</pubDate>
+            <description><![CDATA[Show HN: A Programming Language for Writing Quantum Oracles]]></description>
+        </item>
         <item>
             <title><![CDATA[简单的VPN]]></title>
             <link>https://news.ycombinator.com/item?id=31024638</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30781517</guid>
             <pubDate>Wed, 23 Mar 2022 18:15:05 GMT</pubDate>
             <description><![CDATA[Show HN: Fri – distraction-free writing in the terminal]]></description>
-        </item>
-        <item>
-            <title><![CDATA[罗马尼亚新闻网站，有700多个消息来源，熟悉的设计]]></title>
-            <link>https://news.ycombinator.com/item?id=30781288</link>
-            <guid>https://news.ycombinator.com/item?id=30781288</guid>
-            <pubDate>Wed, 23 Mar 2022 17:55:07 GMT</pubDate>
-            <description><![CDATA[Show HN: Romanian news website with over 700 sources, familiar design]]></description>
         </item>
     </channel>
 </rss>
