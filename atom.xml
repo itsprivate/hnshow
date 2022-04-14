@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-14T20:14:40.150Z</updated>
+    <updated>2022-04-14T21:52:19.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Parsers VC - 实时跟踪风险投资数据的供应商]]></title>
+        <id>https://news.ycombinator.com/item?id=31027611</id>
+        <link href="https://news.ycombinator.com/item?id=31027611"/>
+        <updated>2022-04-14T14:37:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Parsers VC – Real-time tracking Venture Capital data provider]]></summary>
+        <author>
+            <name>loeona</name>
+            <uri>https://news.ycombinator.com/user?id=loeona</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[注重可读性的Hacker News阅读器]]></title>
         <id>https://news.ycombinator.com/item?id=31032601</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>RupertWiser</name>
             <uri>https://news.ycombinator.com/user?id=RupertWiser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[随机访问噪声 - 基于计数器的伪随机数发生器]]></title>
-        <id>https://news.ycombinator.com/item?id=30787317</id>
-        <link href="https://news.ycombinator.com/item?id=30787317"/>
-        <updated>2022-03-24T08:08:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Random access noise – counter-based pseudo-random number generator]]></summary>
-        <author>
-            <name>joelkp</name>
-            <uri>https://news.ycombinator.com/user?id=joelkp</uri>
         </author>
     </entry>
 </feed>
