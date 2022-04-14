@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-14T10:39:06.379Z</updated>
+    <updated>2022-04-14T13:50:36.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PineNote上的Windows XP]]></title>
+        <id>https://news.ycombinator.com/item?id=31026779</id>
+        <link href="https://news.ycombinator.com/item?id=31026779"/>
+        <updated>2022-04-14T13:36:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Windows XP on PineNote]]></summary>
+        <author>
+            <name>jcuenod</name>
+            <uri>https://news.ycombinator.com/user?id=jcuenod</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用SQL實時查詢實時的加密貨幣交易]]></title>
+        <id>https://news.ycombinator.com/item?id=31026732</id>
+        <link href="https://news.ycombinator.com/item?id=31026732"/>
+        <updated>2022-04-14T13:32:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Query live crypto trades with SQL in real-time]]></summary>
+        <author>
+            <name>bluestreak</name>
+            <uri>https://news.ycombinator.com/user?id=bluestreak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的朋友正在製作一個工具，供DnD玩家快速可視化場景。]]></title>
         <id>https://news.ycombinator.com/item?id=31025055</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>kavehkhorram</name>
             <uri>https://news.ycombinator.com/user?id=kavehkhorram</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用方法鏈在Swift中編寫腳本]]></title>
-        <id>https://news.ycombinator.com/item?id=30782545</id>
-        <link href="https://news.ycombinator.com/item?id=30782545"/>
-        <updated>2022-03-23T19:53:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Scripting in Swift with method chaining]]></summary>
-        <author>
-            <name>ksuto</name>
-            <uri>https://news.ycombinator.com/user?id=ksuto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mogenius - 開發人員在雲中運行任何應用程序的最簡單方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30782501</id>
-        <link href="https://news.ycombinator.com/item?id=30782501"/>
-        <updated>2022-03-23T19:48:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mogenius – The easiest way for devs to run any application in the cloud]]></summary>
-        <author>
-            <name>JanLepsky</name>
-            <uri>https://news.ycombinator.com/user?id=JanLepsky</uri>
         </author>
     </entry>
 </feed>
