@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 14 Apr 2022 17:53:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 18:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[快速，基於深度學習的模塊在CPU上進行推理的編譯]]></title>
+            <link>https://news.ycombinator.com/item?id=31030867</link>
+            <guid>https://news.ycombinator.com/item?id=31030867</guid>
+            <pubDate>Thu, 14 Apr 2022 18:08:19 GMT</pubDate>
+            <description><![CDATA[Show HN: Fast,Compiled deep-learning based modules for inferencing on CPUs]]></description>
+        </item>
         <item>
             <title><![CDATA[由GPT-3驅動的占卜板可以移動你的鼠標]]></title>
             <link>https://news.ycombinator.com/item?id=31030425</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30787290</guid>
             <pubDate>Thu, 24 Mar 2022 08:04:34 GMT</pubDate>
             <description><![CDATA[Show HN: Did you know that your brain reads faster than your eye?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[自動暫停（帶恢復和媒體控制）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30785712</link>
-            <guid>https://news.ycombinator.com/item?id=30785712</guid>
-            <pubDate>Thu, 24 Mar 2022 02:02:28 GMT</pubDate>
-            <description><![CDATA[Show HN: AutoPause (With Resume and Media Controls)]]></description>
         </item>
     </channel>
 </rss>
