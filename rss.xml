@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 14 Apr 2022 14:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 14:52:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[神武网站]]></title>
+            <link>https://news.ycombinator.com/item?id=31027608</link>
+            <guid>https://news.ycombinator.com/item?id=31027608</guid>
+            <pubDate>Thu, 14 Apr 2022 14:37:15 GMT</pubDate>
+            <description><![CDATA[Show HN: Shinobi Website]]></description>
+        </item>
         <item>
             <title><![CDATA[防篡改的分类账网络应用（OSS）]]></title>
             <link>https://news.ycombinator.com/item?id=31027258</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30783677</guid>
             <pubDate>Wed, 23 Mar 2022 21:30:36 GMT</pubDate>
             <description><![CDATA[Show HN: Collection Of Billion Dollar Startup Pitch Decks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Reactirator，一个用于创建和管理React.js应用程序的桌面应用程序。]]></title>
-            <link>https://news.ycombinator.com/item?id=30783462</link>
-            <guid>https://news.ycombinator.com/item?id=30783462</guid>
-            <pubDate>Wed, 23 Mar 2022 21:13:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Reactirator, a desktop app to create and manage React.js applications]]></description>
         </item>
     </channel>
 </rss>
