@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-14T09:33:10.119Z</updated>
+    <updated>2022-04-14T10:39:06.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的朋友正在製作一個工具，供DnD玩家快速可視化場景。]]></title>
+        <id>https://news.ycombinator.com/item?id=31025055</id>
+        <link href="https://news.ycombinator.com/item?id=31025055"/>
+        <updated>2022-04-14T10:23:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My mate is making a tool for DnD players to quickly visualise scenarios]]></summary>
+        <author>
+            <name>gigamick</name>
+            <uri>https://news.ycombinator.com/user?id=gigamick</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[編寫量子奧拉的編程語言]]></title>
         <id>https://news.ycombinator.com/item?id=31024777</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>JanLepsky</name>
             <uri>https://news.ycombinator.com/user?id=JanLepsky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[週五--在航站樓內心無旁騖地寫作]]></title>
-        <id>https://news.ycombinator.com/item?id=30781517</id>
-        <link href="https://news.ycombinator.com/item?id=30781517"/>
-        <updated>2022-03-23T18:15:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fri – distraction-free writing in the terminal]]></summary>
-        <author>
-            <name>farnerup</name>
-            <uri>https://news.ycombinator.com/user?id=farnerup</uri>
         </author>
     </entry>
 </feed>
