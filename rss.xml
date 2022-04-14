@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 14 Apr 2022 13:56:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 14:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[防篡改的分类账网络应用（OSS）]]></title>
+            <link>https://news.ycombinator.com/item?id=31027258</link>
+            <guid>https://news.ycombinator.com/item?id=31027258</guid>
+            <pubDate>Thu, 14 Apr 2022 14:09:25 GMT</pubDate>
+            <description><![CDATA[Show HN: Tamper-Proof Ledger Web App (OSS)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一个不会把访客送走的链接缩短器]]></title>
+            <link>https://news.ycombinator.com/item?id=31027220</link>
+            <guid>https://news.ycombinator.com/item?id=31027220</guid>
+            <pubDate>Thu, 14 Apr 2022 14:06:42 GMT</pubDate>
+            <description><![CDATA[Show HN: A link shortener that doesn't send visitors away]]></description>
+        </item>
         <item>
             <title><![CDATA[练习机器学习的不同方式]]></title>
             <link>https://news.ycombinator.com/item?id=31026931</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30783462</guid>
             <pubDate>Wed, 23 Mar 2022 21:13:09 GMT</pubDate>
             <description><![CDATA[Show HN: Reactirator, a desktop app to create and manage React.js applications]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我的带无线LED的NFC名片，由PCB制成]]></title>
-            <link>https://news.ycombinator.com/item?id=30783033</link>
-            <guid>https://news.ycombinator.com/item?id=30783033</guid>
-            <pubDate>Wed, 23 Mar 2022 20:38:20 GMT</pubDate>
-            <description><![CDATA[Show HN: My NFC business card with wireless LEDs made of a PCB]]></description>
-        </item>
-        <item>
-            <title><![CDATA[测试库展示台]]></title>
-            <link>https://news.ycombinator.com/item?id=30782932</link>
-            <guid>https://news.ycombinator.com/item?id=30782932</guid>
-            <pubDate>Wed, 23 Mar 2022 20:29:46 GMT</pubDate>
-            <description><![CDATA[Show HN: Testing Library Visualizer]]></description>
         </item>
     </channel>
 </rss>

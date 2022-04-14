@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-14T13:56:56.980Z</updated>
+    <updated>2022-04-14T14:12:27.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[防篡改的分類賬網絡應用（OSS）]]></title>
+        <id>https://news.ycombinator.com/item?id=31027258</id>
+        <link href="https://news.ycombinator.com/item?id=31027258"/>
+        <updated>2022-04-14T14:09:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tamper-Proof Ledger Web App (OSS)]]></summary>
+        <author>
+            <name>teamconcords</name>
+            <uri>https://news.ycombinator.com/user?id=teamconcords</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個不會把訪客送走的鏈接縮短器]]></title>
+        <id>https://news.ycombinator.com/item?id=31027220</id>
+        <link href="https://news.ycombinator.com/item?id=31027220"/>
+        <updated>2022-04-14T14:06:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A link shortener that doesn't send visitors away]]></summary>
+        <author>
+            <name>arafatgazi</name>
+            <uri>https://news.ycombinator.com/user?id=arafatgazi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[練習機器學習的不同方式]]></title>
         <id>https://news.ycombinator.com/item?id=31026931</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Leopold_</name>
             <uri>https://news.ycombinator.com/user?id=Leopold_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的帶無線LED的NFC名片，由PCB製成]]></title>
-        <id>https://news.ycombinator.com/item?id=30783033</id>
-        <link href="https://news.ycombinator.com/item?id=30783033"/>
-        <updated>2022-03-23T20:38:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: My NFC business card with wireless LEDs made of a PCB]]></summary>
-        <author>
-            <name>testmasterflex</name>
-            <uri>https://news.ycombinator.com/user?id=testmasterflex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[測試庫展示臺]]></title>
-        <id>https://news.ycombinator.com/item?id=30782932</id>
-        <link href="https://news.ycombinator.com/item?id=30782932"/>
-        <updated>2022-03-23T20:29:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Testing Library Visualizer]]></summary>
-        <author>
-            <name>mdbenjam</name>
-            <uri>https://news.ycombinator.com/user?id=mdbenjam</uri>
         </author>
     </entry>
 </feed>
