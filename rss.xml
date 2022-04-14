@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 14 Apr 2022 13:50:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 13:56:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[练习机器学习的不同方式]]></title>
+            <link>https://news.ycombinator.com/item?id=31026931</link>
+            <guid>https://news.ycombinator.com/item?id=31026931</guid>
+            <pubDate>Thu, 14 Apr 2022 13:47:47 GMT</pubDate>
+            <description><![CDATA[Show HN: A different way to practice machine learning]]></description>
+        </item>
         <item>
             <title><![CDATA[PineNote上的Windows XP]]></title>
             <link>https://news.ycombinator.com/item?id=31026779</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30782932</guid>
             <pubDate>Wed, 23 Mar 2022 20:29:46 GMT</pubDate>
             <description><![CDATA[Show HN: Testing Library Visualizer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[直接交付给Slack的AWS节省费用]]></title>
-            <link>https://news.ycombinator.com/item?id=30782846</link>
-            <guid>https://news.ycombinator.com/item?id=30782846</guid>
-            <pubDate>Wed, 23 Mar 2022 20:21:55 GMT</pubDate>
-            <description><![CDATA[Show HN: AWS Savings Delivered Directly to Slack]]></description>
         </item>
     </channel>
 </rss>
