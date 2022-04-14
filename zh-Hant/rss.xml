@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 14 Apr 2022 02:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 04:38:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Urara - SvelteKit博客啟動器，兼容IndieWeb]]></title>
+            <link>https://news.ycombinator.com/item?id=31023362</link>
+            <guid>https://news.ycombinator.com/item?id=31023362</guid>
+            <pubDate>Thu, 14 Apr 2022 04:19:15 GMT</pubDate>
+            <description><![CDATA[Show HN: Urara – SvelteKit Blog Starter, IndieWeb-Compatible]]></description>
+        </item>
         <item>
             <title><![CDATA[我的簡單猜測和學習遊戲]]></title>
             <link>https://news.ycombinator.com/item?id=31012246</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30781126</guid>
             <pubDate>Wed, 23 Mar 2022 17:40:08 GMT</pubDate>
             <description><![CDATA[Show HN: Write sci-fi, promote science, and win prizes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[限制器，一個低代碼的解決方案，用於設置和執行訂閱限制]]></title>
-            <link>https://news.ycombinator.com/item?id=30780645</link>
-            <guid>https://news.ycombinator.com/item?id=30780645</guid>
-            <pubDate>Wed, 23 Mar 2022 17:03:23 GMT</pubDate>
-            <description><![CDATA[Show HN: Limiter, a low-code solution to set up and enforce subscription limits]]></description>
         </item>
     </channel>
 </rss>
