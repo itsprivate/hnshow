@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-14T08:18:24.596Z</updated>
+    <updated>2022-04-14T09:13:32.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[简单的VPN]]></title>
+        <id>https://news.ycombinator.com/item?id=31024638</id>
+        <link href="https://news.ycombinator.com/item?id=31024638"/>
+        <updated>2022-04-14T08:53:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Simple VPN]]></summary>
+        <author>
+            <name>hcalium</name>
+            <uri>https://news.ycombinator.com/user?id=hcalium</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个机器人可以在谷歌日历中添加你要见面的人的LinkedIn。]]></title>
         <id>https://news.ycombinator.com/item?id=31024354</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sturza</name>
             <uri>https://news.ycombinator.com/user?id=sturza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[预先考虑棋 - 一个有N轮不完整信息的国际象棋变体]]></title>
-        <id>https://news.ycombinator.com/item?id=30781173</id>
-        <link href="https://news.ycombinator.com/item?id=30781173"/>
-        <updated>2022-03-23T17:44:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Think Ahead Chess – A chess variant with n turns of incomplete info]]></summary>
-        <author>
-            <name>miej</name>
-            <uri>https://news.ycombinator.com/user?id=miej</uri>
         </author>
     </entry>
 </feed>
