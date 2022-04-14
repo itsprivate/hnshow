@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-14T18:16:15.616Z</updated>
+    <updated>2022-04-14T20:14:40.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[注重可读性的Hacker News阅读器]]></title>
+        <id>https://news.ycombinator.com/item?id=31032601</id>
+        <link href="https://news.ycombinator.com/item?id=31032601"/>
+        <updated>2022-04-14T20:09:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hacker News reader focused on readability]]></summary>
+        <author>
+            <name>hsblhsn</name>
+            <uri>https://news.ycombinator.com/user?id=hsblhsn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[快速，基于深度学习的模块在CPU上进行推理的编译]]></title>
         <id>https://news.ycombinator.com/item?id=31030867</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>joelkp</name>
             <uri>https://news.ycombinator.com/user?id=joelkp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你知道吗，你的大脑比你的眼睛读得更快？]]></title>
-        <id>https://news.ycombinator.com/item?id=30787290</id>
-        <link href="https://news.ycombinator.com/item?id=30787290"/>
-        <updated>2022-03-24T08:04:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Did you know that your brain reads faster than your eye?]]></summary>
-        <author>
-            <name>renato_casutt</name>
-            <uri>https://news.ycombinator.com/user?id=renato_casutt</uri>
         </author>
     </entry>
 </feed>
