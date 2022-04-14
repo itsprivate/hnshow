@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-14T04:38:45.792Z</updated>
+    <updated>2022-04-14T08:18:24.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個機器人可以在谷歌日曆中添加你要見面的人的LinkedIn。]]></title>
+        <id>https://news.ycombinator.com/item?id=31024354</id>
+        <link href="https://news.ycombinator.com/item?id=31024354"/>
+        <updated>2022-04-14T07:51:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A bot to add the LinkedIn of people you're meeting in Google Calendar]]></summary>
+        <author>
+            <name>item21153</name>
+            <uri>https://news.ycombinator.com/user?id=item21153</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Urara - SvelteKit博客啟動器，兼容IndieWeb]]></title>
         <id>https://news.ycombinator.com/item?id=31023362</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>miej</name>
             <uri>https://news.ycombinator.com/user?id=miej</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[撰寫科幻小說，宣傳科學，贏取獎品]]></title>
-        <id>https://news.ycombinator.com/item?id=30781126</id>
-        <link href="https://news.ycombinator.com/item?id=30781126"/>
-        <updated>2022-03-23T17:40:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Write sci-fi, promote science, and win prizes]]></summary>
-        <author>
-            <name>keiferski</name>
-            <uri>https://news.ycombinator.com/user?id=keiferski</uri>
         </author>
     </entry>
 </feed>
