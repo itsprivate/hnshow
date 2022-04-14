@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 14 Apr 2022 15:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 15:38:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[根據你的輸入獲得一個獨特的櫻花基地]]></title>
+            <link>https://news.ycombinator.com/item?id=31028004</link>
+            <guid>https://news.ycombinator.com/item?id=31028004</guid>
+            <pubDate>Thu, 14 Apr 2022 15:13:12 GMT</pubDate>
+            <description><![CDATA[Show HN: Get a unique sakura base on your input]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我建立了一個工具，在短時間內為你的機器學習模型提供服務]]></title>
+            <link>https://news.ycombinator.com/item?id=31027623</link>
+            <guid>https://news.ycombinator.com/item?id=31027623</guid>
+            <pubDate>Thu, 14 Apr 2022 14:38:50 GMT</pubDate>
+            <description><![CDATA[Show HN: I build a tool to serve your machine learning models in no time]]></description>
+        </item>
         <item>
             <title><![CDATA[不同信息類型的團隊協作]]></title>
             <link>https://news.ycombinator.com/item?id=31027942</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30784527</guid>
             <pubDate>Wed, 23 Mar 2022 22:44:01 GMT</pubDate>
             <description><![CDATA[Show HN: Record a video and send to your future self. What would you say?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[來自字母的貝塞爾曲線發生器]]></title>
-            <link>https://news.ycombinator.com/item?id=30784488</link>
-            <guid>https://news.ycombinator.com/item?id=30784488</guid>
-            <pubDate>Wed, 23 Mar 2022 22:40:26 GMT</pubDate>
-            <description><![CDATA[Show HN: Bezier Curve Generator from Letters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[譜系評論論文競賽，獎金高達1萬美元]]></title>
-            <link>https://news.ycombinator.com/item?id=30784283</link>
-            <guid>https://news.ycombinator.com/item?id=30784283</guid>
-            <pubDate>Wed, 23 Mar 2022 22:20:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Spectra review paper competition, prizes up to $10k]]></description>
         </item>
     </channel>
 </rss>

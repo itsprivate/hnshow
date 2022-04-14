@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-14T15:15:07.216Z</updated>
+    <updated>2022-04-14T15:38:32.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[根据你的输入获得一个独特的樱花基地]]></title>
+        <id>https://news.ycombinator.com/item?id=31028004</id>
+        <link href="https://news.ycombinator.com/item?id=31028004"/>
+        <updated>2022-04-14T15:13:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Get a unique sakura base on your input]]></summary>
+        <author>
+            <name>kelvinko</name>
+            <uri>https://news.ycombinator.com/user?id=kelvinko</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我建立了一个工具，在短时间内为你的机器学习模型提供服务]]></title>
+        <id>https://news.ycombinator.com/item?id=31027623</id>
+        <link href="https://news.ycombinator.com/item?id=31027623"/>
+        <updated>2022-04-14T14:38:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I build a tool to serve your machine learning models in no time]]></summary>
+        <author>
+            <name>wjiuhe</name>
+            <uri>https://news.ycombinator.com/user?id=wjiuhe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不同信息类型的团队协作]]></title>
         <id>https://news.ycombinator.com/item?id=31027942</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>damechen</name>
             <uri>https://news.ycombinator.com/user?id=damechen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[来自字母的贝塞尔曲线发生器]]></title>
-        <id>https://news.ycombinator.com/item?id=30784488</id>
-        <link href="https://news.ycombinator.com/item?id=30784488"/>
-        <updated>2022-03-23T22:40:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bezier Curve Generator from Letters]]></summary>
-        <author>
-            <name>enzo_m</name>
-            <uri>https://news.ycombinator.com/user?id=enzo_m</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谱系评论论文竞赛，奖金高达1万美元]]></title>
-        <id>https://news.ycombinator.com/item?id=30784283</id>
-        <link href="https://news.ycombinator.com/item?id=30784283"/>
-        <updated>2022-03-23T22:20:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Spectra review paper competition, prizes up to $10k]]></summary>
-        <author>
-            <name>kait_m_cunn</name>
-            <uri>https://news.ycombinator.com/user?id=kait_m_cunn</uri>
         </author>
     </entry>
 </feed>
