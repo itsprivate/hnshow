@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-15T16:54:12.892Z</updated>
+    <updated>2022-04-15T17:39:55.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个像i3wm那样完全用C#编写的平铺式窗口管理器]]></title>
+        <id>https://news.ycombinator.com/item?id=31043063</id>
+        <link href="https://news.ycombinator.com/item?id=31043063"/>
+        <updated>2022-04-15T17:34:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A tiling window manager like i3wm written entirely in C#]]></summary>
+        <author>
+            <name>toothbrush6</name>
+            <uri>https://news.ycombinator.com/user?id=toothbrush6</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我为初学者写了一本关于用PHP开发Web应用程序的短书]]></title>
         <id>https://news.ycombinator.com/item?id=31042384</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>onmyway133</name>
             <uri>https://news.ycombinator.com/user?id=onmyway133</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daggyr DAG工作协调引擎]]></title>
-        <id>https://news.ycombinator.com/item?id=30794634</id>
-        <link href="https://news.ycombinator.com/item?id=30794634"/>
-        <updated>2022-03-24T19:57:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Daggyr DAG Work Orchestration Engine]]></summary>
-        <author>
-            <name>iroddis</name>
-            <uri>https://news.ycombinator.com/user?id=iroddis</uri>
         </author>
     </entry>
 </feed>

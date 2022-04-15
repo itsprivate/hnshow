@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 15 Apr 2022 16:54:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 17:39:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个像i3wm那样完全用C#编写的平铺式窗口管理器]]></title>
+            <link>https://news.ycombinator.com/item?id=31043063</link>
+            <guid>https://news.ycombinator.com/item?id=31043063</guid>
+            <pubDate>Fri, 15 Apr 2022 17:34:23 GMT</pubDate>
+            <description><![CDATA[Show HN: A tiling window manager like i3wm written entirely in C#]]></description>
+        </item>
         <item>
             <title><![CDATA[我为初学者写了一本关于用PHP开发Web应用程序的短书]]></title>
             <link>https://news.ycombinator.com/item?id=31042384</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30794771</guid>
             <pubDate>Thu, 24 Mar 2022 20:11:02 GMT</pubDate>
             <description><![CDATA[Show HN: Crack Quiz a Day on Twitter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Daggyr DAG工作协调引擎]]></title>
-            <link>https://news.ycombinator.com/item?id=30794634</link>
-            <guid>https://news.ycombinator.com/item?id=30794634</guid>
-            <pubDate>Thu, 24 Mar 2022 19:57:34 GMT</pubDate>
-            <description><![CDATA[Show HN: Daggyr DAG Work Orchestration Engine]]></description>
         </item>
     </channel>
 </rss>
