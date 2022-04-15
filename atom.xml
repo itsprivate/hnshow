@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-15T20:52:01.375Z</updated>
+    <updated>2022-04-15T21:52:09.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个作为PWA运行的小型Hypercard堆栈]]></title>
+        <id>https://news.ycombinator.com/item?id=31041205</id>
+        <link href="https://news.ycombinator.com/item?id=31041205"/>
+        <updated>2022-04-15T15:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A small Hypercard stack running as a PWA]]></summary>
+        <author>
+            <name>hyperhello</name>
+            <uri>https://news.ycombinator.com/user?id=hyperhello</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于iOS的GPU上的生成艺术]]></title>
         <id>https://news.ycombinator.com/item?id=31045634</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lifeencoder</name>
             <uri>https://news.ycombinator.com/user?id=lifeencoder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个iOS应用程序来酿造你自己的内容饲料]]></title>
-        <id>https://news.ycombinator.com/item?id=30797953</id>
-        <link href="https://news.ycombinator.com/item?id=30797953"/>
-        <updated>2022-03-25T02:08:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An iOS App to brew your own content feed]]></summary>
-        <author>
-            <name>soupynoodles</name>
-            <uri>https://news.ycombinator.com/user?id=soupynoodles</uri>
         </author>
     </entry>
 </feed>
