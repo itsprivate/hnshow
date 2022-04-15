@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-15T10:36:39.670Z</updated>
+    <updated>2022-04-15T12:20:34.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[浏览器中的虚拟桌面]]></title>
+        <id>https://news.ycombinator.com/item?id=31039240</id>
+        <link href="https://news.ycombinator.com/item?id=31039240"/>
+        <updated>2022-04-15T12:09:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Virtual Desktop in a Browser]]></summary>
+        <author>
+            <name>hcalium</name>
+            <uri>https://news.ycombinator.com/user?id=hcalium</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4917 儿童机器代码 - 纸牌游戏]]></title>
+        <id>https://news.ycombinator.com/item?id=31039229</id>
+        <link href="https://news.ycombinator.com/item?id=31039229"/>
+        <updated>2022-04-15T12:07:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: 4917 Machine Code for Kids – Card Game]]></summary>
+        <author>
+            <name>throwaway47292</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway47292</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个游戏来测试你的Wordle技能]]></title>
         <id>https://news.ycombinator.com/item?id=31038530</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ushakov</name>
             <uri>https://news.ycombinator.com/user?id=ushakov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IMDBench - 用现实的查询为ORM做基准测试]]></title>
-        <id>https://news.ycombinator.com/item?id=30791405</id>
-        <link href="https://news.ycombinator.com/item?id=30791405"/>
-        <updated>2022-03-24T15:39:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: IMDBench – Benchmarking ORMs with realistic queries]]></summary>
-        <author>
-            <name>colinmcd</name>
-            <uri>https://news.ycombinator.com/user?id=colinmcd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个网站，让你发现待售的微型创业公司]]></title>
-        <id>https://news.ycombinator.com/item?id=30791151</id>
-        <link href="https://news.ycombinator.com/item?id=30791151"/>
-        <updated>2022-03-24T15:21:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a site that lets you discover micro-startups for sale]]></summary>
-        <author>
-            <name>sweatC</name>
-            <uri>https://news.ycombinator.com/user?id=sweatC</uri>
         </author>
     </entry>
 </feed>
