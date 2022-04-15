@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 15 Apr 2022 14:52:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 15:37:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[慕尼黑的演讲]]></title>
+            <link>https://news.ycombinator.com/item?id=31041184</link>
+            <guid>https://news.ycombinator.com/item?id=31041184</guid>
+            <pubDate>Fri, 15 Apr 2022 15:18:06 GMT</pubDate>
+            <description><![CDATA[Show HN: The Munich Speech]]></description>
+        </item>
         <item>
             <title><![CDATA[JavaScript中的利萨裘斯曲线生成器]]></title>
             <link>https://news.ycombinator.com/item?id=31040827</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30793580</guid>
             <pubDate>Thu, 24 Mar 2022 18:23:30 GMT</pubDate>
             <description><![CDATA[Show HN: A prototype visual overview for crypto transactions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个简单的文本到语音合成器]]></title>
-            <link>https://news.ycombinator.com/item?id=30793382</link>
-            <guid>https://news.ycombinator.com/item?id=30793382</guid>
-            <pubDate>Thu, 24 Mar 2022 18:02:04 GMT</pubDate>
-            <description><![CDATA[Show HN: A simple text to speech synthesizer]]></description>
         </item>
     </channel>
 </rss>

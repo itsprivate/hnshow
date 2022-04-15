@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-15T14:52:24.077Z</updated>
+    <updated>2022-04-15T15:37:32.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[慕尼黑的演讲]]></title>
+        <id>https://news.ycombinator.com/item?id=31041184</id>
+        <link href="https://news.ycombinator.com/item?id=31041184"/>
+        <updated>2022-04-15T15:18:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Munich Speech]]></summary>
+        <author>
+            <name>roschdal</name>
+            <uri>https://news.ycombinator.com/user?id=roschdal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript中的利萨裘斯曲线生成器]]></title>
         <id>https://news.ycombinator.com/item?id=31040827</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pcbje</name>
             <uri>https://news.ycombinator.com/user?id=pcbje</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个简单的文本到语音合成器]]></title>
-        <id>https://news.ycombinator.com/item?id=30793382</id>
-        <link href="https://news.ycombinator.com/item?id=30793382"/>
-        <updated>2022-03-24T18:02:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A simple text to speech synthesizer]]></summary>
-        <author>
-            <name>westcort</name>
-            <uri>https://news.ycombinator.com/user?id=westcort</uri>
         </author>
     </entry>
 </feed>
