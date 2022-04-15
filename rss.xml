@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 14 Apr 2022 23:51:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 02:55:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[与S3类似，但用于保存blob数据的历史记录]]></title>
+            <link>https://news.ycombinator.com/item?id=31035925</link>
+            <guid>https://news.ycombinator.com/item?id=31035925</guid>
+            <pubDate>Fri, 15 Apr 2022 02:05:00 GMT</pubDate>
+            <description><![CDATA[Show HN: Like S3 but for keeping history of blob data]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Neovimcraft.com - 策划的Neovim插件搜索]]></title>
+            <link>https://news.ycombinator.com/item?id=31035804</link>
+            <guid>https://news.ycombinator.com/item?id=31035804</guid>
+            <pubDate>Fri, 15 Apr 2022 01:46:44 GMT</pubDate>
+            <description><![CDATA[Show HN: Neovimcraft.com – curated search of Neovim plugins]]></description>
+        </item>
         <item>
             <title><![CDATA[通过--自行车路线质量的简单可视化]]></title>
             <link>https://news.ycombinator.com/item?id=31034958</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30788931</guid>
             <pubDate>Thu, 24 Mar 2022 12:38:43 GMT</pubDate>
             <description><![CDATA[Show HN: StackOverflowgeddon Survival Kit]]></description>
-        </item>
-        <item>
-            <title><![CDATA[git-crecord。以交互方式选择要提交的行的TUI]]></title>
-            <link>https://news.ycombinator.com/item?id=30788805</link>
-            <guid>https://news.ycombinator.com/item?id=30788805</guid>
-            <pubDate>Thu, 24 Mar 2022 12:21:14 GMT</pubDate>
-            <description><![CDATA[Show HN: git-crecord: TUI to interactively select lines to commit]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个设计实用工具来测量你屏幕上的任何东西]]></title>
-            <link>https://news.ycombinator.com/item?id=30788161</link>
-            <guid>https://news.ycombinator.com/item?id=30788161</guid>
-            <pubDate>Thu, 24 Mar 2022 10:49:13 GMT</pubDate>
-            <description><![CDATA[Show HN: I've made a design utility tool to measure anything on your screen]]></description>
         </item>
     </channel>
 </rss>
