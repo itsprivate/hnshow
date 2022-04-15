@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-15T19:52:30.244Z</updated>
+    <updated>2022-04-15T20:52:01.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于iOS的GPU上的生成艺术]]></title>
+        <id>https://news.ycombinator.com/item?id=31045634</id>
+        <link href="https://news.ycombinator.com/item?id=31045634"/>
+        <updated>2022-04-15T20:47:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Generative Art on the GPU for iOS]]></summary>
+        <author>
+            <name>erper</name>
+            <uri>https://news.ycombinator.com/user?id=erper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个运行althttpd的微小Docker镜像]]></title>
         <id>https://news.ycombinator.com/item?id=31044846</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>soupynoodles</name>
             <uri>https://news.ycombinator.com/user?id=soupynoodles</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snabl - 一个实用的嵌入式Lisp的C++版本]]></title>
-        <id>https://news.ycombinator.com/item?id=30797550</id>
-        <link href="https://news.ycombinator.com/item?id=30797550"/>
-        <updated>2022-03-25T00:57:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Snabl – a practical embedded Lisp in C++]]></summary>
-        <author>
-            <name>codr7</name>
-            <uri>https://news.ycombinator.com/user?id=codr7</uri>
         </author>
     </entry>
 </feed>
