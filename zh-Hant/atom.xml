@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-15T17:53:03.766Z</updated>
+    <updated>2022-04-15T19:31:13.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你已經知道如何使用的React狀態管理]]></title>
+        <id>https://news.ycombinator.com/item?id=31044597</id>
+        <link href="https://news.ycombinator.com/item?id=31044597"/>
+        <updated>2022-04-15T19:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: React state management you already know how to use]]></summary>
+        <author>
+            <name>mfbx9da4</name>
+            <uri>https://news.ycombinator.com/user?id=mfbx9da4</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ctrl+F不能找到你需要的東西嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31044540</id>
+        <link href="https://news.ycombinator.com/item?id=31044540"/>
+        <updated>2022-04-15T19:19:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Is Ctrl+F not finding what you need?]]></summary>
+        <author>
+            <name>iamscout</name>
+            <uri>https://news.ycombinator.com/user?id=iamscout</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[當你谷歌 "谷歌地球 "時，它顯示 "谷歌地球"。]]></title>
         <id>https://news.ycombinator.com/item?id=31043176</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>JanisIO</name>
             <uri>https://news.ycombinator.com/user?id=JanisIO</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nemo - 虛擬會議的語音助手]]></title>
-        <id>https://news.ycombinator.com/item?id=30795791</id>
-        <link href="https://news.ycombinator.com/item?id=30795791"/>
-        <updated>2022-03-24T21:53:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Nemo – Voice assistant for virtual meetings]]></summary>
-        <author>
-            <name>joe_unmeeting</name>
-            <uri>https://news.ycombinator.com/user?id=joe_unmeeting</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timeow - 看看你在菜單欄上積極使用Mac的時間有多久了]]></title>
-        <id>https://news.ycombinator.com/item?id=30795723</id>
-        <link href="https://news.ycombinator.com/item?id=30795723"/>
-        <updated>2022-03-24T21:48:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Timeow – see how long you've been actively using your Mac on menu bar]]></summary>
-        <author>
-            <name>fperson</name>
-            <uri>https://news.ycombinator.com/user?id=fperson</uri>
         </author>
     </entry>
 </feed>
