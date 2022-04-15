@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-15T04:33:12.275Z</updated>
+    <updated>2022-04-15T05:05:13.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了8个可视化来分享独立黑客的思维方式]]></title>
+        <id>https://news.ycombinator.com/item?id=31036613</id>
+        <link href="https://news.ycombinator.com/item?id=31036613"/>
+        <updated>2022-04-15T04:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made 8 visualize to share the indie hacking mindset]]></summary>
+        <author>
+            <name>onmyway133</name>
+            <uri>https://news.ycombinator.com/user?id=onmyway133</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[快来与《星际争霸II》中的专业人工智能战斗吧]]></title>
         <id>https://news.ycombinator.com/item?id=31036605</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gavinjoyce</name>
             <uri>https://news.ycombinator.com/user?id=gavinjoyce</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松地将音频从任何计算机流向互联网]]></title>
-        <id>https://news.ycombinator.com/item?id=30789927</id>
-        <link href="https://news.ycombinator.com/item?id=30789927"/>
-        <updated>2022-03-24T14:05:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Easily stream audio from any computer to the internet]]></summary>
-        <author>
-            <name>qrv3w</name>
-            <uri>https://news.ycombinator.com/user?id=qrv3w</uri>
         </author>
     </entry>
 </feed>
