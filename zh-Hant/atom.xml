@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-15T16:15:15.623Z</updated>
+    <updated>2022-04-15T16:54:12.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我為初學者寫了一本關於用PHP開發Web應用程序的短書]]></title>
+        <id>https://news.ycombinator.com/item?id=31042384</id>
+        <link href="https://news.ycombinator.com/item?id=31042384"/>
+        <updated>2022-04-15T16:43:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I wrote a short book on web applications with PHP for beginners]]></summary>
+        <author>
+            <name>krasotkin</name>
+            <uri>https://news.ycombinator.com/user?id=krasotkin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個由經過審查的風險投資專家組成的市場，幫助初創企業更快地籌集資金]]></title>
+        <id>https://news.ycombinator.com/item?id=31041854</id>
+        <link href="https://news.ycombinator.com/item?id=31041854"/>
+        <updated>2022-04-15T16:09:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A marketplace of vetted VC experts to help startups fundraise faster]]></summary>
+        <author>
+            <name>tematema555</name>
+            <uri>https://news.ycombinator.com/user?id=tematema555</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EveryAuth：你的應用程序訪問API的最簡單方法]]></title>
         <id>https://news.ycombinator.com/item?id=31041761</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>iroddis</name>
             <uri>https://news.ycombinator.com/user?id=iroddis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgres.js - 用於Node和Deno的最快速的全功能PostgreSQL客戶端]]></title>
-        <id>https://news.ycombinator.com/item?id=30794332</id>
-        <link href="https://news.ycombinator.com/item?id=30794332"/>
-        <updated>2022-03-24T19:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Postgres.js – Fastest Full-Featured PostgreSQL Client for Node and Deno]]></summary>
-        <author>
-            <name>porsager</name>
-            <uri>https://news.ycombinator.com/user?id=porsager</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blocksend--在世界任何地方，以任何貨幣獲得即時兌現。]]></title>
-        <id>https://news.ycombinator.com/item?id=30793623</id>
-        <link href="https://news.ycombinator.com/item?id=30793623"/>
-        <updated>2022-03-24T18:27:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Blocksend- Get instant cashouts, in any currency, anywhere in the world]]></summary>
-        <author>
-            <name>a_burns</name>
-            <uri>https://news.ycombinator.com/user?id=a_burns</uri>
         </author>
     </entry>
 </feed>
