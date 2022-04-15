@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-15T17:39:55.233Z</updated>
+    <updated>2022-04-15T17:53:03.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[當你谷歌 "谷歌地球 "時，它顯示 "谷歌地球"。]]></title>
+        <id>https://news.ycombinator.com/item?id=31043176</id>
+        <link href="https://news.ycombinator.com/item?id=31043176"/>
+        <updated>2022-04-15T17:40:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: When you Google “Google Earth” it shows “Google Eart”]]></summary>
+        <author>
+            <name>herodoturtle</name>
+            <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[光線追蹤的4D Julia分形渲染器（Linux/Windows）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31043130</id>
+        <link href="https://news.ycombinator.com/item?id=31043130"/>
+        <updated>2022-04-15T17:38:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Ray traced 4D Julia fractal renderer (Linux/Windows)]]></summary>
+        <author>
+            <name>zbendefy</name>
+            <uri>https://news.ycombinator.com/user?id=zbendefy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個像i3wm那樣完全用C#編寫的平鋪式窗口管理器]]></title>
         <id>https://news.ycombinator.com/item?id=31043063</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>fperson</name>
             <uri>https://news.ycombinator.com/user?id=fperson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[匹配3 RPG]]></title>
-        <id>https://news.ycombinator.com/item?id=30795286</id>
-        <link href="https://news.ycombinator.com/item?id=30795286"/>
-        <updated>2022-03-24T21:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Match 3 RPG]]></summary>
-        <author>
-            <name>hvidevold</name>
-            <uri>https://news.ycombinator.com/user?id=hvidevold</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特上的每日破譯測驗]]></title>
-        <id>https://news.ycombinator.com/item?id=30794771</id>
-        <link href="https://news.ycombinator.com/item?id=30794771"/>
-        <updated>2022-03-24T20:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Crack Quiz a Day on Twitter]]></summary>
-        <author>
-            <name>onmyway133</name>
-            <uri>https://news.ycombinator.com/user?id=onmyway133</uri>
         </author>
     </entry>
 </feed>

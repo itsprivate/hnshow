@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 15 Apr 2022 17:39:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 17:53:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[当你谷歌 "谷歌地球 "时，它显示 "谷歌地球"。]]></title>
+            <link>https://news.ycombinator.com/item?id=31043176</link>
+            <guid>https://news.ycombinator.com/item?id=31043176</guid>
+            <pubDate>Fri, 15 Apr 2022 17:40:59 GMT</pubDate>
+            <description><![CDATA[Show HN: When you Google “Google Earth” it shows “Google Eart”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[光线追踪的4D Julia分形渲染器（Linux/Windows）。]]></title>
+            <link>https://news.ycombinator.com/item?id=31043130</link>
+            <guid>https://news.ycombinator.com/item?id=31043130</guid>
+            <pubDate>Fri, 15 Apr 2022 17:38:27 GMT</pubDate>
+            <description><![CDATA[Show HN: Ray traced 4D Julia fractal renderer (Linux/Windows)]]></description>
+        </item>
         <item>
             <title><![CDATA[一个像i3wm那样完全用C#编写的平铺式窗口管理器]]></title>
             <link>https://news.ycombinator.com/item?id=31043063</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30795723</guid>
             <pubDate>Thu, 24 Mar 2022 21:48:08 GMT</pubDate>
             <description><![CDATA[Show HN: Timeow – see how long you've been actively using your Mac on menu bar]]></description>
-        </item>
-        <item>
-            <title><![CDATA[匹配3 RPG]]></title>
-            <link>https://news.ycombinator.com/item?id=30795286</link>
-            <guid>https://news.ycombinator.com/item?id=30795286</guid>
-            <pubDate>Thu, 24 Mar 2022 21:01:04 GMT</pubDate>
-            <description><![CDATA[Show HN: Match 3 RPG]]></description>
-        </item>
-        <item>
-            <title><![CDATA[推特上的每日破译测验]]></title>
-            <link>https://news.ycombinator.com/item?id=30794771</link>
-            <guid>https://news.ycombinator.com/item?id=30794771</guid>
-            <pubDate>Thu, 24 Mar 2022 20:11:02 GMT</pubDate>
-            <description><![CDATA[Show HN: Crack Quiz a Day on Twitter]]></description>
         </item>
     </channel>
 </rss>
