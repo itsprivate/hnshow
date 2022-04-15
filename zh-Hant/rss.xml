@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 15 Apr 2022 12:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 14:52:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[JavaScript中的利薩裘斯曲線生成器]]></title>
+            <link>https://news.ycombinator.com/item?id=31040827</link>
+            <guid>https://news.ycombinator.com/item?id=31040827</guid>
+            <pubDate>Fri, 15 Apr 2022 14:44:34 GMT</pubDate>
+            <description><![CDATA[Show HN: Lissajous Curve Generator in JavaScript]]></description>
+        </item>
         <item>
             <title><![CDATA[瀏覽器中的虛擬桌面]]></title>
             <link>https://news.ycombinator.com/item?id=31039240</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30793382</guid>
             <pubDate>Thu, 24 Mar 2022 18:02:04 GMT</pubDate>
             <description><![CDATA[Show HN: A simple text to speech synthesizer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一個基於維基百科的RSS新聞聚合器]]></title>
-            <link>https://news.ycombinator.com/item?id=30792239</link>
-            <guid>https://news.ycombinator.com/item?id=30792239</guid>
-            <pubDate>Thu, 24 Mar 2022 16:37:26 GMT</pubDate>
-            <description><![CDATA[Show HN: I’ve made an RSS news-aggregator based on Wikipedia]]></description>
         </item>
     </channel>
 </rss>

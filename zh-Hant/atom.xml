@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-15T12:20:34.638Z</updated>
+    <updated>2022-04-15T14:52:24.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[JavaScript中的利薩裘斯曲線生成器]]></title>
+        <id>https://news.ycombinator.com/item?id=31040827</id>
+        <link href="https://news.ycombinator.com/item?id=31040827"/>
+        <updated>2022-04-15T14:44:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lissajous Curve Generator in JavaScript]]></summary>
+        <author>
+            <name>2142018</name>
+            <uri>https://news.ycombinator.com/user?id=2142018</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[瀏覽器中的虛擬桌面]]></title>
         <id>https://news.ycombinator.com/item?id=31039240</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>westcort</name>
             <uri>https://news.ycombinator.com/user?id=westcort</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個基於維基百科的RSS新聞聚合器]]></title>
-        <id>https://news.ycombinator.com/item?id=30792239</id>
-        <link href="https://news.ycombinator.com/item?id=30792239"/>
-        <updated>2022-03-24T16:37:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I’ve made an RSS news-aggregator based on Wikipedia]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
         </author>
     </entry>
 </feed>
