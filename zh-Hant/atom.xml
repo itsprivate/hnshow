@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-15T02:55:37.993Z</updated>
+    <updated>2022-04-15T03:58:43.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AI寫的關於愛情的故事/詩歌/Rap]]></title>
+        <id>https://news.ycombinator.com/item?id=31036432</id>
+        <link href="https://news.ycombinator.com/item?id=31036432"/>
+        <updated>2022-04-15T03:41:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: AI Written Stories/Poetry/Raps about Love]]></summary>
+        <author>
+            <name>exdsq</name>
+            <uri>https://news.ycombinator.com/user?id=exdsq</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[與S3類似，但用於保存blob數據的歷史記錄]]></title>
         <id>https://news.ycombinator.com/item?id=31035925</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>anuragk11</name>
             <uri>https://news.ycombinator.com/user?id=anuragk11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[堆棧溢流末日生存包]]></title>
-        <id>https://news.ycombinator.com/item?id=30788931</id>
-        <link href="https://news.ycombinator.com/item?id=30788931"/>
-        <updated>2022-03-24T12:38:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: StackOverflowgeddon Survival Kit]]></summary>
-        <author>
-            <name>david_bonilla</name>
-            <uri>https://news.ycombinator.com/user?id=david_bonilla</uri>
         </author>
     </entry>
 </feed>
