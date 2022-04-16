@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-16T11:29:04.675Z</updated>
+    <updated>2022-04-16T15:54:41.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Golang FFmpeg包装器用于简单的视频I/O和网络摄像头流。]]></title>
+        <id>https://news.ycombinator.com/item?id=31053274</id>
+        <link href="https://news.ycombinator.com/item?id=31053274"/>
+        <updated>2022-04-16T15:51:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Golang FFmpeg wrapper for simple Video I/O and Webcam Streaming]]></summary>
+        <author>
+            <name>crypt0lution</name>
+            <uri>https://news.ycombinator.com/user?id=crypt0lution</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于Hacker News API的GraphQL封装器]]></title>
         <id>https://news.ycombinator.com/item?id=31051463</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Ivoah</name>
             <uri>https://news.ycombinator.com/user?id=Ivoah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抛出--匿名提问和回答问题的新空间]]></title>
-        <id>https://news.ycombinator.com/item?id=30801845</id>
-        <link href="https://news.ycombinator.com/item?id=30801845"/>
-        <updated>2022-03-25T13:24:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Throw – The new space for asking and answering questions anonymously]]></summary>
-        <author>
-            <name>luisamodio</name>
-            <uri>https://news.ycombinator.com/user?id=luisamodio</uri>
         </author>
     </entry>
 </feed>

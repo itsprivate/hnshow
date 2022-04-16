@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 16 Apr 2022 11:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 15:54:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Golang FFmpeg包装器用于简单的视频I/O和网络摄像头流。]]></title>
+            <link>https://news.ycombinator.com/item?id=31053274</link>
+            <guid>https://news.ycombinator.com/item?id=31053274</guid>
+            <pubDate>Sat, 16 Apr 2022 15:51:27 GMT</pubDate>
+            <description><![CDATA[Show HN: Golang FFmpeg wrapper for simple Video I/O and Webcam Streaming]]></description>
+        </item>
         <item>
             <title><![CDATA[用于Hacker News API的GraphQL封装器]]></title>
             <link>https://news.ycombinator.com/item?id=31051463</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30803243</guid>
             <pubDate>Fri, 25 Mar 2022 15:21:58 GMT</pubDate>
             <description><![CDATA[Show HN: Cheatle – simple webapp for cheating at Wordle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[抛出--匿名提问和回答问题的新空间]]></title>
-            <link>https://news.ycombinator.com/item?id=30801845</link>
-            <guid>https://news.ycombinator.com/item?id=30801845</guid>
-            <pubDate>Fri, 25 Mar 2022 13:24:34 GMT</pubDate>
-            <description><![CDATA[Show HN: Throw – The new space for asking and answering questions anonymously]]></description>
         </item>
     </channel>
 </rss>
