@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-16T17:05:20.501Z</updated>
+    <updated>2022-04-16T17:23:40.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[慢速社交，一个为朋友而非影响者建立的社交网络]]></title>
+        <id>https://news.ycombinator.com/item?id=31054029</id>
+        <link href="https://news.ycombinator.com/item?id=31054029"/>
+        <updated>2022-04-16T17:09:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Slow Social, a social network built for friends, not influencers]]></summary>
+        <author>
+            <name>CitrusFruits</name>
+            <uri>https://news.ycombinator.com/user?id=CitrusFruits</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为自由职业者计算预留多少钱的工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31054000</id>
+        <link href="https://news.ycombinator.com/item?id=31054000"/>
+        <updated>2022-04-16T17:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tool for freelancers to calculate how much money to set aside]]></summary>
+        <author>
+            <name>probst</name>
+            <uri>https://news.ycombinator.com/user?id=probst</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[围棋终端中的可点击超链接]]></title>
         <id>https://news.ycombinator.com/item?id=31053860</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>FWKevents</name>
             <uri>https://news.ycombinator.com/user?id=FWKevents</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Dumper库将任何数据转储为Go中的有效语法]]></title>
-        <id>https://news.ycombinator.com/item?id=30803415</id>
-        <link href="https://news.ycombinator.com/item?id=30803415"/>
-        <updated>2022-03-25T15:36:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Data Dumper library dumps any data as valid syntax in Go]]></summary>
-        <author>
-            <name>Sn0wman</name>
-            <uri>https://news.ycombinator.com/user?id=Sn0wman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用回调的Python可操作的通知]]></title>
-        <id>https://news.ycombinator.com/item?id=30803267</id>
-        <link href="https://news.ycombinator.com/item?id=30803267"/>
-        <updated>2022-03-25T15:23:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Actionable Notifications from Python with Callbacks]]></summary>
-        <author>
-            <name>tymm</name>
-            <uri>https://news.ycombinator.com/user?id=tymm</uri>
         </author>
     </entry>
 </feed>
