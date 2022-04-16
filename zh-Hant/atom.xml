@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-16T04:42:14.434Z</updated>
+    <updated>2022-04-16T07:30:23.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的整潔的投資組合網站]]></title>
+        <id>https://news.ycombinator.com/item?id=31050339</id>
+        <link href="https://news.ycombinator.com/item?id=31050339"/>
+        <updated>2022-04-16T07:19:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My Neat Portfolio Website]]></summary>
+        <author>
+            <name>khangnd</name>
+            <uri>https://news.ycombinator.com/user?id=khangnd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我為我的網站建立了一個開放的儀表板]]></title>
         <id>https://news.ycombinator.com/item?id=31049524</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rado</name>
             <uri>https://news.ycombinator.com/user?id=rado</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個90年代版本的登陸頁面]]></title>
-        <id>https://news.ycombinator.com/item?id=30799301</id>
-        <link href="https://news.ycombinator.com/item?id=30799301"/>
-        <updated>2022-03-25T06:44:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a 90s version of my landing page]]></summary>
-        <author>
-            <name>drikerf</name>
-            <uri>https://news.ycombinator.com/user?id=drikerf</uri>
         </author>
     </entry>
 </feed>
