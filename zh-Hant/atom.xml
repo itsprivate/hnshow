@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-16T19:10:49.781Z</updated>
+    <updated>2022-04-16T23:32:16.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你應該在聯合創始人中尋找的唯一東西]]></title>
+        <id>https://news.ycombinator.com/item?id=31056938</id>
+        <link href="https://news.ycombinator.com/item?id=31056938"/>
+        <updated>2022-04-16T23:14:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The only thing you should look for in a cofounder]]></summary>
+        <author>
+            <name>DSpider</name>
+            <uri>https://news.ycombinator.com/user?id=DSpider</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的網站，託管在386 25 MHz，4 MiB的內存，38400波特的互聯網上。]]></title>
         <id>https://news.ycombinator.com/item?id=31055132</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>asadawadia</name>
             <uri>https://news.ycombinator.com/user?id=asadawadia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[臀部移動器，一個IRL生產力和健康改善遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30804893</id>
-        <link href="https://news.ycombinator.com/item?id=30804893"/>
-        <updated>2022-03-25T17:25:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Butt Mover, an IRL Productivity and Health Improvement Game]]></summary>
-        <author>
-            <name>Abishek_Muthian</name>
-            <uri>https://news.ycombinator.com/user?id=Abishek_Muthian</uri>
         </author>
     </entry>
 </feed>
