@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-16T03:06:52.834Z</updated>
+    <updated>2022-04-16T04:42:14.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我為我的網站建立了一個開放的儀表板]]></title>
+        <id>https://news.ycombinator.com/item?id=31049524</id>
+        <link href="https://news.ycombinator.com/item?id=31049524"/>
+        <updated>2022-04-16T04:35:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built an open dashboard for my website]]></summary>
+        <author>
+            <name>pankajtanwar</name>
+            <uri>https://news.ycombinator.com/user?id=pankajtanwar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neptune Lang - 一種併發的快速動態類型的腳本語言]]></title>
         <id>https://news.ycombinator.com/item?id=31048752</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>drikerf</name>
             <uri>https://news.ycombinator.com/user?id=drikerf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用安全的NPM減輕對0天供應鏈攻擊的影響]]></title>
-        <id>https://news.ycombinator.com/item?id=30799071</id>
-        <link href="https://news.ycombinator.com/item?id=30799071"/>
-        <updated>2022-03-25T05:54:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mitigate against 0-day supply chain attacks with safe-NPM]]></summary>
-        <author>
-            <name>stagas</name>
-            <uri>https://news.ycombinator.com/user?id=stagas</uri>
         </author>
     </entry>
 </feed>
