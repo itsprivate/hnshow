@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-16T07:52:08.622Z</updated>
+    <updated>2022-04-16T09:51:08.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從Y到Ω]]></title>
+        <id>https://news.ycombinator.com/item?id=31051015</id>
+        <link href="https://news.ycombinator.com/item?id=31051015"/>
+        <updated>2022-04-16T09:38:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: From Y to Ω]]></summary>
+        <author>
+            <name>martyalain</name>
+            <uri>https://news.ycombinator.com/user?id=martyalain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個用人工智能創建圖像的應用程序]]></title>
         <id>https://news.ycombinator.com/item?id=31049967</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>diegomacario</name>
             <uri>https://news.ycombinator.com/user?id=diegomacario</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Pipy中管理HTTP頭信息]]></title>
-        <id>https://news.ycombinator.com/item?id=30801617</id>
-        <link href="https://news.ycombinator.com/item?id=30801617"/>
-        <updated>2022-03-25T13:01:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Managing HTTP Headers in Pipy]]></summary>
-        <author>
-            <name>shaderx13</name>
-            <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
         </author>
     </entry>
 </feed>
