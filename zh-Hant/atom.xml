@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-16T18:56:15.359Z</updated>
+    <updated>2022-04-16T19:10:49.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的網站，託管在386 25 MHz，4 MiB的內存，38400波特的互聯網上。]]></title>
+        <id>https://news.ycombinator.com/item?id=31055132</id>
+        <link href="https://news.ycombinator.com/item?id=31055132"/>
+        <updated>2022-04-16T19:06:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My website, hosted on a 386 25 MHz, 4 MiB of RAM, 38400 baud internet]]></summary>
+        <author>
+            <name>serentty</name>
+            <uri>https://news.ycombinator.com/user?id=serentty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Breeze工作搜索過濾器有1400多萬條信息，現已進入測試階段]]></title>
         <id>https://news.ycombinator.com/item?id=31054926</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Abishek_Muthian</name>
             <uri>https://news.ycombinator.com/user?id=Abishek_Muthian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[非常好的表是為小企業提供的無代碼數據庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30804886</id>
-        <link href="https://news.ycombinator.com/item?id=30804886"/>
-        <updated>2022-03-25T17:24:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Very Good Table is a no-code database for small businesses]]></summary>
-        <author>
-            <name>tannerljohnson</name>
-            <uri>https://news.ycombinator.com/user?id=tannerljohnson</uri>
         </author>
     </entry>
 </feed>
