@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-16T07:30:23.853Z</updated>
+    <updated>2022-04-16T07:52:08.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個用人工智能創建圖像的應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=31049967</id>
+        <link href="https://news.ycombinator.com/item?id=31049967"/>
+        <updated>2022-04-16T06:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: an app to create images with AI]]></summary>
+        <author>
+            <name>dvrp</name>
+            <uri>https://news.ycombinator.com/user?id=dvrp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的整潔的投資組合網站]]></title>
         <id>https://news.ycombinator.com/item?id=31050339</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>shaderx13</name>
             <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文本和媒體"--多功能的內容展示]]></title>
-        <id>https://news.ycombinator.com/item?id=30801334</id>
-        <link href="https://news.ycombinator.com/item?id=30801334"/>
-        <updated>2022-03-25T12:32:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: 'Text and Media' – versatile content presentation]]></summary>
-        <author>
-            <name>rado</name>
-            <uri>https://news.ycombinator.com/user?id=rado</uri>
         </author>
     </entry>
 </feed>
