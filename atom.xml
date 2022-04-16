@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-16T02:20:49.575Z</updated>
+    <updated>2022-04-16T03:06:52.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Neptune Lang - 一种并发的快速动态类型的脚本语言]]></title>
+        <id>https://news.ycombinator.com/item?id=31048752</id>
+        <link href="https://news.ycombinator.com/item?id=31048752"/>
+        <updated>2022-04-16T02:34:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Neptune Lang – A concurrent fast dynamically typed scripting language]]></summary>
+        <author>
+            <name>anupamchugh</name>
+            <uri>https://news.ycombinator.com/user?id=anupamchugh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你的DeFi投资的成本基础]]></title>
         <id>https://news.ycombinator.com/item?id=31048002</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>stagas</name>
             <uri>https://news.ycombinator.com/user?id=stagas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[实时可视化你的流媒体数据]]></title>
-        <id>https://news.ycombinator.com/item?id=30799069</id>
-        <link href="https://news.ycombinator.com/item?id=30799069"/>
-        <updated>2022-03-25T05:54:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Visualize your streaming data in real-time]]></summary>
-        <author>
-            <name>caoxhua</name>
-            <uri>https://news.ycombinator.com/user?id=caoxhua</uri>
         </author>
     </entry>
 </feed>
