@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-15T21:52:09.223Z</updated>
+    <updated>2022-04-16T00:43:26.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[VocabSieve，一个通过文本获取词汇的工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31047715</id>
+        <link href="https://news.ycombinator.com/item?id=31047715"/>
+        <updated>2022-04-16T00:31:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: VocabSieve, a tool for vocabulary acquisition through text]]></summary>
+        <author>
+            <name>alwayslikethis</name>
+            <uri>https://news.ycombinator.com/user?id=alwayslikethis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我用JavaScript做了一个REST API客户端]]></title>
+        <id>https://news.ycombinator.com/item?id=31047527</id>
+        <link href="https://news.ycombinator.com/item?id=31047527"/>
+        <updated>2022-04-16T00:03:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a REST API client in JavaScript]]></summary>
+        <author>
+            <name>vixalien</name>
+            <uri>https://news.ycombinator.com/user?id=vixalien</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个作为PWA运行的小型Hypercard堆栈]]></title>
         <id>https://news.ycombinator.com/item?id=31041205</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>shaderx13</name>
             <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT Domains Bot - 获得你自己的NFT域名]]></title>
-        <id>https://news.ycombinator.com/item?id=30798278</id>
-        <link href="https://news.ycombinator.com/item?id=30798278"/>
-        <updated>2022-03-25T03:17:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: NFT Domains Bot – Get Your Own NFT Domain]]></summary>
-        <author>
-            <name>lifeencoder</name>
-            <uri>https://news.ycombinator.com/user?id=lifeencoder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptope.me - 一个链接就可以获得所有的加密货币地址]]></title>
-        <id>https://news.ycombinator.com/item?id=30798272</id>
-        <link href="https://news.ycombinator.com/item?id=30798272"/>
-        <updated>2022-03-25T03:16:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cryptope.me – One link for all your Crypto Addresses]]></summary>
-        <author>
-            <name>lifeencoder</name>
-            <uri>https://news.ycombinator.com/user?id=lifeencoder</uri>
         </author>
     </entry>
 </feed>
