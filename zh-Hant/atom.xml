@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-16T15:54:41.433Z</updated>
+    <updated>2022-04-16T17:05:20.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[圍棋終端中的可點擊超鏈接]]></title>
+        <id>https://news.ycombinator.com/item?id=31053860</id>
+        <link href="https://news.ycombinator.com/item?id=31053860"/>
+        <updated>2022-04-16T16:47:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Clickable Hyperlinks in the Terminal for Go]]></summary>
+        <author>
+            <name>Skyascii</name>
+            <uri>https://news.ycombinator.com/user?id=Skyascii</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Golang FFmpeg包裝器用於簡單的視頻I/O和網絡攝像頭流。]]></title>
         <id>https://news.ycombinator.com/item?id=31053274</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>tymm</name>
             <uri>https://news.ycombinator.com/user?id=tymm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheatle - 在Wordle作弊的簡單網絡應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30803243</id>
-        <link href="https://news.ycombinator.com/item?id=30803243"/>
-        <updated>2022-03-25T15:21:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cheatle – simple webapp for cheating at Wordle]]></summary>
-        <author>
-            <name>Ivoah</name>
-            <uri>https://news.ycombinator.com/user?id=Ivoah</uri>
         </author>
     </entry>
 </feed>
