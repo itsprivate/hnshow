@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 17 Apr 2022 11:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 11:37:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Stockstack 1.1.0 - 您的个人股市数据仪表板]]></title>
+            <link>https://news.ycombinator.com/item?id=31060109</link>
+            <guid>https://news.ycombinator.com/item?id=31060109</guid>
+            <pubDate>Sun, 17 Apr 2022 11:28:39 GMT</pubDate>
+            <description><![CDATA[Show HN: Stockstack 1.1.0 – Your personal stock market data dashboard]]></description>
+        </item>
         <item>
             <title><![CDATA[子午线新闻(测试版)]]></title>
             <link>https://news.ycombinator.com/item?id=31059949</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30809639</guid>
             <pubDate>Sat, 26 Mar 2022 06:05:23 GMT</pubDate>
             <description><![CDATA[Show HN: Memorize-Up Made with React]]></description>
-        </item>
-        <item>
-            <title><![CDATA[终端渲染的ASCII着色器]]></title>
-            <link>https://news.ycombinator.com/item?id=30809616</link>
-            <guid>https://news.ycombinator.com/item?id=30809616</guid>
-            <pubDate>Sat, 26 Mar 2022 05:59:08 GMT</pubDate>
-            <description><![CDATA[Show HN: Terminal-Rendered ASCII Shaders]]></description>
         </item>
     </channel>
 </rss>

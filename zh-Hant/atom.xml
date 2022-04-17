@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-17T11:11:11.953Z</updated>
+    <updated>2022-04-17T11:37:09.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Stockstack 1.1.0 - 您的個人股市數據儀表板]]></title>
+        <id>https://news.ycombinator.com/item?id=31060109</id>
+        <link href="https://news.ycombinator.com/item?id=31060109"/>
+        <updated>2022-04-17T11:28:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Stockstack 1.1.0 – Your personal stock market data dashboard]]></summary>
+        <author>
+            <name>michaelsjoeberg</name>
+            <uri>https://news.ycombinator.com/user?id=michaelsjoeberg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[子午線新聞(測試版)]]></title>
         <id>https://news.ycombinator.com/item?id=31059949</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>JoeOfTexas</name>
             <uri>https://news.ycombinator.com/user?id=JoeOfTexas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[終端渲染的ASCII著色器]]></title>
-        <id>https://news.ycombinator.com/item?id=30809616</id>
-        <link href="https://news.ycombinator.com/item?id=30809616"/>
-        <updated>2022-03-26T05:59:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Terminal-Rendered ASCII Shaders]]></summary>
-        <author>
-            <name>teaearlgraycold</name>
-            <uri>https://news.ycombinator.com/user?id=teaearlgraycold</uri>
         </author>
     </entry>
 </feed>
