@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-17T14:38:09.843Z</updated>
+    <updated>2022-04-17T15:13:29.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[范思哲社兔子日寻蛋活动]]></title>
+        <id>https://news.ycombinator.com/item?id=31061342</id>
+        <link href="https://news.ycombinator.com/item?id=31061342"/>
+        <updated>2022-04-17T15:06:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Vers Social Bunny Day Egg Hunt]]></summary>
+        <author>
+            <name>1mbsite</name>
+            <uri>https://news.ycombinator.com/user?id=1mbsite</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用create-rust-app在Rust中快速建立一个GraphQL API]]></title>
         <id>https://news.ycombinator.com/item?id=31061098</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>modinfo</name>
             <uri>https://news.ycombinator.com/user?id=modinfo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discord服务器的Stackoverflow功能]]></title>
-        <id>https://news.ycombinator.com/item?id=30810539</id>
-        <link href="https://news.ycombinator.com/item?id=30810539"/>
-        <updated>2022-03-26T09:54:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Stackoverflow Features for Discord Servers]]></summary>
-        <author>
-            <name>korabs</name>
-            <uri>https://news.ycombinator.com/user?id=korabs</uri>
         </author>
     </entry>
 </feed>
