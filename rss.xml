@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 17 Apr 2022 23:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 23:33:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[WireMock-Captain - TypeScript中的API仿真器]]></title>
+            <link>https://news.ycombinator.com/item?id=31065523</link>
+            <guid>https://news.ycombinator.com/item?id=31065523</guid>
+            <pubDate>Sun, 17 Apr 2022 23:25:04 GMT</pubDate>
+            <description><![CDATA[Show HN: WireMock-Captain – An API Simulator in TypeScript]]></description>
+        </item>
+        <item>
+            <title><![CDATA[555b中迭代变量的懒惰JavaScript迭代]]></title>
+            <link>https://news.ycombinator.com/item?id=31065469</link>
+            <guid>https://news.ycombinator.com/item?id=31065469</guid>
+            <pubDate>Sun, 17 Apr 2022 23:19:05 GMT</pubDate>
+            <description><![CDATA[Show HN: Lazy JavaScript iteration of iterables in 555b]]></description>
+        </item>
         <item>
             <title><![CDATA[Unofunction - 一个使用LibreOffice转换文档的AWS Lambda]]></title>
             <link>https://news.ycombinator.com/item?id=31065328</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30812872</guid>
             <pubDate>Sat, 26 Mar 2022 15:46:41 GMT</pubDate>
             <description><![CDATA[Show HN: I made a calculator to figure out Stripe fees]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ClassiCube是Minecraft Classic 0.30，可在网络浏览器上运行。]]></title>
-            <link>https://news.ycombinator.com/item?id=30812081</link>
-            <guid>https://news.ycombinator.com/item?id=30812081</guid>
-            <pubDate>Sat, 26 Mar 2022 14:27:10 GMT</pubDate>
-            <description><![CDATA[Show HN: ClassiCube is Minecraft Classic 0.30 that works with a web browser]]></description>
-        </item>
-        <item>
-            <title><![CDATA[iOS版的党旗]]></title>
-            <link>https://news.ycombinator.com/item?id=30811770</link>
-            <guid>https://news.ycombinator.com/item?id=30811770</guid>
-            <pubDate>Sat, 26 Mar 2022 13:52:15 GMT</pubDate>
-            <description><![CDATA[Show HN: Party Banner for iOS]]></description>
         </item>
     </channel>
 </rss>

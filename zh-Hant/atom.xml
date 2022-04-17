@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-17T23:13:12.433Z</updated>
+    <updated>2022-04-17T23:33:14.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WireMock-Captain - TypeScript中的API仿真器]]></title>
+        <id>https://news.ycombinator.com/item?id=31065523</id>
+        <link href="https://news.ycombinator.com/item?id=31065523"/>
+        <updated>2022-04-17T23:25:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WireMock-Captain – An API Simulator in TypeScript]]></summary>
+        <author>
+            <name>satsh</name>
+            <uri>https://news.ycombinator.com/user?id=satsh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[555b中迭代變量的懶惰JavaScript迭代]]></title>
+        <id>https://news.ycombinator.com/item?id=31065469</id>
+        <link href="https://news.ycombinator.com/item?id=31065469"/>
+        <updated>2022-04-17T23:19:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lazy JavaScript iteration of iterables in 555b]]></summary>
+        <author>
+            <name>ricokahler</name>
+            <uri>https://news.ycombinator.com/user?id=ricokahler</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unofunction - 一個使用LibreOffice轉換文檔的AWS Lambda]]></title>
         <id>https://news.ycombinator.com/item?id=31065328</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>samlevy</name>
             <uri>https://news.ycombinator.com/user?id=samlevy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ClassiCube是Minecraft Classic 0.30，可在網絡瀏覽器上運行。]]></title>
-        <id>https://news.ycombinator.com/item?id=30812081</id>
-        <link href="https://news.ycombinator.com/item?id=30812081"/>
-        <updated>2022-03-26T14:27:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ClassiCube is Minecraft Classic 0.30 that works with a web browser]]></summary>
-        <author>
-            <name>Use</name>
-            <uri>https://news.ycombinator.com/user?id=Use</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS版的黨旗]]></title>
-        <id>https://news.ycombinator.com/item?id=30811770</id>
-        <link href="https://news.ycombinator.com/item?id=30811770"/>
-        <updated>2022-03-26T13:52:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Party Banner for iOS]]></summary>
-        <author>
-            <name>willswire</name>
-            <uri>https://news.ycombinator.com/user?id=willswire</uri>
         </author>
     </entry>
 </feed>
