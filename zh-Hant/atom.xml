@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-17T09:12:55.749Z</updated>
+    <updated>2022-04-17T11:11:11.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[子午線新聞(測試版)]]></title>
+        <id>https://news.ycombinator.com/item?id=31059949</id>
+        <link href="https://news.ycombinator.com/item?id=31059949"/>
+        <updated>2022-04-17T10:50:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Subreply News (Beta)]]></summary>
+        <author>
+            <name>lcnmrn</name>
+            <uri>https://news.ycombinator.com/user?id=lcnmrn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一個擴展，以禁止從stackoverflow複製]]></title>
         <id>https://news.ycombinator.com/item?id=31059549</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>teaearlgraycold</name>
             <uri>https://news.ycombinator.com/user?id=teaearlgraycold</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quickgres.js，430個LoC管道式的PostgreSQL客戶端庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30809560</id>
-        <link href="https://news.ycombinator.com/item?id=30809560"/>
-        <updated>2022-03-26T05:49:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Quickgres.js, 430 LoC pipelined PostgreSQL client library]]></summary>
-        <author>
-            <name>kig</name>
-            <uri>https://news.ycombinator.com/user?id=kig</uri>
         </author>
     </entry>
 </feed>

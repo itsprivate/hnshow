@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 17 Apr 2022 09:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 11:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[子午线新闻(测试版)]]></title>
+            <link>https://news.ycombinator.com/item?id=31059949</link>
+            <guid>https://news.ycombinator.com/item?id=31059949</guid>
+            <pubDate>Sun, 17 Apr 2022 10:50:48 GMT</pubDate>
+            <description><![CDATA[Show HN: Subreply News (Beta)]]></description>
+        </item>
         <item>
             <title><![CDATA[我建立了一个扩展，以禁止从stackoverflow复制]]></title>
             <link>https://news.ycombinator.com/item?id=31059549</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30809616</guid>
             <pubDate>Sat, 26 Mar 2022 05:59:08 GMT</pubDate>
             <description><![CDATA[Show HN: Terminal-Rendered ASCII Shaders]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Quickgres.js，430个LoC管道式的PostgreSQL客户端库]]></title>
-            <link>https://news.ycombinator.com/item?id=30809560</link>
-            <guid>https://news.ycombinator.com/item?id=30809560</guid>
-            <pubDate>Sat, 26 Mar 2022 05:49:16 GMT</pubDate>
-            <description><![CDATA[Show HN: Quickgres.js, 430 LoC pipelined PostgreSQL client library]]></description>
         </item>
     </channel>
 </rss>
