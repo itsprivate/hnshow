@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 17 Apr 2022 07:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 09:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我建立了一个扩展，以禁止从stackoverflow复制]]></title>
+            <link>https://news.ycombinator.com/item?id=31059549</link>
+            <guid>https://news.ycombinator.com/item?id=31059549</guid>
+            <pubDate>Sun, 17 Apr 2022 09:04:01 GMT</pubDate>
+            <description><![CDATA[Show HN: I built an extension to disable copying from stackoverflow]]></description>
+        </item>
         <item>
             <title><![CDATA[Wordle与Candy Crush的结合]]></title>
             <link>https://news.ycombinator.com/item?id=31059147</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30809560</guid>
             <pubDate>Sat, 26 Mar 2022 05:49:16 GMT</pubDate>
             <description><![CDATA[Show HN: Quickgres.js, 430 LoC pipelined PostgreSQL client library]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何用Pipy代理创建一个回声服务器]]></title>
-            <link>https://news.ycombinator.com/item?id=30809296</link>
-            <guid>https://news.ycombinator.com/item?id=30809296</guid>
-            <pubDate>Sat, 26 Mar 2022 04:45:43 GMT</pubDate>
-            <description><![CDATA[Show HN: How to create an echo server with Pipy proxy]]></description>
         </item>
     </channel>
 </rss>
