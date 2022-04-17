@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-17T03:45:30.843Z</updated>
+    <updated>2022-04-17T04:13:50.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[离线文档，建立离线文档的脚本集合]]></title>
+        <id>https://news.ycombinator.com/item?id=31058347</id>
+        <link href="https://news.ycombinator.com/item?id=31058347"/>
+        <updated>2022-04-17T03:57:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Offline-docs, collection of scripts to build offline documentation]]></summary>
+        <author>
+            <name>naveennamani</name>
+            <uri>https://news.ycombinator.com/user?id=naveennamani</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[解决城市建设游戏Archapolis中的路径寻找问题 - 20万个单位]]></title>
         <id>https://news.ycombinator.com/item?id=31058104</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lhmiles</name>
             <uri>https://news.ycombinator.com/user?id=lhmiles</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何在Linux上启用超级键]]></title>
-        <id>https://news.ycombinator.com/item?id=30807418</id>
-        <link href="https://news.ycombinator.com/item?id=30807418"/>
-        <updated>2022-03-25T22:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: How to enable the Hyper key on Linux]]></summary>
-        <author>
-            <name>nat-418</name>
-            <uri>https://news.ycombinator.com/user?id=nat-418</uri>
         </author>
     </entry>
 </feed>
