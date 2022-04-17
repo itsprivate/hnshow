@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 17 Apr 2022 04:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 06:57:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Sveltin. 构建由SvelteKit驱动的静态网站的最明智方式]]></title>
+            <link>https://news.ycombinator.com/item?id=31059048</link>
+            <guid>https://news.ycombinator.com/item?id=31059048</guid>
+            <pubDate>Sun, 17 Apr 2022 06:52:43 GMT</pubDate>
+            <description><![CDATA[Show HN: Sveltin. The Smartest Way to Build SvelteKit powered static websites]]></description>
+        </item>
         <item>
             <title><![CDATA[离线文档，建立离线文档的脚本集合]]></title>
             <link>https://news.ycombinator.com/item?id=31058347</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30808446</guid>
             <pubDate>Sat, 26 Mar 2022 01:10:09 GMT</pubDate>
             <description><![CDATA[Show HN: Snabl – a practical embedded Lisp in C++]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gzip-Server]]></title>
-            <link>https://news.ycombinator.com/item?id=30807542</link>
-            <guid>https://news.ycombinator.com/item?id=30807542</guid>
-            <pubDate>Fri, 25 Mar 2022 22:18:28 GMT</pubDate>
-            <description><![CDATA[Show HN: Gzip-Server]]></description>
         </item>
     </channel>
 </rss>
