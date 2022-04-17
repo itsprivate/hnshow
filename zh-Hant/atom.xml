@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-17T20:33:25.204Z</updated>
+    <updated>2022-04-17T21:13:17.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[嘿嘿--建立一個類似Linktree的應用程序，讓我覺得比大學還難。]]></title>
+        <id>https://news.ycombinator.com/item?id=31064467</id>
+        <link href="https://news.ycombinator.com/item?id=31064467"/>
+        <updated>2022-04-17T21:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Heyhey – Building a Linktree-like app thought me more than college]]></summary>
+        <author>
+            <name>gunwd</name>
+            <uri>https://news.ycombinator.com/user?id=gunwd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["q"，一個DNS查詢工具，支持UDP、TCP、DoT、DoH、DoQ和ODoH]]></title>
+        <id>https://news.ycombinator.com/item?id=31064423</id>
+        <link href="https://news.ycombinator.com/item?id=31064423"/>
+        <updated>2022-04-17T20:55:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: "q", a DNS query tool with support for UDP, TCP, DoT, DoH, DoQ and ODoH]]></summary>
+        <author>
+            <name>natesales</name>
+            <uri>https://news.ycombinator.com/user?id=natesales</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個適用於WinBox的React組件，一個適用於React的虛擬窗口管理器]]></title>
         <id>https://news.ycombinator.com/item?id=31064159</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>moody5bundle</name>
             <uri>https://news.ycombinator.com/user?id=moody5bundle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個尋找公共鋼琴的網站]]></title>
-        <id>https://news.ycombinator.com/item?id=30811648</id>
-        <link href="https://news.ycombinator.com/item?id=30811648"/>
-        <updated>2022-03-26T13:34:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A website to find public pianos]]></summary>
-        <author>
-            <name>qrv3w</name>
-            <uri>https://news.ycombinator.com/user?id=qrv3w</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Callibella - 同步個人日曆到工作日曆，私下進行]]></title>
-        <id>https://news.ycombinator.com/item?id=30811263</id>
-        <link href="https://news.ycombinator.com/item?id=30811263"/>
-        <updated>2022-03-26T12:25:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Callibella – Sync personal calendar to work calendar, privately]]></summary>
-        <author>
-            <name>yoavm</name>
-            <uri>https://news.ycombinator.com/user?id=yoavm</uri>
         </author>
     </entry>
 </feed>
