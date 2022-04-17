@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-17T02:26:09.136Z</updated>
+    <updated>2022-04-17T03:45:30.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[解決城市建設遊戲Archapolis中的路徑尋找問題 - 20萬個單位]]></title>
+        <id>https://news.ycombinator.com/item?id=31058104</id>
+        <link href="https://news.ycombinator.com/item?id=31058104"/>
+        <updated>2022-04-17T03:08:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Solving path finding in the city builder game Archapolis – 200K Units]]></summary>
+        <author>
+            <name>YesBox</name>
+            <uri>https://news.ycombinator.com/user?id=YesBox</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[修復火狐瀏覽器中的書籤文件]]></title>
         <id>https://news.ycombinator.com/item?id=31057635</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nat-418</name>
             <uri>https://news.ycombinator.com/user?id=nat-418</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自動化的KISS方式。不涉及YAML]]></title>
-        <id>https://news.ycombinator.com/item?id=30806615</id>
-        <link href="https://news.ycombinator.com/item?id=30806615"/>
-        <updated>2022-03-25T20:16:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Automation the KISS way. No YAML involved]]></summary>
-        <author>
-            <name>linkdd</name>
-            <uri>https://news.ycombinator.com/user?id=linkdd</uri>
         </author>
     </entry>
 </feed>
