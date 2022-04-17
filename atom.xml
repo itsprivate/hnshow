@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-17T06:57:24.832Z</updated>
+    <updated>2022-04-17T07:30:44.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Wordle与Candy Crush的结合]]></title>
+        <id>https://news.ycombinator.com/item?id=31059147</id>
+        <link href="https://news.ycombinator.com/item?id=31059147"/>
+        <updated>2022-04-17T07:23:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Wordle Meets Candy Crush]]></summary>
+        <author>
+            <name>torhorway</name>
+            <uri>https://news.ycombinator.com/user?id=torhorway</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sveltin. 构建由SvelteKit驱动的静态网站的最明智方式]]></title>
         <id>https://news.ycombinator.com/item?id=31059048</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>shaderx13</name>
             <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snabl - 一个实用的嵌入式Lisp的C++版本]]></title>
-        <id>https://news.ycombinator.com/item?id=30808446</id>
-        <link href="https://news.ycombinator.com/item?id=30808446"/>
-        <updated>2022-03-26T01:10:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Snabl – a practical embedded Lisp in C++]]></summary>
-        <author>
-            <name>codr7</name>
-            <uri>https://news.ycombinator.com/user?id=codr7</uri>
         </author>
     </entry>
 </feed>
