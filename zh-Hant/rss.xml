@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 16 Apr 2022 23:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 00:43:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在Python中使用NumPy Vectorization進行實時彩色ASCII渲染]]></title>
+            <link>https://news.ycombinator.com/item?id=31057322</link>
+            <guid>https://news.ycombinator.com/item?id=31057322</guid>
+            <pubDate>Sun, 17 Apr 2022 00:27:49 GMT</pubDate>
+            <description><![CDATA[Show HN: Real Time Color ASCII Rendering in Python Using NumPy Vectorization]]></description>
+        </item>
         <item>
             <title><![CDATA[你應該在聯合創始人中尋找的唯一東西]]></title>
             <link>https://news.ycombinator.com/item?id=31056938</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30805874</guid>
             <pubDate>Fri, 25 Mar 2022 18:59:48 GMT</pubDate>
             <description><![CDATA[Show HN: CLI tool to check Certificate Transparency Logs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[羅曼-烏爾都語的Wordle克隆]]></title>
-            <link>https://news.ycombinator.com/item?id=30805217</link>
-            <guid>https://news.ycombinator.com/item?id=30805217</guid>
-            <pubDate>Fri, 25 Mar 2022 17:53:08 GMT</pubDate>
-            <description><![CDATA[Show HN: A Roman urdu Wordle clone]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-16T23:32:16.557Z</updated>
+    <updated>2022-04-17T00:43:38.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Python中使用NumPy Vectorization进行实时彩色ASCII渲染]]></title>
+        <id>https://news.ycombinator.com/item?id=31057322</id>
+        <link href="https://news.ycombinator.com/item?id=31057322"/>
+        <updated>2022-04-17T00:27:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Real Time Color ASCII Rendering in Python Using NumPy Vectorization]]></summary>
+        <author>
+            <name>crypt0lution</name>
+            <uri>https://news.ycombinator.com/user?id=crypt0lution</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你应该在联合创始人中寻找的唯一东西]]></title>
         <id>https://news.ycombinator.com/item?id=31056938</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cmfyi</name>
             <uri>https://news.ycombinator.com/user?id=cmfyi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[罗曼-乌尔都语的Wordle克隆]]></title>
-        <id>https://news.ycombinator.com/item?id=30805217</id>
-        <link href="https://news.ycombinator.com/item?id=30805217"/>
-        <updated>2022-03-25T17:53:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Roman urdu Wordle clone]]></summary>
-        <author>
-            <name>asadawadia</name>
-            <uri>https://news.ycombinator.com/user?id=asadawadia</uri>
         </author>
     </entry>
 </feed>
