@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 17 Apr 2022 00:43:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 02:26:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[修復火狐瀏覽器中的書籤文件]]></title>
+            <link>https://news.ycombinator.com/item?id=31057635</link>
+            <guid>https://news.ycombinator.com/item?id=31057635</guid>
+            <pubDate>Sun, 17 Apr 2022 01:30:10 GMT</pubDate>
+            <description><![CDATA[Show HN: Fix for the Bookmark Files from Firefox]]></description>
+        </item>
         <item>
             <title><![CDATA[在Python中使用NumPy Vectorization進行實時彩色ASCII渲染]]></title>
             <link>https://news.ycombinator.com/item?id=31057322</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30806615</guid>
             <pubDate>Fri, 25 Mar 2022 20:16:22 GMT</pubDate>
             <description><![CDATA[Show HN: Automation the KISS way. No YAML involved]]></description>
-        </item>
-        <item>
-            <title><![CDATA[檢查證書透明度日誌的CLI工具]]></title>
-            <link>https://news.ycombinator.com/item?id=30805874</link>
-            <guid>https://news.ycombinator.com/item?id=30805874</guid>
-            <pubDate>Fri, 25 Mar 2022 18:59:48 GMT</pubDate>
-            <description><![CDATA[Show HN: CLI tool to check Certificate Transparency Logs]]></description>
         </item>
     </channel>
 </rss>

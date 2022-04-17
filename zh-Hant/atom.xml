@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-17T00:43:38.757Z</updated>
+    <updated>2022-04-17T02:26:09.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[修復火狐瀏覽器中的書籤文件]]></title>
+        <id>https://news.ycombinator.com/item?id=31057635</id>
+        <link href="https://news.ycombinator.com/item?id=31057635"/>
+        <updated>2022-04-17T01:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fix for the Bookmark Files from Firefox]]></summary>
+        <author>
+            <name>gform</name>
+            <uri>https://news.ycombinator.com/user?id=gform</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Python中使用NumPy Vectorization進行實時彩色ASCII渲染]]></title>
         <id>https://news.ycombinator.com/item?id=31057322</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>linkdd</name>
             <uri>https://news.ycombinator.com/user?id=linkdd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[檢查證書透明度日誌的CLI工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30805874</id>
-        <link href="https://news.ycombinator.com/item?id=30805874"/>
-        <updated>2022-03-25T18:59:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CLI tool to check Certificate Transparency Logs]]></summary>
-        <author>
-            <name>cmfyi</name>
-            <uri>https://news.ycombinator.com/user?id=cmfyi</uri>
         </author>
     </entry>
 </feed>
