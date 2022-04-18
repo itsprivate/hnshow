@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-18T21:53:24.483Z</updated>
+    <updated>2022-04-18T23:29:18.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RSS提要發現引擎]]></title>
+        <id>https://news.ycombinator.com/item?id=31077932</id>
+        <link href="https://news.ycombinator.com/item?id=31077932"/>
+        <updated>2022-04-18T23:16:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: RSS Feed Discovery Engine]]></summary>
+        <author>
+            <name>thirdplace_</name>
+            <uri>https://news.ycombinator.com/user?id=thirdplace_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多人瀏覽器VS代碼]]></title>
         <id>https://news.ycombinator.com/item?id=31076992</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>codr7</name>
             <uri>https://news.ycombinator.com/user?id=codr7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為Facit C1-13機械計算器設計的正在進行中的模擬器]]></title>
-        <id>https://news.ycombinator.com/item?id=30825306</id>
-        <link href="https://news.ycombinator.com/item?id=30825306"/>
-        <updated>2022-03-27T23:42:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A work-in-progress simulator for the Facit C1-13 mechanical calculator]]></summary>
-        <author>
-            <name>cpsns</name>
-            <uri>https://news.ycombinator.com/user?id=cpsns</uri>
         </author>
     </entry>
 </feed>

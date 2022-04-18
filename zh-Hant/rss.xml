@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 18 Apr 2022 21:53:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 23:29:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[RSS提要發現引擎]]></title>
+            <link>https://news.ycombinator.com/item?id=31077932</link>
+            <guid>https://news.ycombinator.com/item?id=31077932</guid>
+            <pubDate>Mon, 18 Apr 2022 23:16:56 GMT</pubDate>
+            <description><![CDATA[Show HN: RSS Feed Discovery Engine]]></description>
+        </item>
         <item>
             <title><![CDATA[多人瀏覽器VS代碼]]></title>
             <link>https://news.ycombinator.com/item?id=31076992</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30825483</guid>
             <pubDate>Mon, 28 Mar 2022 00:05:52 GMT</pubDate>
             <description><![CDATA[Show HN: Snabl – a practical embedded Lisp in C++]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為Facit C1-13機械計算器設計的正在進行中的模擬器]]></title>
-            <link>https://news.ycombinator.com/item?id=30825306</link>
-            <guid>https://news.ycombinator.com/item?id=30825306</guid>
-            <pubDate>Sun, 27 Mar 2022 23:42:35 GMT</pubDate>
-            <description><![CDATA[Show HN: A work-in-progress simulator for the Facit C1-13 mechanical calculator]]></description>
         </item>
     </channel>
 </rss>
