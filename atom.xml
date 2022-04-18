@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-18T08:55:55.024Z</updated>
+    <updated>2022-04-18T09:14:47.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Cloudfs - 像本地文件系统一样发现和管理你的云计算]]></title>
+        <id>https://news.ycombinator.com/item?id=31068636</id>
+        <link href="https://news.ycombinator.com/item?id=31068636"/>
+        <updated>2022-04-18T08:53:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Cloudfs – Discover and manage your cloud like a local filesystem]]></summary>
+        <author>
+            <name>khalidx</name>
+            <uri>https://news.ycombinator.com/user?id=khalidx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gushio，用JavaScript编写多平台脚本]]></title>
         <id>https://news.ycombinator.com/item?id=31068603</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vk6flab</name>
             <uri>https://news.ycombinator.com/user?id=vk6flab</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何用Pipy代理创建一个网络代理]]></title>
-        <id>https://news.ycombinator.com/item?id=30817252</id>
-        <link href="https://news.ycombinator.com/item?id=30817252"/>
-        <updated>2022-03-27T02:35:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: How to create a network proxy with Pipy proxy]]></summary>
-        <author>
-            <name>shaderx13</name>
-            <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
         </author>
     </entry>
 </feed>
