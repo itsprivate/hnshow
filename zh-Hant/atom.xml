@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-18T08:39:42.762Z</updated>
+    <updated>2022-04-18T08:55:55.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Gushio，用JavaScript編寫多平臺腳本]]></title>
+        <id>https://news.ycombinator.com/item?id=31068603</id>
+        <link href="https://news.ycombinator.com/item?id=31068603"/>
+        <updated>2022-04-18T08:45:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Gushio, write multi-platform scripts in JavaScript]]></summary>
+        <author>
+            <name>tbossi</name>
+            <uri>https://news.ycombinator.com/user?id=tbossi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FHIR Auth - 輕鬆為您的FHIR服務器增加認證功能]]></title>
         <id>https://news.ycombinator.com/item?id=31068513</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>shaderx13</name>
             <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在網絡瀏覽器中嘗試開源的敘事遊戲開發工具Yarn Spinner]]></title>
-        <id>https://news.ycombinator.com/item?id=30816832</id>
-        <link href="https://news.ycombinator.com/item?id=30816832"/>
-        <updated>2022-03-27T01:13:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Try Yarn Spinner, open source narrative game dev tool, in a web browser]]></summary>
-        <author>
-            <name>parisidau</name>
-            <uri>https://news.ycombinator.com/user?id=parisidau</uri>
         </author>
     </entry>
 </feed>

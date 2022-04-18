@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 18 Apr 2022 08:39:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 08:55:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Gushio，用JavaScript编写多平台脚本]]></title>
+            <link>https://news.ycombinator.com/item?id=31068603</link>
+            <guid>https://news.ycombinator.com/item?id=31068603</guid>
+            <pubDate>Mon, 18 Apr 2022 08:45:55 GMT</pubDate>
+            <description><![CDATA[Show HN: Gushio, write multi-platform scripts in JavaScript]]></description>
+        </item>
         <item>
             <title><![CDATA[FHIR Auth - 轻松为您的FHIR服务器增加认证功能]]></title>
             <link>https://news.ycombinator.com/item?id=31068513</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30817252</guid>
             <pubDate>Sun, 27 Mar 2022 02:35:05 GMT</pubDate>
             <description><![CDATA[Show HN: How to create a network proxy with Pipy proxy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在网络浏览器中尝试开源的叙事游戏开发工具Yarn Spinner]]></title>
-            <link>https://news.ycombinator.com/item?id=30816832</link>
-            <guid>https://news.ycombinator.com/item?id=30816832</guid>
-            <pubDate>Sun, 27 Mar 2022 01:13:46 GMT</pubDate>
-            <description><![CDATA[Show HN: Try Yarn Spinner, open source narrative game dev tool, in a web browser]]></description>
         </item>
     </channel>
 </rss>
