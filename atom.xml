@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-18T11:38:32.799Z</updated>
+    <updated>2022-04-18T13:27:57.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不要再浪费~30%的锻炼时间来分心了]]></title>
+        <id>https://news.ycombinator.com/item?id=31070004</id>
+        <link href="https://news.ycombinator.com/item?id=31070004"/>
+        <updated>2022-04-18T12:59:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Stop wasting ~30% of your workout being distracted]]></summary>
+        <author>
+            <name>britojosepha</name>
+            <uri>https://news.ycombinator.com/user?id=britojosepha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Skooh，一个NPM Git钩子管理器]]></title>
         <id>https://news.ycombinator.com/item?id=31069379</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>joshdsouza</name>
             <uri>https://news.ycombinator.com/user?id=joshdsouza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RaveForce - 一个用于音乐生成实验的OpenAI Gym风格的工具箱]]></title>
-        <id>https://news.ycombinator.com/item?id=30819646</id>
-        <link href="https://news.ycombinator.com/item?id=30819646"/>
-        <updated>2022-03-27T12:11:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: RaveForce – An OpenAI Gym style toolkit for music generation experiment]]></summary>
-        <author>
-            <name>chaosprint</name>
-            <uri>https://news.ycombinator.com/user?id=chaosprint</uri>
         </author>
     </entry>
 </feed>

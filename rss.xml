@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 18 Apr 2022 11:38:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 13:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[不要再浪费~30%的锻炼时间来分心了]]></title>
+            <link>https://news.ycombinator.com/item?id=31070004</link>
+            <guid>https://news.ycombinator.com/item?id=31070004</guid>
+            <pubDate>Mon, 18 Apr 2022 12:59:08 GMT</pubDate>
+            <description><![CDATA[Show HN: Stop wasting ~30% of your workout being distracted]]></description>
+        </item>
         <item>
             <title><![CDATA[Skooh，一个NPM Git钩子管理器]]></title>
             <link>https://news.ycombinator.com/item?id=31069379</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30820420</guid>
             <pubDate>Sun, 27 Mar 2022 14:16:01 GMT</pubDate>
             <description><![CDATA[Show HN: Catch layout and spelling mistakes at pull request time]]></description>
-        </item>
-        <item>
-            <title><![CDATA[RaveForce - 一个用于音乐生成实验的OpenAI Gym风格的工具箱]]></title>
-            <link>https://news.ycombinator.com/item?id=30819646</link>
-            <guid>https://news.ycombinator.com/item?id=30819646</guid>
-            <pubDate>Sun, 27 Mar 2022 12:11:33 GMT</pubDate>
-            <description><![CDATA[Show HN: RaveForce – An OpenAI Gym style toolkit for music generation experiment]]></description>
         </item>
     </channel>
 </rss>
