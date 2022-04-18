@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-18T13:27:57.386Z</updated>
+    <updated>2022-04-18T14:39:03.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[带有nsh、coreutils、ripgrep的Rust用户区容器镜像]]></title>
+        <id>https://news.ycombinator.com/item?id=31071183</id>
+        <link href="https://news.ycombinator.com/item?id=31071183"/>
+        <updated>2022-04-18T14:33:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Rust userland container image with nsh, coreutils, ripgrep]]></summary>
+        <author>
+            <name>Klasiaster</name>
+            <uri>https://news.ycombinator.com/user?id=Klasiaster</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不要再浪费~30%的锻炼时间来分心了]]></title>
         <id>https://news.ycombinator.com/item?id=31070004</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vu0tran</name>
             <uri>https://news.ycombinator.com/user?id=vu0tran</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在拉动请求时抓住布局和拼写错误]]></title>
-        <id>https://news.ycombinator.com/item?id=30820420</id>
-        <link href="https://news.ycombinator.com/item?id=30820420"/>
-        <updated>2022-03-27T14:16:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Catch layout and spelling mistakes at pull request time]]></summary>
-        <author>
-            <name>joshdsouza</name>
-            <uri>https://news.ycombinator.com/user?id=joshdsouza</uri>
         </author>
     </entry>
 </feed>

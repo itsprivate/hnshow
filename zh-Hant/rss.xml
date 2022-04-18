@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 18 Apr 2022 13:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 14:39:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[帶有nsh、coreutils、ripgrep的Rust用戶區容器鏡像]]></title>
+            <link>https://news.ycombinator.com/item?id=31071183</link>
+            <guid>https://news.ycombinator.com/item?id=31071183</guid>
+            <pubDate>Mon, 18 Apr 2022 14:33:26 GMT</pubDate>
+            <description><![CDATA[Show HN: Rust userland container image with nsh, coreutils, ripgrep]]></description>
+        </item>
         <item>
             <title><![CDATA[不要再浪費~30%的鍛鍊時間來分心了]]></title>
             <link>https://news.ycombinator.com/item?id=31070004</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30820940</guid>
             <pubDate>Sun, 27 Mar 2022 15:24:20 GMT</pubDate>
             <description><![CDATA[Show HN: Just Another Journaling App]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在拉動請求時抓住佈局和拼寫錯誤]]></title>
-            <link>https://news.ycombinator.com/item?id=30820420</link>
-            <guid>https://news.ycombinator.com/item?id=30820420</guid>
-            <pubDate>Sun, 27 Mar 2022 14:16:01 GMT</pubDate>
-            <description><![CDATA[Show HN: Catch layout and spelling mistakes at pull request time]]></description>
         </item>
     </channel>
 </rss>
