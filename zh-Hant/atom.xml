@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-18T17:22:38.453Z</updated>
+    <updated>2022-04-18T19:12:58.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在PostgreSQL中作為數據的雲基礎設施]]></title>
+        <id>https://news.ycombinator.com/item?id=31074953</id>
+        <link href="https://news.ycombinator.com/item?id=31074953"/>
+        <updated>2022-04-18T18:59:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Cloud Infrastructure as Data in PostgreSQL]]></summary>
+        <author>
+            <name>pombo</name>
+            <uri>https://news.ycombinator.com/user?id=pombo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dataherald，沒有代碼的工具，幫助人們看到和理解數據]]></title>
         <id>https://news.ycombinator.com/item?id=31073612</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>danbmil99</name>
             <uri>https://news.ycombinator.com/user?id=danbmil99</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Awardedfilms.com - 所有奧斯卡獎提名的完整集合]]></title>
-        <id>https://news.ycombinator.com/item?id=30823690</id>
-        <link href="https://news.ycombinator.com/item?id=30823690"/>
-        <updated>2022-03-27T20:18:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Awardedfilms.com – Complete collection of all the Oscars nominations]]></summary>
-        <author>
-            <name>peaches_</name>
-            <uri>https://news.ycombinator.com/user?id=peaches_</uri>
         </author>
     </entry>
 </feed>

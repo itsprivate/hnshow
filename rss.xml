@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 18 Apr 2022 17:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 19:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在PostgreSQL中作为数据的云基础设施]]></title>
+            <link>https://news.ycombinator.com/item?id=31074953</link>
+            <guid>https://news.ycombinator.com/item?id=31074953</guid>
+            <pubDate>Mon, 18 Apr 2022 18:59:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Cloud Infrastructure as Data in PostgreSQL]]></description>
+        </item>
         <item>
             <title><![CDATA[Dataherald，没有代码的工具，帮助人们看到和理解数据]]></title>
             <link>https://news.ycombinator.com/item?id=31073612</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30824146</guid>
             <pubDate>Sun, 27 Mar 2022 21:06:50 GMT</pubDate>
             <description><![CDATA[Show HN: Free Hosted JupyerLab with GPU]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Awardedfilms.com - 所有奥斯卡奖提名的完整集合]]></title>
-            <link>https://news.ycombinator.com/item?id=30823690</link>
-            <guid>https://news.ycombinator.com/item?id=30823690</guid>
-            <pubDate>Sun, 27 Mar 2022 20:18:05 GMT</pubDate>
-            <description><![CDATA[Show HN: Awardedfilms.com – Complete collection of all the Oscars nominations]]></description>
         </item>
     </channel>
 </rss>
