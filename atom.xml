@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-18T14:39:03.212Z</updated>
+    <updated>2022-04-18T15:14:33.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[CLIrdle - 在你的命令行中的Wordle]]></title>
+        <id>https://news.ycombinator.com/item?id=31071684</id>
+        <link href="https://news.ycombinator.com/item?id=31071684"/>
+        <updated>2022-04-18T15:07:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: CLIrdle – Wordle in your command line]]></summary>
+        <author>
+            <name>superzackx</name>
+            <uri>https://news.ycombinator.com/user?id=superzackx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以无线方式将iPhone/iPad镜像到你的Mac上]]></title>
+        <id>https://news.ycombinator.com/item?id=31071671</id>
+        <link href="https://news.ycombinator.com/item?id=31071671"/>
+        <updated>2022-04-18T15:06:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mirror iPhone/iPad to Your Mac Wirelessly]]></summary>
+        <author>
+            <name>pawankdixit</name>
+            <uri>https://news.ycombinator.com/user?id=pawankdixit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于现实世界情感分析的NLP算法]]></title>
+        <id>https://news.ycombinator.com/item?id=31071463</id>
+        <link href="https://news.ycombinator.com/item?id=31071463"/>
+        <updated>2022-04-18T14:53:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: NLP algorithms for real-world sentiment analysis]]></summary>
+        <author>
+            <name>juancolamendy</name>
+            <uri>https://news.ycombinator.com/user?id=juancolamendy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[带有nsh、coreutils、ripgrep的Rust用户区容器镜像]]></title>
         <id>https://news.ycombinator.com/item?id=31071183</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>toto444</name>
             <uri>https://news.ycombinator.com/user?id=toto444</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3by3 - 通过回答三个简单的问题发现新鲜的播客节目]]></title>
-        <id>https://news.ycombinator.com/item?id=30821488</id>
-        <link href="https://news.ycombinator.com/item?id=30821488"/>
-        <updated>2022-03-27T16:21:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: 3by3 – discover fresh podcasts by answering three simple questions]]></summary>
-        <author>
-            <name>p5v</name>
-            <uri>https://news.ycombinator.com/user?id=p5v</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bookvine.io - 帮助寻找适合6至14岁孩子的书籍]]></title>
-        <id>https://news.ycombinator.com/item?id=30821434</id>
-        <link href="https://news.ycombinator.com/item?id=30821434"/>
-        <updated>2022-03-27T16:16:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bookvine.io – Help find age appropriate books for kids aged 6 to 14]]></summary>
-        <author>
-            <name>realcul</name>
-            <uri>https://news.ycombinator.com/user?id=realcul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只是另一个记事的应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30820940</id>
-        <link href="https://news.ycombinator.com/item?id=30820940"/>
-        <updated>2022-03-27T15:24:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Just Another Journaling App]]></summary>
-        <author>
-            <name>vu0tran</name>
-            <uri>https://news.ycombinator.com/user?id=vu0tran</uri>
         </author>
     </entry>
 </feed>
