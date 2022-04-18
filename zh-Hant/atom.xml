@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-18T21:13:48.703Z</updated>
+    <updated>2022-04-18T21:30:51.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Plubo路線--WordPress路線的簡單化]]></title>
+        <id>https://news.ycombinator.com/item?id=31076625</id>
+        <link href="https://news.ycombinator.com/item?id=31076625"/>
+        <updated>2022-04-18T21:12:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Plubo Routes – WordPress routes made simple]]></summary>
+        <author>
+            <name>joanrodas</name>
+            <uri>https://news.ycombinator.com/user?id=joanrodas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用WebGL渲染的西雅圖地標的攝影測量技術]]></title>
+        <id>https://news.ycombinator.com/item?id=31076623</id>
+        <link href="https://news.ycombinator.com/item?id=31076623"/>
+        <updated>2022-04-18T21:12:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Photogrammetry of Seattle landmarks rendered in WebGL]]></summary>
+        <author>
+            <name>gglover</name>
+            <uri>https://news.ycombinator.com/user?id=gglover</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoogleKeep Taskwarrior雙向同步]]></title>
         <id>https://news.ycombinator.com/item?id=31076477</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>gurjeet</name>
             <uri>https://news.ycombinator.com/user?id=gurjeet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KeepAlive.finance - 保持你的不活躍信用卡的活力]]></title>
-        <id>https://news.ycombinator.com/item?id=30824683</id>
-        <link href="https://news.ycombinator.com/item?id=30824683"/>
-        <updated>2022-03-27T22:13:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: KeepAlive.finance – Keep your inactive credit cards alive]]></summary>
-        <author>
-            <name>cameronehrlich</name>
-            <uri>https://news.ycombinator.com/user?id=cameronehrlich</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boredle - 使用任何網頁上的單詞玩Wordle遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30823264</id>
-        <link href="https://news.ycombinator.com/item?id=30823264"/>
-        <updated>2022-03-27T19:30:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Boredle – play Wordle using the words on any webpage]]></summary>
-        <author>
-            <name>orang2tang</name>
-            <uri>https://news.ycombinator.com/user?id=orang2tang</uri>
         </author>
     </entry>
 </feed>
