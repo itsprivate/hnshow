@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-18T11:13:12.356Z</updated>
+    <updated>2022-04-18T11:38:32.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Skooh，一個NPM Git鉤子管理器]]></title>
+        <id>https://news.ycombinator.com/item?id=31069379</id>
+        <link href="https://news.ycombinator.com/item?id=31069379"/>
+        <updated>2022-04-18T11:29:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Skooh, a NPM Git hooks manager]]></summary>
+        <author>
+            <name>aegatlin</name>
+            <uri>https://news.ycombinator.com/user?id=aegatlin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[帶有Rive動畫的個人網站]]></title>
         <id>https://news.ycombinator.com/item?id=31069222</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>chaosprint</name>
             <uri>https://news.ycombinator.com/user?id=chaosprint</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KeepAlive.Finance - 保持你的信用卡活力]]></title>
-        <id>https://news.ycombinator.com/item?id=30818800</id>
-        <link href="https://news.ycombinator.com/item?id=30818800"/>
-        <updated>2022-03-27T08:58:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: KeepAlive.Finance – Keep your credit cards alive]]></summary>
-        <author>
-            <name>cameronehrlich</name>
-            <uri>https://news.ycombinator.com/user?id=cameronehrlich</uri>
         </author>
     </entry>
 </feed>
