@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-17T23:33:14.281Z</updated>
+    <updated>2022-04-18T02:48:20.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Spoonfy - 利用AI進行直觀的外語聽力練習]]></title>
+        <id>https://news.ycombinator.com/item?id=31066462</id>
+        <link href="https://news.ycombinator.com/item?id=31066462"/>
+        <updated>2022-04-18T01:51:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Spoonfy – Intuitive foreign-language listening practice using AI]]></summary>
+        <author>
+            <name>athairus</name>
+            <uri>https://news.ycombinator.com/user?id=athairus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Python在瀏覽器中直接構建和分享機器學習應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=31066443</id>
+        <link href="https://news.ycombinator.com/item?id=31066443"/>
+        <updated>2022-04-18T01:48:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build and share machine learning apps directly in browser in Python]]></summary>
+        <author>
+            <name>ak391</name>
+            <uri>https://news.ycombinator.com/user?id=ak391</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為壓縮文件愛好者提供的記事CLI]]></title>
+        <id>https://news.ycombinator.com/item?id=31066360</id>
+        <link href="https://news.ycombinator.com/item?id=31066360"/>
+        <updated>2022-04-18T01:31:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A note-taking CLI for zipfile enthusiasts]]></summary>
+        <author>
+            <name>swidi</name>
+            <uri>https://news.ycombinator.com/user?id=swidi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WireMock-Captain - TypeScript中的API仿真器]]></title>
         <id>https://news.ycombinator.com/item?id=31065523</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>bbrennan</name>
             <uri>https://news.ycombinator.com/user?id=bbrennan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[零和 - 一個關於數字相加的網頁遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30813712</id>
-        <link href="https://news.ycombinator.com/item?id=30813712"/>
-        <updated>2022-03-26T17:38:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Zero Sum – A web game about summing numbers]]></summary>
-        <author>
-            <name>mrpelican</name>
-            <uri>https://news.ycombinator.com/user?id=mrpelican</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wachy - 一個基於eBPF的性能調試的用戶界面]]></title>
-        <id>https://news.ycombinator.com/item?id=30812988</id>
-        <link href="https://news.ycombinator.com/item?id=30812988"/>
-        <updated>2022-03-26T15:59:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Wachy – A UI for eBPF-based performance debugging]]></summary>
-        <author>
-            <name>vivek-jain</name>
-            <uri>https://news.ycombinator.com/user?id=vivek-jain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個計算器來計算Stripe的費用]]></title>
-        <id>https://news.ycombinator.com/item?id=30812872</id>
-        <link href="https://news.ycombinator.com/item?id=30812872"/>
-        <updated>2022-03-26T15:46:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a calculator to figure out Stripe fees]]></summary>
-        <author>
-            <name>samlevy</name>
-            <uri>https://news.ycombinator.com/user?id=samlevy</uri>
         </author>
     </entry>
 </feed>

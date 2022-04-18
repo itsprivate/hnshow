@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 17 Apr 2022 23:33:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 02:48:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Spoonfy - 利用AI進行直觀的外語聽力練習]]></title>
+            <link>https://news.ycombinator.com/item?id=31066462</link>
+            <guid>https://news.ycombinator.com/item?id=31066462</guid>
+            <pubDate>Mon, 18 Apr 2022 01:51:31 GMT</pubDate>
+            <description><![CDATA[Show HN: Spoonfy – Intuitive foreign-language listening practice using AI]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Python在瀏覽器中直接構建和分享機器學習應用程序]]></title>
+            <link>https://news.ycombinator.com/item?id=31066443</link>
+            <guid>https://news.ycombinator.com/item?id=31066443</guid>
+            <pubDate>Mon, 18 Apr 2022 01:48:40 GMT</pubDate>
+            <description><![CDATA[Show HN: Build and share machine learning apps directly in browser in Python]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為壓縮文件愛好者提供的記事CLI]]></title>
+            <link>https://news.ycombinator.com/item?id=31066360</link>
+            <guid>https://news.ycombinator.com/item?id=31066360</guid>
+            <pubDate>Mon, 18 Apr 2022 01:31:52 GMT</pubDate>
+            <description><![CDATA[Show HN: A note-taking CLI for zipfile enthusiasts]]></description>
+        </item>
         <item>
             <title><![CDATA[WireMock-Captain - TypeScript中的API仿真器]]></title>
             <link>https://news.ycombinator.com/item?id=31065523</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30814130</guid>
             <pubDate>Sat, 26 Mar 2022 18:33:54 GMT</pubDate>
             <description><![CDATA[Show HN: Make Funny Sounds with Go]]></description>
-        </item>
-        <item>
-            <title><![CDATA[零和 - 一個關於數字相加的網頁遊戲]]></title>
-            <link>https://news.ycombinator.com/item?id=30813712</link>
-            <guid>https://news.ycombinator.com/item?id=30813712</guid>
-            <pubDate>Sat, 26 Mar 2022 17:38:33 GMT</pubDate>
-            <description><![CDATA[Show HN: Zero Sum – A web game about summing numbers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wachy - 一個基於eBPF的性能調試的用戶界面]]></title>
-            <link>https://news.ycombinator.com/item?id=30812988</link>
-            <guid>https://news.ycombinator.com/item?id=30812988</guid>
-            <pubDate>Sat, 26 Mar 2022 15:59:23 GMT</pubDate>
-            <description><![CDATA[Show HN: Wachy – A UI for eBPF-based performance debugging]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一個計算器來計算Stripe的費用]]></title>
-            <link>https://news.ycombinator.com/item?id=30812872</link>
-            <guid>https://news.ycombinator.com/item?id=30812872</guid>
-            <pubDate>Sat, 26 Mar 2022 15:46:41 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a calculator to figure out Stripe fees]]></description>
         </item>
     </channel>
 </rss>
