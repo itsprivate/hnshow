@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-18T05:02:16.283Z</updated>
+    <updated>2022-04-18T05:51:11.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[顏色名稱生成器]]></title>
+        <id>https://news.ycombinator.com/item?id=31067821</id>
+        <link href="https://news.ycombinator.com/item?id=31067821"/>
+        <updated>2022-04-18T05:48:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Color Name Generator]]></summary>
+        <author>
+            <name>hapiben</name>
+            <uri>https://news.ycombinator.com/user?id=hapiben</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一個社區來學習銷售和營銷]]></title>
         <id>https://news.ycombinator.com/item?id=31067539</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kshvmdn</name>
             <uri>https://news.ycombinator.com/user?id=kshvmdn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Engineerfriendly.com - 獲得推薦並找到可推薦的工程師]]></title>
-        <id>https://news.ycombinator.com/item?id=30815791</id>
-        <link href="https://news.ycombinator.com/item?id=30815791"/>
-        <updated>2022-03-26T22:06:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Engineerfriendly.com – get referrals and find engineers to refer]]></summary>
-        <author>
-            <name>bartproost</name>
-            <uri>https://news.ycombinator.com/user?id=bartproost</uri>
         </author>
     </entry>
 </feed>
