@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-18T20:16:08.757Z</updated>
+    <updated>2022-04-18T21:13:48.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GoogleKeep Taskwarrior双向同步]]></title>
+        <id>https://news.ycombinator.com/item?id=31076477</id>
+        <link href="https://news.ycombinator.com/item?id=31076477"/>
+        <updated>2022-04-18T20:59:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GoogleKeep Taskwarrior Bi-Directional Synchronization]]></summary>
+        <author>
+            <name>bergercookie</name>
+            <uri>https://news.ycombinator.com/user?id=bergercookie</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Studius - 一个简单而强大的抽认卡应用程序，带有间隔性重复。]]></title>
         <id>https://news.ycombinator.com/item?id=31075553</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>orang2tang</name>
             <uri>https://news.ycombinator.com/user?id=orang2tang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我正在写一本名为《从零开始的计算机网络》的免费书籍]]></title>
-        <id>https://news.ycombinator.com/item?id=30824357</id>
-        <link href="https://news.ycombinator.com/item?id=30824357"/>
-        <updated>2022-03-27T21:32:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I'm Writing a Free Book Called Computer Networks from Scratch]]></summary>
-        <author>
-            <name>sarchertech</name>
-            <uri>https://news.ycombinator.com/user?id=sarchertech</uri>
         </author>
     </entry>
 </feed>
