@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 18 Apr 2022 05:51:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 08:39:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[FHIR Auth - 轻松为您的FHIR服务器增加认证功能]]></title>
+            <link>https://news.ycombinator.com/item?id=31068513</link>
+            <guid>https://news.ycombinator.com/item?id=31068513</guid>
+            <pubDate>Mon, 18 Apr 2022 08:28:15 GMT</pubDate>
+            <description><![CDATA[Show HN: FHIR Auth – Easily Add Authentication to Your FHIR Server]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MatrixEase - 以你思考的方式查看数据]]></title>
+            <link>https://news.ycombinator.com/item?id=31068486</link>
+            <guid>https://news.ycombinator.com/item?id=31068486</guid>
+            <pubDate>Mon, 18 Apr 2022 08:21:56 GMT</pubDate>
+            <description><![CDATA[Show HN: MatrixEase – See data the way you think about it]]></description>
+        </item>
+        <item>
+            <title><![CDATA[中尉，一个管理MtG指挥官牌的TUI]]></title>
+            <link>https://news.ycombinator.com/item?id=31068450</link>
+            <guid>https://news.ycombinator.com/item?id=31068450</guid>
+            <pubDate>Mon, 18 Apr 2022 08:13:18 GMT</pubDate>
+            <description><![CDATA[Show HN: Lieutenant, a TUI to manage MtG Commander decks]]></description>
+        </item>
         <item>
             <title><![CDATA[颜色名称生成器]]></title>
             <link>https://news.ycombinator.com/item?id=31067821</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30816832</guid>
             <pubDate>Sun, 27 Mar 2022 01:13:46 GMT</pubDate>
             <description><![CDATA[Show HN: Try Yarn Spinner, open source narrative game dev tool, in a web browser]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Npx 顺序生成行星-mbtiles |低硬度世界矢量瓷砖]]></title>
-            <link>https://news.ycombinator.com/item?id=30816831</link>
-            <guid>https://news.ycombinator.com/item?id=30816831</guid>
-            <pubDate>Sun, 27 Mar 2022 01:13:21 GMT</pubDate>
-            <description><![CDATA[Show HN: Npx sequentially-generate-planet-mbtiles |low hdware world vector tiles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HOV弹夹 - 我们为加州CAV贴纸制作了可拆卸的弹夹条。]]></title>
-            <link>https://news.ycombinator.com/item?id=30816484</link>
-            <guid>https://news.ycombinator.com/item?id=30816484</guid>
-            <pubDate>Sun, 27 Mar 2022 00:04:38 GMT</pubDate>
-            <description><![CDATA[Show HN: HOV Mags – we made removable mag strips for the California CAV stickers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[反向工程GitHub的身份识别算法]]></title>
-            <link>https://news.ycombinator.com/item?id=30816189</link>
-            <guid>https://news.ycombinator.com/item?id=30816189</guid>
-            <pubDate>Sat, 26 Mar 2022 23:13:15 GMT</pubDate>
-            <description><![CDATA[Show HN: Reverse engineering GitHub's identicon algorithm]]></description>
         </item>
     </channel>
 </rss>

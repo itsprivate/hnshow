@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-18T05:51:11.708Z</updated>
+    <updated>2022-04-18T08:39:42.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FHIR Auth - 輕鬆為您的FHIR服務器增加認證功能]]></title>
+        <id>https://news.ycombinator.com/item?id=31068513</id>
+        <link href="https://news.ycombinator.com/item?id=31068513"/>
+        <updated>2022-04-18T08:28:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: FHIR Auth – Easily Add Authentication to Your FHIR Server]]></summary>
+        <author>
+            <name>rukshn</name>
+            <uri>https://news.ycombinator.com/user?id=rukshn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MatrixEase - 以你思考的方式查看數據]]></title>
+        <id>https://news.ycombinator.com/item?id=31068486</id>
+        <link href="https://news.ycombinator.com/item?id=31068486"/>
+        <updated>2022-04-18T08:21:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MatrixEase – See data the way you think about it]]></summary>
+        <author>
+            <name>bobcalypso</name>
+            <uri>https://news.ycombinator.com/user?id=bobcalypso</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中尉，一個管理MtG指揮官牌的TUI]]></title>
+        <id>https://news.ycombinator.com/item?id=31068450</id>
+        <link href="https://news.ycombinator.com/item?id=31068450"/>
+        <updated>2022-04-18T08:13:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lieutenant, a TUI to manage MtG Commander decks]]></summary>
+        <author>
+            <name>endominus</name>
+            <uri>https://news.ycombinator.com/user?id=endominus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[顏色名稱生成器]]></title>
         <id>https://news.ycombinator.com/item?id=31067821</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>parisidau</name>
             <uri>https://news.ycombinator.com/user?id=parisidau</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Npx 順序生成行星-mbtiles |低硬度世界矢量瓷磚]]></title>
-        <id>https://news.ycombinator.com/item?id=30816831</id>
-        <link href="https://news.ycombinator.com/item?id=30816831"/>
-        <updated>2022-03-27T01:13:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Npx sequentially-generate-planet-mbtiles |low hdware world vector tiles]]></summary>
-        <author>
-            <name>JacksBrand</name>
-            <uri>https://news.ycombinator.com/user?id=JacksBrand</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HOV彈夾 - 我們為加州CAV貼紙製作了可拆卸的彈夾條。]]></title>
-        <id>https://news.ycombinator.com/item?id=30816484</id>
-        <link href="https://news.ycombinator.com/item?id=30816484"/>
-        <updated>2022-03-27T00:04:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: HOV Mags – we made removable mag strips for the California CAV stickers]]></summary>
-        <author>
-            <name>opengee</name>
-            <uri>https://news.ycombinator.com/user?id=opengee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反向工程GitHub的身份識別算法]]></title>
-        <id>https://news.ycombinator.com/item?id=30816189</id>
-        <link href="https://news.ycombinator.com/item?id=30816189"/>
-        <updated>2022-03-26T23:13:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Reverse engineering GitHub's identicon algorithm]]></summary>
-        <author>
-            <name>kshvmdn</name>
-            <uri>https://news.ycombinator.com/user?id=kshvmdn</uri>
         </author>
     </entry>
 </feed>
