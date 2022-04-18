@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-18T09:14:47.878Z</updated>
+    <updated>2022-04-18T11:13:12.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[帶有Rive動畫的個人網站]]></title>
+        <id>https://news.ycombinator.com/item?id=31069222</id>
+        <link href="https://news.ycombinator.com/item?id=31069222"/>
+        <updated>2022-04-18T10:53:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Personal Website with Rive Animations]]></summary>
+        <author>
+            <name>plitarko</name>
+            <uri>https://news.ycombinator.com/user?id=plitarko</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloudfs - 像本地文件系統一樣發現和管理你的雲計算]]></title>
         <id>https://news.ycombinator.com/item?id=31068636</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>cameronehrlich</name>
             <uri>https://news.ycombinator.com/user?id=cameronehrlich</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帶有本地目錄掛載的遠程Docker命令]]></title>
-        <id>https://news.ycombinator.com/item?id=30817279</id>
-        <link href="https://news.ycombinator.com/item?id=30817279"/>
-        <updated>2022-03-27T02:40:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Remote Docker commands with local directory mount]]></summary>
-        <author>
-            <name>vk6flab</name>
-            <uri>https://news.ycombinator.com/user?id=vk6flab</uri>
         </author>
     </entry>
 </feed>
