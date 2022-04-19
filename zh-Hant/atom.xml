@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-19T15:15:08.835Z</updated>
+    <updated>2022-04-19T15:39:29.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Encore - 後臺開發的新一天]]></title>
+        <id>https://news.ycombinator.com/item?id=31084268</id>
+        <link href="https://news.ycombinator.com/item?id=31084268"/>
+        <updated>2022-04-19T15:15:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Encore – A new day for backend dev]]></summary>
+        <author>
+            <name>eandre</name>
+            <uri>https://news.ycombinator.com/user?id=eandre</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在瀏覽器中與朋友一起擲3D骰子]]></title>
         <id>https://news.ycombinator.com/item?id=31084157</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>holmboy_</name>
             <uri>https://news.ycombinator.com/user?id=holmboy_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FP-bindgen - 全棧式WASM插件的綁定生成器]]></title>
-        <id>https://news.ycombinator.com/item?id=30830925</id>
-        <link href="https://news.ycombinator.com/item?id=30830925"/>
-        <updated>2022-03-28T14:36:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: FP-bindgen – bindings generator for full-stack WASM plugins]]></summary>
-        <author>
-            <name>miesie</name>
-            <uri>https://news.ycombinator.com/user?id=miesie</uri>
         </author>
     </entry>
 </feed>
