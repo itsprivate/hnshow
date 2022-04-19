@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 19 Apr 2022 17:23:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 17:55:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[積家快速入門]]></title>
+            <link>https://news.ycombinator.com/item?id=31086406</link>
+            <guid>https://news.ycombinator.com/item?id=31086406</guid>
+            <pubDate>Tue, 19 Apr 2022 17:49:49 GMT</pubDate>
+            <description><![CDATA[Show HN: Jaeger Quick Start]]></description>
+        </item>
         <item>
             <title><![CDATA[Eleventy中的相關帖子]]></title>
             <link>https://news.ycombinator.com/item?id=31085811</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30831755</guid>
             <pubDate>Mon, 28 Mar 2022 15:47:58 GMT</pubDate>
             <description><![CDATA[Show HN: ExKeyMo – Android external keyboard layout customization without root]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Factle, Wordle but for Trivia]]></title>
-            <link>https://news.ycombinator.com/item?id=30831470</link>
-            <guid>https://news.ycombinator.com/item?id=30831470</guid>
-            <pubDate>Mon, 28 Mar 2022 15:23:44 GMT</pubDate>
-            <description><![CDATA[Show HN: Factle, Wordle but for Trivia]]></description>
         </item>
     </channel>
 </rss>
