@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-19T11:51:42.910Z</updated>
+    <updated>2022-04-19T12:22:21.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[适用于Mac的飞机]]></title>
+        <id>https://news.ycombinator.com/item?id=31082030</id>
+        <link href="https://news.ycombinator.com/item?id=31082030"/>
+        <updated>2022-04-19T12:08:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Airplane for Mac]]></summary>
+        <author>
+            <name>pradeepb28</name>
+            <uri>https://news.ycombinator.com/user?id=pradeepb28</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ayy：去中心化的Linux软件包管理]]></title>
         <id>https://news.ycombinator.com/item?id=31081897</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ideogirl</name>
             <uri>https://news.ycombinator.com/user?id=ideogirl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLbot - 用一个命令在你的云中训练ML模型]]></title>
-        <id>https://news.ycombinator.com/item?id=30826845</id>
-        <link href="https://news.ycombinator.com/item?id=30826845"/>
-        <updated>2022-03-28T03:30:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: MLbot – Train ML models in your cloud with a single command]]></summary>
-        <author>
-            <name>subtech</name>
-            <uri>https://news.ycombinator.com/user?id=subtech</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 19 Apr 2022 11:51:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 12:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[適用於Mac的飛機]]></title>
+            <link>https://news.ycombinator.com/item?id=31082030</link>
+            <guid>https://news.ycombinator.com/item?id=31082030</guid>
+            <pubDate>Tue, 19 Apr 2022 12:08:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Airplane for Mac]]></description>
+        </item>
         <item>
             <title><![CDATA[Ayy：去中心化的Linux軟件包管理]]></title>
             <link>https://news.ycombinator.com/item?id=31081897</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30827125</guid>
             <pubDate>Mon, 28 Mar 2022 04:21:51 GMT</pubDate>
             <description><![CDATA[Show HN: A tool to make strong passwords that are easy to remember]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MLbot - 用一個命令在你的雲中訓練ML模型]]></title>
-            <link>https://news.ycombinator.com/item?id=30826845</link>
-            <guid>https://news.ycombinator.com/item?id=30826845</guid>
-            <pubDate>Mon, 28 Mar 2022 03:30:24 GMT</pubDate>
-            <description><![CDATA[Show HN: MLbot – Train ML models in your cloud with a single command]]></description>
         </item>
     </channel>
 </rss>
