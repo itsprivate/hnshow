@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-19T15:39:29.690Z</updated>
+    <updated>2022-04-19T15:58:59.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從你的銀行賬戶中提取加密貨幣指數基金]]></title>
+        <id>https://news.ycombinator.com/item?id=31084628</id>
+        <link href="https://news.ycombinator.com/item?id=31084628"/>
+        <updated>2022-04-19T15:40:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Crypto Index Funds from Your Bank Account]]></summary>
+        <author>
+            <name>issahassan</name>
+            <uri>https://news.ycombinator.com/user?id=issahassan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Encore - 後臺開發的新一天]]></title>
         <id>https://news.ycombinator.com/item?id=31084268</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>minimaxir</name>
             <uri>https://news.ycombinator.com/user?id=minimaxir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SwitchKeeper - 無聊的簡單功能標誌]]></title>
-        <id>https://news.ycombinator.com/item?id=30831005</id>
-        <link href="https://news.ycombinator.com/item?id=30831005"/>
-        <updated>2022-03-28T14:45:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: SwitchKeeper – Boringly simple feature flags]]></summary>
-        <author>
-            <name>holmboy_</name>
-            <uri>https://news.ycombinator.com/user?id=holmboy_</uri>
         </author>
     </entry>
 </feed>
