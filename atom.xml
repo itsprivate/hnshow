@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-19T11:40:26.831Z</updated>
+    <updated>2022-04-19T11:51:42.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Ayy：去中心化的Linux软件包管理]]></title>
+        <id>https://news.ycombinator.com/item?id=31081897</id>
+        <link href="https://news.ycombinator.com/item?id=31081897"/>
+        <updated>2022-04-19T11:48:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Ayy: decentralized Linux package management]]></summary>
+        <author>
+            <name>lawl</name>
+            <uri>https://news.ycombinator.com/user?id=lawl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新的自动化工具--征求反馈意见]]></title>
         <id>https://news.ycombinator.com/item?id=31081740</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>subtech</name>
             <uri>https://news.ycombinator.com/user?id=subtech</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑暗麻将（鼠标，桌面）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30826843</id>
-        <link href="https://news.ycombinator.com/item?id=30826843"/>
-        <updated>2022-03-28T03:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dark Mahjong (Mouse, Desktop)]]></summary>
-        <author>
-            <name>pp19dd</name>
-            <uri>https://news.ycombinator.com/user?id=pp19dd</uri>
         </author>
     </entry>
 </feed>
