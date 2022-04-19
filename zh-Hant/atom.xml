@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-19T12:22:21.600Z</updated>
+    <updated>2022-04-19T13:43:31.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,61 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為你的下一個項目提供令人愉快的加載動畫]]></title>
+        <id>https://news.ycombinator.com/item?id=31082806</id>
+        <link href="https://news.ycombinator.com/item?id=31082806"/>
+        <updated>2022-04-19T13:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Delightful loading animations for your next project]]></summary>
+        <author>
+            <name>rgriffinj</name>
+            <uri>https://news.ycombinator.com/user?id=rgriffinj</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將JavaScript作為一個數據庫--無服務器平臺]]></title>
+        <id>https://news.ycombinator.com/item?id=31082676</id>
+        <link href="https://news.ycombinator.com/item?id=31082676"/>
+        <updated>2022-04-19T13:17:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: JavaScript as a Database – Serverless Platform]]></summary>
+        <author>
+            <name>jpcapdevila</name>
+            <uri>https://news.ycombinator.com/user?id=jpcapdevila</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我建立了一個Node.js庫，用於創建加密的點對點應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=31082675</id>
+        <link href="https://news.ycombinator.com/item?id=31082675"/>
+        <updated>2022-04-19T13:17:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a Node.js library for creating encrypted peer-to-peer apps]]></summary>
+        <author>
+            <name>Hexadecible</name>
+            <uri>https://news.ycombinator.com/user?id=Hexadecible</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[莫納--以30美元/月的價格租用遠程工作裝置]]></title>
+        <id>https://news.ycombinator.com/item?id=31082535</id>
+        <link href="https://news.ycombinator.com/item?id=31082535"/>
+        <updated>2022-04-19T13:04:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mona – rent remote work setup for $30/month]]></summary>
+        <author>
+            <name>Maiuran</name>
+            <uri>https://news.ycombinator.com/user?id=Maiuran</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一個在線工具，可以將水和灰塵從手機的揚聲器中彈出。]]></title>
+        <id>https://news.ycombinator.com/item?id=31082532</id>
+        <link href="https://news.ycombinator.com/item?id=31082532"/>
+        <updated>2022-04-19T13:04:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an online tool to eject water and dust from phone's speakers]]></summary>
+        <author>
+            <name>John-gg</name>
+            <uri>https://news.ycombinator.com/user?id=John-gg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[適用於Mac的飛機]]></title>
         <id>https://news.ycombinator.com/item?id=31082030</id>
@@ -6558,61 +6613,6 @@
         <author>
             <name>lamplamplamp</name>
             <uri>https://news.ycombinator.com/user?id=lamplamplamp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Jupyter筆記本中從bloxs建立儀表盤]]></title>
-        <id>https://news.ycombinator.com/item?id=30828962</id>
-        <link href="https://news.ycombinator.com/item?id=30828962"/>
-        <updated>2022-03-28T10:07:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Build dashboards in Jupyter Notebook from bloxs]]></summary>
-        <author>
-            <name>pplonski86</name>
-            <uri>https://news.ycombinator.com/user?id=pplonski86</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordga - 與其他HNers的遊戲，創造最高得分的單詞。]]></title>
-        <id>https://news.ycombinator.com/item?id=30828578</id>
-        <link href="https://news.ycombinator.com/item?id=30828578"/>
-        <updated>2022-03-28T08:51:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Wordga – A game against other HNers to create the highest scoring word]]></summary>
-        <author>
-            <name>danieltait</name>
-            <uri>https://news.ycombinator.com/user?id=danieltait</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[提取視頻中的ppt並導出pdf]]></title>
-        <id>https://news.ycombinator.com/item?id=30828160</id>
-        <link href="https://news.ycombinator.com/item?id=30828160"/>
-        <updated>2022-03-28T07:45:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Extract the ppt in the video and export pdf]]></summary>
-        <author>
-            <name>brid_wu</name>
-            <uri>https://news.ycombinator.com/user?id=brid_wu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KevaIoC: 輕量級的Spring-like Java IoC框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30827236</id>
-        <link href="https://news.ycombinator.com/item?id=30827236"/>
-        <updated>2022-03-28T04:46:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: KevaIoC: Lightweight Spring-Like Java IoC Framework]]></summary>
-        <author>
-            <name>tu-huynh</name>
-            <uri>https://news.ycombinator.com/user?id=tu-huynh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個製作易於記憶的強大密碼的工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30827125</id>
-        <link href="https://news.ycombinator.com/item?id=30827125"/>
-        <updated>2022-03-28T04:21:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A tool to make strong passwords that are easy to remember]]></summary>
-        <author>
-            <name>ideogirl</name>
-            <uri>https://news.ycombinator.com/user?id=ideogirl</uri>
         </author>
     </entry>
 </feed>
