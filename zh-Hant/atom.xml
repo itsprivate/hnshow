@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-19T13:43:31.456Z</updated>
+    <updated>2022-04-19T14:03:04.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PostgresML，在你喜歡的數據庫中進行端到端的機器學習]]></title>
+        <id>https://news.ycombinator.com/item?id=31083153</id>
+        <link href="https://news.ycombinator.com/item?id=31083153"/>
+        <updated>2022-04-19T13:56:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PostgresML, end-to-end machine learning in your favorite db]]></summary>
+        <author>
+            <name>montanalow</name>
+            <uri>https://news.ycombinator.com/user?id=montanalow</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我為個人財務建立了一個模擬器。投影實驗室]]></title>
+        <id>https://news.ycombinator.com/item?id=31083093</id>
+        <link href="https://news.ycombinator.com/item?id=31083093"/>
+        <updated>2022-04-19T13:52:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a simulator for personal finance: ProjectionLab]]></summary>
+        <author>
+            <name>scubakid</name>
+            <uri>https://news.ycombinator.com/user?id=scubakid</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Teleporter輕鬆地將文件傳入和傳出嵌入式系統]]></title>
+        <id>https://news.ycombinator.com/item?id=31083028</id>
+        <link href="https://news.ycombinator.com/item?id=31083028"/>
+        <updated>2022-04-19T13:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Transfer files to and from embedded systems easily with Teleporter]]></summary>
+        <author>
+            <name>geno_nullfree</name>
+            <uri>https://news.ycombinator.com/user?id=geno_nullfree</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為你的下一個項目提供令人愉快的加載動畫]]></title>
         <id>https://news.ycombinator.com/item?id=31082806</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>adamgordonbell</name>
             <uri>https://news.ycombinator.com/user?id=adamgordonbell</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互聯網故事的故事--一個成功失敗的互聯網實驗]]></title>
-        <id>https://news.ycombinator.com/item?id=30829534</id>
-        <link href="https://news.ycombinator.com/item?id=30829534"/>
-        <updated>2022-03-28T11:58:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The internet story tale – a successfully failed internet experiment]]></summary>
-        <author>
-            <name>jollyrosso</name>
-            <uri>https://news.ycombinator.com/user?id=jollyrosso</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讓tailwind代碼可讀，自動拆分長的classNames]]></title>
-        <id>https://news.ycombinator.com/item?id=30829463</id>
-        <link href="https://news.ycombinator.com/item?id=30829463"/>
-        <updated>2022-03-28T11:47:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Make tailwind code readable automatically splitting long classNames]]></summary>
-        <author>
-            <name>xmorse</name>
-            <uri>https://news.ycombinator.com/user?id=xmorse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reddit上的 "建電腦 "銷售的一個簡單探索器]]></title>
-        <id>https://news.ycombinator.com/item?id=30829421</id>
-        <link href="https://news.ycombinator.com/item?id=30829421"/>
-        <updated>2022-03-28T11:42:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A simple explorer for Build-a-PC sales on Reddit]]></summary>
-        <author>
-            <name>lamplamplamp</name>
-            <uri>https://news.ycombinator.com/user?id=lamplamplamp</uri>
         </author>
     </entry>
 </feed>
