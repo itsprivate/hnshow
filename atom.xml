@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-19T14:35:33.475Z</updated>
+    <updated>2022-04-19T14:52:13.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个用于实时绘画的开源r/place画布]]></title>
+        <id>https://news.ycombinator.com/item?id=31083800</id>
+        <link href="https://news.ycombinator.com/item?id=31083800"/>
+        <updated>2022-04-19T14:41:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An open-source r/place canvas for realtime painting]]></summary>
+        <author>
+            <name>Meldiron</name>
+            <uri>https://news.ycombinator.com/user?id=Meldiron</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每封电子邮件中都有一个微型IRC]]></title>
         <id>https://news.ycombinator.com/item?id=31083639</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>AishwaryaVenkat</name>
             <uri>https://news.ycombinator.com/user?id=AishwaryaVenkat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何用Pipy实现一个简单的路由代理]]></title>
-        <id>https://news.ycombinator.com/item?id=30830420</id>
-        <link href="https://news.ycombinator.com/item?id=30830420"/>
-        <updated>2022-03-28T13:46:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: How to implement a simple routing proxy with Pipy]]></summary>
-        <author>
-            <name>shaderx13</name>
-            <uri>https://news.ycombinator.com/user?id=shaderx13</uri>
         </author>
     </entry>
 </feed>

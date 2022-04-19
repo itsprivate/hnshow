@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 19 Apr 2022 14:35:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 14:52:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個用於實時繪畫的開源r/place畫布]]></title>
+            <link>https://news.ycombinator.com/item?id=31083800</link>
+            <guid>https://news.ycombinator.com/item?id=31083800</guid>
+            <pubDate>Tue, 19 Apr 2022 14:41:53 GMT</pubDate>
+            <description><![CDATA[Show HN: An open-source r/place canvas for realtime painting]]></description>
+        </item>
         <item>
             <title><![CDATA[每封電子郵件中都有一個微型IRC]]></title>
             <link>https://news.ycombinator.com/item?id=31083639</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30830635</guid>
             <pubDate>Mon, 28 Mar 2022 14:08:43 GMT</pubDate>
             <description><![CDATA[Show HN: Easy installation of Promtail-Loki-Grafana stack]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何用Pipy實現一個簡單的路由代理]]></title>
-            <link>https://news.ycombinator.com/item?id=30830420</link>
-            <guid>https://news.ycombinator.com/item?id=30830420</guid>
-            <pubDate>Mon, 28 Mar 2022 13:46:03 GMT</pubDate>
-            <description><![CDATA[Show HN: How to implement a simple routing proxy with Pipy]]></description>
         </item>
     </channel>
 </rss>
