@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-19T15:58:59.864Z</updated>
+    <updated>2022-04-19T16:58:44.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[專注提醒--5分鐘的提醒，以保持專注]]></title>
+        <id>https://news.ycombinator.com/item?id=31085418</id>
+        <link href="https://news.ycombinator.com/item?id=31085418"/>
+        <updated>2022-04-19T16:33:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Focus Reminder – A 5 minute reminder to stay focused]]></summary>
+        <author>
+            <name>jarrenae</name>
+            <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從你的銀行賬戶中提取加密貨幣指數基金]]></title>
         <id>https://news.ycombinator.com/item?id=31084628</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ShaunCammack</name>
             <uri>https://news.ycombinator.com/user?id=ShaunCammack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在沒有PyTorch/TensorFlow的情況下創建圖像嵌入的Python包]]></title>
-        <id>https://news.ycombinator.com/item?id=30831251</id>
-        <link href="https://news.ycombinator.com/item?id=30831251"/>
-        <updated>2022-03-28T15:07:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Python package to create image embeddings without PyTorch/TensorFlow]]></summary>
-        <author>
-            <name>minimaxir</name>
-            <uri>https://news.ycombinator.com/user?id=minimaxir</uri>
         </author>
     </entry>
 </feed>
