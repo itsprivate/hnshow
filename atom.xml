@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-18T23:29:18.153Z</updated>
+    <updated>2022-04-19T00:42:38.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[简单的iOS应用程序。将视频分割成相等的小块并加上字幕]]></title>
+        <id>https://news.ycombinator.com/item?id=31078438</id>
+        <link href="https://news.ycombinator.com/item?id=31078438"/>
+        <updated>2022-04-19T00:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Simple iOS application. Split video on equal chunks and subtitle it]]></summary>
+        <author>
+            <name>yantalnka</name>
+            <uri>https://news.ycombinator.com/user?id=yantalnka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RSS提要发现引擎]]></title>
         <id>https://news.ycombinator.com/item?id=31077932</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mariobalca</name>
             <uri>https://news.ycombinator.com/user?id=mariobalca</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snabl - 一个实用的嵌入式Lisp的C++版本]]></title>
-        <id>https://news.ycombinator.com/item?id=30825483</id>
-        <link href="https://news.ycombinator.com/item?id=30825483"/>
-        <updated>2022-03-28T00:05:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Snabl – a practical embedded Lisp in C++]]></summary>
-        <author>
-            <name>codr7</name>
-            <uri>https://news.ycombinator.com/user?id=codr7</uri>
         </author>
     </entry>
 </feed>
