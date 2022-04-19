@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-19T16:58:44.408Z</updated>
+    <updated>2022-04-19T17:23:21.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Eleventy中的相关帖子]]></title>
+        <id>https://news.ycombinator.com/item?id=31085811</id>
+        <link href="https://news.ycombinator.com/item?id=31085811"/>
+        <updated>2022-04-19T17:03:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Related Posts in Eleventy]]></summary>
+        <author>
+            <name>justinwp</name>
+            <uri>https://news.ycombinator.com/user?id=justinwp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[专注提醒--5分钟的提醒，以保持专注]]></title>
         <id>https://news.ycombinator.com/item?id=31085418</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>garrettscott</name>
             <uri>https://news.ycombinator.com/user?id=garrettscott</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[叙事项目--促进和平的新闻产品]]></title>
-        <id>https://news.ycombinator.com/item?id=30831396</id>
-        <link href="https://news.ycombinator.com/item?id=30831396"/>
-        <updated>2022-03-28T15:18:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Narratives Project – A news product for peace]]></summary>
-        <author>
-            <name>ShaunCammack</name>
-            <uri>https://news.ycombinator.com/user?id=ShaunCammack</uri>
         </author>
     </entry>
 </feed>
