@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-19T17:55:33.759Z</updated>
+    <updated>2022-04-19T19:00:47.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Soup GitOps Operator - 增加了清單的模式和其他內容]]></title>
+        <id>https://news.ycombinator.com/item?id=31087198</id>
+        <link href="https://news.ycombinator.com/item?id=31087198"/>
+        <updated>2022-04-19T18:44:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Soup GitOps Operator – Added patterns for manifests and more]]></summary>
+        <author>
+            <name>caldito</name>
+            <uri>https://news.ycombinator.com/user?id=caldito</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathtown Alley，一個用於MakeCode Arcade的遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=31087107</id>
+        <link href="https://news.ycombinator.com/item?id=31087107"/>
+        <updated>2022-04-19T18:38:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mathtown Alley, a Game for MakeCode Arcade]]></summary>
+        <author>
+            <name>dtagames</name>
+            <uri>https://news.ycombinator.com/user?id=dtagames</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[積家快速入門]]></title>
         <id>https://news.ycombinator.com/item?id=31086406</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>kavehkhorram</name>
             <uri>https://news.ycombinator.com/user?id=kavehkhorram</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neverinstall 2.0 - 瀏覽器是新的操作系統]]></title>
-        <id>https://news.ycombinator.com/item?id=30832602</id>
-        <link href="https://news.ycombinator.com/item?id=30832602"/>
-        <updated>2022-03-28T16:53:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Neverinstall 2.0 - The browser is the new operating system]]></summary>
-        <author>
-            <name>igniteram</name>
-            <uri>https://news.ycombinator.com/user?id=igniteram</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ExKeyMo - 無需root即可定製安卓外置鍵盤佈局]]></title>
-        <id>https://news.ycombinator.com/item?id=30831755</id>
-        <link href="https://news.ycombinator.com/item?id=30831755"/>
-        <updated>2022-03-28T15:47:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ExKeyMo – Android external keyboard layout customization without root]]></summary>
-        <author>
-            <name>ris58h</name>
-            <uri>https://news.ycombinator.com/user?id=ris58h</uri>
         </author>
     </entry>
 </feed>
