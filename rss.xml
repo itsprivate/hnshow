@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 19 Apr 2022 09:52:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 11:40:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[新的自动化工具--征求反馈意见]]></title>
+            <link>https://news.ycombinator.com/item?id=31081740</link>
+            <guid>https://news.ycombinator.com/item?id=31081740</guid>
+            <pubDate>Tue, 19 Apr 2022 11:27:38 GMT</pubDate>
+            <description><![CDATA[Show HN: New automation tool – Asking for feedback]]></description>
+        </item>
         <item>
             <title><![CDATA[我建立了一个开源的、隐私至上的谷歌分析器]]></title>
             <link>https://news.ycombinator.com/item?id=31081218</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30826843</guid>
             <pubDate>Mon, 28 Mar 2022 03:30:18 GMT</pubDate>
             <description><![CDATA[Show HN: Dark Mahjong (Mouse, Desktop)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用Go泛型的网络库]]></title>
-            <link>https://news.ycombinator.com/item?id=30826368</link>
-            <guid>https://news.ycombinator.com/item?id=30826368</guid>
-            <pubDate>Mon, 28 Mar 2022 02:17:07 GMT</pubDate>
-            <description><![CDATA[Show HN: Networking Library Using Go Generics]]></description>
         </item>
     </channel>
 </rss>
