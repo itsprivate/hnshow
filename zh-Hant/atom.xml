@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-19T19:00:47.400Z</updated>
+    <updated>2022-04-19T21:41:05.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我剛剛開源了一個3D繪圖演示]]></title>
+        <id>https://news.ycombinator.com/item?id=31089516</id>
+        <link href="https://news.ycombinator.com/item?id=31089516"/>
+        <updated>2022-04-19T21:31:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I have just open-sourced a 3D drafting demo]]></summary>
+        <author>
+            <name>fatih-erikli</name>
+            <uri>https://news.ycombinator.com/user?id=fatih-erikli</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Soup GitOps Operator - 增加了清單的模式和其他內容]]></title>
         <id>https://news.ycombinator.com/item?id=31087198</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>speajus</name>
             <uri>https://news.ycombinator.com/user?id=speajus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個比AWS控制檯更好的選擇]]></title>
-        <id>https://news.ycombinator.com/item?id=30832687</id>
-        <link href="https://news.ycombinator.com/item?id=30832687"/>
-        <updated>2022-03-28T17:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Better Alternative to the AWS Console]]></summary>
-        <author>
-            <name>kavehkhorram</name>
-            <uri>https://news.ycombinator.com/user?id=kavehkhorram</uri>
         </author>
     </entry>
 </feed>

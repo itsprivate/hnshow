@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 19 Apr 2022 19:00:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 21:41:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我剛剛開源了一個3D繪圖演示]]></title>
+            <link>https://news.ycombinator.com/item?id=31089516</link>
+            <guid>https://news.ycombinator.com/item?id=31089516</guid>
+            <pubDate>Tue, 19 Apr 2022 21:31:38 GMT</pubDate>
+            <description><![CDATA[Show HN: I have just open-sourced a 3D drafting demo]]></description>
+        </item>
         <item>
             <title><![CDATA[Soup GitOps Operator - 增加了清單的模式和其他內容]]></title>
             <link>https://news.ycombinator.com/item?id=31087198</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30833199</guid>
             <pubDate>Mon, 28 Mar 2022 17:37:12 GMT</pubDate>
             <description><![CDATA[Show HN: CSS Parser in TypeScript Types]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個比AWS控制檯更好的選擇]]></title>
-            <link>https://news.ycombinator.com/item?id=30832687</link>
-            <guid>https://news.ycombinator.com/item?id=30832687</guid>
-            <pubDate>Mon, 28 Mar 2022 17:00:05 GMT</pubDate>
-            <description><![CDATA[Show HN: A Better Alternative to the AWS Console]]></description>
         </item>
     </channel>
 </rss>
