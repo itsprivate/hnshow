@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-19T00:42:38.160Z</updated>
+    <updated>2022-04-19T09:52:03.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一个开源的、隐私至上的谷歌分析器]]></title>
+        <id>https://news.ycombinator.com/item?id=31081218</id>
+        <link href="https://news.ycombinator.com/item?id=31081218"/>
+        <updated>2022-04-19T09:46:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built an opensource, privacy-first Google Analytics]]></summary>
+        <author>
+            <name>blaumaus</name>
+            <uri>https://news.ycombinator.com/user?id=blaumaus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[简单的iOS应用程序。将视频分割成相等的小块并加上字幕]]></title>
         <id>https://news.ycombinator.com/item?id=31078438</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>brendoncarroll</name>
             <uri>https://news.ycombinator.com/user?id=brendoncarroll</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为Twitter内容建立一个看板，有什么想法？]]></title>
-        <id>https://news.ycombinator.com/item?id=30825807</id>
-        <link href="https://news.ycombinator.com/item?id=30825807"/>
-        <updated>2022-03-28T00:54:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Building a kanban board for Twitter content, thoughts?]]></summary>
-        <author>
-            <name>mariobalca</name>
-            <uri>https://news.ycombinator.com/user?id=mariobalca</uri>
         </author>
     </entry>
 </feed>

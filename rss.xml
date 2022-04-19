@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 19 Apr 2022 00:42:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 09:52:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我建立了一个开源的、隐私至上的谷歌分析器]]></title>
+            <link>https://news.ycombinator.com/item?id=31081218</link>
+            <guid>https://news.ycombinator.com/item?id=31081218</guid>
+            <pubDate>Tue, 19 Apr 2022 09:46:10 GMT</pubDate>
+            <description><![CDATA[Show HN: I built an opensource, privacy-first Google Analytics]]></description>
+        </item>
         <item>
             <title><![CDATA[简单的iOS应用程序。将视频分割成相等的小块并加上字幕]]></title>
             <link>https://news.ycombinator.com/item?id=31078438</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30826368</guid>
             <pubDate>Mon, 28 Mar 2022 02:17:07 GMT</pubDate>
             <description><![CDATA[Show HN: Networking Library Using Go Generics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为Twitter内容建立一个看板，有什么想法？]]></title>
-            <link>https://news.ycombinator.com/item?id=30825807</link>
-            <guid>https://news.ycombinator.com/item?id=30825807</guid>
-            <pubDate>Mon, 28 Mar 2022 00:54:45 GMT</pubDate>
-            <description><![CDATA[Show HN: Building a kanban board for Twitter content, thoughts?]]></description>
         </item>
     </channel>
 </rss>
