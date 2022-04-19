@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 19 Apr 2022 14:52:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 15:15:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在瀏覽器中與朋友一起擲3D骰子]]></title>
+            <link>https://news.ycombinator.com/item?id=31084157</link>
+            <guid>https://news.ycombinator.com/item?id=31084157</guid>
+            <pubDate>Tue, 19 Apr 2022 15:07:46 GMT</pubDate>
+            <description><![CDATA[Show HN: Roll 3D dice with friends in the browser]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何使用文本分析來改善你的業務？]]></title>
+            <link>https://news.ycombinator.com/item?id=31084084</link>
+            <guid>https://news.ycombinator.com/item?id=31084084</guid>
+            <pubDate>Tue, 19 Apr 2022 15:02:28 GMT</pubDate>
+            <description><![CDATA[Show HN: How to Use Text Analysis to Improve Your Business?]]></description>
+        </item>
         <item>
             <title><![CDATA[一個用於實時繪畫的開源r/place畫布]]></title>
             <link>https://news.ycombinator.com/item?id=31083800</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30830925</guid>
             <pubDate>Mon, 28 Mar 2022 14:36:37 GMT</pubDate>
             <description><![CDATA[Show HN: FP-bindgen – bindings generator for full-stack WASM plugins]]></description>
-        </item>
-        <item>
-            <title><![CDATA[介紹一下Caddy-SSH]]></title>
-            <link>https://news.ycombinator.com/item?id=30830749</link>
-            <guid>https://news.ycombinator.com/item?id=30830749</guid>
-            <pubDate>Mon, 28 Mar 2022 14:19:50 GMT</pubDate>
-            <description><![CDATA[Show HN: Introducing Caddy-SSH]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Promtail-Loki-Grafana堆棧的簡易安裝]]></title>
-            <link>https://news.ycombinator.com/item?id=30830635</link>
-            <guid>https://news.ycombinator.com/item?id=30830635</guid>
-            <pubDate>Mon, 28 Mar 2022 14:08:43 GMT</pubDate>
-            <description><![CDATA[Show HN: Easy installation of Promtail-Loki-Grafana stack]]></description>
         </item>
     </channel>
 </rss>
