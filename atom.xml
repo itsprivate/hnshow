@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-19T21:41:05.588Z</updated>
+    <updated>2022-04-19T23:31:26.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Crylic，一个用于React的Wysiwyg编辑器]]></title>
+        <id>https://news.ycombinator.com/item?id=31090723</id>
+        <link href="https://news.ycombinator.com/item?id=31090723"/>
+        <updated>2022-04-19T23:27:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Crylic, a Wysiwyg Editor for React]]></summary>
+        <author>
+            <name>saswatb</name>
+            <uri>https://news.ycombinator.com/user?id=saswatb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我刚刚开源了一个3D绘图演示]]></title>
         <id>https://news.ycombinator.com/item?id=31089516</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ttchu</name>
             <uri>https://news.ycombinator.com/user?id=ttchu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript类型中的CSS解析器]]></title>
-        <id>https://news.ycombinator.com/item?id=30833199</id>
-        <link href="https://news.ycombinator.com/item?id=30833199"/>
-        <updated>2022-03-28T17:37:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CSS Parser in TypeScript Types]]></summary>
-        <author>
-            <name>speajus</name>
-            <uri>https://news.ycombinator.com/user?id=speajus</uri>
         </author>
     </entry>
 </feed>
