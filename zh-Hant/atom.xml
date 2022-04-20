@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-20T09:46:01.796Z</updated>
+    <updated>2022-04-20T10:15:24.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Licom - 瀏覽器插件，用於在每個網頁上發表評論]]></title>
+        <id>https://news.ycombinator.com/item?id=31094681</id>
+        <link href="https://news.ycombinator.com/item?id=31094681"/>
+        <updated>2022-04-20T10:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Licom – browser plugin for comments on every webpage]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[薪資在20萬以上的Web3開發工作]]></title>
+        <id>https://news.ycombinator.com/item?id=31094635</id>
+        <link href="https://news.ycombinator.com/item?id=31094635"/>
+        <updated>2022-04-20T09:56:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Web3 Developer Jobs with $200k+ salaries]]></summary>
+        <author>
+            <name>niftyweb</name>
+            <uri>https://news.ycombinator.com/user?id=niftyweb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chalk.ist - 為你的源代碼創建美麗的圖像]]></title>
         <id>https://news.ycombinator.com/item?id=31094534</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>codr7</name>
             <uri>https://news.ycombinator.com/user?id=codr7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個計算器來顯示無服務器GPU與AWS的成本節約情況]]></title>
-        <id>https://news.ycombinator.com/item?id=30836976</id>
-        <link href="https://news.ycombinator.com/item?id=30836976"/>
-        <updated>2022-03-28T23:48:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a calculator to show cost savings of serverless GPUs vs. AWS]]></summary>
-        <author>
-            <name>votick</name>
-            <uri>https://news.ycombinator.com/user?id=votick</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[舊金山、洛杉磯和西雅圖的最新電動車租賃清單]]></title>
-        <id>https://news.ycombinator.com/item?id=30836801</id>
-        <link href="https://news.ycombinator.com/item?id=30836801"/>
-        <updated>2022-03-28T23:20:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An updating EV Lease List for San Francisco, Los Angeles and Seattle]]></summary>
-        <author>
-            <name>nikodunk</name>
-            <uri>https://news.ycombinator.com/user?id=nikodunk</uri>
         </author>
     </entry>
 </feed>

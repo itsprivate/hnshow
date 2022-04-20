@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 20 Apr 2022 09:46:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 10:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Licom - 浏览器插件，用于在每个网页上发表评论]]></title>
+            <link>https://news.ycombinator.com/item?id=31094681</link>
+            <guid>https://news.ycombinator.com/item?id=31094681</guid>
+            <pubDate>Wed, 20 Apr 2022 10:02:05 GMT</pubDate>
+            <description><![CDATA[Show HN: Licom – browser plugin for comments on every webpage]]></description>
+        </item>
+        <item>
+            <title><![CDATA[薪资在20万以上的Web3开发工作]]></title>
+            <link>https://news.ycombinator.com/item?id=31094635</link>
+            <guid>https://news.ycombinator.com/item?id=31094635</guid>
+            <pubDate>Wed, 20 Apr 2022 09:56:10 GMT</pubDate>
+            <description><![CDATA[Show HN: Web3 Developer Jobs with $200k+ salaries]]></description>
+        </item>
         <item>
             <title><![CDATA[Chalk.ist - 为你的源代码创建美丽的图像]]></title>
             <link>https://news.ycombinator.com/item?id=31094534</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30837237</guid>
             <pubDate>Tue, 29 Mar 2022 00:26:44 GMT</pubDate>
             <description><![CDATA[Show HN: Snabl – a practical embedded Lisp in C++]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个计算器来显示无服务器GPU与AWS的成本节约情况]]></title>
-            <link>https://news.ycombinator.com/item?id=30836976</link>
-            <guid>https://news.ycombinator.com/item?id=30836976</guid>
-            <pubDate>Mon, 28 Mar 2022 23:48:26 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a calculator to show cost savings of serverless GPUs vs. AWS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[旧金山、洛杉矶和西雅图的最新电动车租赁清单]]></title>
-            <link>https://news.ycombinator.com/item?id=30836801</link>
-            <guid>https://news.ycombinator.com/item?id=30836801</guid>
-            <pubDate>Mon, 28 Mar 2022 23:20:32 GMT</pubDate>
-            <description><![CDATA[Show HN: An updating EV Lease List for San Francisco, Los Angeles and Seattle]]></description>
         </item>
     </channel>
 </rss>
