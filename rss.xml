@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 20 Apr 2022 14:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 14:33:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我建立了一个网站来寻找附近的咖啡馆来进行远程工作]]></title>
+            <link>https://news.ycombinator.com/item?id=31097195</link>
+            <guid>https://news.ycombinator.com/item?id=31097195</guid>
+            <pubDate>Wed, 20 Apr 2022 14:10:34 GMT</pubDate>
+            <description><![CDATA[Show HN: I built a website to find nearby cafes to work remotely from]]></description>
+        </item>
         <item>
             <title><![CDATA[Maven POM Visualizer]]></title>
             <link>https://news.ycombinator.com/item?id=31097042</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30844838</guid>
             <pubDate>Tue, 29 Mar 2022 16:36:45 GMT</pubDate>
             <description><![CDATA[Show HN: The power of PostgREST in a Rust library]]></description>
-        </item>
-        <item>
-            <title><![CDATA[博客的搜索引擎]]></title>
-            <link>https://news.ycombinator.com/item?id=30844149</link>
-            <guid>https://news.ycombinator.com/item?id=30844149</guid>
-            <pubDate>Tue, 29 Mar 2022 15:50:18 GMT</pubDate>
-            <description><![CDATA[Show HN: Search Engine for Blogs]]></description>
         </item>
     </channel>
 </rss>
