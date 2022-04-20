@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-20T13:06:54.964Z</updated>
+    <updated>2022-04-20T13:41:15.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[独特的星 - 当你给一个存储库加星时，随机的5个字母的字符串]]></title>
+        <id>https://news.ycombinator.com/item?id=31096452</id>
+        <link href="https://news.ycombinator.com/item?id=31096452"/>
+        <updated>2022-04-20T13:17:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Unique Star – random 5-letter string when you star a repository]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Higgs AI - 成为你自己的ML工程师。即时，无代码]]></title>
         <id>https://news.ycombinator.com/item?id=31096163</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Dave_Paul</name>
             <uri>https://news.ycombinator.com/user?id=Dave_Paul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初创企业的员工推荐计划]]></title>
-        <id>https://news.ycombinator.com/item?id=30841788</id>
-        <link href="https://news.ycombinator.com/item?id=30841788"/>
-        <updated>2022-03-29T12:47:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Employee Referral Program for Startups]]></summary>
-        <author>
-            <name>robinyapockets</name>
-            <uri>https://news.ycombinator.com/user?id=robinyapockets</uri>
         </author>
     </entry>
 </feed>
