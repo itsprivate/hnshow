@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-20T10:15:24.434Z</updated>
+    <updated>2022-04-20T10:54:27.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Sanscubicle - 一个由印度最优秀的人才组成的服务DAO社区]]></title>
+        <id>https://news.ycombinator.com/item?id=31094936</id>
+        <link href="https://news.ycombinator.com/item?id=31094936"/>
+        <updated>2022-04-20T10:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sanscubicle – A Community of service DAOs with India's finest minds]]></summary>
+        <author>
+            <name>damenci</name>
+            <uri>https://news.ycombinator.com/user?id=damenci</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Licom - 浏览器插件，用于在每个网页上发表评论]]></title>
         <id>https://news.ycombinator.com/item?id=31094681</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>maxtardiveau2</name>
             <uri>https://news.ycombinator.com/user?id=maxtardiveau2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snabl - 一个实用的嵌入式Lisp的C++版本]]></title>
-        <id>https://news.ycombinator.com/item?id=30837237</id>
-        <link href="https://news.ycombinator.com/item?id=30837237"/>
-        <updated>2022-03-29T00:26:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Snabl – a practical embedded Lisp in C++]]></summary>
-        <author>
-            <name>codr7</name>
-            <uri>https://news.ycombinator.com/user?id=codr7</uri>
         </author>
     </entry>
 </feed>
