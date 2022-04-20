@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 20 Apr 2022 10:54:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 11:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HN用的Favicons]]></title>
+            <link>https://news.ycombinator.com/item?id=31095046</link>
+            <guid>https://news.ycombinator.com/item?id=31095046</guid>
+            <pubDate>Wed, 20 Apr 2022 10:52:15 GMT</pubDate>
+            <description><![CDATA[Show HN: Favicons for HN]]></description>
+        </item>
         <item>
             <title><![CDATA[Sanscubicle - 一个由印度最优秀的人才组成的服务DAO社区]]></title>
             <link>https://news.ycombinator.com/item?id=31094936</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30840101</guid>
             <pubDate>Tue, 29 Mar 2022 08:19:36 GMT</pubDate>
             <description><![CDATA[Show HN: Opening the Tesla charging port with WebUSB and HackRF]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ApiLogicServer - 从数据库中创建应用程序和API]]></title>
-            <link>https://news.ycombinator.com/item?id=30837381</link>
-            <guid>https://news.ycombinator.com/item?id=30837381</guid>
-            <pubDate>Tue, 29 Mar 2022 00:45:15 GMT</pubDate>
-            <description><![CDATA[Show HN: ApiLogicServer – Create apps and APIs from a database]]></description>
         </item>
     </channel>
 </rss>
