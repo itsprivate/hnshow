@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-20T19:38:02.732Z</updated>
+    <updated>2022-04-20T20:16:46.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从图像中解出苏打水的安卓应用]]></title>
+        <id>https://news.ycombinator.com/item?id=31102018</id>
+        <link href="https://news.ycombinator.com/item?id=31102018"/>
+        <updated>2022-04-20T19:49:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Android app for solving sudokus from images]]></summary>
+        <author>
+            <name>hypertensiune</name>
+            <uri>https://news.ycombinator.com/user?id=hypertensiune</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Snap公司为眼镜设计的AR视界]]></title>
         <id>https://news.ycombinator.com/item?id=31101793</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ryanaparent</name>
             <uri>https://news.ycombinator.com/user?id=ryanaparent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moodflix - 你的心情，我们的建议]]></title>
-        <id>https://news.ycombinator.com/item?id=30849404</id>
-        <link href="https://news.ycombinator.com/item?id=30849404"/>
-        <updated>2022-03-29T22:58:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Moodflix – Your mood, our suggestions]]></summary>
-        <author>
-            <name>th3wall</name>
-            <uri>https://news.ycombinator.com/user?id=th3wall</uri>
         </author>
     </entry>
 </feed>
