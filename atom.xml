@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-20T14:02:06.554Z</updated>
+    <updated>2022-04-20T14:14:43.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Maven POM Visualizer]]></title>
+        <id>https://news.ycombinator.com/item?id=31097042</id>
+        <link href="https://news.ycombinator.com/item?id=31097042"/>
+        <updated>2022-04-20T13:59:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Maven POM Visualizer]]></summary>
+        <author>
+            <name>floverfelt</name>
+            <uri>https://news.ycombinator.com/user?id=floverfelt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RSABots - 一个独特的、可爱的机器人为你的公钥服务]]></title>
         <id>https://news.ycombinator.com/item?id=31096832</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dbrereton</name>
             <uri>https://news.ycombinator.com/user?id=dbrereton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ectomigo - 在合并前测量数据库变化的影响]]></title>
-        <id>https://news.ycombinator.com/item?id=30843241</id>
-        <link href="https://news.ycombinator.com/item?id=30843241"/>
-        <updated>2022-03-29T14:47:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ectomigo – Measure the impact of database changes before you merge]]></summary>
-        <author>
-            <name>dmfay</name>
-            <uri>https://news.ycombinator.com/user?id=dmfay</uri>
         </author>
     </entry>
 </feed>
