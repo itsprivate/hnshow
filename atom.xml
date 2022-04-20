@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-20T04:47:08.407Z</updated>
+    <updated>2022-04-20T05:55:49.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[模拟泛化治疗机器人]]></title>
+        <id>https://news.ycombinator.com/item?id=31093208</id>
+        <link href="https://news.ycombinator.com/item?id=31093208"/>
+        <updated>2022-04-20T05:33:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Simulated Generalized Therapy Bot]]></summary>
+        <author>
+            <name>westcort</name>
+            <uri>https://news.ycombinator.com/user?id=westcort</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[222行VBScript中的勒索软件保护]]></title>
         <id>https://news.ycombinator.com/item?id=31092848</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>handheldmouse</name>
             <uri>https://news.ycombinator.com/user?id=handheldmouse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT3工具--将YT视频转换为博客]]></title>
-        <id>https://news.ycombinator.com/item?id=30835355</id>
-        <link href="https://news.ycombinator.com/item?id=30835355"/>
-        <updated>2022-03-28T20:46:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GPT3 tool – Transforms YT vids into Blogs]]></summary>
-        <author>
-            <name>loutromans</name>
-            <uri>https://news.ycombinator.com/user?id=loutromans</uri>
         </author>
     </entry>
 </feed>
