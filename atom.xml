@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-20T13:41:15.818Z</updated>
+    <updated>2022-04-20T14:02:06.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RSABots - 一个独特的、可爱的机器人为你的公钥服务]]></title>
+        <id>https://news.ycombinator.com/item?id=31096832</id>
+        <link href="https://news.ycombinator.com/item?id=31096832"/>
+        <updated>2022-04-20T13:43:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: RSABots – A Unique, Cute Robot for Your Public Key]]></summary>
+        <author>
+            <name>cmdli</name>
+            <uri>https://news.ycombinator.com/user?id=cmdli</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[独特的星 - 当你给一个存储库加星时，随机的5个字母的字符串]]></title>
         <id>https://news.ycombinator.com/item?id=31096452</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>dmfay</name>
             <uri>https://news.ycombinator.com/user?id=dmfay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HelloTeams - SaaS支出/使用分析]]></title>
-        <id>https://news.ycombinator.com/item?id=30842074</id>
-        <link href="https://news.ycombinator.com/item?id=30842074"/>
-        <updated>2022-03-29T13:10:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: HelloTeams – SaaS Spend/Usage Analysis]]></summary>
-        <author>
-            <name>Dave_Paul</name>
-            <uri>https://news.ycombinator.com/user?id=Dave_Paul</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 20 Apr 2022 13:41:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 14:02:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[RSABots - 一個獨特的、可愛的機器人為你的公鑰服務]]></title>
+            <link>https://news.ycombinator.com/item?id=31096832</link>
+            <guid>https://news.ycombinator.com/item?id=31096832</guid>
+            <pubDate>Wed, 20 Apr 2022 13:43:25 GMT</pubDate>
+            <description><![CDATA[Show HN: RSABots – A Unique, Cute Robot for Your Public Key]]></description>
+        </item>
         <item>
             <title><![CDATA[獨特的星 - 當你給一個存儲庫加星時，隨機的5個字母的字符串]]></title>
             <link>https://news.ycombinator.com/item?id=31096452</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30843241</guid>
             <pubDate>Tue, 29 Mar 2022 14:47:02 GMT</pubDate>
             <description><![CDATA[Show HN: Ectomigo – Measure the impact of database changes before you merge]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HelloTeams - SaaS支出/使用分析]]></title>
-            <link>https://news.ycombinator.com/item?id=30842074</link>
-            <guid>https://news.ycombinator.com/item?id=30842074</guid>
-            <pubDate>Tue, 29 Mar 2022 13:10:55 GMT</pubDate>
-            <description><![CDATA[Show HN: HelloTeams – SaaS Spend/Usage Analysis]]></description>
         </item>
     </channel>
 </rss>
