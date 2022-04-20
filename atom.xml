@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-20T15:41:15.350Z</updated>
+    <updated>2022-04-20T15:58:47.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[三维订单表征]]></title>
+        <id>https://news.ycombinator.com/item?id=31098553</id>
+        <link href="https://news.ycombinator.com/item?id=31098553"/>
+        <updated>2022-04-20T15:40:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A 3D order book representation]]></summary>
+        <author>
+            <name>is0tope</name>
+            <uri>https://news.ycombinator.com/user?id=is0tope</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DTL：一种用于转换和处理数据的语言和JavaScript库]]></title>
         <id>https://news.ycombinator.com/item?id=31098205</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>wentin</name>
             <uri>https://news.ycombinator.com/user?id=wentin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在同一地点搜索域名和用户名]]></title>
-        <id>https://news.ycombinator.com/item?id=30846428</id>
-        <link href="https://news.ycombinator.com/item?id=30846428"/>
-        <updated>2022-03-29T18:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Search Domain and Username in the same place]]></summary>
-        <author>
-            <name>rajasimon</name>
-            <uri>https://news.ycombinator.com/user?id=rajasimon</uri>
         </author>
     </entry>
 </feed>
