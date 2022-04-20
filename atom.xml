@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-19T23:31:26.799Z</updated>
+    <updated>2022-04-20T03:05:25.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[寻找风险投资工作的招聘网站]]></title>
+        <id>https://news.ycombinator.com/item?id=31092262</id>
+        <link href="https://news.ycombinator.com/item?id=31092262"/>
+        <updated>2022-04-20T02:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Job board to find venture capital jobs]]></summary>
+        <author>
+            <name>AbiTyasTunggal</name>
+            <uri>https://news.ycombinator.com/user?id=AbiTyasTunggal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[链上棋智能合约细分]]></title>
+        <id>https://news.ycombinator.com/item?id=31092204</id>
+        <link href="https://news.ycombinator.com/item?id=31092204"/>
+        <updated>2022-04-20T02:43:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: On-Chain Chess Smart Contract Breakdown]]></summary>
+        <author>
+            <name>anupamchugh</name>
+            <uri>https://news.ycombinator.com/user?id=anupamchugh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ough-Hugo - 一个简单干净的Hugo博客主题]]></title>
+        <id>https://news.ycombinator.com/item?id=31089388</id>
+        <link href="https://news.ycombinator.com/item?id=31089388"/>
+        <updated>2022-04-19T21:21:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Ough-Hugo – a simple clean hugo blog theme]]></summary>
+        <author>
+            <name>calltrak</name>
+            <uri>https://news.ycombinator.com/user?id=calltrak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crylic，一个用于React的Wysiwyg编辑器]]></title>
         <id>https://news.ycombinator.com/item?id=31090723</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>repeat_or</name>
             <uri>https://news.ycombinator.com/user?id=repeat_or</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[变革的成分]]></title>
-        <id>https://news.ycombinator.com/item?id=30834446</id>
-        <link href="https://news.ycombinator.com/item?id=30834446"/>
-        <updated>2022-03-28T19:19:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ingredients for Change]]></summary>
-        <author>
-            <name>CokieMonster</name>
-            <uri>https://news.ycombinator.com/user?id=CokieMonster</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们为YC创业公司目录建立了一个GraphQL层]]></title>
-        <id>https://news.ycombinator.com/item?id=30833352</id>
-        <link href="https://news.ycombinator.com/item?id=30833352"/>
-        <updated>2022-03-28T17:48:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We Built a GraphQL Layer for the YC Startup Directory]]></summary>
-        <author>
-            <name>zaiste</name>
-            <uri>https://news.ycombinator.com/user?id=zaiste</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gasnow.is - 以太坊气体监测器与警报，我的第一个Web3迷你项目]]></title>
-        <id>https://news.ycombinator.com/item?id=30833329</id>
-        <link href="https://news.ycombinator.com/item?id=30833329"/>
-        <updated>2022-03-28T17:47:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Gasnow.is – Ethereum gas monitor with alert, my first Web3 mini project]]></summary>
-        <author>
-            <name>ttchu</name>
-            <uri>https://news.ycombinator.com/user?id=ttchu</uri>
         </author>
     </entry>
 </feed>
