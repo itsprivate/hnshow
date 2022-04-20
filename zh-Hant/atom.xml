@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-20T14:33:02.027Z</updated>
+    <updated>2022-04-20T14:41:04.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個關於產品持續時間和破損部位的網站]]></title>
+        <id>https://news.ycombinator.com/item?id=31097590</id>
+        <link href="https://news.ycombinator.com/item?id=31097590"/>
+        <updated>2022-04-20T14:36:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A website about how long products last and where they break]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一個網站來尋找附近的咖啡館來進行遠程工作]]></title>
         <id>https://news.ycombinator.com/item?id=31097195</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>danwaters</name>
             <uri>https://news.ycombinator.com/user?id=danwaters</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust庫中PostgREST的力量]]></title>
-        <id>https://news.ycombinator.com/item?id=30844838</id>
-        <link href="https://news.ycombinator.com/item?id=30844838"/>
-        <updated>2022-03-29T16:36:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The power of PostgREST in a Rust library]]></summary>
-        <author>
-            <name>ruslan_talpa</name>
-            <uri>https://news.ycombinator.com/user?id=ruslan_talpa</uri>
         </author>
     </entry>
 </feed>
