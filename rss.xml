@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 20 Apr 2022 04:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 04:47:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[222行VBScript中的勒索软件保护]]></title>
+            <link>https://news.ycombinator.com/item?id=31092848</link>
+            <guid>https://news.ycombinator.com/item?id=31092848</guid>
+            <pubDate>Wed, 20 Apr 2022 04:33:07 GMT</pubDate>
+            <description><![CDATA[Show HN: Ransomware protection in 222 lines of VBScript]]></description>
+        </item>
         <item>
             <title><![CDATA[在C语言预处理程序中带有用户可定义条款的循环宏，用于Awk]]></title>
             <link>https://news.ycombinator.com/item?id=31092597</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30835355</guid>
             <pubDate>Mon, 28 Mar 2022 20:46:10 GMT</pubDate>
             <description><![CDATA[Show HN: GPT3 tool – Transforms YT vids into Blogs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[帮助创建和管理您的花园的Java库]]></title>
-            <link>https://news.ycombinator.com/item?id=30834958</link>
-            <guid>https://news.ycombinator.com/item?id=30834958</guid>
-            <pubDate>Mon, 28 Mar 2022 20:07:36 GMT</pubDate>
-            <description><![CDATA[Show HN: Java library to help create and manage your garden]]></description>
         </item>
     </channel>
 </rss>
