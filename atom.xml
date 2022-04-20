@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-20T07:13:15.825Z</updated>
+    <updated>2022-04-20T09:12:55.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Solid推出了自动主持的用户测试]]></title>
+        <id>https://news.ycombinator.com/item?id=31094175</id>
+        <link href="https://news.ycombinator.com/item?id=31094175"/>
+        <updated>2022-04-20T08:24:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Solid launches auto-moderated User Tests]]></summary>
+        <author>
+            <name>jonaskamber</name>
+            <uri>https://news.ycombinator.com/user?id=jonaskamber</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[天狼星，一个用于创建漂亮的技术档案的工具]]></title>
         <id>https://news.ycombinator.com/item?id=31093672</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>peterbe</name>
             <uri>https://news.ycombinator.com/user?id=peterbe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nat.app，知道你与谁失去联系的个人CRM]]></title>
-        <id>https://news.ycombinator.com/item?id=30836418</id>
-        <link href="https://news.ycombinator.com/item?id=30836418"/>
-        <updated>2022-03-28T22:35:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Nat.app, personal CRM that knows who you're losing touch with]]></summary>
-        <author>
-            <name>nathanganser</name>
-            <uri>https://news.ycombinator.com/user?id=nathanganser</uri>
         </author>
     </entry>
 </feed>
