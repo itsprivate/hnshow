@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-20T16:16:07.026Z</updated>
+    <updated>2022-04-20T16:59:34.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Telosys代碼生成器4.0.0版本已經推出]]></title>
+        <id>https://news.ycombinator.com/item?id=31099622</id>
+        <link href="https://news.ycombinator.com/item?id=31099622"/>
+        <updated>2022-04-20T16:42:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Telosys Code Generator version 4.0.0 is available]]></summary>
+        <author>
+            <name>lguerin</name>
+            <uri>https://news.ycombinator.com/user?id=lguerin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我創建了一個來自網絡上的非常有用的網站集合]]></title>
+        <id>https://news.ycombinator.com/item?id=31099366</id>
+        <link href="https://news.ycombinator.com/item?id=31099366"/>
+        <updated>2022-04-20T16:26:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I created a collection of insanely useful websites from around the web]]></summary>
+        <author>
+            <name>jayra</name>
+            <uri>https://news.ycombinator.com/user?id=jayra</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在線驗證AWS CloudFormation模板的安全問題]]></title>
         <id>https://news.ycombinator.com/item?id=31098868</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>JoeOfTexas</name>
             <uri>https://news.ycombinator.com/user?id=JoeOfTexas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客健康]]></title>
-        <id>https://news.ycombinator.com/item?id=30848032</id>
-        <link href="https://news.ycombinator.com/item?id=30848032"/>
-        <updated>2022-03-29T20:36:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hacker Health]]></summary>
-        <author>
-            <name>syed_ahmed</name>
-            <uri>https://news.ycombinator.com/user?id=syed_ahmed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微軟365許可證優化器]]></title>
-        <id>https://news.ycombinator.com/item?id=30847686</id>
-        <link href="https://news.ycombinator.com/item?id=30847686"/>
-        <updated>2022-03-29T20:05:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Microsoft 365 License Optimizer]]></summary>
-        <author>
-            <name>out_sider</name>
-            <uri>https://news.ycombinator.com/user?id=out_sider</uri>
         </author>
     </entry>
 </feed>
