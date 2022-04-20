@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-20T03:05:25.800Z</updated>
+    <updated>2022-04-20T04:04:21.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在C语言预处理程序中带有用户可定义条款的循环宏，用于Awk]]></title>
+        <id>https://news.ycombinator.com/item?id=31092597</id>
+        <link href="https://news.ycombinator.com/item?id=31092597"/>
+        <updated>2022-04-20T03:48:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Loop macro with user-definable clauses in C preprocessor, for Awk]]></summary>
+        <author>
+            <name>kazinator</name>
+            <uri>https://news.ycombinator.com/user?id=kazinator</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[寻找风险投资工作的招聘网站]]></title>
         <id>https://news.ycombinator.com/item?id=31092262</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>phyzix5761</name>
             <uri>https://news.ycombinator.com/user?id=phyzix5761</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何生成合成数据]]></title>
-        <id>https://news.ycombinator.com/item?id=30834731</id>
-        <link href="https://news.ycombinator.com/item?id=30834731"/>
-        <updated>2022-03-28T19:46:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: How to Generate Synthetic Data]]></summary>
-        <author>
-            <name>repeat_or</name>
-            <uri>https://news.ycombinator.com/user?id=repeat_or</uri>
         </author>
     </entry>
 </feed>
