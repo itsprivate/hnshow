@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-20T20:38:25.838Z</updated>
+    <updated>2022-04-20T21:12:38.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于真实世界ML系统的新课程]]></title>
+        <id>https://news.ycombinator.com/item?id=31102996</id>
+        <link href="https://news.ycombinator.com/item?id=31102996"/>
+        <updated>2022-04-20T21:05:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: New course on real-world ML systems]]></summary>
+        <author>
+            <name>nihit-desai</name>
+            <uri>https://news.ycombinator.com/user?id=nihit-desai</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[组织你的SQL片段]]></title>
+        <id>https://news.ycombinator.com/item?id=31102943</id>
+        <link href="https://news.ycombinator.com/item?id=31102943"/>
+        <updated>2022-04-20T21:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Organise Your SQL Snippets]]></summary>
+        <author>
+            <name>yekalb</name>
+            <uri>https://news.ycombinator.com/user?id=yekalb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PyInpaint，一个用Python编写的轻量级图像涂色工具]]></title>
         <id>https://news.ycombinator.com/item?id=31102418</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>memorable</name>
             <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只是一个日历。查看简单的日历，无需登录，超级轻便]]></title>
-        <id>https://news.ycombinator.com/item?id=30851174</id>
-        <link href="https://news.ycombinator.com/item?id=30851174"/>
-        <updated>2022-03-30T03:11:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Just a Calendar: Simple Calendar to look at, no login, super light]]></summary>
-        <author>
-            <name>sharat87</name>
-            <uri>https://news.ycombinator.com/user?id=sharat87</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scriptbar Snippets - 在浏览器中保存方便的代码片段]]></title>
-        <id>https://news.ycombinator.com/item?id=30850458</id>
-        <link href="https://news.ycombinator.com/item?id=30850458"/>
-        <updated>2022-03-30T01:15:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Scriptbar Snippets – Handy code snippet to save in the browser]]></summary>
-        <author>
-            <name>datduyng</name>
-            <uri>https://news.ycombinator.com/user?id=datduyng</uri>
         </author>
     </entry>
 </feed>
