@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-20T20:16:46.464Z</updated>
+    <updated>2022-04-20T20:38:25.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PyInpaint，一個用Python編寫的輕量級圖像塗色工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31102418</id>
+        <link href="https://news.ycombinator.com/item?id=31102418"/>
+        <updated>2022-04-20T20:19:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PyInpaint, a lightweight image inpainting tool written in Python]]></summary>
+        <author>
+            <name>amitoz_azad</name>
+            <uri>https://news.ycombinator.com/user?id=amitoz_azad</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從圖像中解出蘇打水的安卓應用]]></title>
         <id>https://news.ycombinator.com/item?id=31102018</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>datduyng</name>
             <uri>https://news.ycombinator.com/user?id=datduyng</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不是影響者？Pinz是我們其他人的鏈接，在簡歷中。]]></title>
-        <id>https://news.ycombinator.com/item?id=30849979</id>
-        <link href="https://news.ycombinator.com/item?id=30849979"/>
-        <updated>2022-03-30T00:07:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Not an Influencer?Pinz is the link in bio for the rest of us]]></summary>
-        <author>
-            <name>ryanaparent</name>
-            <uri>https://news.ycombinator.com/user?id=ryanaparent</uri>
         </author>
     </entry>
 </feed>
