@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-20T22:49:08.842Z</updated>
+    <updated>2022-04-20T23:14:07.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[转换一个值的React钩子]]></title>
+        <id>https://news.ycombinator.com/item?id=31104135</id>
+        <link href="https://news.ycombinator.com/item?id=31104135"/>
+        <updated>2022-04-20T22:57:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: React hook to transition a value]]></summary>
+        <author>
+            <name>splendidHaiku</name>
+            <uri>https://news.ycombinator.com/user?id=splendidHaiku</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[像R/PLACE的画布]]></title>
         <id>https://news.ycombinator.com/item?id=31103934</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>caishu97</name>
             <uri>https://news.ycombinator.com/user?id=caishu97</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[电视直播；ThreeJS和React]]></title>
-        <id>https://news.ycombinator.com/item?id=30852015</id>
-        <link href="https://news.ycombinator.com/item?id=30852015"/>
-        <updated>2022-03-30T06:17:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Live TV; ThreeJS and React]]></summary>
-        <author>
-            <name>soheil</name>
-            <uri>https://news.ycombinator.com/user?id=soheil</uri>
         </author>
     </entry>
 </feed>
