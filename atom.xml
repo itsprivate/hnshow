@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-20T16:59:34.840Z</updated>
+    <updated>2022-04-20T18:41:00.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[直接将表格嵌入电子邮件中]]></title>
+        <id>https://news.ycombinator.com/item?id=31101020</id>
+        <link href="https://news.ycombinator.com/item?id=31101020"/>
+        <updated>2022-04-20T18:28:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Embed Forms Directly into Emails]]></summary>
+        <author>
+            <name>nish1500</name>
+            <uri>https://news.ycombinator.com/user?id=nish1500</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Telosys代码生成器4.0.0版本已经推出]]></title>
         <id>https://news.ycombinator.com/item?id=31099622</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bvm-101</name>
             <uri>https://news.ycombinator.com/user?id=bvm-101</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一杯酒的技巧，玩或开发一个竞争性的网页游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=30848575</id>
-        <link href="https://news.ycombinator.com/item?id=30848575"/>
-        <updated>2022-03-29T21:24:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A cup of skill, play or develop a competitive web game]]></summary>
-        <author>
-            <name>JoeOfTexas</name>
-            <uri>https://news.ycombinator.com/user?id=JoeOfTexas</uri>
         </author>
     </entry>
 </feed>
