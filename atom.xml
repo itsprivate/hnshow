@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-20T18:41:00.562Z</updated>
+    <updated>2022-04-20T19:38:02.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Snap公司为眼镜设计的AR视界]]></title>
+        <id>https://news.ycombinator.com/item?id=31101793</id>
+        <link href="https://news.ycombinator.com/item?id=31101793"/>
+        <updated>2022-04-20T19:34:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Snap’s AR Vision for Spectacles]]></summary>
+        <author>
+            <name>upwardbound</name>
+            <uri>https://news.ycombinator.com/user?id=upwardbound</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trekur - 所有旅行计划、航班、住宿等的一个网站。]]></title>
+        <id>https://news.ycombinator.com/item?id=31101710</id>
+        <link href="https://news.ycombinator.com/item?id=31101710"/>
+        <updated>2022-04-20T19:27:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Trekur – One site for all travel plans, flights, accommodation, etc.]]></summary>
+        <author>
+            <name>wazcov</name>
+            <uri>https://news.ycombinator.com/user?id=wazcov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[直接将表格嵌入电子邮件中]]></title>
         <id>https://news.ycombinator.com/item?id=31101020</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>th3wall</name>
             <uri>https://news.ycombinator.com/user?id=th3wall</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snabl - 一个实用的嵌入式Lisp的C++版本]]></title>
-        <id>https://news.ycombinator.com/item?id=30849273</id>
-        <link href="https://news.ycombinator.com/item?id=30849273"/>
-        <updated>2022-03-29T22:41:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Snabl – a practical embedded Lisp in C++]]></summary>
-        <author>
-            <name>codr7</name>
-            <uri>https://news.ycombinator.com/user?id=codr7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[视觉化的SQL查询]]></title>
-        <id>https://news.ycombinator.com/item?id=30836647</id>
-        <link href="https://news.ycombinator.com/item?id=30836647"/>
-        <updated>2022-03-28T23:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Visualize SQL Queries]]></summary>
-        <author>
-            <name>bvm-101</name>
-            <uri>https://news.ycombinator.com/user?id=bvm-101</uri>
         </author>
     </entry>
 </feed>
