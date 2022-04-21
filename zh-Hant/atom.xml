@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-21T18:59:20.797Z</updated>
+    <updated>2022-04-21T19:26:57.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GoROT ROT13在命令行上加密]]></title>
+        <id>https://news.ycombinator.com/item?id=31113968</id>
+        <link href="https://news.ycombinator.com/item?id=31113968"/>
+        <updated>2022-04-21T19:14:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GoROT ROT13 Encryption on the Command Line]]></summary>
+        <author>
+            <name>elsavio</name>
+            <uri>https://news.ycombinator.com/user?id=elsavio</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無代碼SQL（面向非技術用戶的可視化數據語言）]]></title>
+        <id>https://news.ycombinator.com/item?id=31113928</id>
+        <link href="https://news.ycombinator.com/item?id=31113928"/>
+        <updated>2022-04-21T19:10:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: No-code SQL (visual data language for non-technical users)]]></summary>
+        <author>
+            <name>george_ciobanu</name>
+            <uri>https://news.ycombinator.com/user?id=george_ciobanu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最佳的WebRTC項目、服務器和庫在一個地方]]></title>
         <id>https://news.ycombinator.com/item?id=31113648</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>aabedraba</name>
             <uri>https://news.ycombinator.com/user?id=aabedraba</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nitric - 無服務器應用程序的開源框架，無鎖定性]]></title>
-        <id>https://news.ycombinator.com/item?id=30863957</id>
-        <link href="https://news.ycombinator.com/item?id=30863957"/>
-        <updated>2022-03-31T04:58:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Nitric – An open-source framework for serverless apps without lock-in]]></summary>
-        <author>
-            <name>jcusch</name>
-            <uri>https://news.ycombinator.com/user?id=jcusch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[環境作為一種服務。一個創建短暫環境的平臺]]></title>
-        <id>https://news.ycombinator.com/item?id=30863708</id>
-        <link href="https://news.ycombinator.com/item?id=30863708"/>
-        <updated>2022-03-31T04:04:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Environments as a service. A platform to create ephemeral environments]]></summary>
-        <author>
-            <name>pratikshadake</name>
-            <uri>https://news.ycombinator.com/user?id=pratikshadake</uri>
         </author>
     </entry>
 </feed>
