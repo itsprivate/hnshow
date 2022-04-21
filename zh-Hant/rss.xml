@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 21 Apr 2022 11:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 12:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[具有下一代替代數據的股票研究網站]]></title>
+            <link>https://news.ycombinator.com/item?id=31108379</link>
+            <guid>https://news.ycombinator.com/item?id=31108379</guid>
+            <pubDate>Thu, 21 Apr 2022 12:06:19 GMT</pubDate>
+            <description><![CDATA[Show HN: Stock research website with next-gen alternative data]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在Twitter上建立/R/Place]]></title>
+            <link>https://news.ycombinator.com/item?id=31108365</link>
+            <guid>https://news.ycombinator.com/item?id=31108365</guid>
+            <pubDate>Thu, 21 Apr 2022 12:05:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Built /R/Place on Twitter]]></description>
+        </item>
+        <item>
+            <title><![CDATA[建立一個Python工作（後端和AI/ML）網站]]></title>
+            <link>https://news.ycombinator.com/item?id=31107794</link>
+            <guid>https://news.ycombinator.com/item?id=31107794</guid>
+            <pubDate>Thu, 21 Apr 2022 10:38:45 GMT</pubDate>
+            <description><![CDATA[Show HN: Building a Python Jobs (Back End and AI/ML) Website]]></description>
+        </item>
         <item>
             <title><![CDATA[Stumblr - 賽博朋克人群的絆腳石]]></title>
             <link>https://news.ycombinator.com/item?id=31108228</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30855814</guid>
             <pubDate>Wed, 30 Mar 2022 14:39:13 GMT</pubDate>
             <description><![CDATA[Show HN: Dstack – Train models and manage data effortlessly]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在JSX代碼中自動分割長的className屬性]]></title>
-            <link>https://news.ycombinator.com/item?id=30855792</link>
-            <guid>https://news.ycombinator.com/item?id=30855792</guid>
-            <pubDate>Wed, 30 Mar 2022 14:37:06 GMT</pubDate>
-            <description><![CDATA[Show HN: Automatically split long className attributes in JSX code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[建立一個與他人保持聯繫的系統]]></title>
-            <link>https://news.ycombinator.com/item?id=30855573</link>
-            <guid>https://news.ycombinator.com/item?id=30855573</guid>
-            <pubDate>Wed, 30 Mar 2022 14:19:58 GMT</pubDate>
-            <description><![CDATA[Show HN: Build a system to keep in touch with others]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通過審查產品破損後的壽命來跟蹤產品的使用壽命]]></title>
-            <link>https://news.ycombinator.com/item?id=30855193</link>
-            <guid>https://news.ycombinator.com/item?id=30855193</guid>
-            <pubDate>Wed, 30 Mar 2022 13:49:30 GMT</pubDate>
-            <description><![CDATA[Show HN: Tracking the longevity of products by reviewing them after they break]]></description>
         </item>
     </channel>
 </rss>
