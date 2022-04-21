@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 21 Apr 2022 11:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 11:39:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个寻找DAO机会的板块]]></title>
+            <link>https://news.ycombinator.com/item?id=31108142</link>
+            <guid>https://news.ycombinator.com/item?id=31108142</guid>
+            <pubDate>Thu, 21 Apr 2022 11:35:26 GMT</pubDate>
+            <description><![CDATA[Show HN: A board to find DAO opportunities]]></description>
+        </item>
         <item>
             <title><![CDATA[Build8键值服务是一个简单的键值数据库]]></title>
             <link>https://news.ycombinator.com/item?id=31107932</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30854927</guid>
             <pubDate>Wed, 30 Mar 2022 13:28:33 GMT</pubDate>
             <description><![CDATA[Show HN: Web page for opening the Tesla charging port]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Coolify v2 一个开源的、可自行托管的Heroku/Netlify替代品]]></title>
-            <link>https://news.ycombinator.com/item?id=30854912</link>
-            <guid>https://news.ycombinator.com/item?id=30854912</guid>
-            <pubDate>Wed, 30 Mar 2022 13:27:16 GMT</pubDate>
-            <description><![CDATA[Show HN: Coolify v2 An open-source and self-hostable Heroku/Netlify alternative]]></description>
         </item>
     </channel>
 </rss>
