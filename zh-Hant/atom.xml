@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-20T23:14:07.480Z</updated>
+    <updated>2022-04-21T02:54:28.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Python Logfmter]]></title>
+        <id>https://news.ycombinator.com/item?id=31105429</id>
+        <link href="https://news.ycombinator.com/item?id=31105429"/>
+        <updated>2022-04-21T02:24:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Python Logfmter]]></summary>
+        <author>
+            <name>jteppinette</name>
+            <uri>https://news.ycombinator.com/user?id=jteppinette</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TravelUSA。即時的旅行費用，簡單的方法。]]></title>
+        <id>https://news.ycombinator.com/item?id=31105232</id>
+        <link href="https://news.ycombinator.com/item?id=31105232"/>
+        <updated>2022-04-21T01:48:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: TravelUSA. Instant travel costs, the easy way.]]></summary>
+        <author>
+            <name>DCodes1</name>
+            <uri>https://news.ycombinator.com/user?id=DCodes1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轉換一個值的React鉤子]]></title>
         <id>https://news.ycombinator.com/item?id=31104135</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>joergrech</name>
             <uri>https://news.ycombinator.com/user?id=joergrech</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[設計和製作複雜用戶界面原型的應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30852905</id>
-        <link href="https://news.ycombinator.com/item?id=30852905"/>
-        <updated>2022-03-30T09:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: App to design and prototype complex user interfaces]]></summary>
-        <author>
-            <name>ChrisGuenther</name>
-            <uri>https://news.ycombinator.com/user?id=ChrisGuenther</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用poby sidecar代理提高springboot的QPS達10%。]]></title>
-        <id>https://news.ycombinator.com/item?id=30852479</id>
-        <link href="https://news.ycombinator.com/item?id=30852479"/>
-        <updated>2022-03-30T07:54:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Use pipy sidecar proxy improve springboot QPS up to 10%]]></summary>
-        <author>
-            <name>caishu97</name>
-            <uri>https://news.ycombinator.com/user?id=caishu97</uri>
         </author>
     </entry>
 </feed>
