@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-21T05:57:52.604Z</updated>
+    <updated>2022-04-21T08:16:46.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Scanwatch - 用於Node的快速而簡單的文件觀察程序]]></title>
+        <id>https://news.ycombinator.com/item?id=31106968</id>
+        <link href="https://news.ycombinator.com/item?id=31106968"/>
+        <updated>2022-04-21T07:53:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Scanwatch – Fast and simple file watcher for Node]]></summary>
+        <author>
+            <name>d08ble</name>
+            <uri>https://news.ycombinator.com/user?id=d08ble</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個網絡應用，可以讓你自動處理Slack的狀態]]></title>
         <id>https://news.ycombinator.com/item?id=31106347</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jsmoov</name>
             <uri>https://news.ycombinator.com/user?id=jsmoov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[舌頭訓練器--為你的嘴進行思維訓練]]></title>
-        <id>https://news.ycombinator.com/item?id=30853631</id>
-        <link href="https://news.ycombinator.com/item?id=30853631"/>
-        <updated>2022-03-30T11:15:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tongue Trainer – Mind training for your mouth]]></summary>
-        <author>
-            <name>tonguetrainer</name>
-            <uri>https://news.ycombinator.com/user?id=tonguetrainer</uri>
         </author>
     </entry>
 </feed>
