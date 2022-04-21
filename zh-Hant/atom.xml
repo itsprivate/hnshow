@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-21T09:36:51.273Z</updated>
+    <updated>2022-04-21T09:46:34.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[以0.2美元贏得高級域名]]></title>
+        <id>https://news.ycombinator.com/item?id=31107484</id>
+        <link href="https://news.ycombinator.com/item?id=31107484"/>
+        <updated>2022-04-21T09:37:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Win premium domain names for $0.20]]></summary>
+        <author>
+            <name>jagadeep</name>
+            <uri>https://news.ycombinator.com/user?id=jagadeep</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[任何人都可以編輯的區塊鏈筆記，但每小時只能編輯一次]]></title>
         <id>https://news.ycombinator.com/item?id=31107447</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>abikkani</name>
             <uri>https://news.ycombinator.com/user?id=abikkani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我把HN按主題分組，這樣你就不需要]]></title>
-        <id>https://news.ycombinator.com/item?id=30854261</id>
-        <link href="https://news.ycombinator.com/item?id=30854261"/>
-        <updated>2022-03-30T12:33:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I grouped HN by topics, so you don‘t have to]]></summary>
-        <author>
-            <name>hoerzu</name>
-            <uri>https://news.ycombinator.com/user?id=hoerzu</uri>
         </author>
     </entry>
 </feed>
