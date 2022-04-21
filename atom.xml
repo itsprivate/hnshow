@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-21T11:39:34.665Z</updated>
+    <updated>2022-04-21T11:51:44.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Stumblr - 赛博朋克人群的绊脚石]]></title>
+        <id>https://news.ycombinator.com/item?id=31108228</id>
+        <link href="https://news.ycombinator.com/item?id=31108228"/>
+        <updated>2022-04-21T11:47:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Stumblr – Stumble Upon for the Cyberpunk Crowd]]></summary>
+        <author>
+            <name>mapsdkhsd</name>
+            <uri>https://news.ycombinator.com/user?id=mapsdkhsd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个寻找DAO机会的板块]]></title>
         <id>https://news.ycombinator.com/item?id=31108142</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hubraumhugo</name>
             <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[打开特斯拉充电端口的网页]]></title>
-        <id>https://news.ycombinator.com/item?id=30854927</id>
-        <link href="https://news.ycombinator.com/item?id=30854927"/>
-        <updated>2022-03-30T13:28:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Web page for opening the Tesla charging port]]></summary>
-        <author>
-            <name>rgerganov</name>
-            <uri>https://news.ycombinator.com/user?id=rgerganov</uri>
         </author>
     </entry>
 </feed>
