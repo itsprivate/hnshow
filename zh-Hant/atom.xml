@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-21T14:15:27.416Z</updated>
+    <updated>2022-04-21T14:33:36.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從GitHub用戶名和issue/PR URLs快速獲取合著者信息]]></title>
+        <id>https://news.ycombinator.com/item?id=31109806</id>
+        <link href="https://news.ycombinator.com/item?id=31109806"/>
+        <updated>2022-04-21T14:23:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Get co-author info quickly from GitHub usernames and issue/PR URLs]]></summary>
+        <author>
+            <name>introt</name>
+            <uri>https://news.ycombinator.com/user?id=introt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為每月的最後一天創建重複的谷歌日曆事件]]></title>
         <id>https://news.ycombinator.com/item?id=31109430</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nivstein</name>
             <uri>https://news.ycombinator.com/user?id=nivstein</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ActionStitch - 使用2臺動作相機DIY 180°運動視頻記錄]]></title>
-        <id>https://news.ycombinator.com/item?id=30856783</id>
-        <link href="https://news.ycombinator.com/item?id=30856783"/>
-        <updated>2022-03-30T15:46:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ActionStitch – DIY 180° sports video recording using 2 action cameras]]></summary>
-        <author>
-            <name>acrosync</name>
-            <uri>https://news.ycombinator.com/user?id=acrosync</uri>
         </author>
     </entry>
 </feed>
