@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-21T08:16:46.212Z</updated>
+    <updated>2022-04-21T09:36:51.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[任何人都可以编辑的区块链笔记，但每小时只能编辑一次]]></title>
+        <id>https://news.ycombinator.com/item?id=31107447</id>
+        <link href="https://news.ycombinator.com/item?id=31107447"/>
+        <updated>2022-04-21T09:29:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Blockchain note that can be edited by anyone but only once an hour]]></summary>
+        <author>
+            <name>jagadeep</name>
+            <uri>https://news.ycombinator.com/user?id=jagadeep</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QBasic Gorillas为Android重塑形象]]></title>
+        <id>https://news.ycombinator.com/item?id=31107388</id>
+        <link href="https://news.ycombinator.com/item?id=31107388"/>
+        <updated>2022-04-21T09:16:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: QBasic Gorillas Reinvented for Android]]></summary>
+        <author>
+            <name>squarechris</name>
+            <uri>https://news.ycombinator.com/user?id=squarechris</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scanwatch - 用于Node的快速而简单的文件观察程序]]></title>
         <id>https://news.ycombinator.com/item?id=31106968</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>hoerzu</name>
             <uri>https://news.ycombinator.com/user?id=hoerzu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的地毯正在生成大量有效的QR码]]></title>
-        <id>https://news.ycombinator.com/item?id=30854259</id>
-        <link href="https://news.ycombinator.com/item?id=30854259"/>
-        <updated>2022-03-30T12:33:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: My carpet is generating a lot of valid QR Codes]]></summary>
-        <author>
-            <name>maxwellito</name>
-            <uri>https://news.ycombinator.com/user?id=maxwellito</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[满意度调查已经过时了。专家对支持代理人的反馈]]></title>
-        <id>https://news.ycombinator.com/item?id=30853704</id>
-        <link href="https://news.ycombinator.com/item?id=30853704"/>
-        <updated>2022-03-30T11:26:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Satisfaction surveys are outdated. Expert feedback for support agents]]></summary>
-        <author>
-            <name>jsmoov</name>
-            <uri>https://news.ycombinator.com/user?id=jsmoov</uri>
         </author>
     </entry>
 </feed>
