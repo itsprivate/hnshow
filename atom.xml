@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-21T14:33:36.437Z</updated>
+    <updated>2022-04-21T15:40:01.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了世界上最醒目的锻炼计时器/小工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31110195</id>
+        <link href="https://news.ycombinator.com/item?id=31110195"/>
+        <updated>2022-04-21T14:53:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made world's most visible workout timer/gadget]]></summary>
+        <author>
+            <name>1g0rrr</name>
+            <uri>https://news.ycombinator.com/user?id=1g0rrr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从GitHub用户名和issue/PR URLs快速获取合著者信息]]></title>
         <id>https://news.ycombinator.com/item?id=31109806</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kesavan_kk</name>
             <uri>https://news.ycombinator.com/user?id=kesavan_kk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AppTotal - 针对可疑OAuth应用的搜索引擎和沙盒]]></title>
-        <id>https://news.ycombinator.com/item?id=30856959</id>
-        <link href="https://news.ycombinator.com/item?id=30856959"/>
-        <updated>2022-03-30T15:57:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: AppTotal – Search engine and sandbox for suspicious OAuth apps]]></summary>
-        <author>
-            <name>nivstein</name>
-            <uri>https://news.ycombinator.com/user?id=nivstein</uri>
         </author>
     </entry>
 </feed>

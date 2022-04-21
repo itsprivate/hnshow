@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 21 Apr 2022 14:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 15:40:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了世界上最醒目的锻炼计时器/小工具]]></title>
+            <link>https://news.ycombinator.com/item?id=31110195</link>
+            <guid>https://news.ycombinator.com/item?id=31110195</guid>
+            <pubDate>Thu, 21 Apr 2022 14:53:05 GMT</pubDate>
+            <description><![CDATA[Show HN: I made world's most visible workout timer/gadget]]></description>
+        </item>
         <item>
             <title><![CDATA[从GitHub用户名和issue/PR URLs快速获取合著者信息]]></title>
             <link>https://news.ycombinator.com/item?id=31109806</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30857679</guid>
             <pubDate>Wed, 30 Mar 2022 16:46:29 GMT</pubDate>
             <description><![CDATA[Show HN: ishield.ai's assistant to create inclusive job posts available in Lever]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AppTotal - 针对可疑OAuth应用的搜索引擎和沙盒]]></title>
-            <link>https://news.ycombinator.com/item?id=30856959</link>
-            <guid>https://news.ycombinator.com/item?id=30856959</guid>
-            <pubDate>Wed, 30 Mar 2022 15:57:30 GMT</pubDate>
-            <description><![CDATA[Show HN: AppTotal – Search engine and sandbox for suspicious OAuth apps]]></description>
         </item>
     </channel>
 </rss>
