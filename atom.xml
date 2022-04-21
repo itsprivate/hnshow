@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-21T12:19:38.257Z</updated>
+    <updated>2022-04-21T13:02:39.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一个服务来检测无效的和恶意的电子邮件地址]]></title>
+        <id>https://news.ycombinator.com/item?id=31108741</id>
+        <link href="https://news.ycombinator.com/item?id=31108741"/>
+        <updated>2022-04-21T12:54:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a service to detect invalid and malicious email addresses]]></summary>
+        <author>
+            <name>mricog</name>
+            <uri>https://news.ycombinator.com/user?id=mricog</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费感恩之夜挑战赛，所有大学中第3个最好的夜晚]]></title>
+        <id>https://news.ycombinator.com/item?id=31108709</id>
+        <link href="https://news.ycombinator.com/item?id=31108709"/>
+        <updated>2022-04-21T12:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Free Gratitude Night Challenge, the 3th best night of all of college]]></summary>
+        <author>
+            <name>felixxx118</name>
+            <uri>https://news.ycombinator.com/user?id=felixxx118</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[具有下一代替代数据的股票研究网站]]></title>
         <id>https://news.ycombinator.com/item?id=31108379</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>mtorp</name>
             <uri>https://news.ycombinator.com/user?id=mtorp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EnvKey 2.0 - 端到端加密环境（现已开放源代码）]]></title>
-        <id>https://news.ycombinator.com/item?id=30855879</id>
-        <link href="https://news.ycombinator.com/item?id=30855879"/>
-        <updated>2022-03-30T14:42:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: EnvKey 2.0 – End-To-End Encrypted Environments (now open source)]]></summary>
-        <author>
-            <name>danenania</name>
-            <uri>https://news.ycombinator.com/user?id=danenania</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dstack - 训练模型并毫不费力地管理数据]]></title>
-        <id>https://news.ycombinator.com/item?id=30855814</id>
-        <link href="https://news.ycombinator.com/item?id=30855814"/>
-        <updated>2022-03-30T14:39:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dstack – Train models and manage data effortlessly]]></summary>
-        <author>
-            <name>cheptsov</name>
-            <uri>https://news.ycombinator.com/user?id=cheptsov</uri>
         </author>
     </entry>
 </feed>
