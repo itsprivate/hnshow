@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-21T17:51:51.294Z</updated>
+    <updated>2022-04-21T18:15:39.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Dashibase.com - 使用Supabase的无代码用户仪表板]]></title>
+        <id>https://news.ycombinator.com/item?id=31113158</id>
+        <link href="https://news.ycombinator.com/item?id=31113158"/>
+        <updated>2022-04-21T18:12:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dashibase.com – No-code user dashboards with Supabase]]></summary>
+        <author>
+            <name>greentfrapp</name>
+            <uri>https://news.ycombinator.com/user?id=greentfrapp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个生成开放图象和营销截图的应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=31113131</id>
+        <link href="https://news.ycombinator.com/item?id=31113131"/>
+        <updated>2022-04-21T18:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An app to generate open-graph images and marketing screenshots]]></summary>
+        <author>
+            <name>thelifeofrishi</name>
+            <uri>https://news.ycombinator.com/user?id=thelifeofrishi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为你的公钥生成一个独特的可爱机器人]]></title>
         <id>https://news.ycombinator.com/item?id=31112748</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>drousch</name>
             <uri>https://news.ycombinator.com/user?id=drousch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nanojob.com - 微型任务工作委员会]]></title>
-        <id>https://news.ycombinator.com/item?id=30859889</id>
-        <link href="https://news.ycombinator.com/item?id=30859889"/>
-        <updated>2022-03-30T19:40:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Nanojob.com – Micro Task Job Board]]></summary>
-        <author>
-            <name>monological</name>
-            <uri>https://news.ycombinator.com/user?id=monological</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[字谜对决]]></title>
-        <id>https://news.ycombinator.com/item?id=30859357</id>
-        <link href="https://news.ycombinator.com/item?id=30859357"/>
-        <updated>2022-03-30T18:55:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Wordle Duel]]></summary>
-        <author>
-            <name>ersinesen</name>
-            <uri>https://news.ycombinator.com/user?id=ersinesen</uri>
         </author>
     </entry>
 </feed>
