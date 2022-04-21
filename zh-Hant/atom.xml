@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-21T19:26:57.855Z</updated>
+    <updated>2022-04-21T21:12:49.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安全、使用和管理敏感數據--不需要接觸它]]></title>
+        <id>https://news.ycombinator.com/item?id=31115040</id>
+        <link href="https://news.ycombinator.com/item?id=31115040"/>
+        <updated>2022-04-21T20:52:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Secure, use, and manage sensitive data–without touching it]]></summary>
+        <author>
+            <name>jslampe</name>
+            <uri>https://news.ycombinator.com/user?id=jslampe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoROT ROT13在命令行上加密]]></title>
         <id>https://news.ycombinator.com/item?id=31113968</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Hitman666</name>
             <uri>https://news.ycombinator.com/user?id=Hitman666</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kusk-gateway，一個OpenAPI入口控制器，現在已經進入Beta版。]]></title>
-        <id>https://news.ycombinator.com/item?id=30864349</id>
-        <link href="https://news.ycombinator.com/item?id=30864349"/>
-        <updated>2022-03-31T06:16:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Kusk-gateway, an OpenAPI Ingress Controller, is now in Beta]]></summary>
-        <author>
-            <name>aabedraba</name>
-            <uri>https://news.ycombinator.com/user?id=aabedraba</uri>
         </author>
     </entry>
 </feed>

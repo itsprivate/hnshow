@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 21 Apr 2022 19:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 21:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[安全、使用和管理敏感数据--不需要接触它]]></title>
+            <link>https://news.ycombinator.com/item?id=31115040</link>
+            <guid>https://news.ycombinator.com/item?id=31115040</guid>
+            <pubDate>Thu, 21 Apr 2022 20:52:51 GMT</pubDate>
+            <description><![CDATA[Show HN: Secure, use, and manage sensitive data–without touching it]]></description>
+        </item>
         <item>
             <title><![CDATA[GoROT ROT13在命令行上加密]]></title>
             <link>https://news.ycombinator.com/item?id=31113968</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30864647</guid>
             <pubDate>Thu, 31 Mar 2022 07:11:49 GMT</pubDate>
             <description><![CDATA[Show HN: I made a math app game for my kids to help them with plus/minus calcs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Kusk-gateway，一个OpenAPI入口控制器，现在已经进入Beta版。]]></title>
-            <link>https://news.ycombinator.com/item?id=30864349</link>
-            <guid>https://news.ycombinator.com/item?id=30864349</guid>
-            <pubDate>Thu, 31 Mar 2022 06:16:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Kusk-gateway, an OpenAPI Ingress Controller, is now in Beta]]></description>
         </item>
     </channel>
 </rss>
