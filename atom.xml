@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-21T13:30:37.071Z</updated>
+    <updated>2022-04-21T13:49:29.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Beeline。一个以科学为背景的学习途径创建应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=31109163</id>
+        <link href="https://news.ycombinator.com/item?id=31109163"/>
+        <updated>2022-04-21T13:33:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Beeline: A science backed learning pathway creation app]]></summary>
+        <author>
+            <name>Jiimmmbo</name>
+            <uri>https://news.ycombinator.com/user?id=Jiimmmbo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[世界时间 - 世界不同地区的时间是多少]]></title>
         <id>https://news.ycombinator.com/item?id=31108845</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>miraculixx</name>
             <uri>https://news.ycombinator.com/user?id=miraculixx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vectorwiki, 浏览和下载任何品牌标志]]></title>
-        <id>https://news.ycombinator.com/item?id=30856376</id>
-        <link href="https://news.ycombinator.com/item?id=30856376"/>
-        <updated>2022-03-30T15:19:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Vectorwiki, Browse and download any brand logo]]></summary>
-        <author>
-            <name>bluefin</name>
-            <uri>https://news.ycombinator.com/user?id=bluefin</uri>
         </author>
     </entry>
 </feed>
