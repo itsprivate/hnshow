@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-21T13:49:29.342Z</updated>
+    <updated>2022-04-21T13:56:18.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[字體配對字形比較工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31109409</id>
+        <link href="https://news.ycombinator.com/item?id=31109409"/>
+        <updated>2022-04-21T13:52:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Font Pairing Glyph Comparison Tool]]></summary>
+        <author>
+            <name>bepero</name>
+            <uri>https://news.ycombinator.com/user?id=bepero</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beeline。一個以科學為背景的學習途徑創建應用程序]]></title>
         <id>https://news.ycombinator.com/item?id=31109163</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>shubhamjain</name>
             <uri>https://news.ycombinator.com/user?id=shubhamjain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Docker內部運行主機側的bash腳本和env var評估]]></title>
-        <id>https://news.ycombinator.com/item?id=30856583</id>
-        <link href="https://news.ycombinator.com/item?id=30856583"/>
-        <updated>2022-03-30T15:33:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Run host-side bash scripts and env var evaluation inside Docker]]></summary>
-        <author>
-            <name>miraculixx</name>
-            <uri>https://news.ycombinator.com/user?id=miraculixx</uri>
         </author>
     </entry>
 </feed>
