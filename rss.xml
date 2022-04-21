@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 21 Apr 2022 02:54:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 04:39:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[ScanCore，一个用PHP编写的高性能CLI病毒扫描器]]></title>
+            <link>https://news.ycombinator.com/item?id=31106062</link>
+            <guid>https://news.ycombinator.com/item?id=31106062</guid>
+            <pubDate>Thu, 21 Apr 2022 04:32:54 GMT</pubDate>
+            <description><![CDATA[Show HN: ScanCore, a High Performance CLI Virus Scanner Written in PHP]]></description>
+        </item>
+        <item>
+            <title><![CDATA[生产力技巧迷你书]]></title>
+            <link>https://news.ycombinator.com/item?id=31105797</link>
+            <guid>https://news.ycombinator.com/item?id=31105797</guid>
+            <pubDate>Thu, 21 Apr 2022 03:33:52 GMT</pubDate>
+            <description><![CDATA[Show HN: Mini Book of Productivity Tips]]></description>
+        </item>
         <item>
             <title><![CDATA[Python Logfmter]]></title>
             <link>https://news.ycombinator.com/item?id=31105429</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30853585</guid>
             <pubDate>Wed, 30 Mar 2022 11:05:08 GMT</pubDate>
             <description><![CDATA[Show HN: Add a Gradient Background to a Pic]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Humbo - 旅行的IMDB]]></title>
-            <link>https://news.ycombinator.com/item?id=30853332</link>
-            <guid>https://news.ycombinator.com/item?id=30853332</guid>
-            <pubDate>Wed, 30 Mar 2022 10:17:27 GMT</pubDate>
-            <description><![CDATA[Show HN: Humbo – The IMDB of Travel]]></description>
-        </item>
-        <item>
-            <title><![CDATA[寻找有工作机会的公司，使用你喜欢的技术]]></title>
-            <link>https://news.ycombinator.com/item?id=30853281</link>
-            <guid>https://news.ycombinator.com/item?id=30853281</guid>
-            <pubDate>Wed, 30 Mar 2022 10:09:37 GMT</pubDate>
-            <description><![CDATA[Show HN: Find companies with jobs using technologies you love]]></description>
         </item>
     </channel>
 </rss>

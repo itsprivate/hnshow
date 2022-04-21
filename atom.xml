@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-21T02:54:28.640Z</updated>
+    <updated>2022-04-21T04:39:39.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ScanCore，一个用PHP编写的高性能CLI病毒扫描器]]></title>
+        <id>https://news.ycombinator.com/item?id=31106062</id>
+        <link href="https://news.ycombinator.com/item?id=31106062"/>
+        <updated>2022-04-21T04:32:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ScanCore, a High Performance CLI Virus Scanner Written in PHP]]></summary>
+        <author>
+            <name>zelon88</name>
+            <uri>https://news.ycombinator.com/user?id=zelon88</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生产力技巧迷你书]]></title>
+        <id>https://news.ycombinator.com/item?id=31105797</id>
+        <link href="https://news.ycombinator.com/item?id=31105797"/>
+        <updated>2022-04-21T03:33:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mini Book of Productivity Tips]]></summary>
+        <author>
+            <name>lifeencoder</name>
+            <uri>https://news.ycombinator.com/user?id=lifeencoder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python Logfmter]]></title>
         <id>https://news.ycombinator.com/item?id=31105429</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>okumurahata</name>
             <uri>https://news.ycombinator.com/user?id=okumurahata</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humbo - 旅行的IMDB]]></title>
-        <id>https://news.ycombinator.com/item?id=30853332</id>
-        <link href="https://news.ycombinator.com/item?id=30853332"/>
-        <updated>2022-03-30T10:17:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Humbo – The IMDB of Travel]]></summary>
-        <author>
-            <name>anderspalm</name>
-            <uri>https://news.ycombinator.com/user?id=anderspalm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[寻找有工作机会的公司，使用你喜欢的技术]]></title>
-        <id>https://news.ycombinator.com/item?id=30853281</id>
-        <link href="https://news.ycombinator.com/item?id=30853281"/>
-        <updated>2022-03-30T10:09:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Find companies with jobs using technologies you love]]></summary>
-        <author>
-            <name>joergrech</name>
-            <uri>https://news.ycombinator.com/user?id=joergrech</uri>
         </author>
     </entry>
 </feed>
