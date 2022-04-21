@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 21 Apr 2022 15:40:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 16:59:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[達薩納。建立在ClickHouse之上的JSON原生無模式日誌解決方案]]></title>
+            <link>https://news.ycombinator.com/item?id=31111432</link>
+            <guid>https://news.ycombinator.com/item?id=31111432</guid>
+            <pubDate>Thu, 21 Apr 2022 16:16:45 GMT</pubDate>
+            <description><![CDATA[Show HN: Dassana. JSON-native,schema-less logging solution built atop ClickHouse]]></description>
+        </item>
+        <item>
+            <title><![CDATA[個人股票市場數據儀表板]]></title>
+            <link>https://news.ycombinator.com/item?id=31111408</link>
+            <guid>https://news.ycombinator.com/item?id=31111408</guid>
+            <pubDate>Thu, 21 Apr 2022 16:15:34 GMT</pubDate>
+            <description><![CDATA[Show HN: Personal stock market data dashboard]]></description>
+        </item>
+        <item>
+            <title><![CDATA[約1.2KLOC的靜態博客生成器]]></title>
+            <link>https://news.ycombinator.com/item?id=31111309</link>
+            <guid>https://news.ycombinator.com/item?id=31111309</guid>
+            <pubDate>Thu, 21 Apr 2022 16:07:30 GMT</pubDate>
+            <description><![CDATA[Show HN: Static blog generator in about 1.2KLOC]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了世界上最醒目的鍛鍊計時器/小工具]]></title>
             <link>https://news.ycombinator.com/item?id=31110195</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30858813</guid>
             <pubDate>Wed, 30 Mar 2022 18:17:25 GMT</pubDate>
             <description><![CDATA[Show HN: Bookable Schedule – Schedule meetings directly inside ONE email]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Podbabble - 一個討論播客的地方]]></title>
-            <link>https://news.ycombinator.com/item?id=30858693</link>
-            <guid>https://news.ycombinator.com/item?id=30858693</guid>
-            <pubDate>Wed, 30 Mar 2022 18:07:10 GMT</pubDate>
-            <description><![CDATA[Show HN: Podbabble – A Place to Discuss Podcasts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[代碼審查讓我感到害怕，所以我建立了一個關於如何掌握它們的課程]]></title>
-            <link>https://news.ycombinator.com/item?id=30858304</link>
-            <guid>https://news.ycombinator.com/item?id=30858304</guid>
-            <pubDate>Wed, 30 Mar 2022 17:34:30 GMT</pubDate>
-            <description><![CDATA[Show HN: Code reviews intimidated me, so I built a course on how to master them]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ishield.ai的助手在Lever中創建包容性的工作崗位]]></title>
-            <link>https://news.ycombinator.com/item?id=30857679</link>
-            <guid>https://news.ycombinator.com/item?id=30857679</guid>
-            <pubDate>Wed, 30 Mar 2022 16:46:29 GMT</pubDate>
-            <description><![CDATA[Show HN: ishield.ai's assistant to create inclusive job posts available in Lever]]></description>
         </item>
     </channel>
 </rss>
