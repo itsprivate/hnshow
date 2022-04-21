@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-21T10:40:45.992Z</updated>
+    <updated>2022-04-21T10:55:16.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用书签来组织你的在线研究]]></title>
+        <id>https://news.ycombinator.com/item?id=31107855</id>
+        <link href="https://news.ycombinator.com/item?id=31107855"/>
+        <updated>2022-04-21T10:49:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Structure your online research with a bookmark]]></summary>
+        <author>
+            <name>pcbje</name>
+            <uri>https://news.ycombinator.com/user?id=pcbje</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[厌倦了所有的垃圾数独应用，建立了我自己的数独应用。]]></title>
         <id>https://news.ycombinator.com/item?id=31107686</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zenull</name>
             <uri>https://news.ycombinator.com/user?id=zenull</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的测试出了什么问题？]]></title>
-        <id>https://news.ycombinator.com/item?id=30854637</id>
-        <link href="https://news.ycombinator.com/item?id=30854637"/>
-        <updated>2022-03-30T13:06:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: What Is Wrong with Your Testing?]]></summary>
-        <author>
-            <name>godfryd2</name>
-            <uri>https://news.ycombinator.com/user?id=godfryd2</uri>
         </author>
     </entry>
 </feed>
