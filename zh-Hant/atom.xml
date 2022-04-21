@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-21T16:59:26.654Z</updated>
+    <updated>2022-04-21T17:51:51.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為你的公鑰生成一個獨特的可愛機器人]]></title>
+        <id>https://news.ycombinator.com/item?id=31112748</id>
+        <link href="https://news.ycombinator.com/item?id=31112748"/>
+        <updated>2022-04-21T17:44:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Generate a unique cute robot for your public key]]></summary>
+        <author>
+            <name>cmdli</name>
+            <uri>https://news.ycombinator.com/user?id=cmdli</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[達薩納。建立在ClickHouse之上的JSON原生無模式日誌解決方案]]></title>
         <id>https://news.ycombinator.com/item?id=31111432</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ersinesen</name>
             <uri>https://news.ycombinator.com/user?id=ersinesen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可預約的時間表 - 直接在一個電子郵件中安排會議]]></title>
-        <id>https://news.ycombinator.com/item?id=30858813</id>
-        <link href="https://news.ycombinator.com/item?id=30858813"/>
-        <updated>2022-03-30T18:17:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bookable Schedule – Schedule meetings directly inside ONE email]]></summary>
-        <author>
-            <name>Coko</name>
-            <uri>https://news.ycombinator.com/user?id=Coko</uri>
         </author>
     </entry>
 </feed>
