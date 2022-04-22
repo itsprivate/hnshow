@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-22T07:31:53.279Z</updated>
+    <updated>2022-04-22T07:41:34.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將你的JavaScript工具與其他項目進行比較]]></title>
+        <id>https://news.ycombinator.com/item?id=31119187</id>
+        <link href="https://news.ycombinator.com/item?id=31119187"/>
+        <updated>2022-04-22T07:30:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Compare your JavaScript tooling with other projects]]></summary>
+        <author>
+            <name>rajasegarc</name>
+            <uri>https://news.ycombinator.com/user?id=rajasegarc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我為Slack做了一個披薩破冰的應用程序]]></title>
         <id>https://news.ycombinator.com/item?id=31119111</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>eneuman</name>
             <uri>https://news.ycombinator.com/user?id=eneuman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brametric - 確定你的正確胸罩尺寸的高級計算器]]></title>
-        <id>https://news.ycombinator.com/item?id=30865572</id>
-        <link href="https://news.ycombinator.com/item?id=30865572"/>
-        <updated>2022-03-31T10:15:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Brametric – Advanced calculator to determining your correct bra size]]></summary>
-        <author>
-            <name>Mike-br</name>
-            <uri>https://news.ycombinator.com/user?id=Mike-br</uri>
         </author>
     </entry>
 </feed>
