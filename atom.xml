@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-22T16:56:02.322Z</updated>
+    <updated>2022-04-22T17:23:59.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Markdown Playgrounds - 由WebAssembly提供技术支持]]></title>
+        <id>https://news.ycombinator.com/item?id=31124585</id>
+        <link href="https://news.ycombinator.com/item?id=31124585"/>
+        <updated>2022-04-22T17:09:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Markdown Playgrounds – Powered by WebAssembly]]></summary>
+        <author>
+            <name>syrusakbary</name>
+            <uri>https://news.ycombinator.com/user?id=syrusakbary</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[创建GitHub联系表而不分享你的信息]]></title>
+        <id>https://news.ycombinator.com/item?id=31124490</id>
+        <link href="https://news.ycombinator.com/item?id=31124490"/>
+        <updated>2022-04-22T17:03:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Create a GitHub contact form without sharing your information]]></summary>
+        <author>
+            <name>zicxor</name>
+            <uri>https://news.ycombinator.com/user?id=zicxor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[只用一个网页就能防止你的电脑睡觉]]></title>
         <id>https://news.ycombinator.com/item?id=31123522</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>Siecje</name>
             <uri>https://news.ycombinator.com/user?id=Siecje</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日英图画词典，现在带有SRS闪卡]]></title>
-        <id>https://news.ycombinator.com/item?id=30867519</id>
-        <link href="https://news.ycombinator.com/item?id=30867519"/>
-        <updated>2022-03-31T14:21:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Japanese-English picture dictionary, now with SRS flashcards]]></summary>
-        <author>
-            <name>mhay</name>
-            <uri>https://news.ycombinator.com/user?id=mhay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一款让购物成为社交的应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30867373</id>
-        <link href="https://news.ycombinator.com/item?id=30867373"/>
-        <updated>2022-03-31T14:09:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An app that makes shopping social]]></summary>
-        <author>
-            <name>julianandjuliet</name>
-            <uri>https://news.ycombinator.com/user?id=julianandjuliet</uri>
         </author>
     </entry>
 </feed>
