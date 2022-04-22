@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-22T06:59:39.778Z</updated>
+    <updated>2022-04-22T07:31:53.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我为Slack做了一个披萨破冰的应用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=31119111</id>
+        <link href="https://news.ycombinator.com/item?id=31119111"/>
+        <updated>2022-04-22T07:16:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a pizza icebreaker app for Slack]]></summary>
+        <author>
+            <name>jic00</name>
+            <uri>https://news.ycombinator.com/user?id=jic00</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一个应用程序来帮助Windows容器联网]]></title>
         <id>https://news.ycombinator.com/item?id=31118903</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Mike-br</name>
             <uri>https://news.ycombinator.com/user?id=Mike-br</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[追踪免费、FOSS、URL缩短器]]></title>
-        <id>https://news.ycombinator.com/item?id=30865491</id>
-        <link href="https://news.ycombinator.com/item?id=30865491"/>
-        <updated>2022-03-31T09:59:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tracking free, FOSS, URL shortener]]></summary>
-        <author>
-            <name>mcs_</name>
-            <uri>https://news.ycombinator.com/user?id=mcs_</uri>
         </author>
     </entry>
 </feed>
