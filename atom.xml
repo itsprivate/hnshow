@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-22T07:41:34.392Z</updated>
+    <updated>2022-04-22T10:40:07.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Spike.sh]]></title>
+        <id>https://news.ycombinator.com/item?id=31120033</id>
+        <link href="https://news.ycombinator.com/item?id=31120033"/>
+        <updated>2022-04-22T10:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Spike.sh]]></summary>
+        <author>
+            <name>kaushikt</name>
+            <uri>https://news.ycombinator.com/user?id=kaushikt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[构建聊天机器人的灵活务实的NLU意图匹配服务器]]></title>
+        <id>https://news.ycombinator.com/item?id=31120026</id>
+        <link href="https://news.ycombinator.com/item?id=31120026"/>
+        <updated>2022-04-22T10:31:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A flexible and pragmatic NLU intent matching server to build chatbots]]></summary>
+        <author>
+            <name>softmodeling</name>
+            <uri>https://news.ycombinator.com/user?id=softmodeling</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[将你的JavaScript工具与其他项目进行比较]]></title>
         <id>https://news.ycombinator.com/item?id=31119187</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>marclou</name>
             <uri>https://news.ycombinator.com/user?id=marclou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个收集反馈和显示你正在进行的功能的小部件]]></title>
-        <id>https://news.ycombinator.com/item?id=30865746</id>
-        <link href="https://news.ycombinator.com/item?id=30865746"/>
-        <updated>2022-03-31T10:47:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A widget to collect feedback and show features you're working on]]></summary>
-        <author>
-            <name>_elliott_</name>
-            <uri>https://news.ycombinator.com/user?id=_elliott_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无通信的锅炉模板 有状态的无服务器]]></title>
-        <id>https://news.ycombinator.com/item?id=30865627</id>
-        <link href="https://news.ycombinator.com/item?id=30865627"/>
-        <updated>2022-03-31T10:26:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: No-communication-boilerplate Stateful Serverless]]></summary>
-        <author>
-            <name>eneuman</name>
-            <uri>https://news.ycombinator.com/user?id=eneuman</uri>
         </author>
     </entry>
 </feed>
