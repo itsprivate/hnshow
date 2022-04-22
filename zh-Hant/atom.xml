@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-22T03:07:40.460Z</updated>
+    <updated>2022-04-22T04:09:45.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我為你所有的支付鏈接做了一個應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=31118055</id>
+        <link href="https://news.ycombinator.com/item?id=31118055"/>
+        <updated>2022-04-22T04:01:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an app for all your payment links]]></summary>
+        <author>
+            <name>tawrahim</name>
+            <uri>https://news.ycombinator.com/user?id=tawrahim</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[就像你掐死蒲公英並把它交給你的愛人一樣]]></title>
         <id>https://news.ycombinator.com/item?id=31117378</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Vinnl</name>
             <uri>https://news.ycombinator.com/user?id=Vinnl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M3O價格 - 全球價格指數]]></title>
-        <id>https://news.ycombinator.com/item?id=30865191</id>
-        <link href="https://news.ycombinator.com/item?id=30865191"/>
-        <updated>2022-03-31T08:59:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: M3O Prices – Global prices index]]></summary>
-        <author>
-            <name>asim</name>
-            <uri>https://news.ycombinator.com/user?id=asim</uri>
         </author>
     </entry>
 </feed>
