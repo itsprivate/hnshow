@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-22T10:40:07.454Z</updated>
+    <updated>2022-04-22T10:55:36.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[可解釋的語義搜索，用txtai構建你自己的查詢語言]]></title>
+        <id>https://news.ycombinator.com/item?id=31120118</id>
+        <link href="https://news.ycombinator.com/item?id=31120118"/>
+        <updated>2022-04-22T10:49:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Explainable semantic search, build your own query language with txtai]]></summary>
+        <author>
+            <name>txtai</name>
+            <uri>https://news.ycombinator.com/user?id=txtai</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個程序員尋找禮物的方法]]></title>
+        <id>https://news.ycombinator.com/item?id=31120050</id>
+        <link href="https://news.ycombinator.com/item?id=31120050"/>
+        <updated>2022-04-22T10:35:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A programmer's approach to finding gifts]]></summary>
+        <author>
+            <name>cvanvlack</name>
+            <uri>https://news.ycombinator.com/user?id=cvanvlack</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spike.sh]]></title>
         <id>https://news.ycombinator.com/item?id=31120033</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>lostsoul8282</name>
             <uri>https://news.ycombinator.com/user?id=lostsoul8282</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開源的角色管理和權限庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30866012</id>
-        <link href="https://news.ycombinator.com/item?id=30866012"/>
-        <updated>2022-03-31T11:32:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open-source Role management and Permissions Library]]></summary>
-        <author>
-            <name>mtolga</name>
-            <uri>https://news.ycombinator.com/user?id=mtolga</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SHOW HN：將你的無聊任務變成有趣的遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30865578</id>
-        <link href="https://news.ycombinator.com/item?id=30865578"/>
-        <updated>2022-03-31T10:17:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: SHOW HN: Turn your boring tasks into a fun game]]></summary>
-        <author>
-            <name>marclou</name>
-            <uri>https://news.ycombinator.com/user?id=marclou</uri>
         </author>
     </entry>
 </feed>
