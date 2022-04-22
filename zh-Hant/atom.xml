@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-22T10:55:36.435Z</updated>
+    <updated>2022-04-22T11:12:13.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在推特上播放《DOOM》，在網頁（chromium）上運行，沒有廣告攔截器。]]></title>
+        <id>https://news.ycombinator.com/item?id=31120191</id>
+        <link href="https://news.ycombinator.com/item?id=31120191"/>
+        <updated>2022-04-22T11:03:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Play DOOM embedded in a tweet.Works in web(chromium) without ad-blocker]]></summary>
+        <author>
+            <name>dixitbavu</name>
+            <uri>https://news.ycombinator.com/user?id=dixitbavu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可解釋的語義搜索，用txtai構建你自己的查詢語言]]></title>
         <id>https://news.ycombinator.com/item?id=31120118</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>darjagutnick</name>
             <uri>https://news.ycombinator.com/user?id=darjagutnick</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15Rock開源TCFD報告工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30866077</id>
-        <link href="https://news.ycombinator.com/item?id=30866077"/>
-        <updated>2022-03-31T11:42:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: 15Rock open sources TCFD reporting tool]]></summary>
-        <author>
-            <name>lostsoul8282</name>
-            <uri>https://news.ycombinator.com/user?id=lostsoul8282</uri>
         </author>
     </entry>
 </feed>

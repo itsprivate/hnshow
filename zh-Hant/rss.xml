@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 22 Apr 2022 10:55:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 11:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在推特上播放《DOOM》，在網頁（chromium）上運行，沒有廣告攔截器。]]></title>
+            <link>https://news.ycombinator.com/item?id=31120191</link>
+            <guid>https://news.ycombinator.com/item?id=31120191</guid>
+            <pubDate>Fri, 22 Apr 2022 11:03:36 GMT</pubDate>
+            <description><![CDATA[Show HN: Play DOOM embedded in a tweet.Works in web(chromium) without ad-blocker]]></description>
+        </item>
         <item>
             <title><![CDATA[可解釋的語義搜索，用txtai構建你自己的查詢語言]]></title>
             <link>https://news.ycombinator.com/item?id=31120118</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30866342</guid>
             <pubDate>Thu, 31 Mar 2022 12:20:34 GMT</pubDate>
             <description><![CDATA[Show HN: Professional growth in 2 min a day [total rebuild of iOS app]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[15Rock開源TCFD報告工具]]></title>
-            <link>https://news.ycombinator.com/item?id=30866077</link>
-            <guid>https://news.ycombinator.com/item?id=30866077</guid>
-            <pubDate>Thu, 31 Mar 2022 11:42:04 GMT</pubDate>
-            <description><![CDATA[Show HN: 15Rock open sources TCFD reporting tool]]></description>
         </item>
     </channel>
 </rss>
