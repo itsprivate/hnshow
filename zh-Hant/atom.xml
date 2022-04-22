@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-22T17:50:54.585Z</updated>
+    <updated>2022-04-22T18:15:57.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[呼吸--專注和平靜的呼吸練習]]></title>
+        <id>https://news.ycombinator.com/item?id=31125646</id>
+        <link href="https://news.ycombinator.com/item?id=31125646"/>
+        <updated>2022-04-22T18:05:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Breathe – Breathing exercises for focus and calm]]></summary>
+        <author>
+            <name>feketegy</name>
+            <uri>https://news.ycombinator.com/user?id=feketegy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用iOS LiDAR設備在增強現實中實現MIDI音符的可視化]]></title>
         <id>https://news.ycombinator.com/item?id=31124885</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Unit520</name>
             <uri>https://news.ycombinator.com/user?id=Unit520</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個小遊戲應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30868394</id>
-        <link href="https://news.ycombinator.com/item?id=30868394"/>
-        <updated>2022-03-31T15:37:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Trivia App]]></summary>
-        <author>
-            <name>Pranav2612000</name>
-            <uri>https://news.ycombinator.com/user?id=Pranav2612000</uri>
         </author>
     </entry>
 </feed>
