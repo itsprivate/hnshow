@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 22 Apr 2022 11:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 13:03:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Laravel Nova的替代品，无代码UI编辑器，搜索，BRAC，以及更多]]></title>
+            <link>https://news.ycombinator.com/item?id=31121061</link>
+            <guid>https://news.ycombinator.com/item?id=31121061</guid>
+            <pubDate>Fri, 22 Apr 2022 12:58:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Laravel Nova alternative with no code UI editor, search, BRAC, and more]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Bash脚本来查找未使用的AMIs]]></title>
+            <link>https://news.ycombinator.com/item?id=31120753</link>
+            <guid>https://news.ycombinator.com/item?id=31120753</guid>
+            <pubDate>Fri, 22 Apr 2022 12:23:25 GMT</pubDate>
+            <description><![CDATA[Show HN: Bash script to find unused AMIs]]></description>
+        </item>
         <item>
             <title><![CDATA[在推特上播放《DOOM》，在网页（chromium）上运行，没有广告拦截器。]]></title>
             <link>https://news.ycombinator.com/item?id=31120191</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30865469</guid>
             <pubDate>Thu, 31 Mar 2022 09:56:22 GMT</pubDate>
             <description><![CDATA[Show HN: Open-source automation scripts for DevOps community]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Vim键绑定的最快的日计划工具]]></title>
-            <link>https://news.ycombinator.com/item?id=30859052</link>
-            <guid>https://news.ycombinator.com/item?id=30859052</guid>
-            <pubDate>Wed, 30 Mar 2022 18:35:23 GMT</pubDate>
-            <description><![CDATA[Show HN: The fastest day planning tool with Vim keybindings]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每天2分钟的专业成长[iOS应用的全面重建]]]></title>
-            <link>https://news.ycombinator.com/item?id=30866342</link>
-            <guid>https://news.ycombinator.com/item?id=30866342</guid>
-            <pubDate>Thu, 31 Mar 2022 12:20:34 GMT</pubDate>
-            <description><![CDATA[Show HN: Professional growth in 2 min a day [total rebuild of iOS app]]]></description>
         </item>
     </channel>
 </rss>

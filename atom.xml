@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-22T11:12:13.677Z</updated>
+    <updated>2022-04-22T13:03:22.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Laravel Nova的替代品，无代码UI编辑器，搜索，BRAC，以及更多]]></title>
+        <id>https://news.ycombinator.com/item?id=31121061</id>
+        <link href="https://news.ycombinator.com/item?id=31121061"/>
+        <updated>2022-04-22T12:58:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Laravel Nova alternative with no code UI editor, search, BRAC, and more]]></summary>
+        <author>
+            <name>yen7</name>
+            <uri>https://news.ycombinator.com/user?id=yen7</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Bash脚本来查找未使用的AMIs]]></title>
+        <id>https://news.ycombinator.com/item?id=31120753</id>
+        <link href="https://news.ycombinator.com/item?id=31120753"/>
+        <updated>2022-04-22T12:23:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bash script to find unused AMIs]]></summary>
+        <author>
+            <name>ilpianista</name>
+            <uri>https://news.ycombinator.com/user?id=ilpianista</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在推特上播放《DOOM》，在网页（chromium）上运行，没有广告拦截器。]]></title>
         <id>https://news.ycombinator.com/item?id=31120191</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>samsonazatyan</name>
             <uri>https://news.ycombinator.com/user?id=samsonazatyan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Vim键绑定的最快的日计划工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30859052</id>
-        <link href="https://news.ycombinator.com/item?id=30859052"/>
-        <updated>2022-03-30T18:35:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The fastest day planning tool with Vim keybindings]]></summary>
-        <author>
-            <name>captain-phil</name>
-            <uri>https://news.ycombinator.com/user?id=captain-phil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每天2分钟的专业成长[iOS应用的全面重建]]]></title>
-        <id>https://news.ycombinator.com/item?id=30866342</id>
-        <link href="https://news.ycombinator.com/item?id=30866342"/>
-        <updated>2022-03-31T12:20:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Professional growth in 2 min a day [total rebuild of iOS app]]]></summary>
-        <author>
-            <name>darjagutnick</name>
-            <uri>https://news.ycombinator.com/user?id=darjagutnick</uri>
         </author>
     </entry>
 </feed>
