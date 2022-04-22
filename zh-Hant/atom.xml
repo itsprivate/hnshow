@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-22T16:17:40.219Z</updated>
+    <updated>2022-04-22T16:56:02.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[只用一個網頁就能防止你的電腦睡覺]]></title>
+        <id>https://news.ycombinator.com/item?id=31123522</id>
+        <link href="https://news.ycombinator.com/item?id=31123522"/>
+        <updated>2022-04-22T16:12:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Prevent your computer sleeping with just a webpage]]></summary>
+        <author>
+            <name>bradleyjkemp</name>
+            <uri>https://news.ycombinator.com/user?id=bradleyjkemp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個2MB、無GC、內存安全且易於使用的瀏覽器NPM音頻庫]]></title>
         <id>https://news.ycombinator.com/item?id=31123433</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>julianandjuliet</name>
             <uri>https://news.ycombinator.com/user?id=julianandjuliet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Workbench，您的Solana開發一站式商店]]></title>
-        <id>https://news.ycombinator.com/item?id=30867134</id>
-        <link href="https://news.ycombinator.com/item?id=30867134"/>
-        <updated>2022-03-31T13:48:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Solana Workbench, your one stop shop for Solana development]]></summary>
-        <author>
-            <name>zenlikethat</name>
-            <uri>https://news.ycombinator.com/user?id=zenlikethat</uri>
         </author>
     </entry>
 </feed>

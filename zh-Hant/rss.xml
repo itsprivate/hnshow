@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 22 Apr 2022 16:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 16:56:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[只用一個網頁就能防止你的電腦睡覺]]></title>
+            <link>https://news.ycombinator.com/item?id=31123522</link>
+            <guid>https://news.ycombinator.com/item?id=31123522</guid>
+            <pubDate>Fri, 22 Apr 2022 16:12:54 GMT</pubDate>
+            <description><![CDATA[Show HN: Prevent your computer sleeping with just a webpage]]></description>
+        </item>
         <item>
             <title><![CDATA[一個2MB、無GC、內存安全且易於使用的瀏覽器NPM音頻庫]]></title>
             <link>https://news.ycombinator.com/item?id=31123433</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30867373</guid>
             <pubDate>Thu, 31 Mar 2022 14:09:02 GMT</pubDate>
             <description><![CDATA[Show HN: An app that makes shopping social]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Solana Workbench，您的Solana開發一站式商店]]></title>
-            <link>https://news.ycombinator.com/item?id=30867134</link>
-            <guid>https://news.ycombinator.com/item?id=30867134</guid>
-            <pubDate>Thu, 31 Mar 2022 13:48:22 GMT</pubDate>
-            <description><![CDATA[Show HN: Solana Workbench, your one stop shop for Solana development]]></description>
         </item>
     </channel>
 </rss>
