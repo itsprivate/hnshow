@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-22T17:23:59.377Z</updated>
+    <updated>2022-04-22T17:50:54.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用iOS LiDAR設備在增強現實中實現MIDI音符的可視化]]></title>
+        <id>https://news.ycombinator.com/item?id=31124885</id>
+        <link href="https://news.ycombinator.com/item?id=31124885"/>
+        <updated>2022-04-22T17:25:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Visualize MIDI notes in augmented reality using iOS LiDAR devices]]></summary>
+        <author>
+            <name>robomex</name>
+            <uri>https://news.ycombinator.com/user?id=robomex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Markdown Playgrounds - 由WebAssembly提供技術支持]]></title>
         <id>https://news.ycombinator.com/item?id=31124585</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Pranav2612000</name>
             <uri>https://news.ycombinator.com/user?id=Pranav2612000</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[熱泵與其他取暖方式的成本計算]]></title>
-        <id>https://news.ycombinator.com/item?id=30868307</id>
-        <link href="https://news.ycombinator.com/item?id=30868307"/>
-        <updated>2022-03-31T15:29:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Heat Pump vs. Other Heating Cost Calculator]]></summary>
-        <author>
-            <name>Siecje</name>
-            <uri>https://news.ycombinator.com/user?id=Siecje</uri>
         </author>
     </entry>
 </feed>
