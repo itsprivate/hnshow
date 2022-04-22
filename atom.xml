@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-22T18:15:57.830Z</updated>
+    <updated>2022-04-22T19:28:21.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[维基百科的兴趣驱动型主题的页面浏览量]]></title>
+        <id>https://news.ycombinator.com/item?id=31126828</id>
+        <link href="https://news.ycombinator.com/item?id=31126828"/>
+        <updated>2022-04-22T19:24:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Wikipedia page views for interest-driven topics]]></summary>
+        <author>
+            <name>ckardat123</name>
+            <uri>https://news.ycombinator.com/user?id=ckardat123</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[呼吸--专注和平静的呼吸练习]]></title>
         <id>https://news.ycombinator.com/item?id=31125646</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>apple_crafts</name>
             <uri>https://news.ycombinator.com/user?id=apple_crafts</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hexmap，基于WebGL/WASM的互动式二进制数据探索]]></title>
-        <id>https://news.ycombinator.com/item?id=30868423</id>
-        <link href="https://news.ycombinator.com/item?id=30868423"/>
-        <updated>2022-03-31T15:40:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hexmap, interactive WebGL/WASM based binary data exploration]]></summary>
-        <author>
-            <name>Unit520</name>
-            <uri>https://news.ycombinator.com/user?id=Unit520</uri>
         </author>
     </entry>
 </feed>
