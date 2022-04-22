@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-22T14:41:48.120Z</updated>
+    <updated>2022-04-22T16:17:40.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个2MB、无GC、内存安全且易于使用的浏览器NPM音频库]]></title>
+        <id>https://news.ycombinator.com/item?id=31123433</id>
+        <link href="https://news.ycombinator.com/item?id=31123433"/>
+        <updated>2022-04-22T16:07:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A 2MB, GC-Free, Memory-Safe, and Easy-to-Use NPM Audio Lib for Browsers]]></summary>
+        <author>
+            <name>chaosprint</name>
+            <uri>https://news.ycombinator.com/user?id=chaosprint</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一个应用程序来创建和部署NFT集合]]></title>
         <id>https://news.ycombinator.com/item?id=31122037</id>
@@ -6598,17 +6609,6 @@
         <id>https://news.ycombinator.com/item?id=30867134</id>
         <link href="https://news.ycombinator.com/item?id=30867134"/>
         <updated>2022-03-31T13:48:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Solana Workbench, your one stop shop for Solana development]]></summary>
-        <author>
-            <name>zenlikethat</name>
-            <uri>https://news.ycombinator.com/user?id=zenlikethat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solana Workbench，您的Solana开发一站式商店]]></title>
-        <id>https://news.ycombinator.com/item?id=30867057</id>
-        <link href="https://news.ycombinator.com/item?id=30867057"/>
-        <updated>2022-03-31T13:42:07.000Z</updated>
         <summary type="html"><![CDATA[Show HN: Solana Workbench, your one stop shop for Solana development]]></summary>
         <author>
             <name>zenlikethat</name>
