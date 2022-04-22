@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-22T22:14:27.514Z</updated>
+    <updated>2022-04-22T23:34:04.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[撰写。弦乐的排版工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31129440</id>
+        <link href="https://news.ycombinator.com/item?id=31129440"/>
+        <updated>2022-04-22T23:17:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Written: Typographic Tools for Strings]]></summary>
+        <author>
+            <name>vixalien</name>
+            <uri>https://news.ycombinator.com/user?id=vixalien</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloaker.mobi现在可以在桌面Chrome中任意加密大文件了]]></title>
         <id>https://news.ycombinator.com/item?id=31128684</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pradeepb28</name>
             <uri>https://news.ycombinator.com/user?id=pradeepb28</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pync - 用于Python的Netcat]]></title>
-        <id>https://news.ycombinator.com/item?id=30869910</id>
-        <link href="https://news.ycombinator.com/item?id=30869910"/>
-        <updated>2022-03-31T17:26:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pync – Netcat for Python]]></summary>
-        <author>
-            <name>brenw0rth</name>
-            <uri>https://news.ycombinator.com/user?id=brenw0rth</uri>
         </author>
     </entry>
 </feed>

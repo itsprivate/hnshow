@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 22 Apr 2022 22:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 23:34:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[撰寫。絃樂的排版工具]]></title>
+            <link>https://news.ycombinator.com/item?id=31129440</link>
+            <guid>https://news.ycombinator.com/item?id=31129440</guid>
+            <pubDate>Fri, 22 Apr 2022 23:17:45 GMT</pubDate>
+            <description><![CDATA[Show HN: Written: Typographic Tools for Strings]]></description>
+        </item>
         <item>
             <title><![CDATA[Cloaker.mobi現在可以在桌面Chrome中任意加密大文件了]]></title>
             <link>https://news.ycombinator.com/item?id=31128684</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30870391</guid>
             <pubDate>Thu, 31 Mar 2022 18:07:59 GMT</pubDate>
             <description><![CDATA[Show HN: I've made an app to monitor and remind when ETH gas fee is low]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pync - 用於Python的Netcat]]></title>
-            <link>https://news.ycombinator.com/item?id=30869910</link>
-            <guid>https://news.ycombinator.com/item?id=30869910</guid>
-            <pubDate>Thu, 31 Mar 2022 17:26:07 GMT</pubDate>
-            <description><![CDATA[Show HN: Pync – Netcat for Python]]></description>
         </item>
     </channel>
 </rss>
