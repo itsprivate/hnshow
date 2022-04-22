@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 22 Apr 2022 14:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 14:41:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我建立了一个应用程序来创建和部署NFT集合]]></title>
+            <link>https://news.ycombinator.com/item?id=31122037</link>
+            <guid>https://news.ycombinator.com/item?id=31122037</guid>
+            <pubDate>Fri, 22 Apr 2022 14:32:36 GMT</pubDate>
+            <description><![CDATA[Show HN: I built an app to create and deploy NFT collections]]></description>
+        </item>
         <item>
             <title><![CDATA[扩增实境的应用程序使之成为动手的互动工具]]></title>
             <link>https://news.ycombinator.com/item?id=31121676</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30867057</guid>
             <pubDate>Thu, 31 Mar 2022 13:42:07 GMT</pubDate>
             <description><![CDATA[Show HN: Solana Workbench, your one stop shop for Solana development]]></description>
-        </item>
-        <item>
-            <title><![CDATA[程序员的互动指南，使收入最大化，成本最小化]]></title>
-            <link>https://news.ycombinator.com/item?id=30866885</link>
-            <guid>https://news.ycombinator.com/item?id=30866885</guid>
-            <pubDate>Thu, 31 Mar 2022 13:25:40 GMT</pubDate>
-            <description><![CDATA[Show HN: Programmer's Interactive Guide to Maximize Revenue and Minimize Costs]]></description>
         </item>
     </channel>
 </rss>

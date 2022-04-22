@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-22T14:13:51.536Z</updated>
+    <updated>2022-04-22T14:41:48.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一個應用程序來創建和部署NFT集合]]></title>
+        <id>https://news.ycombinator.com/item?id=31122037</id>
+        <link href="https://news.ycombinator.com/item?id=31122037"/>
+        <updated>2022-04-22T14:32:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built an app to create and deploy NFT collections]]></summary>
+        <author>
+            <name>dario-fino</name>
+            <uri>https://news.ycombinator.com/user?id=dario-fino</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[擴增實境的應用程序使之成為動手的互動工具]]></title>
         <id>https://news.ycombinator.com/item?id=31121676</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>zenlikethat</name>
             <uri>https://news.ycombinator.com/user?id=zenlikethat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[程序員的互動指南，使收入最大化，成本最小化]]></title>
-        <id>https://news.ycombinator.com/item?id=30866885</id>
-        <link href="https://news.ycombinator.com/item?id=30866885"/>
-        <updated>2022-03-31T13:25:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Programmer's Interactive Guide to Maximize Revenue and Minimize Costs]]></summary>
-        <author>
-            <name>jozsefdev</name>
-            <uri>https://news.ycombinator.com/user?id=jozsefdev</uri>
         </author>
     </entry>
 </feed>
