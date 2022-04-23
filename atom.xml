@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-23T16:15:38.990Z</updated>
+    <updated>2022-04-23T16:48:47.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[嵌入生成器 - 不使用JavaScript的PageSpeed优化YouTube视频]]></title>
+        <id>https://news.ycombinator.com/item?id=31135812</id>
+        <link href="https://news.ycombinator.com/item?id=31135812"/>
+        <updated>2022-04-23T16:38:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Embed Builder – PageSpeed optimized YouTube videos with out JavaScript]]></summary>
+        <author>
+            <name>ThatGuySam</name>
+            <uri>https://news.ycombinator.com/user?id=ThatGuySam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我经营一份关于Chrome扩展的通讯]]></title>
+        <id>https://news.ycombinator.com/item?id=31135555</id>
+        <link href="https://news.ycombinator.com/item?id=31135555"/>
+        <updated>2022-04-23T16:12:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I run a newsletter about Chrome extensions]]></summary>
+        <author>
+            <name>fardeenkhan</name>
+            <uri>https://news.ycombinator.com/user?id=fardeenkhan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sizle - 用于文件分析的Canva扩展]]></title>
         <id>https://news.ycombinator.com/item?id=31135421</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>perryraskin</name>
             <uri>https://news.ycombinator.com/user?id=perryraskin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[带有缩略图预览和链接细节的黑客新闻界面]]></title>
-        <id>https://news.ycombinator.com/item?id=30873438</id>
-        <link href="https://news.ycombinator.com/item?id=30873438"/>
-        <updated>2022-03-31T23:27:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hacker News interface with thumbnail previews plus details about links]]></summary>
-        <author>
-            <name>timoteostewart</name>
-            <uri>https://news.ycombinator.com/user?id=timoteostewart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用你的数字键盘来徒步旅行洛斯帕德雷斯国家森林]]></title>
-        <id>https://news.ycombinator.com/item?id=30873448</id>
-        <link href="https://news.ycombinator.com/item?id=30873448"/>
-        <updated>2022-03-31T23:29:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Use your number pad to hike the Los Padres National Forest]]></summary>
-        <author>
-            <name>stevesearer</name>
-            <uri>https://news.ycombinator.com/user?id=stevesearer</uri>
         </author>
     </entry>
 </feed>
