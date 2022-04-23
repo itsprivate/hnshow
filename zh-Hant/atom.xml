@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-23T12:18:33.545Z</updated>
+    <updated>2022-04-23T14:51:44.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安卓版OCR數獨解算器]]></title>
+        <id>https://news.ycombinator.com/item?id=31134704</id>
+        <link href="https://news.ycombinator.com/item?id=31134704"/>
+        <updated>2022-04-23T14:46:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: OCR Sudoku Solver for Android]]></summary>
+        <author>
+            <name>hypertensiune</name>
+            <uri>https://news.ycombinator.com/user?id=hypertensiune</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ReddRecs - 一個更好的Reddit搜索引擎，用於推薦男裝]]></title>
         <id>https://news.ycombinator.com/item?id=31133480</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ricobecks</name>
             <uri>https://news.ycombinator.com/user?id=ricobecks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個愚蠢的遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=30867002</id>
-        <link href="https://news.ycombinator.com/item?id=30867002"/>
-        <updated>2022-03-31T13:36:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I Made a Stupid Game]]></summary>
-        <author>
-            <name>last_one_in</name>
-            <uri>https://news.ycombinator.com/user?id=last_one_in</uri>
         </author>
     </entry>
 </feed>
