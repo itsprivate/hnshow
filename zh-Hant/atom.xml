@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-23T07:31:13.182Z</updated>
+    <updated>2022-04-23T08:54:18.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我創建了一個利用天氣和健康數據的音樂應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=31132488</id>
+        <link href="https://news.ycombinator.com/item?id=31132488"/>
+        <updated>2022-04-23T08:41:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I created a music app that makes use of weather and health data]]></summary>
+        <author>
+            <name>vldalecu</name>
+            <uri>https://news.ycombinator.com/user?id=vldalecu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Better-sqlite3-proxy：作為陣列的持久性存儲的代理包裝器]]></title>
         <id>https://news.ycombinator.com/item?id=31132162</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Ryan-W</name>
             <uri>https://news.ycombinator.com/user?id=Ryan-W</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[反應式表格庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30871708</id>
-        <link href="https://news.ycombinator.com/item?id=30871708"/>
-        <updated>2022-03-31T20:11:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: React-Table-Library]]></summary>
-        <author>
-            <name>rwieruch</name>
-            <uri>https://news.ycombinator.com/user?id=rwieruch</uri>
         </author>
     </entry>
 </feed>
