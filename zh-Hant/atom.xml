@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-23T10:16:27.288Z</updated>
+    <updated>2022-04-23T12:18:33.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ReddRecs - 一個更好的Reddit搜索引擎，用於推薦男裝]]></title>
+        <id>https://news.ycombinator.com/item?id=31133480</id>
+        <link href="https://news.ycombinator.com/item?id=31133480"/>
+        <updated>2022-04-23T11:57:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ReddRecs – A better Reddit search engine for Menswear recommendations]]></summary>
+        <author>
+            <name>adrielyong</name>
+            <uri>https://news.ycombinator.com/user?id=adrielyong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[簡歷編輯]]></title>
         <id>https://news.ycombinator.com/item?id=31132788</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>last_one_in</name>
             <uri>https://news.ycombinator.com/user?id=last_one_in</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celestron--提交給madewithreplit的塔防作品]]></title>
-        <id>https://news.ycombinator.com/item?id=30872540</id>
-        <link href="https://news.ycombinator.com/item?id=30872540"/>
-        <updated>2022-03-31T21:44:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Celestron – a tower defense submission to madewithreplit]]></summary>
-        <author>
-            <name>IroncladDev</name>
-            <uri>https://news.ycombinator.com/user?id=IroncladDev</uri>
         </author>
     </entry>
 </feed>
