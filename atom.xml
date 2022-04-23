@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-22T23:34:04.530Z</updated>
+    <updated>2022-04-23T03:20:03.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HabituWall-手机壁纸，帮助你养成习惯]]></title>
+        <id>https://news.ycombinator.com/item?id=31130803</id>
+        <link href="https://news.ycombinator.com/item?id=31130803"/>
+        <updated>2022-04-23T02:23:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: HabituWall–Phone wallpaper to help with your habits]]></summary>
+        <author>
+            <name>benfrancom</name>
+            <uri>https://news.ycombinator.com/user?id=benfrancom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[撰写。弦乐的排版工具]]></title>
         <id>https://news.ycombinator.com/item?id=31129440</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>frizzy</name>
             <uri>https://news.ycombinator.com/user?id=frizzy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个应用程序来监测和提醒ETH气体费用低的时候]]></title>
-        <id>https://news.ycombinator.com/item?id=30870391</id>
-        <link href="https://news.ycombinator.com/item?id=30870391"/>
-        <updated>2022-03-31T18:07:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I've made an app to monitor and remind when ETH gas fee is low]]></summary>
-        <author>
-            <name>pradeepb28</name>
-            <uri>https://news.ycombinator.com/user?id=pradeepb28</uri>
         </author>
     </entry>
 </feed>
