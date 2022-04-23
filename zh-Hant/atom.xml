@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-23T14:51:44.717Z</updated>
+    <updated>2022-04-23T15:54:51.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用於檢測和啟動瀏覽器的Python庫]]></title>
+        <id>https://news.ycombinator.com/item?id=31135311</id>
+        <link href="https://news.ycombinator.com/item?id=31135311"/>
+        <updated>2022-04-23T15:49:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Python library for detecting and launching browsers]]></summary>
+        <author>
+            <name>roniemartinez</name>
+            <uri>https://news.ycombinator.com/user?id=roniemartinez</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安卓版OCR數獨解算器]]></title>
         <id>https://news.ycombinator.com/item?id=31134704</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>NicoleJO</name>
             <uri>https://news.ycombinator.com/user?id=NicoleJO</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我為我的命令行做了一個愚蠢的室內自行車應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30872961</id>
-        <link href="https://news.ycombinator.com/item?id=30872961"/>
-        <updated>2022-03-31T22:32:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a stupid indoor cycling app for my command line]]></summary>
-        <author>
-            <name>ricobecks</name>
-            <uri>https://news.ycombinator.com/user?id=ricobecks</uri>
         </author>
     </entry>
 </feed>
