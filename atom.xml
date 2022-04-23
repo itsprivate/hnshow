@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-23T20:51:00.306Z</updated>
+    <updated>2022-04-23T21:51:51.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个更好的Reddit搜索引擎来寻找男装推荐]]></title>
+        <id>https://news.ycombinator.com/item?id=31138880</id>
+        <link href="https://news.ycombinator.com/item?id=31138880"/>
+        <updated>2022-04-23T21:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A better Reddit search engine to find Menswear recommendations]]></summary>
+        <author>
+            <name>adrielyong</name>
+            <uri>https://news.ycombinator.com/user?id=adrielyong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Def - 一个用于默认文件夹行为的zsh插件]]></title>
         <id>https://news.ycombinator.com/item?id=31138311</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>conschy</name>
             <uri>https://news.ycombinator.com/user?id=conschy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我设置了Git]]></title>
-        <id>https://news.ycombinator.com/item?id=30874322</id>
-        <link href="https://news.ycombinator.com/item?id=30874322"/>
-        <updated>2022-04-01T01:44:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I Set Up Git]]></summary>
-        <author>
-            <name>vixalien</name>
-            <uri>https://news.ycombinator.com/user?id=vixalien</uri>
         </author>
     </entry>
 </feed>
