@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 23 Apr 2022 08:54:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 09:42:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[[實驗性] Fleet--Rust的構建工具，速度快達5倍。]]></title>
+            <link>https://news.ycombinator.com/item?id=31132659</link>
+            <guid>https://news.ycombinator.com/item?id=31132659</guid>
+            <pubDate>Sat, 23 Apr 2022 09:31:29 GMT</pubDate>
+            <description><![CDATA[Show HN: [Experimental] Fleet – A build tool for Rust that's upto 5x faster]]></description>
+        </item>
         <item>
             <title><![CDATA[我創建了一個利用天氣和健康數據的音樂應用程序]]></title>
             <link>https://news.ycombinator.com/item?id=31132488</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30871933</guid>
             <pubDate>Thu, 31 Mar 2022 20:37:51 GMT</pubDate>
             <description><![CDATA[Show HN: Typed parser combinator library with error recovery for Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Metacommerce - 無需代碼即可創建/鑄造NFT藏品]]></title>
-            <link>https://news.ycombinator.com/item?id=30871873</link>
-            <guid>https://news.ycombinator.com/item?id=30871873</guid>
-            <pubDate>Thu, 31 Mar 2022 20:30:34 GMT</pubDate>
-            <description><![CDATA[Show HN: Metacommerce – Create/mint NFT collections without code]]></description>
         </item>
     </channel>
 </rss>
