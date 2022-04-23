@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-23T09:42:41.262Z</updated>
+    <updated>2022-04-23T10:16:27.203Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[简历编辑]]></title>
+        <id>https://news.ycombinator.com/item?id=31132788</id>
+        <link href="https://news.ycombinator.com/item?id=31132788"/>
+        <updated>2022-04-23T10:05:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Resume Editor]]></summary>
+        <author>
+            <name>jacob_rezi</name>
+            <uri>https://news.ycombinator.com/user?id=jacob_rezi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[实验性] Fleet--Rust的构建工具，速度快达5倍。]]></title>
         <id>https://news.ycombinator.com/item?id=31132659</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>IroncladDev</name>
             <uri>https://news.ycombinator.com/user?id=IroncladDev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[带有错误恢复功能的Python类型分析器组合库]]></title>
-        <id>https://news.ycombinator.com/item?id=30871933</id>
-        <link href="https://news.ycombinator.com/item?id=30871933"/>
-        <updated>2022-03-31T20:37:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Typed parser combinator library with error recovery for Python]]></summary>
-        <author>
-            <name>ethframe</name>
-            <uri>https://news.ycombinator.com/user?id=ethframe</uri>
         </author>
     </entry>
 </feed>
