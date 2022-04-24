@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-24T14:31:13.897Z</updated>
+    <updated>2022-04-24T14:39:37.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[工作或薪酬。设定目标。签订合同。如果你失败了，就支付罚款]]></title>
+        <id>https://news.ycombinator.com/item?id=31144318</id>
+        <link href="https://news.ycombinator.com/item?id=31144318"/>
+        <updated>2022-04-24T14:28:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WorkOrPay: Set goals. Form contracts. Pay the penalty if you fail]]></summary>
+        <author>
+            <name>khromem</name>
+            <uri>https://news.ycombinator.com/user?id=khromem</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[只需一个配置文件就能在Supabase上建立用户仪表板（开源）。]]></title>
         <id>https://news.ycombinator.com/item?id=31144280</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>TheOmkarBirje</name>
             <uri>https://news.ycombinator.com/user?id=TheOmkarBirje</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[根据天气和健康数据创作音乐的应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30877037</id>
-        <link href="https://news.ycombinator.com/item?id=30877037"/>
-        <updated>2022-04-01T11:14:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: App That Creates Music Based on Weather and Health Data]]></summary>
-        <author>
-            <name>vldalecu</name>
-            <uri>https://news.ycombinator.com/user?id=vldalecu</uri>
         </author>
     </entry>
 </feed>

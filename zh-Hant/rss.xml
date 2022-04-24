@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 24 Apr 2022 14:31:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 14:39:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[工作或薪酬。設定目標。簽訂合同。如果你失敗了，就支付罰款]]></title>
+            <link>https://news.ycombinator.com/item?id=31144318</link>
+            <guid>https://news.ycombinator.com/item?id=31144318</guid>
+            <pubDate>Sun, 24 Apr 2022 14:28:06 GMT</pubDate>
+            <description><![CDATA[Show HN: WorkOrPay: Set goals. Form contracts. Pay the penalty if you fail]]></description>
+        </item>
         <item>
             <title><![CDATA[只需一個配置文件就能在Supabase上建立用戶儀表板（開源）。]]></title>
             <link>https://news.ycombinator.com/item?id=31144280</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30877237</guid>
             <pubDate>Fri, 01 Apr 2022 11:53:01 GMT</pubDate>
             <description><![CDATA[Show HN: I made a zero-commission marketplace for creators]]></description>
-        </item>
-        <item>
-            <title><![CDATA[根據天氣和健康數據創作音樂的應用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30877037</link>
-            <guid>https://news.ycombinator.com/item?id=30877037</guid>
-            <pubDate>Fri, 01 Apr 2022 11:14:17 GMT</pubDate>
-            <description><![CDATA[Show HN: App That Creates Music Based on Weather and Health Data]]></description>
         </item>
     </channel>
 </rss>
