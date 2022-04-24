@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 24 Apr 2022 05:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 08:38:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我作为软件工程师的典型工作时间]]></title>
+            <link>https://news.ycombinator.com/item?id=31142043</link>
+            <guid>https://news.ycombinator.com/item?id=31142043</guid>
+            <pubDate>Sun, 24 Apr 2022 07:44:53 GMT</pubDate>
+            <description><![CDATA[Show HN: My typical working day as Software Engineer]]></description>
+        </item>
         <item>
             <title><![CDATA[一个袖珍计算器]]></title>
             <link>https://news.ycombinator.com/item?id=31141485</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30876558</guid>
             <pubDate>Fri, 01 Apr 2022 09:44:41 GMT</pubDate>
             <description><![CDATA[Show HN: DronaHQ Launches a UI Control Editor]]></description>
-        </item>
-        <item>
-            <title><![CDATA[提取视频中的ppt并导出pdf]]></title>
-            <link>https://news.ycombinator.com/item?id=30876546</link>
-            <guid>https://news.ycombinator.com/item?id=30876546</guid>
-            <pubDate>Fri, 01 Apr 2022 09:42:01 GMT</pubDate>
-            <description><![CDATA[Show HN: Extract the ppt in the video and export pdf]]></description>
         </item>
     </channel>
 </rss>

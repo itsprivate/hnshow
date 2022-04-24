@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-24T05:30:31.414Z</updated>
+    <updated>2022-04-24T08:38:07.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我作为软件工程师的典型工作时间]]></title>
+        <id>https://news.ycombinator.com/item?id=31142043</id>
+        <link href="https://news.ycombinator.com/item?id=31142043"/>
+        <updated>2022-04-24T07:44:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My typical working day as Software Engineer]]></summary>
+        <author>
+            <name>myle</name>
+            <uri>https://news.ycombinator.com/user?id=myle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个袖珍计算器]]></title>
         <id>https://news.ycombinator.com/item?id=31141485</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kinj28</name>
             <uri>https://news.ycombinator.com/user?id=kinj28</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[提取视频中的ppt并导出pdf]]></title>
-        <id>https://news.ycombinator.com/item?id=30876546</id>
-        <link href="https://news.ycombinator.com/item?id=30876546"/>
-        <updated>2022-04-01T09:42:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Extract the ppt in the video and export pdf]]></summary>
-        <author>
-            <name>brid_wu</name>
-            <uri>https://news.ycombinator.com/user?id=brid_wu</uri>
         </author>
     </entry>
 </feed>
