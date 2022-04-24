@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-24T12:17:55.829Z</updated>
+    <updated>2022-04-24T13:22:50.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[适用于K-12年级的iOS应用程序，具有无限的数学问题]]></title>
+        <id>https://news.ycombinator.com/item?id=31143546</id>
+        <link href="https://news.ycombinator.com/item?id=31143546"/>
+        <updated>2022-04-24T13:01:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: iOS app with unlimited math problems for K-12]]></summary>
+        <author>
+            <name>madiyar</name>
+            <uri>https://news.ycombinator.com/user?id=madiyar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Come&try决策智能版 "Agar "环境，Gobigger]]></title>
         <id>https://news.ycombinator.com/item?id=31143206</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>asim</name>
             <uri>https://news.ycombinator.com/user?id=asim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个可编辑的模板来学习真实世界的数据科学]]></title>
-        <id>https://news.ycombinator.com/item?id=30876680</id>
-        <link href="https://news.ycombinator.com/item?id=30876680"/>
-        <updated>2022-04-01T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made an editable template to learn real-world Data Science]]></summary>
-        <author>
-            <name>edylemond</name>
-            <uri>https://news.ycombinator.com/user?id=edylemond</uri>
         </author>
     </entry>
 </feed>
