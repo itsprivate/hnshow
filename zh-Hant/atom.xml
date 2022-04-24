@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-24T10:53:28.299Z</updated>
+    <updated>2022-04-24T12:17:55.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Come&try決策智能版 "Agar "環境，Gobigger]]></title>
+        <id>https://news.ycombinator.com/item?id=31143206</id>
+        <link href="https://news.ycombinator.com/item?id=31143206"/>
+        <updated>2022-04-24T11:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Come&try Decision Intelligence version “Agar“ environment, Gobigger]]></summary>
+        <author>
+            <name>vani_ai</name>
+            <uri>https://news.ycombinator.com/user?id=vani_ai</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在法國大選前建立了一個官方數據的儀表板]]></title>
         <id>https://news.ycombinator.com/item?id=31142826</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>edylemond</name>
             <uri>https://news.ycombinator.com/user?id=edylemond</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個適用於Firefox的簡約的JavaScript注入插件]]></title>
-        <id>https://news.ycombinator.com/item?id=30876677</id>
-        <link href="https://news.ycombinator.com/item?id=30876677"/>
-        <updated>2022-04-01T10:14:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A minimalistic JavaScript injection addon for Firefox]]></summary>
-        <author>
-            <name>mivanchev</name>
-            <uri>https://news.ycombinator.com/user?id=mivanchev</uri>
         </author>
     </entry>
 </feed>
