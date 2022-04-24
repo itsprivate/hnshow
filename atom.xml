@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-23T21:51:51.158Z</updated>
+    <updated>2022-04-24T02:24:07.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[这个人工智能并不存在]]></title>
+        <id>https://news.ycombinator.com/item?id=31137324</id>
+        <link href="https://news.ycombinator.com/item?id=31137324"/>
+        <updated>2022-04-23T19:04:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: This AI Does Not Exist]]></summary>
+        <author>
+            <name>thesephist</name>
+            <uri>https://news.ycombinator.com/user?id=thesephist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个更好的Reddit搜索引擎来寻找男装推荐]]></title>
         <id>https://news.ycombinator.com/item?id=31138880</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lifeencoder</name>
             <uri>https://news.ycombinator.com/user?id=lifeencoder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Globemallow-创造一个更可持续的互联网]]></title>
-        <id>https://news.ycombinator.com/item?id=30874678</id>
-        <link href="https://news.ycombinator.com/item?id=30874678"/>
-        <updated>2022-04-01T02:42:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Globemallow- Create a More Sustainable Internet]]></summary>
-        <author>
-            <name>conschy</name>
-            <uri>https://news.ycombinator.com/user?id=conschy</uri>
         </author>
     </entry>
 </feed>
