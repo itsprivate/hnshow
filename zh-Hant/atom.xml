@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-24T15:35:11.810Z</updated>
+    <updated>2022-04-24T20:14:15.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為初創企業無限制地尋找候選人，每月只需支付固定費用]]></title>
+        <id>https://news.ycombinator.com/item?id=31147667</id>
+        <link href="https://news.ycombinator.com/item?id=31147667"/>
+        <updated>2022-04-24T19:50:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Unlimited candidate sourcing for startups for a flat monthly fee]]></summary>
+        <author>
+            <name>data_analyst</name>
+            <uri>https://news.ycombinator.com/user?id=data_analyst</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[管理功能標誌和權利的多合一工具]]></title>
         <id>https://news.ycombinator.com/item?id=31144932</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Varqu</name>
             <uri>https://news.ycombinator.com/user?id=Varqu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mercury - 從Python筆記本構建和分享網絡應用]]></title>
-        <id>https://news.ycombinator.com/item?id=30877528</id>
-        <link href="https://news.ycombinator.com/item?id=30877528"/>
-        <updated>2022-04-01T12:35:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mercury – build and share web apps from Python notebooks]]></summary>
-        <author>
-            <name>pplonski86</name>
-            <uri>https://news.ycombinator.com/user?id=pplonski86</uri>
         </author>
     </entry>
 </feed>
