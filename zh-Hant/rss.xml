@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 24 Apr 2022 20:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 23:52:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我正在用Rust製作一種動態語言]]></title>
+            <link>https://news.ycombinator.com/item?id=31149332</link>
+            <guid>https://news.ycombinator.com/item?id=31149332</guid>
+            <pubDate>Sun, 24 Apr 2022 23:46:30 GMT</pubDate>
+            <description><![CDATA[Show HN: I'm making a dynamic language in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[為初創企業無限制地尋找候選人，每月只需支付固定費用]]></title>
             <link>https://news.ycombinator.com/item?id=31147667</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30877954</guid>
             <pubDate>Fri, 01 Apr 2022 13:40:50 GMT</pubDate>
             <description><![CDATA[Show HN: I made desktop app to browse and reduce AWS cloud costs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DevITjobs--StackOverflow工作的替代品，提供所需工資數據]]></title>
-            <link>https://news.ycombinator.com/item?id=30877735</link>
-            <guid>https://news.ycombinator.com/item?id=30877735</guid>
-            <pubDate>Fri, 01 Apr 2022 13:10:50 GMT</pubDate>
-            <description><![CDATA[Show HN: DevITjobs – a StackOverflow Jobs alternative with required salary data]]></description>
         </item>
     </channel>
 </rss>

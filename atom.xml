@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-24T20:14:14.932Z</updated>
+    <updated>2022-04-24T23:52:44.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我正在用Rust制作一种动态语言]]></title>
+        <id>https://news.ycombinator.com/item?id=31149332</id>
+        <link href="https://news.ycombinator.com/item?id=31149332"/>
+        <updated>2022-04-24T23:46:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I'm making a dynamic language in Rust]]></summary>
+        <author>
+            <name>harpiaharpyja</name>
+            <uri>https://news.ycombinator.com/user?id=harpiaharpyja</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为初创企业无限制地寻找候选人，每月只需支付固定费用]]></title>
         <id>https://news.ycombinator.com/item?id=31147667</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pzubkiewicz</name>
             <uri>https://news.ycombinator.com/user?id=pzubkiewicz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevITjobs--StackOverflow工作的替代品，提供所需工资数据]]></title>
-        <id>https://news.ycombinator.com/item?id=30877735</id>
-        <link href="https://news.ycombinator.com/item?id=30877735"/>
-        <updated>2022-04-01T13:10:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: DevITjobs – a StackOverflow Jobs alternative with required salary data]]></summary>
-        <author>
-            <name>Varqu</name>
-            <uri>https://news.ycombinator.com/user?id=Varqu</uri>
         </author>
     </entry>
 </feed>
