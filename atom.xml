@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-24T13:22:50.065Z</updated>
+    <updated>2022-04-24T14:31:13.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[只需一个配置文件就能在Supabase上建立用户仪表板（开源）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31144280</id>
+        <link href="https://news.ycombinator.com/item?id=31144280"/>
+        <updated>2022-04-24T14:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build user dashboards on Supabase with just a config file (open-source)]]></summary>
+        <author>
+            <name>greentfrapp</name>
+            <uri>https://news.ycombinator.com/user?id=greentfrapp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[适用于K-12年级的iOS应用程序，具有无限的数学问题]]></title>
         <id>https://news.ycombinator.com/item?id=31143546</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>vldalecu</name>
             <uri>https://news.ycombinator.com/user?id=vldalecu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M3O - 一个无服务器的云平台]]></title>
-        <id>https://news.ycombinator.com/item?id=30876691</id>
-        <link href="https://news.ycombinator.com/item?id=30876691"/>
-        <updated>2022-04-01T10:17:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: M3O – A Serverless Cloud Platform]]></summary>
-        <author>
-            <name>asim</name>
-            <uri>https://news.ycombinator.com/user?id=asim</uri>
         </author>
     </entry>
 </feed>
