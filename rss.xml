@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 24 Apr 2022 04:41:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 05:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个袖珍计算器]]></title>
+            <link>https://news.ycombinator.com/item?id=31141485</link>
+            <guid>https://news.ycombinator.com/item?id=31141485</guid>
+            <pubDate>Sun, 24 Apr 2022 05:20:48 GMT</pubDate>
+            <description><![CDATA[Show HN: A Pocket Calculator]]></description>
+        </item>
         <item>
             <title><![CDATA[使用Unity3D和AWS构建酒店平台]]></title>
             <link>https://news.ycombinator.com/item?id=31141303</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30876546</guid>
             <pubDate>Fri, 01 Apr 2022 09:42:01 GMT</pubDate>
             <description><![CDATA[Show HN: Extract the ppt in the video and export pdf]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Subcap - 视频的字幕 CC]]></title>
-            <link>https://news.ycombinator.com/item?id=30876454</link>
-            <guid>https://news.ycombinator.com/item?id=30876454</guid>
-            <pubDate>Fri, 01 Apr 2022 09:19:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Subcap – Captions for Videos CC]]></description>
         </item>
     </channel>
 </rss>
