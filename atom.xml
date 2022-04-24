@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-24T08:38:07.048Z</updated>
+    <updated>2022-04-24T10:53:28.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在法国大选前建立了一个官方数据的仪表板]]></title>
+        <id>https://news.ycombinator.com/item?id=31142826</id>
+        <link href="https://news.ycombinator.com/item?id=31142826"/>
+        <updated>2022-04-24T10:44:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a dashboard of official data ahead of French elections]]></summary>
+        <author>
+            <name>Frajedo</name>
+            <uri>https://news.ycombinator.com/user?id=Frajedo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我作为软件工程师的典型工作时间]]></title>
         <id>https://news.ycombinator.com/item?id=31142043</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>mivanchev</name>
             <uri>https://news.ycombinator.com/user?id=mivanchev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DronaHQ推出了一个UI控制编辑器]]></title>
-        <id>https://news.ycombinator.com/item?id=30876558</id>
-        <link href="https://news.ycombinator.com/item?id=30876558"/>
-        <updated>2022-04-01T09:44:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: DronaHQ Launches a UI Control Editor]]></summary>
-        <author>
-            <name>kinj28</name>
-            <uri>https://news.ycombinator.com/user?id=kinj28</uri>
         </author>
     </entry>
 </feed>
