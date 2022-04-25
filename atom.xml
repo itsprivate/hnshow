@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-25T21:13:53.585Z</updated>
+    <updated>2022-04-25T21:30:32.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用BPF的每个应用的合理可靠的流量监控]]></title>
+        <id>https://news.ycombinator.com/item?id=31160863</id>
+        <link href="https://news.ycombinator.com/item?id=31160863"/>
+        <updated>2022-04-25T21:26:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A reasonably reliable traffic per application monitor using BPF]]></summary>
+        <author>
+            <name>elesiuta</name>
+            <uri>https://news.ycombinator.com/user?id=elesiuta</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一个文字游戏]]></title>
         <id>https://news.ycombinator.com/item?id=31160447</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>wirelessbits</name>
             <uri>https://news.ycombinator.com/user?id=wirelessbits</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在Gmail中引入了链接共享]]></title>
-        <id>https://news.ycombinator.com/item?id=30891956</id>
-        <link href="https://news.ycombinator.com/item?id=30891956"/>
-        <updated>2022-04-02T21:45:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I introduced link sharing to Gmail]]></summary>
-        <author>
-            <name>laurinstahl</name>
-            <uri>https://news.ycombinator.com/user?id=laurinstahl</uri>
         </author>
     </entry>
 </feed>

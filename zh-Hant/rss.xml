@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 25 Apr 2022 21:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 21:30:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用BPF的每個應用的合理可靠的流量監控]]></title>
+            <link>https://news.ycombinator.com/item?id=31160863</link>
+            <guid>https://news.ycombinator.com/item?id=31160863</guid>
+            <pubDate>Mon, 25 Apr 2022 21:26:42 GMT</pubDate>
+            <description><![CDATA[Show HN: A reasonably reliable traffic per application monitor using BPF]]></description>
+        </item>
         <item>
             <title><![CDATA[我建立了一個文字遊戲]]></title>
             <link>https://news.ycombinator.com/item?id=31160447</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30891962</guid>
             <pubDate>Sat, 02 Apr 2022 21:47:13 GMT</pubDate>
             <description><![CDATA[Show HN: I built a Wi-Fi 6 survey kit to see how common it was in my area]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我在Gmail中引入了鏈接共享]]></title>
-            <link>https://news.ycombinator.com/item?id=30891956</link>
-            <guid>https://news.ycombinator.com/item?id=30891956</guid>
-            <pubDate>Sat, 02 Apr 2022 21:45:47 GMT</pubDate>
-            <description><![CDATA[Show HN: I introduced link sharing to Gmail]]></description>
         </item>
     </channel>
 </rss>
