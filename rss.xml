@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 25 Apr 2022 20:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 20:53:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[你能把SOUP变成BACK，每次只改变一个字母吗？]]></title>
+            <link>https://news.ycombinator.com/item?id=31158980</link>
+            <guid>https://news.ycombinator.com/item?id=31158980</guid>
+            <pubDate>Mon, 25 Apr 2022 18:42:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Can you turn SOUP into BACK, changing just one letter at a time?]]></description>
+        </item>
         <item>
             <title><![CDATA[Sqwok - 一个替代Twitter和Reddit的社交聊天工具]]></title>
             <link>https://news.ycombinator.com/item?id=31160302</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30889828</guid>
             <pubDate>Sat, 02 Apr 2022 17:10:38 GMT</pubDate>
             <description><![CDATA[Show HN: A tiny solar-powered server only awake during the day]]></description>
-        </item>
-        <item>
-            <title><![CDATA[英吋]]></title>
-            <link>https://news.ycombinator.com/item?id=30889120</link>
-            <guid>https://news.ycombinator.com/item?id=30889120</guid>
-            <pubDate>Sat, 02 Apr 2022 15:52:28 GMT</pubDate>
-            <description><![CDATA[Show HN: Inch]]></description>
         </item>
     </channel>
 </rss>

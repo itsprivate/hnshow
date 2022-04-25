@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-25T20:47:11.641Z</updated>
+    <updated>2022-04-25T20:53:19.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你能把SOUP變成BACK，每次只改變一個字母嗎？]]></title>
+        <id>https://news.ycombinator.com/item?id=31158980</id>
+        <link href="https://news.ycombinator.com/item?id=31158980"/>
+        <updated>2022-04-25T18:42:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Can you turn SOUP into BACK, changing just one letter at a time?]]></summary>
+        <author>
+            <name>changelist</name>
+            <uri>https://news.ycombinator.com/user?id=changelist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sqwok - 一個替代Twitter和Reddit的社交聊天工具]]></title>
         <id>https://news.ycombinator.com/item?id=31160302</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>lowercasename</name>
             <uri>https://news.ycombinator.com/user?id=lowercasename</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英吋]]></title>
-        <id>https://news.ycombinator.com/item?id=30889120</id>
-        <link href="https://news.ycombinator.com/item?id=30889120"/>
-        <updated>2022-04-02T15:52:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Inch]]></summary>
-        <author>
-            <name>marvindanig</name>
-            <uri>https://news.ycombinator.com/user?id=marvindanig</uri>
         </author>
     </entry>
 </feed>
