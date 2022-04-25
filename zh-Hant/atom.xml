@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-25T14:33:56.103Z</updated>
+    <updated>2022-04-25T15:17:12.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[管理您的支持請求]]></title>
+        <id>https://news.ycombinator.com/item?id=31155968</id>
+        <link href="https://news.ycombinator.com/item?id=31155968"/>
+        <updated>2022-04-25T15:10:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Manage Your Support Requests]]></summary>
+        <author>
+            <name>fufeetapps</name>
+            <uri>https://news.ycombinator.com/user?id=fufeetapps</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[圍棋應用的自動儀表]]></title>
+        <id>https://news.ycombinator.com/item?id=31155650</id>
+        <link href="https://news.ycombinator.com/item?id=31155650"/>
+        <updated>2022-04-25T14:49:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Automatic Instrumentation for Go Applications]]></summary>
+        <author>
+            <name>edenfed</name>
+            <uri>https://news.ycombinator.com/user?id=edenfed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[葡萄 - 一鍵將你的代碼轉化為教程]]></title>
         <id>https://news.ycombinator.com/item?id=31155190</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>omidh28</name>
             <uri>https://news.ycombinator.com/user?id=omidh28</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rickblocker，一種計算機視覺的方法來結束佝僂病。]]></title>
-        <id>https://news.ycombinator.com/item?id=30882757</id>
-        <link href="https://news.ycombinator.com/item?id=30882757"/>
-        <updated>2022-04-01T20:09:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rickblocker, a computer vision approach to end rickrolling]]></summary>
-        <author>
-            <name>rocauc</name>
-            <uri>https://news.ycombinator.com/user?id=rocauc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個基於節點的圖像處理應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30882741</id>
-        <link href="https://news.ycombinator.com/item?id=30882741"/>
-        <updated>2022-04-01T20:07:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I Made a Node Based Image Processing App]]></summary>
-        <author>
-            <name>groovypuppy</name>
-            <uri>https://news.ycombinator.com/user?id=groovypuppy</uri>
         </author>
     </entry>
 </feed>

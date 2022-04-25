@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 25 Apr 2022 14:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 15:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[管理您的支持請求]]></title>
+            <link>https://news.ycombinator.com/item?id=31155968</link>
+            <guid>https://news.ycombinator.com/item?id=31155968</guid>
+            <pubDate>Mon, 25 Apr 2022 15:10:47 GMT</pubDate>
+            <description><![CDATA[Show HN: Manage Your Support Requests]]></description>
+        </item>
+        <item>
+            <title><![CDATA[圍棋應用的自動儀表]]></title>
+            <link>https://news.ycombinator.com/item?id=31155650</link>
+            <guid>https://news.ycombinator.com/item?id=31155650</guid>
+            <pubDate>Mon, 25 Apr 2022 14:49:06 GMT</pubDate>
+            <description><![CDATA[Show HN: Automatic Instrumentation for Go Applications]]></description>
+        </item>
         <item>
             <title><![CDATA[葡萄 - 一鍵將你的代碼轉化為教程]]></title>
             <link>https://news.ycombinator.com/item?id=31155190</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30882852</guid>
             <pubDate>Fri, 01 Apr 2022 20:17:54 GMT</pubDate>
             <description><![CDATA[Show HN: An online learning platform but for traders]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rickblocker，一種計算機視覺的方法來結束佝僂病。]]></title>
-            <link>https://news.ycombinator.com/item?id=30882757</link>
-            <guid>https://news.ycombinator.com/item?id=30882757</guid>
-            <pubDate>Fri, 01 Apr 2022 20:09:20 GMT</pubDate>
-            <description><![CDATA[Show HN: Rickblocker, a computer vision approach to end rickrolling]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一個基於節點的圖像處理應用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=30882741</link>
-            <guid>https://news.ycombinator.com/item?id=30882741</guid>
-            <pubDate>Fri, 01 Apr 2022 20:07:46 GMT</pubDate>
-            <description><![CDATA[Show HN: I Made a Node Based Image Processing App]]></description>
         </item>
     </channel>
 </rss>
