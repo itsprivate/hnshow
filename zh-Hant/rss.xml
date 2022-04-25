@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 25 Apr 2022 19:52:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 20:47:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Sqwok - 一個替代Twitter和Reddit的社交聊天工具]]></title>
+            <link>https://news.ycombinator.com/item?id=31160302</link>
+            <guid>https://news.ycombinator.com/item?id=31160302</guid>
+            <pubDate>Mon, 25 Apr 2022 20:40:09 GMT</pubDate>
+            <description><![CDATA[Show HN: Sqwok – A social chat alternative to Twitter and Reddit]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個微型投資組合平臺]]></title>
+            <link>https://news.ycombinator.com/item?id=31160268</link>
+            <guid>https://news.ycombinator.com/item?id=31160268</guid>
+            <pubDate>Mon, 25 Apr 2022 20:37:18 GMT</pubDate>
+            <description><![CDATA[Show HN: A Micro Portfolio Platform]]></description>
+        </item>
         <item>
             <title><![CDATA[一個像Wordle一樣的塗鴉應用程序]]></title>
             <link>https://news.ycombinator.com/item?id=31159651</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30889120</guid>
             <pubDate>Sat, 02 Apr 2022 15:52:28 GMT</pubDate>
             <description><![CDATA[Show HN: Inch]]></description>
-        </item>
-        <item>
-            <title><![CDATA[與Git（hub/lab/EA）兼容的自我託管CI/CD]]></title>
-            <link>https://news.ycombinator.com/item?id=30889084</link>
-            <guid>https://news.ycombinator.com/item?id=30889084</guid>
-            <pubDate>Sat, 02 Apr 2022 15:46:45 GMT</pubDate>
-            <description><![CDATA[Show HN: Git(hub/lab/EA) compatible self hosted CI/CD]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我的TUI庫現在可以導出終端的HTML和SVG屏幕截圖了]]></title>
-            <link>https://news.ycombinator.com/item?id=30887577</link>
-            <guid>https://news.ycombinator.com/item?id=30887577</guid>
-            <pubDate>Sat, 02 Apr 2022 12:01:35 GMT</pubDate>
-            <description><![CDATA[Show HN: My TUI library can now export HTML and SVG screenshots of your terminal]]></description>
         </item>
     </channel>
 </rss>
