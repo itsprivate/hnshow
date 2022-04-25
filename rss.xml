@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 25 Apr 2022 13:51:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 14:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在Excel中渲染了一个3D模型]]></title>
+            <link>https://news.ycombinator.com/item?id=31154829</link>
+            <guid>https://news.ycombinator.com/item?id=31154829</guid>
+            <pubDate>Mon, 25 Apr 2022 13:58:44 GMT</pubDate>
+            <description><![CDATA[Show HN: I rendered a 3d model in Excel]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我做了一个备忘录图像生成器网站]]></title>
+            <link>https://news.ycombinator.com/item?id=31154700</link>
+            <guid>https://news.ycombinator.com/item?id=31154700</guid>
+            <pubDate>Mon, 25 Apr 2022 13:51:19 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a meme image generator site]]></description>
+        </item>
         <item>
             <title><![CDATA[Lists.sh - 列表的微博客]]></title>
             <link>https://news.ycombinator.com/item?id=31154567</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30882286</guid>
             <pubDate>Fri, 01 Apr 2022 19:27:18 GMT</pubDate>
             <description><![CDATA[Show HN: Google Search results are below the fold]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们能帮你找到有挑战性的自由职业吗？(beta)]]></title>
-            <link>https://news.ycombinator.com/item?id=30882251</link>
-            <guid>https://news.ycombinator.com/item?id=30882251</guid>
-            <pubDate>Fri, 01 Apr 2022 19:23:50 GMT</pubDate>
-            <description><![CDATA[Show HN: Can we pls help you find challenging freelance work? (beta)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在没有PyTorch/TensorFlow的情况下创建图像嵌入的Python包]]></title>
-            <link>https://news.ycombinator.com/item?id=30882114</link>
-            <guid>https://news.ycombinator.com/item?id=30882114</guid>
-            <pubDate>Fri, 01 Apr 2022 19:09:30 GMT</pubDate>
-            <description><![CDATA[Show HN: Python package to create image embeddings without PyTorch/TensorFlow]]></description>
         </item>
     </channel>
 </rss>

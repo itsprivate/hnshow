@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-25T13:51:41.844Z</updated>
+    <updated>2022-04-25T14:15:00.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在Excel中渲染了一個3D模型]]></title>
+        <id>https://news.ycombinator.com/item?id=31154829</id>
+        <link href="https://news.ycombinator.com/item?id=31154829"/>
+        <updated>2022-04-25T13:58:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I rendered a 3d model in Excel]]></summary>
+        <author>
+            <name>fatih-erikli</name>
+            <uri>https://news.ycombinator.com/user?id=fatih-erikli</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一個備忘錄圖像生成器網站]]></title>
+        <id>https://news.ycombinator.com/item?id=31154700</id>
+        <link href="https://news.ycombinator.com/item?id=31154700"/>
+        <updated>2022-04-25T13:51:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a meme image generator site]]></summary>
+        <author>
+            <name>spicespice</name>
+            <uri>https://news.ycombinator.com/user?id=spicespice</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lists.sh - 列表的微博客]]></title>
         <id>https://news.ycombinator.com/item?id=31154567</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>herpderperator</name>
             <uri>https://news.ycombinator.com/user?id=herpderperator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們能幫你找到有挑戰性的自由職業嗎？(beta)]]></title>
-        <id>https://news.ycombinator.com/item?id=30882251</id>
-        <link href="https://news.ycombinator.com/item?id=30882251"/>
-        <updated>2022-04-01T19:23:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Can we pls help you find challenging freelance work? (beta)]]></summary>
-        <author>
-            <name>dvykhopen</name>
-            <uri>https://news.ycombinator.com/user?id=dvykhopen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在沒有PyTorch/TensorFlow的情況下創建圖像嵌入的Python包]]></title>
-        <id>https://news.ycombinator.com/item?id=30882114</id>
-        <link href="https://news.ycombinator.com/item?id=30882114"/>
-        <updated>2022-04-01T19:09:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Python package to create image embeddings without PyTorch/TensorFlow]]></summary>
-        <author>
-            <name>minimaxir</name>
-            <uri>https://news.ycombinator.com/user?id=minimaxir</uri>
         </author>
     </entry>
 </feed>
