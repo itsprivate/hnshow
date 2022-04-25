@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-25T17:56:14.251Z</updated>
+    <updated>2022-04-25T19:15:05.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一个简单的实时扑克规划工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31159219</id>
+        <link href="https://news.ycombinator.com/item?id=31159219"/>
+        <updated>2022-04-25T19:02:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a simple realtime poker planning tool]]></summary>
+        <author>
+            <name>jpcapdevila</name>
+            <uri>https://news.ycombinator.com/user?id=jpcapdevila</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用这个从Rust移植过来的NPM包来构建次一级的网络音乐应用]]></title>
         <id>https://news.ycombinator.com/item?id=31158145</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>gxjoe</name>
             <uri>https://news.ycombinator.com/user?id=gxjoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个网站，发现了另一个网站]]></title>
-        <id>https://news.ycombinator.com/item?id=30886860</id>
-        <link href="https://news.ycombinator.com/item?id=30886860"/>
-        <updated>2022-04-02T09:05:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made website that discover another websites]]></summary>
-        <author>
-            <name>TheOmkarBirje</name>
-            <uri>https://news.ycombinator.com/user?id=TheOmkarBirje</uri>
         </author>
     </entry>
 </feed>
