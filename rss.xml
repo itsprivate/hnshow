@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 25 Apr 2022 13:01:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 13:31:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个为服务器设计的易于使用的备份工具--用Rust编写]]></title>
+            <link>https://news.ycombinator.com/item?id=31154057</link>
+            <guid>https://news.ycombinator.com/item?id=31154057</guid>
+            <pubDate>Mon, 25 Apr 2022 13:14:36 GMT</pubDate>
+            <description><![CDATA[Show HN: An easy-to-use backup tool designed for servers – written in Rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用在线平台远程控制一个机器人]]></title>
+            <link>https://news.ycombinator.com/item?id=31153934</link>
+            <guid>https://news.ycombinator.com/item?id=31153934</guid>
+            <pubDate>Mon, 25 Apr 2022 13:06:17 GMT</pubDate>
+            <description><![CDATA[Show HN: Remote controlling a robot using an online plateform]]></description>
+        </item>
         <item>
             <title><![CDATA[我建立了一个简单的天气应用，有英制和公制两种测量方法]]></title>
             <link>https://news.ycombinator.com/item?id=31153459</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30881441</guid>
             <pubDate>Fri, 01 Apr 2022 18:12:14 GMT</pubDate>
             <description><![CDATA[Show HN: gh-dash – GitHub CLI dashboard for pull requests and issues]]></description>
-        </item>
-        <item>
-            <title><![CDATA[将你的一天想象成144个长方形]]></title>
-            <link>https://news.ycombinator.com/item?id=30881096</link>
-            <guid>https://news.ycombinator.com/item?id=30881096</guid>
-            <pubDate>Fri, 01 Apr 2022 17:49:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Visualize your day as 144 rectangles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[制裁 - 想象一个搜索引擎，你可以按国家进行制裁]]></title>
-            <link>https://news.ycombinator.com/item?id=30881089</link>
-            <guid>https://news.ycombinator.com/item?id=30881089</guid>
-            <pubDate>Fri, 01 Apr 2022 17:48:05 GMT</pubDate>
-            <description><![CDATA[Show HN: Sanction – Imagine a search engine where you can sanction by country]]></description>
         </item>
     </channel>
 </rss>

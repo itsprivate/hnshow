@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-25T13:01:23.341Z</updated>
+    <updated>2022-04-25T13:31:49.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个为服务器设计的易于使用的备份工具--用Rust编写]]></title>
+        <id>https://news.ycombinator.com/item?id=31154057</id>
+        <link href="https://news.ycombinator.com/item?id=31154057"/>
+        <updated>2022-04-25T13:14:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An easy-to-use backup tool designed for servers – written in Rust]]></summary>
+        <author>
+            <name>me2too</name>
+            <uri>https://news.ycombinator.com/user?id=me2too</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用在线平台远程控制一个机器人]]></title>
+        <id>https://news.ycombinator.com/item?id=31153934</id>
+        <link href="https://news.ycombinator.com/item?id=31153934"/>
+        <updated>2022-04-25T13:06:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Remote controlling a robot using an online plateform]]></summary>
+        <author>
+            <name>targist</name>
+            <uri>https://news.ycombinator.com/user?id=targist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一个简单的天气应用，有英制和公制两种测量方法]]></title>
         <id>https://news.ycombinator.com/item?id=31153459</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>dlvhdr</name>
             <uri>https://news.ycombinator.com/user?id=dlvhdr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将你的一天想象成144个长方形]]></title>
-        <id>https://news.ycombinator.com/item?id=30881096</id>
-        <link href="https://news.ycombinator.com/item?id=30881096"/>
-        <updated>2022-04-01T17:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Visualize your day as 144 rectangles]]></summary>
-        <author>
-            <name>jmstfv</name>
-            <uri>https://news.ycombinator.com/user?id=jmstfv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[制裁 - 想象一个搜索引擎，你可以按国家进行制裁]]></title>
-        <id>https://news.ycombinator.com/item?id=30881089</id>
-        <link href="https://news.ycombinator.com/item?id=30881089"/>
-        <updated>2022-04-01T17:48:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Sanction – Imagine a search engine where you can sanction by country]]></summary>
-        <author>
-            <name>taxonomyman</name>
-            <uri>https://news.ycombinator.com/user?id=taxonomyman</uri>
         </author>
     </entry>
 </feed>
