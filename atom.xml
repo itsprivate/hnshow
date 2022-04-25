@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-24T23:52:44.051Z</updated>
+    <updated>2022-04-25T00:39:55.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Groomba - 梳理你的Jira积压文件的Slackbot]]></title>
+        <id>https://news.ycombinator.com/item?id=31149401</id>
+        <link href="https://news.ycombinator.com/item?id=31149401"/>
+        <updated>2022-04-24T23:57:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Groomba – a Slackbot that grooms your Jira backlog]]></summary>
+        <author>
+            <name>wufufufu</name>
+            <uri>https://news.ycombinator.com/user?id=wufufufu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我正在用Rust制作一种动态语言]]></title>
         <id>https://news.ycombinator.com/item?id=31149332</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jayra</name>
             <uri>https://news.ycombinator.com/user?id=jayra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我制作了桌面应用程序来浏览和减少AWS云的成本]]></title>
-        <id>https://news.ycombinator.com/item?id=30877954</id>
-        <link href="https://news.ycombinator.com/item?id=30877954"/>
-        <updated>2022-04-01T13:40:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made desktop app to browse and reduce AWS cloud costs]]></summary>
-        <author>
-            <name>pzubkiewicz</name>
-            <uri>https://news.ycombinator.com/user?id=pzubkiewicz</uri>
         </author>
     </entry>
 </feed>

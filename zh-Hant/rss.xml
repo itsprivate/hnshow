@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 24 Apr 2022 23:52:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 00:39:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Groomba - 梳理你的Jira積壓文件的Slackbot]]></title>
+            <link>https://news.ycombinator.com/item?id=31149401</link>
+            <guid>https://news.ycombinator.com/item?id=31149401</guid>
+            <pubDate>Sun, 24 Apr 2022 23:57:24 GMT</pubDate>
+            <description><![CDATA[Show HN: Groomba – a Slackbot that grooms your Jira backlog]]></description>
+        </item>
         <item>
             <title><![CDATA[我正在用Rust製作一種動態語言]]></title>
             <link>https://news.ycombinator.com/item?id=31149332</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30878784</guid>
             <pubDate>Fri, 01 Apr 2022 15:02:52 GMT</pubDate>
             <description><![CDATA[Show HN: Collection of Useful and Underrated Websites]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我製作了桌面應用程序來瀏覽和減少AWS雲的成本]]></title>
-            <link>https://news.ycombinator.com/item?id=30877954</link>
-            <guid>https://news.ycombinator.com/item?id=30877954</guid>
-            <pubDate>Fri, 01 Apr 2022 13:40:50 GMT</pubDate>
-            <description><![CDATA[Show HN: I made desktop app to browse and reduce AWS cloud costs]]></description>
         </item>
     </channel>
 </rss>
