@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-25T17:40:43.335Z</updated>
+    <updated>2022-04-25T17:56:14.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用这个从Rust移植过来的NPM包来构建次一级的网络音乐应用]]></title>
+        <id>https://news.ycombinator.com/item?id=31158145</id>
+        <link href="https://news.ycombinator.com/item?id=31158145"/>
+        <updated>2022-04-25T17:36:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build next-level web music app with this NPM package ported from Rust]]></summary>
+        <author>
+            <name>chaosprint</name>
+            <uri>https://news.ycombinator.com/user?id=chaosprint</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于机械键盘的笔记本电脑支架]]></title>
         <id>https://news.ycombinator.com/item?id=31157885</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>TheOmkarBirje</name>
             <uri>https://news.ycombinator.com/user?id=TheOmkarBirje</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我将一个习惯跟踪器游戏化以对抗拖延症]]></title>
-        <id>https://news.ycombinator.com/item?id=30886183</id>
-        <link href="https://news.ycombinator.com/item?id=30886183"/>
-        <updated>2022-04-02T06:12:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I gamified a habit tracker to fight procrastination]]></summary>
-        <author>
-            <name>marclou</name>
-            <uri>https://news.ycombinator.com/user?id=marclou</uri>
         </author>
     </entry>
 </feed>
