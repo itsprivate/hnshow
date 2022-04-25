@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 25 Apr 2022 13:31:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 13:51:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Lists.sh - 列表的微博客]]></title>
+            <link>https://news.ycombinator.com/item?id=31154567</link>
+            <guid>https://news.ycombinator.com/item?id=31154567</guid>
+            <pubDate>Mon, 25 Apr 2022 13:44:02 GMT</pubDate>
+            <description><![CDATA[Show HN: Lists.sh – A Microblog for Lists]]></description>
+        </item>
+        <item>
+            <title><![CDATA[無代碼CI]]></title>
+            <link>https://news.ycombinator.com/item?id=31154554</link>
+            <guid>https://news.ycombinator.com/item?id=31154554</guid>
+            <pubDate>Mon, 25 Apr 2022 13:43:29 GMT</pubDate>
+            <description><![CDATA[Show HN: No Code CI]]></description>
+        </item>
         <item>
             <title><![CDATA[一個為服務器設計的易於使用的備份工具--用Rust編寫]]></title>
             <link>https://news.ycombinator.com/item?id=31154057</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30882114</guid>
             <pubDate>Fri, 01 Apr 2022 19:09:30 GMT</pubDate>
             <description><![CDATA[Show HN: Python package to create image embeddings without PyTorch/TensorFlow]]></description>
-        </item>
-        <item>
-            <title><![CDATA[五天內完成Lisp]]></title>
-            <link>https://news.ycombinator.com/item?id=30881894</link>
-            <guid>https://news.ycombinator.com/item?id=30881894</guid>
-            <pubDate>Fri, 01 Apr 2022 18:49:01 GMT</pubDate>
-            <description><![CDATA[Show HN: Lisp in Five Days]]></description>
-        </item>
-        <item>
-            <title><![CDATA[gh-dash - GitHub CLI 儀表板，用於拉動請求和問題。]]></title>
-            <link>https://news.ycombinator.com/item?id=30881441</link>
-            <guid>https://news.ycombinator.com/item?id=30881441</guid>
-            <pubDate>Fri, 01 Apr 2022 18:12:14 GMT</pubDate>
-            <description><![CDATA[Show HN: gh-dash – GitHub CLI dashboard for pull requests and issues]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-25T13:31:49.985Z</updated>
+    <updated>2022-04-25T13:51:41.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lists.sh - 列表的微博客]]></title>
+        <id>https://news.ycombinator.com/item?id=31154567</id>
+        <link href="https://news.ycombinator.com/item?id=31154567"/>
+        <updated>2022-04-25T13:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lists.sh – A Microblog for Lists]]></summary>
+        <author>
+            <name>qudat</name>
+            <uri>https://news.ycombinator.com/user?id=qudat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无代码CI]]></title>
+        <id>https://news.ycombinator.com/item?id=31154554</id>
+        <link href="https://news.ycombinator.com/item?id=31154554"/>
+        <updated>2022-04-25T13:43:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: No Code CI]]></summary>
+        <author>
+            <name>githaxs</name>
+            <uri>https://news.ycombinator.com/user?id=githaxs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个为服务器设计的易于使用的备份工具--用Rust编写]]></title>
         <id>https://news.ycombinator.com/item?id=31154057</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>minimaxir</name>
             <uri>https://news.ycombinator.com/user?id=minimaxir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[五天内完成Lisp]]></title>
-        <id>https://news.ycombinator.com/item?id=30881894</id>
-        <link href="https://news.ycombinator.com/item?id=30881894"/>
-        <updated>2022-04-01T18:49:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lisp in Five Days]]></summary>
-        <author>
-            <name>triumphantomato</name>
-            <uri>https://news.ycombinator.com/user?id=triumphantomato</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gh-dash - GitHub CLI 仪表板，用于拉动请求和问题。]]></title>
-        <id>https://news.ycombinator.com/item?id=30881441</id>
-        <link href="https://news.ycombinator.com/item?id=30881441"/>
-        <updated>2022-04-01T18:12:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: gh-dash – GitHub CLI dashboard for pull requests and issues]]></summary>
-        <author>
-            <name>dlvhdr</name>
-            <uri>https://news.ycombinator.com/user?id=dlvhdr</uri>
         </author>
     </entry>
 </feed>
