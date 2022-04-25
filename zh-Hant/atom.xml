@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-25T14:15:00.302Z</updated>
+    <updated>2022-04-25T14:33:56.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[葡萄 - 一鍵將你的代碼轉化為教程]]></title>
+        <id>https://news.ycombinator.com/item?id=31155190</id>
+        <link href="https://news.ycombinator.com/item?id=31155190"/>
+        <updated>2022-04-25T14:21:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Grape – Transform your code into a tutorial with one click]]></summary>
+        <author>
+            <name>ashr_</name>
+            <uri>https://news.ycombinator.com/user?id=ashr_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DagsHub GitHub集成 - 你一直在審查ML項目是錯誤的]]></title>
+        <id>https://news.ycombinator.com/item?id=31155086</id>
+        <link href="https://news.ycombinator.com/item?id=31155086"/>
+        <updated>2022-04-25T14:14:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: DagsHub GitHub Integration – You've been reviewing ML projects wrong]]></summary>
+        <author>
+            <name>idonov</name>
+            <uri>https://news.ycombinator.com/user?id=idonov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在Excel中渲染了一個3D模型]]></title>
         <id>https://news.ycombinator.com/item?id=31154829</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>groovypuppy</name>
             <uri>https://news.ycombinator.com/user?id=groovypuppy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯寡頭遊艇追蹤器]]></title>
-        <id>https://news.ycombinator.com/item?id=30882702</id>
-        <link href="https://news.ycombinator.com/item?id=30882702"/>
-        <updated>2022-04-01T20:04:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Russian Oligarch Yacht Tracker]]></summary>
-        <author>
-            <name>tannerljohnson</name>
-            <uri>https://news.ycombinator.com/user?id=tannerljohnson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌搜索結果在摺疊下方]]></title>
-        <id>https://news.ycombinator.com/item?id=30882286</id>
-        <link href="https://news.ycombinator.com/item?id=30882286"/>
-        <updated>2022-04-01T19:27:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Google Search results are below the fold]]></summary>
-        <author>
-            <name>herpderperator</name>
-            <uri>https://news.ycombinator.com/user?id=herpderperator</uri>
         </author>
     </entry>
 </feed>
