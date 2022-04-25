@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-25T21:30:32.607Z</updated>
+    <updated>2022-04-25T21:52:19.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[苏哈坦--从纽约市到郊区]]></title>
+        <id>https://news.ycombinator.com/item?id=31161118</id>
+        <link href="https://news.ycombinator.com/item?id=31161118"/>
+        <updated>2022-04-25T21:46:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Subhattan – From NYC to the Suburbs]]></summary>
+        <author>
+            <name>djsamseng</name>
+            <uri>https://news.ycombinator.com/user?id=djsamseng</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyNeuraLogic。Python可微分逻辑程序]]></title>
+        <id>https://news.ycombinator.com/item?id=31161034</id>
+        <link href="https://news.ycombinator.com/item?id=31161034"/>
+        <updated>2022-04-25T21:40:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PyNeuraLogic: Python Differentiable Logic Programs]]></summary>
+        <author>
+            <name>LukasZahradnik</name>
+            <uri>https://news.ycombinator.com/user?id=LukasZahradnik</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用BPF的每个应用的合理可靠的流量监控]]></title>
         <id>https://news.ycombinator.com/item?id=31160863</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>giekaton</name>
             <uri>https://news.ycombinator.com/user?id=giekaton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Platform9管理的Kubernetes与Hetzner云节点 - 一键设置]]></title>
-        <id>https://news.ycombinator.com/item?id=30893668</id>
-        <link href="https://news.ycombinator.com/item?id=30893668"/>
-        <updated>2022-04-03T02:10:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Platform9 managed Kubernetes with Hetzner Cloud node – One click setup]]></summary>
-        <author>
-            <name>herz0g</name>
-            <uri>https://news.ycombinator.com/user?id=herz0g</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一个Wi-Fi 6调查套件，看看它在我的地区有多普遍。]]></title>
-        <id>https://news.ycombinator.com/item?id=30891962</id>
-        <link href="https://news.ycombinator.com/item?id=30891962"/>
-        <updated>2022-04-02T21:47:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a Wi-Fi 6 survey kit to see how common it was in my area]]></summary>
-        <author>
-            <name>wirelessbits</name>
-            <uri>https://news.ycombinator.com/user?id=wirelessbits</uri>
         </author>
     </entry>
 </feed>
