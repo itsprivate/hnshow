@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-25T19:15:05.264Z</updated>
+    <updated>2022-04-25T19:28:19.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加拿大广播公司的热门评论新闻]]></title>
+        <id>https://news.ycombinator.com/item?id=31159437</id>
+        <link href="https://news.ycombinator.com/item?id=31159437"/>
+        <updated>2022-04-25T19:22:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Top Commented News from CBC]]></summary>
+        <author>
+            <name>holts-shoe</name>
+            <uri>https://news.ycombinator.com/user?id=holts-shoe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一个简单的实时扑克规划工具]]></title>
         <id>https://news.ycombinator.com/item?id=31159219</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>uiii</name>
             <uri>https://news.ycombinator.com/user?id=uiii</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[带有预告和付费墙的概念页]]></title>
-        <id>https://news.ycombinator.com/item?id=30886958</id>
-        <link href="https://news.ycombinator.com/item?id=30886958"/>
-        <updated>2022-04-02T09:33:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Notion Pages with Teasers and Paywall]]></summary>
-        <author>
-            <name>gxjoe</name>
-            <uri>https://news.ycombinator.com/user?id=gxjoe</uri>
         </author>
     </entry>
 </feed>
