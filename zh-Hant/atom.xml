@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-25T16:54:44.342Z</updated>
+    <updated>2022-04-25T17:40:43.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用於機械鍵盤的筆記本電腦支架]]></title>
+        <id>https://news.ycombinator.com/item?id=31157885</id>
+        <link href="https://news.ycombinator.com/item?id=31157885"/>
+        <updated>2022-04-25T17:16:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Laptop mount for your mechanical keyboard]]></summary>
+        <author>
+            <name>nooron</name>
+            <uri>https://news.ycombinator.com/user?id=nooron</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[像Netlify一樣，但在任何雲上]]></title>
+        <id>https://news.ycombinator.com/item?id=31157819</id>
+        <link href="https://news.ycombinator.com/item?id=31157819"/>
+        <updated>2022-04-25T17:11:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Like Netlify, but on Any Cloud]]></summary>
+        <author>
+            <name>ksajadi</name>
+            <uri>https://news.ycombinator.com/user?id=ksajadi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個魔術:)]]></title>
         <id>https://news.ycombinator.com/item?id=31157122</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>marclou</name>
             <uri>https://news.ycombinator.com/user?id=marclou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[飢餓兒童的NFTs]]></title>
-        <id>https://news.ycombinator.com/item?id=30885362</id>
-        <link href="https://news.ycombinator.com/item?id=30885362"/>
-        <updated>2022-04-02T02:25:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: NFTs for Starving Children]]></summary>
-        <author>
-            <name>memecatcher</name>
-            <uri>https://news.ycombinator.com/user?id=memecatcher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免費主持無接觸式菜單]]></title>
-        <id>https://news.ycombinator.com/item?id=30884883</id>
-        <link href="https://news.ycombinator.com/item?id=30884883"/>
-        <updated>2022-04-02T00:51:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Host Touchless Menus for Free]]></summary>
-        <author>
-            <name>lolpanda</name>
-            <uri>https://news.ycombinator.com/user?id=lolpanda</uri>
         </author>
     </entry>
 </feed>
