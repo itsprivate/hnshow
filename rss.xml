@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 25 Apr 2022 12:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 13:01:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我建立了一个简单的天气应用，有英制和公制两种测量方法]]></title>
+            <link>https://news.ycombinator.com/item?id=31153459</link>
+            <guid>https://news.ycombinator.com/item?id=31153459</guid>
+            <pubDate>Mon, 25 Apr 2022 12:24:19 GMT</pubDate>
+            <description><![CDATA[Show HN: I built a simple weather app with both imperial and metric measurements]]></description>
+        </item>
         <item>
             <title><![CDATA[浏览器中的体素月球登陆器]]></title>
             <link>https://news.ycombinator.com/item?id=31153333</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30881089</guid>
             <pubDate>Fri, 01 Apr 2022 17:48:05 GMT</pubDate>
             <description><![CDATA[Show HN: Sanction – Imagine a search engine where you can sanction by country]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Svend3r，一个用于Svelte的交互式即插即用图表库]]></title>
-            <link>https://news.ycombinator.com/item?id=30880833</link>
-            <guid>https://news.ycombinator.com/item?id=30880833</guid>
-            <pubDate>Fri, 01 Apr 2022 17:29:31 GMT</pubDate>
-            <description><![CDATA[Show HN: Svend3r, an interactive plug and play charting library for Svelte]]></description>
         </item>
     </channel>
 </rss>

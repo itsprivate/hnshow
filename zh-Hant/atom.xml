@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-25T12:20:39.897Z</updated>
+    <updated>2022-04-25T13:01:23.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一個簡單的天氣應用，有英制和公制兩種測量方法]]></title>
+        <id>https://news.ycombinator.com/item?id=31153459</id>
+        <link href="https://news.ycombinator.com/item?id=31153459"/>
+        <updated>2022-04-25T12:24:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a simple weather app with both imperial and metric measurements]]></summary>
+        <author>
+            <name>rain2o</name>
+            <uri>https://news.ycombinator.com/user?id=rain2o</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[瀏覽器中的體素月球登陸器]]></title>
         <id>https://news.ycombinator.com/item?id=31153333</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>taxonomyman</name>
             <uri>https://news.ycombinator.com/user?id=taxonomyman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svend3r，一個用於Svelte的交互式即插即用圖表庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30880833</id>
-        <link href="https://news.ycombinator.com/item?id=30880833"/>
-        <updated>2022-04-01T17:29:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Svend3r, an interactive plug and play charting library for Svelte]]></summary>
-        <author>
-            <name>jameslaff</name>
-            <uri>https://news.ycombinator.com/user?id=jameslaff</uri>
         </author>
     </entry>
 </feed>
