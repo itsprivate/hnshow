@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-25T20:53:19.424Z</updated>
+    <updated>2022-04-25T21:13:53.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,39 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一個文字遊戲]]></title>
+        <id>https://news.ycombinator.com/item?id=31160447</id>
+        <link href="https://news.ycombinator.com/item?id=31160447"/>
+        <updated>2022-04-25T20:53:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I Built a Word Game]]></summary>
+        <author>
+            <name>knyt</name>
+            <uri>https://news.ycombinator.com/user?id=knyt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[無偏見的產品評論平臺]]></title>
+        <id>https://news.ycombinator.com/item?id=31160428</id>
+        <link href="https://news.ycombinator.com/item?id=31160428"/>
+        <updated>2022-04-25T20:51:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Unbiased Product Review Platform]]></summary>
+        <author>
+            <name>dpatel1</name>
+            <uri>https://news.ycombinator.com/user?id=dpatel1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在60秒內將任何Web應用部署到Lambda上]]></title>
+        <id>https://news.ycombinator.com/item?id=31160173</id>
+        <link href="https://news.ycombinator.com/item?id=31160173"/>
+        <updated>2022-04-25T20:29:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Deploy any Web App to Lambda in 60 seconds]]></summary>
+        <author>
+            <name>thekevinwang</name>
+            <uri>https://news.ycombinator.com/user?id=thekevinwang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你能把SOUP變成BACK，每次只改變一個字母嗎？]]></title>
         <id>https://news.ycombinator.com/item?id=31158980</id>
@@ -6580,39 +6613,6 @@
         <author>
             <name>laurinstahl</name>
             <uri>https://news.ycombinator.com/user?id=laurinstahl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[秘密機器人基地]]></title>
-        <id>https://news.ycombinator.com/item?id=30890190</id>
-        <link href="https://news.ycombinator.com/item?id=30890190"/>
-        <updated>2022-04-02T17:55:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Secret Robot Base]]></summary>
-        <author>
-            <name>paulinko_</name>
-            <uri>https://news.ycombinator.com/user?id=paulinko_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的網站只做了純文本]]></title>
-        <id>https://news.ycombinator.com/item?id=30890060</id>
-        <link href="https://news.ycombinator.com/item?id=30890060"/>
-        <updated>2022-04-02T17:39:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made my website plain text only]]></summary>
-        <author>
-            <name>aswinmohanme</name>
-            <uri>https://news.ycombinator.com/user?id=aswinmohanme</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個微小的太陽能服務器只在白天醒著]]></title>
-        <id>https://news.ycombinator.com/item?id=30889828</id>
-        <link href="https://news.ycombinator.com/item?id=30889828"/>
-        <updated>2022-04-02T17:10:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A tiny solar-powered server only awake during the day]]></summary>
-        <author>
-            <name>lowercasename</name>
-            <uri>https://news.ycombinator.com/user?id=lowercasename</uri>
         </author>
     </entry>
 </feed>
