@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-25T00:39:55.728Z</updated>
+    <updated>2022-04-25T08:16:21.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[API - 從輸入文本創建視頻]]></title>
+        <id>https://news.ycombinator.com/item?id=31151684</id>
+        <link href="https://news.ycombinator.com/item?id=31151684"/>
+        <updated>2022-04-25T07:59:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: API – video creation from an input text]]></summary>
+        <author>
+            <name>FlyNestor</name>
+            <uri>https://news.ycombinator.com/user?id=FlyNestor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Groomba - 梳理你的Jira積壓文件的Slackbot]]></title>
         <id>https://news.ycombinator.com/item?id=31149401</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>silentprog</name>
             <uri>https://news.ycombinator.com/user?id=silentprog</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[收集有用的和被低估的網站]]></title>
-        <id>https://news.ycombinator.com/item?id=30878784</id>
-        <link href="https://news.ycombinator.com/item?id=30878784"/>
-        <updated>2022-04-01T15:02:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Collection of Useful and Underrated Websites]]></summary>
-        <author>
-            <name>jayra</name>
-            <uri>https://news.ycombinator.com/user?id=jayra</uri>
         </author>
     </entry>
 </feed>
