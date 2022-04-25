@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-25T08:16:21.147Z</updated>
+    <updated>2022-04-25T10:16:06.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[M3O - 通用公共API接口]]></title>
+        <id>https://news.ycombinator.com/item?id=31152511</id>
+        <link href="https://news.ycombinator.com/item?id=31152511"/>
+        <updated>2022-04-25T10:09:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: M3O – Universal Public API Interface]]></summary>
+        <author>
+            <name>asim</name>
+            <uri>https://news.ycombinator.com/user?id=asim</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[API - 从输入文本创建视频]]></title>
         <id>https://news.ycombinator.com/item?id=31151684</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>hubraumhugo</name>
             <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redo - 用于快速创建shell函数的命令行工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30878935</id>
-        <link href="https://news.ycombinator.com/item?id=30878935"/>
-        <updated>2022-04-01T15:12:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Redo – Command line utility for quickly creating shell functions]]></summary>
-        <author>
-            <name>silentprog</name>
-            <uri>https://news.ycombinator.com/user?id=silentprog</uri>
         </author>
     </entry>
 </feed>

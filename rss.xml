@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 25 Apr 2022 08:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 10:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[M3O - 通用公共API接口]]></title>
+            <link>https://news.ycombinator.com/item?id=31152511</link>
+            <guid>https://news.ycombinator.com/item?id=31152511</guid>
+            <pubDate>Mon, 25 Apr 2022 10:09:25 GMT</pubDate>
+            <description><![CDATA[Show HN: M3O – Universal Public API Interface]]></description>
+        </item>
         <item>
             <title><![CDATA[API - 从输入文本创建视频]]></title>
             <link>https://news.ycombinator.com/item?id=31151684</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30878968</guid>
             <pubDate>Fri, 01 Apr 2022 15:14:33 GMT</pubDate>
             <description><![CDATA[Show HN: Reviews on how long products last, where they fail, and how to fix them]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Redo - 用于快速创建shell函数的命令行工具]]></title>
-            <link>https://news.ycombinator.com/item?id=30878935</link>
-            <guid>https://news.ycombinator.com/item?id=30878935</guid>
-            <pubDate>Fri, 01 Apr 2022 15:12:05 GMT</pubDate>
-            <description><![CDATA[Show HN: Redo – Command line utility for quickly creating shell functions]]></description>
         </item>
     </channel>
 </rss>
