@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 25 Apr 2022 11:52:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 12:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[浏览器中的体素月球登陆器]]></title>
+            <link>https://news.ycombinator.com/item?id=31153333</link>
+            <guid>https://news.ycombinator.com/item?id=31153333</guid>
+            <pubDate>Mon, 25 Apr 2022 12:06:11 GMT</pubDate>
+            <description><![CDATA[Show HN: Voxel Lunar Lander in the Browser]]></description>
+        </item>
         <item>
             <title><![CDATA[我建立的加密钱币筛选器]]></title>
             <link>https://news.ycombinator.com/item?id=31153196</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30880833</guid>
             <pubDate>Fri, 01 Apr 2022 17:29:31 GMT</pubDate>
             <description><![CDATA[Show HN: Svend3r, an interactive plug and play charting library for Svelte]]></description>
-        </item>
-        <item>
-            <title><![CDATA[生成Wordle风格的解决方案，用于社交发布]]></title>
-            <link>https://news.ycombinator.com/item?id=30880326</link>
-            <guid>https://news.ycombinator.com/item?id=30880326</guid>
-            <pubDate>Fri, 01 Apr 2022 16:48:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Generate Wordle-style solutions for social posting]]></description>
         </item>
     </channel>
 </rss>
