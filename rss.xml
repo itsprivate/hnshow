@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 25 Apr 2022 19:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 19:52:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个像Wordle一样的涂鸦应用程序]]></title>
+            <link>https://news.ycombinator.com/item?id=31159651</link>
+            <guid>https://news.ycombinator.com/item?id=31159651</guid>
+            <pubDate>Mon, 25 Apr 2022 19:46:59 GMT</pubDate>
+            <description><![CDATA[Show HN: A Doodling app like Wordle]]></description>
+        </item>
         <item>
             <title><![CDATA[加拿大广播公司的热门评论新闻]]></title>
             <link>https://news.ycombinator.com/item?id=31159437</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30887577</guid>
             <pubDate>Sat, 02 Apr 2022 12:01:35 GMT</pubDate>
             <description><![CDATA[Show HN: My TUI library can now export HTML and SVG screenshots of your terminal]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Datetime.tools - 方便的日期和时间转换]]></title>
-            <link>https://news.ycombinator.com/item?id=30887355</link>
-            <guid>https://news.ycombinator.com/item?id=30887355</guid>
-            <pubDate>Sat, 02 Apr 2022 11:21:04 GMT</pubDate>
-            <description><![CDATA[Show HN: Datetime.tools – convenient date and time conversions]]></description>
         </item>
     </channel>
 </rss>
