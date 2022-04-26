@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-26T15:59:01.962Z</updated>
+    <updated>2022-04-26T16:18:21.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Baseten - 構建以ML為動力的應用程序]]></title>
+        <id>https://news.ycombinator.com/item?id=31169193</id>
+        <link href="https://news.ycombinator.com/item?id=31169193"/>
+        <updated>2022-04-26T16:05:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Baseten – Build ML-powered applications]]></summary>
+        <author>
+            <name>philipkiely</name>
+            <uri>https://news.ycombinator.com/user?id=philipkiely</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thokr - 一個用rust編寫的光滑的打字TUI]]></title>
+        <id>https://news.ycombinator.com/item?id=31169133</id>
+        <link href="https://news.ycombinator.com/item?id=31169133"/>
+        <updated>2022-04-26T16:01:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Thokr – a sleek typing TUI written in rust]]></summary>
+        <author>
+            <name>coloradocolby</name>
+            <uri>https://news.ycombinator.com/user?id=coloradocolby</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linen - 讓你的Slack社區可以被谷歌搜索到]]></title>
         <id>https://news.ycombinator.com/item?id=31168882</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>rpatni</name>
             <uri>https://news.ycombinator.com/user?id=rpatni</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PodHound - Podcast的產品搜索]]></title>
-        <id>https://news.ycombinator.com/item?id=30898529</id>
-        <link href="https://news.ycombinator.com/item?id=30898529"/>
-        <updated>2022-04-03T17:08:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PodHound – ProductHunt for Podcasts]]></summary>
-        <author>
-            <name>jdbiggs</name>
-            <uri>https://news.ycombinator.com/user?id=jdbiggs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[隱性貨幣的新手指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30897592</id>
-        <link href="https://news.ycombinator.com/item?id=30897592"/>
-        <updated>2022-04-03T15:22:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The Newbies Guide to Crypto]]></summary>
-        <author>
-            <name>SuDa2103</name>
-            <uri>https://news.ycombinator.com/user?id=SuDa2103</uri>
         </author>
     </entry>
 </feed>
