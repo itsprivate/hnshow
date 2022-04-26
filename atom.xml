@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-26T10:40:34.401Z</updated>
+    <updated>2022-04-26T11:32:29.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AWS停机了吗？10个地区和7个服务的独立健康检查]]></title>
+        <id>https://news.ycombinator.com/item?id=31166095</id>
+        <link href="https://news.ycombinator.com/item?id=31166095"/>
+        <updated>2022-04-26T11:25:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Is AWS Down? Independent Health Checks for 10 Regions and 7 Services]]></summary>
+        <author>
+            <name>cloudfalcon</name>
+            <uri>https://news.ycombinator.com/user?id=cloudfalcon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可搜索的浏览器历史离线档案]]></title>
         <id>https://news.ycombinator.com/item?id=31165688</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>motyar</name>
             <uri>https://news.ycombinator.com/user?id=motyar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ipyvizzu - Jupyter笔记本中的动画图表]]></title>
-        <id>https://news.ycombinator.com/item?id=30895975</id>
-        <link href="https://news.ycombinator.com/item?id=30895975"/>
-        <updated>2022-04-03T10:57:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ipyvizzu – animated charts in Jupyter Notebooks]]></summary>
-        <author>
-            <name>vidipeti</name>
-            <uri>https://news.ycombinator.com/user?id=vidipeti</uri>
         </author>
     </entry>
 </feed>

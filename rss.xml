@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 26 Apr 2022 10:40:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 11:32:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[AWS停机了吗？10个地区和7个服务的独立健康检查]]></title>
+            <link>https://news.ycombinator.com/item?id=31166095</link>
+            <guid>https://news.ycombinator.com/item?id=31166095</guid>
+            <pubDate>Tue, 26 Apr 2022 11:25:15 GMT</pubDate>
+            <description><![CDATA[Show HN: Is AWS Down? Independent Health Checks for 10 Regions and 7 Services]]></description>
+        </item>
         <item>
             <title><![CDATA[可搜索的浏览器历史离线档案]]></title>
             <link>https://news.ycombinator.com/item?id=31165688</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30896024</guid>
             <pubDate>Sun, 03 Apr 2022 11:11:54 GMT</pubDate>
             <description><![CDATA[Show HN: Markdown Based Todo App]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ipyvizzu - Jupyter笔记本中的动画图表]]></title>
-            <link>https://news.ycombinator.com/item?id=30895975</link>
-            <guid>https://news.ycombinator.com/item?id=30895975</guid>
-            <pubDate>Sun, 03 Apr 2022 10:57:07 GMT</pubDate>
-            <description><![CDATA[Show HN: Ipyvizzu – animated charts in Jupyter Notebooks]]></description>
         </item>
     </channel>
 </rss>
