@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 26 Apr 2022 17:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 17:45:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,27 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[像分析股票一樣分析衝刺進度表]]></title>
+            <link>https://news.ycombinator.com/item?id=31170345</link>
+            <guid>https://news.ycombinator.com/item?id=31170345</guid>
+            <pubDate>Tue, 26 Apr 2022 17:25:12 GMT</pubDate>
+            <description><![CDATA[Show HN: Analyze sprint burndown like you analyze stocks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Caddy v2.5.0]]></title>
+            <link>https://news.ycombinator.com/item?id=31170280</link>
+            <guid>https://news.ycombinator.com/item?id=31170280</guid>
+            <pubDate>Tue, 26 Apr 2022 17:20:19 GMT</pubDate>
+            <description><![CDATA[Show HN: Caddy v2.5.0]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Melodle - 在6次嘗試中猜測旋律（Wordle分支）。]]></title>
+            <link>https://news.ycombinator.com/item?id=31170250</link>
+            <guid>https://news.ycombinator.com/item?id=31170250</guid>
+            <pubDate>Tue, 26 Apr 2022 17:17:39 GMT</pubDate>
+            <description><![CDATA[Show HN: Melodle – Guess the melody in 6 tries (Wordle offshoot)]]></description>
+        </item>
         <item>
             <title><![CDATA[新標準--100%回收的t恤衫]]></title>
             <link>https://news.ycombinator.com/item?id=31169950</link>
@@ -4192,27 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30903675</guid>
             <pubDate>Mon, 04 Apr 2022 05:55:08 GMT</pubDate>
             <description><![CDATA[Show HN: Pbkit – Protobuf toolkit written in Deno/TypeScript]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不斷增長的開發者博客集合]]></title>
-            <link>https://news.ycombinator.com/item?id=30903391</link>
-            <guid>https://news.ycombinator.com/item?id=30903391</guid>
-            <pubDate>Mon, 04 Apr 2022 04:47:29 GMT</pubDate>
-            <description><![CDATA[Show HN: An ever-growing collection of developer blogs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個CLI工具，用PMD進行分析，並將分析結果作為GitHub評論發佈]]></title>
-            <link>https://news.ycombinator.com/item?id=30900897</link>
-            <guid>https://news.ycombinator.com/item?id=30900897</guid>
-            <pubDate>Sun, 03 Apr 2022 21:32:50 GMT</pubDate>
-            <description><![CDATA[Show HN: A CLI tool that analyzes with PMD and posts findings as GitHub comments]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Txtai - 具有機器學習功能的SQL驅動的語義搜索]]></title>
-            <link>https://news.ycombinator.com/item?id=30900702</link>
-            <guid>https://news.ycombinator.com/item?id=30900702</guid>
-            <pubDate>Sun, 03 Apr 2022 21:11:04 GMT</pubDate>
-            <description><![CDATA[Show HN: Txtai – SQL-driven semantic search with machine learning functions]]></description>
         </item>
     </channel>
 </rss>
