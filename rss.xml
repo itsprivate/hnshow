@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 26 Apr 2022 09:46:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 10:40:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[可搜索的浏览器历史离线档案]]></title>
+            <link>https://news.ycombinator.com/item?id=31165688</link>
+            <guid>https://news.ycombinator.com/item?id=31165688</guid>
+            <pubDate>Tue, 26 Apr 2022 10:15:30 GMT</pubDate>
+            <description><![CDATA[Show HN: Searchable offline archive of browser history]]></description>
+        </item>
         <item>
             <title><![CDATA[用真实的数据为你的开发数据库播种的工具]]></title>
             <link>https://news.ycombinator.com/item?id=31165538</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30895975</guid>
             <pubDate>Sun, 03 Apr 2022 10:57:07 GMT</pubDate>
             <description><![CDATA[Show HN: Ipyvizzu – animated charts in Jupyter Notebooks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我建立了一个开源的自动化系统来从PDF中提取关键词]]></title>
-            <link>https://news.ycombinator.com/item?id=30895762</link>
-            <guid>https://news.ycombinator.com/item?id=30895762</guid>
-            <pubDate>Sun, 03 Apr 2022 10:00:51 GMT</pubDate>
-            <description><![CDATA[Show HN: I built an open source automation to extract keywords from PDFs]]></description>
         </item>
     </channel>
 </rss>
