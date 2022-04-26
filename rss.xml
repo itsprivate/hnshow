@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 26 Apr 2022 14:14:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 15:59:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Linen - 让你的Slack社区可以被谷歌搜索到]]></title>
+            <link>https://news.ycombinator.com/item?id=31168882</link>
+            <guid>https://news.ycombinator.com/item?id=31168882</guid>
+            <pubDate>Tue, 26 Apr 2022 15:40:39 GMT</pubDate>
+            <description><![CDATA[Show HN: Linen – Make your Slack community Google-searchable]]></description>
+        </item>
         <item>
             <title><![CDATA[Xlibe：Haiku的无服务器Xlib（X11）兼容层]]></title>
             <link>https://news.ycombinator.com/item?id=31167562</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30897592</guid>
             <pubDate>Sun, 03 Apr 2022 15:22:55 GMT</pubDate>
             <description><![CDATA[Show HN: The Newbies Guide to Crypto]]></description>
-        </item>
-        <item>
-            <title><![CDATA[谷歌浏览器的URL缩短器扩展（Opera, Brave, Edge）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30897235</link>
-            <guid>https://news.ycombinator.com/item?id=30897235</guid>
-            <pubDate>Sun, 03 Apr 2022 14:36:39 GMT</pubDate>
-            <description><![CDATA[Show HN: URL Shortener Extension for Google Chrome (Opera, Brave, Edge)]]></description>
         </item>
     </channel>
 </rss>
