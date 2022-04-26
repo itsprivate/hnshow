@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-26T02:58:43.489Z</updated>
+    <updated>2022-04-26T04:20:19.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[檢測Docker和Kubernetes等開發工具中的漏洞]]></title>
+        <id>https://news.ycombinator.com/item?id=31163757</id>
+        <link href="https://news.ycombinator.com/item?id=31163757"/>
+        <updated>2022-04-26T03:51:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Detection of vulns within dev tools such as Docker and Kubernetes]]></summary>
+        <author>
+            <name>kyoung3412</name>
+            <uri>https://news.ycombinator.com/user?id=kyoung3412</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們推出了一個新的網絡瀏覽器]]></title>
         <id>https://news.ycombinator.com/item?id=31163077</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>0xf00ff00f</name>
             <uri>https://news.ycombinator.com/user?id=0xf00ff00f</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蘭姆達斯克]]></title>
-        <id>https://news.ycombinator.com/item?id=30894296</id>
-        <link href="https://news.ycombinator.com/item?id=30894296"/>
-        <updated>2022-04-03T03:58:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lambdascratch]]></summary>
-        <author>
-            <name>martyalain</name>
-            <uri>https://news.ycombinator.com/user?id=martyalain</uri>
         </author>
     </entry>
 </feed>
