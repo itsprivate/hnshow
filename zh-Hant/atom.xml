@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-26T09:35:09.540Z</updated>
+    <updated>2022-04-26T09:46:19.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用真實的數據為你的開發數據庫播種的工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31165538</id>
+        <link href="https://news.ycombinator.com/item?id=31165538"/>
+        <updated>2022-04-26T09:38:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A tool to seed your dev database with real data]]></summary>
+        <author>
+            <name>ev0xmusic</name>
+            <uri>https://news.ycombinator.com/user?id=ev0xmusic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用真實的數據為你的開發數據庫播種的工具]]></title>
         <id>https://news.ycombinator.com/item?id=31165493</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>nip</name>
             <uri>https://news.ycombinator.com/user?id=nip</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fusio 3.0發佈--開源、自我託管的API管理平臺]]></title>
-        <id>https://news.ycombinator.com/item?id=30895468</id>
-        <link href="https://news.ycombinator.com/item?id=30895468"/>
-        <updated>2022-04-03T08:45:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fusio 3.0 released – open-source, self hosted API management platform]]></summary>
-        <author>
-            <name>k42b3</name>
-            <uri>https://news.ycombinator.com/user?id=k42b3</uri>
         </author>
     </entry>
 </feed>
