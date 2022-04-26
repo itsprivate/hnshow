@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-26T16:18:21.586Z</updated>
+    <updated>2022-04-26T16:53:58.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[BreadBuddy，一个开源的SwiftUI/MVVM菜谱调度器，适用于iOS系统]]></title>
+        <id>https://news.ycombinator.com/item?id=31169633</id>
+        <link href="https://news.ycombinator.com/item?id=31169633"/>
+        <updated>2022-04-26T16:38:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: BreadBuddy, an open-source SwiftUI/MVVM recipe scheduler for iOS]]></summary>
+        <author>
+            <name>emehex</name>
+            <uri>https://news.ycombinator.com/user?id=emehex</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Baseten - 构建以ML为动力的应用程序]]></title>
         <id>https://news.ycombinator.com/item?id=31169193</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ICodeSometimes</name>
             <uri>https://news.ycombinator.com/user?id=ICodeSometimes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MakeTime - 一个简单的工具来帮助你安排阅读时间]]></title>
-        <id>https://news.ycombinator.com/item?id=30899759</id>
-        <link href="https://news.ycombinator.com/item?id=30899759"/>
-        <updated>2022-04-03T19:16:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: MakeTime – A simple tool to help you schedule reading time]]></summary>
-        <author>
-            <name>rpatni</name>
-            <uri>https://news.ycombinator.com/user?id=rpatni</uri>
         </author>
     </entry>
 </feed>
