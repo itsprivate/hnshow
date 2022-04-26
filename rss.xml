@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 26 Apr 2022 07:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 08:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Ctrl+F的语义搜索]]></title>
+            <link>https://news.ycombinator.com/item?id=31165089</link>
+            <guid>https://news.ycombinator.com/item?id=31165089</guid>
+            <pubDate>Tue, 26 Apr 2022 08:00:03 GMT</pubDate>
+            <description><![CDATA[Show HN: Semantic Search for Ctrl+F]]></description>
+        </item>
         <item>
             <title><![CDATA[Thin Back end，一个用于制作实时React应用程序的通用后端]]></title>
             <link>https://news.ycombinator.com/item?id=31164799</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30895372</guid>
             <pubDate>Sun, 03 Apr 2022 08:23:46 GMT</pubDate>
             <description><![CDATA[Show HN: Yaade – An open-source, self-hosted, collaborative API dev environment]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Deps.live - 实时显示依赖性的 "技术树"。]]></title>
-            <link>https://news.ycombinator.com/item?id=30895255</link>
-            <guid>https://news.ycombinator.com/item?id=30895255</guid>
-            <pubDate>Sun, 03 Apr 2022 07:56:03 GMT</pubDate>
-            <description><![CDATA[Show HN: Deps.live – On the fly “tech tree” visualization of dependencies]]></description>
         </item>
     </channel>
 </rss>

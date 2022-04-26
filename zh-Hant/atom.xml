@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-26T07:13:37.348Z</updated>
+    <updated>2022-04-26T08:16:30.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Ctrl+F的語義搜索]]></title>
+        <id>https://news.ycombinator.com/item?id=31165089</id>
+        <link href="https://news.ycombinator.com/item?id=31165089"/>
+        <updated>2022-04-26T08:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Semantic Search for Ctrl+F]]></summary>
+        <author>
+            <name>iamscout</name>
+            <uri>https://news.ycombinator.com/user?id=iamscout</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thin Back end，一個用於製作實時React應用程序的通用後端]]></title>
         <id>https://news.ycombinator.com/item?id=31164799</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jonrosner</name>
             <uri>https://news.ycombinator.com/user?id=jonrosner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deps.live - 實時顯示依賴性的 "技術樹"。]]></title>
-        <id>https://news.ycombinator.com/item?id=30895255</id>
-        <link href="https://news.ycombinator.com/item?id=30895255"/>
-        <updated>2022-04-03T07:56:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Deps.live – On the fly “tech tree” visualization of dependencies]]></summary>
-        <author>
-            <name>jensmtg</name>
-            <uri>https://news.ycombinator.com/user?id=jensmtg</uri>
         </author>
     </entry>
 </feed>
