@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-26T19:11:55.246Z</updated>
+    <updated>2022-04-26T21:42:59.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[創造吸引你注意力的美麗引言（OSS）]]></title>
+        <id>https://news.ycombinator.com/item?id=31173115</id>
+        <link href="https://news.ycombinator.com/item?id=31173115"/>
+        <updated>2022-04-26T21:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Create beautiful quotes that capture your attention (OSS)]]></summary>
+        <author>
+            <name>transitivebs</name>
+            <uri>https://news.ycombinator.com/user?id=transitivebs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Benthos v4.0.0]]></title>
         <id>https://news.ycombinator.com/item?id=31171653</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sambigeara</name>
             <uri>https://news.ycombinator.com/user?id=sambigeara</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將Jupyter筆記本變成交互式網絡應用程序並與無代碼的人分享]]></title>
-        <id>https://news.ycombinator.com/item?id=30904146</id>
-        <link href="https://news.ycombinator.com/item?id=30904146"/>
-        <updated>2022-04-04T07:31:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Turn Jupyter Notebook to interactive web app and share with no-coders]]></summary>
-        <author>
-            <name>pplonski86</name>
-            <uri>https://news.ycombinator.com/user?id=pplonski86</uri>
         </author>
     </entry>
 </feed>

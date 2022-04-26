@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 26 Apr 2022 19:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 21:42:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[创造吸引你注意力的美丽引言（OSS）]]></title>
+            <link>https://news.ycombinator.com/item?id=31173115</link>
+            <guid>https://news.ycombinator.com/item?id=31173115</guid>
+            <pubDate>Tue, 26 Apr 2022 21:00:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Create beautiful quotes that capture your attention (OSS)]]></description>
+        </item>
         <item>
             <title><![CDATA[Benthos v4.0.0]]></title>
             <link>https://news.ycombinator.com/item?id=31171653</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30904405</guid>
             <pubDate>Mon, 04 Apr 2022 08:25:14 GMT</pubDate>
             <description><![CDATA[Show HN: CRDTs+WASM for local-first, collaborative note-taking in the browser]]></description>
-        </item>
-        <item>
-            <title><![CDATA[将Jupyter笔记本变成交互式网络应用程序并与无代码的人分享]]></title>
-            <link>https://news.ycombinator.com/item?id=30904146</link>
-            <guid>https://news.ycombinator.com/item?id=30904146</guid>
-            <pubDate>Mon, 04 Apr 2022 07:31:45 GMT</pubDate>
-            <description><![CDATA[Show HN: Turn Jupyter Notebook to interactive web app and share with no-coders]]></description>
         </item>
     </channel>
 </rss>
