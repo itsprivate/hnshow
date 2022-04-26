@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 26 Apr 2022 21:42:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 23:34:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Gradio - 一個Python Web UI框架 - 在PyPI上的安裝量突破了10萬。]]></title>
+            <link>https://news.ycombinator.com/item?id=31174439</link>
+            <guid>https://news.ycombinator.com/item?id=31174439</guid>
+            <pubDate>Tue, 26 Apr 2022 23:27:49 GMT</pubDate>
+            <description><![CDATA[Show HN: Gradio – A Python web UI framework – crossed 100k installs on PyPI]]></description>
+        </item>
         <item>
             <title><![CDATA[創造吸引你注意力的美麗引言（OSS）]]></title>
             <link>https://news.ycombinator.com/item?id=31173115</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30904415</guid>
             <pubDate>Mon, 04 Apr 2022 08:27:45 GMT</pubDate>
             <description><![CDATA[Show HN: Faith in Humanity – how do you feel today?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CRDTs+WASM用於在瀏覽器中進行本地優先的協作式記事]]></title>
-            <link>https://news.ycombinator.com/item?id=30904405</link>
-            <guid>https://news.ycombinator.com/item?id=30904405</guid>
-            <pubDate>Mon, 04 Apr 2022 08:25:14 GMT</pubDate>
-            <description><![CDATA[Show HN: CRDTs+WASM for local-first, collaborative note-taking in the browser]]></description>
         </item>
     </channel>
 </rss>
