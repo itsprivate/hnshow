@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 26 Apr 2022 11:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 13:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[FlyCode - 基于Git的网络应用程序复制和翻译编辑器]]></title>
+            <link>https://news.ycombinator.com/item?id=31166924</link>
+            <guid>https://news.ycombinator.com/item?id=31166924</guid>
+            <pubDate>Tue, 26 Apr 2022 13:00:01 GMT</pubDate>
+            <description><![CDATA[Show HN: FlyCode – Git-Based Copy and Translations Editor for Web Apps]]></description>
+        </item>
         <item>
             <title><![CDATA[AWS停机了吗？10个地区和7个服务的独立健康检查]]></title>
             <link>https://news.ycombinator.com/item?id=31166095</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30896072</guid>
             <pubDate>Sun, 03 Apr 2022 11:23:50 GMT</pubDate>
             <description><![CDATA[Show HN: A meditative website where you look out of a window and draw auroras]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基于Markdown的Todo应用]]></title>
-            <link>https://news.ycombinator.com/item?id=30896024</link>
-            <guid>https://news.ycombinator.com/item?id=30896024</guid>
-            <pubDate>Sun, 03 Apr 2022 11:11:54 GMT</pubDate>
-            <description><![CDATA[Show HN: Markdown Based Todo App]]></description>
         </item>
     </channel>
 </rss>

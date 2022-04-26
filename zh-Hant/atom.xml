@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-26T11:32:29.602Z</updated>
+    <updated>2022-04-26T13:09:30.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FlyCode - 基於Git的網絡應用程序複製和翻譯編輯器]]></title>
+        <id>https://news.ycombinator.com/item?id=31166924</id>
+        <link href="https://news.ycombinator.com/item?id=31166924"/>
+        <updated>2022-04-26T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: FlyCode – Git-Based Copy and Translations Editor for Web Apps]]></summary>
+        <author>
+            <name>JakeVacovec</name>
+            <uri>https://news.ycombinator.com/user?id=JakeVacovec</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS停機了嗎？10個地區和7個服務的獨立健康檢查]]></title>
         <id>https://news.ycombinator.com/item?id=31166095</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>shriracha</name>
             <uri>https://news.ycombinator.com/user?id=shriracha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於Markdown的Todo應用]]></title>
-        <id>https://news.ycombinator.com/item?id=30896024</id>
-        <link href="https://news.ycombinator.com/item?id=30896024"/>
-        <updated>2022-04-03T11:11:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Markdown Based Todo App]]></summary>
-        <author>
-            <name>motyar</name>
-            <uri>https://news.ycombinator.com/user?id=motyar</uri>
         </author>
     </entry>
 </feed>
