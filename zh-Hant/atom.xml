@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-25T21:52:19.775Z</updated>
+    <updated>2022-04-26T02:58:43.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們推出了一個新的網絡瀏覽器]]></title>
+        <id>https://news.ycombinator.com/item?id=31163077</id>
+        <link href="https://news.ycombinator.com/item?id=31163077"/>
+        <updated>2022-04-26T01:45:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We launched a new web browser]]></summary>
+        <author>
+            <name>ca98am79</name>
+            <uri>https://news.ycombinator.com/user?id=ca98am79</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蘇哈坦--從紐約市到郊區]]></title>
         <id>https://news.ycombinator.com/item?id=31161118</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>martyalain</name>
             <uri>https://news.ycombinator.com/user?id=martyalain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT地板價格提醒、觀察清單和投資組合 - Coinwink NFT]]></title>
-        <id>https://news.ycombinator.com/item?id=30894166</id>
-        <link href="https://news.ycombinator.com/item?id=30894166"/>
-        <updated>2022-04-03T03:31:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: NFT floor price alerts, watchlist and portfolio – Coinwink NFT]]></summary>
-        <author>
-            <name>giekaton</name>
-            <uri>https://news.ycombinator.com/user?id=giekaton</uri>
         </author>
     </entry>
 </feed>
