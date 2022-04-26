@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-26T16:53:58.243Z</updated>
+    <updated>2022-04-26T17:22:20.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新标准--100%回收的t恤衫]]></title>
+        <id>https://news.ycombinator.com/item?id=31169950</id>
+        <link href="https://news.ycombinator.com/item?id=31169950"/>
+        <updated>2022-04-26T17:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: New Standard – 100% recycled t-shirt]]></summary>
+        <author>
+            <name>eetuvaljakka</name>
+            <uri>https://news.ycombinator.com/user?id=eetuvaljakka</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graphsignal - 在任何地方对机器学习进行基准测试和剖析]]></title>
+        <id>https://news.ycombinator.com/item?id=31169862</id>
+        <link href="https://news.ycombinator.com/item?id=31169862"/>
+        <updated>2022-04-26T16:54:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Graphsignal – benchmark and profile machine learning anywhere]]></summary>
+        <author>
+            <name>complexity2</name>
+            <uri>https://news.ycombinator.com/user?id=complexity2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BreadBuddy，一个开源的SwiftUI/MVVM菜谱调度器，适用于iOS系统]]></title>
         <id>https://news.ycombinator.com/item?id=31169633</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>txtai</name>
             <uri>https://news.ycombinator.com/user?id=txtai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[悉尼火车游戏Traindle--让四个数字依次等于10]]></title>
-        <id>https://news.ycombinator.com/item?id=30900534</id>
-        <link href="https://news.ycombinator.com/item?id=30900534"/>
-        <updated>2022-04-03T20:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Traindle, the Sydney train game – Make four numbers equal 10 in order]]></summary>
-        <author>
-            <name>fiesycal</name>
-            <uri>https://news.ycombinator.com/user?id=fiesycal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Writemore.io - 建立每日写作习惯]]></title>
-        <id>https://news.ycombinator.com/item?id=30900364</id>
-        <link href="https://news.ycombinator.com/item?id=30900364"/>
-        <updated>2022-04-03T20:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Writemore.io – Build a daily writing habit]]></summary>
-        <author>
-            <name>ICodeSometimes</name>
-            <uri>https://news.ycombinator.com/user?id=ICodeSometimes</uri>
         </author>
     </entry>
 </feed>
