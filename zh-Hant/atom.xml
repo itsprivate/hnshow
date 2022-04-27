@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-26T23:34:40.418Z</updated>
+    <updated>2022-04-27T00:51:52.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最古老的搜索 - 搜索互聯網上最古老的結果]]></title>
+        <id>https://news.ycombinator.com/item?id=31174778</id>
+        <link href="https://news.ycombinator.com/item?id=31174778"/>
+        <updated>2022-04-27T00:18:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Oldest Search – Search for the oldest result on internet]]></summary>
+        <author>
+            <name>jarrenae</name>
+            <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fccf - 在一個目錄中快速搜索C/C++源代碼]]></title>
+        <id>https://news.ycombinator.com/item?id=31174551</id>
+        <link href="https://news.ycombinator.com/item?id=31174551"/>
+        <updated>2022-04-26T23:42:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fccf – Quickly search through C/C++ source code in a directory]]></summary>
+        <author>
+            <name>p-ranav</name>
+            <uri>https://news.ycombinator.com/user?id=p-ranav</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gradio - 一個Python Web UI框架 - 在PyPI上的安裝量突破了10萬。]]></title>
         <id>https://news.ycombinator.com/item?id=31174439</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>ushakov</name>
             <uri>https://news.ycombinator.com/user?id=ushakov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個能給你的同事發送巧克力的Slack機器人]]></title>
-        <id>https://news.ycombinator.com/item?id=30904808</id>
-        <link href="https://news.ycombinator.com/item?id=30904808"/>
-        <updated>2022-04-04T09:48:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Slack bot that sends chocolates to your coworkers]]></summary>
-        <author>
-            <name>Lior539</name>
-            <uri>https://news.ycombinator.com/user?id=Lior539</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對人類的信心--你今天感覺如何？]]></title>
-        <id>https://news.ycombinator.com/item?id=30904415</id>
-        <link href="https://news.ycombinator.com/item?id=30904415"/>
-        <updated>2022-04-04T08:27:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Faith in Humanity – how do you feel today?]]></summary>
-        <author>
-            <name>jaggs</name>
-            <uri>https://news.ycombinator.com/user?id=jaggs</uri>
         </author>
     </entry>
 </feed>
