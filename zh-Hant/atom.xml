@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-27T16:16:16.682Z</updated>
+    <updated>2022-04-27T16:58:14.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,50 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的GPT-3聊天機器人，它允許聊天者定製其個性]]></title>
+        <id>https://news.ycombinator.com/item?id=31182187</id>
+        <link href="https://news.ycombinator.com/item?id=31182187"/>
+        <updated>2022-04-27T16:33:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My GPT-3 chatbot, which allows chatters to customize its personality]]></summary>
+        <author>
+            <name>bestcoder69</name>
+            <uri>https://news.ycombinator.com/user?id=bestcoder69</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blarb--有特色的微博]]></title>
+        <id>https://news.ycombinator.com/item?id=31182124</id>
+        <link href="https://news.ycombinator.com/item?id=31182124"/>
+        <updated>2022-04-27T16:29:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Blarb – Microblogging with a twist]]></summary>
+        <author>
+            <name>vasanthv</name>
+            <uri>https://news.ycombinator.com/user?id=vasanthv</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搜索選擇--利用快捷方式快速導航和查看搜索結果]]></title>
+        <id>https://news.ycombinator.com/item?id=31182102</id>
+        <link href="https://news.ycombinator.com/item?id=31182102"/>
+        <updated>2022-04-27T16:28:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Search Select – Navigate and view search results quickly with shortcuts]]></summary>
+        <author>
+            <name>alabhyajindal</name>
+            <uri>https://news.ycombinator.com/user?id=alabhyajindal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gq - 像jq或zq一樣，但你使用Go]]></title>
+        <id>https://news.ycombinator.com/item?id=31181898</id>
+        <link href="https://news.ycombinator.com/item?id=31181898"/>
+        <updated>2022-04-27T16:15:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: gq – like jq or zq, but you use Go]]></summary>
+        <author>
+            <name>errnil</name>
+            <uri>https://news.ycombinator.com/user?id=errnil</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[網絡套接字端點的簡單代理]]></title>
         <id>https://news.ycombinator.com/item?id=31181795</id>
@@ -6569,50 +6613,6 @@
         <author>
             <name>finfun234</name>
             <uri>https://news.ycombinator.com/user?id=finfun234</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們建立了一個專門的數據科學招聘網站]]></title>
-        <id>https://news.ycombinator.com/item?id=30913993</id>
-        <link href="https://news.ycombinator.com/item?id=30913993"/>
-        <updated>2022-04-05T00:57:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We built a Data Science specific job board]]></summary>
-        <author>
-            <name>data4lyfe</name>
-            <uri>https://news.ycombinator.com/user?id=data4lyfe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在React中克隆一個開源的DEV.to。]]></title>
-        <id>https://news.ycombinator.com/item?id=30913797</id>
-        <link href="https://news.ycombinator.com/item?id=30913797"/>
-        <updated>2022-04-05T00:29:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An open-source DEV.to clone in React]]></summary>
-        <author>
-            <name>epic_within</name>
-            <uri>https://news.ycombinator.com/user?id=epic_within</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS版的Markdown鍵盤]]></title>
-        <id>https://news.ycombinator.com/item?id=30913647</id>
-        <link href="https://news.ycombinator.com/item?id=30913647"/>
-        <updated>2022-04-05T00:11:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Markdown Keyboard for iOS]]></summary>
-        <author>
-            <name>andrewon</name>
-            <uri>https://news.ycombinator.com/user?id=andrewon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於組件的靜態網站啟動器和模板 100/100 LH得分]]></title>
-        <id>https://news.ycombinator.com/item?id=30913184</id>
-        <link href="https://news.ycombinator.com/item?id=30913184"/>
-        <updated>2022-04-04T23:12:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Component-based static site web starter and templates 100/100 LH score]]></summary>
-        <author>
-            <name>jammingene</name>
-            <uri>https://news.ycombinator.com/user?id=jammingene</uri>
         </author>
     </entry>
 </feed>
