@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-27T19:29:46.663Z</updated>
+    <updated>2022-04-27T19:37:43.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新的寻路算法]]></title>
+        <id>https://news.ycombinator.com/item?id=31184706</id>
+        <link href="https://news.ycombinator.com/item?id=31184706"/>
+        <updated>2022-04-27T19:34:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: New Pathfinding Algorithm]]></summary>
+        <author>
+            <name>YesBox</name>
+            <uri>https://news.ycombinator.com/user?id=YesBox</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我写了自己的编程语言来解决leetcode问题]]></title>
         <id>https://news.ycombinator.com/item?id=31184426</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>openquery</name>
             <uri>https://news.ycombinator.com/user?id=openquery</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个Messenger UI克隆，用于查看Facebook导出的JSON数据]]></title>
-        <id>https://news.ycombinator.com/item?id=30917114</id>
-        <link href="https://news.ycombinator.com/item?id=30917114"/>
-        <updated>2022-04-05T10:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a Messenger UI clone for viewing Facebook-exported JSON data]]></summary>
-        <author>
-            <name>yukaii</name>
-            <uri>https://news.ycombinator.com/user?id=yukaii</uri>
         </author>
     </entry>
 </feed>
