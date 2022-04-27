@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 27 Apr 2022 19:00:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 19:29:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我写了自己的编程语言来解决leetcode问题]]></title>
+            <link>https://news.ycombinator.com/item?id=31184426</link>
+            <guid>https://news.ycombinator.com/item?id=31184426</guid>
+            <pubDate>Wed, 27 Apr 2022 19:10:59 GMT</pubDate>
+            <description><![CDATA[Show HN: I wrote my own programming language to solve leetcode]]></description>
+        </item>
         <item>
             <title><![CDATA[Alceris - 关注隐私的分析解决方案]]></title>
             <link>https://news.ycombinator.com/item?id=31184223</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30917114</guid>
             <pubDate>Tue, 05 Apr 2022 10:00:09 GMT</pubDate>
             <description><![CDATA[Show HN: I made a Messenger UI clone for viewing Facebook-exported JSON data]]></description>
-        </item>
-        <item>
-            <title><![CDATA[易于参考的HTTP状态代码数据库]]></title>
-            <link>https://news.ycombinator.com/item?id=30916043</link>
-            <guid>https://news.ycombinator.com/item?id=30916043</guid>
-            <pubDate>Tue, 05 Apr 2022 06:52:58 GMT</pubDate>
-            <description><![CDATA[Show HN: Easy to reference database of HTTP Status Codes]]></description>
         </item>
     </channel>
 </rss>
