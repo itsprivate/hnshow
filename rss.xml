@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 27 Apr 2022 03:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 05:04:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在线JSON浏览器、编辑器]]></title>
+            <link>https://news.ycombinator.com/item?id=31176290</link>
+            <guid>https://news.ycombinator.com/item?id=31176290</guid>
+            <pubDate>Wed, 27 Apr 2022 04:27:02 GMT</pubDate>
+            <description><![CDATA[Show HN: Online JSON Browser, Editor]]></description>
+        </item>
         <item>
             <title><![CDATA[Mastodon大量查找和关注]]></title>
             <link>https://news.ycombinator.com/item?id=31175639</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30907709</guid>
             <pubDate>Mon, 04 Apr 2022 15:24:11 GMT</pubDate>
             <description><![CDATA[Show HN: Snipd syncs podcast highlights to Notion with summary and transcripts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通过记录深度链接和端点选择实现快速DNS查询]]></title>
-            <link>https://news.ycombinator.com/item?id=30907478</link>
-            <guid>https://news.ycombinator.com/item?id=30907478</guid>
-            <pubDate>Mon, 04 Apr 2022 15:03:43 GMT</pubDate>
-            <description><![CDATA[Show HN: Fast DNS lookups with record deep linking and endpoint selection]]></description>
         </item>
     </channel>
 </rss>
