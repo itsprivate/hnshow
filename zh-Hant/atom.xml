@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-27T20:16:12.259Z</updated>
+    <updated>2022-04-27T20:38:09.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[gldap v0.1.1]]></title>
+        <id>https://news.ycombinator.com/item?id=31185222</id>
+        <link href="https://news.ycombinator.com/item?id=31185222"/>
+        <updated>2022-04-27T20:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: gldap v0.1.1]]></summary>
+        <author>
+            <name>jimlambrt</name>
+            <uri>https://news.ycombinator.com/user?id=jimlambrt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用假的iMessage彈出窗口創造尷尬的局面]]></title>
+        <id>https://news.ycombinator.com/item?id=31185121</id>
+        <link href="https://news.ycombinator.com/item?id=31185121"/>
+        <updated>2022-04-27T20:11:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Create awkward situations with a fake iMessage Popup]]></summary>
+        <author>
+            <name>adnanaga</name>
+            <uri>https://news.ycombinator.com/user?id=adnanaga</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VSCode.Email - 關於VS Code和其他IDE的通訊]]></title>
         <id>https://news.ycombinator.com/item?id=31184930</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>slmx</name>
             <uri>https://news.ycombinator.com/user?id=slmx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個用於快速、上下文記事的Chrome擴展程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30917504</id>
-        <link href="https://news.ycombinator.com/item?id=30917504"/>
-        <updated>2022-04-05T11:08:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Chrome extension for fast, contextual notetaking]]></summary>
-        <author>
-            <name>daveed</name>
-            <uri>https://news.ycombinator.com/user?id=daveed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不分心地打坐的簡單方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30917481</id>
-        <link href="https://news.ycombinator.com/item?id=30917481"/>
-        <updated>2022-04-05T11:04:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A simple method to meditate without getting distracted]]></summary>
-        <author>
-            <name>danieltait</name>
-            <uri>https://news.ycombinator.com/user?id=danieltait</uri>
         </author>
     </entry>
 </feed>
