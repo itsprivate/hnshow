@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-27T15:41:11.345Z</updated>
+    <updated>2022-04-27T15:58:38.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[聚合Next.js API的Gatsby插件，以实现向Next的顺利迁移]]></title>
+        <id>https://news.ycombinator.com/item?id=31181423</id>
+        <link href="https://news.ycombinator.com/item?id=31181423"/>
+        <updated>2022-04-27T15:43:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Gatsby plugin that polyfills Next.js API for a smooth migration to Next]]></summary>
+        <author>
+            <name>vdemedes</name>
+            <uri>https://news.ycombinator.com/user?id=vdemedes</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Startpage隐私保护扩展]]></title>
+        <id>https://news.ycombinator.com/item?id=31181319</id>
+        <link href="https://news.ycombinator.com/item?id=31181319"/>
+        <updated>2022-04-27T15:37:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Startpage Privacy Protection Extension]]></summary>
+        <author>
+            <name>abqdeveloper</name>
+            <uri>https://news.ycombinator.com/user?id=abqdeveloper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Loodio - 一种浴室隐私装置]]></title>
         <id>https://news.ycombinator.com/item?id=31181237</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>MalikHAA2</name>
             <uri>https://news.ycombinator.com/user?id=MalikHAA2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eredom - 为您的下一个项目寻找一个简短的.com域名]]></title>
-        <id>https://news.ycombinator.com/item?id=30913017</id>
-        <link href="https://news.ycombinator.com/item?id=30913017"/>
-        <updated>2022-04-04T22:51:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Eredom – Find a short .com domain name for your next project]]></summary>
-        <author>
-            <name>davidwhitecity</name>
-            <uri>https://news.ycombinator.com/user?id=davidwhitecity</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faros CE - 开源的工程操作平台]]></title>
-        <id>https://news.ycombinator.com/item?id=30912914</id>
-        <link href="https://news.ycombinator.com/item?id=30912914"/>
-        <updated>2022-04-04T22:40:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Faros CE – open-source engineering operations platform]]></summary>
-        <author>
-            <name>vgordon</name>
-            <uri>https://news.ycombinator.com/user?id=vgordon</uri>
         </author>
     </entry>
 </feed>
