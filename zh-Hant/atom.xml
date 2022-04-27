@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-27T15:58:38.179Z</updated>
+    <updated>2022-04-27T16:16:16.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[網絡套接字端點的簡單代理]]></title>
+        <id>https://news.ycombinator.com/item?id=31181795</id>
+        <link href="https://news.ycombinator.com/item?id=31181795"/>
+        <updated>2022-04-27T16:06:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Simple proxy for a web socket endpoint]]></summary>
+        <author>
+            <name>graderjs</name>
+            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[聚合Next.js API的Gatsby插件，以實現向Next的順利遷移]]></title>
         <id>https://news.ycombinator.com/item?id=31181423</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>jammingene</name>
             <uri>https://news.ycombinator.com/user?id=jammingene</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenPIL AI - 開源的NLP Python軟件包，用於編譯藥物數據庫]]></title>
-        <id>https://news.ycombinator.com/item?id=30913027</id>
-        <link href="https://news.ycombinator.com/item?id=30913027"/>
-        <updated>2022-04-04T22:53:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: OpenPIL AI – open-source NLP Python package to compile drug databases]]></summary>
-        <author>
-            <name>MalikHAA2</name>
-            <uri>https://news.ycombinator.com/user?id=MalikHAA2</uri>
         </author>
     </entry>
 </feed>
