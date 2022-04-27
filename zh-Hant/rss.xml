@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 27 Apr 2022 20:38:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 21:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們用Tailwind CSS建立了50多個即將推出的網頁，因為我們找不到]]></title>
+            <link>https://news.ycombinator.com/item?id=31184968</link>
+            <guid>https://news.ycombinator.com/item?id=31184968</guid>
+            <pubDate>Wed, 27 Apr 2022 19:58:28 GMT</pubDate>
+            <description><![CDATA[Show HN: We built 50+ coming soon pages with Tailwind CSS cause we couldn't find]]></description>
+        </item>
         <item>
             <title><![CDATA[gldap v0.1.1]]></title>
             <link>https://news.ycombinator.com/item?id=31185222</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30917714</guid>
             <pubDate>Tue, 05 Apr 2022 11:37:59 GMT</pubDate>
             <description><![CDATA[Show HN: The future of internet? Wormholes and strongly typed URLs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[LeFun.fun - 一個用React構建的在線棋牌遊戲平臺。]]></title>
-            <link>https://news.ycombinator.com/item?id=30917621</link>
-            <guid>https://news.ycombinator.com/item?id=30917621</guid>
-            <pubDate>Tue, 05 Apr 2022 11:25:56 GMT</pubDate>
-            <description><![CDATA[Show HN: LeFun.fun – an online board game platform with games built in React]]></description>
         </item>
     </channel>
 </rss>

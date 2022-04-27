@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-27T20:38:09.655Z</updated>
+    <updated>2022-04-27T21:13:58.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们用Tailwind CSS建立了50多个即将推出的网页，因为我们找不到]]></title>
+        <id>https://news.ycombinator.com/item?id=31184968</id>
+        <link href="https://news.ycombinator.com/item?id=31184968"/>
+        <updated>2022-04-27T19:58:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We built 50+ coming soon pages with Tailwind CSS cause we couldn't find]]></summary>
+        <author>
+            <name>hey_fk</name>
+            <uri>https://news.ycombinator.com/user?id=hey_fk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[gldap v0.1.1]]></title>
         <id>https://news.ycombinator.com/item?id=31185222</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>anon012012</name>
             <uri>https://news.ycombinator.com/user?id=anon012012</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LeFun.fun - 一个用React构建的在线棋牌游戏平台。]]></title>
-        <id>https://news.ycombinator.com/item?id=30917621</id>
-        <link href="https://news.ycombinator.com/item?id=30917621"/>
-        <updated>2022-04-05T11:25:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: LeFun.fun – an online board game platform with games built in React]]></summary>
-        <author>
-            <name>slmx</name>
-            <uri>https://news.ycombinator.com/user?id=slmx</uri>
         </author>
     </entry>
 </feed>
