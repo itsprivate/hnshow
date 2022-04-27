@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-27T14:01:19.037Z</updated>
+    <updated>2022-04-27T14:31:28.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[BlockPoll - 基於區塊鏈的去中心化投票（開放源碼）。]]></title>
+        <id>https://news.ycombinator.com/item?id=31180246</id>
+        <link href="https://news.ycombinator.com/item?id=31180246"/>
+        <updated>2022-04-27T14:22:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: BlockPoll – Decentralized Blockchain-Based Polling (OSS)]]></summary>
+        <author>
+            <name>rijulgulati</name>
+            <uri>https://news.ycombinator.com/user?id=rijulgulati</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TPI - 用於ML和自我恢復現貨的Terraform供應商]]></title>
         <id>https://news.ycombinator.com/item?id=31179765</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>linkdd</name>
             <uri>https://news.ycombinator.com/user?id=linkdd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用波函數摺疊的程序生成的瓦片地圖]]></title>
-        <id>https://news.ycombinator.com/item?id=30911454</id>
-        <link href="https://news.ycombinator.com/item?id=30911454"/>
-        <updated>2022-04-04T20:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Procedurally-generated tile maps using Wave Function Collapse]]></summary>
-        <author>
-            <name>arriu</name>
-            <uri>https://news.ycombinator.com/user?id=arriu</uri>
         </author>
     </entry>
 </feed>

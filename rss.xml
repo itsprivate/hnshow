@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 27 Apr 2022 14:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 14:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[BlockPoll - 基于区块链的去中心化投票（开放源码）。]]></title>
+            <link>https://news.ycombinator.com/item?id=31180246</link>
+            <guid>https://news.ycombinator.com/item?id=31180246</guid>
+            <pubDate>Wed, 27 Apr 2022 14:22:35 GMT</pubDate>
+            <description><![CDATA[Show HN: BlockPoll – Decentralized Blockchain-Based Polling (OSS)]]></description>
+        </item>
         <item>
             <title><![CDATA[TPI - 用于ML和自我恢复现货的Terraform供应商]]></title>
             <link>https://news.ycombinator.com/item?id=31179765</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30912049</guid>
             <pubDate>Mon, 04 Apr 2022 21:18:33 GMT</pubDate>
             <description><![CDATA[Show HN: Tricorder – Automation the KISS way, no YAML involved, written in Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用波函数折叠的程序生成的瓦片地图]]></title>
-            <link>https://news.ycombinator.com/item?id=30911454</link>
-            <guid>https://news.ycombinator.com/item?id=30911454</guid>
-            <pubDate>Mon, 04 Apr 2022 20:14:13 GMT</pubDate>
-            <description><![CDATA[Show HN: Procedurally-generated tile maps using Wave Function Collapse]]></description>
         </item>
     </channel>
 </rss>
