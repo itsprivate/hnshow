@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-27T05:56:45.907Z</updated>
+    <updated>2022-04-27T08:15:52.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Pindex: 一個幫助你識別混淆的IC的工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31177494</id>
+        <link href="https://news.ycombinator.com/item?id=31177494"/>
+        <updated>2022-04-27T08:02:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pindex: A tool to help you identify obfuscated ICs]]></summary>
+        <author>
+            <name>pera</name>
+            <uri>https://news.ycombinator.com/user?id=pera</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們目前正處於CTI搜索引擎的最後啟動階段。]]></title>
+        <id>https://news.ycombinator.com/item?id=31177485</id>
+        <link href="https://news.ycombinator.com/item?id=31177485"/>
+        <updated>2022-04-27T08:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We're currently at the stage of finalizing launch of CTI Search Engine]]></summary>
+        <author>
+            <name>kyoung3412</name>
+            <uri>https://news.ycombinator.com/user?id=kyoung3412</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[程序員的音譯字母表]]></title>
         <id>https://news.ycombinator.com/item?id=31176759</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>abhinavsharma</name>
             <uri>https://news.ycombinator.com/user?id=abhinavsharma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript中的遞歸數獨解算器]]></title>
-        <id>https://news.ycombinator.com/item?id=30908439</id>
-        <link href="https://news.ycombinator.com/item?id=30908439"/>
-        <updated>2022-04-04T16:20:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A recursive Sudoku solver in JavaScript]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blocksend - 即時向市場上的供應商付款]]></title>
-        <id>https://news.ycombinator.com/item?id=30908370</id>
-        <link href="https://news.ycombinator.com/item?id=30908370"/>
-        <updated>2022-04-04T16:15:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Blocksend – instantly pay out vendors on marketplaces]]></summary>
-        <author>
-            <name>luke_heine</name>
-            <uri>https://news.ycombinator.com/user?id=luke_heine</uri>
         </author>
     </entry>
 </feed>
