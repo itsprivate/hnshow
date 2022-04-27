@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 27 Apr 2022 00:51:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 03:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,20 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Mastodon大量查找和關注]]></title>
+            <link>https://news.ycombinator.com/item?id=31175639</link>
+            <guid>https://news.ycombinator.com/item?id=31175639</guid>
+            <pubDate>Wed, 27 Apr 2022 02:39:05 GMT</pubDate>
+            <description><![CDATA[Show HN: Mastodon Bulk Find and Follow]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個類似於Excel的電子表格庫，支持協作。]]></title>
+            <link>https://news.ycombinator.com/item?id=31175545</link>
+            <guid>https://news.ycombinator.com/item?id=31175545</guid>
+            <pubDate>Wed, 27 Apr 2022 02:21:16 GMT</pubDate>
+            <description><![CDATA[Show HN: A drop-in Excel-like spreadsheet library with collabration support]]></description>
+        </item>
         <item>
             <title><![CDATA[最古老的搜索 - 搜索互聯網上最古老的結果]]></title>
             <link>https://news.ycombinator.com/item?id=31174778</link>
@@ -4199,20 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30907478</guid>
             <pubDate>Mon, 04 Apr 2022 15:03:43 GMT</pubDate>
             <description><![CDATA[Show HN: Fast DNS lookups with record deep linking and endpoint selection]]></description>
-        </item>
-        <item>
-            <title><![CDATA[制裁 - 想象一個搜索引擎，你可以按國家進行制裁]]></title>
-            <link>https://news.ycombinator.com/item?id=30906954</link>
-            <guid>https://news.ycombinator.com/item?id=30906954</guid>
-            <pubDate>Mon, 04 Apr 2022 14:22:43 GMT</pubDate>
-            <description><![CDATA[Show HN: Sanction – Imagine a search engine where you can sanction by country]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mish - Zola的設計師主題]]></title>
-            <link>https://news.ycombinator.com/item?id=30906659</link>
-            <guid>https://news.ycombinator.com/item?id=30906659</guid>
-            <pubDate>Mon, 04 Apr 2022 13:54:36 GMT</pubDate>
-            <description><![CDATA[Show HN: Mish – Designer Theme for Zola]]></description>
         </item>
     </channel>
 </rss>
