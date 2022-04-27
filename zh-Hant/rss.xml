@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 27 Apr 2022 08:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 08:38:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[管道觀察 - 在你的終端監控管道輸出]]></title>
+            <link>https://news.ycombinator.com/item?id=31177604</link>
+            <guid>https://news.ycombinator.com/item?id=31177604</guid>
+            <pubDate>Wed, 27 Apr 2022 08:20:32 GMT</pubDate>
+            <description><![CDATA[Show HN: Pipe Watch – Monitor pipe output in your terminal]]></description>
+        </item>
         <item>
             <title><![CDATA[Pindex: 一個幫助你識別混淆的IC的工具]]></title>
             <link>https://news.ycombinator.com/item?id=31177494</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30910525</guid>
             <pubDate>Mon, 04 Apr 2022 18:45:19 GMT</pubDate>
             <description><![CDATA[Show HN: Tapgiant.com – Store Provisioning]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hypersearch - 用於改善谷歌、亞馬遜等的開源擴展。]]></title>
-            <link>https://news.ycombinator.com/item?id=30909261</link>
-            <guid>https://news.ycombinator.com/item?id=30909261</guid>
-            <pubDate>Mon, 04 Apr 2022 17:17:06 GMT</pubDate>
-            <description><![CDATA[Show HN: Hypersearch – open-source extension for improving Google, Amazon etc.]]></description>
         </item>
     </channel>
 </rss>
