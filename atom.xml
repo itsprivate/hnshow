@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-27T08:38:57.537Z</updated>
+    <updated>2022-04-27T11:12:07.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Famewall.io - 在2分钟内完成社会推荐工作]]></title>
+        <id>https://news.ycombinator.com/item?id=31178456</id>
+        <link href="https://news.ycombinator.com/item?id=31178456"/>
+        <updated>2022-04-27T10:59:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Famewall.io – Social testimonials in under 2 minutes]]></summary>
+        <author>
+            <name>gouthamj</name>
+            <uri>https://news.ycombinator.com/user?id=gouthamj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[管道观察 - 在你的终端监控管道输出]]></title>
         <id>https://news.ycombinator.com/item?id=31177604</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>pacmanche</name>
             <uri>https://news.ycombinator.com/user?id=pacmanche</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tapgiant.com - 商店供应]]></title>
-        <id>https://news.ycombinator.com/item?id=30910525</id>
-        <link href="https://news.ycombinator.com/item?id=30910525"/>
-        <updated>2022-04-04T18:45:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tapgiant.com – Store Provisioning]]></summary>
-        <author>
-            <name>tapgiant</name>
-            <uri>https://news.ycombinator.com/user?id=tapgiant</uri>
         </author>
     </entry>
 </feed>
