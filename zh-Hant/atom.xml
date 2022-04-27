@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-27T17:24:57.716Z</updated>
+    <updated>2022-04-27T19:00:22.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Alceris - 關注隱私的分析解決方案]]></title>
+        <id>https://news.ycombinator.com/item?id=31184223</id>
+        <link href="https://news.ycombinator.com/item?id=31184223"/>
+        <updated>2022-04-27T18:55:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Alceris – Privacy focused analytics solution]]></summary>
+        <author>
+            <name>mbauer42</name>
+            <uri>https://news.ycombinator.com/user?id=mbauer42</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用動畫圖表的一鍵式互動源代碼統計]]></title>
         <id>https://news.ycombinator.com/item?id=31182594</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>ogarcia</name>
             <uri>https://news.ycombinator.com/user?id=ogarcia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鉻記錄器爬蟲]]></title>
-        <id>https://news.ycombinator.com/item?id=30915738</id>
-        <link href="https://news.ycombinator.com/item?id=30915738"/>
-        <updated>2022-04-05T05:58:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Chrome Recorder Crawler]]></summary>
-        <author>
-            <name>brid_wu</name>
-            <uri>https://news.ycombinator.com/user?id=brid_wu</uri>
         </author>
     </entry>
 </feed>
