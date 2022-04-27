@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-27T14:31:28.158Z</updated>
+    <updated>2022-04-27T14:54:41.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ECAppLog - 為程序員提供的網絡化日誌GUI]]></title>
+        <id>https://news.ycombinator.com/item?id=31180537</id>
+        <link href="https://news.ycombinator.com/item?id=31180537"/>
+        <updated>2022-04-27T14:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ECAppLog – a networked logging GUI for programmers]]></summary>
+        <author>
+            <name>rangelreale</name>
+            <uri>https://news.ycombinator.com/user?id=rangelreale</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlockPoll - 基於區塊鏈的去中心化投票（開放源碼）。]]></title>
         <id>https://news.ycombinator.com/item?id=31180246</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>Dorcy64</name>
             <uri>https://news.ycombinator.com/user?id=Dorcy64</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tricorder - 自動化的KISS方式，不涉及YAML，用Rust編寫]]></title>
-        <id>https://news.ycombinator.com/item?id=30912049</id>
-        <link href="https://news.ycombinator.com/item?id=30912049"/>
-        <updated>2022-04-04T21:18:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tricorder – Automation the KISS way, no YAML involved, written in Rust]]></summary>
-        <author>
-            <name>linkdd</name>
-            <uri>https://news.ycombinator.com/user?id=linkdd</uri>
         </author>
     </entry>
 </feed>
