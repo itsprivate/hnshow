@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-27T22:46:30.760Z</updated>
+    <updated>2022-04-27T23:35:35.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Netplot，在终端绘制网络连接图]]></title>
+        <id>https://news.ycombinator.com/item?id=31186962</id>
+        <link href="https://news.ycombinator.com/item?id=31186962"/>
+        <updated>2022-04-27T23:11:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Netplot, plot network connections in the terminal]]></summary>
+        <author>
+            <name>fedeb95</name>
+            <uri>https://news.ycombinator.com/user?id=fedeb95</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[二十几个3D标志游戏，你可以在浏览器中玩和编辑。]]></title>
         <id>https://news.ycombinator.com/item?id=31186500</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>thijsr</name>
             <uri>https://news.ycombinator.com/user?id=thijsr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Encome，一个发现、分析和交易北交所股票的地方]]></title>
-        <id>https://news.ycombinator.com/item?id=30918240</id>
-        <link href="https://news.ycombinator.com/item?id=30918240"/>
-        <updated>2022-04-05T12:42:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Encome, one place to discover, analyze and trade stocks on NSE]]></summary>
-        <author>
-            <name>scottydelta</name>
-            <uri>https://news.ycombinator.com/user?id=scottydelta</uri>
         </author>
     </entry>
 </feed>
