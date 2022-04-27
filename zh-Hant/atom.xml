@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-27T11:12:07.365Z</updated>
+    <updated>2022-04-27T13:05:44.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Gatsby-theme-pitayan - 極簡主義者的蓋茨比主題]]></title>
+        <id>https://news.ycombinator.com/item?id=31178996</id>
+        <link href="https://news.ycombinator.com/item?id=31178996"/>
+        <updated>2022-04-27T12:22:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Gatsby-theme-pitayan – A Gatsby theme for minimalists]]></summary>
+        <author>
+            <name>daiyanze</name>
+            <uri>https://news.ycombinator.com/user?id=daiyanze</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Famewall.io - 在2分鐘內完成社會推薦工作]]></title>
         <id>https://news.ycombinator.com/item?id=31178456</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>rajasimon</name>
             <uri>https://news.ycombinator.com/user?id=rajasimon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小型的ML輔助CLI，可以在常見的存儲庫中查找軟件包]]></title>
-        <id>https://news.ycombinator.com/item?id=30910584</id>
-        <link href="https://news.ycombinator.com/item?id=30910584"/>
-        <updated>2022-04-04T18:51:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Small ML assisted CLI to look up packages in common repositories]]></summary>
-        <author>
-            <name>pacmanche</name>
-            <uri>https://news.ycombinator.com/user?id=pacmanche</uri>
         </author>
     </entry>
 </feed>
