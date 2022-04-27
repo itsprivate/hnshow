@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 27 Apr 2022 05:04:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 05:56:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,13 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[程序员的音译字母表]]></title>
+            <link>https://news.ycombinator.com/item?id=31176759</link>
+            <guid>https://news.ycombinator.com/item?id=31176759</guid>
+            <pubDate>Wed, 27 Apr 2022 05:50:12 GMT</pubDate>
+            <description><![CDATA[Show HN: Programmer's Phonetic Alphabet]]></description>
+        </item>
         <item>
             <title><![CDATA[在线JSON浏览器、编辑器]]></title>
             <link>https://news.ycombinator.com/item?id=31176290</link>
@@ -4206,13 +4213,6 @@
             <guid>https://news.ycombinator.com/item?id=30908370</guid>
             <pubDate>Mon, 04 Apr 2022 16:15:59 GMT</pubDate>
             <description><![CDATA[Show HN: Blocksend – instantly pay out vendors on marketplaces]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Snipd将播客亮点同步到Notion，并提供摘要和文字记录]]></title>
-            <link>https://news.ycombinator.com/item?id=30907709</link>
-            <guid>https://news.ycombinator.com/item?id=30907709</guid>
-            <pubDate>Mon, 04 Apr 2022 15:24:11 GMT</pubDate>
-            <description><![CDATA[Show HN: Snipd syncs podcast highlights to Notion with summary and transcripts]]></description>
         </item>
     </channel>
 </rss>
