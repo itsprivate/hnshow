@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-28T12:21:47.585Z</updated>
+    <updated>2022-04-28T13:09:58.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[数以百万计的NFT的语义搜索]]></title>
+        <id>https://news.ycombinator.com/item?id=31191872</id>
+        <link href="https://news.ycombinator.com/item?id=31191872"/>
+        <updated>2022-04-28T12:55:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Semantic Search of Millions of NFTs]]></summary>
+        <author>
+            <name>saintarian</name>
+            <uri>https://news.ycombinator.com/user?id=saintarian</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[带有Rust运行时间的Python网络框架]]></title>
         <id>https://news.ycombinator.com/item?id=31191551</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>kavehkhorram</name>
             <uri>https://news.ycombinator.com/user?id=kavehkhorram</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlotPanel - 无需任何代码即可实现美丽的互动式可视化]]></title>
-        <id>https://news.ycombinator.com/item?id=30923149</id>
-        <link href="https://news.ycombinator.com/item?id=30923149"/>
-        <updated>2022-04-05T18:44:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PlotPanel – Beautiful and Interactive Visualizations Without Any Code]]></summary>
-        <author>
-            <name>batterylow</name>
-            <uri>https://news.ycombinator.com/user?id=batterylow</uri>
         </author>
     </entry>
 </feed>
