@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-28T09:36:42.197Z</updated>
+    <updated>2022-04-28T09:54:16.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[替代的谷歌分析儀表板]]></title>
+        <id>https://news.ycombinator.com/item?id=31190547</id>
+        <link href="https://news.ycombinator.com/item?id=31190547"/>
+        <updated>2022-04-28T09:45:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Alternative Google Analytics Dashboard]]></summary>
+        <author>
+            <name>rajasimon</name>
+            <uri>https://news.ycombinator.com/user?id=rajasimon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[數據服務的統一接口]]></title>
+        <id>https://news.ycombinator.com/item?id=31190546</id>
+        <link href="https://news.ycombinator.com/item?id=31190546"/>
+        <updated>2022-04-28T09:45:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Unified Interface for Data Services]]></summary>
+        <author>
+            <name>shadev</name>
+            <uri>https://news.ycombinator.com/user?id=shadev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bonjourr - 靈感來自iOS的極簡主義瀏覽器主頁]]></title>
         <id>https://news.ycombinator.com/item?id=31190330</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>JyotiSharma</name>
             <uri>https://news.ycombinator.com/user?id=JyotiSharma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warp，一個基於Rust的現代終端]]></title>
-        <id>https://news.ycombinator.com/item?id=30921231</id>
-        <link href="https://news.ycombinator.com/item?id=30921231"/>
-        <updated>2022-04-05T16:40:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Warp, a Rust-based terminal for the modern age]]></summary>
-        <author>
-            <name>zachlloyd</name>
-            <uri>https://news.ycombinator.com/user?id=zachlloyd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xpastebin - X/CLI xclip(1)/xdg-open(1)啟用的粘貼庫和URL工具。]]></title>
-        <id>https://news.ycombinator.com/item?id=30920986</id>
-        <link href="https://news.ycombinator.com/item?id=30920986"/>
-        <updated>2022-04-05T16:22:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Xpastebin – X/CLI xclip(1)/xdg-open(1) enabled pastebin and URL utility]]></summary>
-        <author>
-            <name>sineastris</name>
-            <uri>https://news.ycombinator.com/user?id=sineastris</uri>
         </author>
     </entry>
 </feed>
