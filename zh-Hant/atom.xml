@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-27T23:35:36.168Z</updated>
+    <updated>2022-04-28T01:00:35.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Hush，一種現代shell腳本語言]]></title>
+        <id>https://news.ycombinator.com/item?id=31187413</id>
+        <link href="https://news.ycombinator.com/item?id=31187413"/>
+        <updated>2022-04-28T00:19:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hush, a modern shell scripting language]]></summary>
+        <author>
+            <name>gahag</name>
+            <uri>https://news.ycombinator.com/user?id=gahag</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taaalk - 一個長篇對話的社交網絡]]></title>
+        <id>https://news.ycombinator.com/item?id=31187241</id>
+        <link href="https://news.ycombinator.com/item?id=31187241"/>
+        <updated>2022-04-27T23:53:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Taaalk – a social network for long-form conversations]]></summary>
+        <author>
+            <name>FailMore</name>
+            <uri>https://news.ycombinator.com/user?id=FailMore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Netplot，在終端繪製網絡連接圖]]></title>
         <id>https://news.ycombinator.com/item?id=31186962</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>kriztle</name>
             <uri>https://news.ycombinator.com/user?id=kriztle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用VS Code擴展的Webhooks開發繼電器]]></title>
-        <id>https://news.ycombinator.com/item?id=30918426</id>
-        <link href="https://news.ycombinator.com/item?id=30918426"/>
-        <updated>2022-04-05T13:04:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Webhooks development relay with VS Code extension]]></summary>
-        <author>
-            <name>petems</name>
-            <uri>https://news.ycombinator.com/user?id=petems</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[測量能源消耗的Rust測試線束]]></title>
-        <id>https://news.ycombinator.com/item?id=30918318</id>
-        <link href="https://news.ycombinator.com/item?id=30918318"/>
-        <updated>2022-04-05T12:51:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rust test harness that measures energy consumption]]></summary>
-        <author>
-            <name>thijsr</name>
-            <uri>https://news.ycombinator.com/user?id=thijsr</uri>
         </author>
     </entry>
 </feed>
