@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-28T10:38:47.020Z</updated>
+    <updated>2022-04-28T10:58:41.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Jina NOW - 多模態神經搜索的低代碼解決方案]]></title>
+        <id>https://news.ycombinator.com/item?id=31190953</id>
+        <link href="https://news.ycombinator.com/item?id=31190953"/>
+        <updated>2022-04-28T10:45:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Jina NOW – lowcode solution for multimodal neural search]]></summary>
+        <author>
+            <name>gapovaj742</name>
+            <uri>https://news.ycombinator.com/user?id=gapovaj742</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jina NOW - 多模態搜索的單線工具]]></title>
         <id>https://news.ycombinator.com/item?id=31190880</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>yllek</name>
             <uri>https://news.ycombinator.com/user?id=yllek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Djinn CI是一個開源的CI平臺]]></title>
-        <id>https://news.ycombinator.com/item?id=30921760</id>
-        <link href="https://news.ycombinator.com/item?id=30921760"/>
-        <updated>2022-04-05T17:12:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Djinn CI an open source CI platform]]></summary>
-        <author>
-            <name>bkq</name>
-            <uri>https://news.ycombinator.com/user?id=bkq</uri>
         </author>
     </entry>
 </feed>
