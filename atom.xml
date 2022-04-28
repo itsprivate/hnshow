@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-28T09:54:16.423Z</updated>
+    <updated>2022-04-28T10:38:46.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Jina NOW - 多模态搜索的单线工具]]></title>
+        <id>https://news.ycombinator.com/item?id=31190880</id>
+        <link href="https://news.ycombinator.com/item?id=31190880"/>
+        <updated>2022-04-28T10:34:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Jina NOW - A one line tool for multimodal search]]></summary>
+        <author>
+            <name>gapovaj742</name>
+            <uri>https://news.ycombinator.com/user?id=gapovaj742</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[替代的谷歌分析仪表板]]></title>
         <id>https://news.ycombinator.com/item?id=31190547</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>bkq</name>
             <uri>https://news.ycombinator.com/user?id=bkq</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们建立了一个LowCode WebApp来实现自动化测试]]></title>
-        <id>https://news.ycombinator.com/item?id=30921483</id>
-        <link href="https://news.ycombinator.com/item?id=30921483"/>
-        <updated>2022-04-05T16:54:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We built a LowCode WebApp to Automate testing]]></summary>
-        <author>
-            <name>JyotiSharma</name>
-            <uri>https://news.ycombinator.com/user?id=JyotiSharma</uri>
         </author>
     </entry>
 </feed>
