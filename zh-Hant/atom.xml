@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-28T10:58:41.736Z</updated>
+    <updated>2022-04-28T12:21:47.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,28 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[帶有Rust運行時間的Python網絡框架]]></title>
+        <id>https://news.ycombinator.com/item?id=31191551</id>
+        <link href="https://news.ycombinator.com/item?id=31191551"/>
+        <updated>2022-04-28T12:12:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Python Web Framework with Rust Runtime]]></summary>
+        <author>
+            <name>hjxgoliath</name>
+            <uri>https://news.ycombinator.com/user?id=hjxgoliath</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日加密貨幣新聞提示]]></title>
+        <id>https://news.ycombinator.com/item?id=31191398</id>
+        <link href="https://news.ycombinator.com/item?id=31191398"/>
+        <updated>2022-04-28T11:51:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Daily Crypto News Alerts]]></summary>
+        <author>
+            <name>spdydve</name>
+            <uri>https://news.ycombinator.com/user?id=spdydve</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jina NOW - 多模態神經搜索的低代碼解決方案]]></title>
         <id>https://news.ycombinator.com/item?id=31190953</id>
@@ -6591,28 +6613,6 @@
         <author>
             <name>batterylow</name>
             <uri>https://news.ycombinator.com/user?id=batterylow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vappy，為新加坡的鑑賞家提供的編程語言]]></title>
-        <id>https://news.ycombinator.com/item?id=30923147</id>
-        <link href="https://news.ycombinator.com/item?id=30923147"/>
-        <updated>2022-04-05T18:44:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Vappy, the programming language for Vaporeon connoisseurs]]></summary>
-        <author>
-            <name>vappy-lang</name>
-            <uri>https://news.ycombinator.com/user?id=vappy-lang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monokle，一個Kubernetes Manifest IDE]]></title>
-        <id>https://news.ycombinator.com/item?id=30922995</id>
-        <link href="https://news.ycombinator.com/item?id=30922995"/>
-        <updated>2022-04-05T18:34:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Monokle, a Kubernetes Manifest IDE]]></summary>
-        <author>
-            <name>yllek</name>
-            <uri>https://news.ycombinator.com/user?id=yllek</uri>
         </author>
     </entry>
 </feed>
