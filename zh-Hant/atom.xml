@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-04-28T08:45:39.540Z</updated>
+    <updated>2022-04-28T09:36:42.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,17 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Bonjourr - 靈感來自iOS的極簡主義瀏覽器主頁]]></title>
+        <id>https://news.ycombinator.com/item?id=31190330</id>
+        <link href="https://news.ycombinator.com/item?id=31190330"/>
+        <updated>2022-04-28T09:18:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bonjourr · Minimalist browser homepage inspired by iOS]]></summary>
+        <author>
+            <name>morceaudebois</name>
+            <uri>https://news.ycombinator.com/user?id=morceaudebois</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hatch 1.0.0 - 現代、可擴展的Python項目管理]]></title>
         <id>https://news.ycombinator.com/item?id=31190027</id>
@@ -6602,17 +6613,6 @@
         <author>
             <name>sineastris</name>
             <uri>https://news.ycombinator.com/user?id=sineastris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flight Penguin - 與Hipmunk類似，但卻是一個瀏覽器擴展。]]></title>
-        <id>https://news.ycombinator.com/item?id=30920891</id>
-        <link href="https://news.ycombinator.com/item?id=30920891"/>
-        <updated>2022-04-05T16:15:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Flight Penguin – Like Hipmunk, but a browser extension]]></summary>
-        <author>
-            <name>goldfish</name>
-            <uri>https://news.ycombinator.com/user?id=goldfish</uri>
         </author>
     </entry>
 </feed>
