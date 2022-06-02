@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 02 Jun 2022 20:47:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 22:00:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[紅隊的合成數據模型
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31600874</link>
+            <guid>https://news.ycombinator.com/item?id=31600874</guid>
+            <pubDate>Thu, 02 Jun 2022 21:42:32 GMT</pubDate>
+            <description><![CDATA[Show HN: Red Teaming Synthetic Data Models]]></description>
+        </item>
         <item>
             <title><![CDATA[在沒有代理或VPN的情況下閱讀特朗普的帖子，為支持者和憎惡者提供服務
 ]]></title>
@@ -4249,13 +4257,6 @@
             <guid>https://news.ycombinator.com/item?id=30944373</guid>
             <pubDate>Thu, 07 Apr 2022 13:48:02 GMT</pubDate>
             <description><![CDATA[Show HN: Flowbite – open-source component library for Tailwind CSS [MIT License]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CodeSpread-幫助開發者和客戶充分利用開源資源]]></title>
-            <link>https://news.ycombinator.com/item?id=30944001</link>
-            <guid>https://news.ycombinator.com/item?id=30944001</guid>
-            <pubDate>Thu, 07 Apr 2022 13:15:42 GMT</pubDate>
-            <description><![CDATA[Show HN: CodeSpread-Helping Developers and Clients Make the Most of Open Source]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-02T20:47:19.801Z</updated>
+    <updated>2022-06-02T22:00:24.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[红队的合成数据模型
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31600874</id>
+        <link href="https://news.ycombinator.com/item?id=31600874"/>
+        <updated>2022-06-02T21:42:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Red Teaming Synthetic Data Models]]></summary>
+        <author>
+            <name>repeat_or</name>
+            <uri>https://news.ycombinator.com/user?id=repeat_or</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在没有代理或VPN的情况下阅读特朗普的帖子，为支持者和憎恶者提供服务
 ]]></title>
@@ -6645,17 +6657,6 @@
         <author>
             <name>elwingo1</name>
             <uri>https://news.ycombinator.com/user?id=elwingo1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CodeSpread-帮助开发者和客户充分利用开源资源]]></title>
-        <id>https://news.ycombinator.com/item?id=30944001</id>
-        <link href="https://news.ycombinator.com/item?id=30944001"/>
-        <updated>2022-04-07T13:15:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CodeSpread-Helping Developers and Clients Make the Most of Open Source]]></summary>
-        <author>
-            <name>Dalida</name>
-            <uri>https://news.ycombinator.com/user?id=Dalida</uri>
         </author>
     </entry>
 </feed>
