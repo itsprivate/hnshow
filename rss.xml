@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 02 Jun 2022 18:40:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 19:44:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我利用假期编写了一个现代JVM汇编程序
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31599603</link>
+            <guid>https://news.ycombinator.com/item?id=31599603</guid>
+            <pubDate>Thu, 02 Jun 2022 19:40:28 GMT</pubDate>
+            <description><![CDATA[Show HN: I spent my vacation writing a modern JVM assembler]]></description>
+        </item>
         <item>
             <title><![CDATA[自动检测你的应用程序/API中的安全漏洞
 ]]></title>
@@ -4244,13 +4252,6 @@
             <guid>https://news.ycombinator.com/item?id=30942969</guid>
             <pubDate>Thu, 07 Apr 2022 11:08:06 GMT</pubDate>
             <description><![CDATA[Show HN: Race to complete CSS challenges against other players]]></description>
-        </item>
-        <item>
-            <title><![CDATA[网络搏击俱乐部]]></title>
-            <link>https://news.ycombinator.com/item?id=30942936</link>
-            <guid>https://news.ycombinator.com/item?id=30942936</guid>
-            <pubDate>Thu, 07 Apr 2022 11:02:11 GMT</pubDate>
-            <description><![CDATA[Show HN: Internet Fight Club]]></description>
         </item>
     </channel>
 </rss>
