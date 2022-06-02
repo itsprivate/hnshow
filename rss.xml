@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 02 Jun 2022 16:59:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 17:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[试试我的副业Taaalk
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31597366</link>
+            <guid>https://news.ycombinator.com/item?id=31597366</guid>
+            <pubDate>Thu, 02 Jun 2022 16:52:35 GMT</pubDate>
+            <description><![CDATA[Show HN: Try out my side project Taaalk]]></description>
+        </item>
         <item>
             <title><![CDATA[Gitlinks - 由Git驱动的golinks
 ]]></title>
@@ -4241,13 +4249,6 @@
             <guid>https://news.ycombinator.com/item?id=30941740</guid>
             <pubDate>Thu, 07 Apr 2022 07:35:51 GMT</pubDate>
             <description><![CDATA[Show HN: Pipedream 2.0 – AWS Lambda and Zapier alternative]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ConcertMash - 为您即将举行的音乐会轻松生成播放列表]]></title>
-            <link>https://news.ycombinator.com/item?id=30941616</link>
-            <guid>https://news.ycombinator.com/item?id=30941616</guid>
-            <pubDate>Thu, 07 Apr 2022 07:18:34 GMT</pubDate>
-            <description><![CDATA[Show HN: ConcertMash – Easily generate a playlist for your upcoming concerts]]></description>
         </item>
     </channel>
 </rss>
