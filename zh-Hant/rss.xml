@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 02 Jun 2022 15:59:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 16:59:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Gitlinks - 由Git驅動的golinks
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31597081</link>
+            <guid>https://news.ycombinator.com/item?id=31597081</guid>
+            <pubDate>Thu, 02 Jun 2022 16:36:27 GMT</pubDate>
+            <description><![CDATA[Show HN: Gitlinks – Git powered golinks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Swarmsible - 設置（和管理）Docker Swarm的Ansible Playbooks
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31596929</link>
+            <guid>https://news.ycombinator.com/item?id=31596929</guid>
+            <pubDate>Thu, 02 Jun 2022 16:26:34 GMT</pubDate>
+            <description><![CDATA[Show HN: Swarmsible – Ansible Playbooks to Setup (and Manage) a Docker Swarm]]></description>
+        </item>
         <item>
             <title><![CDATA[Haberdasher是一個類似於Git的VCS，適用於大型倉庫。
 ]]></title>
@@ -4232,20 +4248,6 @@
             <guid>https://news.ycombinator.com/item?id=30941616</guid>
             <pubDate>Thu, 07 Apr 2022 07:18:34 GMT</pubDate>
             <description><![CDATA[Show HN: ConcertMash – Easily generate a playlist for your upcoming concerts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[強有力的密碼生成器（瀏覽器內和批量多重密碼）。]]></title>
-            <link>https://news.ycombinator.com/item?id=30941492</link>
-            <guid>https://news.ycombinator.com/item?id=30941492</guid>
-            <pubDate>Thu, 07 Apr 2022 07:00:42 GMT</pubDate>
-            <description><![CDATA[Show HN: Strong Password Generator (in-browser and batch mutiple passwords)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[建立一個美味的克隆]]></title>
-            <link>https://news.ycombinator.com/item?id=30940991</link>
-            <guid>https://news.ycombinator.com/item?id=30940991</guid>
-            <pubDate>Thu, 07 Apr 2022 05:40:48 GMT</pubDate>
-            <description><![CDATA[Show HN: Building a Delicious Clone]]></description>
         </item>
     </channel>
 </rss>
