@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 02 Jun 2022 18:01:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 18:40:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[自動檢測你的應用程序/API中的安全漏洞
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31598616</link>
+            <guid>https://news.ycombinator.com/item?id=31598616</guid>
+            <pubDate>Thu, 02 Jun 2022 18:20:46 GMT</pubDate>
+            <description><![CDATA[Show HN: Automatically Detect Security Bugs in Your App/API]]></description>
+        </item>
         <item>
             <title><![CDATA[Taaalk - 嘗試一下我的副業（邀請碼848581320）。
 ]]></title>
@@ -4243,13 +4251,6 @@
             <guid>https://news.ycombinator.com/item?id=30942936</guid>
             <pubDate>Thu, 07 Apr 2022 11:02:11 GMT</pubDate>
             <description><![CDATA[Show HN: Internet Fight Club]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Glicol（面向圖形的實時編碼語言）和用Rust編寫的DSP庫]]></title>
-            <link>https://news.ycombinator.com/item?id=30942074</link>
-            <guid>https://news.ycombinator.com/item?id=30942074</guid>
-            <pubDate>Thu, 07 Apr 2022 08:35:20 GMT</pubDate>
-            <description><![CDATA[Show HN: Glicol(Graph-Oriented Live Coding Language) and DSP Lib Written in Rust]]></description>
         </item>
     </channel>
 </rss>

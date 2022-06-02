@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-02T18:01:52.019Z</updated>
+    <updated>2022-06-02T18:40:25.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自动检测你的应用程序/API中的安全漏洞
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31598616</id>
+        <link href="https://news.ycombinator.com/item?id=31598616"/>
+        <updated>2022-06-02T18:20:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Automatically Detect Security Bugs in Your App/API]]></summary>
+        <author>
+            <name>vineshreddy007</name>
+            <uri>https://news.ycombinator.com/user?id=vineshreddy007</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Taaalk - 尝试一下我的副业（邀请码848581320）。
 ]]></title>
@@ -6639,17 +6651,6 @@
         <author>
             <name>Mizza</name>
             <uri>https://news.ycombinator.com/user?id=Mizza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glicol（面向图形的实时编码语言）和用Rust编写的DSP库]]></title>
-        <id>https://news.ycombinator.com/item?id=30942074</id>
-        <link href="https://news.ycombinator.com/item?id=30942074"/>
-        <updated>2022-04-07T08:35:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Glicol(Graph-Oriented Live Coding Language) and DSP Lib Written in Rust]]></summary>
-        <author>
-            <name>chaosprint</name>
-            <uri>https://news.ycombinator.com/user?id=chaosprint</uri>
         </author>
     </entry>
 </feed>
