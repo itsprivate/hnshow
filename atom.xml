@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-02T22:00:24.847Z</updated>
+    <updated>2022-06-02T22:29:30.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Salesfinity - 平行拨号软件，可拨打3-5倍的电话
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31601302</id>
+        <link href="https://news.ycombinator.com/item?id=31601302"/>
+        <updated>2022-06-02T22:24:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Salesfinity – Parallel Dialer software to make 3x-5x more phone calls]]></summary>
+        <author>
+            <name>Mavlonbek1</name>
+            <uri>https://news.ycombinator.com/user?id=Mavlonbek1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[红队的合成数据模型
 ]]></title>
@@ -6646,17 +6658,6 @@
         <author>
             <name>pplonski86</name>
             <uri>https://news.ycombinator.com/user?id=pplonski86</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flowbite - Tailwind CSS的开源组件库 [MIT License]]]></title>
-        <id>https://news.ycombinator.com/item?id=30944373</id>
-        <link href="https://news.ycombinator.com/item?id=30944373"/>
-        <updated>2022-04-07T13:48:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Flowbite – open-source component library for Tailwind CSS [MIT License]]]></summary>
-        <author>
-            <name>elwingo1</name>
-            <uri>https://news.ycombinator.com/user?id=elwingo1</uri>
         </author>
     </entry>
 </feed>
