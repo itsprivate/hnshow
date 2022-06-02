@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-02T14:51:52.451Z</updated>
+    <updated>2022-06-02T15:59:15.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Haberdasher是一个类似于Git的VCS，适用于大型仓库。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31596233</id>
+        <link href="https://news.ycombinator.com/item?id=31596233"/>
+        <updated>2022-06-02T15:40:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Haberdasher is a Git-like VCS for huge repos]]></summary>
+        <author>
+            <name>yash-hd</name>
+            <uri>https://news.ycombinator.com/user?id=yash-hd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[思想之争？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31595954</id>
+        <link href="https://news.ycombinator.com/item?id=31595954"/>
+        <updated>2022-06-02T15:19:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Battle of Ideas?]]></summary>
+        <author>
+            <name>businessperson</name>
+            <uri>https://news.ycombinator.com/user?id=businessperson</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在名画中寻找正确位置的谜语游戏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31595873</id>
+        <link href="https://news.ycombinator.com/item?id=31595873"/>
+        <updated>2022-06-02T15:13:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A riddle game to find the right spots in famous paintings]]></summary>
+        <author>
+            <name>soneca</name>
+            <uri>https://news.ycombinator.com/user?id=soneca</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linkians，一个类似于模拟的游戏，发生在你的网址栏里的表情符号。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31595541</id>
+        <link href="https://news.ycombinator.com/item?id=31595541"/>
+        <updated>2022-06-02T14:47:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Linkians, a sims-like game that happens in your url bar with emojis]]></summary>
+        <author>
+            <name>escot</name>
+            <uri>https://news.ycombinator.com/user?id=escot</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buildkite测试分析：测试套件的可观察性
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31595507</id>
+        <link href="https://news.ycombinator.com/item?id=31595507"/>
+        <updated>2022-06-02T14:44:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Buildkite Test Analytics: observability for your test suite]]></summary>
+        <author>
+            <name>keithpitt</name>
+            <uri>https://news.ycombinator.com/user?id=keithpitt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go-faker。Golang的Faker。与postman动态变量兼容
 ]]></title>
@@ -6586,61 +6646,6 @@
         <author>
             <name>thongda</name>
             <uri>https://news.ycombinator.com/user?id=thongda</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codestat.dev - 来自200多万个开放源码库的统计资料]]></title>
-        <id>https://news.ycombinator.com/item?id=30940251</id>
-        <link href="https://news.ycombinator.com/item?id=30940251"/>
-        <updated>2022-04-07T03:13:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Codestat.dev – stats from 2m+ OSS repositories]]></summary>
-        <author>
-            <name>slimsag</name>
-            <uri>https://news.ycombinator.com/user?id=slimsag</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无记载的API封装器（用于现场拍卖）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30939743</id>
-        <link href="https://news.ycombinator.com/item?id=30939743"/>
-        <updated>2022-04-07T01:48:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Undocumented API Wrapper (for Live Auctions)]]></summary>
-        <author>
-            <name>holts-shoe</name>
-            <uri>https://news.ycombinator.com/user?id=holts-shoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算系统中延迟的原因，以及为什么它使我们感到沮丧]]></title>
-        <id>https://news.ycombinator.com/item?id=30939040</id>
-        <link href="https://news.ycombinator.com/item?id=30939040"/>
-        <updated>2022-04-07T00:05:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The Causes of Latency in Computing Systems, and Why It Frustrates Us]]></summary>
-        <author>
-            <name>narner</name>
-            <uri>https://news.ycombinator.com/user?id=narner</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个HTML5的多人游戏引擎]]></title>
-        <id>https://news.ycombinator.com/item?id=30938892</id>
-        <link href="https://news.ycombinator.com/item?id=30938892"/>
-        <updated>2022-04-06T23:47:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I Made a HTML5 Multiplayer Game Engine]]></summary>
-        <author>
-            <name>m0dE</name>
-            <uri>https://news.ycombinator.com/user?id=m0dE</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MetricFlow - 开源的度量衡框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30938109</id>
-        <link href="https://news.ycombinator.com/item?id=30938109"/>
-        <updated>2022-04-06T22:12:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: MetricFlow – open-source metric framework]]></summary>
-        <author>
-            <name>nicholashandel</name>
-            <uri>https://news.ycombinator.com/user?id=nicholashandel</uri>
         </author>
     </entry>
 </feed>
