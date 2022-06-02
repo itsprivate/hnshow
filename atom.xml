@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-02T17:27:37.237Z</updated>
+    <updated>2022-06-02T18:01:52.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Taaalk - 尝试一下我的副业（邀请码848581320）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31598039</id>
+        <link href="https://news.ycombinator.com/item?id=31598039"/>
+        <updated>2022-06-02T17:36:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Taaalk – Try out my side project (invite code 848581320)]]></summary>
+        <author>
+            <name>FailMore</name>
+            <uri>https://news.ycombinator.com/user?id=FailMore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[试试我的副业Taaalk
 ]]></title>
@@ -6638,17 +6650,6 @@
         <author>
             <name>chaosprint</name>
             <uri>https://news.ycombinator.com/user?id=chaosprint</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pipedream 2.0 - AWS Lambda和Zapier替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30941740</id>
-        <link href="https://news.ycombinator.com/item?id=30941740"/>
-        <updated>2022-04-07T07:35:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pipedream 2.0 – AWS Lambda and Zapier alternative]]></summary>
-        <author>
-            <name>todsacerdoti</name>
-            <uri>https://news.ycombinator.com/user?id=todsacerdoti</uri>
         </author>
     </entry>
 </feed>
