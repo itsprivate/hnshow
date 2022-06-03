@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-03T12:53:31.002Z</updated>
+    <updated>2022-06-03T13:28:59.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个易于构建的FOSS编译，用于FPGA的工作
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31607808</id>
+        <link href="https://news.ycombinator.com/item?id=31607808"/>
+        <updated>2022-06-03T13:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An easy to build FOSS compilation for work with FPGAs]]></summary>
+        <author>
+            <name>victor82</name>
+            <uri>https://news.ycombinator.com/user?id=victor82</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在DoubleCloud使用ClickHouse和Apache Kafka进行亚秒级分析
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31607648</id>
+        <link href="https://news.ycombinator.com/item?id=31607648"/>
+        <updated>2022-06-03T13:02:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sub-Second Analytics with ClickHouse and Apache Kafka at DoubleCloud]]></summary>
+        <author>
+            <name>d0uble</name>
+            <uri>https://news.ycombinator.com/user?id=d0uble</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我恢复了Palm的webOS应用目录、SDK和在线帮助系统
 ]]></title>
@@ -6647,28 +6671,6 @@
         <author>
             <name>AbiTyasTunggal</name>
             <uri>https://news.ycombinator.com/user?id=AbiTyasTunggal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phenixio - 实时比特币支付平台 [API]]]></title>
-        <id>https://news.ycombinator.com/item?id=30949534</id>
-        <link href="https://news.ycombinator.com/item?id=30949534"/>
-        <updated>2022-04-07T19:49:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Phenixio – Real-time Bitcoin payments platform [API]]]></summary>
-        <author>
-            <name>yagizc</name>
-            <uri>https://news.ycombinator.com/user?id=yagizc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BraNFT bra NFTs，现实世界中的数字加密资产]]></title>
-        <id>https://news.ycombinator.com/item?id=30949031</id>
-        <link href="https://news.ycombinator.com/item?id=30949031"/>
-        <updated>2022-04-07T19:09:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: BraNFT bra NFTs, real world to digital crypto assets]]></summary>
-        <author>
-            <name>branft</name>
-            <uri>https://news.ycombinator.com/user?id=branft</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 03 Jun 2022 12:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 13:28:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个易于构建的FOSS编译，用于FPGA的工作
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31607808</link>
+            <guid>https://news.ycombinator.com/item?id=31607808</guid>
+            <pubDate>Fri, 03 Jun 2022 13:17:47 GMT</pubDate>
+            <description><![CDATA[Show HN: An easy to build FOSS compilation for work with FPGAs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在DoubleCloud使用ClickHouse和Apache Kafka进行亚秒级分析
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31607648</link>
+            <guid>https://news.ycombinator.com/item?id=31607648</guid>
+            <pubDate>Fri, 03 Jun 2022 13:02:43 GMT</pubDate>
+            <description><![CDATA[Show HN: Sub-Second Analytics with ClickHouse and Apache Kafka at DoubleCloud]]></description>
+        </item>
         <item>
             <title><![CDATA[我恢复了Palm的webOS应用目录、SDK和在线帮助系统
 ]]></title>
@@ -4255,20 +4271,6 @@
             <guid>https://news.ycombinator.com/item?id=30951804</guid>
             <pubDate>Fri, 08 Apr 2022 00:01:30 GMT</pubDate>
             <description><![CDATA[Show HN: Himalayas.app – find remote jobs by time zone, tech stack, and more]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Phenixio - 实时比特币支付平台 [API]]]></title>
-            <link>https://news.ycombinator.com/item?id=30949534</link>
-            <guid>https://news.ycombinator.com/item?id=30949534</guid>
-            <pubDate>Thu, 07 Apr 2022 19:49:18 GMT</pubDate>
-            <description><![CDATA[Show HN: Phenixio – Real-time Bitcoin payments platform [API]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BraNFT bra NFTs，现实世界中的数字加密资产]]></title>
-            <link>https://news.ycombinator.com/item?id=30949031</link>
-            <guid>https://news.ycombinator.com/item?id=30949031</guid>
-            <pubDate>Thu, 07 Apr 2022 19:09:54 GMT</pubDate>
-            <description><![CDATA[Show HN: BraNFT bra NFTs, real world to digital crypto assets]]></description>
         </item>
     </channel>
 </rss>
