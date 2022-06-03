@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 03 Jun 2022 18:00:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 18:36:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何使用MicroPython和MQTT連接ESP32s
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31611725</link>
+            <guid>https://news.ycombinator.com/item?id=31611725</guid>
+            <pubDate>Fri, 03 Jun 2022 18:08:15 GMT</pubDate>
+            <description><![CDATA[Show HN: How to connect ESP32s using MicroPython and MQTT]]></description>
+        </item>
         <item>
             <title><![CDATA[Cryptid零信任認證和授權，開源的Oberon
 ]]></title>
@@ -4273,13 +4281,6 @@
             <guid>https://news.ycombinator.com/item?id=30956613</guid>
             <pubDate>Fri, 08 Apr 2022 13:37:01 GMT</pubDate>
             <description><![CDATA[Show HN: Colludle – Collaborative Wordle Game]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Boot.dev - 我試圖幫助解決編碼教育的副業項目]]></title>
-            <link>https://news.ycombinator.com/item?id=30956339</link>
-            <guid>https://news.ycombinator.com/item?id=30956339</guid>
-            <pubDate>Fri, 08 Apr 2022 13:06:23 GMT</pubDate>
-            <description><![CDATA[Show HN: Boot.dev – my sideproject attempting to help fix coding education]]></description>
         </item>
     </channel>
 </rss>
