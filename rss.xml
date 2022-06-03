@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 03 Jun 2022 06:54:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 09:30:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Go-srpc。Golang的简单流式RPC
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31605919</link>
+            <guid>https://news.ycombinator.com/item?id=31605919</guid>
+            <pubDate>Fri, 03 Jun 2022 09:07:06 GMT</pubDate>
+            <description><![CDATA[Show HN: Go-srpc: Simple streaming RPC for Golang]]></description>
+        </item>
         <item>
             <title><![CDATA[逃离YouTube算法，播放你喜欢的频道的旧视频
 ]]></title>
@@ -4257,13 +4265,6 @@
             <guid>https://news.ycombinator.com/item?id=30948004</guid>
             <pubDate>Thu, 07 Apr 2022 17:52:26 GMT</pubDate>
             <description><![CDATA[Show HN: A Story-Based Brainwallet]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Kcaps.app - 一个设计键盘快捷方式图像的工具]]></title>
-            <link>https://news.ycombinator.com/item?id=30946919</link>
-            <guid>https://news.ycombinator.com/item?id=30946919</guid>
-            <pubDate>Thu, 07 Apr 2022 16:40:36 GMT</pubDate>
-            <description><![CDATA[Show HN: Kcaps.app – a tool to design keyboard shortcut images]]></description>
         </item>
     </channel>
 </rss>
