@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-03T18:36:00.929Z</updated>
+    <updated>2022-06-03T21:26:41.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[免费测试你的应用程序颜色创意
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31613602</id>
+        <link href="https://news.ycombinator.com/item?id=31613602"/>
+        <updated>2022-06-03T21:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Test your app color ideas for free]]></summary>
+        <author>
+            <name>DCodes1</name>
+            <uri>https://news.ycombinator.com/user?id=DCodes1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何使用MicroPython和MQTT连接ESP32s
 ]]></title>
@@ -6670,17 +6682,6 @@
         <author>
             <name>shubhamjain</name>
             <uri>https://news.ycombinator.com/user?id=shubhamjain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colludle - 协作式Wordle游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=30956613</id>
-        <link href="https://news.ycombinator.com/item?id=30956613"/>
-        <updated>2022-04-08T13:37:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Colludle – Collaborative Wordle Game]]></summary>
-        <author>
-            <name>dxchester</name>
-            <uri>https://news.ycombinator.com/user?id=dxchester</uri>
         </author>
     </entry>
 </feed>
