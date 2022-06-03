@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-03T13:28:59.885Z</updated>
+    <updated>2022-06-03T15:35:18.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[快速深度强化学习课程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31609217</id>
+        <link href="https://news.ycombinator.com/item?id=31609217"/>
+        <updated>2022-06-03T15:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fast Deep Reinforcement Learning Course]]></summary>
+        <author>
+            <name>gh1</name>
+            <uri>https://news.ycombinator.com/user?id=gh1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一种新颖的新任务生成工具，既有手写的也有随机的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31609211</id>
+        <link href="https://news.ycombinator.com/item?id=31609211"/>
+        <updated>2022-06-03T14:59:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A novel new quest generation tool both handwritten and random]]></summary>
+        <author>
+            <name>frankhorrigan</name>
+            <uri>https://news.ycombinator.com/user?id=frankhorrigan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个易于构建的FOSS编译，用于FPGA的工作
 ]]></title>
@@ -6649,28 +6673,6 @@
         <author>
             <name>Tepix</name>
             <uri>https://news.ycombinator.com/user?id=Tepix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为自闭症患者编写的通讯]]></title>
-        <id>https://news.ycombinator.com/item?id=30954135</id>
-        <link href="https://news.ycombinator.com/item?id=30954135"/>
-        <updated>2022-04-08T07:04:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Newsletter for Bootstrappers]]></summary>
-        <author>
-            <name>drikerf</name>
-            <uri>https://news.ycombinator.com/user?id=drikerf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Himalayas.app - 按时区、技术栈等寻找远程工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30951804</id>
-        <link href="https://news.ycombinator.com/item?id=30951804"/>
-        <updated>2022-04-08T00:01:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Himalayas.app – find remote jobs by time zone, tech stack, and more]]></summary>
-        <author>
-            <name>AbiTyasTunggal</name>
-            <uri>https://news.ycombinator.com/user?id=AbiTyasTunggal</uri>
         </author>
     </entry>
 </feed>
