@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-03T06:35:08.564Z</updated>
+    <updated>2022-06-03T06:54:56.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[逃離YouTube算法，播放你喜歡的頻道的舊視頻
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31605054</id>
+        <link href="https://news.ycombinator.com/item?id=31605054"/>
+        <updated>2022-06-03T06:50:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Escape the YouTube algorithm and play old videos from your fav channels]]></summary>
+        <author>
+            <name>xk3</name>
+            <uri>https://news.ycombinator.com/user?id=xk3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mac&Win--一鍵隱藏桌面圖標、最小化應用程序、靜音等。
 ]]></title>
@@ -6652,17 +6664,6 @@
         <author>
             <name>Ddel</name>
             <uri>https://news.ycombinator.com/user?id=Ddel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dotmixtape，一個獨立的音樂流媒體平臺]]></title>
-        <id>https://news.ycombinator.com/item?id=30946861</id>
-        <link href="https://news.ycombinator.com/item?id=30946861"/>
-        <updated>2022-04-07T16:37:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dotmixtape, an indie music streaming platform]]></summary>
-        <author>
-            <name>samirsd</name>
-            <uri>https://news.ycombinator.com/user?id=samirsd</uri>
         </author>
     </entry>
 </feed>
