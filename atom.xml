@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-03T21:58:44.775Z</updated>
+    <updated>2022-06-03T22:28:39.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在你的手机上跟踪你的Python培训/评估或后端任务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31614354</id>
+        <link href="https://news.ycombinator.com/item?id=31614354"/>
+        <updated>2022-06-03T22:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Track your Python Training/Evaluation or Back end tasks on your Phone]]></summary>
+        <author>
+            <name>srelbo</name>
+            <uri>https://news.ycombinator.com/user?id=srelbo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[远离流媒体平台，把你的音乐带到线下
 ]]></title>
@@ -6672,17 +6684,6 @@
         <author>
             <name>DaveWM</name>
             <uri>https://news.ycombinator.com/user?id=DaveWM</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[它是否被剪短了？看看一个电视节目是否以悬念结束]]></title>
-        <id>https://news.ycombinator.com/item?id=30957035</id>
-        <link href="https://news.ycombinator.com/item?id=30957035"/>
-        <updated>2022-04-08T14:16:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Is it cut short? See if a TV show ended with a cliffhanger]]></summary>
-        <author>
-            <name>GlumWoodpecker</name>
-            <uri>https://news.ycombinator.com/user?id=GlumWoodpecker</uri>
         </author>
     </entry>
 </feed>
