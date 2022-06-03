@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 03 Jun 2022 16:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 17:39:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我花了一年时间建立了一个在浏览器中运行的桌面环境
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31611016</link>
+            <guid>https://news.ycombinator.com/item?id=31611016</guid>
+            <pubDate>Fri, 03 Jun 2022 17:14:01 GMT</pubDate>
+            <description><![CDATA[Show HN: I spent a year building a desktop environment that runs in the browser]]></description>
+        </item>
         <item>
             <title><![CDATA[Ezbitmap.com，从ASCII艺术中创建美丽的图像
 ]]></title>
@@ -4271,13 +4279,6 @@
             <guid>https://news.ycombinator.com/item?id=30955838</guid>
             <pubDate>Fri, 08 Apr 2022 11:57:32 GMT</pubDate>
             <description><![CDATA[Show HN: A poem inside HTTP response headers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[程序化--创建标签数据的REPL]]></title>
-            <link>https://news.ycombinator.com/item?id=30955699</link>
-            <guid>https://news.ycombinator.com/item?id=30955699</guid>
-            <pubDate>Fri, 08 Apr 2022 11:35:31 GMT</pubDate>
-            <description><![CDATA[Show HN: Programmatic – a REPL for creating labeled data]]></description>
         </item>
     </channel>
 </rss>

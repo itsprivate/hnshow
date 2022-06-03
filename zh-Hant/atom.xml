@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-03T16:46:25.670Z</updated>
+    <updated>2022-06-03T17:39:51.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我花了一年時間建立了一個在瀏覽器中運行的桌面環境
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31611016</id>
+        <link href="https://news.ycombinator.com/item?id=31611016"/>
+        <updated>2022-06-03T17:14:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I spent a year building a desktop environment that runs in the browser]]></summary>
+        <author>
+            <name>george0812</name>
+            <uri>https://news.ycombinator.com/user?id=george0812</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ezbitmap.com，從ASCII藝術中創建美麗的圖像
 ]]></title>
@@ -6667,17 +6679,6 @@
         <author>
             <name>jacobevelyn</name>
             <uri>https://news.ycombinator.com/user?id=jacobevelyn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[程序化--創建標籤數據的REPL]]></title>
-        <id>https://news.ycombinator.com/item?id=30955699</id>
-        <link href="https://news.ycombinator.com/item?id=30955699"/>
-        <updated>2022-04-08T11:35:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Programmatic – a REPL for creating labeled data]]></summary>
-        <author>
-            <name>jordn</name>
-            <uri>https://news.ycombinator.com/user?id=jordn</uri>
         </author>
     </entry>
 </feed>
