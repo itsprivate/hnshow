@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-03T17:39:51.469Z</updated>
+    <updated>2022-06-03T18:00:37.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Cryptid零信任認證和授權，開源的Oberon
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31611483</id>
+        <link href="https://news.ycombinator.com/item?id=31611483"/>
+        <updated>2022-06-03T17:47:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Cryptid Zero Trust Authentication and Authorization, Open Source Oberon]]></summary>
+        <author>
+            <name>jratkevic</name>
+            <uri>https://news.ycombinator.com/user?id=jratkevic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我花了一年時間建立了一個在瀏覽器中運行的桌面環境
 ]]></title>
@@ -6668,17 +6680,6 @@
         <author>
             <name>wagslane</name>
             <uri>https://news.ycombinator.com/user?id=wagslane</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTTP響應頭中的一首詩]]></title>
-        <id>https://news.ycombinator.com/item?id=30955838</id>
-        <link href="https://news.ycombinator.com/item?id=30955838"/>
-        <updated>2022-04-08T11:57:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A poem inside HTTP response headers]]></summary>
-        <author>
-            <name>jacobevelyn</name>
-            <uri>https://news.ycombinator.com/user?id=jacobevelyn</uri>
         </author>
     </entry>
 </feed>
