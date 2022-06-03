@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-03T05:01:59.993Z</updated>
+    <updated>2022-06-03T05:27:29.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[凯居--音频可视化系统
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31604482</id>
+        <link href="https://news.ycombinator.com/item?id=31604482"/>
+        <updated>2022-06-03T05:02:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Kaiju – Audio Visualisation System]]></summary>
+        <author>
+            <name>ntr--</name>
+            <uri>https://news.ycombinator.com/user?id=ntr--</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我写了一个关于《超级马里奥兄弟》中的迷你世界的短篇故事
 ]]></title>
@@ -6650,17 +6662,6 @@
         <author>
             <name>greentfrapp</name>
             <uri>https://news.ycombinator.com/user?id=greentfrapp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源的Kahoot-Clone]]></title>
-        <id>https://news.ycombinator.com/item?id=30945890</id>
-        <link href="https://news.ycombinator.com/item?id=30945890"/>
-        <updated>2022-04-07T15:35:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open-Source Kahoot-Clone]]></summary>
-        <author>
-            <name>Mawoka</name>
-            <uri>https://news.ycombinator.com/user?id=Mawoka</uri>
         </author>
     </entry>
 </feed>
