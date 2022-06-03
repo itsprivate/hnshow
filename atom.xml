@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-03T21:26:41.692Z</updated>
+    <updated>2022-06-03T21:58:44.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[远离流媒体平台，把你的音乐带到线下
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31613269</id>
+        <link href="https://news.ycombinator.com/item?id=31613269"/>
+        <updated>2022-06-03T20:31:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Move away from streaming platforms and take your music offline]]></summary>
+        <author>
+            <name>orhunp_</name>
+            <uri>https://news.ycombinator.com/user?id=orhunp_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[免费测试你的应用程序颜色创意
 ]]></title>
@@ -6671,17 +6683,6 @@
         <author>
             <name>GlumWoodpecker</name>
             <uri>https://news.ycombinator.com/user?id=GlumWoodpecker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我用HTML5做了一个益智游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=30956775</id>
-        <link href="https://news.ycombinator.com/item?id=30956775"/>
-        <updated>2022-04-08T13:54:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I Made a Puzzle Game in HTML5]]></summary>
-        <author>
-            <name>shubhamjain</name>
-            <uri>https://news.ycombinator.com/user?id=shubhamjain</uri>
         </author>
     </entry>
 </feed>
