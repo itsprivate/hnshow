@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-03T09:30:01.323Z</updated>
+    <updated>2022-06-03T12:01:05.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HyperUPnP - 安卓UPnP客户端应用，让你流媒体。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31607035</id>
+        <link href="https://news.ycombinator.com/item?id=31607035"/>
+        <updated>2022-06-03T11:48:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: HyperUPnP – Android UPnP Client App That Lets You to Stream Media]]></summary>
+        <author>
+            <name>varbhat</name>
+            <uri>https://news.ycombinator.com/user?id=varbhat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gui4REST - 用于测试REST API的无漏洞跨平台GUI
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31607019</id>
+        <link href="https://news.ycombinator.com/item?id=31607019"/>
+        <updated>2022-06-03T11:45:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Gui4REST – no-bloat cross-platform GUI for testing REST APIs]]></summary>
+        <author>
+            <name>ommz</name>
+            <uri>https://news.ycombinator.com/user?id=ommz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go-srpc。Golang的简单流式RPC
 ]]></title>
@@ -6643,28 +6667,6 @@
         <author>
             <name>kioleanu</name>
             <uri>https://news.ycombinator.com/user?id=kioleanu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用代码创建Conductor工作流]]></title>
-        <id>https://news.ycombinator.com/item?id=30948293</id>
-        <link href="https://news.ycombinator.com/item?id=30948293"/>
-        <updated>2022-04-07T18:14:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Create Conductor Workflows Using Code]]></summary>
-        <author>
-            <name>hackerdad</name>
-            <uri>https://news.ycombinator.com/user?id=hackerdad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个基于故事的脑钱包]]></title>
-        <id>https://news.ycombinator.com/item?id=30948004</id>
-        <link href="https://news.ycombinator.com/item?id=30948004"/>
-        <updated>2022-04-07T17:52:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Story-Based Brainwallet]]></summary>
-        <author>
-            <name>block_dagger</name>
-            <uri>https://news.ycombinator.com/user?id=block_dagger</uri>
         </author>
     </entry>
 </feed>
