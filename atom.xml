@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-02T22:29:30.071Z</updated>
+    <updated>2022-06-03T02:09:02.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Hair - 一个用Rust制作的HTTP客户端
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31603077</id>
+        <link href="https://news.ycombinator.com/item?id=31603077"/>
+        <updated>2022-06-03T01:24:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hair – An HTTP client made in Rust]]></summary>
+        <author>
+            <name>subtract-smiles</name>
+            <uri>https://news.ycombinator.com/user?id=subtract-smiles</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MongoDB卡塔斯/实践问题
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31602223</id>
+        <link href="https://news.ycombinator.com/item?id=31602223"/>
+        <updated>2022-06-02T23:57:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MongoDB Katas / Practice Problems]]></summary>
+        <author>
+            <name>markthethomas</name>
+            <uri>https://news.ycombinator.com/user?id=markthethomas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Salesfinity - 平行拨号软件，可拨打3-5倍的电话
 ]]></title>
@@ -6636,28 +6660,6 @@
         <author>
             <name>eneuman</name>
             <uri>https://news.ycombinator.com/user?id=eneuman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SnapAlgo, Algorand on MetaMask]]></title>
-        <id>https://news.ycombinator.com/item?id=30944959</id>
-        <link href="https://news.ycombinator.com/item?id=30944959"/>
-        <updated>2022-04-07T14:36:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: SnapAlgo, Algorand on MetaMask]]></summary>
-        <author>
-            <name>paulfears</name>
-            <uri>https://news.ycombinator.com/user?id=paulfears</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无需编码即可将Jupyter笔记本转换为交互式网络应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30944561</id>
-        <link href="https://news.ycombinator.com/item?id=30944561"/>
-        <updated>2022-04-07T14:03:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Convert Jupyter Notebook to interactive web app without coding]]></summary>
-        <author>
-            <name>pplonski86</name>
-            <uri>https://news.ycombinator.com/user?id=pplonski86</uri>
         </author>
     </entry>
 </feed>
