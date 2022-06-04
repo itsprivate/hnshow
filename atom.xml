@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-04T12:43:13.128Z</updated>
+    <updated>2022-06-04T13:13:27.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在iPad上使用新的Swift Playgrounds 4制作了一个Wordle克隆。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31619784</id>
+        <link href="https://news.ycombinator.com/item?id=31619784"/>
+        <updated>2022-06-04T12:59:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a Wordle clone on an iPad using the new Swift Playgrounds 4]]></summary>
+        <author>
+            <name>jkirsteins</name>
+            <uri>https://news.ycombinator.com/user?id=jkirsteins</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[纸质原型CSS
 ]]></title>
@@ -6682,17 +6694,6 @@
         <author>
             <name>varunramesh</name>
             <uri>https://news.ycombinator.com/user?id=varunramesh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gomarvin：为Go REST服务器生成自定义模板]]></title>
-        <id>https://news.ycombinator.com/item?id=30960565</id>
-        <link href="https://news.ycombinator.com/item?id=30960565"/>
-        <updated>2022-04-08T18:10:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Gomarvin: generate custom boilerplate for Go REST servers]]></summary>
-        <author>
-            <name>tompston</name>
-            <uri>https://news.ycombinator.com/user?id=tompston</uri>
         </author>
     </entry>
 </feed>

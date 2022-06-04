@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 04 Jun 2022 12:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 13:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在iPad上使用新的Swift Playgrounds 4製作了一個Wordle克隆。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31619784</link>
+            <guid>https://news.ycombinator.com/item?id=31619784</guid>
+            <pubDate>Sat, 04 Jun 2022 12:59:50 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a Wordle clone on an iPad using the new Swift Playgrounds 4]]></description>
+        </item>
         <item>
             <title><![CDATA[紙質原型CSS
 ]]></title>
@@ -4286,13 +4294,6 @@
             <guid>https://news.ycombinator.com/item?id=30960581</guid>
             <pubDate>Fri, 08 Apr 2022 18:11:43 GMT</pubDate>
             <description><![CDATA[Show HN: FeedVid Live – A text-adventure inspired game made in React / Three.js]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gomarvin：為Go REST服務器生成自定義模板]]></title>
-            <link>https://news.ycombinator.com/item?id=30960565</link>
-            <guid>https://news.ycombinator.com/item?id=30960565</guid>
-            <pubDate>Fri, 08 Apr 2022 18:10:34 GMT</pubDate>
-            <description><![CDATA[Show HN: Gomarvin: generate custom boilerplate for Go REST servers]]></description>
         </item>
     </channel>
 </rss>
