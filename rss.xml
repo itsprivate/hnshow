@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 04 Jun 2022 16:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 17:46:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在环境变量的数值之间快速切换
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31623125</link>
+            <guid>https://news.ycombinator.com/item?id=31623125</guid>
+            <pubDate>Sat, 04 Jun 2022 17:40:11 GMT</pubDate>
+            <description><![CDATA[Show HN: Quickly switch between values for environment variables]]></description>
+        </item>
         <item>
             <title><![CDATA[Stablecoins.WTF - 关于加密稳定币的实时仪表板和内容
 ]]></title>
@@ -4291,13 +4299,6 @@
             <guid>https://news.ycombinator.com/item?id=30965238</guid>
             <pubDate>Sat, 09 Apr 2022 04:15:41 GMT</pubDate>
             <description><![CDATA[Show HN: HRCloud3 Early prototype noSQL and cookieless self-hosted Cloud/CMS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个简单的本地多人游戏的开放源代码]]></title>
-            <link>https://news.ycombinator.com/item?id=30963282</link>
-            <guid>https://news.ycombinator.com/item?id=30963282</guid>
-            <pubDate>Fri, 08 Apr 2022 22:28:07 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a simple local multiplayer game open source]]></description>
         </item>
     </channel>
 </rss>
