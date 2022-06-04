@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-04T06:51:56.585Z</updated>
+    <updated>2022-06-04T07:27:10.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp在macOS上极端耗能，尽管没有呼叫或使用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31617765</id>
+        <link href="https://news.ycombinator.com/item?id=31617765"/>
+        <updated>2022-06-04T07:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WhatsApp extreme energy use on macOS, despite no calls or use]]></summary>
+        <author>
+            <name>nomilk</name>
+            <uri>https://news.ycombinator.com/user?id=nomilk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[创业两年多来值得分享的事情
 ]]></title>
@@ -6678,17 +6690,6 @@
         <author>
             <name>denzen</name>
             <uri>https://news.ycombinator.com/user?id=denzen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GraphQL服务器基准测试]]></title>
-        <id>https://news.ycombinator.com/item?id=30958949</id>
-        <link href="https://news.ycombinator.com/item?id=30958949"/>
-        <updated>2022-04-08T16:07:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GraphQL Server Benchmarks]]></summary>
-        <author>
-            <name>jgillich</name>
-            <uri>https://news.ycombinator.com/user?id=jgillich</uri>
         </author>
     </entry>
 </feed>
