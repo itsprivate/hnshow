@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-03T23:46:25.427Z</updated>
+    <updated>2022-06-04T02:09:24.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[K1pwit - iTerm2上的1Password
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31615612</id>
+        <link href="https://news.ycombinator.com/item?id=31615612"/>
+        <updated>2022-06-04T00:39:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: K1pwit – 1Password on iTerm2]]></summary>
+        <author>
+            <name>kissge</name>
+            <uri>https://news.ycombinator.com/user?id=kissge</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我喜欢FitnessSF，但我讨厌他们的手机应用程序
 ]]></title>
@@ -6674,17 +6686,6 @@
         <author>
             <name>Lou-AI</name>
             <uri>https://news.ycombinator.com/user?id=Lou-AI</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌云计算引擎比较]]></title>
-        <id>https://news.ycombinator.com/item?id=30957842</id>
-        <link href="https://news.ycombinator.com/item?id=30957842"/>
-        <updated>2022-04-08T15:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Google Cloud Compute Engine Comparison]]></summary>
-        <author>
-            <name>Cyclenerd</name>
-            <uri>https://news.ycombinator.com/user?id=Cyclenerd</uri>
         </author>
     </entry>
 </feed>
