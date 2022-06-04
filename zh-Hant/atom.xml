@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-04T07:27:10.425Z</updated>
+    <updated>2022-06-04T08:48:49.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PySide6 QtQuick項目模板
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31618226</id>
+        <link href="https://news.ycombinator.com/item?id=31618226"/>
+        <updated>2022-06-04T08:36:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PySide6 QtQuick Project Template]]></summary>
+        <author>
+            <name>trin94</name>
+            <uri>https://news.ycombinator.com/user?id=trin94</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WhatsApp在macOS上極端耗能，儘管沒有呼叫或使用
 ]]></title>
@@ -6679,17 +6691,6 @@
         <author>
             <name>mayursinh</name>
             <uri>https://news.ycombinator.com/user?id=mayursinh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用ReScript製作遊戲的嘗試]]></title>
-        <id>https://news.ycombinator.com/item?id=30959062</id>
-        <link href="https://news.ycombinator.com/item?id=30959062"/>
-        <updated>2022-04-08T16:18:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An attempt at making a game using ReScript]]></summary>
-        <author>
-            <name>denzen</name>
-            <uri>https://news.ycombinator.com/user?id=denzen</uri>
         </author>
     </entry>
 </feed>
