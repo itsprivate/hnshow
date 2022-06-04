@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-04T13:13:27.926Z</updated>
+    <updated>2022-06-04T13:39:41.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Boot.dev - 通过实践课程和项目学习计算机科学
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31619915</id>
+        <link href="https://news.ycombinator.com/item?id=31619915"/>
+        <updated>2022-06-04T13:13:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Boot.dev – Learn computer science through hands on courses and projects]]></summary>
+        <author>
+            <name>wagslane</name>
+            <uri>https://news.ycombinator.com/user?id=wagslane</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在iPad上使用新的Swift Playgrounds 4制作了一个Wordle克隆。
 ]]></title>
@@ -6683,17 +6695,6 @@
         <author>
             <name>AlexDragusin</name>
             <uri>https://news.ycombinator.com/user?id=AlexDragusin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FeedVid Live - 一个用React/Three.js制作的文字冒险灵感游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=30960581</id>
-        <link href="https://news.ycombinator.com/item?id=30960581"/>
-        <updated>2022-04-08T18:11:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: FeedVid Live – A text-adventure inspired game made in React / Three.js]]></summary>
-        <author>
-            <name>varunramesh</name>
-            <uri>https://news.ycombinator.com/user?id=varunramesh</uri>
         </author>
     </entry>
 </feed>
