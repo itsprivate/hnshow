@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 04 Jun 2022 13:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 14:27:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[读者模式扩展，内嵌Hacker News评论
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31620466</link>
+            <guid>https://news.ycombinator.com/item?id=31620466</guid>
+            <pubDate>Sat, 04 Jun 2022 14:06:33 GMT</pubDate>
+            <description><![CDATA[Show HN: Reader mode extension with inline Hacker News comments]]></description>
+        </item>
         <item>
             <title><![CDATA[Boot.dev - 通过实践课程和项目学习计算机科学
 ]]></title>
@@ -4288,13 +4296,6 @@
             <guid>https://news.ycombinator.com/item?id=30961178</guid>
             <pubDate>Fri, 08 Apr 2022 19:02:30 GMT</pubDate>
             <description><![CDATA[Show HN: I'm building a stupid website called Would You Do It For A Dollar?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Relevanto（测试版）--我策划的相关网络]]></title>
-            <link>https://news.ycombinator.com/item?id=30960897</link>
-            <guid>https://news.ycombinator.com/item?id=30960897</guid>
-            <pubDate>Fri, 08 Apr 2022 18:39:37 GMT</pubDate>
-            <description><![CDATA[Show HN: Relevanto (beta) – I curate the relevant web]]></description>
         </item>
     </channel>
 </rss>
