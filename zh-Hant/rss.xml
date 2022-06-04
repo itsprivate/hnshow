@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 04 Jun 2022 09:45:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 12:43:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[紙質原型CSS
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31619431</link>
+            <guid>https://news.ycombinator.com/item?id=31619431</guid>
+            <pubDate>Sat, 04 Jun 2022 12:13:12 GMT</pubDate>
+            <description><![CDATA[Show HN: Paper Prototype CSS]]></description>
+        </item>
         <item>
             <title><![CDATA[終端中的GraphQL客戶端
 ]]></title>
@@ -4285,13 +4293,6 @@
             <guid>https://news.ycombinator.com/item?id=30960565</guid>
             <pubDate>Fri, 08 Apr 2022 18:10:34 GMT</pubDate>
             <description><![CDATA[Show HN: Gomarvin: generate custom boilerplate for Go REST servers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Zaplib - 用Rust+Wasm加速你的webapp]]></title>
-            <link>https://news.ycombinator.com/item?id=30960509</link>
-            <guid>https://news.ycombinator.com/item?id=30960509</guid>
-            <pubDate>Fri, 08 Apr 2022 18:06:18 GMT</pubDate>
-            <description><![CDATA[Show HN: Zaplib – Speedup your webapp with Rust+Wasm]]></description>
         </item>
     </channel>
 </rss>
