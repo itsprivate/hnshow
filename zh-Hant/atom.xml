@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-04T02:09:24.435Z</updated>
+    <updated>2022-06-04T03:21:32.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[布魯姆--一個自由和開源的 "谷歌"(2019年)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31616389</id>
+        <link href="https://news.ycombinator.com/item?id=31616389"/>
+        <updated>2022-06-04T02:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bloom – A free and open source 'Google' (2019)]]></summary>
+        <author>
+            <name>ddtaylor</name>
+            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K1pwit - iTerm2上的1Password
 ]]></title>
@@ -6675,17 +6687,6 @@
         <author>
             <name>seinecle</name>
             <uri>https://news.ycombinator.com/user?id=seinecle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efficient-VDVAE是一個開源的內存效率高的深度分層VAE]]></title>
-        <id>https://news.ycombinator.com/item?id=30958530</id>
-        <link href="https://news.ycombinator.com/item?id=30958530"/>
-        <updated>2022-04-08T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Efficient-VDVAE an Open-source memory-efficient deep hierarchical VAE]]></summary>
-        <author>
-            <name>Lou-AI</name>
-            <uri>https://news.ycombinator.com/user?id=Lou-AI</uri>
         </author>
     </entry>
 </feed>
