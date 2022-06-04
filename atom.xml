@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-04T16:00:44.046Z</updated>
+    <updated>2022-06-04T16:38:08.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Stablecoins.WTF - 关于加密稳定币的实时仪表板和内容
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31622075</id>
+        <link href="https://news.ycombinator.com/item?id=31622075"/>
+        <updated>2022-06-04T16:12:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Stablecoins.WTF – Live-Dashboard and Content about Crypto Stablecoins]]></summary>
+        <author>
+            <name>dennis_zoma</name>
+            <uri>https://news.ycombinator.com/user?id=dennis_zoma</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小游戏Lorblets，一个小小的益智游戏
 ]]></title>
@@ -6686,17 +6698,6 @@
         <author>
             <name>viraelin</name>
             <uri>https://news.ycombinator.com/user?id=viraelin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由GPT-3驱动的占卜板可以移动你的鼠标]]></title>
-        <id>https://news.ycombinator.com/item?id=30962274</id>
-        <link href="https://news.ycombinator.com/item?id=30962274"/>
-        <updated>2022-04-08T20:43:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GPT-3 powered Ouija spirit board that moves your mouse]]></summary>
-        <author>
-            <name>baobabKoodaa</name>
-            <uri>https://news.ycombinator.com/user?id=baobabKoodaa</uri>
         </author>
     </entry>
 </feed>
