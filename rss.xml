@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 04 Jun 2022 05:58:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 06:51:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[创业两年多来值得分享的事情
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31617625</link>
+            <guid>https://news.ycombinator.com/item?id=31617625</guid>
+            <pubDate>Sat, 04 Jun 2022 06:32:04 GMT</pubDate>
+            <description><![CDATA[Show HN: Things worth sharing over the two years of startup]]></description>
+        </item>
         <item>
             <title><![CDATA[ModelRunner - 开源的、支持语音的数据管理平台
 ]]></title>
@@ -4281,13 +4289,6 @@
             <guid>https://news.ycombinator.com/item?id=30958949</guid>
             <pubDate>Fri, 08 Apr 2022 16:07:44 GMT</pubDate>
             <description><![CDATA[Show HN: GraphQL Server Benchmarks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个类似于CTF的平台，但有基于人工智能的交互式协助。]]></title>
-            <link>https://news.ycombinator.com/item?id=30958667</link>
-            <guid>https://news.ycombinator.com/item?id=30958667</guid>
-            <pubDate>Fri, 08 Apr 2022 15:44:20 GMT</pubDate>
-            <description><![CDATA[Show HN: A CTF like platform, but interactive with an AI-Based assistance]]></description>
         </item>
     </channel>
 </rss>

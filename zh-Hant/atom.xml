@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-04T05:58:48.492Z</updated>
+    <updated>2022-06-04T06:51:56.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[創業兩年多來值得分享的事情
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31617625</id>
+        <link href="https://news.ycombinator.com/item?id=31617625"/>
+        <updated>2022-06-04T06:32:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Things worth sharing over the two years of startup]]></summary>
+        <author>
+            <name>jjzhiyuan</name>
+            <uri>https://news.ycombinator.com/user?id=jjzhiyuan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ModelRunner - 開源的、支持語音的數據管理平臺
 ]]></title>
@@ -6677,17 +6689,6 @@
         <author>
             <name>jgillich</name>
             <uri>https://news.ycombinator.com/user?id=jgillich</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個類似於CTF的平臺，但有基於人工智能的交互式協助。]]></title>
-        <id>https://news.ycombinator.com/item?id=30958667</id>
-        <link href="https://news.ycombinator.com/item?id=30958667"/>
-        <updated>2022-04-08T15:44:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A CTF like platform, but interactive with an AI-Based assistance]]></summary>
-        <author>
-            <name>aviCC</name>
-            <uri>https://news.ycombinator.com/user?id=aviCC</uri>
         </author>
     </entry>
 </feed>
