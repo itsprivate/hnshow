@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-05T10:58:54.464Z</updated>
+    <updated>2022-06-05T11:58:06.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[對稱加密的互動教程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31630132</id>
+        <link href="https://news.ycombinator.com/item?id=31630132"/>
+        <updated>2022-06-05T11:52:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An interactive tutorial on symmetric encryption]]></summary>
+        <author>
+            <name>chkas</name>
+            <uri>https://news.ycombinator.com/user?id=chkas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Node.js模板進行領域驅動設計
 ]]></title>
@@ -6697,17 +6709,6 @@
         <author>
             <name>nikolainiklaus</name>
             <uri>https://news.ycombinator.com/user?id=nikolainiklaus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用嵌套運行程序減少GitHub的行動成本]]></title>
-        <id>https://news.ycombinator.com/item?id=30969866</id>
-        <link href="https://news.ycombinator.com/item?id=30969866"/>
-        <updated>2022-04-09T17:15:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Reduce GitHub Action costs with nested runners]]></summary>
-        <author>
-            <name>dougcalobrisi</name>
-            <uri>https://news.ycombinator.com/user?id=dougcalobrisi</uri>
         </author>
     </entry>
 </feed>
