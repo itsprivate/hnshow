@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-05T17:28:28.499Z</updated>
+    <updated>2022-06-05T17:45:15.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[与你的团队进行有趣的问答游戏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31633136</id>
+        <link href="https://news.ycombinator.com/item?id=31633136"/>
+        <updated>2022-06-05T17:38:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Have fun quiz games with your team]]></summary>
+        <author>
+            <name>moochee</name>
+            <uri>https://news.ycombinator.com/user?id=moochee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[只需两行代码就能在你的应用程序中整合计算机视觉。
 ]]></title>
@@ -6703,17 +6715,6 @@
         <author>
             <name>onurgenes</name>
             <uri>https://news.ycombinator.com/user?id=onurgenes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何将C语言编译成WASM]]></title>
-        <id>https://news.ycombinator.com/item?id=30972300</id>
-        <link href="https://news.ycombinator.com/item?id=30972300"/>
-        <updated>2022-04-09T21:35:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: How to Compile C to WASM]]></summary>
-        <author>
-            <name>ern0</name>
-            <uri>https://news.ycombinator.com/user?id=ern0</uri>
         </author>
     </entry>
 </feed>
