@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 05 Jun 2022 14:00:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 17:04:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[多人瀏覽器VS代碼
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31632621</link>
+            <guid>https://news.ycombinator.com/item?id=31632621</guid>
+            <pubDate>Sun, 05 Jun 2022 16:46:43 GMT</pubDate>
+            <description><![CDATA[Show HN: Multiplayer Browser VS Code]]></description>
+        </item>
         <item>
             <title><![CDATA[基於網絡的終端應用的蓋曼語言
 ]]></title>
@@ -4305,13 +4313,6 @@
             <guid>https://news.ycombinator.com/item?id=30971946</guid>
             <pubDate>Sat, 09 Apr 2022 20:53:46 GMT</pubDate>
             <description><![CDATA[Show HN: tmux.nvim – turning Neovim into a terminal multiplexer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在谷歌上添加班級搜索]]></title>
-            <link>https://news.ycombinator.com/item?id=30971604</link>
-            <guid>https://news.ycombinator.com/item?id=30971604</guid>
-            <pubDate>Sat, 09 Apr 2022 20:15:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Add Bang Searches to Google]]></description>
         </item>
     </channel>
 </rss>

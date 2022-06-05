@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-05T14:00:23.938Z</updated>
+    <updated>2022-06-05T17:04:31.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[多人瀏覽器VS代碼
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31632621</id>
+        <link href="https://news.ycombinator.com/item?id=31632621"/>
+        <updated>2022-06-05T16:46:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Multiplayer Browser VS Code]]></summary>
+        <author>
+            <name>behzadhaghgoo</name>
+            <uri>https://news.ycombinator.com/user?id=behzadhaghgoo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基於網絡的終端應用的蓋曼語言
 ]]></title>
@@ -6701,17 +6713,6 @@
         <author>
             <name>spywhere</name>
             <uri>https://news.ycombinator.com/user?id=spywhere</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在谷歌上添加班級搜索]]></title>
-        <id>https://news.ycombinator.com/item?id=30971604</id>
-        <link href="https://news.ycombinator.com/item?id=30971604"/>
-        <updated>2022-04-09T20:15:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Add Bang Searches to Google]]></summary>
-        <author>
-            <name>jpopesculian</name>
-            <uri>https://news.ycombinator.com/user?id=jpopesculian</uri>
         </author>
     </entry>
 </feed>
