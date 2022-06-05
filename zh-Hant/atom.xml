@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-05T13:16:07.863Z</updated>
+    <updated>2022-06-05T14:00:23.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基於網絡的終端應用的蓋曼語言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31631012</id>
+        <link href="https://news.ycombinator.com/item?id=31631012"/>
+        <updated>2022-06-05T13:53:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Gaiman language for Web-based Terminal applications]]></summary>
+        <author>
+            <name>jcubic</name>
+            <uri>https://news.ycombinator.com/user?id=jcubic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為了防止眼睛乾澀和背部疼痛，我創建了一個macOS應用程序
 ]]></title>
@@ -6700,17 +6712,6 @@
         <author>
             <name>jpopesculian</name>
             <uri>https://news.ycombinator.com/user?id=jpopesculian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開發工具箱 - 一個具有簡單的離線開發工具的瀏覽器擴展]]></title>
-        <id>https://news.ycombinator.com/item?id=30971333</id>
-        <link href="https://news.ycombinator.com/item?id=30971333"/>
-        <updated>2022-04-09T19:43:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dev Toolbox – A browser extension with simple offline dev tools]]></summary>
-        <author>
-            <name>cnanney</name>
-            <uri>https://news.ycombinator.com/user?id=cnanney</uri>
         </author>
     </entry>
 </feed>
