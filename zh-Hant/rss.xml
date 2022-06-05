@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 05 Jun 2022 19:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 21:45:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Breaktime，一個用Rust編寫的CLI應用程序（很差）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31635094</link>
+            <guid>https://news.ycombinator.com/item?id=31635094</guid>
+            <pubDate>Sun, 05 Jun 2022 21:41:40 GMT</pubDate>
+            <description><![CDATA[Show HN: Breaktime, a CLI app that's (poorly) written in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[我在UE5中實現了IP over Avian Carriers，遇到了一個里程碑。
 ]]></title>
@@ -4311,13 +4319,6 @@
             <guid>https://news.ycombinator.com/item?id=30974768</guid>
             <pubDate>Sun, 10 Apr 2022 06:01:02 GMT</pubDate>
             <description><![CDATA[Show HN: I made an emoji URL shortener]]></description>
-        </item>
-        <item>
-            <title><![CDATA[簡單的安卓應用，將Twitter URLs深度鏈接到Nitter]]></title>
-            <link>https://news.ycombinator.com/item?id=30974654</link>
-            <guid>https://news.ycombinator.com/item?id=30974654</guid>
-            <pubDate>Sun, 10 Apr 2022 05:16:25 GMT</pubDate>
-            <description><![CDATA[Show HN: Simple Android app that deep links Twitter URLs to Nitter]]></description>
         </item>
     </channel>
 </rss>
