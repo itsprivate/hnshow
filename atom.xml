@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-05T07:57:57.649Z</updated>
+    <updated>2022-06-05T10:58:54.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Node.js模板进行领域驱动设计
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31629754</id>
+        <link href="https://news.ycombinator.com/item?id=31629754"/>
+        <updated>2022-06-05T10:45:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Domain driven design with Node.js template]]></summary>
+        <author>
+            <name>revskill</name>
+            <uri>https://news.ycombinator.com/user?id=revskill</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一条内插3个点的二次方曲线
 ]]></title>
@@ -6696,17 +6708,6 @@
         <author>
             <name>dougcalobrisi</name>
             <uri>https://news.ycombinator.com/user?id=dougcalobrisi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MassCode v2 - 开发人员的代码片断管理器]]></title>
-        <id>https://news.ycombinator.com/item?id=30969650</id>
-        <link href="https://news.ycombinator.com/item?id=30969650"/>
-        <updated>2022-04-09T16:53:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: MassCode v2 – a code snippets manager for developers]]></summary>
-        <author>
-            <name>antonreshetov</name>
-            <uri>https://news.ycombinator.com/user?id=antonreshetov</uri>
         </author>
     </entry>
 </feed>
