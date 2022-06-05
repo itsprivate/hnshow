@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-05T17:04:31.619Z</updated>
+    <updated>2022-06-05T17:28:28.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[只需两行代码就能在你的应用程序中整合计算机视觉。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31632975</id>
+        <link href="https://news.ycombinator.com/item?id=31632975"/>
+        <updated>2022-06-05T17:22:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Integrate Computer-vision in your app with just 2 lines of code]]></summary>
+        <author>
+            <name>eagledotRL</name>
+            <uri>https://news.ycombinator.com/user?id=eagledotRL</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多人浏览器VS代码
 ]]></title>
@@ -6702,17 +6714,6 @@
         <author>
             <name>ern0</name>
             <uri>https://news.ycombinator.com/user?id=ern0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tmux.nvim - 将Neovim变成一个终端复用器]]></title>
-        <id>https://news.ycombinator.com/item?id=30971946</id>
-        <link href="https://news.ycombinator.com/item?id=30971946"/>
-        <updated>2022-04-09T20:53:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: tmux.nvim – turning Neovim into a terminal multiplexer]]></summary>
-        <author>
-            <name>spywhere</name>
-            <uri>https://news.ycombinator.com/user?id=spywhere</uri>
         </author>
     </entry>
 </feed>
