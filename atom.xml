@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-05T03:58:04.422Z</updated>
+    <updated>2022-06-05T07:25:50.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[触摸屏幕边缘时向KVM/HDMI矩阵设备发送命令
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628709</id>
+        <link href="https://news.ycombinator.com/item?id=31628709"/>
+        <updated>2022-06-05T07:03:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Send commands to KVM/HDMI matrix devices when touching screen edge]]></summary>
+        <author>
+            <name>tim--</name>
+            <uri>https://news.ycombinator.com/user?id=tim--</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[所有日本PS1游戏机修订版的第一个软模
 ]]></title>
@@ -6693,17 +6705,6 @@
         <author>
             <name>michalc</name>
             <uri>https://news.ycombinator.com/user?id=michalc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anno - 毫不费力地对视频/音频进行注释和评论]]></title>
-        <id>https://news.ycombinator.com/item?id=30968391</id>
-        <link href="https://news.ycombinator.com/item?id=30968391"/>
-        <updated>2022-04-09T14:36:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Anno – Effortlessly annotate and comment on videos/audio]]></summary>
-        <author>
-            <name>zackoverflow</name>
-            <uri>https://news.ycombinator.com/user?id=zackoverflow</uri>
         </author>
     </entry>
 </feed>
