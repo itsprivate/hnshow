@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-05T19:26:51.727Z</updated>
+    <updated>2022-06-05T19:42:57.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在UE5中實現了IP over Avian Carriers，遇到了一個里程碑。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31634093</id>
+        <link href="https://news.ycombinator.com/item?id=31634093"/>
+        <updated>2022-06-05T19:29:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I'm implementing IP over Avian Carriers in UE5 and hit a milestone]]></summary>
+        <author>
+            <name>TokuTaken</name>
+            <uri>https://news.ycombinator.com/user?id=TokuTaken</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Worble，一個文字遊戲
 ]]></title>
@@ -6706,17 +6718,6 @@
         <author>
             <name>WiggleGuy</name>
             <uri>https://news.ycombinator.com/user?id=WiggleGuy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於實用深度學習的新課程]]></title>
-        <id>https://news.ycombinator.com/item?id=30973875</id>
-        <link href="https://news.ycombinator.com/item?id=30973875"/>
-        <updated>2022-04-10T02:09:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: New course on practical deep learning]]></summary>
-        <author>
-            <name>amaas</name>
-            <uri>https://news.ycombinator.com/user?id=amaas</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 05 Jun 2022 19:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 19:42:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在UE5中实现了IP over Avian Carriers，遇到了一个里程碑。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31634093</link>
+            <guid>https://news.ycombinator.com/item?id=31634093</guid>
+            <pubDate>Sun, 05 Jun 2022 19:29:49 GMT</pubDate>
+            <description><![CDATA[Show HN: I'm implementing IP over Avian Carriers in UE5 and hit a milestone]]></description>
+        </item>
         <item>
             <title><![CDATA[Worble，一个文字游戏
 ]]></title>
@@ -4310,13 +4318,6 @@
             <guid>https://news.ycombinator.com/item?id=30974654</guid>
             <pubDate>Sun, 10 Apr 2022 05:16:25 GMT</pubDate>
             <description><![CDATA[Show HN: Simple Android app that deep links Twitter URLs to Nitter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于实用深度学习的新课程]]></title>
-            <link>https://news.ycombinator.com/item?id=30973875</link>
-            <guid>https://news.ycombinator.com/item?id=30973875</guid>
-            <pubDate>Sun, 10 Apr 2022 02:09:29 GMT</pubDate>
-            <description><![CDATA[Show HN: New course on practical deep learning]]></description>
         </item>
     </channel>
 </rss>
