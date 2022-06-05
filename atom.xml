@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-05T18:33:26.231Z</updated>
+    <updated>2022-06-05T19:26:51.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Worble，一个文字游戏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31633995</id>
+        <link href="https://news.ycombinator.com/item?id=31633995"/>
+        <updated>2022-06-05T19:18:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Worble, a Word Game]]></summary>
+        <author>
+            <name>rgbrgb</name>
+            <uri>https://news.ycombinator.com/user?id=rgbrgb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对百年前的火灾保险地图进行地理参照
 ]]></title>
@@ -6705,17 +6717,6 @@
         <author>
             <name>amaas</name>
             <uri>https://news.ycombinator.com/user?id=amaas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mailbiter - 一个轻量级的电子邮件规则引擎]]></title>
-        <id>https://news.ycombinator.com/item?id=30973699</id>
-        <link href="https://news.ycombinator.com/item?id=30973699"/>
-        <updated>2022-04-10T01:28:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mailbiter – a lightweight email rules engine]]></summary>
-        <author>
-            <name>cyansmoker</name>
-            <uri>https://news.ycombinator.com/user?id=cyansmoker</uri>
         </author>
     </entry>
 </feed>
