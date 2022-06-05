@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-05T07:25:50.276Z</updated>
+    <updated>2022-06-05T07:57:57.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一條內插3個點的二次方曲線
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628899</id>
+        <link href="https://news.ycombinator.com/item?id=31628899"/>
+        <updated>2022-06-05T07:53:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A quadratic curve interpolating 3 points]]></summary>
+        <author>
+            <name>martyalain</name>
+            <uri>https://news.ycombinator.com/user?id=martyalain</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尼克斯發展框架(Nim)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31628895</id>
+        <link href="https://news.ycombinator.com/item?id=31628895"/>
+        <updated>2022-06-05T07:52:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Nexus Development Framework (Nim)]]></summary>
+        <author>
+            <name>jasfi</name>
+            <uri>https://news.ycombinator.com/user?id=jasfi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[觸摸屏幕邊緣時向KVM/HDMI矩陣設備發送命令
 ]]></title>
@@ -6683,28 +6707,6 @@
         <author>
             <name>antonreshetov</name>
             <uri>https://news.ycombinator.com/user?id=antonreshetov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOLO v4 Tiny with Tensil on Ultra96 FPGA Board]]></title>
-        <id>https://news.ycombinator.com/item?id=30969598</id>
-        <link href="https://news.ycombinator.com/item?id=30969598"/>
-        <updated>2022-04-09T16:47:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: YOLO v4 Tiny with Tensil on Ultra96 FPGA Board]]></summary>
-        <author>
-            <name>petrohi</name>
-            <uri>https://news.ycombinator.com/user?id=petrohi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StreamPQ - 在Python中流式傳輸PostgreSQL查詢結果，無需遊標]]></title>
-        <id>https://news.ycombinator.com/item?id=30968425</id>
-        <link href="https://news.ycombinator.com/item?id=30968425"/>
-        <updated>2022-04-09T14:39:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: StreamPQ – Stream PostgreSQL query results in Python without a cursor]]></summary>
-        <author>
-            <name>michalc</name>
-            <uri>https://news.ycombinator.com/user?id=michalc</uri>
         </author>
     </entry>
 </feed>
