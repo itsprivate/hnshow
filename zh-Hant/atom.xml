@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-05T02:25:39.356Z</updated>
+    <updated>2022-06-05T03:58:04.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[所有日本PS1遊戲機修訂版的第一個軟模
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31627749</id>
+        <link href="https://news.ycombinator.com/item?id=31627749"/>
+        <updated>2022-06-05T03:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The First Softmod for All Japanese PS1 Console Revisions]]></summary>
+        <author>
+            <name>alex_free</name>
+            <uri>https://news.ycombinator.com/user?id=alex_free</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SSH Now - 一個進入任何機器的終端
 ]]></title>
@@ -6692,17 +6704,6 @@
         <author>
             <name>zackoverflow</name>
             <uri>https://news.ycombinator.com/user?id=zackoverflow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個在線文本編輯器（尋找反饋）。]]></title>
-        <id>https://news.ycombinator.com/item?id=30968373</id>
-        <link href="https://news.ycombinator.com/item?id=30968373"/>
-        <updated>2022-04-09T14:33:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made an online text editor (looking for feedback)]]></summary>
-        <author>
-            <name>rahulbstomar</name>
-            <uri>https://news.ycombinator.com/user?id=rahulbstomar</uri>
         </author>
     </entry>
 </feed>
