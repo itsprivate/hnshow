@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-05T11:58:06.650Z</updated>
+    <updated>2022-06-05T13:16:07.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为了防止眼睛干涩和背部疼痛，我创建了一个macOS应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31630610</id>
+        <link href="https://news.ycombinator.com/item?id=31630610"/>
+        <updated>2022-06-05T13:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: To prevent dry eyes and back pain, I create a macOS app]]></summary>
+        <author>
+            <name>cswenshuo</name>
+            <uri>https://news.ycombinator.com/user?id=cswenshuo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打击新闻操纵的新方法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31630604</id>
+        <link href="https://news.ycombinator.com/item?id=31630604"/>
+        <updated>2022-06-05T13:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A new way to fight manipulation in news]]></summary>
+        <author>
+            <name>stevepeg</name>
+            <uri>https://news.ycombinator.com/user?id=stevepeg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对称加密的互动教程
 ]]></title>
@@ -6687,28 +6711,6 @@
         <author>
             <name>cnanney</name>
             <uri>https://news.ycombinator.com/user?id=cnanney</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我为你做了一个网站，以第一人称POV的方式环游世界]]></title>
-        <id>https://news.ycombinator.com/item?id=30970911</id>
-        <link href="https://news.ycombinator.com/item?id=30970911"/>
-        <updated>2022-04-09T18:58:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a website for you to travel the world in first-person POV]]></summary>
-        <author>
-            <name>eddieweng</name>
-            <uri>https://news.ycombinator.com/user?id=eddieweng</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这就像鲨鱼坦克，但对我们其他人来说，这就是鲨鱼坦克。]]></title>
-        <id>https://news.ycombinator.com/item?id=30969960</id>
-        <link href="https://news.ycombinator.com/item?id=30969960"/>
-        <updated>2022-04-09T17:23:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: It's like Sharktank, but for the rest of us]]></summary>
-        <author>
-            <name>nikolainiklaus</name>
-            <uri>https://news.ycombinator.com/user?id=nikolainiklaus</uri>
         </author>
     </entry>
 </feed>
