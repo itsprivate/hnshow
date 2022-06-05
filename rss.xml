@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 05 Jun 2022 21:45:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 23:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[点击 - 管理和执行HTTP请求的CLI
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31635712</link>
+            <guid>https://news.ycombinator.com/item?id=31635712</guid>
+            <pubDate>Sun, 05 Jun 2022 23:12:49 GMT</pubDate>
+            <description><![CDATA[Show HN: Hit – CLI to manage and execute HTTP requsts]]></description>
+        </item>
         <item>
             <title><![CDATA[Breaktime，一个用Rust编写的CLI应用程序（很差）。
 ]]></title>
@@ -4312,13 +4320,6 @@
             <guid>https://news.ycombinator.com/item?id=30975056</guid>
             <pubDate>Sun, 10 Apr 2022 07:14:16 GMT</pubDate>
             <description><![CDATA[Show HN: Sync animations and timers across a react app]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个表情符号URL缩短器]]></title>
-            <link>https://news.ycombinator.com/item?id=30974768</link>
-            <guid>https://news.ycombinator.com/item?id=30974768</guid>
-            <pubDate>Sun, 10 Apr 2022 06:01:02 GMT</pubDate>
-            <description><![CDATA[Show HN: I made an emoji URL shortener]]></description>
         </item>
     </channel>
 </rss>

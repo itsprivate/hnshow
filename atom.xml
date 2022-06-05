@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-05T21:45:32.260Z</updated>
+    <updated>2022-06-05T23:27:41.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[点击 - 管理和执行HTTP请求的CLI
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31635712</id>
+        <link href="https://news.ycombinator.com/item?id=31635712"/>
+        <updated>2022-06-05T23:12:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hit – CLI to manage and execute HTTP requsts]]></summary>
+        <author>
+            <name>hbagdi</name>
+            <uri>https://news.ycombinator.com/user?id=hbagdi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Breaktime，一个用Rust编写的CLI应用程序（很差）。
 ]]></title>
@@ -6708,17 +6720,6 @@
         <author>
             <name>peterjuras</name>
             <uri>https://news.ycombinator.com/user?id=peterjuras</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个表情符号URL缩短器]]></title>
-        <id>https://news.ycombinator.com/item?id=30974768</id>
-        <link href="https://news.ycombinator.com/item?id=30974768"/>
-        <updated>2022-04-10T06:01:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made an emoji URL shortener]]></summary>
-        <author>
-            <name>sekun</name>
-            <uri>https://news.ycombinator.com/user?id=sekun</uri>
         </author>
     </entry>
 </feed>
