@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-04T23:44:51.036Z</updated>
+    <updated>2022-06-05T02:25:39.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SSH Now - 一個進入任何機器的終端
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31627067</id>
+        <link href="https://news.ycombinator.com/item?id=31627067"/>
+        <updated>2022-06-05T01:37:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SSH Now – a terminal into any machine]]></summary>
+        <author>
+            <name>janpaul123</name>
+            <uri>https://news.ycombinator.com/user?id=janpaul123</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grid.js - 在任何地方都能使用的高級表格庫(2020)
 ]]></title>
@@ -6691,17 +6703,6 @@
         <author>
             <name>rahulbstomar</name>
             <uri>https://news.ycombinator.com/user?id=rahulbstomar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在谷歌表格單元中拖放文件的簡單方法]]></title>
-        <id>https://news.ycombinator.com/item?id=30968091</id>
-        <link href="https://news.ycombinator.com/item?id=30968091"/>
-        <updated>2022-04-09T13:55:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An easy way to drag and drop files in Google Sheets cells]]></summary>
-        <author>
-            <name>alexandru84</name>
-            <uri>https://news.ycombinator.com/user?id=alexandru84</uri>
         </author>
     </entry>
 </feed>
