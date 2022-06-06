@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-06T20:48:57.121Z</updated>
+    <updated>2022-06-06T21:26:05.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[带有FFI的Rust Lisp解释器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31646285</id>
+        <link href="https://news.ycombinator.com/item?id=31646285"/>
+        <updated>2022-06-06T21:08:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Rust Lisp Interpreter with FFI]]></summary>
+        <author>
+            <name>brundolf</name>
+            <uri>https://news.ycombinator.com/user?id=brundolf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ScrapeMagic API - 使用GPT3的自然语言进行搜刮
 ]]></title>
@@ -6726,17 +6738,6 @@
         <author>
             <name>mactunes</name>
             <uri>https://news.ycombinator.com/user?id=mactunes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个基于信任-DNS的挖掘替代方案]]></title>
-        <id>https://news.ycombinator.com/item?id=30980679</id>
-        <link href="https://news.ycombinator.com/item?id=30980679"/>
-        <updated>2022-04-10T19:19:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Trust-DNS based dig alternative]]></summary>
-        <author>
-            <name>bluejekyll</name>
-            <uri>https://news.ycombinator.com/user?id=bluejekyll</uri>
         </author>
     </entry>
 </feed>
