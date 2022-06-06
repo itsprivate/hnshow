@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-06T13:55:45.509Z</updated>
+    <updated>2022-06-06T14:46:03.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Python中的神奇函数
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31641013</id>
+        <link href="https://news.ycombinator.com/item?id=31641013"/>
+        <updated>2022-06-06T14:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Magic Functions in Python]]></summary>
+        <author>
+            <name>dbieber</name>
+            <uri>https://news.ycombinator.com/user?id=dbieber</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WunderGraph - 开源的API开发者工具包
 ]]></title>
@@ -6717,17 +6729,6 @@
         <author>
             <name>TanelSar</name>
             <uri>https://news.ycombinator.com/user?id=TanelSar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何起草鼓舞人心的演讲稿课程--向伟大人物学习]]></title>
-        <id>https://news.ycombinator.com/item?id=30978736</id>
-        <link href="https://news.ycombinator.com/item?id=30978736"/>
-        <updated>2022-04-10T16:35:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: How to Craft Inspiring Speeches Course – Learning from the Greats]]></summary>
-        <author>
-            <name>SuDa2103</name>
-            <uri>https://news.ycombinator.com/user?id=SuDa2103</uri>
         </author>
     </entry>
 </feed>
