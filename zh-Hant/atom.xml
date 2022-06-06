@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-06T06:34:00.904Z</updated>
+    <updated>2022-06-06T06:58:08.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Arttime v1.3.0增加了交互式時區選擇器，更多內容即將推出
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31637781</id>
+        <link href="https://news.ycombinator.com/item?id=31637781"/>
+        <updated>2022-06-06T06:34:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Arttime v1.3.0 adds interactive timezone selector, more to come]]></summary>
+        <author>
+            <name>reportaman</name>
+            <uri>https://news.ycombinator.com/user?id=reportaman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EzInvoice Lite
 ]]></title>
@@ -6713,17 +6725,6 @@
         <author>
             <name>hardwaresofton</name>
             <uri>https://news.ycombinator.com/user?id=hardwaresofton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個地方來探索許多平臺上發佈的所有產品]]></title>
-        <id>https://news.ycombinator.com/item?id=30976771</id>
-        <link href="https://news.ycombinator.com/item?id=30976771"/>
-        <updated>2022-04-10T13:27:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made one place to explore all products posted on many platform]]></summary>
-        <author>
-            <name>TheOmkarBirje</name>
-            <uri>https://news.ycombinator.com/user?id=TheOmkarBirje</uri>
         </author>
     </entry>
 </feed>
