@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-06T14:46:03.810Z</updated>
+    <updated>2022-06-06T15:35:30.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Dns.Toys
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31641306</id>
+        <link href="https://news.ycombinator.com/item?id=31641306"/>
+        <updated>2022-06-06T14:57:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dns.toys]]></summary>
+        <author>
+            <name>knadh</name>
+            <uri>https://news.ycombinator.com/user?id=knadh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python中的神奇函数
 ]]></title>
@@ -6718,17 +6730,6 @@
         <author>
             <name>boredumb</name>
             <uri>https://news.ycombinator.com/user?id=boredumb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubis - 在云端轻松训练机器学习模型]]></title>
-        <id>https://news.ycombinator.com/item?id=30979472</id>
-        <link href="https://news.ycombinator.com/item?id=30979472"/>
-        <updated>2022-04-10T17:36:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Kubis – Effortlessly train machine learning models in the cloud]]></summary>
-        <author>
-            <name>TanelSar</name>
-            <uri>https://news.ycombinator.com/user?id=TanelSar</uri>
         </author>
     </entry>
 </feed>
