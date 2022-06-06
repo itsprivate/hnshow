@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-06T06:58:07.940Z</updated>
+    <updated>2022-06-06T11:01:25.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[微型LZMA解码器(X86汇编代码高尔夫)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31638552</id>
+        <link href="https://news.ycombinator.com/item?id=31638552"/>
+        <updated>2022-06-06T09:27:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Micro LZMA decoder (x86 assembly code golf)]]></summary>
+        <author>
+            <name>jpegqs</name>
+            <uri>https://news.ycombinator.com/user?id=jpegqs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用一个补丁修复Chrome的字体渲染伽马问题
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31638542</id>
+        <link href="https://news.ycombinator.com/item?id=31638542"/>
+        <updated>2022-06-06T09:25:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fix Chrome's font rendering gamma issue with a single patch]]></summary>
+        <author>
+            <name>Shadonototra</name>
+            <uri>https://news.ycombinator.com/user?id=Shadonototra</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arttime v1.3.0增加了交互式时区选择器，更多内容即将推出
 ]]></title>
@@ -6703,28 +6727,6 @@
         <author>
             <name>oaknutspiano</name>
             <uri>https://news.ycombinator.com/user?id=oaknutspiano</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mindboo - 为你的思想提供发展、聊天、游戏和联系的空间]]></title>
-        <id>https://news.ycombinator.com/item?id=30977131</id>
-        <link href="https://news.ycombinator.com/item?id=30977131"/>
-        <updated>2022-04-10T14:22:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mindboo – Spaces for your mind to develop, chat, play, and connect]]></summary>
-        <author>
-            <name>mosty</name>
-            <uri>https://news.ycombinator.com/user?id=mosty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享笔记、链接和需要验证才能打开的文件]]></title>
-        <id>https://news.ycombinator.com/item?id=30977067</id>
-        <link href="https://news.ycombinator.com/item?id=30977067"/>
-        <updated>2022-04-10T14:15:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Share notes, links, and files that require verification to open]]></summary>
-        <author>
-            <name>hardwaresofton</name>
-            <uri>https://news.ycombinator.com/user?id=hardwaresofton</uri>
         </author>
     </entry>
 </feed>
