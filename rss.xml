@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 06 Jun 2022 17:59:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 18:45:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[ZetaMerge - 用于将Google Sheet数据合并到Google Docs的新插件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31643624</link>
+            <guid>https://news.ycombinator.com/item?id=31643624</guid>
+            <pubDate>Mon, 06 Jun 2022 18:00:46 GMT</pubDate>
+            <description><![CDATA[Show HN: ZetaMerge – New add-on for merging Google Sheet data into Google Docs]]></description>
+        </item>
         <item>
             <title><![CDATA[Chesskool - 国际象棋改进平台
 ]]></title>
@@ -4328,13 +4336,6 @@
             <guid>https://news.ycombinator.com/item?id=30980664</guid>
             <pubDate>Sun, 10 Apr 2022 19:17:35 GMT</pubDate>
             <description><![CDATA[Show HN: Cannabis Irrigation Automation Tool Built in Svelte]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Rust编写的超快速Terraform计划和状态解析器]]></title>
-            <link>https://news.ycombinator.com/item?id=30980599</link>
-            <guid>https://news.ycombinator.com/item?id=30980599</guid>
-            <pubDate>Sun, 10 Apr 2022 19:11:16 GMT</pubDate>
-            <description><![CDATA[Show HN: Ultra fast Terraform plan and state parser written in Rust]]></description>
         </item>
     </channel>
 </rss>
