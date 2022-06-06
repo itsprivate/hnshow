@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-06T16:50:27.435Z</updated>
+    <updated>2022-06-06T17:19:25.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[looqs - 帶預覽的FTS桌面文件搜索
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31642999</id>
+        <link href="https://news.ycombinator.com/item?id=31642999"/>
+        <updated>2022-06-06T17:06:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: looqs – FTS desktop file search with previews]]></summary>
+        <author>
+            <name>crtxcr</name>
+            <uri>https://news.ycombinator.com/user?id=crtxcr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沒有B計劃--戰術計劃遊戲(+免費演示)
 ]]></title>
@@ -6722,17 +6734,6 @@
         <author>
             <name>getajobinx</name>
             <uri>https://news.ycombinator.com/user?id=getajobinx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大腦，一個用於創建zettelkasten的命令行記事工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30980407</id>
-        <link href="https://news.ycombinator.com/item?id=30980407"/>
-        <updated>2022-04-10T18:52:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Brain, a commandline note-taking tool for creating a zettelkasten]]></summary>
-        <author>
-            <name>rob-lag</name>
-            <uri>https://news.ycombinator.com/user?id=rob-lag</uri>
         </author>
     </entry>
 </feed>
