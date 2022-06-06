@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-06T18:45:28.759Z</updated>
+    <updated>2022-06-06T20:48:57.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ScrapeMagic API - 使用GPT3的自然语言进行搜刮
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31645777</id>
+        <link href="https://news.ycombinator.com/item?id=31645777"/>
+        <updated>2022-06-06T20:28:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ScrapeMagic API – Scraping with Natural Language Using GPT3]]></summary>
+        <author>
+            <name>nicoslepicos</name>
+            <uri>https://news.ycombinator.com/user?id=nicoslepicos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZetaMerge - 用于将Google Sheet数据合并到Google Docs的新插件
 ]]></title>
@@ -6725,17 +6737,6 @@
         <author>
             <name>bluejekyll</name>
             <uri>https://news.ycombinator.com/user?id=bluejekyll</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[内置在Svelte中的大麻灌溉自动化工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30980664</id>
-        <link href="https://news.ycombinator.com/item?id=30980664"/>
-        <updated>2022-04-10T19:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cannabis Irrigation Automation Tool Built in Svelte]]></summary>
-        <author>
-            <name>whiddershins</name>
-            <uri>https://news.ycombinator.com/user?id=whiddershins</uri>
         </author>
     </entry>
 </feed>
