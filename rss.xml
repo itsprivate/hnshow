@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 05 Jun 2022 23:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 02:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[立体摄像机的端到端3D手部姿势估计
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31636401</link>
+            <guid>https://news.ycombinator.com/item?id=31636401</guid>
+            <pubDate>Mon, 06 Jun 2022 01:07:13 GMT</pubDate>
+            <description><![CDATA[Show HN: End-to-End 3D Hand Pose Estimation from Stereo Cameras]]></description>
+        </item>
         <item>
             <title><![CDATA[点击 - 管理和执行HTTP请求的CLI
 ]]></title>
@@ -4313,13 +4321,6 @@
             <guid>https://news.ycombinator.com/item?id=30976380</guid>
             <pubDate>Sun, 10 Apr 2022 12:19:14 GMT</pubDate>
             <description><![CDATA[Show HN: CodeViz – OSS for source code stats w. interactive charts in VS Code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在一个react应用中同步动画和定时器]]></title>
-            <link>https://news.ycombinator.com/item?id=30975056</link>
-            <guid>https://news.ycombinator.com/item?id=30975056</guid>
-            <pubDate>Sun, 10 Apr 2022 07:14:16 GMT</pubDate>
-            <description><![CDATA[Show HN: Sync animations and timers across a react app]]></description>
         </item>
     </channel>
 </rss>

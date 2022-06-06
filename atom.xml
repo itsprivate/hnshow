@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-05T23:27:41.414Z</updated>
+    <updated>2022-06-06T02:20:56.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[立体摄像机的端到端3D手部姿势估计
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31636401</id>
+        <link href="https://news.ycombinator.com/item?id=31636401"/>
+        <updated>2022-06-06T01:07:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: End-to-End 3D Hand Pose Estimation from Stereo Cameras]]></summary>
+        <author>
+            <name>upwardbound</name>
+            <uri>https://news.ycombinator.com/user?id=upwardbound</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[点击 - 管理和执行HTTP请求的CLI
 ]]></title>
@@ -6709,17 +6721,6 @@
         <author>
             <name>vidipeti</name>
             <uri>https://news.ycombinator.com/user?id=vidipeti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在一个react应用中同步动画和定时器]]></title>
-        <id>https://news.ycombinator.com/item?id=30975056</id>
-        <link href="https://news.ycombinator.com/item?id=30975056"/>
-        <updated>2022-04-10T07:14:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Sync animations and timers across a react app]]></summary>
-        <author>
-            <name>peterjuras</name>
-            <uri>https://news.ycombinator.com/user?id=peterjuras</uri>
         </author>
     </entry>
 </feed>
