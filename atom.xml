@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-06T21:26:05.281Z</updated>
+    <updated>2022-06-06T21:47:58.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[EzInvoice Lite
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31646466</id>
+        <link href="https://news.ycombinator.com/item?id=31646466"/>
+        <updated>2022-06-06T21:22:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: EzInvoice Lite]]></summary>
+        <author>
+            <name>oblib</name>
+            <uri>https://news.ycombinator.com/user?id=oblib</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[带有FFI的Rust Lisp解释器
 ]]></title>
@@ -6727,17 +6739,6 @@
         <author>
             <name>xcodebuild</name>
             <uri>https://news.ycombinator.com/user?id=xcodebuild</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS版Caloree首次测试]]></title>
-        <id>https://news.ycombinator.com/item?id=30981995</id>
-        <link href="https://news.ycombinator.com/item?id=30981995"/>
-        <updated>2022-04-10T21:40:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Caloree for iOS First Beta]]></summary>
-        <author>
-            <name>mactunes</name>
-            <uri>https://news.ycombinator.com/user?id=mactunes</uri>
         </author>
     </entry>
 </feed>
