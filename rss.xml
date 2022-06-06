@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 06 Jun 2022 17:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 17:59:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Chesskool - 国际象棋改进平台
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31643432</link>
+            <guid>https://news.ycombinator.com/item?id=31643432</guid>
+            <pubDate>Mon, 06 Jun 2022 17:45:18 GMT</pubDate>
+            <description><![CDATA[Show HN: Chesskool – Platform for Chess Improvement]]></description>
+        </item>
         <item>
             <title><![CDATA[looqs - 带预览的FTS桌面文件搜索
 ]]></title>
@@ -4327,13 +4335,6 @@
             <guid>https://news.ycombinator.com/item?id=30980599</guid>
             <pubDate>Sun, 10 Apr 2022 19:11:16 GMT</pubDate>
             <description><![CDATA[Show HN: Ultra fast Terraform plan and state parser written in Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[后台开发工作、面试和经验]]></title>
-            <link>https://news.ycombinator.com/item?id=30980528</link>
-            <guid>https://news.ycombinator.com/item?id=30980528</guid>
-            <pubDate>Sun, 10 Apr 2022 19:04:25 GMT</pubDate>
-            <description><![CDATA[Show HN: Backend Development Jobs, Interviews and Experience]]></description>
         </item>
     </channel>
 </rss>
