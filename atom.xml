@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-06T11:09:15.172Z</updated>
+    <updated>2022-06-06T13:55:45.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WunderGraph - 开源的API开发者工具包
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31639879</id>
+        <link href="https://news.ycombinator.com/item?id=31639879"/>
+        <updated>2022-06-06T12:59:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WunderGraph – open-source API Developer Toolkit]]></summary>
+        <author>
+            <name>jensneuse</name>
+            <uri>https://news.ycombinator.com/user?id=jensneuse</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微型LZMA解码器(X86汇编代码高尔夫)
 ]]></title>
@@ -6716,17 +6728,6 @@
         <author>
             <name>SuDa2103</name>
             <uri>https://news.ycombinator.com/user?id=SuDa2103</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rubbrband，一个为音乐家设计的跟踪动态的应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30977329</id>
-        <link href="https://news.ycombinator.com/item?id=30977329"/>
-        <updated>2022-04-10T14:46:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rubbrband, an app for musicians that tracks dynamics]]></summary>
-        <author>
-            <name>oaknutspiano</name>
-            <uri>https://news.ycombinator.com/user?id=oaknutspiano</uri>
         </author>
     </entry>
 </feed>
