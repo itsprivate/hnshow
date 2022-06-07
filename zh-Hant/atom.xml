@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-07T06:35:43.161Z</updated>
+    <updated>2022-06-07T08:38:57.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[檢查你的需求和與之匹配的最佳產品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31651357</id>
+        <link href="https://news.ycombinator.com/item?id=31651357"/>
+        <updated>2022-06-07T08:31:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Check your needs and the best product to match it]]></summary>
+        <author>
+            <name>kronop</name>
+            <uri>https://news.ycombinator.com/user?id=kronop</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notik - 一種管理項目的新方法
 ]]></title>
@@ -6733,17 +6745,6 @@
         <author>
             <name>jawerty</name>
             <uri>https://news.ycombinator.com/user?id=jawerty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客新聞的CSS樣式修復]]></title>
-        <id>https://news.ycombinator.com/item?id=30986252</id>
-        <link href="https://news.ycombinator.com/item?id=30986252"/>
-        <updated>2022-04-11T08:52:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hacker News CSS Style Fix]]></summary>
-        <author>
-            <name>lcnmrn</name>
-            <uri>https://news.ycombinator.com/user?id=lcnmrn</uri>
         </author>
     </entry>
 </feed>
