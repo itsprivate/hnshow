@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-07T13:01:35.153Z</updated>
+    <updated>2022-06-07T13:51:17.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[公司财务数据（10年），免费并可下载
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31654085</id>
+        <link href="https://news.ycombinator.com/item?id=31654085"/>
+        <updated>2022-06-07T13:36:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Company Financials data (10yr), free and downloadable]]></summary>
+        <author>
+            <name>spxdcz</name>
+            <uri>https://news.ycombinator.com/user?id=spxdcz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boot.dev - 学习计算机科学，而不是学习最新的热门事物
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31653478</id>
+        <link href="https://news.ycombinator.com/item?id=31653478"/>
+        <updated>2022-06-07T12:51:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Boot.dev – Learn computer science, not the latest hotness]]></summary>
+        <author>
+            <name>wagslane</name>
+            <uri>https://news.ycombinator.com/user?id=wagslane</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[批量调整你的图像大小
 ]]></title>
@@ -6731,28 +6755,6 @@
         <author>
             <name>ern0</name>
             <uri>https://news.ycombinator.com/user?id=ern0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过网络扩展为黑客新闻提供黑暗模式]]></title>
-        <id>https://news.ycombinator.com/item?id=30990344</id>
-        <link href="https://news.ycombinator.com/item?id=30990344"/>
-        <updated>2022-04-11T15:43:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dark mode for Hacker News via web extension]]></summary>
-        <author>
-            <name>johnthuss</name>
-            <uri>https://news.ycombinator.com/user?id=johnthuss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于在TikTok上创建和运行竞赛的网络应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=30989066</id>
-        <link href="https://news.ycombinator.com/item?id=30989066"/>
-        <updated>2022-04-11T14:18:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Web app for creating and running contests on TikTok]]></summary>
-        <author>
-            <name>rscm17</name>
-            <uri>https://news.ycombinator.com/user?id=rscm17</uri>
         </author>
     </entry>
 </feed>
