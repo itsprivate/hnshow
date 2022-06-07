@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 07 Jun 2022 14:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 17:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,62 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Mathzetta - 用JavaScript將數學轉換為LaTeX
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31656982</link>
+            <guid>https://news.ycombinator.com/item?id=31656982</guid>
+            <pubDate>Tue, 07 Jun 2022 16:44:58 GMT</pubDate>
+            <description><![CDATA[Show HN: Mathzetta – Convert Math to LaTeX with JavaScript]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Chaingrep - 上下文的鏈上數據API
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31656924</link>
+            <guid>https://news.ycombinator.com/item?id=31656924</guid>
+            <pubDate>Tue, 07 Jun 2022 16:41:08 GMT</pubDate>
+            <description><![CDATA[Show HN: Chaingrep – Contextual on-chain data API]]></description>
+        </item>
+        <item>
+            <title><![CDATA[間隔，瀏覽器中的CLI，沒有前端代碼
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31656496</link>
+            <guid>https://news.ycombinator.com/item?id=31656496</guid>
+            <pubDate>Tue, 07 Jun 2022 16:14:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Interval, CLIs in browser with no front end code]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Tensu - 用於Sensu Go的TUI儀表板
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31656245</link>
+            <guid>https://news.ycombinator.com/item?id=31656245</guid>
+            <pubDate>Tue, 07 Jun 2022 15:59:38 GMT</pubDate>
+            <description><![CDATA[Show HN: Tensu – A TUI Dashboard for Sensu Go]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Harmonic，Android的HN客戶端
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31656007</link>
+            <guid>https://news.ycombinator.com/item?id=31656007</guid>
+            <pubDate>Tue, 07 Jun 2022 15:44:21 GMT</pubDate>
+            <description><![CDATA[Show HN: Harmonic, HN Client for Android]]></description>
+        </item>
+        <item>
+            <title><![CDATA[召回 - 您的個人百科全書
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31655676</link>
+            <guid>https://news.ycombinator.com/item?id=31655676</guid>
+            <pubDate>Tue, 07 Jun 2022 15:20:48 GMT</pubDate>
+            <description><![CDATA[Show HN: Recall – Your Personal Encyclopedia]]></description>
+        </item>
+        <item>
+            <title><![CDATA[比特幣票據--安全、自我監護的現金形式的比特幣錢包
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31653726</link>
+            <guid>https://news.ycombinator.com/item?id=31653726</guid>
+            <pubDate>Tue, 07 Jun 2022 13:11:51 GMT</pubDate>
+            <description><![CDATA[Show HN: The Bitcoin Note – Secure, Self-Custodial Bitcoin Wallets in Cash Form]]></description>
+        </item>
         <item>
             <title><![CDATA[SetOps - 在你自己的AWS賬戶中運行容器、數據庫和更多東西
 ]]></title>
@@ -4307,55 +4363,6 @@
             <guid>https://news.ycombinator.com/item?id=30988226</guid>
             <pubDate>Mon, 11 Apr 2022 13:17:33 GMT</pubDate>
             <description><![CDATA[Show HN: I made an API to calculate to carbon footprint of any journey]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ANECompat，評估CoreML模型與蘋果神經引擎的兼容性]]></title>
-            <link>https://news.ycombinator.com/item?id=30992872</link>
-            <guid>https://news.ycombinator.com/item?id=30992872</guid>
-            <pubDate>Mon, 11 Apr 2022 18:40:26 GMT</pubDate>
-            <description><![CDATA[Show HN: ANECompat, evaluate CoreML model compatibility with Apple Neural Engine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Elixir構建的多人遊戲演示]]></title>
-            <link>https://news.ycombinator.com/item?id=30992587</link>
-            <guid>https://news.ycombinator.com/item?id=30992587</guid>
-            <pubDate>Mon, 11 Apr 2022 18:15:06 GMT</pubDate>
-            <description><![CDATA[Show HN: Multiplayer Demo Built with Elixir]]></description>
-        </item>
-        <item>
-            <title><![CDATA[想為氣候變化做點什麼的開發者的工作機會]]></title>
-            <link>https://news.ycombinator.com/item?id=30992518</link>
-            <guid>https://news.ycombinator.com/item?id=30992518</guid>
-            <pubDate>Mon, 11 Apr 2022 18:03:45 GMT</pubDate>
-            <description><![CDATA[Show HN: Jobs for devs who want to do something about climate change]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Crunchbase的REST API的一個Python客戶端。]]></title>
-            <link>https://news.ycombinator.com/item?id=30992435</link>
-            <guid>https://news.ycombinator.com/item?id=30992435</guid>
-            <pubDate>Mon, 11 Apr 2022 17:58:13 GMT</pubDate>
-            <description><![CDATA[Show HN: A Python client for Crunchbase's REST API]]></description>
-        </item>
-        <item>
-            <title><![CDATA[紙質樺木筆記]]></title>
-            <link>https://news.ycombinator.com/item?id=30992106</link>
-            <guid>https://news.ycombinator.com/item?id=30992106</guid>
-            <pubDate>Mon, 11 Apr 2022 17:30:54 GMT</pubDate>
-            <description><![CDATA[Show HN: Paper Birch Notes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[500行TypeScript中的繪圖動畫師]]></title>
-            <link>https://news.ycombinator.com/item?id=30991827</link>
-            <guid>https://news.ycombinator.com/item?id=30991827</guid>
-            <pubDate>Mon, 11 Apr 2022 17:10:58 GMT</pubDate>
-            <description><![CDATA[Show HN: Drawing animator in 500 lines of TypeScript]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Beam.gg - 通過遊戲化的體驗實現自動參與]]></title>
-            <link>https://news.ycombinator.com/item?id=30991287</link>
-            <guid>https://news.ycombinator.com/item?id=30991287</guid>
-            <pubDate>Mon, 11 Apr 2022 16:38:51 GMT</pubDate>
-            <description><![CDATA[Show HN: Beam.gg – Automate engagement through gamified experiences]]></description>
         </item>
     </channel>
 </rss>

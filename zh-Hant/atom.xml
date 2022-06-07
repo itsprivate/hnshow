@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-07T14:41:17.238Z</updated>
+    <updated>2022-06-07T17:26:53.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,90 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mathzetta - 用JavaScript將數學轉換為LaTeX
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31656982</id>
+        <link href="https://news.ycombinator.com/item?id=31656982"/>
+        <updated>2022-06-07T16:44:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mathzetta – Convert Math to LaTeX with JavaScript]]></summary>
+        <author>
+            <name>uuddlrlrba</name>
+            <uri>https://news.ycombinator.com/user?id=uuddlrlrba</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chaingrep - 上下文的鏈上數據API
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31656924</id>
+        <link href="https://news.ycombinator.com/item?id=31656924"/>
+        <updated>2022-06-07T16:41:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Chaingrep – Contextual on-chain data API]]></summary>
+        <author>
+            <name>merwanedr</name>
+            <uri>https://news.ycombinator.com/user?id=merwanedr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[間隔，瀏覽器中的CLI，沒有前端代碼
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31656496</id>
+        <link href="https://news.ycombinator.com/item?id=31656496"/>
+        <updated>2022-06-07T16:14:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Interval, CLIs in browser with no front end code]]></summary>
+        <author>
+            <name>alexarena</name>
+            <uri>https://news.ycombinator.com/user?id=alexarena</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tensu - 用於Sensu Go的TUI儀表板
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31656245</id>
+        <link href="https://news.ycombinator.com/item?id=31656245"/>
+        <updated>2022-06-07T15:59:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tensu – A TUI Dashboard for Sensu Go]]></summary>
+        <author>
+            <name>jc_sec</name>
+            <uri>https://news.ycombinator.com/user?id=jc_sec</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harmonic，Android的HN客戶端
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31656007</id>
+        <link href="https://news.ycombinator.com/item?id=31656007"/>
+        <updated>2022-06-07T15:44:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Harmonic, HN Client for Android]]></summary>
+        <author>
+            <name>aarobot</name>
+            <uri>https://news.ycombinator.com/user?id=aarobot</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[召回 - 您的個人百科全書
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31655676</id>
+        <link href="https://news.ycombinator.com/item?id=31655676"/>
+        <updated>2022-06-07T15:20:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Recall – Your Personal Encyclopedia]]></summary>
+        <author>
+            <name>paulrchds</name>
+            <uri>https://news.ycombinator.com/user?id=paulrchds</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特幣票據--安全、自我監護的現金形式的比特幣錢包
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31653726</id>
+        <link href="https://news.ycombinator.com/item?id=31653726"/>
+        <updated>2022-06-07T13:11:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Bitcoin Note – Secure, Self-Custodial Bitcoin Wallets in Cash Form]]></summary>
+        <author>
+            <name>paulgerhardt</name>
+            <uri>https://news.ycombinator.com/user?id=paulgerhardt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SetOps - 在你自己的AWS賬戶中運行容器、數據庫和更多東西
 ]]></title>
@@ -6679,83 +6763,6 @@
         <author>
             <name>pattle</name>
             <uri>https://news.ycombinator.com/user?id=pattle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ANECompat，評估CoreML模型與蘋果神經引擎的兼容性]]></title>
-        <id>https://news.ycombinator.com/item?id=30992872</id>
-        <link href="https://news.ycombinator.com/item?id=30992872"/>
-        <updated>2022-04-11T18:40:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ANECompat, evaluate CoreML model compatibility with Apple Neural Engine]]></summary>
-        <author>
-            <name>fredyshox</name>
-            <uri>https://news.ycombinator.com/user?id=fredyshox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Elixir構建的多人遊戲演示]]></title>
-        <id>https://news.ycombinator.com/item?id=30992587</id>
-        <link href="https://news.ycombinator.com/item?id=30992587"/>
-        <updated>2022-04-11T18:15:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Multiplayer Demo Built with Elixir]]></summary>
-        <author>
-            <name>wenbo</name>
-            <uri>https://news.ycombinator.com/user?id=wenbo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想為氣候變化做點什麼的開發者的工作機會]]></title>
-        <id>https://news.ycombinator.com/item?id=30992518</id>
-        <link href="https://news.ycombinator.com/item?id=30992518"/>
-        <updated>2022-04-11T18:03:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Jobs for devs who want to do something about climate change]]></summary>
-        <author>
-            <name>pogopaule</name>
-            <uri>https://news.ycombinator.com/user?id=pogopaule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crunchbase的REST API的一個Python客戶端。]]></title>
-        <id>https://news.ycombinator.com/item?id=30992435</id>
-        <link href="https://news.ycombinator.com/item?id=30992435"/>
-        <updated>2022-04-11T17:58:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Python client for Crunchbase's REST API]]></summary>
-        <author>
-            <name>fahad_noor</name>
-            <uri>https://news.ycombinator.com/user?id=fahad_noor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[紙質樺木筆記]]></title>
-        <id>https://news.ycombinator.com/item?id=30992106</id>
-        <link href="https://news.ycombinator.com/item?id=30992106"/>
-        <updated>2022-04-11T17:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Paper Birch Notes]]></summary>
-        <author>
-            <name>NWoodsman</name>
-            <uri>https://news.ycombinator.com/user?id=NWoodsman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[500行TypeScript中的繪圖動畫師]]></title>
-        <id>https://news.ycombinator.com/item?id=30991827</id>
-        <link href="https://news.ycombinator.com/item?id=30991827"/>
-        <updated>2022-04-11T17:10:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Drawing animator in 500 lines of TypeScript]]></summary>
-        <author>
-            <name>novocantico</name>
-            <uri>https://news.ycombinator.com/user?id=novocantico</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beam.gg - 通過遊戲化的體驗實現自動參與]]></title>
-        <id>https://news.ycombinator.com/item?id=30991287</id>
-        <link href="https://news.ycombinator.com/item?id=30991287"/>
-        <updated>2022-04-11T16:38:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Beam.gg – Automate engagement through gamified experiences]]></summary>
-        <author>
-            <name>jazz_prado</name>
-            <uri>https://news.ycombinator.com/user?id=jazz_prado</uri>
         </author>
     </entry>
 </feed>
