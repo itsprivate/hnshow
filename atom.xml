@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-07T11:28:41.246Z</updated>
+    <updated>2022-06-07T11:58:28.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[语义GIF搜索
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31652773</id>
+        <link href="https://news.ycombinator.com/item?id=31652773"/>
+        <updated>2022-06-07T11:48:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Semantic GIF Search]]></summary>
+        <author>
+            <name>gk1</name>
+            <uri>https://news.ycombinator.com/user?id=gk1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于TypeScript/JavaScript的开源Web3 SDK
 ]]></title>
@@ -6738,17 +6750,6 @@
         <author>
             <name>mthwl</name>
             <uri>https://news.ycombinator.com/user?id=mthwl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[启动前的等待名单，内置推荐人以验证想法]]></title>
-        <id>https://news.ycombinator.com/item?id=30989452</id>
-        <link href="https://news.ycombinator.com/item?id=30989452"/>
-        <updated>2022-04-11T14:41:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pre-launch waitlist with built-in referral to validate ideas]]></summary>
-        <author>
-            <name>navneetsingh</name>
-            <uri>https://news.ycombinator.com/user?id=navneetsingh</uri>
         </author>
     </entry>
 </feed>
