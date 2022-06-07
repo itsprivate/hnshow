@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-07T11:58:28.932Z</updated>
+    <updated>2022-06-07T13:01:35.153Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[批量调整你的图像大小
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31653290</id>
+        <link href="https://news.ycombinator.com/item?id=31653290"/>
+        <updated>2022-06-07T12:37:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Resize Your Images in Bulk]]></summary>
+        <author>
+            <name>kith</name>
+            <uri>https://news.ycombinator.com/user?id=kith</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[适用于Mac的Redis GUI--Medis 2现已在Homebrew上线
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31653109</id>
+        <link href="https://news.ycombinator.com/item?id=31653109"/>
+        <updated>2022-06-07T12:20:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Medis 2, a Redis GUI for Mac, is now available on Homebrew]]></summary>
+        <author>
+            <name>luin</name>
+            <uri>https://news.ycombinator.com/user?id=luin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比AWS更好（可以说是）、更便宜8倍的文本转语音技术
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31652939</id>
+        <link href="https://news.ycombinator.com/item?id=31652939"/>
+        <updated>2022-06-07T12:06:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Better (arguably) & 8x cheaper text-to-speech than AWS]]></summary>
+        <author>
+            <name>jazz3020</name>
+            <uri>https://news.ycombinator.com/user?id=jazz3020</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[语义GIF搜索
 ]]></title>
@@ -6717,39 +6753,6 @@
         <author>
             <name>rscm17</name>
             <uri>https://news.ycombinator.com/user?id=rscm17</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OldestSearch - 自定义搜索网上最古老的结果]]></title>
-        <id>https://news.ycombinator.com/item?id=30989976</id>
-        <link href="https://news.ycombinator.com/item?id=30989976"/>
-        <updated>2022-04-11T15:15:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: OldestSearch – A custom search for the oldest results online]]></summary>
-        <author>
-            <name>jarrenae</name>
-            <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与Vite集成的Electron CLI]]></title>
-        <id>https://news.ycombinator.com/item?id=30989938</id>
-        <link href="https://news.ycombinator.com/item?id=30989938"/>
-        <updated>2022-04-11T15:13:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An Electron CLI Integrated with Vite]]></summary>
-        <author>
-            <name>alex114</name>
-            <uri>https://news.ycombinator.com/user?id=alex114</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[合理的颜色，一个用于无障碍调色板的开源颜色系统]]></title>
-        <id>https://news.ycombinator.com/item?id=30989932</id>
-        <link href="https://news.ycombinator.com/item?id=30989932"/>
-        <updated>2022-04-11T15:13:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Reasonable Colors, an open-source color system for accessible palettes]]></summary>
-        <author>
-            <name>mthwl</name>
-            <uri>https://news.ycombinator.com/user?id=mthwl</uri>
         </author>
     </entry>
 </feed>
