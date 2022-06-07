@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-07T05:27:28.527Z</updated>
+    <updated>2022-06-07T06:35:43.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Notik - 一种管理项目的新方法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31650448</id>
+        <link href="https://news.ycombinator.com/item?id=31650448"/>
+        <updated>2022-06-07T06:12:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Notik – A new way of managing projects]]></summary>
+        <author>
+            <name>ishanr</name>
+            <uri>https://news.ycombinator.com/user?id=ishanr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个家用抬头显示器，为你听到的内容提供字幕
 ]]></title>
@@ -6732,17 +6744,6 @@
         <author>
             <name>lcnmrn</name>
             <uri>https://news.ycombinator.com/user?id=lcnmrn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个最小的、不臃肿的归档和书签工具]]></title>
-        <id>https://news.ycombinator.com/item?id=30986023</id>
-        <link href="https://news.ycombinator.com/item?id=30986023"/>
-        <updated>2022-04-11T08:18:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A minimal, unbloated archiving and bookmarking tool]]></summary>
-        <author>
-            <name>gform</name>
-            <uri>https://news.ycombinator.com/user?id=gform</uri>
         </author>
     </entry>
 </feed>
