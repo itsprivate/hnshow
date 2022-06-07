@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-07T19:32:48.164Z</updated>
+    <updated>2022-06-07T20:32:47.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在Ionic和Angular中建立了一个 "Spot It "的克隆版
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31659478</id>
+        <link href="https://news.ycombinator.com/item?id=31659478"/>
+        <updated>2022-06-07T20:09:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I Built a “Spot It ” Clone in Ionic and Angular]]></summary>
+        <author>
+            <name>mdcallaghan</name>
+            <uri>https://news.ycombinator.com/user?id=mdcallaghan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个开源的、隐私友好的谷歌分析和GTM替代品
 ]]></title>
@@ -6760,17 +6772,6 @@
         <author>
             <name>mashpoe</name>
             <uri>https://news.ycombinator.com/user?id=mashpoe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我买了一个短域名。我应该用它做什么？]]></title>
-        <id>https://news.ycombinator.com/item?id=31000355</id>
-        <link href="https://news.ycombinator.com/item?id=31000355"/>
-        <updated>2022-04-12T09:22:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I bought a short domain name. What should I do with it?]]></summary>
-        <author>
-            <name>slightknack</name>
-            <uri>https://news.ycombinator.com/user?id=slightknack</uri>
         </author>
     </entry>
 </feed>
