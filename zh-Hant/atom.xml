@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-07T18:40:59.930Z</updated>
+    <updated>2022-06-07T19:32:48.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個開源的、隱私友好的谷歌分析和GTM替代品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31658627</id>
+        <link href="https://news.ycombinator.com/item?id=31658627"/>
+        <updated>2022-06-07T18:57:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An open-source, privacy-friendly Google Analytics and GTM alternative]]></summary>
+        <author>
+            <name>scale8</name>
+            <uri>https://news.ycombinator.com/user?id=scale8</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通過GitHub頁面的轉發鏈接
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31658497</id>
+        <link href="https://news.ycombinator.com/item?id=31658497"/>
+        <updated>2022-06-07T18:45:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Go-links via GitHub Pages]]></summary>
+        <author>
+            <name>logane</name>
+            <uri>https://news.ycombinator.com/user?id=logane</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地面視角--為沒有工作的人提供後道參考
 ]]></title>
@@ -6747,28 +6771,6 @@
         <author>
             <name>slightknack</name>
             <uri>https://news.ycombinator.com/user?id=slightknack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FHIR Auth，FHIR服務器認證變得簡單了]]></title>
-        <id>https://news.ycombinator.com/item?id=31000265</id>
-        <link href="https://news.ycombinator.com/item?id=31000265"/>
-        <updated>2022-04-12T09:10:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: FHIR Auth, FHIR server authentication made easy]]></summary>
-        <author>
-            <name>rukshn</name>
-            <uri>https://news.ycombinator.com/user?id=rukshn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HRConvert2 v2.7發佈]]></title>
-        <id>https://news.ycombinator.com/item?id=30999612</id>
-        <link href="https://news.ycombinator.com/item?id=30999612"/>
-        <updated>2022-04-12T07:16:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: HRConvert2 v2.7 Released]]></summary>
-        <author>
-            <name>zelon88</name>
-            <uri>https://news.ycombinator.com/user?id=zelon88</uri>
         </author>
     </entry>
 </feed>
