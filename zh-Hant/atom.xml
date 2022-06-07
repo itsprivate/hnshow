@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-07T20:32:47.692Z</updated>
+    <updated>2022-06-07T21:27:47.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Postman動態變量進行負載測試
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31660226</id>
+        <link href="https://news.ycombinator.com/item?id=31660226"/>
+        <updated>2022-06-07T21:20:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Use Postman dynamic variables for Load Testing]]></summary>
+        <author>
+            <name>kursat_</name>
+            <uri>https://news.ycombinator.com/user?id=kursat_</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postman但用於CLI
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31660213</id>
+        <link href="https://news.ycombinator.com/item?id=31660213"/>
+        <updated>2022-06-07T21:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Postman but for the CLI]]></summary>
+        <author>
+            <name>hbagdi</name>
+            <uri>https://news.ycombinator.com/user?id=hbagdi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在Ionic和Angular中建立了一個 "Spot It "的克隆版
 ]]></title>
@@ -6750,28 +6774,6 @@
         <author>
             <name>nirvanist</name>
             <uri>https://news.ycombinator.com/user?id=nirvanist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram的高級 "保存的信息"。]]></title>
-        <id>https://news.ycombinator.com/item?id=31001106</id>
-        <link href="https://news.ycombinator.com/item?id=31001106"/>
-        <updated>2022-04-12T11:25:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Advanced “Saved Messages” of the Telegram]]></summary>
-        <author>
-            <name>shrshnv</name>
-            <uri>https://news.ycombinator.com/user?id=shrshnv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[四維礦工，一個四維的沙盒遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=31000813</id>
-        <link href="https://news.ycombinator.com/item?id=31000813"/>
-        <updated>2022-04-12T10:38:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: 4D Miner, A 4-dimensional Sandbox Game]]></summary>
-        <author>
-            <name>mashpoe</name>
-            <uri>https://news.ycombinator.com/user?id=mashpoe</uri>
         </author>
     </entry>
 </feed>
