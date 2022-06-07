@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-07T04:24:10.258Z</updated>
+    <updated>2022-06-07T05:27:28.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個家用抬頭顯示器，為你聽到的內容提供字幕
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31650177</id>
+        <link href="https://news.ycombinator.com/item?id=31650177"/>
+        <updated>2022-06-07T05:23:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A home built heads up display to provide captions to what you hear]]></summary>
+        <author>
+            <name>etewiah</name>
+            <uri>https://news.ycombinator.com/user?id=etewiah</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用DIY CNI在UE5中製作網絡框架物理對象，只需67秒
 ]]></title>
@@ -6731,17 +6743,6 @@
         <author>
             <name>gform</name>
             <uri>https://news.ycombinator.com/user?id=gform</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[實時HTML編輯器]]></title>
-        <id>https://news.ycombinator.com/item?id=30985920</id>
-        <link href="https://news.ycombinator.com/item?id=30985920"/>
-        <updated>2022-04-11T08:01:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Real Time HTML Editor]]></summary>
-        <author>
-            <name>rahulbstomar</name>
-            <uri>https://news.ycombinator.com/user?id=rahulbstomar</uri>
         </author>
     </entry>
 </feed>
