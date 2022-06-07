@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-07T17:45:39.978Z</updated>
+    <updated>2022-06-07T18:03:46.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对你的Twitter受众进行粉丝细分
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31657757</id>
+        <link href="https://news.ycombinator.com/item?id=31657757"/>
+        <updated>2022-06-07T17:43:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Follower Segmentation for your Twitter audience]]></summary>
+        <author>
+            <name>adamhp</name>
+            <uri>https://news.ycombinator.com/user?id=adamhp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[以信息图表的形式显示35000多个职位的薪资统计数据
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31657740</id>
+        <link href="https://news.ycombinator.com/item?id=31657740"/>
+        <updated>2022-06-07T17:42:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Salary statistical data shown as infographics for more than 35000 jobs]]></summary>
+        <author>
+            <name>rungu</name>
+            <uri>https://news.ycombinator.com/user?id=rungu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[德国薪资计算器与图表
 ]]></title>
@@ -6744,28 +6768,6 @@
         <author>
             <name>Fizzadar</name>
             <uri>https://news.ycombinator.com/user?id=Fizzadar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ToolJet v1.10 Retool的开源替代品]]></title>
-        <id>https://news.ycombinator.com/item?id=30997514</id>
-        <link href="https://news.ycombinator.com/item?id=30997514"/>
-        <updated>2022-04-12T01:32:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ToolJet v1.10 The open-source alternative to Retool]]></summary>
-        <author>
-            <name>kriztle</name>
-            <uri>https://news.ycombinator.com/user?id=kriztle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[按公司名称、职位或地点过滤远程设计工作]]></title>
-        <id>https://news.ycombinator.com/item?id=30996826</id>
-        <link href="https://news.ycombinator.com/item?id=30996826"/>
-        <updated>2022-04-12T00:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Filter remote design jobs by company name, position or location]]></summary>
-        <author>
-            <name>itsdailyin</name>
-            <uri>https://news.ycombinator.com/user?id=itsdailyin</uri>
         </author>
     </entry>
 </feed>
