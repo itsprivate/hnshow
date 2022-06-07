@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 07 Jun 2022 13:51:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 14:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[SetOps - 在你自己的AWS賬戶中運行容器、數據庫和更多東西
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31654696</link>
+            <guid>https://news.ycombinator.com/item?id=31654696</guid>
+            <pubDate>Tue, 07 Jun 2022 14:19:09 GMT</pubDate>
+            <description><![CDATA[Show HN: SetOps – Run containers, databases and more in your own AWS account]]></description>
+        </item>
         <item>
             <title><![CDATA[公司財務數據（10年），免費並可下載
 ]]></title>
@@ -4348,13 +4356,6 @@
             <guid>https://news.ycombinator.com/item?id=30991287</guid>
             <pubDate>Mon, 11 Apr 2022 16:38:51 GMT</pubDate>
             <description><![CDATA[Show HN: Beam.gg – Automate engagement through gamified experiences]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何為WASM編譯C/C++，純Clang，無libs，無框架]]></title>
-            <link>https://news.ycombinator.com/item?id=30991235</link>
-            <guid>https://news.ycombinator.com/item?id=30991235</guid>
-            <pubDate>Mon, 11 Apr 2022 16:35:00 GMT</pubDate>
-            <description><![CDATA[Show HN: How to compile C/C++ for WASM, pure Clang, no libs, no framework]]></description>
         </item>
     </channel>
 </rss>

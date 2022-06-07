@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-07T13:51:17.574Z</updated>
+    <updated>2022-06-07T14:41:17.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SetOps - 在你自己的AWS賬戶中運行容器、數據庫和更多東西
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31654696</id>
+        <link href="https://news.ycombinator.com/item?id=31654696"/>
+        <updated>2022-06-07T14:19:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SetOps – Run containers, databases and more in your own AWS account]]></summary>
+        <author>
+            <name>latebird22</name>
+            <uri>https://news.ycombinator.com/user?id=latebird22</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公司財務數據（10年），免費並可下載
 ]]></title>
@@ -6744,17 +6756,6 @@
         <author>
             <name>jazz_prado</name>
             <uri>https://news.ycombinator.com/user?id=jazz_prado</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何為WASM編譯C/C++，純Clang，無libs，無框架]]></title>
-        <id>https://news.ycombinator.com/item?id=30991235</id>
-        <link href="https://news.ycombinator.com/item?id=30991235"/>
-        <updated>2022-04-11T16:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: How to compile C/C++ for WASM, pure Clang, no libs, no framework]]></summary>
-        <author>
-            <name>ern0</name>
-            <uri>https://news.ycombinator.com/user?id=ern0</uri>
         </author>
     </entry>
 </feed>
