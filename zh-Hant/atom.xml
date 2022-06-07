@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-07T21:27:47.301Z</updated>
+    <updated>2022-06-07T22:30:25.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[烘烤我們的Twitter客戶關係管理和DM管理應用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31660558</id>
+        <link href="https://news.ycombinator.com/item?id=31660558"/>
+        <updated>2022-06-07T21:58:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Roast Our Twitter CRM and DM Management App]]></summary>
+        <author>
+            <name>delvikt</name>
+            <uri>https://news.ycombinator.com/user?id=delvikt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Postman動態變量進行負載測試
 ]]></title>
@@ -6763,17 +6775,6 @@
         <author>
             <name>lucasluitjes</name>
             <uri>https://news.ycombinator.com/user?id=lucasluitjes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由A.I支持的免費外匯信號提供者]]></title>
-        <id>https://news.ycombinator.com/item?id=31001231</id>
-        <link href="https://news.ycombinator.com/item?id=31001231"/>
-        <updated>2022-04-12T11:39:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Free forex signals provider backed by A.I]]></summary>
-        <author>
-            <name>nirvanist</name>
-            <uri>https://news.ycombinator.com/user?id=nirvanist</uri>
         </author>
     </entry>
 </feed>
