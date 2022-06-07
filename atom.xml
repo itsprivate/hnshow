@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-07T10:49:21.609Z</updated>
+    <updated>2022-06-07T11:28:41.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于TypeScript/JavaScript的开源Web3 SDK
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31652429</id>
+        <link href="https://news.ycombinator.com/item?id=31652429"/>
+        <updated>2022-06-07T11:09:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-Source Web3 SDK for TypeScript/JavaScript]]></summary>
+        <author>
+            <name>felltrifortence</name>
+            <uri>https://news.ycombinator.com/user?id=felltrifortence</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Ableton Live中打开这个VST插件，对任何音频效果进行现场编码。
 ]]></title>
@@ -6737,17 +6749,6 @@
         <author>
             <name>navneetsingh</name>
             <uri>https://news.ycombinator.com/user?id=navneetsingh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于有机想法验证的简要指南]]></title>
-        <id>https://news.ycombinator.com/item?id=30989300</id>
-        <link href="https://news.ycombinator.com/item?id=30989300"/>
-        <updated>2022-04-11T14:32:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A brief guide on organic idea validation]]></summary>
-        <author>
-            <name>adamhp</name>
-            <uri>https://news.ycombinator.com/user?id=adamhp</uri>
         </author>
     </entry>
 </feed>
