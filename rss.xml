@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 08 Jun 2022 15:42:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 15:52:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用同态加密法私下阅读维基百科
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31668814</link>
+            <guid>https://news.ycombinator.com/item?id=31668814</guid>
+            <pubDate>Wed, 08 Jun 2022 15:29:33 GMT</pubDate>
+            <description><![CDATA[Show HN: Read Wikipedia privately using homomorphic encryption]]></description>
+        </item>
         <item>
             <title><![CDATA[完全包含在一个链接中的游戏
 ]]></title>
@@ -4380,13 +4388,6 @@
             <guid>https://news.ycombinator.com/item?id=31004906</guid>
             <pubDate>Tue, 12 Apr 2022 16:33:33 GMT</pubDate>
             <description><![CDATA[Show HN: Code Snippet Formatter – for email and docs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[旧的火焰，新的火焰]]></title>
-            <link>https://news.ycombinator.com/item?id=31004141</link>
-            <guid>https://news.ycombinator.com/item?id=31004141</guid>
-            <pubDate>Tue, 12 Apr 2022 15:39:55 GMT</pubDate>
-            <description><![CDATA[Show HN: Old Flame, New Flame]]></description>
         </item>
     </channel>
 </rss>

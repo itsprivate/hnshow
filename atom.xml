@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-08T15:42:00.765Z</updated>
+    <updated>2022-06-08T15:52:55.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用同态加密法私下阅读维基百科
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31668814</id>
+        <link href="https://news.ycombinator.com/item?id=31668814"/>
+        <updated>2022-06-08T15:29:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Read Wikipedia privately using homomorphic encryption]]></summary>
+        <author>
+            <name>blintz</name>
+            <uri>https://news.ycombinator.com/user?id=blintz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[完全包含在一个链接中的游戏
 ]]></title>
@@ -6776,17 +6788,6 @@
         <author>
             <name>georgewr</name>
             <uri>https://news.ycombinator.com/user?id=georgewr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旧的火焰，新的火焰]]></title>
-        <id>https://news.ycombinator.com/item?id=31004141</id>
-        <link href="https://news.ycombinator.com/item?id=31004141"/>
-        <updated>2022-04-12T15:39:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Old Flame, New Flame]]></summary>
-        <author>
-            <name>stuartmscott</name>
-            <uri>https://news.ycombinator.com/user?id=stuartmscott</uri>
         </author>
     </entry>
 </feed>
