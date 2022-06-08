@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-08T22:30:32.232Z</updated>
+    <updated>2022-06-08T23:31:03.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個軟著陸--僱用最近被解僱的人
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31675636</id>
+        <link href="https://news.ycombinator.com/item?id=31675636"/>
+        <updated>2022-06-08T23:10:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: One Soft Landing – hire people that were recently laid off]]></summary>
+        <author>
+            <name>mkx</name>
+            <uri>https://news.ycombinator.com/user?id=mkx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPT-3產生的關於AI的文章
 ]]></title>
@@ -6784,17 +6796,6 @@
         <author>
             <name>mikeshnaider</name>
             <uri>https://news.ycombinator.com/user?id=mikeshnaider</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在虛擬和增強現實中實現代碼的可視化]]></title>
-        <id>https://news.ycombinator.com/item?id=31007552</id>
-        <link href="https://news.ycombinator.com/item?id=31007552"/>
-        <updated>2022-04-12T19:58:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Visualizing Code in Virtual and Augmented Reality]]></summary>
-        <author>
-            <name>tikimcfee</name>
-            <uri>https://news.ycombinator.com/user?id=tikimcfee</uri>
         </author>
     </entry>
 </feed>
