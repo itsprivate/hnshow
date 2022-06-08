@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 08 Jun 2022 11:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 11:27:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[收集数字反馈的最快方式
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31665764</link>
+            <guid>https://news.ycombinator.com/item?id=31665764</guid>
+            <pubDate>Wed, 08 Jun 2022 11:22:22 GMT</pubDate>
+            <description><![CDATA[Show HN: The fastest way to collect digital feedback]]></description>
+        </item>
+        <item>
+            <title><![CDATA[创客资助，向创客赠送5千美元
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31665747</link>
+            <guid>https://news.ycombinator.com/item?id=31665747</guid>
+            <pubDate>Wed, 08 Jun 2022 11:20:00 GMT</pubDate>
+            <description><![CDATA[Show HN: Maker Grant, giving away $5K to makers]]></description>
+        </item>
         <item>
             <title><![CDATA[Readwise - NotePlan集成
 ]]></title>
@@ -4366,20 +4382,6 @@
             <guid>https://news.ycombinator.com/item?id=31003389</guid>
             <pubDate>Tue, 12 Apr 2022 14:42:36 GMT</pubDate>
             <description><![CDATA[Show HN: A library to build Solid decentralized applications in PHP]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AV1和WebRTC]]></title>
-            <link>https://news.ycombinator.com/item?id=31003111</link>
-            <guid>https://news.ycombinator.com/item?id=31003111</guid>
-            <pubDate>Tue, 12 Apr 2022 14:20:44 GMT</pubDate>
-            <description><![CDATA[Show HN: AV1 and WebRTC]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在你的GitHub个人资料上显示你的Spotify "正在播放 "状态的工具]]></title>
-            <link>https://news.ycombinator.com/item?id=31002916</link>
-            <guid>https://news.ycombinator.com/item?id=31002916</guid>
-            <pubDate>Tue, 12 Apr 2022 14:05:26 GMT</pubDate>
-            <description><![CDATA[Show HN: A tool to show your Spotify “Now Playing” status on your GitHub profile]]></description>
         </item>
     </channel>
 </rss>
