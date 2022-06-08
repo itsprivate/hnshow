@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-08T11:27:18.862Z</updated>
+    <updated>2022-06-08T14:04:00.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PgAdmin OSS替代品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31667115</id>
+        <link href="https://news.ycombinator.com/item?id=31667115"/>
+        <updated>2022-06-08T13:36:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PgAdmin OSS Alternative]]></summary>
+        <author>
+            <name>soorajsanker</name>
+            <uri>https://news.ycombinator.com/user?id=soorajsanker</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ip4.me/ip6.me API现在显示X-Forwarded-For和RFC7239报头
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31666825</id>
+        <link href="https://news.ycombinator.com/item?id=31666825"/>
+        <updated>2022-06-08T13:15:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Ip4.me/ip6.me API now shows X-Forwarded-For and RFC7239 headers]]></summary>
+        <author>
+            <name>kloch</name>
+            <uri>https://news.ycombinator.com/user?id=kloch</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我建立了一个CLI来创建远程开发环境，作为一个Go学习项目
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31666450</id>
+        <link href="https://news.ycombinator.com/item?id=31666450"/>
+        <updated>2022-06-08T12:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I've built a CLI to create remote dev envs as a Go learning project]]></summary>
+        <author>
+            <name>jeremylevy</name>
+            <uri>https://news.ycombinator.com/user?id=jeremylevy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tasqueue - Go中简单、可定制的分布式作业/工作器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31665924</id>
+        <link href="https://news.ycombinator.com/item?id=31665924"/>
+        <updated>2022-06-08T11:45:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tasqueue – A simple, customisable distributed job/worker in Go]]></summary>
+        <author>
+            <name>Inetenbr</name>
+            <uri>https://news.ycombinator.com/user?id=Inetenbr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[收集数字反馈的最快方式
 ]]></title>
@@ -6738,50 +6786,6 @@
         <author>
             <name>dapirian</name>
             <uri>https://news.ycombinator.com/user?id=dapirian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Factor.fyi - 使用SQL将金融、加密货币和经济数据集可视化]]></title>
-        <id>https://news.ycombinator.com/item?id=31003785</id>
-        <link href="https://news.ycombinator.com/item?id=31003785"/>
-        <updated>2022-04-12T15:14:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Factor.fyi – use SQL to visualize financial, crypto and econ datasets]]></summary>
-        <author>
-            <name>sdcoffey</name>
-            <uri>https://news.ycombinator.com/user?id=sdcoffey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Addy - 一个用于快速保存内容的网络扩展程序]]></title>
-        <id>https://news.ycombinator.com/item?id=31003608</id>
-        <link href="https://news.ycombinator.com/item?id=31003608"/>
-        <updated>2022-04-12T14:58:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Addy – A web extension for saving content quickly]]></summary>
-        <author>
-            <name>hkben</name>
-            <uri>https://news.ycombinator.com/user?id=hkben</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GRGate，根据提交状态自动发布GitHub/Gitlab的版本草案]]></title>
-        <id>https://news.ycombinator.com/item?id=31003499</id>
-        <link href="https://news.ycombinator.com/item?id=31003499"/>
-        <updated>2022-04-12T14:50:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GRGate, autopublish GitHub/Gitlab draft releases based on commit status]]></summary>
-        <author>
-            <name>etrem</name>
-            <uri>https://news.ycombinator.com/user?id=etrem</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个在PHP中建立稳固的分散式应用程序的库]]></title>
-        <id>https://news.ycombinator.com/item?id=31003389</id>
-        <link href="https://news.ycombinator.com/item?id=31003389"/>
-        <updated>2022-04-12T14:42:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A library to build Solid decentralized applications in PHP]]></summary>
-        <author>
-            <name>kdunglas</name>
-            <uri>https://news.ycombinator.com/user?id=kdunglas</uri>
         </author>
     </entry>
 </feed>
