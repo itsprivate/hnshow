@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-08T17:44:39.449Z</updated>
+    <updated>2022-06-08T18:55:28.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有助於解決焦慮、講故事和保留的任務
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31672058</id>
+        <link href="https://news.ycombinator.com/item?id=31672058"/>
+        <updated>2022-06-08T18:37:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Missions that help with anxiety, storytelling, and retention]]></summary>
+        <author>
+            <name>afont</name>
+            <uri>https://news.ycombinator.com/user?id=afont</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[匹配。為情侶們尋找一起觀看的電影應用程序
 ]]></title>
@@ -6779,17 +6791,6 @@
         <author>
             <name>leedj</name>
             <uri>https://news.ycombinator.com/user?id=leedj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modus，一種用於構建Docker/OCI容器鏡像的Datalog方言]]></title>
-        <id>https://news.ycombinator.com/item?id=31005156</id>
-        <link href="https://news.ycombinator.com/item?id=31005156"/>
-        <updated>2022-04-12T16:51:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Modus, a Datalog dialect for building Docker/OCI container images]]></summary>
-        <author>
-            <name>mechtaev</name>
-            <uri>https://news.ycombinator.com/user?id=mechtaev</uri>
         </author>
     </entry>
 </feed>
