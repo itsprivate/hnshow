@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-08T17:11:02.573Z</updated>
+    <updated>2022-06-08T17:44:39.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[匹配。为情侣们寻找一起观看的电影应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31670610</id>
+        <link href="https://news.ycombinator.com/item?id=31670610"/>
+        <updated>2022-06-08T17:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Matched: A movie app for couples to find what to watch together]]></summary>
+        <author>
+            <name>johnjuanlin</name>
+            <uri>https://news.ycombinator.com/user?id=johnjuanlin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可铸造的视频
 ]]></title>
@@ -6778,17 +6790,6 @@
         <author>
             <name>mechtaev</name>
             <uri>https://news.ycombinator.com/user?id=mechtaev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在你的开发文档中添加可运行的实时代码]]></title>
-        <id>https://news.ycombinator.com/item?id=31004973</id>
-        <link href="https://news.ycombinator.com/item?id=31004973"/>
-        <updated>2022-04-12T16:38:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Add live runnable code to your dev docs]]></summary>
-        <author>
-            <name>mlejva</name>
-            <uri>https://news.ycombinator.com/user?id=mlejva</uri>
         </author>
     </entry>
 </feed>
