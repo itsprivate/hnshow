@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-08T20:33:21.705Z</updated>
+    <updated>2022-06-08T22:30:32.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GPT-3產生的關於AI的文章
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31674995</id>
+        <link href="https://news.ycombinator.com/item?id=31674995"/>
+        <updated>2022-06-08T22:07:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GPT-3 generated articles about AI]]></summary>
+        <author>
+            <name>andreyk</name>
+            <uri>https://news.ycombinator.com/user?id=andreyk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基於Rust的微小虛擬DOM的玩具網絡框架
 ]]></title>
@@ -6783,17 +6795,6 @@
         <author>
             <name>tikimcfee</name>
             <uri>https://news.ycombinator.com/user?id=tikimcfee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在你的Mac上安心閱讀]]></title>
-        <id>https://news.ycombinator.com/item?id=31006770</id>
-        <link href="https://news.ycombinator.com/item?id=31006770"/>
-        <updated>2022-04-12T18:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Read in Peace on Your Mac]]></summary>
-        <author>
-            <name>navidsafa</name>
-            <uri>https://news.ycombinator.com/user?id=navidsafa</uri>
         </author>
     </entry>
 </feed>

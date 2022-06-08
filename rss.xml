@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 08 Jun 2022 20:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 22:30:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GPT-3产生的关于AI的文章
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31674995</link>
+            <guid>https://news.ycombinator.com/item?id=31674995</guid>
+            <pubDate>Wed, 08 Jun 2022 22:07:10 GMT</pubDate>
+            <description><![CDATA[Show HN: GPT-3 generated articles about AI]]></description>
+        </item>
         <item>
             <title><![CDATA[基于Rust的微小虚拟DOM的玩具网络框架
 ]]></title>
@@ -4387,13 +4395,6 @@
             <guid>https://news.ycombinator.com/item?id=31007552</guid>
             <pubDate>Tue, 12 Apr 2022 19:58:12 GMT</pubDate>
             <description><![CDATA[Show HN: Visualizing Code in Virtual and Augmented Reality]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在你的Mac上安心阅读]]></title>
-            <link>https://news.ycombinator.com/item?id=31006770</link>
-            <guid>https://news.ycombinator.com/item?id=31006770</guid>
-            <pubDate>Tue, 12 Apr 2022 18:47:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Read in Peace on Your Mac]]></description>
         </item>
     </channel>
 </rss>
