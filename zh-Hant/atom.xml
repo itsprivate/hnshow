@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-08T14:04:00.844Z</updated>
+    <updated>2022-06-08T15:42:00.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[完全包含在一個鏈接中的遊戲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31668648</id>
+        <link href="https://news.ycombinator.com/item?id=31668648"/>
+        <updated>2022-06-08T15:19:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A game fully contained in a link]]></summary>
+        <author>
+            <name>escot</name>
+            <uri>https://news.ycombinator.com/user?id=escot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PgAdmin OSS替代品
 ]]></title>
@@ -6775,17 +6787,6 @@
         <author>
             <name>stuartmscott</name>
             <uri>https://news.ycombinator.com/user?id=stuartmscott</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[樹幹檢測和處理預先存在的林特問題]]></title>
-        <id>https://news.ycombinator.com/item?id=31003974</id>
-        <link href="https://news.ycombinator.com/item?id=31003974"/>
-        <updated>2022-04-12T15:27:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Trunk detects and handles preexisting linter issues]]></summary>
-        <author>
-            <name>dapirian</name>
-            <uri>https://news.ycombinator.com/user?id=dapirian</uri>
         </author>
     </entry>
 </feed>
