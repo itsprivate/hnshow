@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-08T02:17:47.371Z</updated>
+    <updated>2022-06-08T06:36:03.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[烘烤我們的Twitter客戶關係管理和DM管理應用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31663897</id>
+        <link href="https://news.ycombinator.com/item?id=31663897"/>
+        <updated>2022-06-08T06:14:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Roast Our Twitter CRM and DM Management App]]></summary>
+        <author>
+            <name>delvikt</name>
+            <uri>https://news.ycombinator.com/user?id=delvikt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福音戰士》標題卡生成器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31663878</id>
+        <link href="https://news.ycombinator.com/item?id=31663878"/>
+        <updated>2022-06-08T06:11:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Evangelion Title Card Generator]]></summary>
+        <author>
+            <name>otakukun</name>
+            <uri>https://news.ycombinator.com/user?id=otakukun</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谷歌文檔的最新顏色 - 你一直需要的擴展
 ]]></title>
@@ -6754,28 +6778,6 @@
         <author>
             <name>filippofinke</name>
             <uri>https://news.ycombinator.com/user?id=filippofinke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文件和鍵值數據庫的實時分佈式存儲]]></title>
-        <id>https://news.ycombinator.com/item?id=31002401</id>
-        <link href="https://news.ycombinator.com/item?id=31002401"/>
-        <updated>2022-04-12T13:27:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Real-time distributed storage for files and key value databases]]></summary>
-        <author>
-            <name>Hexadecible</name>
-            <uri>https://news.ycombinator.com/user?id=Hexadecible</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[發現獨立網絡，每次都是一篇博文]]></title>
-        <id>https://news.ycombinator.com/item?id=31002171</id>
-        <link href="https://news.ycombinator.com/item?id=31002171"/>
-        <updated>2022-04-12T13:11:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Discover the IndieWeb, one blog post at a time]]></summary>
-        <author>
-            <name>splitbrain</name>
-            <uri>https://news.ycombinator.com/user?id=splitbrain</uri>
         </author>
     </entry>
 </feed>
