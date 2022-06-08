@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-08T15:52:55.806Z</updated>
+    <updated>2022-06-08T17:11:02.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[可鑄造的視頻
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31670251</id>
+        <link href="https://news.ycombinator.com/item?id=31670251"/>
+        <updated>2022-06-08T16:56:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: castable-video]]></summary>
+        <author>
+            <name>luwes</name>
+            <uri>https://news.ycombinator.com/user?id=luwes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用同態加密法私下閱讀維基百科
 ]]></title>
@@ -6777,17 +6789,6 @@
         <author>
             <name>mlejva</name>
             <uri>https://news.ycombinator.com/user?id=mlejva</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代碼片段格式化 - 用於電子郵件和文檔]]></title>
-        <id>https://news.ycombinator.com/item?id=31004906</id>
-        <link href="https://news.ycombinator.com/item?id=31004906"/>
-        <updated>2022-04-12T16:33:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Code Snippet Formatter – for email and docs]]></summary>
-        <author>
-            <name>georgewr</name>
-            <uri>https://news.ycombinator.com/user?id=georgewr</uri>
         </author>
     </entry>
 </feed>
