@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-08T06:36:03.561Z</updated>
+    <updated>2022-06-08T09:07:02.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AWSify - 一键从Heroku迁移到AWS
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31664806</id>
+        <link href="https://news.ycombinator.com/item?id=31664806"/>
+        <updated>2022-06-08T08:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: AWSify – Move from Heroku to AWS in one click]]></summary>
+        <author>
+            <name>igorzij</name>
+            <uri>https://news.ycombinator.com/user?id=igorzij</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[烘烤我们的Twitter客户关系管理和DM管理应用程序
 ]]></title>
@@ -6767,17 +6779,6 @@
         <author>
             <name>rahulbstomar</name>
             <uri>https://news.ycombinator.com/user?id=rahulbstomar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个简单的r/place克隆]]></title>
-        <id>https://news.ycombinator.com/item?id=31002519</id>
-        <link href="https://news.ycombinator.com/item?id=31002519"/>
-        <updated>2022-04-12T13:36:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A simple r/place clone]]></summary>
-        <author>
-            <name>filippofinke</name>
-            <uri>https://news.ycombinator.com/user?id=filippofinke</uri>
         </author>
     </entry>
 </feed>
