@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-08T09:07:02.632Z</updated>
+    <updated>2022-06-08T11:03:06.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Readwise - NotePlan集成
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31659815</id>
+        <link href="https://news.ycombinator.com/item?id=31659815"/>
+        <updated>2022-06-07T20:42:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Readwise – NotePlan Integration]]></summary>
+        <author>
+            <name>EduardMe</name>
+            <uri>https://news.ycombinator.com/user?id=EduardMe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWSify - 一键从Heroku迁移到AWS
 ]]></title>
@@ -6768,17 +6780,6 @@
         <author>
             <name>flotwig</name>
             <uri>https://news.ycombinator.com/user?id=flotwig</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具有所有专业功能的在线照片编辑器]]></title>
-        <id>https://news.ycombinator.com/item?id=31002588</id>
-        <link href="https://news.ycombinator.com/item?id=31002588"/>
-        <updated>2022-04-12T13:42:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Online photo editor with all professional features]]></summary>
-        <author>
-            <name>rahulbstomar</name>
-            <uri>https://news.ycombinator.com/user?id=rahulbstomar</uri>
         </author>
     </entry>
 </feed>
