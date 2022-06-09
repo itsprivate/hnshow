@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 09 Jun 2022 17:45:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 20:32:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[LinkWarden - 一個存放有用鏈接的地方
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31686363</link>
+            <guid>https://news.ycombinator.com/item?id=31686363</guid>
+            <pubDate>Thu, 09 Jun 2022 20:26:41 GMT</pubDate>
+            <description><![CDATA[Show HN: LinkWarden – A place for your useful links]]></description>
+        </item>
+        <item>
+            <title><![CDATA[有我自己算法的TLDR（短）新聞網站
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31686111</link>
+            <guid>https://news.ycombinator.com/item?id=31686111</guid>
+            <pubDate>Thu, 09 Jun 2022 20:07:06 GMT</pubDate>
+            <description><![CDATA[Show HN: TLDR (short) news website with my own algorithm]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Sake - 在遠程服務器上運行任務的工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31686059</link>
+            <guid>https://news.ycombinator.com/item?id=31686059</guid>
+            <pubDate>Thu, 09 Jun 2022 20:02:55 GMT</pubDate>
+            <description><![CDATA[Show HN: Sake – tool to run tasks on remote servers]]></description>
+        </item>
         <item>
             <title><![CDATA[機器學習輔助的旁門左道攻擊
 ]]></title>
@@ -4396,27 +4420,6 @@
             <guid>https://news.ycombinator.com/item?id=31019028</guid>
             <pubDate>Wed, 13 Apr 2022 19:22:55 GMT</pubDate>
             <description><![CDATA[Show HN: A community for techies collaborating on social impact]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我建立了一個投注池的市場]]></title>
-            <link>https://news.ycombinator.com/item?id=31018108</link>
-            <guid>https://news.ycombinator.com/item?id=31018108</guid>
-            <pubDate>Wed, 13 Apr 2022 18:10:27 GMT</pubDate>
-            <description><![CDATA[Show HN: I built a marketplace for betting pools]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Rust語言編寫的Dattorro混響VST插件，使用egui和glicol_synth。]]></title>
-            <link>https://news.ycombinator.com/item?id=31017633</link>
-            <guid>https://news.ycombinator.com/item?id=31017633</guid>
-            <pubDate>Wed, 13 Apr 2022 17:38:05 GMT</pubDate>
-            <description><![CDATA[Show HN: Dattorro reverb VST plugin written in Rust with egui and glicol_synth]]></description>
-        </item>
-        <item>
-            <title><![CDATA[開放源碼數據庫，一個開源替代品的眾包數據庫]]></title>
-            <link>https://news.ycombinator.com/item?id=31016919</link>
-            <guid>https://news.ycombinator.com/item?id=31016919</guid>
-            <pubDate>Wed, 13 Apr 2022 16:45:13 GMT</pubDate>
-            <description><![CDATA[Show HN: OSS Database, A crowdsourced database of Open Source alternatives]]></description>
         </item>
     </channel>
 </rss>
