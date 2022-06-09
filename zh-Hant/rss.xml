@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 09 Jun 2022 16:50:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 17:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[基於Markdown的文檔，具有豐富的視覺效果和有用的插件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31683156</link>
+            <guid>https://news.ycombinator.com/item?id=31683156</guid>
+            <pubDate>Thu, 09 Jun 2022 16:20:43 GMT</pubDate>
+            <description><![CDATA[Show HN: Markdown based documentation with rich visuals and useful plugins]]></description>
+        </item>
         <item>
             <title><![CDATA[開源的Shopify (Medusa)
 ]]></title>
@@ -4406,13 +4414,6 @@
             <guid>https://news.ycombinator.com/item?id=31015363</guid>
             <pubDate>Wed, 13 Apr 2022 14:52:01 GMT</pubDate>
             <description><![CDATA[Show HN: Program Synthesis for Ruby]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用法，在5分鐘內將你的AWS賬單減少50%以上]]></title>
-            <link>https://news.ycombinator.com/item?id=31015171</link>
-            <guid>https://news.ycombinator.com/item?id=31015171</guid>
-            <pubDate>Wed, 13 Apr 2022 14:38:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Usage, Cut your AWS Bill by 50%+ in 5 Minutes]]></description>
         </item>
     </channel>
 </rss>
