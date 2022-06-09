@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-09T11:30:48.641Z</updated>
+    <updated>2022-06-09T11:44:31.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Python Live GUI - Dear ImGUI 和 Phoenix LiveView 的混合體
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31679945</id>
+        <link href="https://news.ycombinator.com/item?id=31679945"/>
+        <updated>2022-06-09T11:37:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Python Live GUI – A Hybrid of Dear ImGUI and Phoenix LiveView]]></summary>
+        <author>
+            <name>RupertWiser</name>
+            <uri>https://news.ycombinator.com/user?id=RupertWiser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Go編寫的開源身份服務器 (Ory Kratos)
 ]]></title>
@@ -6790,17 +6802,6 @@
         <author>
             <name>derekzhouzhen</name>
             <uri>https://news.ycombinator.com/user?id=derekzhouzhen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄羅斯網站的認證過期情況分析報告]]></title>
-        <id>https://news.ycombinator.com/item?id=31010814</id>
-        <link href="https://news.ycombinator.com/item?id=31010814"/>
-        <updated>2022-04-13T03:12:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Analysis report on Certification expiration status of Russian sites]]></summary>
-        <author>
-            <name>kyoung3412</name>
-            <uri>https://news.ycombinator.com/user?id=kyoung3412</uri>
         </author>
     </entry>
 </feed>
