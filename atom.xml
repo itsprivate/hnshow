@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-09T06:55:27.950Z</updated>
+    <updated>2022-06-09T08:39:36.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Web Highlighter - 将任何网页变成一个即时论坛
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31678741</id>
+        <link href="https://news.ycombinator.com/item?id=31678741"/>
+        <updated>2022-06-09T08:11:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Web Highlighter – Turn Any Page into an Instant Forum]]></summary>
+        <author>
+            <name>vsroy</name>
+            <uri>https://news.ycombinator.com/user?id=vsroy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[适用于Mac的个人AI写作助手
 ]]></title>
@@ -6787,17 +6799,6 @@
         <author>
             <name>kazinator</name>
             <uri>https://news.ycombinator.com/user?id=kazinator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个简单的记忆游戏]]></title>
-        <id>https://news.ycombinator.com/item?id=31009555</id>
-        <link href="https://news.ycombinator.com/item?id=31009555"/>
-        <updated>2022-04-12T23:38:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Simple Memory Game]]></summary>
-        <author>
-            <name>spydr</name>
-            <uri>https://news.ycombinator.com/user?id=spydr</uri>
         </author>
     </entry>
 </feed>
