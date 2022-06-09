@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 09 Jun 2022 21:59:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 23:32:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[EC2定價工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31687986</link>
+            <guid>https://news.ycombinator.com/item?id=31687986</guid>
+            <pubDate>Thu, 09 Jun 2022 22:54:49 GMT</pubDate>
+            <description><![CDATA[Show HN: EC2 Pricing Tool]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Pixie，使用eBPF的Kubernetes開源觀察能力
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31687978</link>
+            <guid>https://news.ycombinator.com/item?id=31687978</guid>
+            <pubDate>Thu, 09 Jun 2022 22:54:08 GMT</pubDate>
+            <description><![CDATA[Show HN: Pixie, open source observability for Kubernetes using eBPF]]></description>
+        </item>
+        <item>
+            <title><![CDATA[謎語--每日單詞遊戲
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31687965</link>
+            <guid>https://news.ycombinator.com/item?id=31687965</guid>
+            <pubDate>Thu, 09 Jun 2022 22:52:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Riddle – A Daily Word Game]]></description>
+        </item>
         <item>
             <title><![CDATA[思想領導力是一種服務
 ]]></title>
@@ -4401,27 +4425,6 @@
             <guid>https://news.ycombinator.com/item?id=31012246</guid>
             <pubDate>Wed, 13 Apr 2022 08:07:02 GMT</pubDate>
             <description><![CDATA[Show HN: My simple guessing and learning game]]></description>
-        </item>
-        <item>
-            <title><![CDATA[地理探索(GeoQuest)]]></title>
-            <link>https://news.ycombinator.com/item?id=31021460</link>
-            <guid>https://news.ycombinator.com/item?id=31021460</guid>
-            <pubDate>Wed, 13 Apr 2022 23:11:00 GMT</pubDate>
-            <description><![CDATA[Show HN: GeoQuest]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在GitHub.dev上用零設置運行Python代碼]]></title>
-            <link>https://news.ycombinator.com/item?id=31021156</link>
-            <guid>https://news.ycombinator.com/item?id=31021156</guid>
-            <pubDate>Wed, 13 Apr 2022 22:35:35 GMT</pubDate>
-            <description><![CDATA[Show HN: Run Python code on GitHub.dev with zero-setup]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HeftySearch - 同時搜索任何數量的網站]]></title>
-            <link>https://news.ycombinator.com/item?id=31020507</link>
-            <guid>https://news.ycombinator.com/item?id=31020507</guid>
-            <pubDate>Wed, 13 Apr 2022 21:26:27 GMT</pubDate>
-            <description><![CDATA[Show HN: HeftySearch – Search any number of sites at the same time]]></description>
         </item>
     </channel>
 </rss>
