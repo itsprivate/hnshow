@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-09T15:02:29.219Z</updated>
+    <updated>2022-06-09T16:50:50.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开源的Shopify (Medusa)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31683306</id>
+        <link href="https://news.ycombinator.com/item?id=31683306"/>
+        <updated>2022-06-09T16:32:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-Source Shopify (Medusa)]]></summary>
+        <author>
+            <name>sebrind</name>
+            <uri>https://news.ycombinator.com/user?id=sebrind</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gwak - 来自你信任的人的餐厅推荐
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31682993</id>
+        <link href="https://news.ycombinator.com/item?id=31682993"/>
+        <updated>2022-06-09T16:09:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Gwak – restaurant recommendations from people you trust]]></summary>
+        <author>
+            <name>andrewk17</name>
+            <uri>https://news.ycombinator.com/user?id=andrewk17</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[权限 - GitHub的模块化IAM系统
 ]]></title>
@@ -6789,28 +6813,6 @@
         <author>
             <name>kavehkhorram</name>
             <uri>https://news.ycombinator.com/user?id=kavehkhorram</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[建立游戏化社区，以前所未有的方式参与其中]]></title>
-        <id>https://news.ycombinator.com/item?id=31014965</id>
-        <link href="https://news.ycombinator.com/item?id=31014965"/>
-        <updated>2022-04-13T14:21:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Build gamified communities and engage like never before]]></summary>
-        <author>
-            <name>jazz_prado</name>
-            <uri>https://news.ycombinator.com/user?id=jazz_prado</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stacktape - 以类似Heroku的体验充分发挥AWS的力量]]></title>
-        <id>https://news.ycombinator.com/item?id=31014247</id>
-        <link href="https://news.ycombinator.com/item?id=31014247"/>
-        <updated>2022-04-13T13:16:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Stacktape – Full power of AWS with Heroku-like experience]]></summary>
-        <author>
-            <name>matus_congrady</name>
-            <uri>https://news.ycombinator.com/user?id=matus_congrady</uri>
         </author>
     </entry>
 </feed>
