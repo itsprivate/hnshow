@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-09T20:32:49.029Z</updated>
+    <updated>2022-06-09T21:45:44.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mario Bros.时钟
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31687142</id>
+        <link href="https://news.ycombinator.com/item?id=31687142"/>
+        <updated>2022-06-09T21:28:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mario Bros. Clock]]></summary>
+        <author>
+            <name>jnthas</name>
+            <uri>https://news.ycombinator.com/user?id=jnthas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LinkWarden - 一个存放有用链接的地方
 ]]></title>
@@ -6809,17 +6821,6 @@
         <author>
             <name>qiller</name>
             <uri>https://news.ycombinator.com/user?id=qiller</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科技人员合作的社会影响社区]]></title>
-        <id>https://news.ycombinator.com/item?id=31019028</id>
-        <link href="https://news.ycombinator.com/item?id=31019028"/>
-        <updated>2022-04-13T19:22:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A community for techies collaborating on social impact]]></summary>
-        <author>
-            <name>Rayan_NM</name>
-            <uri>https://news.ycombinator.com/user?id=Rayan_NM</uri>
         </author>
     </entry>
 </feed>
