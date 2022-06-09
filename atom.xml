@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-09T12:59:46.399Z</updated>
+    <updated>2022-06-09T13:54:47.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[涩谷 - Web3视频平台
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31680994</id>
+        <link href="https://news.ycombinator.com/item?id=31680994"/>
+        <updated>2022-06-09T13:40:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Shibuya – Web3 Video Platform]]></summary>
+        <author>
+            <name>areichert</name>
+            <uri>https://news.ycombinator.com/user?id=areichert</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我花了6个月时间建立的SaaS，只用了1周就重新建立了。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31680992</id>
+        <link href="https://news.ycombinator.com/item?id=31680992"/>
+        <updated>2022-06-09T13:39:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I recreated my SaaS that took me 6 months to build in just 1 week]]></summary>
+        <author>
+            <name>anuragk11</name>
+            <uri>https://news.ycombinator.com/user?id=anuragk11</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[模板组件：使用Jinja的服务器端组件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31680874</id>
+        <link href="https://news.ycombinator.com/item?id=31680874"/>
+        <updated>2022-06-09T13:27:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Template Components: server-side components with Jinja]]></summary>
+        <author>
+            <name>jp_sc</name>
+            <uri>https://news.ycombinator.com/user?id=jp_sc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debase - 在你的终端中拖放Git re-base
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31680717</id>
+        <link href="https://news.ycombinator.com/item?id=31680717"/>
+        <updated>2022-06-09T13:06:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Debase – drag and drop Git rebase in your terminal]]></summary>
+        <author>
+            <name>johndoughy</name>
+            <uri>https://news.ycombinator.com/user?id=johndoughy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[完全本地化、隐私友好、全文搜索的浏览器历史记录
 ]]></title>
@@ -6759,50 +6807,6 @@
         <author>
             <name>itsHel</name>
             <uri>https://news.ycombinator.com/user?id=itsHel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个网站来搜索你附近的半条面包]]></title>
-        <id>https://news.ycombinator.com/item?id=31013326</id>
-        <link href="https://news.ycombinator.com/item?id=31013326"/>
-        <updated>2022-04-13T11:15:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a website to search for half loaves of bread near you]]></summary>
-        <author>
-            <name>prashantb</name>
-            <uri>https://news.ycombinator.com/user?id=prashantb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Firebase SDK连接到PostgreSQL]]></title>
-        <id>https://news.ycombinator.com/item?id=31012822</id>
-        <link href="https://news.ycombinator.com/item?id=31012822"/>
-        <updated>2022-04-13T09:55:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Connect to PostgreSQL Using Firebase SDK]]></summary>
-        <author>
-            <name>mjay23</name>
-            <uri>https://news.ycombinator.com/user?id=mjay23</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使你的内容或下一个项目货币化的联盟计划]]></title>
-        <id>https://news.ycombinator.com/item?id=31012042</id>
-        <link href="https://news.ycombinator.com/item?id=31012042"/>
-        <updated>2022-04-13T07:26:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Affiliate programs to monetize your content or next project]]></summary>
-        <author>
-            <name>twankrui</name>
-            <uri>https://news.ycombinator.com/user?id=twankrui</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从OpenAPI生成类型安全的React钩子]]></title>
-        <id>https://news.ycombinator.com/item?id=31011988</id>
-        <link href="https://news.ycombinator.com/item?id=31011988"/>
-        <updated>2022-04-13T07:14:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Generating Type-Safe React Hooks from OpenAPI]]></summary>
-        <author>
-            <name>tejaskumar_</name>
-            <uri>https://news.ycombinator.com/user?id=tejaskumar_</uri>
         </author>
     </entry>
 </feed>
