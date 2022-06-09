@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-09T13:54:47.647Z</updated>
+    <updated>2022-06-09T14:02:39.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Python和Jupyter的交互式音频
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31681152</id>
+        <link href="https://news.ycombinator.com/item?id=31681152"/>
+        <updated>2022-06-09T13:54:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Interactive Audio with Python and Jupyter]]></summary>
+        <author>
+            <name>benbovy</name>
+            <uri>https://news.ycombinator.com/user?id=benbovy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[涩谷 - Web3视频平台
 ]]></title>
@@ -6796,17 +6808,6 @@
         <author>
             <name>vivganes</name>
             <uri>https://news.ycombinator.com/user?id=vivganes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为HN添加 "Less "按钮的用户脚本]]></title>
-        <id>https://news.ycombinator.com/item?id=31013603</id>
-        <link href="https://news.ycombinator.com/item?id=31013603"/>
-        <updated>2022-04-13T11:59:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Userscript to add “Less” button to HN]]></summary>
-        <author>
-            <name>itsHel</name>
-            <uri>https://news.ycombinator.com/user?id=itsHel</uri>
         </author>
     </entry>
 </feed>
