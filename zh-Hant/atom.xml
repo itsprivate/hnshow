@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-09T14:02:39.874Z</updated>
+    <updated>2022-06-09T14:46:43.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Brows是一個帶有命令調色板的多面板文件瀏覽器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31681694</id>
+        <link href="https://news.ycombinator.com/item?id=31681694"/>
+        <updated>2022-06-09T14:35:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Brows is a multi-panel file browser with a command palette]]></summary>
+        <author>
+            <name>kxyx</name>
+            <uri>https://news.ycombinator.com/user?id=kxyx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Python和Jupyter的交互式音頻
 ]]></title>
@@ -6797,17 +6809,6 @@
         <author>
             <name>vivekweb2013</name>
             <uri>https://news.ycombinator.com/user?id=vivekweb2013</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI安全網，減少銷售中的人為錯誤]]></title>
-        <id>https://news.ycombinator.com/item?id=31013625</id>
-        <link href="https://news.ycombinator.com/item?id=31013625"/>
-        <updated>2022-04-13T12:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: AI Safety-net to reduce human errors in sales]]></summary>
-        <author>
-            <name>vivganes</name>
-            <uri>https://news.ycombinator.com/user?id=vivganes</uri>
         </author>
     </entry>
 </feed>
