@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-09T14:46:43.459Z</updated>
+    <updated>2022-06-09T15:02:29.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[权限 - GitHub的模块化IAM系统
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31681841</id>
+        <link href="https://news.ycombinator.com/item?id=31681841"/>
+        <updated>2022-06-09T14:46:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Entitlements – GitHub's modular IAM system]]></summary>
+        <author>
+            <name>githubwatcher</name>
+            <uri>https://news.ycombinator.com/user?id=githubwatcher</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由Dbt和Airbyte提供的开源数据工作区
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31681828</id>
+        <link href="https://news.ycombinator.com/item?id=31681828"/>
+        <updated>2022-06-09T14:45:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-Source Data Workspace Powered by Dbt and Airbyte]]></summary>
+        <author>
+            <name>floriankuwala</name>
+            <uri>https://news.ycombinator.com/user?id=floriankuwala</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brows是一个带有命令调色板的多面板文件浏览器
 ]]></title>
@@ -6787,28 +6811,6 @@
         <author>
             <name>matus_congrady</name>
             <uri>https://news.ycombinator.com/user?id=matus_congrady</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发现VevestaX--在Excel中跟踪ML特征、实验和EDA]]></title>
-        <id>https://news.ycombinator.com/item?id=31014034</id>
-        <link href="https://news.ycombinator.com/item?id=31014034"/>
-        <updated>2022-04-13T12:54:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Discover VevestaX – Track ML features, experiments and EDA in an Excel]]></summary>
-        <author>
-            <name>priyankanath</name>
-            <uri>https://news.ycombinator.com/user?id=priyankanath</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitNoter - 为你的GitHub仓库存储笔记]]></title>
-        <id>https://news.ycombinator.com/item?id=31013945</id>
-        <link href="https://news.ycombinator.com/item?id=31013945"/>
-        <updated>2022-04-13T12:44:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GitNoter – Store notes to your GitHub repository]]></summary>
-        <author>
-            <name>vivekweb2013</name>
-            <uri>https://news.ycombinator.com/user?id=vivekweb2013</uri>
         </author>
     </entry>
 </feed>
