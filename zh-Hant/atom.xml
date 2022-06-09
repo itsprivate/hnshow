@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-09T08:39:36.077Z</updated>
+    <updated>2022-06-09T11:30:48.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Go編寫的開源身份服務器 (Ory Kratos)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31679811</id>
+        <link href="https://news.ycombinator.com/item?id=31679811"/>
+        <updated>2022-06-09T11:17:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-Source Identity Server Written in Go (Ory Kratos)]]></summary>
+        <author>
+            <name>nottennis</name>
+            <uri>https://news.ycombinator.com/user?id=nottennis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[幫助被解僱的人--光環
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31679673</id>
+        <link href="https://news.ycombinator.com/item?id=31679673"/>
+        <updated>2022-06-09T10:51:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Help a Laid Off Person – Halo]]></summary>
+        <author>
+            <name>leonagano</name>
+            <uri>https://news.ycombinator.com/user?id=leonagano</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web Highlighter - 將任何網頁變成一個即時論壇
 ]]></title>
@@ -6777,28 +6801,6 @@
         <author>
             <name>kyoung3412</name>
             <uri>https://news.ycombinator.com/user?id=kyoung3412</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoogleBetter - 根據你的意圖在谷歌上獲得更好的結果]]></title>
-        <id>https://news.ycombinator.com/item?id=31010749</id>
-        <link href="https://news.ycombinator.com/item?id=31010749"/>
-        <updated>2022-04-13T03:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GoogleBetter – Better results on Google based on your intent]]></summary>
-        <author>
-            <name>AlexDragusin</name>
-            <uri>https://news.ycombinator.com/user?id=AlexDragusin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[增強的GNU Awk]]></title>
-        <id>https://news.ycombinator.com/item?id=31010269</id>
-        <link href="https://news.ycombinator.com/item?id=31010269"/>
-        <updated>2022-04-13T01:33:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Enhanced GNU Awk]]></summary>
-        <author>
-            <name>kazinator</name>
-            <uri>https://news.ycombinator.com/user?id=kazinator</uri>
         </author>
     </entry>
 </feed>

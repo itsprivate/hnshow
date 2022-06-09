@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 09 Jun 2022 08:39:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 11:30:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Go编写的开源身份服务器 (Ory Kratos)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31679811</link>
+            <guid>https://news.ycombinator.com/item?id=31679811</guid>
+            <pubDate>Thu, 09 Jun 2022 11:17:44 GMT</pubDate>
+            <description><![CDATA[Show HN: Open-Source Identity Server Written in Go (Ory Kratos)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[帮助被解雇的人--光环
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31679673</link>
+            <guid>https://news.ycombinator.com/item?id=31679673</guid>
+            <pubDate>Thu, 09 Jun 2022 10:51:40 GMT</pubDate>
+            <description><![CDATA[Show HN: Help a Laid Off Person – Halo]]></description>
+        </item>
         <item>
             <title><![CDATA[Web Highlighter - 将任何网页变成一个即时论坛
 ]]></title>
@@ -4385,20 +4401,6 @@
             <guid>https://news.ycombinator.com/item?id=31010814</guid>
             <pubDate>Wed, 13 Apr 2022 03:12:24 GMT</pubDate>
             <description><![CDATA[Show HN: Analysis report on Certification expiration status of Russian sites]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GoogleBetter - 根据你的意图在谷歌上获得更好的结果]]></title>
-            <link>https://news.ycombinator.com/item?id=31010749</link>
-            <guid>https://news.ycombinator.com/item?id=31010749</guid>
-            <pubDate>Wed, 13 Apr 2022 03:01:13 GMT</pubDate>
-            <description><![CDATA[Show HN: GoogleBetter – Better results on Google based on your intent]]></description>
-        </item>
-        <item>
-            <title><![CDATA[增强的GNU Awk]]></title>
-            <link>https://news.ycombinator.com/item?id=31010269</link>
-            <guid>https://news.ycombinator.com/item?id=31010269</guid>
-            <pubDate>Wed, 13 Apr 2022 01:33:46 GMT</pubDate>
-            <description><![CDATA[Show HN: Enhanced GNU Awk]]></description>
         </item>
     </channel>
 </rss>
