@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-10T14:02:56.961Z</updated>
+    <updated>2022-06-10T14:45:56.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Meadowrun將在AWS/Azure上運行Python的繁瑣細節自動化。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31694827</id>
+        <link href="https://news.ycombinator.com/item?id=31694827"/>
+        <updated>2022-06-10T14:37:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Meadowrun automates the tedious details of running Python on AWS/Azure]]></summary>
+        <author>
+            <name>indoorskier</name>
+            <uri>https://news.ycombinator.com/user?id=indoorskier</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tomatotree.tv - 使用 "爛番茄 "找到你的下一個要看的劇集
 ]]></title>
@@ -6825,17 +6837,6 @@
         <author>
             <name>deniskit</name>
             <uri>https://news.ycombinator.com/user?id=deniskit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神武網站]]></title>
-        <id>https://news.ycombinator.com/item?id=31027608</id>
-        <link href="https://news.ycombinator.com/item?id=31027608"/>
-        <updated>2022-04-14T14:37:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Shinobi Website]]></summary>
-        <author>
-            <name>bradley_taunt</name>
-            <uri>https://news.ycombinator.com/user?id=bradley_taunt</uri>
         </author>
     </entry>
 </feed>
