@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-10T13:51:13.010Z</updated>
+    <updated>2022-06-10T14:02:56.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Tomatotree.tv - 使用 "爛番茄 "找到你的下一個要看的劇集
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31694111</id>
+        <link href="https://news.ycombinator.com/item?id=31694111"/>
+        <updated>2022-06-10T13:45:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tomatotree.tv – Find your next series to watch using Rotten Tomatoes]]></summary>
+        <author>
+            <name>hauxir</name>
+            <uri>https://news.ycombinator.com/user?id=hauxir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一個開發工作崗位跟蹤器，看看我們是否處於經濟衰退期（還沒有）。
 ]]></title>
@@ -6824,17 +6836,6 @@
         <author>
             <name>bradley_taunt</name>
             <uri>https://news.ycombinator.com/user?id=bradley_taunt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[防篡改的分類賬網絡應用（OSS）]]></title>
-        <id>https://news.ycombinator.com/item?id=31027258</id>
-        <link href="https://news.ycombinator.com/item?id=31027258"/>
-        <updated>2022-04-14T14:09:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tamper-Proof Ledger Web App (OSS)]]></summary>
-        <author>
-            <name>teamconcords</name>
-            <uri>https://news.ycombinator.com/user?id=teamconcords</uri>
         </author>
     </entry>
 </feed>
