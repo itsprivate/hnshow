@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-10T02:24:10.167Z</updated>
+    <updated>2022-06-10T09:30:12.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[實時可視化和探索GitHub數據
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31691674</id>
+        <link href="https://news.ycombinator.com/item?id=31691674"/>
+        <updated>2022-06-10T08:56:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Visualize and explore GitHub data in realtime]]></summary>
+        <author>
+            <name>Hooopo</name>
+            <uri>https://news.ycombinator.com/user?id=Hooopo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tomatotree.tv - 使用 "爛番茄 "找到你的下一個要看的劇集
 ]]></title>
@@ -6816,17 +6828,6 @@
         <author>
             <name>hcalium</name>
             <uri>https://news.ycombinator.com/user?id=hcalium</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個機器人可以在谷歌日曆中添加你要見面的人的LinkedIn。]]></title>
-        <id>https://news.ycombinator.com/item?id=31024354</id>
-        <link href="https://news.ycombinator.com/item?id=31024354"/>
-        <updated>2022-04-14T07:51:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A bot to add the LinkedIn of people you're meeting in Google Calendar]]></summary>
-        <author>
-            <name>item21153</name>
-            <uri>https://news.ycombinator.com/user?id=item21153</uri>
         </author>
     </entry>
 </feed>
