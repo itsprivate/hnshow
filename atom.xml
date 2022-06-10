@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-10T10:32:33.720Z</updated>
+    <updated>2022-06-10T10:50:04.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Terragen.dev - 自动生成Terraform for AWS
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31692259</id>
+        <link href="https://news.ycombinator.com/item?id=31692259"/>
+        <updated>2022-06-10T10:42:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Terragen.dev – Automagically Generate Terraform for AWS]]></summary>
+        <author>
+            <name>igorzij</name>
+            <uri>https://news.ycombinator.com/user?id=igorzij</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[增长黑客工具包
 ]]></title>
@@ -6819,17 +6831,6 @@
         <author>
             <name>bluestreak</name>
             <uri>https://news.ycombinator.com/user?id=bluestreak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的朋友正在制作一个工具，供DnD玩家快速可视化场景。]]></title>
-        <id>https://news.ycombinator.com/item?id=31025055</id>
-        <link href="https://news.ycombinator.com/item?id=31025055"/>
-        <updated>2022-04-14T10:23:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: My mate is making a tool for DnD players to quickly visualise scenarios]]></summary>
-        <author>
-            <name>gigamick</name>
-            <uri>https://news.ycombinator.com/user?id=gigamick</uri>
         </author>
     </entry>
 </feed>
