@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 10 Jun 2022 18:39:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 18:58:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[PeerLite - 使用TypeScript进行完美协商的WebRTC库
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31697849</link>
+            <guid>https://news.ycombinator.com/item?id=31697849</guid>
+            <pubDate>Fri, 10 Jun 2022 18:37:57 GMT</pubDate>
+            <description><![CDATA[Show HN: PeerLite – WebRTC library with perfect negotiation using TypeScript]]></description>
+        </item>
         <item>
             <title><![CDATA[一个简单的基于命令行的笔记组织应用程序
 ]]></title>
@@ -4437,13 +4445,6 @@
             <guid>https://news.ycombinator.com/item?id=31027611</guid>
             <pubDate>Thu, 14 Apr 2022 14:37:28 GMT</pubDate>
             <description><![CDATA[Show HN: Parsers VC – Real-time tracking Venture Capital data provider]]></description>
-        </item>
-        <item>
-            <title><![CDATA[注重可读性的Hacker News阅读器]]></title>
-            <link>https://news.ycombinator.com/item?id=31032601</link>
-            <guid>https://news.ycombinator.com/item?id=31032601</guid>
-            <pubDate>Thu, 14 Apr 2022 20:09:22 GMT</pubDate>
-            <description><![CDATA[Show HN: Hacker News reader focused on readability]]></description>
         </item>
     </channel>
 </rss>
