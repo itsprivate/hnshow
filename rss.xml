@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 10 Jun 2022 14:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 15:54:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[创始人的财务指南
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31695576</link>
+            <guid>https://news.ycombinator.com/item?id=31695576</guid>
+            <pubDate>Fri, 10 Jun 2022 15:32:48 GMT</pubDate>
+            <description><![CDATA[Show HN: Finance for Founders Guide]]></description>
+        </item>
         <item>
             <title><![CDATA[Meadowrun将在AWS/Azure上运行Python的繁琐细节自动化。
 ]]></title>
@@ -4430,13 +4438,6 @@
             <guid>https://news.ycombinator.com/item?id=31027623</guid>
             <pubDate>Thu, 14 Apr 2022 14:38:50 GMT</pubDate>
             <description><![CDATA[Show HN: I build a tool to serve your machine learning models in no time]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不同信息类型的团队协作]]></title>
-            <link>https://news.ycombinator.com/item?id=31027942</link>
-            <guid>https://news.ycombinator.com/item?id=31027942</guid>
-            <pubDate>Thu, 14 Apr 2022 15:08:33 GMT</pubDate>
-            <description><![CDATA[Show HN: Team collaboration with different message types]]></description>
         </item>
     </channel>
 </rss>

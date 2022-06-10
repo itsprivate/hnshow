@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-10T14:45:56.465Z</updated>
+    <updated>2022-06-10T15:54:57.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[创始人的财务指南
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31695576</id>
+        <link href="https://news.ycombinator.com/item?id=31695576"/>
+        <updated>2022-06-10T15:32:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Finance for Founders Guide]]></summary>
+        <author>
+            <name>smoussa</name>
+            <uri>https://news.ycombinator.com/user?id=smoussa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meadowrun将在AWS/Azure上运行Python的繁琐细节自动化。
 ]]></title>
@@ -6826,17 +6838,6 @@
         <author>
             <name>wjiuhe</name>
             <uri>https://news.ycombinator.com/user?id=wjiuhe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不同信息类型的团队协作]]></title>
-        <id>https://news.ycombinator.com/item?id=31027942</id>
-        <link href="https://news.ycombinator.com/item?id=31027942"/>
-        <updated>2022-04-14T15:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Team collaboration with different message types]]></summary>
-        <author>
-            <name>deniskit</name>
-            <uri>https://news.ycombinator.com/user?id=deniskit</uri>
         </author>
     </entry>
 </feed>
