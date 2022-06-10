@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-10T13:00:00.730Z</updated>
+    <updated>2022-06-10T13:51:12.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一个开发工作岗位跟踪器，看看我们是否处于经济衰退期（还没有）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31694038</id>
+        <link href="https://news.ycombinator.com/item?id=31694038"/>
+        <updated>2022-06-10T13:40:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a dev job post tracker to see if we are in recession (not yet)]]></summary>
+        <author>
+            <name>tombrm</name>
+            <uri>https://news.ycombinator.com/user?id=tombrm</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[帮助被解雇的人。分享他们的资料。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31693853</id>
+        <link href="https://news.ycombinator.com/item?id=31693853"/>
+        <updated>2022-06-10T13:27:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Help a laid off person. Share their profile.]]></summary>
+        <author>
+            <name>leonagano</name>
+            <uri>https://news.ycombinator.com/user?id=leonagano</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用语言模型分析顶级HN帖子
 ]]></title>
@@ -6811,28 +6835,6 @@
         <author>
             <name>teamconcords</name>
             <uri>https://news.ycombinator.com/user?id=teamconcords</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个不会把访客送走的链接缩短器]]></title>
-        <id>https://news.ycombinator.com/item?id=31027220</id>
-        <link href="https://news.ycombinator.com/item?id=31027220"/>
-        <updated>2022-04-14T14:06:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A link shortener that doesn't send visitors away]]></summary>
-        <author>
-            <name>arafatgazi</name>
-            <uri>https://news.ycombinator.com/user?id=arafatgazi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[练习机器学习的不同方式]]></title>
-        <id>https://news.ycombinator.com/item?id=31026931</id>
-        <link href="https://news.ycombinator.com/item?id=31026931"/>
-        <updated>2022-04-14T13:47:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A different way to practice machine learning]]></summary>
-        <author>
-            <name>vladoh</name>
-            <uri>https://news.ycombinator.com/user?id=vladoh</uri>
         </author>
     </entry>
 </feed>
