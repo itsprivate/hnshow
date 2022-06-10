@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-10T15:54:57.543Z</updated>
+    <updated>2022-06-10T16:50:48.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mood Surf - 一個基於話題的Twitter線程發現引擎
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31696384</id>
+        <link href="https://news.ycombinator.com/item?id=31696384"/>
+        <updated>2022-06-10T16:35:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mood Surf – A topic-based discovery engine for Twitter threads]]></summary>
+        <author>
+            <name>researchers</name>
+            <uri>https://news.ycombinator.com/user?id=researchers</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recode - 定義為代碼的遠程開發環境
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31696251</id>
+        <link href="https://news.ycombinator.com/item?id=31696251"/>
+        <updated>2022-06-10T16:24:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Recode – Remote development environments defined as code]]></summary>
+        <author>
+            <name>jeremylevy</name>
+            <uri>https://news.ycombinator.com/user?id=jeremylevy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[創始人的財務指南
 ]]></title>
@@ -6816,28 +6840,6 @@
         <author>
             <name>jtorsella</name>
             <uri>https://news.ycombinator.com/user?id=jtorsella</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[根據你的輸入獲得一個獨特的櫻花基地]]></title>
-        <id>https://news.ycombinator.com/item?id=31028004</id>
-        <link href="https://news.ycombinator.com/item?id=31028004"/>
-        <updated>2022-04-14T15:13:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Get a unique sakura base on your input]]></summary>
-        <author>
-            <name>kelvinko</name>
-            <uri>https://news.ycombinator.com/user?id=kelvinko</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一個工具，在短時間內為你的機器學習模型提供服務]]></title>
-        <id>https://news.ycombinator.com/item?id=31027623</id>
-        <link href="https://news.ycombinator.com/item?id=31027623"/>
-        <updated>2022-04-14T14:38:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I build a tool to serve your machine learning models in no time]]></summary>
-        <author>
-            <name>wjiuhe</name>
-            <uri>https://news.ycombinator.com/user?id=wjiuhe</uri>
         </author>
     </entry>
 </feed>
