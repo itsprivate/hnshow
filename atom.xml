@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-10T17:11:36.116Z</updated>
+    <updated>2022-06-10T17:59:48.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Dataherald (YC W21)实时数据，可在3次点击中实现可视化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31697162</id>
+        <link href="https://news.ycombinator.com/item?id=31697162"/>
+        <updated>2022-06-10T17:39:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dataherald (YC W21) Live Data, Ready to Visualize in 3 Clicks]]></summary>
+        <author>
+            <name>saigal</name>
+            <uri>https://news.ycombinator.com/user?id=saigal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开发人员的计算机视觉模型
 ]]></title>
@@ -6831,17 +6843,6 @@
         <author>
             <name>eagledotRL</name>
             <uri>https://news.ycombinator.com/user?id=eagledotRL</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由GPT-3驱动的占卜板可以移动你的鼠标]]></title>
-        <id>https://news.ycombinator.com/item?id=31030425</id>
-        <link href="https://news.ycombinator.com/item?id=31030425"/>
-        <updated>2022-04-14T17:43:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GPT-3 powered Ouija spirit board that moves your mouse]]></summary>
-        <author>
-            <name>baobabKoodaa</name>
-            <uri>https://news.ycombinator.com/user?id=baobabKoodaa</uri>
         </author>
     </entry>
 </feed>
