@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-10T10:50:04.373Z</updated>
+    <updated>2022-06-10T13:00:00.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用語言模型分析頂級HN帖子
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31693314</id>
+        <link href="https://news.ycombinator.com/item?id=31693314"/>
+        <updated>2022-06-10T12:47:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Analyzing top HN posts with language models]]></summary>
+        <author>
+            <name>jayalammar</name>
+            <uri>https://news.ycombinator.com/user?id=jayalammar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[定期將MySQL備份到電子郵件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31692937</id>
+        <link href="https://news.ycombinator.com/item?id=31692937"/>
+        <updated>2022-06-10T12:10:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Regular MySQL Backup to Email]]></summary>
+        <author>
+            <name>tariky</name>
+            <uri>https://news.ycombinator.com/user?id=tariky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terragen.dev - 自動生成Terraform for AWS
 ]]></title>
@@ -6809,28 +6833,6 @@
         <author>
             <name>vladoh</name>
             <uri>https://news.ycombinator.com/user?id=vladoh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PineNote上的Windows XP]]></title>
-        <id>https://news.ycombinator.com/item?id=31026779</id>
-        <link href="https://news.ycombinator.com/item?id=31026779"/>
-        <updated>2022-04-14T13:36:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Windows XP on PineNote]]></summary>
-        <author>
-            <name>jcuenod</name>
-            <uri>https://news.ycombinator.com/user?id=jcuenod</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用SQL實時查詢實時的加密貨幣交易]]></title>
-        <id>https://news.ycombinator.com/item?id=31026732</id>
-        <link href="https://news.ycombinator.com/item?id=31026732"/>
-        <updated>2022-04-14T13:32:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Query live crypto trades with SQL in real-time]]></summary>
-        <author>
-            <name>bluestreak</name>
-            <uri>https://news.ycombinator.com/user?id=bluestreak</uri>
         </author>
     </entry>
 </feed>

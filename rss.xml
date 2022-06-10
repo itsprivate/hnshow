@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 10 Jun 2022 10:50:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 13:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用语言模型分析顶级HN帖子
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31693314</link>
+            <guid>https://news.ycombinator.com/item?id=31693314</guid>
+            <pubDate>Fri, 10 Jun 2022 12:47:23 GMT</pubDate>
+            <description><![CDATA[Show HN: Analyzing top HN posts with language models]]></description>
+        </item>
+        <item>
+            <title><![CDATA[定期将MySQL备份到电子邮件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31692937</link>
+            <guid>https://news.ycombinator.com/item?id=31692937</guid>
+            <pubDate>Fri, 10 Jun 2022 12:10:31 GMT</pubDate>
+            <description><![CDATA[Show HN: Regular MySQL Backup to Email]]></description>
+        </item>
         <item>
             <title><![CDATA[Terragen.dev - 自动生成Terraform for AWS
 ]]></title>
@@ -4417,20 +4433,6 @@
             <guid>https://news.ycombinator.com/item?id=31026931</guid>
             <pubDate>Thu, 14 Apr 2022 13:47:47 GMT</pubDate>
             <description><![CDATA[Show HN: A different way to practice machine learning]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PineNote上的Windows XP]]></title>
-            <link>https://news.ycombinator.com/item?id=31026779</link>
-            <guid>https://news.ycombinator.com/item?id=31026779</guid>
-            <pubDate>Thu, 14 Apr 2022 13:36:07 GMT</pubDate>
-            <description><![CDATA[Show HN: Windows XP on PineNote]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用SQL实时查询实时的加密货币交易]]></title>
-            <link>https://news.ycombinator.com/item?id=31026732</link>
-            <guid>https://news.ycombinator.com/item?id=31026732</guid>
-            <pubDate>Thu, 14 Apr 2022 13:32:46 GMT</pubDate>
-            <description><![CDATA[Show HN: Query live crypto trades with SQL in real-time]]></description>
         </item>
     </channel>
 </rss>
