@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-10T20:59:27.596Z</updated>
+    <updated>2022-06-10T21:25:50.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大HN - 增加HN上字體大小的微小用戶腳本
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31699495</id>
+        <link href="https://news.ycombinator.com/item?id=31699495"/>
+        <updated>2022-06-10T21:20:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Big HN – Tiny Userscript to Increase Font Size on HN]]></summary>
+        <author>
+            <name>susam</name>
+            <uri>https://news.ycombinator.com/user?id=susam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我自行出版了 "互聯網創業者的法律"。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31699295</id>
+        <link href="https://news.ycombinator.com/item?id=31699295"/>
+        <updated>2022-06-10T20:58:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I self-published “Law for Internet Entrepreneurs”]]></summary>
+        <author>
+            <name>anconia</name>
+            <uri>https://news.ycombinator.com/user?id=anconia</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用類似於Automerge的API對JSON進行快速的差異、修補和合並
 ]]></title>
@@ -6827,28 +6851,6 @@
         <author>
             <name>chenvivi</name>
             <uri>https://news.ycombinator.com/user?id=chenvivi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI寫的關於愛情的故事/詩歌/Rap]]></title>
-        <id>https://news.ycombinator.com/item?id=31036432</id>
-        <link href="https://news.ycombinator.com/item?id=31036432"/>
-        <updated>2022-04-15T03:41:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: AI Written Stories/Poetry/Raps about Love]]></summary>
-        <author>
-            <name>exdsq</name>
-            <uri>https://news.ycombinator.com/user?id=exdsq</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[與S3類似，但用於保存blob數據的歷史記錄]]></title>
-        <id>https://news.ycombinator.com/item?id=31035925</id>
-        <link href="https://news.ycombinator.com/item?id=31035925"/>
-        <updated>2022-04-15T02:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Like S3 but for keeping history of blob data]]></summary>
-        <author>
-            <name>flipback</name>
-            <uri>https://news.ycombinator.com/user?id=flipback</uri>
         </author>
     </entry>
 </feed>
