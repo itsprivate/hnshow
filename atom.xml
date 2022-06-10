@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-10T16:50:48.253Z</updated>
+    <updated>2022-06-10T17:11:36.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开发人员的计算机视觉模型
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31696591</id>
+        <link href="https://news.ycombinator.com/item?id=31696591"/>
+        <updated>2022-06-10T16:51:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Computer Vision Models for Developers]]></summary>
+        <author>
+            <name>warangal</name>
+            <uri>https://news.ycombinator.com/user?id=warangal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在你的服务器端渲染的Python Web应用程序中的组件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31696571</id>
+        <link href="https://news.ycombinator.com/item?id=31696571"/>
+        <updated>2022-06-10T16:49:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Components in your server-side-rendered Python web ap]]></summary>
+        <author>
+            <name>jp_sc</name>
+            <uri>https://news.ycombinator.com/user?id=jp_sc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mood Surf - 一个基于话题的Twitter线程发现引擎
 ]]></title>
@@ -6818,28 +6842,6 @@
         <author>
             <name>baobabKoodaa</name>
             <uri>https://news.ycombinator.com/user?id=baobabKoodaa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用rust和flutter构建移动应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=31029846</id>
-        <link href="https://news.ycombinator.com/item?id=31029846"/>
-        <updated>2022-04-14T17:06:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Building mobile apps in rust and flutter]]></summary>
-        <author>
-            <name>dvc94ch</name>
-            <uri>https://news.ycombinator.com/user?id=dvc94ch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HacheQL，一个轻量级的库，使GraphQL请求可被HTTP缓存。]]></title>
-        <id>https://news.ycombinator.com/item?id=31029841</id>
-        <link href="https://news.ycombinator.com/item?id=31029841"/>
-        <updated>2022-04-14T17:06:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: HacheQL, a lightweight library to make GraphQL requests HTTP-cacheable]]></summary>
-        <author>
-            <name>jtorsella</name>
-            <uri>https://news.ycombinator.com/user?id=jtorsella</uri>
         </author>
     </entry>
 </feed>

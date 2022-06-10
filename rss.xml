@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 10 Jun 2022 16:50:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 17:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[开发人员的计算机视觉模型
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31696591</link>
+            <guid>https://news.ycombinator.com/item?id=31696591</guid>
+            <pubDate>Fri, 10 Jun 2022 16:51:35 GMT</pubDate>
+            <description><![CDATA[Show HN: Computer Vision Models for Developers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在你的服务器端渲染的Python Web应用程序中的组件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31696571</link>
+            <guid>https://news.ycombinator.com/item?id=31696571</guid>
+            <pubDate>Fri, 10 Jun 2022 16:49:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Components in your server-side-rendered Python web ap]]></description>
+        </item>
         <item>
             <title><![CDATA[Mood Surf - 一个基于话题的Twitter线程发现引擎
 ]]></title>
@@ -4426,20 +4442,6 @@
             <guid>https://news.ycombinator.com/item?id=31030425</guid>
             <pubDate>Thu, 14 Apr 2022 17:43:01 GMT</pubDate>
             <description><![CDATA[Show HN: GPT-3 powered Ouija spirit board that moves your mouse]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用rust和flutter构建移动应用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=31029846</link>
-            <guid>https://news.ycombinator.com/item?id=31029846</guid>
-            <pubDate>Thu, 14 Apr 2022 17:06:40 GMT</pubDate>
-            <description><![CDATA[Show HN: Building mobile apps in rust and flutter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HacheQL，一个轻量级的库，使GraphQL请求可被HTTP缓存。]]></title>
-            <link>https://news.ycombinator.com/item?id=31029841</link>
-            <guid>https://news.ycombinator.com/item?id=31029841</guid>
-            <pubDate>Thu, 14 Apr 2022 17:06:29 GMT</pubDate>
-            <description><![CDATA[Show HN: HacheQL, a lightweight library to make GraphQL requests HTTP-cacheable]]></description>
         </item>
     </channel>
 </rss>
