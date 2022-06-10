@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-10T17:59:48.709Z</updated>
+    <updated>2022-06-10T18:39:16.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個簡單的基於命令行的筆記組織應用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31696593</id>
+        <link href="https://news.ycombinator.com/item?id=31696593"/>
+        <updated>2022-06-10T16:51:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A simple command-line based note organisation app]]></summary>
+        <author>
+            <name>shivylp</name>
+            <uri>https://news.ycombinator.com/user?id=shivylp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dataherald (YC W21)實時數據，可在3次點擊中實現可視化
 ]]></title>
@@ -6832,17 +6844,6 @@
         <author>
             <name>hsblhsn</name>
             <uri>https://news.ycombinator.com/user?id=hsblhsn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快速，基於深度學習的模塊在CPU上進行推理的編譯]]></title>
-        <id>https://news.ycombinator.com/item?id=31030867</id>
-        <link href="https://news.ycombinator.com/item?id=31030867"/>
-        <updated>2022-04-14T18:08:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fast,Compiled deep-learning based modules for inferencing on CPUs]]></summary>
-        <author>
-            <name>eagledotRL</name>
-            <uri>https://news.ycombinator.com/user?id=eagledotRL</uri>
         </author>
     </entry>
 </feed>

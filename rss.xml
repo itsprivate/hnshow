@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 10 Jun 2022 17:59:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 18:39:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个简单的基于命令行的笔记组织应用程序
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31696593</link>
+            <guid>https://news.ycombinator.com/item?id=31696593</guid>
+            <pubDate>Fri, 10 Jun 2022 16:51:36 GMT</pubDate>
+            <description><![CDATA[Show HN: A simple command-line based note organisation app]]></description>
+        </item>
         <item>
             <title><![CDATA[Dataherald (YC W21)实时数据，可在3次点击中实现可视化
 ]]></title>
@@ -4436,13 +4444,6 @@
             <guid>https://news.ycombinator.com/item?id=31032601</guid>
             <pubDate>Thu, 14 Apr 2022 20:09:22 GMT</pubDate>
             <description><![CDATA[Show HN: Hacker News reader focused on readability]]></description>
-        </item>
-        <item>
-            <title><![CDATA[快速，基于深度学习的模块在CPU上进行推理的编译]]></title>
-            <link>https://news.ycombinator.com/item?id=31030867</link>
-            <guid>https://news.ycombinator.com/item?id=31030867</guid>
-            <pubDate>Thu, 14 Apr 2022 18:08:19 GMT</pubDate>
-            <description><![CDATA[Show HN: Fast,Compiled deep-learning based modules for inferencing on CPUs]]></description>
         </item>
     </channel>
 </rss>
