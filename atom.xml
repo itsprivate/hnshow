@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-10T20:30:31.444Z</updated>
+    <updated>2022-06-10T20:59:27.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用类似于Automerge的API对JSON进行快速的差异、修补和合并
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31699230</id>
+        <link href="https://news.ycombinator.com/item?id=31699230"/>
+        <updated>2022-06-10T20:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pigeon–Fast diff, patch, merge for JSON with an Automerge-like API]]></summary>
+        <author>
+            <name>dxchester</name>
+            <uri>https://news.ycombinator.com/user?id=dxchester</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一个工具来描述~4.3B的颜色
 ]]></title>
@@ -6837,17 +6849,6 @@
         <author>
             <name>flipback</name>
             <uri>https://news.ycombinator.com/user?id=flipback</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neovimcraft.com - 策划的Neovim插件搜索]]></title>
-        <id>https://news.ycombinator.com/item?id=31035804</id>
-        <link href="https://news.ycombinator.com/item?id=31035804"/>
-        <updated>2022-04-15T01:46:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Neovimcraft.com – curated search of Neovim plugins]]></summary>
-        <author>
-            <name>qudat</name>
-            <uri>https://news.ycombinator.com/user?id=qudat</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 10 Jun 2022 20:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 20:59:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用類似於Automerge的API對JSON進行快速的差異、修補和合並
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31699230</link>
+            <guid>https://news.ycombinator.com/item?id=31699230</guid>
+            <pubDate>Fri, 10 Jun 2022 20:51:46 GMT</pubDate>
+            <description><![CDATA[Show HN: Pigeon–Fast diff, patch, merge for JSON with an Automerge-like API]]></description>
+        </item>
         <item>
             <title><![CDATA[我建立了一個工具來描述~4.3B的顏色
 ]]></title>
@@ -4441,13 +4449,6 @@
             <guid>https://news.ycombinator.com/item?id=31035925</guid>
             <pubDate>Fri, 15 Apr 2022 02:05:00 GMT</pubDate>
             <description><![CDATA[Show HN: Like S3 but for keeping history of blob data]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Neovimcraft.com - 策劃的Neovim插件搜索]]></title>
-            <link>https://news.ycombinator.com/item?id=31035804</link>
-            <guid>https://news.ycombinator.com/item?id=31035804</guid>
-            <pubDate>Fri, 15 Apr 2022 01:46:44 GMT</pubDate>
-            <description><![CDATA[Show HN: Neovimcraft.com – curated search of Neovim plugins]]></description>
         </item>
     </channel>
 </rss>
