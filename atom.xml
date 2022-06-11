@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-11T20:46:00.634Z</updated>
+    <updated>2022-06-11T21:46:23.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我把swarmprom移植到了所有新的图像版本上
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31708695</id>
+        <link href="https://news.ycombinator.com/item?id=31708695"/>
+        <updated>2022-06-11T21:40:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I ported swarmprom to all new image versions]]></summary>
+        <author>
+            <name>ancieque</name>
+            <uri>https://news.ycombinator.com/user?id=ancieque</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amalgam引擎--轻松创建等距虚拟世界
 ]]></title>
@@ -6854,17 +6866,6 @@
         <author>
             <name>herodoturtle</name>
             <uri>https://news.ycombinator.com/user?id=herodoturtle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[光线追踪的4D Julia分形渲染器（Linux/Windows）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31043130</id>
-        <link href="https://news.ycombinator.com/item?id=31043130"/>
-        <updated>2022-04-15T17:38:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ray traced 4D Julia fractal renderer (Linux/Windows)]]></summary>
-        <author>
-            <name>zbendefy</name>
-            <uri>https://news.ycombinator.com/user?id=zbendefy</uri>
         </author>
     </entry>
 </feed>

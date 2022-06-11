@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 11 Jun 2022 20:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 21:46:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我把swarmprom移植到了所有新的图像版本上
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31708695</link>
+            <guid>https://news.ycombinator.com/item?id=31708695</guid>
+            <pubDate>Sat, 11 Jun 2022 21:40:58 GMT</pubDate>
+            <description><![CDATA[Show HN: I ported swarmprom to all new image versions]]></description>
+        </item>
         <item>
             <title><![CDATA[Amalgam引擎--轻松创建等距虚拟世界
 ]]></title>
@@ -4458,13 +4466,6 @@
             <guid>https://news.ycombinator.com/item?id=31043176</guid>
             <pubDate>Fri, 15 Apr 2022 17:40:59 GMT</pubDate>
             <description><![CDATA[Show HN: When you Google “Google Earth” it shows “Google Eart”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[光线追踪的4D Julia分形渲染器（Linux/Windows）。]]></title>
-            <link>https://news.ycombinator.com/item?id=31043130</link>
-            <guid>https://news.ycombinator.com/item?id=31043130</guid>
-            <pubDate>Fri, 15 Apr 2022 17:38:27 GMT</pubDate>
-            <description><![CDATA[Show HN: Ray traced 4D Julia fractal renderer (Linux/Windows)]]></description>
         </item>
     </channel>
 </rss>
