@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-11T13:40:58.186Z</updated>
+    <updated>2022-06-11T13:57:41.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[利用實體經濟和加密貨幣對抗通貨膨脹的新工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31704385</id>
+        <link href="https://news.ycombinator.com/item?id=31704385"/>
+        <updated>2022-06-11T13:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A new tool to fight inflation using real economy and crypto]]></summary>
+        <author>
+            <name>mcanosa</name>
+            <uri>https://news.ycombinator.com/user?id=mcanosa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[練習前端問題的平臺
 ]]></title>
@@ -6848,17 +6860,6 @@
         <author>
             <name>roschdal</name>
             <uri>https://news.ycombinator.com/user?id=roschdal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript中的利薩裘斯曲線生成器]]></title>
-        <id>https://news.ycombinator.com/item?id=31040827</id>
-        <link href="https://news.ycombinator.com/item?id=31040827"/>
-        <updated>2022-04-15T14:44:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lissajous Curve Generator in JavaScript]]></summary>
-        <author>
-            <name>2142018</name>
-            <uri>https://news.ycombinator.com/user?id=2142018</uri>
         </author>
     </entry>
 </feed>
