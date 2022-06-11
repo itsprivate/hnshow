@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-11T14:47:52.807Z</updated>
+    <updated>2022-06-11T16:37:14.218Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[带有Libp2p的Matrix家庭服务器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31705738</id>
+        <link href="https://news.ycombinator.com/item?id=31705738"/>
+        <updated>2022-06-11T16:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Matrix Home Server with Libp2p]]></summary>
+        <author>
+            <name>gdlol</name>
+            <uri>https://news.ycombinator.com/user?id=gdlol</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hadwin--一个资金转移应用程序的原型
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31705507</id>
+        <link href="https://news.ycombinator.com/item?id=31705507"/>
+        <updated>2022-06-11T16:02:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hadwin – prototype of a fund transfer app]]></summary>
+        <author>
+            <name>brownboycodes</name>
+            <uri>https://news.ycombinator.com/user?id=brownboycodes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从你的MikroTik设备上实时绘制开放连接的三维地球图
 ]]></title>
@@ -6839,28 +6863,6 @@
         <author>
             <name>krasotkin</name>
             <uri>https://news.ycombinator.com/user?id=krasotkin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个由经过审查的风险投资专家组成的市场，帮助初创企业更快地筹集资金]]></title>
-        <id>https://news.ycombinator.com/item?id=31041854</id>
-        <link href="https://news.ycombinator.com/item?id=31041854"/>
-        <updated>2022-04-15T16:09:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A marketplace of vetted VC experts to help startups fundraise faster]]></summary>
-        <author>
-            <name>tematema555</name>
-            <uri>https://news.ycombinator.com/user?id=tematema555</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EveryAuth：你的应用程序访问API的最简单方法]]></title>
-        <id>https://news.ycombinator.com/item?id=31041761</id>
-        <link href="https://news.ycombinator.com/item?id=31041761"/>
-        <updated>2022-04-15T16:02:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: EveryAuth: The Easiest Way for Your App to Access APIs]]></summary>
-        <author>
-            <name>chrismore</name>
-            <uri>https://news.ycombinator.com/user?id=chrismore</uri>
         </author>
     </entry>
 </feed>
