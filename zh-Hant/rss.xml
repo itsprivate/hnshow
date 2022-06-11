@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 11 Jun 2022 04:38:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 13:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Present - 在你的Markdown文檔中插值shell腳本的輸出
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31704115</link>
+            <guid>https://news.ycombinator.com/item?id=31704115</guid>
+            <pubDate>Sat, 11 Jun 2022 12:58:29 GMT</pubDate>
+            <description><![CDATA[Show HN: Present – Interpolate the output of shell scripts in your Markdown docs]]></description>
+        </item>
         <item>
             <title><![CDATA[Fetcher - 個人賬戶的 "RSS "提要
 ]]></title>
@@ -4450,13 +4458,6 @@
             <guid>https://news.ycombinator.com/item?id=31039240</guid>
             <pubDate>Fri, 15 Apr 2022 12:09:06 GMT</pubDate>
             <description><![CDATA[Show HN: Virtual Desktop in a Browser]]></description>
-        </item>
-        <item>
-            <title><![CDATA[4917 兒童機器代碼 - 紙牌遊戲]]></title>
-            <link>https://news.ycombinator.com/item?id=31039229</link>
-            <guid>https://news.ycombinator.com/item?id=31039229</guid>
-            <pubDate>Fri, 15 Apr 2022 12:07:27 GMT</pubDate>
-            <description><![CDATA[Show HN: 4917 Machine Code for Kids – Card Game]]></description>
         </item>
     </channel>
 </rss>
