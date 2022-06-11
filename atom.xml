@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-11T18:51:09.802Z</updated>
+    <updated>2022-06-11T20:46:00.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Amalgam引擎--轻松创建等距虚拟世界
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31708169</id>
+        <link href="https://news.ycombinator.com/item?id=31708169"/>
+        <updated>2022-06-11T20:41:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Amalgam Engine – Easily create isometric virtual worlds]]></summary>
+        <author>
+            <name>net_</name>
+            <uri>https://news.ycombinator.com/user?id=net_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NVMe / SSD / HDD S.m.a.r.t监测
 ]]></title>
@@ -6853,17 +6865,6 @@
         <author>
             <name>zbendefy</name>
             <uri>https://news.ycombinator.com/user?id=zbendefy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个像i3wm那样完全用C#编写的平铺式窗口管理器]]></title>
-        <id>https://news.ycombinator.com/item?id=31043063</id>
-        <link href="https://news.ycombinator.com/item?id=31043063"/>
-        <updated>2022-04-15T17:34:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A tiling window manager like i3wm written entirely in C#]]></summary>
-        <author>
-            <name>toothbrush6</name>
-            <uri>https://news.ycombinator.com/user?id=toothbrush6</uri>
         </author>
     </entry>
 </feed>
