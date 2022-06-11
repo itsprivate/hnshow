@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-11T13:57:41.642Z</updated>
+    <updated>2022-06-11T14:47:52.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從你的MikroTik設備上實時繪製開放連接的三維地球圖
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31704698</id>
+        <link href="https://news.ycombinator.com/item?id=31704698"/>
+        <updated>2022-06-11T14:33:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Live plot open connections from your MikroTik device on a 3-d globe]]></summary>
+        <author>
+            <name>M0r13n</name>
+            <uri>https://news.ycombinator.com/user?id=M0r13n</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[利用實體經濟和加密貨幣對抗通貨膨脹的新工具
 ]]></title>
@@ -6849,17 +6861,6 @@
         <author>
             <name>chrismore</name>
             <uri>https://news.ycombinator.com/user?id=chrismore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[慕尼黑的演講]]></title>
-        <id>https://news.ycombinator.com/item?id=31041184</id>
-        <link href="https://news.ycombinator.com/item?id=31041184"/>
-        <updated>2022-04-15T15:18:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The Munich Speech]]></summary>
-        <author>
-            <name>roschdal</name>
-            <uri>https://news.ycombinator.com/user?id=roschdal</uri>
         </author>
     </entry>
 </feed>
