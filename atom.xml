@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-11T16:37:14.218Z</updated>
+    <updated>2022-06-11T18:51:09.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[NVMe / SSD / HDD S.m.a.r.t监测
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31706965</id>
+        <link href="https://news.ycombinator.com/item?id=31706965"/>
+        <updated>2022-06-11T18:41:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: NVMe / SSD / HDD S.m.a.r.t Monitoring]]></summary>
+        <author>
+            <name>dIsK</name>
+            <uri>https://news.ycombinator.com/user?id=dIsK</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[带有Libp2p的Matrix家庭服务器
 ]]></title>
@@ -6852,17 +6864,6 @@
         <author>
             <name>toothbrush6</name>
             <uri>https://news.ycombinator.com/user?id=toothbrush6</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我为初学者写了一本关于用PHP开发Web应用程序的短书]]></title>
-        <id>https://news.ycombinator.com/item?id=31042384</id>
-        <link href="https://news.ycombinator.com/item?id=31042384"/>
-        <updated>2022-04-15T16:43:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I wrote a short book on web applications with PHP for beginners]]></summary>
-        <author>
-            <name>krasotkin</name>
-            <uri>https://news.ycombinator.com/user?id=krasotkin</uri>
         </author>
     </entry>
 </feed>

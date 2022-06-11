@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 11 Jun 2022 16:37:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 18:51:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[NVMe / SSD / HDD S.m.a.r.t監測
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31706965</link>
+            <guid>https://news.ycombinator.com/item?id=31706965</guid>
+            <pubDate>Sat, 11 Jun 2022 18:41:06 GMT</pubDate>
+            <description><![CDATA[Show HN: NVMe / SSD / HDD S.m.a.r.t Monitoring]]></description>
+        </item>
         <item>
             <title><![CDATA[帶有Libp2p的Matrix家庭服務器
 ]]></title>
@@ -4456,13 +4464,6 @@
             <guid>https://news.ycombinator.com/item?id=31043063</guid>
             <pubDate>Fri, 15 Apr 2022 17:34:23 GMT</pubDate>
             <description><![CDATA[Show HN: A tiling window manager like i3wm written entirely in C#]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我為初學者寫了一本關於用PHP開發Web應用程序的短書]]></title>
-            <link>https://news.ycombinator.com/item?id=31042384</link>
-            <guid>https://news.ycombinator.com/item?id=31042384</guid>
-            <pubDate>Fri, 15 Apr 2022 16:43:03 GMT</pubDate>
-            <description><![CDATA[Show HN: I wrote a short book on web applications with PHP for beginners]]></description>
         </item>
     </channel>
 </rss>
