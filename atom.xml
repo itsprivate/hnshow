@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-11T02:14:49.442Z</updated>
+    <updated>2022-06-11T04:38:46.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fetcher - 个人账户的 "RSS "提要
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31701938</id>
+        <link href="https://news.ycombinator.com/item?id=31701938"/>
+        <updated>2022-06-11T04:29:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fetcher – personal account 'RSS' feeds]]></summary>
+        <author>
+            <name>neriymus</name>
+            <uri>https://news.ycombinator.com/user?id=neriymus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SIEMCraft - Minecraft中的安全信息和事件管理
 ]]></title>
@@ -6845,17 +6857,6 @@
         <author>
             <name>throwaway47292</name>
             <uri>https://news.ycombinator.com/user?id=throwaway47292</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个游戏来测试你的Wordle技能]]></title>
-        <id>https://news.ycombinator.com/item?id=31038530</id>
-        <link href="https://news.ycombinator.com/item?id=31038530"/>
-        <updated>2022-04-15T10:26:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a game to test your Wordle skills]]></summary>
-        <author>
-            <name>danieltait</name>
-            <uri>https://news.ycombinator.com/user?id=danieltait</uri>
         </author>
     </entry>
 </feed>
