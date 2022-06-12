@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-12T17:47:29.342Z</updated>
+    <updated>2022-06-12T20:29:52.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Howl - 在Twitter上分享更長、更豐富的內容
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31717724</id>
+        <link href="https://news.ycombinator.com/item?id=31717724"/>
+        <updated>2022-06-12T19:58:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Howl – Share longer and richer content on Twitter]]></summary>
+        <author>
+            <name>joinhowl</name>
+            <uri>https://news.ycombinator.com/user?id=joinhowl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尋找關於Truegit的反饋，Git驅動的博客平臺
 ]]></title>
@@ -6877,17 +6889,6 @@
         <author>
             <name>serentty</name>
             <uri>https://news.ycombinator.com/user?id=serentty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breeze工作搜索過濾器有1400多萬條信息，現已進入測試階段]]></title>
-        <id>https://news.ycombinator.com/item?id=31054926</id>
-        <link href="https://news.ycombinator.com/item?id=31054926"/>
-        <updated>2022-04-16T18:44:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Breeze job search filter with 14M+ listings now in beta]]></summary>
-        <author>
-            <name>aghilmort</name>
-            <uri>https://news.ycombinator.com/user?id=aghilmort</uri>
         </author>
     </entry>
 </feed>
