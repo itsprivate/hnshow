@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 12 Jun 2022 02:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 04:50:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在lambda上构建服务应该是简单而有趣的
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31711417</link>
+            <guid>https://news.ycombinator.com/item?id=31711417</guid>
+            <pubDate>Sun, 12 Jun 2022 04:23:58 GMT</pubDate>
+            <description><![CDATA[Show HN: Building services on lambda should be easy and fun]]></description>
+        </item>
         <item>
             <title><![CDATA[浏览器扩展可以伪造你的位置数据以匹配你的VPN
 ]]></title>
@@ -4465,13 +4473,6 @@
             <guid>https://news.ycombinator.com/item?id=31047527</guid>
             <pubDate>Sat, 16 Apr 2022 00:03:20 GMT</pubDate>
             <description><![CDATA[Show HN: I made a REST API client in JavaScript]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个作为PWA运行的小型Hypercard堆栈]]></title>
-            <link>https://news.ycombinator.com/item?id=31041205</link>
-            <guid>https://news.ycombinator.com/item?id=31041205</guid>
-            <pubDate>Fri, 15 Apr 2022 15:19:57 GMT</pubDate>
-            <description><![CDATA[Show HN: A small Hypercard stack running as a PWA]]></description>
         </item>
     </channel>
 </rss>

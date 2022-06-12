@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-12T02:36:59.111Z</updated>
+    <updated>2022-06-12T04:50:27.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在lambda上构建服务应该是简单而有趣的
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31711417</id>
+        <link href="https://news.ycombinator.com/item?id=31711417"/>
+        <updated>2022-06-12T04:23:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Building services on lambda should be easy and fun]]></summary>
+        <author>
+            <name>nathants</name>
+            <uri>https://news.ycombinator.com/user?id=nathants</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[浏览器扩展可以伪造你的位置数据以匹配你的VPN
 ]]></title>
@@ -6861,17 +6873,6 @@
         <author>
             <name>vixalien</name>
             <uri>https://news.ycombinator.com/user?id=vixalien</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个作为PWA运行的小型Hypercard堆栈]]></title>
-        <id>https://news.ycombinator.com/item?id=31041205</id>
-        <link href="https://news.ycombinator.com/item?id=31041205"/>
-        <updated>2022-04-15T15:19:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A small Hypercard stack running as a PWA]]></summary>
-        <author>
-            <name>hyperhello</name>
-            <uri>https://news.ycombinator.com/user?id=hyperhello</uri>
         </author>
     </entry>
 </feed>
