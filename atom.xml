@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-12T21:47:25.565Z</updated>
+    <updated>2022-06-12T21:58:33.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HJKL训练器 - 习惯于HJKL Vim的键位
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31718655</id>
+        <link href="https://news.ycombinator.com/item?id=31718655"/>
+        <updated>2022-06-12T21:54:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: HJKL Trainer - Get used to HJKL Vim keybinds]]></summary>
+        <author>
+            <name>sodality2</name>
+            <uri>https://news.ycombinator.com/user?id=sodality2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vstwebview，使用web技术编写VST3音频插件UI
 ]]></title>
@@ -6881,17 +6893,6 @@
         <author>
             <name>YesBox</name>
             <uri>https://news.ycombinator.com/user?id=YesBox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[修复火狐浏览器中的书签文件]]></title>
-        <id>https://news.ycombinator.com/item?id=31057635</id>
-        <link href="https://news.ycombinator.com/item?id=31057635"/>
-        <updated>2022-04-17T01:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fix for the Bookmark Files from Firefox]]></summary>
-        <author>
-            <name>gform</name>
-            <uri>https://news.ycombinator.com/user?id=gform</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 12 Jun 2022 21:47:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 21:58:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HJKL訓練器 - 習慣於HJKL Vim的鍵位
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31718655</link>
+            <guid>https://news.ycombinator.com/item?id=31718655</guid>
+            <pubDate>Sun, 12 Jun 2022 21:54:49 GMT</pubDate>
+            <description><![CDATA[Show HN: HJKL Trainer - Get used to HJKL Vim keybinds]]></description>
+        </item>
         <item>
             <title><![CDATA[Vstwebview，使用web技術編寫VST3音頻插件UI
 ]]></title>
@@ -4485,13 +4493,6 @@
             <guid>https://news.ycombinator.com/item?id=31058104</guid>
             <pubDate>Sun, 17 Apr 2022 03:08:01 GMT</pubDate>
             <description><![CDATA[Show HN: Solving path finding in the city builder game Archapolis – 200K Units]]></description>
-        </item>
-        <item>
-            <title><![CDATA[修復火狐瀏覽器中的書籤文件]]></title>
-            <link>https://news.ycombinator.com/item?id=31057635</link>
-            <guid>https://news.ycombinator.com/item?id=31057635</guid>
-            <pubDate>Sun, 17 Apr 2022 01:30:10 GMT</pubDate>
-            <description><![CDATA[Show HN: Fix for the Bookmark Files from Firefox]]></description>
         </item>
     </channel>
 </rss>
