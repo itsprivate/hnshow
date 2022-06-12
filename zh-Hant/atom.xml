@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-11T23:28:42.292Z</updated>
+    <updated>2022-06-12T02:36:59.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[瀏覽器擴展可以偽造你的位置數據以匹配你的VPN
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31710603</id>
+        <link href="https://news.ycombinator.com/item?id=31710603"/>
+        <updated>2022-06-12T02:10:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Browser extension that spoofs your location data to match your VPN]]></summary>
+        <author>
+            <name>z0ccc</name>
+            <uri>https://news.ycombinator.com/user?id=z0ccc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尋找優先考慮多樣性、公平和包容性的僱主
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31710530</id>
+        <link href="https://news.ycombinator.com/item?id=31710530"/>
+        <updated>2022-06-12T01:59:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Find employers that prioritize diversity, equity, and inclusion]]></summary>
+        <author>
+            <name>andrewbridges</name>
+            <uri>https://news.ycombinator.com/user?id=andrewbridges</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[專輯旋轉 - 組織和可視化您最喜愛的專輯（桌面）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31710484</id>
+        <link href="https://news.ycombinator.com/item?id=31710484"/>
+        <updated>2022-06-12T01:50:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Album Rotation – Organize and visualize your favorite albums (desktop)]]></summary>
+        <author>
+            <name>adamfuhrer</name>
+            <uri>https://news.ycombinator.com/user?id=adamfuhrer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瀏覽器內簡單的1分鐘視頻記錄器，為YC應用提供時間線索。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31709925</id>
+        <link href="https://news.ycombinator.com/item?id=31709925"/>
+        <updated>2022-06-12T00:25:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Simple in-browser 1 minute video recorder with time clues for YC appl]]></summary>
+        <author>
+            <name>_bidule</name>
+            <uri>https://news.ycombinator.com/user?id=_bidule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用DALL-E Mega和Mini生成圖像
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31706606</id>
+        <link href="https://news.ycombinator.com/item?id=31706606"/>
+        <updated>2022-06-11T18:04:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Generate images using DALL-E Mega and Mini]]></summary>
+        <author>
+            <name>saharhash</name>
+            <uri>https://news.ycombinator.com/user?id=saharhash</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Freezes.fyi - 查看當前的技術招聘凍結情況
 ]]></title>
@@ -6812,61 +6872,6 @@
         <author>
             <name>hyperhello</name>
             <uri>https://news.ycombinator.com/user?id=hyperhello</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於iOS的GPU上的生成藝術]]></title>
-        <id>https://news.ycombinator.com/item?id=31045634</id>
-        <link href="https://news.ycombinator.com/item?id=31045634"/>
-        <updated>2022-04-15T20:47:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Generative Art on the GPU for iOS]]></summary>
-        <author>
-            <name>erper</name>
-            <uri>https://news.ycombinator.com/user?id=erper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個運行althttpd的微小Docker鏡像]]></title>
-        <id>https://news.ycombinator.com/item?id=31044846</id>
-        <link href="https://news.ycombinator.com/item?id=31044846"/>
-        <updated>2022-04-15T19:41:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A tiny Docker image running althttpd]]></summary>
-        <author>
-            <name>mgred</name>
-            <uri>https://news.ycombinator.com/user?id=mgred</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FastAPI和MongoDB後端模板]]></title>
-        <id>https://news.ycombinator.com/item?id=31044409</id>
-        <link href="https://news.ycombinator.com/item?id=31044409"/>
-        <updated>2022-04-15T19:09:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: FastAPI and MongoDB back end boilerplate]]></summary>
-        <author>
-            <name>walking_dev</name>
-            <uri>https://news.ycombinator.com/user?id=walking_dev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你已經知道如何使用的React狀態管理]]></title>
-        <id>https://news.ycombinator.com/item?id=31044597</id>
-        <link href="https://news.ycombinator.com/item?id=31044597"/>
-        <updated>2022-04-15T19:22:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: React state management you already know how to use]]></summary>
-        <author>
-            <name>mfbx9da4</name>
-            <uri>https://news.ycombinator.com/user?id=mfbx9da4</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ctrl+F不能找到你需要的東西嗎？]]></title>
-        <id>https://news.ycombinator.com/item?id=31044540</id>
-        <link href="https://news.ycombinator.com/item?id=31044540"/>
-        <updated>2022-04-15T19:19:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Is Ctrl+F not finding what you need?]]></summary>
-        <author>
-            <name>iamscout</name>
-            <uri>https://news.ycombinator.com/user?id=iamscout</uri>
         </author>
     </entry>
 </feed>
