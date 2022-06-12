@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-12T13:40:05.672Z</updated>
+    <updated>2022-06-12T14:27:30.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用於Safari瀏覽器的快速閱讀器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31714687</id>
+        <link href="https://news.ycombinator.com/item?id=31714687"/>
+        <updated>2022-06-12T14:20:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Speed Reader for Safari]]></summary>
+        <author>
+            <name>willswire</name>
+            <uri>https://news.ycombinator.com/user?id=willswire</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[專輯旋轉 - 組織和可視化您最喜愛的專輯（桌面）。
 ]]></title>
@@ -6868,17 +6880,6 @@
         <author>
             <name>dvrp</name>
             <uri>https://news.ycombinator.com/user?id=dvrp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的整潔的投資組合網站]]></title>
-        <id>https://news.ycombinator.com/item?id=31050339</id>
-        <link href="https://news.ycombinator.com/item?id=31050339"/>
-        <updated>2022-04-16T07:19:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: My Neat Portfolio Website]]></summary>
-        <author>
-            <name>khangnd</name>
-            <uri>https://news.ycombinator.com/user?id=khangnd</uri>
         </author>
     </entry>
 </feed>
