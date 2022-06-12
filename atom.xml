@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-12T07:44:20.076Z</updated>
+    <updated>2022-06-12T11:24:17.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Go模板预览（由WebAssembly提供）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31713654</id>
+        <link href="https://news.ycombinator.com/item?id=31713654"/>
+        <updated>2022-06-12T11:19:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Go Template Preview (Powered by WebAssembly)]]></summary>
+        <author>
+            <name>ricardbejarano</name>
+            <uri>https://news.ycombinator.com/user?id=ricardbejarano</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cleanup - 清除硬盘的UI应用程序（Lite Touch MDT安装）。
 ]]></title>
@@ -6865,17 +6877,6 @@
         <author>
             <name>anupamchugh</name>
             <uri>https://news.ycombinator.com/user?id=anupamchugh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你的DeFi投资的成本基础]]></title>
-        <id>https://news.ycombinator.com/item?id=31048002</id>
-        <link href="https://news.ycombinator.com/item?id=31048002"/>
-        <updated>2022-04-16T01:03:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cost basis for your DeFi investments]]></summary>
-        <author>
-            <name>dgrin91</name>
-            <uri>https://news.ycombinator.com/user?id=dgrin91</uri>
         </author>
     </entry>
 </feed>

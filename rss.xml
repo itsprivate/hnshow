@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 12 Jun 2022 07:44:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 11:24:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Go模板预览（由WebAssembly提供）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31713654</link>
+            <guid>https://news.ycombinator.com/item?id=31713654</guid>
+            <pubDate>Sun, 12 Jun 2022 11:19:29 GMT</pubDate>
+            <description><![CDATA[Show HN: Go Template Preview (Powered by WebAssembly)]]></description>
+        </item>
         <item>
             <title><![CDATA[Cleanup - 清除硬盘的UI应用程序（Lite Touch MDT安装）。
 ]]></title>
@@ -4469,13 +4477,6 @@
             <guid>https://news.ycombinator.com/item?id=31048752</guid>
             <pubDate>Sat, 16 Apr 2022 02:34:07 GMT</pubDate>
             <description><![CDATA[Show HN: Neptune Lang – A concurrent fast dynamically typed scripting language]]></description>
-        </item>
-        <item>
-            <title><![CDATA[你的DeFi投资的成本基础]]></title>
-            <link>https://news.ycombinator.com/item?id=31048002</link>
-            <guid>https://news.ycombinator.com/item?id=31048002</guid>
-            <pubDate>Sat, 16 Apr 2022 01:03:24 GMT</pubDate>
-            <description><![CDATA[Show HN: Cost basis for your DeFi investments]]></description>
         </item>
     </channel>
 </rss>
