@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-12T14:27:30.923Z</updated>
+    <updated>2022-06-12T14:45:54.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[龟兔赛跑--一个复杂的退休计算器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31714837</id>
+        <link href="https://news.ycombinator.com/item?id=31714837"/>
+        <updated>2022-06-12T14:38:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Tortoise – a sophisticated retirement calculator]]></summary>
+        <author>
+            <name>dnadler</name>
+            <uri>https://news.ycombinator.com/user?id=dnadler</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我可以使用DevTools吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31714709</id>
+        <link href="https://news.ycombinator.com/item?id=31714709"/>
+        <updated>2022-06-12T14:22:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Can I DevTools?]]></summary>
+        <author>
+            <name>pankajparashar</name>
+            <uri>https://news.ycombinator.com/user?id=pankajparashar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于Safari浏览器的快速阅读器
 ]]></title>
@@ -6858,28 +6882,6 @@
         <author>
             <name>hsblhsn</name>
             <uri>https://news.ycombinator.com/user?id=hsblhsn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从Y到Ω]]></title>
-        <id>https://news.ycombinator.com/item?id=31051015</id>
-        <link href="https://news.ycombinator.com/item?id=31051015"/>
-        <updated>2022-04-16T09:38:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: From Y to Ω]]></summary>
-        <author>
-            <name>martyalain</name>
-            <uri>https://news.ycombinator.com/user?id=martyalain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个用人工智能创建图像的应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=31049967</id>
-        <link href="https://news.ycombinator.com/item?id=31049967"/>
-        <updated>2022-04-16T06:08:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: an app to create images with AI]]></summary>
-        <author>
-            <name>dvrp</name>
-            <uri>https://news.ycombinator.com/user?id=dvrp</uri>
         </author>
     </entry>
 </feed>

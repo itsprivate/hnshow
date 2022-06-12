@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 12 Jun 2022 14:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 14:45:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[龜兔賽跑--一個複雜的退休計算器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31714837</link>
+            <guid>https://news.ycombinator.com/item?id=31714837</guid>
+            <pubDate>Sun, 12 Jun 2022 14:38:53 GMT</pubDate>
+            <description><![CDATA[Show HN: The Tortoise – a sophisticated retirement calculator]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我可以使用DevTools嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31714709</link>
+            <guid>https://news.ycombinator.com/item?id=31714709</guid>
+            <pubDate>Sun, 12 Jun 2022 14:22:38 GMT</pubDate>
+            <description><![CDATA[Show HN: Can I DevTools?]]></description>
+        </item>
         <item>
             <title><![CDATA[用於Safari瀏覽器的快速閱讀器
 ]]></title>
@@ -4466,20 +4482,6 @@
             <guid>https://news.ycombinator.com/item?id=31051463</guid>
             <pubDate>Sat, 16 Apr 2022 11:19:37 GMT</pubDate>
             <description><![CDATA[Show HN: GraphQL Wrapper for Hacker News API]]></description>
-        </item>
-        <item>
-            <title><![CDATA[從Y到Ω]]></title>
-            <link>https://news.ycombinator.com/item?id=31051015</link>
-            <guid>https://news.ycombinator.com/item?id=31051015</guid>
-            <pubDate>Sat, 16 Apr 2022 09:38:58 GMT</pubDate>
-            <description><![CDATA[Show HN: From Y to Ω]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個用人工智能創建圖像的應用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=31049967</link>
-            <guid>https://news.ycombinator.com/item?id=31049967</guid>
-            <pubDate>Sat, 16 Apr 2022 06:08:31 GMT</pubDate>
-            <description><![CDATA[Show HN: an app to create images with AI]]></description>
         </item>
     </channel>
 </rss>
