@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 12 Jun 2022 16:39:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 17:06:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[WASM Postflop - 在網絡瀏覽器上運行的免費撲克GTO解算器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31715946</link>
+            <guid>https://news.ycombinator.com/item?id=31715946</guid>
+            <pubDate>Sun, 12 Jun 2022 16:49:30 GMT</pubDate>
+            <description><![CDATA[Show HN: WASM Postflop – Free GTO solver for poker that works on web browsers]]></description>
+        </item>
         <item>
             <title><![CDATA[通過為谷歌雲計費設置上限來自動控制成本
 ]]></title>
@@ -4479,13 +4487,6 @@
             <guid>https://news.ycombinator.com/item?id=31054868</guid>
             <pubDate>Sat, 16 Apr 2022 18:38:31 GMT</pubDate>
             <description><![CDATA[Show HN: Dynamic Debug Logging]]></description>
-        </item>
-        <item>
-            <title><![CDATA[慢速社交，一個為朋友而非影響者建立的社交網絡]]></title>
-            <link>https://news.ycombinator.com/item?id=31054029</link>
-            <guid>https://news.ycombinator.com/item?id=31054029</guid>
-            <pubDate>Sat, 16 Apr 2022 17:09:02 GMT</pubDate>
-            <description><![CDATA[Show HN: Slow Social, a social network built for friends, not influencers]]></description>
         </item>
     </channel>
 </rss>

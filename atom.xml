@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-12T16:39:29.662Z</updated>
+    <updated>2022-06-12T17:06:47.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WASM Postflop - 在网络浏览器上运行的免费扑克GTO解算器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31715946</id>
+        <link href="https://news.ycombinator.com/item?id=31715946"/>
+        <updated>2022-06-12T16:49:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WASM Postflop – Free GTO solver for poker that works on web browsers]]></summary>
+        <author>
+            <name>b-inary</name>
+            <uri>https://news.ycombinator.com/user?id=b-inary</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通过为谷歌云计费设置上限来自动控制成本
 ]]></title>
@@ -6875,17 +6887,6 @@
         <author>
             <name>wsargent</name>
             <uri>https://news.ycombinator.com/user?id=wsargent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[慢速社交，一个为朋友而非影响者建立的社交网络]]></title>
-        <id>https://news.ycombinator.com/item?id=31054029</id>
-        <link href="https://news.ycombinator.com/item?id=31054029"/>
-        <updated>2022-04-16T17:09:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Slow Social, a social network built for friends, not influencers]]></summary>
-        <author>
-            <name>CitrusFruits</name>
-            <uri>https://news.ycombinator.com/user?id=CitrusFruits</uri>
         </author>
     </entry>
 </feed>
