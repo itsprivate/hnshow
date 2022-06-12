@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 12 Jun 2022 06:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 06:54:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[兰姆达威项目
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31712159</link>
+            <guid>https://news.ycombinator.com/item?id=31712159</guid>
+            <pubDate>Sun, 12 Jun 2022 06:48:49 GMT</pubDate>
+            <description><![CDATA[Show HN: The Lambdaway Project]]></description>
+        </item>
         <item>
             <title><![CDATA[Mwmbl爬行器扩展：从Firefox中爬行网络
 ]]></title>
@@ -4467,13 +4475,6 @@
             <guid>https://news.ycombinator.com/item?id=31047987</guid>
             <pubDate>Sat, 16 Apr 2022 01:02:02 GMT</pubDate>
             <description><![CDATA[Show HN: A candy crush style Wordle clone, 1 puzzle a day, 20 moves max]]></description>
-        </item>
-        <item>
-            <title><![CDATA[VocabSieve，一个通过文本获取词汇的工具]]></title>
-            <link>https://news.ycombinator.com/item?id=31047715</link>
-            <guid>https://news.ycombinator.com/item?id=31047715</guid>
-            <pubDate>Sat, 16 Apr 2022 00:31:36 GMT</pubDate>
-            <description><![CDATA[Show HN: VocabSieve, a tool for vocabulary acquisition through text]]></description>
         </item>
     </channel>
 </rss>
