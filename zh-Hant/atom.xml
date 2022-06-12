@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-12T14:45:54.798Z</updated>
+    <updated>2022-06-12T15:29:25.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DealHeroGames--頂級Steam遊戲的優惠活動
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31715078</id>
+        <link href="https://news.ycombinator.com/item?id=31715078"/>
+        <updated>2022-06-12T15:12:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: DealHeroGames – Deals on top Steam games]]></summary>
+        <author>
+            <name>brianpost</name>
+            <uri>https://news.ycombinator.com/user?id=brianpost</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[共同遞歸實用程序C庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31715049</id>
+        <link href="https://news.ycombinator.com/item?id=31715049"/>
+        <updated>2022-06-12T15:08:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Co-recursion utilities C library]]></summary>
+        <author>
+            <name>gradschool</name>
+            <uri>https://news.ycombinator.com/user?id=gradschool</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的404頁面是一個文本冒險
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31714852</id>
+        <link href="https://news.ycombinator.com/item?id=31714852"/>
+        <updated>2022-06-12T14:41:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My 404 page is a text adventure]]></summary>
+        <author>
+            <name>encse</name>
+            <uri>https://news.ycombinator.com/user?id=encse</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[龜兔賽跑--一個複雜的退休計算器
 ]]></title>
@@ -6849,39 +6885,6 @@
         <author>
             <name>probst</name>
             <uri>https://news.ycombinator.com/user?id=probst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[圍棋終端中的可點擊超鏈接]]></title>
-        <id>https://news.ycombinator.com/item?id=31053860</id>
-        <link href="https://news.ycombinator.com/item?id=31053860"/>
-        <updated>2022-04-16T16:47:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Clickable Hyperlinks in the Terminal for Go]]></summary>
-        <author>
-            <name>Skyascii</name>
-            <uri>https://news.ycombinator.com/user?id=Skyascii</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golang FFmpeg包裝器用於簡單的視頻I/O和網絡攝像頭流。]]></title>
-        <id>https://news.ycombinator.com/item?id=31053274</id>
-        <link href="https://news.ycombinator.com/item?id=31053274"/>
-        <updated>2022-04-16T15:51:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Golang FFmpeg wrapper for simple Video I/O and Webcam Streaming]]></summary>
-        <author>
-            <name>crypt0lution</name>
-            <uri>https://news.ycombinator.com/user?id=crypt0lution</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於Hacker News API的GraphQL封裝器]]></title>
-        <id>https://news.ycombinator.com/item?id=31051463</id>
-        <link href="https://news.ycombinator.com/item?id=31051463"/>
-        <updated>2022-04-16T11:19:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GraphQL Wrapper for Hacker News API]]></summary>
-        <author>
-            <name>hsblhsn</name>
-            <uri>https://news.ycombinator.com/user?id=hsblhsn</uri>
         </author>
     </entry>
 </feed>
