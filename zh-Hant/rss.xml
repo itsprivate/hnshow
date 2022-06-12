@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 12 Jun 2022 17:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 17:47:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[尋找關於Truegit的反饋，Git驅動的博客平臺
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31716393</link>
+            <guid>https://news.ycombinator.com/item?id=31716393</guid>
+            <pubDate>Sun, 12 Jun 2022 17:32:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Looking for feedback on Truegit, Git powered Blogging platform]]></description>
+        </item>
         <item>
             <title><![CDATA[WASM Postflop - 在網絡瀏覽器上運行的免費撲克GTO解算器
 ]]></title>
@@ -4480,13 +4488,6 @@
             <guid>https://news.ycombinator.com/item?id=31054926</guid>
             <pubDate>Sat, 16 Apr 2022 18:44:01 GMT</pubDate>
             <description><![CDATA[Show HN: Breeze job search filter with 14M+ listings now in beta]]></description>
-        </item>
-        <item>
-            <title><![CDATA[動態調試日誌]]></title>
-            <link>https://news.ycombinator.com/item?id=31054868</link>
-            <guid>https://news.ycombinator.com/item?id=31054868</guid>
-            <pubDate>Sat, 16 Apr 2022 18:38:31 GMT</pubDate>
-            <description><![CDATA[Show HN: Dynamic Debug Logging]]></description>
         </item>
     </channel>
 </rss>

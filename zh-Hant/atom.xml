@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-12T17:06:47.947Z</updated>
+    <updated>2022-06-12T17:47:29.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[尋找關於Truegit的反饋，Git驅動的博客平臺
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31716393</id>
+        <link href="https://news.ycombinator.com/item?id=31716393"/>
+        <updated>2022-06-12T17:32:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Looking for feedback on Truegit, Git powered Blogging platform]]></summary>
+        <author>
+            <name>quantdaddy</name>
+            <uri>https://news.ycombinator.com/user?id=quantdaddy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WASM Postflop - 在網絡瀏覽器上運行的免費撲克GTO解算器
 ]]></title>
@@ -6876,17 +6888,6 @@
         <author>
             <name>aghilmort</name>
             <uri>https://news.ycombinator.com/user?id=aghilmort</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[動態調試日誌]]></title>
-        <id>https://news.ycombinator.com/item?id=31054868</id>
-        <link href="https://news.ycombinator.com/item?id=31054868"/>
-        <updated>2022-04-16T18:38:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dynamic Debug Logging]]></summary>
-        <author>
-            <name>wsargent</name>
-            <uri>https://news.ycombinator.com/user?id=wsargent</uri>
         </author>
     </entry>
 </feed>
