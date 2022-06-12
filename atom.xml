@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-12T04:50:27.858Z</updated>
+    <updated>2022-06-12T06:34:41.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mwmbl爬行器扩展：从Firefox中爬行网络
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31711974</id>
+        <link href="https://news.ycombinator.com/item?id=31711974"/>
+        <updated>2022-06-12T06:15:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mwmbl crawler extension: crawl the web from Firefox]]></summary>
+        <author>
+            <name>daoudc</name>
+            <uri>https://news.ycombinator.com/user?id=daoudc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在lambda上构建服务应该是简单而有趣的
 ]]></title>
@@ -6862,17 +6874,6 @@
         <author>
             <name>alwayslikethis</name>
             <uri>https://news.ycombinator.com/user?id=alwayslikethis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我用JavaScript做了一个REST API客户端]]></title>
-        <id>https://news.ycombinator.com/item?id=31047527</id>
-        <link href="https://news.ycombinator.com/item?id=31047527"/>
-        <updated>2022-04-16T00:03:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a REST API client in JavaScript]]></summary>
-        <author>
-            <name>vixalien</name>
-            <uri>https://news.ycombinator.com/user?id=vixalien</uri>
         </author>
     </entry>
 </feed>
