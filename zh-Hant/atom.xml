@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-12T15:29:25.499Z</updated>
+    <updated>2022-06-12T16:39:29.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通過為谷歌雲計費設置上限來自動控制成本
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31715458</id>
+        <link href="https://news.ycombinator.com/item?id=31715458"/>
+        <updated>2022-06-12T15:56:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Automatic cost control by capping Google Cloud billing]]></summary>
+        <author>
+            <name>Cyclenerd</name>
+            <uri>https://news.ycombinator.com/user?id=Cyclenerd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DealHeroGames--頂級Steam遊戲的優惠活動
 ]]></title>
@@ -6874,17 +6886,6 @@
         <author>
             <name>CitrusFruits</name>
             <uri>https://news.ycombinator.com/user?id=CitrusFruits</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為自由職業者計算預留多少錢的工具]]></title>
-        <id>https://news.ycombinator.com/item?id=31054000</id>
-        <link href="https://news.ycombinator.com/item?id=31054000"/>
-        <updated>2022-04-16T17:05:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tool for freelancers to calculate how much money to set aside]]></summary>
-        <author>
-            <name>probst</name>
-            <uri>https://news.ycombinator.com/user?id=probst</uri>
         </author>
     </entry>
 </feed>
