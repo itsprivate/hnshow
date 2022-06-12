@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-12T21:58:33.200Z</updated>
+    <updated>2022-06-12T22:27:33.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[水彩AI
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31718603</id>
+        <link href="https://news.ycombinator.com/item?id=31718603"/>
+        <updated>2022-06-12T21:47:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Watercolor AI]]></summary>
+        <author>
+            <name>singam96</name>
+            <uri>https://news.ycombinator.com/user?id=singam96</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HJKL训练器 - 习惯于HJKL Vim的键位
 ]]></title>
@@ -6882,17 +6894,6 @@
         <author>
             <name>naveennamani</name>
             <uri>https://news.ycombinator.com/user?id=naveennamani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解决城市建设游戏Archapolis中的路径寻找问题 - 20万个单位]]></title>
-        <id>https://news.ycombinator.com/item?id=31058104</id>
-        <link href="https://news.ycombinator.com/item?id=31058104"/>
-        <updated>2022-04-17T03:08:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Solving path finding in the city builder game Archapolis – 200K Units]]></summary>
-        <author>
-            <name>YesBox</name>
-            <uri>https://news.ycombinator.com/user?id=YesBox</uri>
         </author>
     </entry>
 </feed>
