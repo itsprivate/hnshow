@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 13 Jun 2022 12:58:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 13:53:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[为你的股票投资组合创建预测
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31724904</link>
+            <guid>https://news.ycombinator.com/item?id=31724904</guid>
+            <pubDate>Mon, 13 Jun 2022 12:59:26 GMT</pubDate>
+            <description><![CDATA[Show HN: Create forecasts for your stock portfolio]]></description>
+        </item>
         <item>
             <title><![CDATA[Hivekit - 我们正在开发的空间自动化平台
 ]]></title>
@@ -4497,13 +4505,6 @@
             <guid>https://news.ycombinator.com/item?id=31064467</guid>
             <pubDate>Sun, 17 Apr 2022 21:00:21 GMT</pubDate>
             <description><![CDATA[Show HN: Heyhey – Building a Linktree-like app thought me more than college]]></description>
-        </item>
-        <item>
-            <title><![CDATA["q"，一个DNS查询工具，支持UDP、TCP、DoT、DoH、DoQ和ODoH]]></title>
-            <link>https://news.ycombinator.com/item?id=31064423</link>
-            <guid>https://news.ycombinator.com/item?id=31064423</guid>
-            <pubDate>Sun, 17 Apr 2022 20:55:07 GMT</pubDate>
-            <description><![CDATA[Show HN: "q", a DNS query tool with support for UDP, TCP, DoT, DoH, DoQ and ODoH]]></description>
         </item>
     </channel>
 </rss>

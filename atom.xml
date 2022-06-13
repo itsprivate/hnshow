@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-13T12:58:57.488Z</updated>
+    <updated>2022-06-13T13:53:53.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为你的股票投资组合创建预测
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31724904</id>
+        <link href="https://news.ycombinator.com/item?id=31724904"/>
+        <updated>2022-06-13T12:59:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Create forecasts for your stock portfolio]]></summary>
+        <author>
+            <name>HypoCast</name>
+            <uri>https://news.ycombinator.com/user?id=HypoCast</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hivekit - 我们正在开发的空间自动化平台
 ]]></title>
@@ -6893,17 +6905,6 @@
         <author>
             <name>gunwd</name>
             <uri>https://news.ycombinator.com/user?id=gunwd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["q"，一个DNS查询工具，支持UDP、TCP、DoT、DoH、DoQ和ODoH]]></title>
-        <id>https://news.ycombinator.com/item?id=31064423</id>
-        <link href="https://news.ycombinator.com/item?id=31064423"/>
-        <updated>2022-04-17T20:55:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: "q", a DNS query tool with support for UDP, TCP, DoT, DoH, DoQ and ODoH]]></summary>
-        <author>
-            <name>natesales</name>
-            <uri>https://news.ycombinator.com/user?id=natesales</uri>
         </author>
     </entry>
 </feed>
