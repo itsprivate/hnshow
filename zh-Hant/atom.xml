@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-13T07:01:35.658Z</updated>
+    <updated>2022-06-13T07:46:01.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[搜索彙總 - 來自許多不同網站的搜索結果
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31722417</id>
+        <link href="https://news.ycombinator.com/item?id=31722417"/>
+        <updated>2022-06-13T07:39:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Search Aggregate – Search results from lots of different sites]]></summary>
+        <author>
+            <name>javinladish</name>
+            <uri>https://news.ycombinator.com/user?id=javinladish</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stylepad - 為創意專業人士提供的免費情緒板
 ]]></title>
@@ -6888,17 +6900,6 @@
         <author>
             <name>har1s</name>
             <uri>https://news.ycombinator.com/user?id=har1s</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stockstack 1.1.0 - 您的個人股市數據儀表板]]></title>
-        <id>https://news.ycombinator.com/item?id=31060109</id>
-        <link href="https://news.ycombinator.com/item?id=31060109"/>
-        <updated>2022-04-17T11:28:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Stockstack 1.1.0 – Your personal stock market data dashboard]]></summary>
-        <author>
-            <name>michaelsjoeberg</name>
-            <uri>https://news.ycombinator.com/user?id=michaelsjoeberg</uri>
         </author>
     </entry>
 </feed>
