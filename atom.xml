@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-13T17:47:37.575Z</updated>
+    <updated>2022-06-13T18:00:11.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[创作者的语音克隆
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31728939</id>
+        <link href="https://news.ycombinator.com/item?id=31728939"/>
+        <updated>2022-06-13T17:51:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Voice Clones for Creators]]></summary>
+        <author>
+            <name>_josh_meyer_</name>
+            <uri>https://news.ycombinator.com/user?id=_josh_meyer_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[技术博客聚合器
 ]]></title>
@@ -6902,17 +6914,6 @@
         <author>
             <name>dandrew5</name>
             <uri>https://news.ycombinator.com/user?id=dandrew5</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以6GB/s以上的速度将谷歌外卖备份到Azure的软件工具箱]]></title>
-        <id>https://news.ycombinator.com/item?id=31067278</id>
-        <link href="https://news.ycombinator.com/item?id=31067278"/>
-        <updated>2022-04-18T04:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Toolkit of software to backup Google Takeout at 6GB/s+ to Azure]]></summary>
-        <author>
-            <name>crazysim</name>
-            <uri>https://news.ycombinator.com/user?id=crazysim</uri>
         </author>
     </entry>
 </feed>

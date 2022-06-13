@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 13 Jun 2022 17:47:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 18:00:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[创作者的语音克隆
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31728939</link>
+            <guid>https://news.ycombinator.com/item?id=31728939</guid>
+            <pubDate>Mon, 13 Jun 2022 17:51:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Voice Clones for Creators]]></description>
+        </item>
         <item>
             <title><![CDATA[技术博客聚合器
 ]]></title>
@@ -4506,13 +4514,6 @@
             <guid>https://news.ycombinator.com/item?id=31067354</guid>
             <pubDate>Mon, 18 Apr 2022 04:12:00 GMT</pubDate>
             <description><![CDATA[Show HN: Giggle – A self-hosted customizable and ad-free Google Search interface]]></description>
-        </item>
-        <item>
-            <title><![CDATA[以6GB/s以上的速度将谷歌外卖备份到Azure的软件工具箱]]></title>
-            <link>https://news.ycombinator.com/item?id=31067278</link>
-            <guid>https://news.ycombinator.com/item?id=31067278</guid>
-            <pubDate>Mon, 18 Apr 2022 04:00:27 GMT</pubDate>
-            <description><![CDATA[Show HN: Toolkit of software to backup Google Takeout at 6GB/s+ to Azure]]></description>
         </item>
     </channel>
 </rss>
