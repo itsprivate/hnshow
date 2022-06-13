@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 13 Jun 2022 18:00:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 18:40:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[PostgresML集成了Hugging Face，將SOTA模型帶入數據庫。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31729204</link>
+            <guid>https://news.ycombinator.com/item?id=31729204</guid>
+            <pubDate>Mon, 13 Jun 2022 18:12:21 GMT</pubDate>
+            <description><![CDATA[Show HN: PostgresML integrates Hugging Face to bring SOTA models into the db]]></description>
+        </item>
+        <item>
+            <title><![CDATA[C語言中的Hindley-Milner類型推理
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31729082</link>
+            <guid>https://news.ycombinator.com/item?id=31729082</guid>
+            <pubDate>Mon, 13 Jun 2022 18:01:41 GMT</pubDate>
+            <description><![CDATA[Show HN: Hindley–Milner type inferencing in C]]></description>
+        </item>
         <item>
             <title><![CDATA[創作者的語音克隆
 ]]></title>
@@ -4500,20 +4516,6 @@
             <guid>https://news.ycombinator.com/item?id=31067821</guid>
             <pubDate>Mon, 18 Apr 2022 05:48:53 GMT</pubDate>
             <description><![CDATA[Show HN: Color Name Generator]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我建立了一個社區來學習銷售和營銷]]></title>
-            <link>https://news.ycombinator.com/item?id=31067539</link>
-            <guid>https://news.ycombinator.com/item?id=31067539</guid>
-            <pubDate>Mon, 18 Apr 2022 04:47:31 GMT</pubDate>
-            <description><![CDATA[Show HN: I built a community to learn sales and marketing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Giggle - 一個自我託管的可定製和無廣告的谷歌搜索界面]]></title>
-            <link>https://news.ycombinator.com/item?id=31067354</link>
-            <guid>https://news.ycombinator.com/item?id=31067354</guid>
-            <pubDate>Mon, 18 Apr 2022 04:12:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Giggle – A self-hosted customizable and ad-free Google Search interface]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-13T18:00:11.729Z</updated>
+    <updated>2022-06-13T18:40:21.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PostgresML集成了Hugging Face，将SOTA模型带入数据库。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31729204</id>
+        <link href="https://news.ycombinator.com/item?id=31729204"/>
+        <updated>2022-06-13T18:12:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PostgresML integrates Hugging Face to bring SOTA models into the db]]></summary>
+        <author>
+            <name>levkk</name>
+            <uri>https://news.ycombinator.com/user?id=levkk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C语言中的Hindley-Milner类型推理
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31729082</id>
+        <link href="https://news.ycombinator.com/item?id=31729082"/>
+        <updated>2022-06-13T18:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hindley–Milner type inferencing in C]]></summary>
+        <author>
+            <name>nmhancoc</name>
+            <uri>https://news.ycombinator.com/user?id=nmhancoc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[创作者的语音克隆
 ]]></title>
@@ -6892,28 +6916,6 @@
         <author>
             <name>hapiben</name>
             <uri>https://news.ycombinator.com/user?id=hapiben</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一个社区来学习销售和营销]]></title>
-        <id>https://news.ycombinator.com/item?id=31067539</id>
-        <link href="https://news.ycombinator.com/item?id=31067539"/>
-        <updated>2022-04-18T04:47:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a community to learn sales and marketing]]></summary>
-        <author>
-            <name>mycomputerlags</name>
-            <uri>https://news.ycombinator.com/user?id=mycomputerlags</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giggle - 一个自我托管的可定制和无广告的谷歌搜索界面]]></title>
-        <id>https://news.ycombinator.com/item?id=31067354</id>
-        <link href="https://news.ycombinator.com/item?id=31067354"/>
-        <updated>2022-04-18T04:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Giggle – A self-hosted customizable and ad-free Google Search interface]]></summary>
-        <author>
-            <name>dandrew5</name>
-            <uri>https://news.ycombinator.com/user?id=dandrew5</uri>
         </author>
     </entry>
 </feed>
