@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-13T13:53:53.084Z</updated>
+    <updated>2022-06-13T14:04:18.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用於比較和選擇正確的Azure虛擬機的極快工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31725502</id>
+        <link href="https://news.ycombinator.com/item?id=31725502"/>
+        <updated>2022-06-13T13:47:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Blazing fast tool to compare and choose the right Azure VMs]]></summary>
+        <author>
+            <name>gaploid</name>
+            <uri>https://news.ycombinator.com/user?id=gaploid</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為你的股票投資組合創建預測
 ]]></title>
@@ -6894,17 +6906,6 @@
         <author>
             <name>javidlakha</name>
             <uri>https://news.ycombinator.com/user?id=javidlakha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[嘿嘿--建立一個類似Linktree的應用程序，讓我覺得比大學還難。]]></title>
-        <id>https://news.ycombinator.com/item?id=31064467</id>
-        <link href="https://news.ycombinator.com/item?id=31064467"/>
-        <updated>2022-04-17T21:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Heyhey – Building a Linktree-like app thought me more than college]]></summary>
-        <author>
-            <name>gunwd</name>
-            <uri>https://news.ycombinator.com/user?id=gunwd</uri>
         </author>
     </entry>
 </feed>
