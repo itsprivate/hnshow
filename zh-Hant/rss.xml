@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 13 Jun 2022 19:47:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 19:59:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[盒子的大小是如何工作的
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31730907</link>
+            <guid>https://news.ycombinator.com/item?id=31730907</guid>
+            <pubDate>Mon, 13 Jun 2022 19:55:39 GMT</pubDate>
+            <description><![CDATA[Show HN: How Box-Sizing Works]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為Slack的星雲VPN提供公共燈塔服務
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31730788</link>
+            <guid>https://news.ycombinator.com/item?id=31730788</guid>
+            <pubDate>Mon, 13 Jun 2022 19:47:28 GMT</pubDate>
+            <description><![CDATA[Show HN: A public Lighthouse service for Slack's nebula VPN]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Rust的併發散列式哈希圖
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31730673</link>
+            <guid>https://news.ycombinator.com/item?id=31730673</guid>
+            <pubDate>Mon, 13 Jun 2022 19:41:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Concurrent Sharded HashMap for Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[Quartz.rs Rust的最小化調度庫
 ]]></title>
@@ -4498,27 +4522,6 @@
             <guid>https://news.ycombinator.com/item?id=31069222</guid>
             <pubDate>Mon, 18 Apr 2022 10:53:32 GMT</pubDate>
             <description><![CDATA[Show HN: Personal Website with Rive Animations]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cloudfs - 像本地文件系統一樣發現和管理你的雲計算]]></title>
-            <link>https://news.ycombinator.com/item?id=31068636</link>
-            <guid>https://news.ycombinator.com/item?id=31068636</guid>
-            <pubDate>Mon, 18 Apr 2022 08:53:31 GMT</pubDate>
-            <description><![CDATA[Show HN: Cloudfs – Discover and manage your cloud like a local filesystem]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gushio，用JavaScript編寫多平臺腳本]]></title>
-            <link>https://news.ycombinator.com/item?id=31068603</link>
-            <guid>https://news.ycombinator.com/item?id=31068603</guid>
-            <pubDate>Mon, 18 Apr 2022 08:45:55 GMT</pubDate>
-            <description><![CDATA[Show HN: Gushio, write multi-platform scripts in JavaScript]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FHIR Auth - 輕鬆為您的FHIR服務器增加認證功能]]></title>
-            <link>https://news.ycombinator.com/item?id=31068513</link>
-            <guid>https://news.ycombinator.com/item?id=31068513</guid>
-            <pubDate>Mon, 18 Apr 2022 08:28:15 GMT</pubDate>
-            <description><![CDATA[Show HN: FHIR Auth – Easily Add Authentication to Your FHIR Server]]></description>
         </item>
     </channel>
 </rss>
