@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-13T02:30:52.389Z</updated>
+    <updated>2022-06-13T03:57:02.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[寻找并赞助合适的活动
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31720745</id>
+        <link href="https://news.ycombinator.com/item?id=31720745"/>
+        <updated>2022-06-13T03:31:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Find and Sponsor the Right Event]]></summary>
+        <author>
+            <name>wbashir</name>
+            <uri>https://news.ycombinator.com/user?id=wbashir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[面向创业公司创始人的Reddit搜索引擎
 ]]></title>
@@ -6884,17 +6896,6 @@
         <author>
             <name>torhorway</name>
             <uri>https://news.ycombinator.com/user?id=torhorway</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sveltin. 构建由SvelteKit驱动的静态网站的最明智方式]]></title>
-        <id>https://news.ycombinator.com/item?id=31059048</id>
-        <link href="https://news.ycombinator.com/item?id=31059048"/>
-        <updated>2022-04-17T06:52:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Sveltin. The Smartest Way to Build SvelteKit powered static websites]]></summary>
-        <author>
-            <name>Mike_Andreuzza</name>
-            <uri>https://news.ycombinator.com/user?id=Mike_Andreuzza</uri>
         </author>
     </entry>
 </feed>
