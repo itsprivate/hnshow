@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-13T18:40:21.620Z</updated>
+    <updated>2022-06-13T19:28:11.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[us-stripe-subscription - 轻松地在你的React应用中添加Stripe计费。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31730223</id>
+        <link href="https://news.ycombinator.com/item?id=31730223"/>
+        <updated>2022-06-13T19:12:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: use-stripe-subscription – easily add Stripe Billing to your React app]]></summary>
+        <author>
+            <name>colinclerk</name>
+            <uri>https://news.ycombinator.com/user?id=colinclerk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PostgresML集成了Hugging Face，将SOTA模型带入数据库。
 ]]></title>
@@ -6905,17 +6917,6 @@
         <author>
             <name>endominus</name>
             <uri>https://news.ycombinator.com/user?id=endominus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[颜色名称生成器]]></title>
-        <id>https://news.ycombinator.com/item?id=31067821</id>
-        <link href="https://news.ycombinator.com/item?id=31067821"/>
-        <updated>2022-04-18T05:48:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Color Name Generator]]></summary>
-        <author>
-            <name>hapiben</name>
-            <uri>https://news.ycombinator.com/user?id=hapiben</uri>
         </author>
     </entry>
 </feed>

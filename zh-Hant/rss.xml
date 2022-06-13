@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 13 Jun 2022 18:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 19:28:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[us-stripe-subscription - 輕鬆地在你的React應用中添加Stripe計費。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31730223</link>
+            <guid>https://news.ycombinator.com/item?id=31730223</guid>
+            <pubDate>Mon, 13 Jun 2022 19:12:44 GMT</pubDate>
+            <description><![CDATA[Show HN: use-stripe-subscription – easily add Stripe Billing to your React app]]></description>
+        </item>
         <item>
             <title><![CDATA[PostgresML集成了Hugging Face，將SOTA模型帶入數據庫。
 ]]></title>
@@ -4509,13 +4517,6 @@
             <guid>https://news.ycombinator.com/item?id=31068450</guid>
             <pubDate>Mon, 18 Apr 2022 08:13:18 GMT</pubDate>
             <description><![CDATA[Show HN: Lieutenant, a TUI to manage MtG Commander decks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[顏色名稱生成器]]></title>
-            <link>https://news.ycombinator.com/item?id=31067821</link>
-            <guid>https://news.ycombinator.com/item?id=31067821</guid>
-            <pubDate>Mon, 18 Apr 2022 05:48:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Color Name Generator]]></description>
         </item>
     </channel>
 </rss>
