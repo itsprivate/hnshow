@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 13 Jun 2022 19:28:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 19:47:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Quartz.rs Rust的最小化調度庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31730621</link>
+            <guid>https://news.ycombinator.com/item?id=31730621</guid>
+            <pubDate>Mon, 13 Jun 2022 19:37:42 GMT</pubDate>
+            <description><![CDATA[Show HN: Quartz.rs Minimalistic scheduling library for Rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[為Expressjs端點生成客戶端庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31730550</link>
+            <guid>https://news.ycombinator.com/item?id=31730550</guid>
+            <pubDate>Mon, 13 Jun 2022 19:33:24 GMT</pubDate>
+            <description><![CDATA[Show HN: Generate client library for expressjs endpoints]]></description>
+        </item>
         <item>
             <title><![CDATA[us-stripe-subscription - 輕鬆地在你的React應用中添加Stripe計費。
 ]]></title>
@@ -4503,20 +4519,6 @@
             <guid>https://news.ycombinator.com/item?id=31068513</guid>
             <pubDate>Mon, 18 Apr 2022 08:28:15 GMT</pubDate>
             <description><![CDATA[Show HN: FHIR Auth – Easily Add Authentication to Your FHIR Server]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MatrixEase - 以你思考的方式查看數據]]></title>
-            <link>https://news.ycombinator.com/item?id=31068486</link>
-            <guid>https://news.ycombinator.com/item?id=31068486</guid>
-            <pubDate>Mon, 18 Apr 2022 08:21:56 GMT</pubDate>
-            <description><![CDATA[Show HN: MatrixEase – See data the way you think about it]]></description>
-        </item>
-        <item>
-            <title><![CDATA[中尉，一個管理MtG指揮官牌的TUI]]></title>
-            <link>https://news.ycombinator.com/item?id=31068450</link>
-            <guid>https://news.ycombinator.com/item?id=31068450</guid>
-            <pubDate>Mon, 18 Apr 2022 08:13:18 GMT</pubDate>
-            <description><![CDATA[Show HN: Lieutenant, a TUI to manage MtG Commander decks]]></description>
         </item>
     </channel>
 </rss>
