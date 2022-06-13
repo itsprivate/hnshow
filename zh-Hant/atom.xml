@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-13T03:57:02.903Z</updated>
+    <updated>2022-06-13T06:02:27.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用NixOS建立一個路由器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31721719</id>
+        <link href="https://news.ycombinator.com/item?id=31721719"/>
+        <updated>2022-06-13T05:56:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Building a Router with NixOS]]></summary>
+        <author>
+            <name>notemaker</name>
+            <uri>https://news.ycombinator.com/user?id=notemaker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尋找並贊助合適的活動
 ]]></title>
@@ -6885,17 +6897,6 @@
         <author>
             <name>pankajtanwar</name>
             <uri>https://news.ycombinator.com/user?id=pankajtanwar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordle與Candy Crush的結合]]></title>
-        <id>https://news.ycombinator.com/item?id=31059147</id>
-        <link href="https://news.ycombinator.com/item?id=31059147"/>
-        <updated>2022-04-17T07:23:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Wordle Meets Candy Crush]]></summary>
-        <author>
-            <name>torhorway</name>
-            <uri>https://news.ycombinator.com/user?id=torhorway</uri>
         </author>
     </entry>
 </feed>
