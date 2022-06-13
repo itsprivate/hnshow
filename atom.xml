@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-12T22:27:33.485Z</updated>
+    <updated>2022-06-13T02:30:52.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[面向创业公司创始人的Reddit搜索引擎
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31720251</id>
+        <link href="https://news.ycombinator.com/item?id=31720251"/>
+        <updated>2022-06-13T02:14:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Reddit search engine for startup founders]]></summary>
+        <author>
+            <name>thefedoration</name>
+            <uri>https://news.ycombinator.com/user?id=thefedoration</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[水彩AI
 ]]></title>
@@ -6883,17 +6895,6 @@
         <author>
             <name>Mike_Andreuzza</name>
             <uri>https://news.ycombinator.com/user?id=Mike_Andreuzza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[离线文档，建立离线文档的脚本集合]]></title>
-        <id>https://news.ycombinator.com/item?id=31058347</id>
-        <link href="https://news.ycombinator.com/item?id=31058347"/>
-        <updated>2022-04-17T03:57:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Offline-docs, collection of scripts to build offline documentation]]></summary>
-        <author>
-            <name>naveennamani</name>
-            <uri>https://news.ycombinator.com/user?id=naveennamani</uri>
         </author>
     </entry>
 </feed>
