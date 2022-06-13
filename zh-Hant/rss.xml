@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 13 Jun 2022 15:44:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 16:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[簡單的亞馬遜EC2實例比較
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31727041</link>
+            <guid>https://news.ycombinator.com/item?id=31727041</guid>
+            <pubDate>Mon, 13 Jun 2022 15:36:39 GMT</pubDate>
+            <description><![CDATA[Show HN: Easy Amazon EC2 Instance Comparison]]></description>
+        </item>
         <item>
             <title><![CDATA[FlexMeasures - 優化靈活的能源需求，在Python中
 ]]></title>
@@ -4502,13 +4510,6 @@
             <guid>https://news.ycombinator.com/item?id=31066443</guid>
             <pubDate>Mon, 18 Apr 2022 01:48:40 GMT</pubDate>
             <description><![CDATA[Show HN: Build and share machine learning apps directly in browser in Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為壓縮文件愛好者提供的記事CLI]]></title>
-            <link>https://news.ycombinator.com/item?id=31066360</link>
-            <guid>https://news.ycombinator.com/item?id=31066360</guid>
-            <pubDate>Mon, 18 Apr 2022 01:31:52 GMT</pubDate>
-            <description><![CDATA[Show HN: A note-taking CLI for zipfile enthusiasts]]></description>
         </item>
     </channel>
 </rss>
