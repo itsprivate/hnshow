@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-13T07:46:01.906Z</updated>
+    <updated>2022-06-13T08:59:22.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Ngrok免費和開源的 "npx webhook-store-CLI -port 9000""
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31722857</id>
+        <link href="https://news.ycombinator.com/item?id=31722857"/>
+        <updated>2022-06-13T08:50:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Ngrok free and open source “npx webhook-store-CLI –port 9000”“]]></summary>
+        <author>
+            <name>samox</name>
+            <uri>https://news.ycombinator.com/user?id=samox</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[搜索彙總 - 來自許多不同網站的搜索結果
 ]]></title>
@@ -6889,17 +6901,6 @@
         <author>
             <name>1mbsite</name>
             <uri>https://news.ycombinator.com/user?id=1mbsite</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用create-rust-app在Rust中快速建立一個GraphQL API]]></title>
-        <id>https://news.ycombinator.com/item?id=31061098</id>
-        <link href="https://news.ycombinator.com/item?id=31061098"/>
-        <updated>2022-04-17T14:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Quickly build a GraphQL API in Rust using create-rust-app]]></summary>
-        <author>
-            <name>har1s</name>
-            <uri>https://news.ycombinator.com/user?id=har1s</uri>
         </author>
     </entry>
 </feed>

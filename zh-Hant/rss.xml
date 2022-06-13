@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 13 Jun 2022 07:46:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 08:59:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Ngrok免費和開源的 "npx webhook-store-CLI -port 9000""
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31722857</link>
+            <guid>https://news.ycombinator.com/item?id=31722857</guid>
+            <pubDate>Mon, 13 Jun 2022 08:50:25 GMT</pubDate>
+            <description><![CDATA[Show HN: Ngrok free and open source “npx webhook-store-CLI –port 9000”“]]></description>
+        </item>
         <item>
             <title><![CDATA[搜索彙總 - 來自許多不同網站的搜索結果
 ]]></title>
@@ -4493,13 +4501,6 @@
             <guid>https://news.ycombinator.com/item?id=31061342</guid>
             <pubDate>Sun, 17 Apr 2022 15:06:20 GMT</pubDate>
             <description><![CDATA[Show HN: Vers Social Bunny Day Egg Hunt]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用create-rust-app在Rust中快速建立一個GraphQL API]]></title>
-            <link>https://news.ycombinator.com/item?id=31061098</link>
-            <guid>https://news.ycombinator.com/item?id=31061098</guid>
-            <pubDate>Sun, 17 Apr 2022 14:33:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Quickly build a GraphQL API in Rust using create-rust-app]]></description>
         </item>
     </channel>
 </rss>
