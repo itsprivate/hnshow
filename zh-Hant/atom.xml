@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-13T20:36:52.172Z</updated>
+    <updated>2022-06-13T20:51:09.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的第一個JavaScript項目（用alpine.js複製到剪貼板）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31731386</id>
+        <link href="https://news.ycombinator.com/item?id=31731386"/>
+        <updated>2022-06-13T20:31:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My first JavaScript project (copy-to-clipboard with alpine.js)]]></summary>
+        <author>
+            <name>yucelfaruksahan</name>
+            <uri>https://news.ycombinator.com/user?id=yucelfaruksahan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一個具有用戶友好監控的整合平臺
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31731357</id>
+        <link href="https://news.ycombinator.com/item?id=31731357"/>
+        <updated>2022-06-13T20:29:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a integration platform with user-friendly monitoring]]></summary>
+        <author>
+            <name>renanwilliam</name>
+            <uri>https://news.ycombinator.com/user?id=renanwilliam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Telik - 跟蹤YouTube頻道和播放列表的macOS應用程序
 ]]></title>
@@ -6902,28 +6926,6 @@
         <author>
             <name>juancolamendy</name>
             <uri>https://news.ycombinator.com/user?id=juancolamendy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帶有nsh、coreutils、ripgrep的Rust用戶區容器鏡像]]></title>
-        <id>https://news.ycombinator.com/item?id=31071183</id>
-        <link href="https://news.ycombinator.com/item?id=31071183"/>
-        <updated>2022-04-18T14:33:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rust userland container image with nsh, coreutils, ripgrep]]></summary>
-        <author>
-            <name>Klasiaster</name>
-            <uri>https://news.ycombinator.com/user?id=Klasiaster</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要再浪費~30%的鍛鍊時間來分心了]]></title>
-        <id>https://news.ycombinator.com/item?id=31070004</id>
-        <link href="https://news.ycombinator.com/item?id=31070004"/>
-        <updated>2022-04-18T12:59:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Stop wasting ~30% of your workout being distracted]]></summary>
-        <author>
-            <name>britojosepha</name>
-            <uri>https://news.ycombinator.com/user?id=britojosepha</uri>
         </author>
     </entry>
 </feed>

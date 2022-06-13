@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 13 Jun 2022 20:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 20:51:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我的第一个JavaScript项目（用alpine.js复制到剪贴板）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31731386</link>
+            <guid>https://news.ycombinator.com/item?id=31731386</guid>
+            <pubDate>Mon, 13 Jun 2022 20:31:31 GMT</pubDate>
+            <description><![CDATA[Show HN: My first JavaScript project (copy-to-clipboard with alpine.js)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我做了一个具有用户友好监控的整合平台
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31731357</link>
+            <guid>https://news.ycombinator.com/item?id=31731357</guid>
+            <pubDate>Mon, 13 Jun 2022 20:29:16 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a integration platform with user-friendly monitoring]]></description>
+        </item>
         <item>
             <title><![CDATA[Telik - 跟踪YouTube频道和播放列表的macOS应用程序
 ]]></title>
@@ -4510,20 +4526,6 @@
             <guid>https://news.ycombinator.com/item?id=31071463</guid>
             <pubDate>Mon, 18 Apr 2022 14:53:17 GMT</pubDate>
             <description><![CDATA[Show HN: NLP algorithms for real-world sentiment analysis]]></description>
-        </item>
-        <item>
-            <title><![CDATA[带有nsh、coreutils、ripgrep的Rust用户区容器镜像]]></title>
-            <link>https://news.ycombinator.com/item?id=31071183</link>
-            <guid>https://news.ycombinator.com/item?id=31071183</guid>
-            <pubDate>Mon, 18 Apr 2022 14:33:26 GMT</pubDate>
-            <description><![CDATA[Show HN: Rust userland container image with nsh, coreutils, ripgrep]]></description>
-        </item>
-        <item>
-            <title><![CDATA[不要再浪费~30%的锻炼时间来分心了]]></title>
-            <link>https://news.ycombinator.com/item?id=31070004</link>
-            <guid>https://news.ycombinator.com/item?id=31070004</guid>
-            <pubDate>Mon, 18 Apr 2022 12:59:08 GMT</pubDate>
-            <description><![CDATA[Show HN: Stop wasting ~30% of your workout being distracted]]></description>
         </item>
     </channel>
 </rss>
