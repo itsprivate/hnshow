@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-13T08:59:22.493Z</updated>
+    <updated>2022-06-13T10:37:09.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[没有注册的电子邮件/网站反馈工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31723382</id>
+        <link href="https://news.ycombinator.com/item?id=31723382"/>
+        <updated>2022-06-13T10:23:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: No sign up email/website feedback tool]]></summary>
+        <author>
+            <name>vonadz</name>
+            <uri>https://news.ycombinator.com/user?id=vonadz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ngrok免费和开源的 "npx webhook-store-CLI -port 9000""
 ]]></title>
@@ -6890,17 +6902,6 @@
         <author>
             <name>employeesfyi</name>
             <uri>https://news.ycombinator.com/user?id=employeesfyi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[范思哲社兔子日寻蛋活动]]></title>
-        <id>https://news.ycombinator.com/item?id=31061342</id>
-        <link href="https://news.ycombinator.com/item?id=31061342"/>
-        <updated>2022-04-17T15:06:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Vers Social Bunny Day Egg Hunt]]></summary>
-        <author>
-            <name>1mbsite</name>
-            <uri>https://news.ycombinator.com/user?id=1mbsite</uri>
         </author>
     </entry>
 </feed>
