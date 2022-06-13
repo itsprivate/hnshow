@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-13T14:04:18.660Z</updated>
+    <updated>2022-06-13T15:44:24.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FlexMeasures - 优化灵活的能源需求，在Python中
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31727007</id>
+        <link href="https://news.ycombinator.com/item?id=31727007"/>
+        <updated>2022-06-13T15:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: FlexMeasures ― optimize flexible energy demand, in Python]]></summary>
+        <author>
+            <name>Nic56</name>
+            <uri>https://news.ycombinator.com/user?id=Nic56</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31726472</id>
+        <link href="https://news.ycombinator.com/item?id=31726472"/>
+        <updated>2022-06-13T14:55:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tuc – When cut doesn’t cut it]]></summary>
+        <author>
+            <name>riquito</name>
+            <uri>https://news.ycombinator.com/user?id=riquito</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Galaxi.me - 给你的想法发短信，然后让他们回短信
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31726393</id>
+        <link href="https://news.ycombinator.com/item?id=31726393"/>
+        <updated>2022-06-13T14:50:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Galaxi.me – text your ideas and have them texted back later]]></summary>
+        <author>
+            <name>devinhn</name>
+            <uri>https://news.ycombinator.com/user?id=devinhn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于比较和选择正确的Azure虚拟机的极快工具
 ]]></title>
@@ -6873,39 +6909,6 @@
         <author>
             <name>swidi</name>
             <uri>https://news.ycombinator.com/user?id=swidi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WireMock-Captain - TypeScript中的API仿真器]]></title>
-        <id>https://news.ycombinator.com/item?id=31065523</id>
-        <link href="https://news.ycombinator.com/item?id=31065523"/>
-        <updated>2022-04-17T23:25:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WireMock-Captain – An API Simulator in TypeScript]]></summary>
-        <author>
-            <name>satsh</name>
-            <uri>https://news.ycombinator.com/user?id=satsh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[555b中迭代变量的懒惰JavaScript迭代]]></title>
-        <id>https://news.ycombinator.com/item?id=31065469</id>
-        <link href="https://news.ycombinator.com/item?id=31065469"/>
-        <updated>2022-04-17T23:19:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lazy JavaScript iteration of iterables in 555b]]></summary>
-        <author>
-            <name>ricokahler</name>
-            <uri>https://news.ycombinator.com/user?id=ricokahler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unofunction - 一个使用LibreOffice转换文档的AWS Lambda]]></title>
-        <id>https://news.ycombinator.com/item?id=31065328</id>
-        <link href="https://news.ycombinator.com/item?id=31065328"/>
-        <updated>2022-04-17T22:55:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Unofunction – an AWS Lambda that uses LibreOffice to convert documents]]></summary>
-        <author>
-            <name>javidlakha</name>
-            <uri>https://news.ycombinator.com/user?id=javidlakha</uri>
         </author>
     </entry>
 </feed>
