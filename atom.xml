@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-13T06:02:26.933Z</updated>
+    <updated>2022-06-13T06:37:50.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[显示P3专属的Pantone颜色
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31721737</id>
+        <link href="https://news.ycombinator.com/item?id=31721737"/>
+        <updated>2022-06-13T06:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Display P3 exclusive Pantone colors]]></summary>
+        <author>
+            <name>vvin</name>
+            <uri>https://news.ycombinator.com/user?id=vvin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用NixOS建立一个路由器
 ]]></title>
@@ -6886,17 +6898,6 @@
         <author>
             <name>lcnmrn</name>
             <uri>https://news.ycombinator.com/user?id=lcnmrn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一个扩展，以禁止从stackoverflow复制]]></title>
-        <id>https://news.ycombinator.com/item?id=31059549</id>
-        <link href="https://news.ycombinator.com/item?id=31059549"/>
-        <updated>2022-04-17T09:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built an extension to disable copying from stackoverflow]]></summary>
-        <author>
-            <name>pankajtanwar</name>
-            <uri>https://news.ycombinator.com/user?id=pankajtanwar</uri>
         </author>
     </entry>
 </feed>

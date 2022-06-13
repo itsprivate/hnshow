@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 13 Jun 2022 06:02:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 06:37:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[顯示P3專屬的Pantone顏色
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31721737</link>
+            <guid>https://news.ycombinator.com/item?id=31721737</guid>
+            <pubDate>Mon, 13 Jun 2022 06:00:26 GMT</pubDate>
+            <description><![CDATA[Show HN: Display P3 exclusive Pantone colors]]></description>
+        </item>
         <item>
             <title><![CDATA[用NixOS建立一個路由器
 ]]></title>
@@ -4490,13 +4498,6 @@
             <guid>https://news.ycombinator.com/item?id=31059949</guid>
             <pubDate>Sun, 17 Apr 2022 10:50:48 GMT</pubDate>
             <description><![CDATA[Show HN: Subreply News (Beta)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我建立了一個擴展，以禁止從stackoverflow複製]]></title>
-            <link>https://news.ycombinator.com/item?id=31059549</link>
-            <guid>https://news.ycombinator.com/item?id=31059549</guid>
-            <pubDate>Sun, 17 Apr 2022 09:04:01 GMT</pubDate>
-            <description><![CDATA[Show HN: I built an extension to disable copying from stackoverflow]]></description>
         </item>
     </channel>
 </rss>
