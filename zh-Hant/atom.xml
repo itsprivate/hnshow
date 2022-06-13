@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-13T10:51:30.724Z</updated>
+    <updated>2022-06-13T12:58:57.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Hivekit - 我們正在開發的空間自動化平臺
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31724443</id>
+        <link href="https://news.ycombinator.com/item?id=31724443"/>
+        <updated>2022-06-13T12:21:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hivekit – a spatial automation platform we're working on]]></summary>
+        <author>
+            <name>wolframhempel</name>
+            <uri>https://news.ycombinator.com/user?id=wolframhempel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[折磨面試官的方法 (C++, FizzBuzz)
 ]]></title>
@@ -6892,17 +6904,6 @@
         <author>
             <name>natesales</name>
             <uri>https://news.ycombinator.com/user?id=natesales</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個適用於WinBox的React組件，一個適用於React的虛擬窗口管理器]]></title>
-        <id>https://news.ycombinator.com/item?id=31064159</id>
-        <link href="https://news.ycombinator.com/item?id=31064159"/>
-        <updated>2022-04-17T20:29:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A React component for WinBox, A virtual window manager for React]]></summary>
-        <author>
-            <name>Coffee63</name>
-            <uri>https://news.ycombinator.com/user?id=Coffee63</uri>
         </author>
     </entry>
 </feed>

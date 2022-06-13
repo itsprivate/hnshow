@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 13 Jun 2022 10:51:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 12:58:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Hivekit - 我們正在開發的空間自動化平臺
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31724443</link>
+            <guid>https://news.ycombinator.com/item?id=31724443</guid>
+            <pubDate>Mon, 13 Jun 2022 12:21:41 GMT</pubDate>
+            <description><![CDATA[Show HN: Hivekit – a spatial automation platform we're working on]]></description>
+        </item>
         <item>
             <title><![CDATA[折磨面試官的方法 (C++, FizzBuzz)
 ]]></title>
@@ -4496,13 +4504,6 @@
             <guid>https://news.ycombinator.com/item?id=31064423</guid>
             <pubDate>Sun, 17 Apr 2022 20:55:07 GMT</pubDate>
             <description><![CDATA[Show HN: "q", a DNS query tool with support for UDP, TCP, DoT, DoH, DoQ and ODoH]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個適用於WinBox的React組件，一個適用於React的虛擬窗口管理器]]></title>
-            <link>https://news.ycombinator.com/item?id=31064159</link>
-            <guid>https://news.ycombinator.com/item?id=31064159</guid>
-            <pubDate>Sun, 17 Apr 2022 20:29:26 GMT</pubDate>
-            <description><![CDATA[Show HN: A React component for WinBox, A virtual window manager for React]]></description>
         </item>
     </channel>
 </rss>
