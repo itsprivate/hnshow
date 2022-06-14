@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-14T18:59:08.368Z</updated>
+    <updated>2022-06-14T19:27:55.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MMAP_ninja: 一个以内存映射格式存储ML数据集的库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31744528</id>
+        <link href="https://news.ycombinator.com/item?id=31744528"/>
+        <updated>2022-06-14T19:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MMAP_ninja: a library fo storing ML datasets in memory mapped format]]></summary>
+        <author>
+            <name>hvrigazov</name>
+            <uri>https://news.ycombinator.com/user?id=hvrigazov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RecipeRadar - 一个免费和开源的食谱搜索引擎
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31744451</id>
+        <link href="https://news.ycombinator.com/item?id=31744451"/>
+        <updated>2022-06-14T19:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: RecipeRadar – a free and open source recipe search engine]]></summary>
+        <author>
+            <name>jka</name>
+            <uri>https://news.ycombinator.com/user?id=jka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[书签 - 预订共享平台
 ]]></title>
@@ -6922,28 +6946,6 @@
         <author>
             <name>pradeepb28</name>
             <uri>https://news.ycombinator.com/user?id=pradeepb28</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ayy：去中心化的Linux软件包管理]]></title>
-        <id>https://news.ycombinator.com/item?id=31081897</id>
-        <link href="https://news.ycombinator.com/item?id=31081897"/>
-        <updated>2022-04-19T11:48:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ayy: decentralized Linux package management]]></summary>
-        <author>
-            <name>lawl</name>
-            <uri>https://news.ycombinator.com/user?id=lawl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的自动化工具--征求反馈意见]]></title>
-        <id>https://news.ycombinator.com/item?id=31081740</id>
-        <link href="https://news.ycombinator.com/item?id=31081740"/>
-        <updated>2022-04-19T11:27:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: New automation tool – Asking for feedback]]></summary>
-        <author>
-            <name>tonidorta</name>
-            <uri>https://news.ycombinator.com/user?id=tonidorta</uri>
         </author>
     </entry>
 </feed>
