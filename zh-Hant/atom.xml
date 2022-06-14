@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-14T13:48:18.174Z</updated>
+    <updated>2022-06-14T14:31:48.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將Figma設計導出到React組件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31739737</id>
+        <link href="https://news.ycombinator.com/item?id=31739737"/>
+        <updated>2022-06-14T14:08:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Export Figma design to React components]]></summary>
+        <author>
+            <name>candylifter</name>
+            <uri>https://news.ycombinator.com/user?id=candylifter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[荒謬的設計 - 第四章
 ]]></title>
@@ -6925,17 +6937,6 @@
         <author>
             <name>bergercookie</name>
             <uri>https://news.ycombinator.com/user?id=bergercookie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Studius - 一個簡單而強大的抽認卡應用程序，帶有間隔性重複。]]></title>
-        <id>https://news.ycombinator.com/item?id=31075553</id>
-        <link href="https://news.ycombinator.com/item?id=31075553"/>
-        <updated>2022-04-18T19:49:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Studius – a simple, powerful flashcards app with spaced repetition]]></summary>
-        <author>
-            <name>drummerjolev</name>
-            <uri>https://news.ycombinator.com/user?id=drummerjolev</uri>
         </author>
     </entry>
 </feed>
