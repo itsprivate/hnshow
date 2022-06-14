@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-14T10:39:23.703Z</updated>
+    <updated>2022-06-14T11:59:56.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FPGA零知识游乐场
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31737647</id>
+        <link href="https://news.ycombinator.com/item?id=31737647"/>
+        <updated>2022-06-14T11:41:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The FPGA Zero-Knowledge Playground]]></summary>
+        <author>
+            <name>inaccelbot</name>
+            <uri>https://news.ycombinator.com/user?id=inaccelbot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于FOSS DNN的嵌入式无人机地面障碍物检测
 ]]></title>
@@ -6921,17 +6933,6 @@
         <author>
             <name>mmastrac</name>
             <uri>https://news.ycombinator.com/user?id=mmastrac</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QA团队应该得到比SnagIt更好的服务]]></title>
-        <id>https://news.ycombinator.com/item?id=31073000</id>
-        <link href="https://news.ycombinator.com/item?id=31073000"/>
-        <updated>2022-04-18T16:35:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: QA teams deserve better than SnagIt]]></summary>
-        <author>
-            <name>sidgarimella</name>
-            <uri>https://news.ycombinator.com/user?id=sidgarimella</uri>
         </author>
     </entry>
 </feed>

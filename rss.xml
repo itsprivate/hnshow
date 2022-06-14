@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 14 Jun 2022 10:39:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 11:59:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[FPGA零知识游乐场
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31737647</link>
+            <guid>https://news.ycombinator.com/item?id=31737647</guid>
+            <pubDate>Tue, 14 Jun 2022 11:41:01 GMT</pubDate>
+            <description><![CDATA[Show HN: The FPGA Zero-Knowledge Playground]]></description>
+        </item>
         <item>
             <title><![CDATA[基于FOSS DNN的嵌入式无人机地面障碍物检测
 ]]></title>
@@ -4525,13 +4533,6 @@
             <guid>https://news.ycombinator.com/item?id=31073062</guid>
             <pubDate>Mon, 18 Apr 2022 16:39:24 GMT</pubDate>
             <description><![CDATA[Show HN: Automedia – a tool for managing bitrot and formats in media libraries]]></description>
-        </item>
-        <item>
-            <title><![CDATA[QA团队应该得到比SnagIt更好的服务]]></title>
-            <link>https://news.ycombinator.com/item?id=31073000</link>
-            <guid>https://news.ycombinator.com/item?id=31073000</guid>
-            <pubDate>Mon, 18 Apr 2022 16:35:02 GMT</pubDate>
-            <description><![CDATA[Show HN: QA teams deserve better than SnagIt]]></description>
         </item>
     </channel>
 </rss>
