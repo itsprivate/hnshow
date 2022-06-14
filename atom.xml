@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-14T12:56:41.504Z</updated>
+    <updated>2022-06-14T13:48:18.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[荒谬的设计 - 第四章
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31739136</id>
+        <link href="https://news.ycombinator.com/item?id=31739136"/>
+        <updated>2022-06-14T13:28:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Absurd Design – Chapter 4]]></summary>
+        <author>
+            <name>AndrianV</name>
+            <uri>https://news.ycombinator.com/user?id=AndrianV</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纯文本加密货币价格
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31738871</id>
+        <link href="https://news.ycombinator.com/item?id=31738871"/>
+        <updated>2022-06-14T13:09:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Plain Text Cryptocurrency Prices]]></summary>
+        <author>
+            <name>guillaumec</name>
+            <uri>https://news.ycombinator.com/user?id=guillaumec</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[醉酒的初创企业
 ]]></title>
@@ -6912,28 +6936,6 @@
         <author>
             <name>drummerjolev</name>
             <uri>https://news.ycombinator.com/user?id=drummerjolev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在PostgreSQL中作为数据的云基础设施]]></title>
-        <id>https://news.ycombinator.com/item?id=31074953</id>
-        <link href="https://news.ycombinator.com/item?id=31074953"/>
-        <updated>2022-04-18T18:59:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cloud Infrastructure as Data in PostgreSQL]]></summary>
-        <author>
-            <name>pombo</name>
-            <uri>https://news.ycombinator.com/user?id=pombo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dataherald，没有代码的工具，帮助人们看到和理解数据]]></title>
-        <id>https://news.ycombinator.com/item?id=31073612</id>
-        <link href="https://news.ycombinator.com/item?id=31073612"/>
-        <updated>2022-04-18T17:15:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dataherald, no-code tool to help people see and understand data]]></summary>
-        <author>
-            <name>saigal</name>
-            <uri>https://news.ycombinator.com/user?id=saigal</uri>
         </author>
     </entry>
 </feed>
