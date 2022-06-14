@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-14T07:31:19.457Z</updated>
+    <updated>2022-06-14T10:39:23.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基于FOSS DNN的嵌入式无人机地面障碍物检测
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31736681</id>
+        <link href="https://news.ycombinator.com/item?id=31736681"/>
+        <updated>2022-06-14T09:51:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: FOSS DNN-based embedded UAV ground-obstacle detection]]></summary>
+        <author>
+            <name>stephanst</name>
+            <uri>https://news.ycombinator.com/user?id=stephanst</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Signal Desktop中的离线语音信息转录
 ]]></title>
@@ -6920,17 +6932,6 @@
         <author>
             <name>sidgarimella</name>
             <uri>https://news.ycombinator.com/user?id=sidgarimella</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robota.app - 搜索数以千计的科技公司招聘网站]]></title>
-        <id>https://news.ycombinator.com/item?id=31072799</id>
-        <link href="https://news.ycombinator.com/item?id=31072799"/>
-        <updated>2022-04-18T16:22:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Robota.app – Search thousands of tech company job boards]]></summary>
-        <author>
-            <name>czarizard</name>
-            <uri>https://news.ycombinator.com/user?id=czarizard</uri>
         </author>
     </entry>
 </feed>
