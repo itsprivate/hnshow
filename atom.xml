@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-13T20:51:09.181Z</updated>
+    <updated>2022-06-14T02:36:01.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[1Pager by Notik - 一键式模板，用于创建1Pager
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31733658</id>
+        <link href="https://news.ycombinator.com/item?id=31733658"/>
+        <updated>2022-06-14T01:10:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: 1Pager by Notik – The 1 click template for creating a 1-pager]]></summary>
+        <author>
+            <name>ishanr</name>
+            <uri>https://news.ycombinator.com/user?id=ishanr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每日记事的应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31733408</id>
+        <link href="https://news.ycombinator.com/item?id=31733408"/>
+        <updated>2022-06-14T00:28:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: App for Daily Journaling]]></summary>
+        <author>
+            <name>brooksdra</name>
+            <uri>https://news.ycombinator.com/user?id=brooksdra</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的第一个JavaScript项目（用alpine.js复制到剪贴板）。
 ]]></title>
@@ -6904,28 +6928,6 @@
         <author>
             <name>superzackx</name>
             <uri>https://news.ycombinator.com/user?id=superzackx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以无线方式将iPhone/iPad镜像到你的Mac上]]></title>
-        <id>https://news.ycombinator.com/item?id=31071671</id>
-        <link href="https://news.ycombinator.com/item?id=31071671"/>
-        <updated>2022-04-18T15:06:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mirror iPhone/iPad to Your Mac Wirelessly]]></summary>
-        <author>
-            <name>pawankdixit</name>
-            <uri>https://news.ycombinator.com/user?id=pawankdixit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于现实世界情感分析的NLP算法]]></title>
-        <id>https://news.ycombinator.com/item?id=31071463</id>
-        <link href="https://news.ycombinator.com/item?id=31071463"/>
-        <updated>2022-04-18T14:53:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: NLP algorithms for real-world sentiment analysis]]></summary>
-        <author>
-            <name>juancolamendy</name>
-            <uri>https://news.ycombinator.com/user?id=juancolamendy</uri>
         </author>
     </entry>
 </feed>
