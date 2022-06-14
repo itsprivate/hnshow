@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-14T19:27:55.265Z</updated>
+    <updated>2022-06-14T20:33:30.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[帶有磁盤有效載荷存儲的搜索引擎降低了RAM的使用量
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31745346</id>
+        <link href="https://news.ycombinator.com/item?id=31745346"/>
+        <updated>2022-06-14T20:07:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Search Engine with On-Disk Payload Storage Reduces RAM Usage]]></summary>
+        <author>
+            <name>Alyka</name>
+            <uri>https://news.ycombinator.com/user?id=Alyka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MMAP_ninja: 一個以內存映射格式存儲ML數據集的庫
 ]]></title>
@@ -6935,17 +6947,6 @@
         <author>
             <name>John-gg</name>
             <uri>https://news.ycombinator.com/user?id=John-gg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[適用於Mac的飛機]]></title>
-        <id>https://news.ycombinator.com/item?id=31082030</id>
-        <link href="https://news.ycombinator.com/item?id=31082030"/>
-        <updated>2022-04-19T12:08:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Airplane for Mac]]></summary>
-        <author>
-            <name>pradeepb28</name>
-            <uri>https://news.ycombinator.com/user?id=pradeepb28</uri>
         </author>
     </entry>
 </feed>
