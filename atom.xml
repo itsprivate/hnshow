@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-14T05:09:37.491Z</updated>
+    <updated>2022-06-14T05:59:48.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Gh-xplr - 通过GitHub CLI使用xplr探索GitHub的仓库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31735167</id>
+        <link href="https://news.ycombinator.com/item?id=31735167"/>
+        <updated>2022-06-14T05:46:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Gh-xplr – Explore GitHub repos using xplr via GitHub CLI]]></summary>
+        <author>
+            <name>sayanarijit</name>
+            <uri>https://news.ycombinator.com/user?id=sayanarijit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coinbase FOMO计算器
 ]]></title>
@@ -6918,17 +6930,6 @@
         <author>
             <name>silverlight</name>
             <uri>https://news.ycombinator.com/user?id=silverlight</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个Firefox扩展，使使用AWS SSO更容易。]]></title>
-        <id>https://news.ycombinator.com/item?id=31071803</id>
-        <link href="https://news.ycombinator.com/item?id=31071803"/>
-        <updated>2022-04-18T15:14:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a Firefox extension to make using AWS SSO easier]]></summary>
-        <author>
-            <name>pyro2927</name>
-            <uri>https://news.ycombinator.com/user?id=pyro2927</uri>
         </author>
     </entry>
 </feed>

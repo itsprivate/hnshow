@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 14 Jun 2022 05:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 05:59:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Gh-xplr - 通过GitHub CLI使用xplr探索GitHub的仓库
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31735167</link>
+            <guid>https://news.ycombinator.com/item?id=31735167</guid>
+            <pubDate>Tue, 14 Jun 2022 05:46:22 GMT</pubDate>
+            <description><![CDATA[Show HN: Gh-xplr – Explore GitHub repos using xplr via GitHub CLI]]></description>
+        </item>
         <item>
             <title><![CDATA[Coinbase FOMO计算器
 ]]></title>
@@ -4522,13 +4530,6 @@
             <guid>https://news.ycombinator.com/item?id=31072155</guid>
             <pubDate>Mon, 18 Apr 2022 15:38:59 GMT</pubDate>
             <description><![CDATA[Show HN: Battlewords – Wordle Meets Battleship]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个Firefox扩展，使使用AWS SSO更容易。]]></title>
-            <link>https://news.ycombinator.com/item?id=31071803</link>
-            <guid>https://news.ycombinator.com/item?id=31071803</guid>
-            <pubDate>Mon, 18 Apr 2022 15:14:21 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a Firefox extension to make using AWS SSO easier]]></description>
         </item>
     </channel>
 </rss>
