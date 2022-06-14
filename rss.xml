@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 14 Jun 2022 18:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 18:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Datawaves ETL建立区块链仓库
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31743775</link>
+            <guid>https://news.ycombinator.com/item?id=31743775</guid>
+            <pubDate>Tue, 14 Jun 2022 18:28:28 GMT</pubDate>
+            <description><![CDATA[Show HN: Build blockchain warehouse with Datawaves ETL]]></description>
+        </item>
         <item>
             <title><![CDATA[用免费的文案写作提示生成器练习文案写作
 ]]></title>
@@ -4535,13 +4543,6 @@
             <guid>https://news.ycombinator.com/item?id=31081218</guid>
             <pubDate>Tue, 19 Apr 2022 09:46:10 GMT</pubDate>
             <description><![CDATA[Show HN: I built an opensource, privacy-first Google Analytics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[简单的iOS应用程序。将视频分割成相等的小块并加上字幕]]></title>
-            <link>https://news.ycombinator.com/item?id=31078438</link>
-            <guid>https://news.ycombinator.com/item?id=31078438</guid>
-            <pubDate>Tue, 19 Apr 2022 00:26:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Simple iOS application. Split video on equal chunks and subtitle it]]></description>
         </item>
     </channel>
 </rss>

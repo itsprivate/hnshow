@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-14T18:08:39.313Z</updated>
+    <updated>2022-06-14T18:40:24.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Datawaves ETL建立區塊鏈倉庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31743775</id>
+        <link href="https://news.ycombinator.com/item?id=31743775"/>
+        <updated>2022-06-14T18:28:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build blockchain warehouse with Datawaves ETL]]></summary>
+        <author>
+            <name>dreamsome</name>
+            <uri>https://news.ycombinator.com/user?id=dreamsome</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用免費的文案寫作提示生成器練習文案寫作
 ]]></title>
@@ -6931,17 +6943,6 @@
         <author>
             <name>blaumaus</name>
             <uri>https://news.ycombinator.com/user?id=blaumaus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[簡單的iOS應用程序。將視頻分割成相等的小塊並加上字幕]]></title>
-        <id>https://news.ycombinator.com/item?id=31078438</id>
-        <link href="https://news.ycombinator.com/item?id=31078438"/>
-        <updated>2022-04-19T00:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Simple iOS application. Split video on equal chunks and subtitle it]]></summary>
-        <author>
-            <name>yantalnka</name>
-            <uri>https://news.ycombinator.com/user?id=yantalnka</uri>
         </author>
     </entry>
 </feed>
