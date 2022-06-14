@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-14T15:35:09.337Z</updated>
+    <updated>2022-06-14T15:58:00.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的副业摇滚 - 分享和发现副业项目
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31741018</id>
+        <link href="https://news.ycombinator.com/item?id=31741018"/>
+        <updated>2022-06-14T15:35:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My Side Project Rocks – Share and discover side projects]]></summary>
+        <author>
+            <name>scastiel</name>
+            <uri>https://news.ycombinator.com/user?id=scastiel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我对无聊的永久治疗方法
 ]]></title>
@@ -6927,17 +6939,6 @@
         <author>
             <name>joanrodas</name>
             <uri>https://news.ycombinator.com/user?id=joanrodas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用WebGL渲染的西雅图地标的摄影测量技术]]></title>
-        <id>https://news.ycombinator.com/item?id=31076623</id>
-        <link href="https://news.ycombinator.com/item?id=31076623"/>
-        <updated>2022-04-18T21:12:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Photogrammetry of Seattle landmarks rendered in WebGL]]></summary>
-        <author>
-            <name>gglover</name>
-            <uri>https://news.ycombinator.com/user?id=gglover</uri>
         </author>
     </entry>
 </feed>

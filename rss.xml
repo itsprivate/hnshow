@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 14 Jun 2022 15:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 15:58:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我的副业摇滚 - 分享和发现副业项目
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31741018</link>
+            <guid>https://news.ycombinator.com/item?id=31741018</guid>
+            <pubDate>Tue, 14 Jun 2022 15:35:13 GMT</pubDate>
+            <description><![CDATA[Show HN: My Side Project Rocks – Share and discover side projects]]></description>
+        </item>
         <item>
             <title><![CDATA[我对无聊的永久治疗方法
 ]]></title>
@@ -4531,13 +4539,6 @@
             <guid>https://news.ycombinator.com/item?id=31076625</guid>
             <pubDate>Mon, 18 Apr 2022 21:12:39 GMT</pubDate>
             <description><![CDATA[Show HN: Plubo Routes – WordPress routes made simple]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用WebGL渲染的西雅图地标的摄影测量技术]]></title>
-            <link>https://news.ycombinator.com/item?id=31076623</link>
-            <guid>https://news.ycombinator.com/item?id=31076623</guid>
-            <pubDate>Mon, 18 Apr 2022 21:12:31 GMT</pubDate>
-            <description><![CDATA[Show HN: Photogrammetry of Seattle landmarks rendered in WebGL]]></description>
         </item>
     </channel>
 </rss>
