@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-14T18:40:24.379Z</updated>
+    <updated>2022-06-14T18:59:08.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[書籤 - 預訂共享平臺
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31743986</id>
+        <link href="https://news.ycombinator.com/item?id=31743986"/>
+        <updated>2022-06-14T18:41:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bookmarz – The Bookings Sharing Platform]]></summary>
+        <author>
+            <name>fabio_ca</name>
+            <uri>https://news.ycombinator.com/user?id=fabio_ca</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Datawaves ETL建立區塊鏈倉庫
 ]]></title>
@@ -6932,17 +6944,6 @@
         <author>
             <name>tonidorta</name>
             <uri>https://news.ycombinator.com/user?id=tonidorta</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一個開源的、隱私至上的谷歌分析器]]></title>
-        <id>https://news.ycombinator.com/item?id=31081218</id>
-        <link href="https://news.ycombinator.com/item?id=31081218"/>
-        <updated>2022-04-19T09:46:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built an opensource, privacy-first Google Analytics]]></summary>
-        <author>
-            <name>blaumaus</name>
-            <uri>https://news.ycombinator.com/user?id=blaumaus</uri>
         </author>
     </entry>
 </feed>
