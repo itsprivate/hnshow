@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-15T16:48:01.751Z</updated>
+    <updated>2022-06-15T17:09:47.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通過在不需要時停止非生產資源來削減你的AWS成本
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31755862</id>
+        <link href="https://news.ycombinator.com/item?id=31755862"/>
+        <updated>2022-06-15T16:58:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Cut your AWS costs by stopping non-production resources when not needed]]></summary>
+        <author>
+            <name>sriprasanna</name>
+            <uri>https://news.ycombinator.com/user?id=sriprasanna</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[管理信息過載的Slack應用程序
 ]]></title>
@@ -6954,17 +6966,6 @@
         <author>
             <name>justinwp</name>
             <uri>https://news.ycombinator.com/user?id=justinwp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[專注提醒--5分鐘的提醒，以保持專注]]></title>
-        <id>https://news.ycombinator.com/item?id=31085418</id>
-        <link href="https://news.ycombinator.com/item?id=31085418"/>
-        <updated>2022-04-19T16:33:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Focus Reminder – A 5 minute reminder to stay focused]]></summary>
-        <author>
-            <name>jarrenae</name>
-            <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
         </author>
     </entry>
 </feed>

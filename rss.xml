@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 15 Jun 2022 16:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 17:09:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[通过在不需要时停止非生产资源来削减你的AWS成本
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31755862</link>
+            <guid>https://news.ycombinator.com/item?id=31755862</guid>
+            <pubDate>Wed, 15 Jun 2022 16:58:47 GMT</pubDate>
+            <description><![CDATA[Show HN: Cut your AWS costs by stopping non-production resources when not needed]]></description>
+        </item>
         <item>
             <title><![CDATA[管理信息过载的Slack应用程序
 ]]></title>
@@ -4558,13 +4566,6 @@
             <guid>https://news.ycombinator.com/item?id=31085811</guid>
             <pubDate>Tue, 19 Apr 2022 17:03:09 GMT</pubDate>
             <description><![CDATA[Show HN: Related Posts in Eleventy]]></description>
-        </item>
-        <item>
-            <title><![CDATA[专注提醒--5分钟的提醒，以保持专注]]></title>
-            <link>https://news.ycombinator.com/item?id=31085418</link>
-            <guid>https://news.ycombinator.com/item?id=31085418</guid>
-            <pubDate>Tue, 19 Apr 2022 16:33:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Focus Reminder – A 5 minute reminder to stay focused]]></description>
         </item>
     </channel>
 </rss>
