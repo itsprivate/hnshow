@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-14T22:45:48.157Z</updated>
+    <updated>2022-06-15T04:07:26.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[想象力》，一份由人工智能撰写的短篇小说通讯
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31748135</id>
+        <link href="https://news.ycombinator.com/item?id=31748135"/>
+        <updated>2022-06-15T01:31:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Imagination, a newsletter of short stories written by AI]]></summary>
+        <author>
+            <name>_bidule</name>
+            <uri>https://news.ycombinator.com/user?id=_bidule</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对数字便条的思考
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31747850</id>
+        <link href="https://news.ycombinator.com/item?id=31747850"/>
+        <updated>2022-06-15T00:43:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Thoughts on Digital Sticky Notes]]></summary>
+        <author>
+            <name>afont</name>
+            <uri>https://news.ycombinator.com/user?id=afont</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[跨越RSS的语义搜索
 ]]></title>
@@ -6926,28 +6950,6 @@
         <author>
             <name>jpcapdevila</name>
             <uri>https://news.ycombinator.com/user?id=jpcapdevila</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一个Node.js库，用于创建加密的点对点应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=31082675</id>
-        <link href="https://news.ycombinator.com/item?id=31082675"/>
-        <updated>2022-04-19T13:17:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a Node.js library for creating encrypted peer-to-peer apps]]></summary>
-        <author>
-            <name>Hexadecible</name>
-            <uri>https://news.ycombinator.com/user?id=Hexadecible</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莫纳--以30美元/月的价格租用远程工作装置]]></title>
-        <id>https://news.ycombinator.com/item?id=31082535</id>
-        <link href="https://news.ycombinator.com/item?id=31082535"/>
-        <updated>2022-04-19T13:04:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mona – rent remote work setup for $30/month]]></summary>
-        <author>
-            <name>Maiuran</name>
-            <uri>https://news.ycombinator.com/user?id=Maiuran</uri>
         </author>
     </entry>
 </feed>
