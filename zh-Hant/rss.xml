@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 15 Jun 2022 18:56:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 20:34:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一個GPT-3的東西來幫助我做更好的黑客馬拉松項目
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31758805</link>
+            <guid>https://news.ycombinator.com/item?id=31758805</guid>
+            <pubDate>Wed, 15 Jun 2022 20:12:30 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a GPT-3 thing to help me make better hackathon projects]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一個GPT-3的東西來幫助我做更好的黑客馬拉松項目
 ]]></title>
@@ -4562,13 +4570,6 @@
             <guid>https://news.ycombinator.com/item?id=31089516</guid>
             <pubDate>Tue, 19 Apr 2022 21:31:38 GMT</pubDate>
             <description><![CDATA[Show HN: I have just open-sourced a 3D drafting demo]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Soup GitOps Operator - 增加了清單的模式和其他內容]]></title>
-            <link>https://news.ycombinator.com/item?id=31087198</link>
-            <guid>https://news.ycombinator.com/item?id=31087198</guid>
-            <pubDate>Tue, 19 Apr 2022 18:44:52 GMT</pubDate>
-            <description><![CDATA[Show HN: Soup GitOps Operator – Added patterns for manifests and more]]></description>
         </item>
     </channel>
 </rss>
