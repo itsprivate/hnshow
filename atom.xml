@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-15T22:45:50.366Z</updated>
+    <updated>2022-06-15T23:00:20.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[物联网设备可在地球毁灭前几小时向你发出超新星的警告
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31760485</id>
+        <link href="https://news.ycombinator.com/item?id=31760485"/>
+        <updated>2022-06-15T22:55:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: IoT device to warn you of a supernova hours before Earth is destroyed]]></summary>
+        <author>
+            <name>wanderingjew</name>
+            <uri>https://news.ycombinator.com/user?id=wanderingjew</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个基于迷宫的游戏
 ]]></title>
@@ -6960,17 +6972,6 @@
         <author>
             <name>calltrak</name>
             <uri>https://news.ycombinator.com/user?id=calltrak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crylic，一个用于React的Wysiwyg编辑器]]></title>
-        <id>https://news.ycombinator.com/item?id=31090723</id>
-        <link href="https://news.ycombinator.com/item?id=31090723"/>
-        <updated>2022-04-19T23:27:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Crylic, a Wysiwyg Editor for React]]></summary>
-        <author>
-            <name>saswatb</name>
-            <uri>https://news.ycombinator.com/user?id=saswatb</uri>
         </author>
     </entry>
 </feed>
