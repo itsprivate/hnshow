@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-15T07:47:19.382Z</updated>
+    <updated>2022-06-15T11:59:00.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GraphQL Zeus 5.0.4 - 对GraphQL标量进行编码和解码
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31751568</id>
+        <link href="https://news.ycombinator.com/item?id=31751568"/>
+        <updated>2022-06-15T11:43:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GraphQL Zeus 5.0.4 – Encode&Decode GraphQL Scalars]]></summary>
+        <author>
+            <name>aexol</name>
+            <uri>https://news.ycombinator.com/user?id=aexol</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[创业公司的Questmate
 ]]></title>
@@ -6941,17 +6953,6 @@
         <author>
             <name>scubakid</name>
             <uri>https://news.ycombinator.com/user?id=scubakid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Teleporter轻松地将文件传入和传出嵌入式系统]]></title>
-        <id>https://news.ycombinator.com/item?id=31083028</id>
-        <link href="https://news.ycombinator.com/item?id=31083028"/>
-        <updated>2022-04-19T13:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Transfer files to and from embedded systems easily with Teleporter]]></summary>
-        <author>
-            <name>geno_nullfree</name>
-            <uri>https://news.ycombinator.com/user?id=geno_nullfree</uri>
         </author>
     </entry>
 </feed>

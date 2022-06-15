@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 15 Jun 2022 07:47:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 11:59:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GraphQL Zeus 5.0.4 - 對GraphQL標量進行編碼和解碼
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31751568</link>
+            <guid>https://news.ycombinator.com/item?id=31751568</guid>
+            <pubDate>Wed, 15 Jun 2022 11:43:04 GMT</pubDate>
+            <description><![CDATA[Show HN: GraphQL Zeus 5.0.4 – Encode&Decode GraphQL Scalars]]></description>
+        </item>
         <item>
             <title><![CDATA[創業公司的Questmate
 ]]></title>
@@ -4545,13 +4553,6 @@
             <guid>https://news.ycombinator.com/item?id=31083093</guid>
             <pubDate>Tue, 19 Apr 2022 13:52:15 GMT</pubDate>
             <description><![CDATA[Show HN: I built a simulator for personal finance: ProjectionLab]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Teleporter輕鬆地將文件傳入和傳出嵌入式系統]]></title>
-            <link>https://news.ycombinator.com/item?id=31083028</link>
-            <guid>https://news.ycombinator.com/item?id=31083028</guid>
-            <pubDate>Tue, 19 Apr 2022 13:48:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Transfer files to and from embedded systems easily with Teleporter]]></description>
         </item>
     </channel>
 </rss>
