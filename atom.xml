@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-15T14:03:58.683Z</updated>
+    <updated>2022-06-15T14:30:45.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Discord Neofetch - 完全可定制的Neofetch，为Discord而建
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31753057</id>
+        <link href="https://news.ycombinator.com/item?id=31753057"/>
+        <updated>2022-06-15T14:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Discord Neofetch – Fully Customizable Neofetch, Built for Discord]]></summary>
+        <author>
+            <name>Skyascii</name>
+            <uri>https://news.ycombinator.com/user?id=Skyascii</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[讲座者的问题
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31753011</id>
+        <link href="https://news.ycombinator.com/item?id=31753011"/>
+        <updated>2022-06-15T14:01:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Questmate for Standups]]></summary>
+        <author>
+            <name>cheerioty</name>
+            <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jira for Shape Up Teams
 ]]></title>
@@ -6934,28 +6958,6 @@
         <author>
             <name>tscepo</name>
             <uri>https://news.ycombinator.com/user?id=tscepo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emacs配置生成器]]></title>
-        <id>https://news.ycombinator.com/item?id=31083515</id>
-        <link href="https://news.ycombinator.com/item?id=31083515"/>
-        <updated>2022-04-19T14:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Emacs Configuration Generator]]></summary>
-        <author>
-            <name>daptaq</name>
-            <uri>https://news.ycombinator.com/user?id=daptaq</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[让你的PDF在浏览器中看起来是扫描的]]></title>
-        <id>https://news.ycombinator.com/item?id=31083432</id>
-        <link href="https://news.ycombinator.com/item?id=31083432"/>
-        <updated>2022-04-19T14:15:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Make Your PDF Look Scanned in Browser]]></summary>
-        <author>
-            <name>seedgou</name>
-            <uri>https://news.ycombinator.com/user?id=seedgou</uri>
         </author>
     </entry>
 </feed>
