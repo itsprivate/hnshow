@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-15T20:34:28.446Z</updated>
+    <updated>2022-06-15T22:45:50.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個基於迷宮的遊戲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31760285</id>
+        <link href="https://news.ycombinator.com/item?id=31760285"/>
+        <updated>2022-06-15T22:33:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a game based on mazes]]></summary>
+        <author>
+            <name>bolanone</name>
+            <uri>https://news.ycombinator.com/user?id=bolanone</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個GPT-3的東西來幫助我做更好的黑客馬拉松項目
 ]]></title>
@@ -6959,17 +6971,6 @@
         <author>
             <name>saswatb</name>
             <uri>https://news.ycombinator.com/user?id=saswatb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我剛剛開源了一個3D繪圖演示]]></title>
-        <id>https://news.ycombinator.com/item?id=31089516</id>
-        <link href="https://news.ycombinator.com/item?id=31089516"/>
-        <updated>2022-04-19T21:31:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I have just open-sourced a 3D drafting demo]]></summary>
-        <author>
-            <name>fatih-erikli</name>
-            <uri>https://news.ycombinator.com/user?id=fatih-erikli</uri>
         </author>
     </entry>
 </feed>

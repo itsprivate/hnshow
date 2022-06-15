@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 15 Jun 2022 20:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 22:45:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一个基于迷宫的游戏
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31760285</link>
+            <guid>https://news.ycombinator.com/item?id=31760285</guid>
+            <pubDate>Wed, 15 Jun 2022 22:33:25 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a game based on mazes]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一个GPT-3的东西来帮助我做更好的黑客马拉松项目
 ]]></title>
@@ -4563,13 +4571,6 @@
             <guid>https://news.ycombinator.com/item?id=31090723</guid>
             <pubDate>Tue, 19 Apr 2022 23:27:24 GMT</pubDate>
             <description><![CDATA[Show HN: Crylic, a Wysiwyg Editor for React]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我刚刚开源了一个3D绘图演示]]></title>
-            <link>https://news.ycombinator.com/item?id=31089516</link>
-            <guid>https://news.ycombinator.com/item?id=31089516</guid>
-            <pubDate>Tue, 19 Apr 2022 21:31:38 GMT</pubDate>
-            <description><![CDATA[Show HN: I have just open-sourced a 3D drafting demo]]></description>
         </item>
     </channel>
 </rss>
