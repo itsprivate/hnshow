@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-15T04:07:26.629Z</updated>
+    <updated>2022-06-15T06:55:40.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的副業模擬圖 - 聯盟營銷工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31749795</id>
+        <link href="https://news.ycombinator.com/item?id=31749795"/>
+        <updated>2022-06-15T06:35:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My Side Project Mockup – Affiliate Marketing Tool]]></summary>
+        <author>
+            <name>changhao</name>
+            <uri>https://news.ycombinator.com/user?id=changhao</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[想象力》，一份由人工智能撰寫的短篇小說通訊
 ]]></title>
@@ -6939,17 +6951,6 @@
         <author>
             <name>rgriffinj</name>
             <uri>https://news.ycombinator.com/user?id=rgriffinj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將JavaScript作為一個數據庫--無服務器平臺]]></title>
-        <id>https://news.ycombinator.com/item?id=31082676</id>
-        <link href="https://news.ycombinator.com/item?id=31082676"/>
-        <updated>2022-04-19T13:17:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: JavaScript as a Database – Serverless Platform]]></summary>
-        <author>
-            <name>jpcapdevila</name>
-            <uri>https://news.ycombinator.com/user?id=jpcapdevila</uri>
         </author>
     </entry>
 </feed>
