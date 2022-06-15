@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-15T11:59:00.647Z</updated>
+    <updated>2022-06-15T13:57:06.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[有教授評論的大學排名
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31752708</id>
+        <link href="https://news.ycombinator.com/item?id=31752708"/>
+        <updated>2022-06-15T13:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Ranking Universities with Professor Reviews]]></summary>
+        <author>
+            <name>ggordbegli</name>
+            <uri>https://news.ycombinator.com/user?id=ggordbegli</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基於PIXI.js和GLSL的渲染萬花筒的網絡工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31752593</id>
+        <link href="https://news.ycombinator.com/item?id=31752593"/>
+        <updated>2022-06-15T13:30:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Web tool for rendering Kaleidoscopes based on PIXI.js and GLSL]]></summary>
+        <author>
+            <name>jiyinyiyong</name>
+            <uri>https://news.ycombinator.com/user?id=jiyinyiyong</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GraphQL Zeus 5.0.4 - 對GraphQL標量進行編碼和解碼
 ]]></title>
@@ -6931,28 +6955,6 @@
         <author>
             <name>EgeAytin</name>
             <uri>https://news.ycombinator.com/user?id=EgeAytin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PostgresML，在你喜歡的數據庫中進行端到端的機器學習]]></title>
-        <id>https://news.ycombinator.com/item?id=31083153</id>
-        <link href="https://news.ycombinator.com/item?id=31083153"/>
-        <updated>2022-04-19T13:56:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PostgresML, end-to-end machine learning in your favorite db]]></summary>
-        <author>
-            <name>montanalow</name>
-            <uri>https://news.ycombinator.com/user?id=montanalow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我為個人財務建立了一個模擬器。投影實驗室]]></title>
-        <id>https://news.ycombinator.com/item?id=31083093</id>
-        <link href="https://news.ycombinator.com/item?id=31083093"/>
-        <updated>2022-04-19T13:52:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a simulator for personal finance: ProjectionLab]]></summary>
-        <author>
-            <name>scubakid</name>
-            <uri>https://news.ycombinator.com/user?id=scubakid</uri>
         </author>
     </entry>
 </feed>
