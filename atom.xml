@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-15T14:59:26.286Z</updated>
+    <updated>2022-06-15T15:56:56.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个更直观的NFT集合
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31754704</id>
+        <link href="https://news.ycombinator.com/item?id=31754704"/>
+        <updated>2022-06-15T15:42:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a more visual NFT collection]]></summary>
+        <author>
+            <name>esherr</name>
+            <uri>https://news.ycombinator.com/user?id=esherr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可视化地构建Web3 Dapps
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31754591</id>
+        <link href="https://news.ycombinator.com/item?id=31754591"/>
+        <updated>2022-06-15T15:36:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build Web3 Dapps Visually]]></summary>
+        <author>
+            <name>zubairq</name>
+            <uri>https://news.ycombinator.com/user?id=zubairq</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Aurinko.io构建你的下一个Outlook/Teams/WebEx插件/应用
 ]]></title>
@@ -6938,28 +6962,6 @@
         <author>
             <name>nullfish</name>
             <uri>https://news.ycombinator.com/user?id=nullfish</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使用文本分析来改善你的业务？]]></title>
-        <id>https://news.ycombinator.com/item?id=31084084</id>
-        <link href="https://news.ycombinator.com/item?id=31084084"/>
-        <updated>2022-04-19T15:02:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: How to Use Text Analysis to Improve Your Business?]]></summary>
-        <author>
-            <name>juancolamendy</name>
-            <uri>https://news.ycombinator.com/user?id=juancolamendy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个用于实时绘画的开源r/place画布]]></title>
-        <id>https://news.ycombinator.com/item?id=31083800</id>
-        <link href="https://news.ycombinator.com/item?id=31083800"/>
-        <updated>2022-04-19T14:41:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An open-source r/place canvas for realtime painting]]></summary>
-        <author>
-            <name>Meldiron</name>
-            <uri>https://news.ycombinator.com/user?id=Meldiron</uri>
         </author>
     </entry>
 </feed>
