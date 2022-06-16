@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-16T17:45:33.515Z</updated>
+    <updated>2022-06-16T21:27:13.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[幸运的是--了解财务决策的权衡因素
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31771099</id>
+        <link href="https://news.ycombinator.com/item?id=31771099"/>
+        <updated>2022-06-16T21:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fortunately – Understand the tradeoffs of financial decisions]]></summary>
+        <author>
+            <name>gerad</name>
+            <uri>https://news.ycombinator.com/user?id=gerad</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从Figma导出React代码
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31770944</id>
+        <link href="https://news.ycombinator.com/item?id=31770944"/>
+        <updated>2022-06-16T21:02:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Export React Code from Figma]]></summary>
+        <author>
+            <name>tscepo</name>
+            <uri>https://news.ycombinator.com/user?id=tscepo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每月在Venmo上请求你的朋友
 ]]></title>
@@ -6971,28 +6995,6 @@
         <author>
             <name>hubraumhugo</name>
             <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一个网站来寻找附近的咖啡馆来进行远程工作]]></title>
-        <id>https://news.ycombinator.com/item?id=31097195</id>
-        <link href="https://news.ycombinator.com/item?id=31097195"/>
-        <updated>2022-04-20T14:10:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a website to find nearby cafes to work remotely from]]></summary>
-        <author>
-            <name>frizkyK</name>
-            <uri>https://news.ycombinator.com/user?id=frizkyK</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maven POM Visualizer]]></title>
-        <id>https://news.ycombinator.com/item?id=31097042</id>
-        <link href="https://news.ycombinator.com/item?id=31097042"/>
-        <updated>2022-04-20T13:59:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Maven POM Visualizer]]></summary>
-        <author>
-            <name>floverfelt</name>
-            <uri>https://news.ycombinator.com/user?id=floverfelt</uri>
         </author>
     </entry>
 </feed>
