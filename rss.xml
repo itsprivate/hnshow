@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 16 Jun 2022 22:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 23:29:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Warp - 在你的macOS桌面上自动生成窗口
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31771496</link>
+            <guid>https://news.ycombinator.com/item?id=31771496</guid>
+            <pubDate>Thu, 16 Jun 2022 21:58:13 GMT</pubDate>
+            <description><![CDATA[Show HN: Warp - Automate windows on your macOS desktop]]></description>
+        </item>
         <item>
             <title><![CDATA[Cyvincenty - Vincenty算法的Cython实现
 ]]></title>
@@ -4590,13 +4598,6 @@
             <guid>https://news.ycombinator.com/item?id=31098553</guid>
             <pubDate>Wed, 20 Apr 2022 15:40:53 GMT</pubDate>
             <description><![CDATA[Show HN: A 3D order book representation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DTL：一种用于转换和处理数据的语言和JavaScript库]]></title>
-            <link>https://news.ycombinator.com/item?id=31098205</link>
-            <guid>https://news.ycombinator.com/item?id=31098205</guid>
-            <pubDate>Wed, 20 Apr 2022 15:20:43 GMT</pubDate>
-            <description><![CDATA[Show HN: DTL: a language and JavaScript lib to transform and manipulate data]]></description>
         </item>
     </channel>
 </rss>

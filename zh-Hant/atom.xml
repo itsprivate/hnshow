@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-16T22:28:51.744Z</updated>
+    <updated>2022-06-16T23:29:15.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Warp - 在你的macOS桌面上自動生成窗口
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31771496</id>
+        <link href="https://news.ycombinator.com/item?id=31771496"/>
+        <updated>2022-06-16T21:58:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Warp - Automate windows on your macOS desktop]]></summary>
+        <author>
+            <name>mkchoi212</name>
+            <uri>https://news.ycombinator.com/user?id=mkchoi212</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cyvincenty - Vincenty算法的Cython實現
 ]]></title>
@@ -6986,17 +6998,6 @@
         <author>
             <name>is0tope</name>
             <uri>https://news.ycombinator.com/user?id=is0tope</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DTL：一種用於轉換和處理數據的語言和JavaScript庫]]></title>
-        <id>https://news.ycombinator.com/item?id=31098205</id>
-        <link href="https://news.ycombinator.com/item?id=31098205"/>
-        <updated>2022-04-20T15:20:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: DTL: a language and JavaScript lib to transform and manipulate data]]></summary>
-        <author>
-            <name>jk0ne</name>
-            <uri>https://news.ycombinator.com/user?id=jk0ne</uri>
         </author>
     </entry>
 </feed>
