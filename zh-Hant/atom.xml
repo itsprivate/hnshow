@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-16T21:58:30.258Z</updated>
+    <updated>2022-06-16T22:28:51.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Cyvincenty - Vincenty算法的Cython實現
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31771598</id>
+        <link href="https://news.ycombinator.com/item?id=31771598"/>
+        <updated>2022-06-16T22:06:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Cyvincenty – Cython implementation of Vincenty algorithm]]></summary>
+        <author>
+            <name>jonathan-kosgei</name>
+            <uri>https://news.ycombinator.com/user?id=jonathan-kosgei</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jsonl Golang庫讀取和寫入JSON線文本格式
 ]]></title>
@@ -6985,17 +6997,6 @@
         <author>
             <name>jk0ne</name>
             <uri>https://news.ycombinator.com/user?id=jk0ne</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[協作式電子表格和甘特中的雙向Jira同步]]></title>
-        <id>https://news.ycombinator.com/item?id=31098065</id>
-        <link href="https://news.ycombinator.com/item?id=31098065"/>
-        <updated>2022-04-20T15:11:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Two-way Jira sync in a collaborative spreadsheet and Gantt]]></summary>
-        <author>
-            <name>electric_muse</name>
-            <uri>https://news.ycombinator.com/user?id=electric_muse</uri>
         </author>
     </entry>
 </feed>
