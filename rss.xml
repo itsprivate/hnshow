@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 16 Jun 2022 12:58:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 16:56:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,78 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Recut能自动去除视频中的静音。它是用Tauri
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31767830</link>
+            <guid>https://news.ycombinator.com/item?id=31767830</guid>
+            <pubDate>Thu, 16 Jun 2022 16:19:30 GMT</pubDate>
+            <description><![CDATA[Show HN: Recut automatically removes silence from videos. It's built with Tauri]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在输入病历的同时提供实时的诊断代码建议
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31767540</link>
+            <guid>https://news.ycombinator.com/item?id=31767540</guid>
+            <pubDate>Thu, 16 Jun 2022 15:58:51 GMT</pubDate>
+            <description><![CDATA[Show HN: Real-time diagnosis code suggestions while typing a medical encounter]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一个突发新闻和内容搜索引擎
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31767072</link>
+            <guid>https://news.ycombinator.com/item?id=31767072</guid>
+            <pubDate>Thu, 16 Jun 2022 15:18:32 GMT</pubDate>
+            <description><![CDATA[Show HN: A breaking news and content search engine]]></description>
+        </item>
+        <item>
+            <title><![CDATA[QuickOWL - 以选定的文本作为输入，快速打开喜爱的URLs
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31767005</link>
+            <guid>https://news.ycombinator.com/item?id=31767005</guid>
+            <pubDate>Thu, 16 Jun 2022 15:14:02 GMT</pubDate>
+            <description><![CDATA[Show HN: QuickOWL – Quickly open favourite URLs with selected text as input]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如果你不能处理Nonce，就不要使用流密码。互动教程
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31766138</link>
+            <guid>https://news.ycombinator.com/item?id=31766138</guid>
+            <pubDate>Thu, 16 Jun 2022 14:00:47 GMT</pubDate>
+            <description><![CDATA[Show HN: Don't use stream cipher if you can't handle Nonce. Interactive tutorial]]></description>
+        </item>
+        <item>
+            <title><![CDATA[锈迹斑斑的游乐场与前10万个木箱
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31766121</link>
+            <guid>https://news.ycombinator.com/item?id=31766121</guid>
+            <pubDate>Thu, 16 Jun 2022 13:59:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Rust Playground with the top 10k Crates]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Fastshap，一个快速的shap内核解释器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31765709</link>
+            <guid>https://news.ycombinator.com/item?id=31765709</guid>
+            <pubDate>Thu, 16 Jun 2022 13:18:36 GMT</pubDate>
+            <description><![CDATA[Show HN: Fastshap, a fast shap kernel explainer]]></description>
+        </item>
+        <item>
+            <title><![CDATA[支持React Router的React Time-Travel调试器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31765661</link>
+            <guid>https://news.ycombinator.com/item?id=31765661</guid>
+            <pubDate>Thu, 16 Jun 2022 13:13:11 GMT</pubDate>
+            <description><![CDATA[Show HN: React Time-Travel Debugger with React Router Support]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Tailwind DX - Tailwind CSS的开发工具扩展
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31765475</link>
+            <guid>https://news.ycombinator.com/item?id=31765475</guid>
+            <pubDate>Thu, 16 Jun 2022 12:52:33 GMT</pubDate>
+            <description><![CDATA[Show HN: Tailwind DX – A DevTools Extension for Tailwind CSS]]></description>
+        </item>
         <item>
             <title><![CDATA[Tailwind DX - 为Tailwind CSS开发者提供的DevTools扩展工具
 ]]></title>
@@ -4517,69 +4589,6 @@
             <guid>https://news.ycombinator.com/item?id=31096080</guid>
             <pubDate>Wed, 20 Apr 2022 12:48:48 GMT</pubDate>
             <description><![CDATA[Show HN: I built a notifier for Smart Contracts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为你的私人仓库创建可共享的链接]]></title>
-            <link>https://news.ycombinator.com/item?id=31096042</link>
-            <guid>https://news.ycombinator.com/item?id=31096042</guid>
-            <pubDate>Wed, 20 Apr 2022 12:44:52 GMT</pubDate>
-            <description><![CDATA[Show HN: Create shareable links for your Private Repos]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在没有YouTube的情况下播放Lo-Fi音乐]]></title>
-            <link>https://news.ycombinator.com/item?id=31095892</link>
-            <guid>https://news.ycombinator.com/item?id=31095892</guid>
-            <pubDate>Wed, 20 Apr 2022 12:30:04 GMT</pubDate>
-            <description><![CDATA[Show HN: Play Lo-Fi music without YouTube]]></description>
-        </item>
-        <item>
-            <title><![CDATA[可视化数据语言（为非技术人员提供无代码的SQL）。]]></title>
-            <link>https://news.ycombinator.com/item?id=31095872</link>
-            <guid>https://news.ycombinator.com/item?id=31095872</guid>
-            <pubDate>Wed, 20 Apr 2022 12:27:58 GMT</pubDate>
-            <description><![CDATA[Show HN: Visual data language (no-code SQL for non-technical ppl)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[HN用的Favicons]]></title>
-            <link>https://news.ycombinator.com/item?id=31095046</link>
-            <guid>https://news.ycombinator.com/item?id=31095046</guid>
-            <pubDate>Wed, 20 Apr 2022 10:52:15 GMT</pubDate>
-            <description><![CDATA[Show HN: Favicons for HN]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sanscubicle - 一个由印度最优秀的人才组成的服务DAO社区]]></title>
-            <link>https://news.ycombinator.com/item?id=31094936</link>
-            <guid>https://news.ycombinator.com/item?id=31094936</guid>
-            <pubDate>Wed, 20 Apr 2022 10:36:10 GMT</pubDate>
-            <description><![CDATA[Show HN: Sanscubicle – A Community of service DAOs with India's finest minds]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Licom - 浏览器插件，用于在每个网页上发表评论]]></title>
-            <link>https://news.ycombinator.com/item?id=31094681</link>
-            <guid>https://news.ycombinator.com/item?id=31094681</guid>
-            <pubDate>Wed, 20 Apr 2022 10:02:05 GMT</pubDate>
-            <description><![CDATA[Show HN: Licom – browser plugin for comments on every webpage]]></description>
-        </item>
-        <item>
-            <title><![CDATA[薪资在20万以上的Web3开发工作]]></title>
-            <link>https://news.ycombinator.com/item?id=31094635</link>
-            <guid>https://news.ycombinator.com/item?id=31094635</guid>
-            <pubDate>Wed, 20 Apr 2022 09:56:10 GMT</pubDate>
-            <description><![CDATA[Show HN: Web3 Developer Jobs with $200k+ salaries]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Chalk.ist - 为你的源代码创建美丽的图像]]></title>
-            <link>https://news.ycombinator.com/item?id=31094534</link>
-            <guid>https://news.ycombinator.com/item?id=31094534</guid>
-            <pubDate>Wed, 20 Apr 2022 09:35:07 GMT</pubDate>
-            <description><![CDATA[Show HN: Chalk.ist – Create beautiful images of your source code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Solid推出了自动主持的用户测试]]></title>
-            <link>https://news.ycombinator.com/item?id=31094175</link>
-            <guid>https://news.ycombinator.com/item?id=31094175</guid>
-            <pubDate>Wed, 20 Apr 2022 08:24:50 GMT</pubDate>
-            <description><![CDATA[Show HN: Solid launches auto-moderated User Tests]]></description>
         </item>
     </channel>
 </rss>
