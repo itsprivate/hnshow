@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-16T09:32:17.527Z</updated>
+    <updated>2022-06-16T09:50:03.853Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[可锁定--分布式系统的同步锁
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31764026</id>
+        <link href="https://news.ycombinator.com/item?id=31764026"/>
+        <updated>2022-06-16T09:27:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lockable – sync locks for distributed systems]]></summary>
+        <author>
+            <name>keyless_</name>
+            <uri>https://news.ycombinator.com/user?id=keyless_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marklog，一个收集链接和Twitter书签的简约工具
 ]]></title>
@@ -6962,17 +6974,6 @@
         <author>
             <name>AbiTyasTunggal</name>
             <uri>https://news.ycombinator.com/user?id=AbiTyasTunggal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[链上棋智能合约细分]]></title>
-        <id>https://news.ycombinator.com/item?id=31092204</id>
-        <link href="https://news.ycombinator.com/item?id=31092204"/>
-        <updated>2022-04-20T02:43:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: On-Chain Chess Smart Contract Breakdown]]></summary>
-        <author>
-            <name>anupamchugh</name>
-            <uri>https://news.ycombinator.com/user?id=anupamchugh</uri>
         </author>
     </entry>
 </feed>
