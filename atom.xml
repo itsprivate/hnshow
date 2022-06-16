@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-15T23:00:20.999Z</updated>
+    <updated>2022-06-16T09:32:17.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Marklog，一个收集链接和Twitter书签的简约工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31763890</id>
+        <link href="https://news.ycombinator.com/item?id=31763890"/>
+        <updated>2022-06-16T09:04:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Marklog, a minimalist tool to collect links and Twitter Bookmarks]]></summary>
+        <author>
+            <name>ismaelmc</name>
+            <uri>https://news.ycombinator.com/user?id=ismaelmc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[物联网设备可在地球毁灭前几小时向你发出超新星的警告
 ]]></title>
@@ -6961,17 +6973,6 @@
         <author>
             <name>anupamchugh</name>
             <uri>https://news.ycombinator.com/user?id=anupamchugh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ough-Hugo - 一个简单干净的Hugo博客主题]]></title>
-        <id>https://news.ycombinator.com/item?id=31089388</id>
-        <link href="https://news.ycombinator.com/item?id=31089388"/>
-        <updated>2022-04-19T21:21:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ough-Hugo – a simple clean hugo blog theme]]></summary>
-        <author>
-            <name>calltrak</name>
-            <uri>https://news.ycombinator.com/user?id=calltrak</uri>
         </author>
     </entry>
 </feed>
