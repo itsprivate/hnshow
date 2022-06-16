@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-16T17:15:02.767Z</updated>
+    <updated>2022-06-16T17:45:33.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每月在Venmo上请求你的朋友
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31768723</id>
+        <link href="https://news.ycombinator.com/item?id=31768723"/>
+        <updated>2022-06-16T17:32:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Request your friends on Venmo every month]]></summary>
+        <author>
+            <name>guymargalit</name>
+            <uri>https://news.ycombinator.com/user?id=guymargalit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自动化你的馈赠
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31768589</id>
+        <link href="https://news.ycombinator.com/item?id=31768589"/>
+        <updated>2022-06-16T17:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Automate Your Gifting]]></summary>
+        <author>
+            <name>jonathan-adly</name>
+            <uri>https://news.ycombinator.com/user?id=jonathan-adly</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dataherald (YC W21) 像WSJ一样创建你自己的汽油价格数据Viz
 ]]></title>
@@ -6969,28 +6993,6 @@
         <author>
             <name>floverfelt</name>
             <uri>https://news.ycombinator.com/user?id=floverfelt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSABots - 一个独特的、可爱的机器人为你的公钥服务]]></title>
-        <id>https://news.ycombinator.com/item?id=31096832</id>
-        <link href="https://news.ycombinator.com/item?id=31096832"/>
-        <updated>2022-04-20T13:43:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: RSABots – A Unique, Cute Robot for Your Public Key]]></summary>
-        <author>
-            <name>cmdli</name>
-            <uri>https://news.ycombinator.com/user?id=cmdli</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[独特的星 - 当你给一个存储库加星时，随机的5个字母的字符串]]></title>
-        <id>https://news.ycombinator.com/item?id=31096452</id>
-        <link href="https://news.ycombinator.com/item?id=31096452"/>
-        <updated>2022-04-20T13:17:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Unique Star – random 5-letter string when you star a repository]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
         </author>
     </entry>
 </feed>

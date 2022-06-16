@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 16 Jun 2022 17:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 17:45:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[每月在Venmo上请求你的朋友
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31768723</link>
+            <guid>https://news.ycombinator.com/item?id=31768723</guid>
+            <pubDate>Thu, 16 Jun 2022 17:32:11 GMT</pubDate>
+            <description><![CDATA[Show HN: Request your friends on Venmo every month]]></description>
+        </item>
+        <item>
+            <title><![CDATA[自动化你的馈赠
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31768589</link>
+            <guid>https://news.ycombinator.com/item?id=31768589</guid>
+            <pubDate>Thu, 16 Jun 2022 17:20:33 GMT</pubDate>
+            <description><![CDATA[Show HN: Automate Your Gifting]]></description>
+        </item>
         <item>
             <title><![CDATA[Dataherald (YC W21) 像WSJ一样创建你自己的汽油价格数据Viz
 ]]></title>
@@ -4577,20 +4593,6 @@
             <guid>https://news.ycombinator.com/item?id=31097042</guid>
             <pubDate>Wed, 20 Apr 2022 13:59:24 GMT</pubDate>
             <description><![CDATA[Show HN: Maven POM Visualizer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[RSABots - 一个独特的、可爱的机器人为你的公钥服务]]></title>
-            <link>https://news.ycombinator.com/item?id=31096832</link>
-            <guid>https://news.ycombinator.com/item?id=31096832</guid>
-            <pubDate>Wed, 20 Apr 2022 13:43:25 GMT</pubDate>
-            <description><![CDATA[Show HN: RSABots – A Unique, Cute Robot for Your Public Key]]></description>
-        </item>
-        <item>
-            <title><![CDATA[独特的星 - 当你给一个存储库加星时，随机的5个字母的字符串]]></title>
-            <link>https://news.ycombinator.com/item?id=31096452</link>
-            <guid>https://news.ycombinator.com/item?id=31096452</guid>
-            <pubDate>Wed, 20 Apr 2022 13:17:49 GMT</pubDate>
-            <description><![CDATA[Show HN: Unique Star – random 5-letter string when you star a repository]]></description>
         </item>
     </channel>
 </rss>
