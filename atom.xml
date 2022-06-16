@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-16T16:56:47.204Z</updated>
+    <updated>2022-06-16T17:15:02.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Dataherald (YC W21) 像WSJ一样创建你自己的汽油价格数据Viz
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31768288</id>
+        <link href="https://news.ycombinator.com/item?id=31768288"/>
+        <updated>2022-06-16T16:53:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dataherald (YC W21) Create Your Own Gas Price Data Viz Like the WSJ]]></summary>
+        <author>
+            <name>adelelow</name>
+            <uri>https://news.ycombinator.com/user?id=adelelow</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TabBrew - 自动对你的Chrome标签进行分类
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31768215</id>
+        <link href="https://news.ycombinator.com/item?id=31768215"/>
+        <updated>2022-06-16T16:48:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: TabBrew – Automate categorize your Chrome tabs]]></summary>
+        <author>
+            <name>colevels</name>
+            <uri>https://news.ycombinator.com/user?id=colevels</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recut能自动去除视频中的静音。它是用Tauri
 ]]></title>
@@ -6967,28 +6991,6 @@
         <author>
             <name>memorable</name>
             <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Higgs AI - 成为你自己的ML工程师。即时，无代码]]></title>
-        <id>https://news.ycombinator.com/item?id=31096163</id>
-        <link href="https://news.ycombinator.com/item?id=31096163"/>
-        <updated>2022-04-20T12:55:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Higgs AI – Become your own ML engineer. Instantly, no-code]]></summary>
-        <author>
-            <name>mateiandrei</name>
-            <uri>https://news.ycombinator.com/user?id=mateiandrei</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我为智能合约建立了一个通知器]]></title>
-        <id>https://news.ycombinator.com/item?id=31096080</id>
-        <link href="https://news.ycombinator.com/item?id=31096080"/>
-        <updated>2022-04-20T12:48:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a notifier for Smart Contracts]]></summary>
-        <author>
-            <name>mishaenterprise</name>
-            <uri>https://news.ycombinator.com/user?id=mishaenterprise</uri>
         </author>
     </entry>
 </feed>
