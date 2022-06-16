@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-16T10:01:53.769Z</updated>
+    <updated>2022-06-16T10:51:16.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HN Avatars的Chrome擴展
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31764290</id>
+        <link href="https://news.ycombinator.com/item?id=31764290"/>
+        <updated>2022-06-16T10:12:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Chrome Extension for HN Avatars]]></summary>
+        <author>
+            <name>zicxor</name>
+            <uri>https://news.ycombinator.com/user?id=zicxor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ONDC（數字商業開放網絡）的NPM圖書館
 ]]></title>
@@ -6964,17 +6976,6 @@
         <author>
             <name>zelon88</name>
             <uri>https://news.ycombinator.com/user?id=zelon88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在C語言預處理程序中帶有用戶可定義條款的循環宏，用於Awk]]></title>
-        <id>https://news.ycombinator.com/item?id=31092597</id>
-        <link href="https://news.ycombinator.com/item?id=31092597"/>
-        <updated>2022-04-20T03:48:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Loop macro with user-definable clauses in C preprocessor, for Awk]]></summary>
-        <author>
-            <name>kazinator</name>
-            <uri>https://news.ycombinator.com/user?id=kazinator</uri>
         </author>
     </entry>
 </feed>

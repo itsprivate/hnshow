@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 16 Jun 2022 10:01:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 10:51:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HN Avatars的Chrome擴展
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31764290</link>
+            <guid>https://news.ycombinator.com/item?id=31764290</guid>
+            <pubDate>Thu, 16 Jun 2022 10:12:26 GMT</pubDate>
+            <description><![CDATA[Show HN: Chrome Extension for HN Avatars]]></description>
+        </item>
         <item>
             <title><![CDATA[ONDC（數字商業開放網絡）的NPM圖書館
 ]]></title>
@@ -4568,13 +4576,6 @@
             <guid>https://news.ycombinator.com/item?id=31092848</guid>
             <pubDate>Wed, 20 Apr 2022 04:33:07 GMT</pubDate>
             <description><![CDATA[Show HN: Ransomware protection in 222 lines of VBScript]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在C語言預處理程序中帶有用戶可定義條款的循環宏，用於Awk]]></title>
-            <link>https://news.ycombinator.com/item?id=31092597</link>
-            <guid>https://news.ycombinator.com/item?id=31092597</guid>
-            <pubDate>Wed, 20 Apr 2022 03:48:15 GMT</pubDate>
-            <description><![CDATA[Show HN: Loop macro with user-definable clauses in C preprocessor, for Awk]]></description>
         </item>
     </channel>
 </rss>
