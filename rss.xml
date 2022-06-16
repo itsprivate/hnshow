@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 16 Jun 2022 10:51:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 11:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Merge Freeze v2.0 - 轻松屏蔽GitHub PR上的分支
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31764606</link>
+            <guid>https://news.ycombinator.com/item?id=31764606</guid>
+            <pubDate>Thu, 16 Jun 2022 11:02:03 GMT</pubDate>
+            <description><![CDATA[Show HN: Merge Freeze v2.0 – easily block branches on GitHub PRs]]></description>
+        </item>
         <item>
             <title><![CDATA[HN Avatars的Chrome扩展
 ]]></title>
@@ -4569,13 +4577,6 @@
             <guid>https://news.ycombinator.com/item?id=31093208</guid>
             <pubDate>Wed, 20 Apr 2022 05:33:37 GMT</pubDate>
             <description><![CDATA[Show HN: Simulated Generalized Therapy Bot]]></description>
-        </item>
-        <item>
-            <title><![CDATA[222行VBScript中的勒索软件保护]]></title>
-            <link>https://news.ycombinator.com/item?id=31092848</link>
-            <guid>https://news.ycombinator.com/item?id=31092848</guid>
-            <pubDate>Wed, 20 Apr 2022 04:33:07 GMT</pubDate>
-            <description><![CDATA[Show HN: Ransomware protection in 222 lines of VBScript]]></description>
         </item>
     </channel>
 </rss>
