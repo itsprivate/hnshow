@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-16T21:27:13.520Z</updated>
+    <updated>2022-06-16T21:58:30.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Jsonl Golang庫讀取和寫入JSON線文本格式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31771403</id>
+        <link href="https://news.ycombinator.com/item?id=31771403"/>
+        <updated>2022-06-16T21:48:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Jsonl Golang library to read and write JSON Lines text format]]></summary>
+        <author>
+            <name>l1am0</name>
+            <uri>https://news.ycombinator.com/user?id=l1am0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幸運的是--瞭解財務決策的權衡因素
 ]]></title>
@@ -6984,17 +6996,6 @@
         <author>
             <name>electric_muse</name>
             <uri>https://news.ycombinator.com/user?id=electric_muse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個關於產品持續時間和破損部位的網站]]></title>
-        <id>https://news.ycombinator.com/item?id=31097590</id>
-        <link href="https://news.ycombinator.com/item?id=31097590"/>
-        <updated>2022-04-20T14:36:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A website about how long products last and where they break]]></summary>
-        <author>
-            <name>hubraumhugo</name>
-            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
         </author>
     </entry>
 </feed>
