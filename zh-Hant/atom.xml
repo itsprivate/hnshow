@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-17T17:08:35.102Z</updated>
+    <updated>2022-06-17T17:40:00.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[文件修改的Slackbot
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31781161</id>
+        <link href="https://news.ycombinator.com/item?id=31781161"/>
+        <updated>2022-06-17T17:06:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Slackbot for Documentation Changes]]></summary>
+        <author>
+            <name>hahnbee</name>
+            <uri>https://news.ycombinator.com/user?id=hahnbee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[將Cloudformation模板轉換為Terraform模板
 ]]></title>
@@ -7003,17 +7015,6 @@
         <author>
             <name>lifeencoder</name>
             <uri>https://news.ycombinator.com/user?id=lifeencoder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Logfmter]]></title>
-        <id>https://news.ycombinator.com/item?id=31105429</id>
-        <link href="https://news.ycombinator.com/item?id=31105429"/>
-        <updated>2022-04-21T02:24:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Python Logfmter]]></summary>
-        <author>
-            <name>jteppinette</name>
-            <uri>https://news.ycombinator.com/user?id=jteppinette</uri>
         </author>
     </entry>
 </feed>

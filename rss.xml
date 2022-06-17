@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 17 Jun 2022 17:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 17:39:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[文件修改的Slackbot
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31781161</link>
+            <guid>https://news.ycombinator.com/item?id=31781161</guid>
+            <pubDate>Fri, 17 Jun 2022 17:06:20 GMT</pubDate>
+            <description><![CDATA[Show HN: Slackbot for Documentation Changes]]></description>
+        </item>
         <item>
             <title><![CDATA[将Cloudformation模板转换为Terraform模板
 ]]></title>
@@ -4607,13 +4615,6 @@
             <guid>https://news.ycombinator.com/item?id=31105797</guid>
             <pubDate>Thu, 21 Apr 2022 03:33:52 GMT</pubDate>
             <description><![CDATA[Show HN: Mini Book of Productivity Tips]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Python Logfmter]]></title>
-            <link>https://news.ycombinator.com/item?id=31105429</link>
-            <guid>https://news.ycombinator.com/item?id=31105429</guid>
-            <pubDate>Thu, 21 Apr 2022 02:24:03 GMT</pubDate>
-            <description><![CDATA[Show HN: Python Logfmter]]></description>
         </item>
     </channel>
 </rss>
