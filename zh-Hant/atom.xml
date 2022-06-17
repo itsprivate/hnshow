@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-17T15:31:24.046Z</updated>
+    <updated>2022-06-17T15:51:25.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[編碼即文本重寫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31779873</id>
+        <link href="https://news.ycombinator.com/item?id=31779873"/>
+        <updated>2022-06-17T15:42:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Coding as Text Rewriting]]></summary>
+        <author>
+            <name>martyalain</name>
+            <uri>https://news.ycombinator.com/user?id=martyalain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FireJet - 從Figma導出到Tailwind CSS - Hacker News
 ]]></title>
@@ -6997,17 +7009,6 @@
         <author>
             <name>nihit-desai</name>
             <uri>https://news.ycombinator.com/user?id=nihit-desai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[組織你的SQL片段]]></title>
-        <id>https://news.ycombinator.com/item?id=31102943</id>
-        <link href="https://news.ycombinator.com/item?id=31102943"/>
-        <updated>2022-04-20T21:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Organise Your SQL Snippets]]></summary>
-        <author>
-            <name>yekalb</name>
-            <uri>https://news.ycombinator.com/user?id=yekalb</uri>
         </author>
     </entry>
 </feed>
