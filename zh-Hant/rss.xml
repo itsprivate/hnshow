@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 17 Jun 2022 09:00:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 11:44:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Tickler - 在後臺對作業進行排隊和處理。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31776724</link>
+            <guid>https://news.ycombinator.com/item?id=31776724</guid>
+            <pubDate>Fri, 17 Jun 2022 11:40:54 GMT</pubDate>
+            <description><![CDATA[Show HN: Tickler – Enqueue and process the jobs in the background]]></description>
+        </item>
         <item>
             <title><![CDATA[從Notion數據庫中創建一個Changelog網站
 ]]></title>
@@ -4593,13 +4601,6 @@
             <guid>https://news.ycombinator.com/item?id=31099366</guid>
             <pubDate>Wed, 20 Apr 2022 16:26:54 GMT</pubDate>
             <description><![CDATA[Show HN: I created a collection of insanely useful websites from around the web]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在線驗證AWS CloudFormation模板的安全問題]]></title>
-            <link>https://news.ycombinator.com/item?id=31098868</link>
-            <guid>https://news.ycombinator.com/item?id=31098868</guid>
-            <pubDate>Wed, 20 Apr 2022 15:59:34 GMT</pubDate>
-            <description><![CDATA[Show HN: Validate AWS CloudFormation Templates Online for Security Issues]]></description>
         </item>
     </channel>
 </rss>

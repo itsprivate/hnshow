@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-17T09:00:20.550Z</updated>
+    <updated>2022-06-17T11:44:18.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Tickler - 在后台对作业进行排队和处理。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31776724</id>
+        <link href="https://news.ycombinator.com/item?id=31776724"/>
+        <updated>2022-06-17T11:40:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tickler – Enqueue and process the jobs in the background]]></summary>
+        <author>
+            <name>goodjobtech</name>
+            <uri>https://news.ycombinator.com/user?id=goodjobtech</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从Notion数据库中创建一个Changelog网站
 ]]></title>
@@ -6989,17 +7001,6 @@
         <author>
             <name>jayra</name>
             <uri>https://news.ycombinator.com/user?id=jayra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在线验证AWS CloudFormation模板的安全问题]]></title>
-        <id>https://news.ycombinator.com/item?id=31098868</id>
-        <link href="https://news.ycombinator.com/item?id=31098868"/>
-        <updated>2022-04-20T15:59:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Validate AWS CloudFormation Templates Online for Security Issues]]></summary>
-        <author>
-            <name>akittana</name>
-            <uri>https://news.ycombinator.com/user?id=akittana</uri>
         </author>
     </entry>
 </feed>
