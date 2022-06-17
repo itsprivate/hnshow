@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-17T13:55:53.082Z</updated>
+    <updated>2022-06-17T14:49:29.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Localfirst，自我託管的書籤工具。全文搜索、註釋、RSS
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31778715</id>
+        <link href="https://news.ycombinator.com/item?id=31778715"/>
+        <updated>2022-06-17T14:26:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Localfirst, selfhosted bookmark tool. Full text search, annotations, RSS]]></summary>
+        <author>
+            <name>hamsterbase</name>
+            <uri>https://news.ycombinator.com/user?id=hamsterbase</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我為投資者建立了一個版本的谷歌趨勢
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31778078</id>
+        <link href="https://news.ycombinator.com/item?id=31778078"/>
+        <updated>2022-06-17T13:47:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a version of Google Trends for investors]]></summary>
+        <author>
+            <name>ckardat123</name>
+            <uri>https://news.ycombinator.com/user?id=ckardat123</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[快速測試應用程序的顏色，無需設計或編碼
 ]]></title>
@@ -6983,28 +7007,6 @@
         <author>
             <name>amitoz_azad</name>
             <uri>https://news.ycombinator.com/user?id=amitoz_azad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從圖像中解出蘇打水的安卓應用]]></title>
-        <id>https://news.ycombinator.com/item?id=31102018</id>
-        <link href="https://news.ycombinator.com/item?id=31102018"/>
-        <updated>2022-04-20T19:49:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Android app for solving sudokus from images]]></summary>
-        <author>
-            <name>hypertensiune</name>
-            <uri>https://news.ycombinator.com/user?id=hypertensiune</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snap公司為眼鏡設計的AR視界]]></title>
-        <id>https://news.ycombinator.com/item?id=31101793</id>
-        <link href="https://news.ycombinator.com/item?id=31101793"/>
-        <updated>2022-04-20T19:34:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Snap’s AR Vision for Spectacles]]></summary>
-        <author>
-            <name>upwardbound</name>
-            <uri>https://news.ycombinator.com/user?id=upwardbound</uri>
         </author>
     </entry>
 </feed>
