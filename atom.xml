@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-17T17:39:59.967Z</updated>
+    <updated>2022-06-17T19:25:46.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[让我们建立一个端对端加密的数据存储
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31782971</id>
+        <link href="https://news.ycombinator.com/item?id=31782971"/>
+        <updated>2022-06-17T19:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Let's build an end-to-end encrypted data store]]></summary>
+        <author>
+            <name>cmdli</name>
+            <uri>https://news.ycombinator.com/user?id=cmdli</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[文件修改的Slackbot
 ]]></title>
@@ -7004,17 +7016,6 @@
         <author>
             <name>zelon88</name>
             <uri>https://news.ycombinator.com/user?id=zelon88</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生产力技巧迷你书]]></title>
-        <id>https://news.ycombinator.com/item?id=31105797</id>
-        <link href="https://news.ycombinator.com/item?id=31105797"/>
-        <updated>2022-04-21T03:33:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mini Book of Productivity Tips]]></summary>
-        <author>
-            <name>lifeencoder</name>
-            <uri>https://news.ycombinator.com/user?id=lifeencoder</uri>
         </author>
     </entry>
 </feed>
