@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-17T22:29:49.688Z</updated>
+    <updated>2022-06-17T22:48:44.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个具有现实经济模型的中央银行模拟游戏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31785199</id>
+        <link href="https://news.ycombinator.com/item?id=31785199"/>
+        <updated>2022-06-17T22:24:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A central bank simulator game with a realistic economic model]]></summary>
+        <author>
+            <name>BenoitEssiambre</name>
+            <uri>https://news.ycombinator.com/user?id=BenoitEssiambre</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[hTorrent - 一个用Go写的HTTP到BitTorrent的网关，可以寻求。
 ]]></title>
@@ -7007,17 +7019,6 @@
         <author>
             <name>squarechris</name>
             <uri>https://news.ycombinator.com/user?id=squarechris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scanwatch - 用于Node的快速而简单的文件观察程序]]></title>
-        <id>https://news.ycombinator.com/item?id=31106968</id>
-        <link href="https://news.ycombinator.com/item?id=31106968"/>
-        <updated>2022-04-21T07:53:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Scanwatch – Fast and simple file watcher for Node]]></summary>
-        <author>
-            <name>d08ble</name>
-            <uri>https://news.ycombinator.com/user?id=d08ble</uri>
         </author>
     </entry>
 </feed>
