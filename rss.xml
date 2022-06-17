@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 17 Jun 2022 19:56:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 22:29:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[hTorrent - 一个用Go写的HTTP到BitTorrent的网关，可以寻求。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31784983</link>
+            <guid>https://news.ycombinator.com/item?id=31784983</guid>
+            <pubDate>Fri, 17 Jun 2022 22:02:26 GMT</pubDate>
+            <description><![CDATA[Show HN: hTorrent – A HTTP to BitTorrent gateway with seeking written in Go]]></description>
+        </item>
         <item>
             <title><![CDATA[Vulner - 发现由portage安装的软件包的CVEs。
 ]]></title>
@@ -4610,13 +4618,6 @@
             <guid>https://news.ycombinator.com/item?id=31106968</guid>
             <pubDate>Thu, 21 Apr 2022 07:53:40 GMT</pubDate>
             <description><![CDATA[Show HN: Scanwatch – Fast and simple file watcher for Node]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个网络应用，可以让你自动处理Slack的状态]]></title>
-            <link>https://news.ycombinator.com/item?id=31106347</link>
-            <guid>https://news.ycombinator.com/item?id=31106347</guid>
-            <pubDate>Thu, 21 Apr 2022 05:46:29 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a web app that lets you automate Slack statuses]]></description>
         </item>
     </channel>
 </rss>

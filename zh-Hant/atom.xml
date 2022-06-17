@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-17T19:56:58.458Z</updated>
+    <updated>2022-06-17T22:29:49.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[hTorrent - 一個用Go寫的HTTP到BitTorrent的網關，可以尋求。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31784983</id>
+        <link href="https://news.ycombinator.com/item?id=31784983"/>
+        <updated>2022-06-17T22:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: hTorrent – A HTTP to BitTorrent gateway with seeking written in Go]]></summary>
+        <author>
+            <name>pojntfx</name>
+            <uri>https://news.ycombinator.com/user?id=pojntfx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vulner - 發現由portage安裝的軟件包的CVEs。
 ]]></title>
@@ -7006,17 +7018,6 @@
         <author>
             <name>d08ble</name>
             <uri>https://news.ycombinator.com/user?id=d08ble</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個網絡應用，可以讓你自動處理Slack的狀態]]></title>
-        <id>https://news.ycombinator.com/item?id=31106347</id>
-        <link href="https://news.ycombinator.com/item?id=31106347"/>
-        <updated>2022-04-21T05:46:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a web app that lets you automate Slack statuses]]></summary>
-        <author>
-            <name>jamzi</name>
-            <uri>https://news.ycombinator.com/user?id=jamzi</uri>
         </author>
     </entry>
 </feed>
