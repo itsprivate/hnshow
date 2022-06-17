@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 17 Jun 2022 16:53:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 17:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[将Cloudformation模板转换为Terraform模板
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31781014</link>
+            <guid>https://news.ycombinator.com/item?id=31781014</guid>
+            <pubDate>Fri, 17 Jun 2022 16:54:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Convert Cloudformation Templates to Terraform]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Mailauth，分析DKIM、DMARC、SPF、ARC、BIMI签名的CLI工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31780998</link>
+            <guid>https://news.ycombinator.com/item?id=31780998</guid>
+            <pubDate>Fri, 17 Jun 2022 16:53:52 GMT</pubDate>
+            <description><![CDATA[Show HN: Mailauth, CLI utility to analyze DKIM, DMARC, SPF, ARC, BIMI signatures]]></description>
+        </item>
+        <item>
+            <title><![CDATA[统一IO，AI2的一个新的通用模型
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31780981</link>
+            <guid>https://news.ycombinator.com/item?id=31780981</guid>
+            <pubDate>Fri, 17 Jun 2022 16:52:25 GMT</pubDate>
+            <description><![CDATA[Show HN: Unified-IO, a new general purpose model from AI2]]></description>
+        </item>
         <item>
             <title><![CDATA[MockCI--云端托管的DynamoDB模拟在一次API调用中可用
 ]]></title>
@@ -4590,27 +4614,6 @@
             <guid>https://news.ycombinator.com/item?id=31105429</guid>
             <pubDate>Thu, 21 Apr 2022 02:24:03 GMT</pubDate>
             <description><![CDATA[Show HN: Python Logfmter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TravelUSA。即时的旅行费用，简单的方法。]]></title>
-            <link>https://news.ycombinator.com/item?id=31105232</link>
-            <guid>https://news.ycombinator.com/item?id=31105232</guid>
-            <pubDate>Thu, 21 Apr 2022 01:48:45 GMT</pubDate>
-            <description><![CDATA[Show HN: TravelUSA. Instant travel costs, the easy way.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[转换一个值的React钩子]]></title>
-            <link>https://news.ycombinator.com/item?id=31104135</link>
-            <guid>https://news.ycombinator.com/item?id=31104135</guid>
-            <pubDate>Wed, 20 Apr 2022 22:57:59 GMT</pubDate>
-            <description><![CDATA[Show HN: React hook to transition a value]]></description>
-        </item>
-        <item>
-            <title><![CDATA[像R/PLACE的画布]]></title>
-            <link>https://news.ycombinator.com/item?id=31103934</link>
-            <guid>https://news.ycombinator.com/item?id=31103934</guid>
-            <pubDate>Wed, 20 Apr 2022 22:32:03 GMT</pubDate>
-            <description><![CDATA[Show HN: Canvas Like R/PLace]]></description>
         </item>
     </channel>
 </rss>
