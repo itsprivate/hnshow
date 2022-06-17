@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 17 Jun 2022 19:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 19:56:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Vulner - 发现由portage安装的软件包的CVEs。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31783375</link>
+            <guid>https://news.ycombinator.com/item?id=31783375</guid>
+            <pubDate>Fri, 17 Jun 2022 19:50:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Vulner – discover CVEs for packages installed by the portage]]></description>
+        </item>
         <item>
             <title><![CDATA[让我们建立一个端对端加密的数据存储
 ]]></title>
@@ -4609,13 +4617,6 @@
             <guid>https://news.ycombinator.com/item?id=31106347</guid>
             <pubDate>Thu, 21 Apr 2022 05:46:29 GMT</pubDate>
             <description><![CDATA[Show HN: I made a web app that lets you automate Slack statuses]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ScanCore，一个用PHP编写的高性能CLI病毒扫描器]]></title>
-            <link>https://news.ycombinator.com/item?id=31106062</link>
-            <guid>https://news.ycombinator.com/item?id=31106062</guid>
-            <pubDate>Thu, 21 Apr 2022 04:32:54 GMT</pubDate>
-            <description><![CDATA[Show HN: ScanCore, a High Performance CLI Virus Scanner Written in PHP]]></description>
         </item>
     </channel>
 </rss>
