@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-17T14:49:29.785Z</updated>
+    <updated>2022-06-17T15:31:23.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FireJet - 从Figma导出到Tailwind CSS - Hacker News
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31779160</id>
+        <link href="https://news.ycombinator.com/item?id=31779160"/>
+        <updated>2022-06-17T14:58:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: FireJet – Export from Figma to Tailwind CSS – Hacker News]]></summary>
+        <author>
+            <name>PhilipWee</name>
+            <uri>https://news.ycombinator.com/user?id=PhilipWee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Localfirst，自我托管的书签工具。全文搜索、注释、RSS
 ]]></title>
@@ -6996,17 +7008,6 @@
         <author>
             <name>yekalb</name>
             <uri>https://news.ycombinator.com/user?id=yekalb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyInpaint，一个用Python编写的轻量级图像涂色工具]]></title>
-        <id>https://news.ycombinator.com/item?id=31102418</id>
-        <link href="https://news.ycombinator.com/item?id=31102418"/>
-        <updated>2022-04-20T20:19:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PyInpaint, a lightweight image inpainting tool written in Python]]></summary>
-        <author>
-            <name>amitoz_azad</name>
-            <uri>https://news.ycombinator.com/user?id=amitoz_azad</uri>
         </author>
     </entry>
 </feed>
