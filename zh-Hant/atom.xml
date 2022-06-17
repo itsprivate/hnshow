@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-17T15:51:25.687Z</updated>
+    <updated>2022-06-17T16:53:00.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MockCI--雲端託管的DynamoDB模擬在一次API調用中可用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31780504</id>
+        <link href="https://news.ycombinator.com/item?id=31780504"/>
+        <updated>2022-06-17T16:22:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MockCI – Cloud hosted DynamoDB mocks available in one API call]]></summary>
+        <author>
+            <name>pondero</name>
+            <uri>https://news.ycombinator.com/user?id=pondero</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[根源即服務--不再翻閱日誌
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31780076</id>
+        <link href="https://news.ycombinator.com/item?id=31780076"/>
+        <updated>2022-06-17T15:55:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Root Cause as a Service – Never dig through logs again]]></summary>
+        <author>
+            <name>stochastimus</name>
+            <uri>https://news.ycombinator.com/user?id=stochastimus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[編碼即文本重寫
 ]]></title>
@@ -6987,28 +7011,6 @@
         <author>
             <name>hackermanve</name>
             <uri>https://news.ycombinator.com/user?id=hackermanve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美祿。社區擁有的自我託管的dApp商店]]></title>
-        <id>https://news.ycombinator.com/item?id=31103075</id>
-        <link href="https://news.ycombinator.com/item?id=31103075"/>
-        <updated>2022-04-20T21:12:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Meroku: Community owned self-hosted dApp store]]></summary>
-        <author>
-            <name>bitpack</name>
-            <uri>https://news.ycombinator.com/user?id=bitpack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於真實世界ML系統的新課程]]></title>
-        <id>https://news.ycombinator.com/item?id=31102996</id>
-        <link href="https://news.ycombinator.com/item?id=31102996"/>
-        <updated>2022-04-20T21:05:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: New course on real-world ML systems]]></summary>
-        <author>
-            <name>nihit-desai</name>
-            <uri>https://news.ycombinator.com/user?id=nihit-desai</uri>
         </author>
     </entry>
 </feed>

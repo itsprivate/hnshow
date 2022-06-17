@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 17 Jun 2022 15:51:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 16:53:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[MockCI--云端托管的DynamoDB模拟在一次API调用中可用
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31780504</link>
+            <guid>https://news.ycombinator.com/item?id=31780504</guid>
+            <pubDate>Fri, 17 Jun 2022 16:22:21 GMT</pubDate>
+            <description><![CDATA[Show HN: MockCI – Cloud hosted DynamoDB mocks available in one API call]]></description>
+        </item>
+        <item>
+            <title><![CDATA[根源即服务--不再翻阅日志
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31780076</link>
+            <guid>https://news.ycombinator.com/item?id=31780076</guid>
+            <pubDate>Fri, 17 Jun 2022 15:55:21 GMT</pubDate>
+            <description><![CDATA[Show HN: Root Cause as a Service – Never dig through logs again]]></description>
+        </item>
         <item>
             <title><![CDATA[编码即文本重写
 ]]></title>
@@ -4595,20 +4611,6 @@
             <guid>https://news.ycombinator.com/item?id=31103934</guid>
             <pubDate>Wed, 20 Apr 2022 22:32:03 GMT</pubDate>
             <description><![CDATA[Show HN: Canvas Like R/PLace]]></description>
-        </item>
-        <item>
-            <title><![CDATA[美禄。社区拥有的自我托管的dApp商店]]></title>
-            <link>https://news.ycombinator.com/item?id=31103075</link>
-            <guid>https://news.ycombinator.com/item?id=31103075</guid>
-            <pubDate>Wed, 20 Apr 2022 21:12:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Meroku: Community owned self-hosted dApp store]]></description>
-        </item>
-        <item>
-            <title><![CDATA[关于真实世界ML系统的新课程]]></title>
-            <link>https://news.ycombinator.com/item?id=31102996</link>
-            <guid>https://news.ycombinator.com/item?id=31102996</guid>
-            <pubDate>Wed, 20 Apr 2022 21:05:44 GMT</pubDate>
-            <description><![CDATA[Show HN: New course on real-world ML systems]]></description>
         </item>
     </channel>
 </rss>
