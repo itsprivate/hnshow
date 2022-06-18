@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 18 Jun 2022 15:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 15:48:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在未簽出的分支上創建快照提交的 Git 命令
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31790824</link>
+            <guid>https://news.ycombinator.com/item?id=31790824</guid>
+            <pubDate>Sat, 18 Jun 2022 15:37:57 GMT</pubDate>
+            <description><![CDATA[Show HN: Git command for creating snapshot commits on a not checked-out branch]]></description>
+        </item>
         <item>
             <title><![CDATA[顯示黑客新聞引用評論的讀者模式
 ]]></title>
@@ -4623,13 +4631,6 @@
             <guid>https://news.ycombinator.com/item?id=31108741</guid>
             <pubDate>Thu, 21 Apr 2022 12:54:46 GMT</pubDate>
             <description><![CDATA[Show HN: I built a service to detect invalid and malicious email addresses]]></description>
-        </item>
-        <item>
-            <title><![CDATA[免費感恩之夜挑戰賽，所有大學中第3個最好的夜晚]]></title>
-            <link>https://news.ycombinator.com/item?id=31108709</link>
-            <guid>https://news.ycombinator.com/item?id=31108709</guid>
-            <pubDate>Thu, 21 Apr 2022 12:51:43 GMT</pubDate>
-            <description><![CDATA[Show HN: Free Gratitude Night Challenge, the 3th best night of all of college]]></description>
         </item>
     </channel>
 </rss>
