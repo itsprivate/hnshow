@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-18T15:48:29.423Z</updated>
+    <updated>2022-06-18T17:46:04.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DLock - 在Cloudflare耐用对象上的分布式锁即服务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31791965</id>
+        <link href="https://news.ycombinator.com/item?id=31791965"/>
+        <updated>2022-06-18T17:34:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: DLock – Distributed-Lock-as-a-Service on Cloudflare Durable Objects]]></summary>
+        <author>
+            <name>losfair</name>
+            <uri>https://news.ycombinator.com/user?id=losfair</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在未签出的分支上创建快照提交的 Git 命令
 ]]></title>
@@ -7020,17 +7032,6 @@
         <author>
             <name>zenull</name>
             <uri>https://news.ycombinator.com/user?id=zenull</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一个服务来检测无效的和恶意的电子邮件地址]]></title>
-        <id>https://news.ycombinator.com/item?id=31108741</id>
-        <link href="https://news.ycombinator.com/item?id=31108741"/>
-        <updated>2022-04-21T12:54:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a service to detect invalid and malicious email addresses]]></summary>
-        <author>
-            <name>mricog</name>
-            <uri>https://news.ycombinator.com/user?id=mricog</uri>
         </author>
     </entry>
 </feed>
