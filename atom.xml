@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-18T17:58:12.670Z</updated>
+    <updated>2022-06-18T19:23:21.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[根据你的扩展功能，检查你的可追踪性如何
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31792764</id>
+        <link href="https://news.ycombinator.com/item?id=31792764"/>
+        <updated>2022-06-18T19:06:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Check how trackable you are based on your extensions]]></summary>
+        <author>
+            <name>z0ccc</name>
+            <uri>https://news.ycombinator.com/user?id=z0ccc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Ffmpeg去除视频中的静音
 ]]></title>
@@ -7022,17 +7034,6 @@
         <author>
             <name>bepero</name>
             <uri>https://news.ycombinator.com/user?id=bepero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beeline。一个以科学为背景的学习途径创建应用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=31109163</id>
-        <link href="https://news.ycombinator.com/item?id=31109163"/>
-        <updated>2022-04-21T13:33:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Beeline: A science backed learning pathway creation app]]></summary>
-        <author>
-            <name>Jiimmmbo</name>
-            <uri>https://news.ycombinator.com/user?id=Jiimmmbo</uri>
         </author>
     </entry>
 </feed>
