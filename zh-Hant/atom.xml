@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-18T13:16:01.169Z</updated>
+    <updated>2022-06-18T14:47:50.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Typosaur，現代網絡的交互式拼寫檢查器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31790123</id>
+        <link href="https://news.ycombinator.com/item?id=31790123"/>
+        <updated>2022-06-18T14:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Typosaur, the interactive spell-checker for modern web]]></summary>
+        <author>
+            <name>ushakov</name>
+            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nimwave - 為終端、網絡和桌面建立TUIs
 ]]></title>
@@ -7017,17 +7029,6 @@
         <author>
             <name>jakubroz</name>
             <uri>https://news.ycombinator.com/user?id=jakubroz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Twitter上建立/R/Place]]></title>
-        <id>https://news.ycombinator.com/item?id=31108365</id>
-        <link href="https://news.ycombinator.com/item?id=31108365"/>
-        <updated>2022-04-21T12:05:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Built /R/Place on Twitter]]></summary>
-        <author>
-            <name>dixitbavu</name>
-            <uri>https://news.ycombinator.com/user?id=dixitbavu</uri>
         </author>
     </entry>
 </feed>
