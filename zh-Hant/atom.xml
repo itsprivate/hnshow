@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-18T02:24:37.839Z</updated>
+    <updated>2022-06-18T04:12:19.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vim中的多維電子表格
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31787182</id>
+        <link href="https://news.ycombinator.com/item?id=31787182"/>
+        <updated>2022-06-18T04:06:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Multi-Dimensional Spreadsheets in Vim]]></summary>
+        <author>
+            <name>tbt</name>
+            <uri>https://news.ycombinator.com/user?id=tbt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unsubscan - 免費和離線的郵件列表退訂工具
 ]]></title>
@@ -7010,17 +7022,6 @@
         <author>
             <name>Intragalactic</name>
             <uri>https://news.ycombinator.com/user?id=Intragalactic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以0.2美元贏得高級域名]]></title>
-        <id>https://news.ycombinator.com/item?id=31107484</id>
-        <link href="https://news.ycombinator.com/item?id=31107484"/>
-        <updated>2022-04-21T09:37:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Win premium domain names for $0.20]]></summary>
-        <author>
-            <name>jagadeep</name>
-            <uri>https://news.ycombinator.com/user?id=jagadeep</uri>
         </author>
     </entry>
 </feed>
