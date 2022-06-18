@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 18 Jun 2022 17:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 17:58:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Ffmpeg去除视频中的静音
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31792108</link>
+            <guid>https://news.ycombinator.com/item?id=31792108</guid>
+            <pubDate>Sat, 18 Jun 2022 17:51:11 GMT</pubDate>
+            <description><![CDATA[Show HN: Remove Silence from Videos with Ffmpeg]]></description>
+        </item>
         <item>
             <title><![CDATA[DLock - 在Cloudflare耐用对象上的分布式锁即服务
 ]]></title>
@@ -4625,13 +4633,6 @@
             <guid>https://news.ycombinator.com/item?id=31109163</guid>
             <pubDate>Thu, 21 Apr 2022 13:33:35 GMT</pubDate>
             <description><![CDATA[Show HN: Beeline: A science backed learning pathway creation app]]></description>
-        </item>
-        <item>
-            <title><![CDATA[世界时间 - 世界不同地区的时间是多少]]></title>
-            <link>https://news.ycombinator.com/item?id=31108845</link>
-            <guid>https://news.ycombinator.com/item?id=31108845</guid>
-            <pubDate>Thu, 21 Apr 2022 13:06:28 GMT</pubDate>
-            <description><![CDATA[Show HN: World Time – what time is in different regions of the world]]></description>
         </item>
     </channel>
 </rss>
