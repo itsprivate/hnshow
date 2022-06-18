@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 18 Jun 2022 06:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 08:50:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Lisp的根源 "解释器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31788130</link>
+            <guid>https://news.ycombinator.com/item?id=31788130</guid>
+            <pubDate>Sat, 18 Jun 2022 08:19:05 GMT</pubDate>
+            <description><![CDATA[Show HN: The Roots of Lisp” Interpreter]]></description>
+        </item>
         <item>
             <title><![CDATA[寻路者
 ]]></title>
@@ -4616,13 +4624,6 @@
             <guid>https://news.ycombinator.com/item?id=31107932</guid>
             <pubDate>Thu, 21 Apr 2022 11:03:30 GMT</pubDate>
             <description><![CDATA[Show HN: Build8 Key-Value service is a simple key-value database]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用书签来组织你的在线研究]]></title>
-            <link>https://news.ycombinator.com/item?id=31107855</link>
-            <guid>https://news.ycombinator.com/item?id=31107855</guid>
-            <pubDate>Thu, 21 Apr 2022 10:49:44 GMT</pubDate>
-            <description><![CDATA[Show HN: Structure your online research with a bookmark]]></description>
         </item>
     </channel>
 </rss>
