@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-18T22:26:56.518Z</updated>
+    <updated>2022-06-18T22:57:54.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Python控制你的現代汽車
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31794481</id>
+        <link href="https://news.ycombinator.com/item?id=31794481"/>
+        <updated>2022-06-18T22:45:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Control your Hyundai car with Python]]></summary>
+        <author>
+            <name>synchronizing</name>
+            <uri>https://news.ycombinator.com/user?id=synchronizing</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[僅僅是五條新聞 - 每日新聞
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31794464</id>
+        <link href="https://news.ycombinator.com/item?id=31794464"/>
+        <updated>2022-06-18T22:42:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Just Five News · Daily News]]></summary>
+        <author>
+            <name>baransel</name>
+            <uri>https://news.ycombinator.com/user?id=baransel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可以根據安裝的Chrome擴展程序對你進行指紋識別的網站
 ]]></title>
@@ -7015,28 +7039,6 @@
         <author>
             <name>michaelsjoeberg</name>
             <uri>https://news.ycombinator.com/user?id=michaelsjoeberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[約1.2KLOC的靜態博客生成器]]></title>
-        <id>https://news.ycombinator.com/item?id=31111309</id>
-        <link href="https://news.ycombinator.com/item?id=31111309"/>
-        <updated>2022-04-21T16:07:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Static blog generator in about 1.2KLOC]]></summary>
-        <author>
-            <name>jjjbokma</name>
-            <uri>https://news.ycombinator.com/user?id=jjjbokma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了世界上最醒目的鍛鍊計時器/小工具]]></title>
-        <id>https://news.ycombinator.com/item?id=31110195</id>
-        <link href="https://news.ycombinator.com/item?id=31110195"/>
-        <updated>2022-04-21T14:53:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made world's most visible workout timer/gadget]]></summary>
-        <author>
-            <name>1g0rrr</name>
-            <uri>https://news.ycombinator.com/user?id=1g0rrr</uri>
         </author>
     </entry>
 </feed>
