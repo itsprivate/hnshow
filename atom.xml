@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-18T22:57:54.718Z</updated>
+    <updated>2022-06-18T23:25:48.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[将公元前/公元后日期转换为全新世历日期的Chrome扩展程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31794602</id>
+        <link href="https://news.ycombinator.com/item?id=31794602"/>
+        <updated>2022-06-18T23:03:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Chrome extension that converts BC/BCE dates to Holocene Calendar dates]]></summary>
+        <author>
+            <name>kgcoder</name>
+            <uri>https://news.ycombinator.com/user?id=kgcoder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Python控制你的现代汽车
 ]]></title>
@@ -7028,17 +7040,6 @@
         <author>
             <name>gauravphoenix</name>
             <uri>https://news.ycombinator.com/user?id=gauravphoenix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[个人股票市场数据仪表板]]></title>
-        <id>https://news.ycombinator.com/item?id=31111408</id>
-        <link href="https://news.ycombinator.com/item?id=31111408"/>
-        <updated>2022-04-21T16:15:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Personal stock market data dashboard]]></summary>
-        <author>
-            <name>michaelsjoeberg</name>
-            <uri>https://news.ycombinator.com/user?id=michaelsjoeberg</uri>
         </author>
     </entry>
 </feed>
