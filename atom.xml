@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-18T10:46:38.120Z</updated>
+    <updated>2022-06-18T12:44:50.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用正式的方法来编写更好的需求
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31789225</id>
+        <link href="https://news.ycombinator.com/item?id=31789225"/>
+        <updated>2022-06-18T12:28:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Using formal methods to write better requirements]]></summary>
+        <author>
+            <name>fallingmeat</name>
+            <uri>https://news.ycombinator.com/user?id=fallingmeat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chrome扩展程序将YouTube的喜欢/不喜欢比例添加到整个网络上
 ]]></title>
@@ -7014,17 +7026,6 @@
         <author>
             <name>mapsdkhsd</name>
             <uri>https://news.ycombinator.com/user?id=mapsdkhsd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个寻找DAO机会的板块]]></title>
-        <id>https://news.ycombinator.com/item?id=31108142</id>
-        <link href="https://news.ycombinator.com/item?id=31108142"/>
-        <updated>2022-04-21T11:35:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A board to find DAO opportunities]]></summary>
-        <author>
-            <name>jamiegreen</name>
-            <uri>https://news.ycombinator.com/user?id=jamiegreen</uri>
         </author>
     </entry>
 </feed>
