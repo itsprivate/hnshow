@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-19T14:25:25.261Z</updated>
+    <updated>2022-06-19T14:45:01.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[爸爸們再也不用擔心了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31799754</id>
+        <link href="https://news.ycombinator.com/item?id=31799754"/>
+        <updated>2022-06-19T14:33:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Daddies won't have to worry anymore]]></summary>
+        <author>
+            <name>fullmamel</name>
+            <uri>https://news.ycombinator.com/user?id=fullmamel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[閱讀。為大眾簡化研究文章
 ]]></title>
@@ -7039,17 +7051,6 @@
         <author>
             <name>BasiliusCarver</name>
             <uri>https://news.ycombinator.com/user?id=BasiliusCarver</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我為你所有的支付鏈接做了一個應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=31118055</id>
-        <link href="https://news.ycombinator.com/item?id=31118055"/>
-        <updated>2022-04-22T04:01:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made an app for all your payment links]]></summary>
-        <author>
-            <name>tawrahim</name>
-            <uri>https://news.ycombinator.com/user?id=tawrahim</uri>
         </author>
     </entry>
 </feed>
