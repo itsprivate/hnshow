@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-19T12:46:24.475Z</updated>
+    <updated>2022-06-19T13:15:38.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于互动式全景图的自定义HTML元素
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31798874</id>
+        <link href="https://news.ycombinator.com/item?id=31798874"/>
+        <updated>2022-06-19T12:57:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The custom HTML element for interactive panoramas]]></summary>
+        <author>
+            <name>ondras</name>
+            <uri>https://news.ycombinator.com/user?id=ondras</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fourplay.fun - 一个合作的文字游戏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31798800</id>
+        <link href="https://news.ycombinator.com/item?id=31798800"/>
+        <updated>2022-06-19T12:47:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fourplay.fun – A Cooperative Word Game]]></summary>
+        <author>
+            <name>markles</name>
+            <uri>https://news.ycombinator.com/user?id=markles</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rune Reader - 为您的新闻简报提供专门的电子邮件收件箱
 ]]></title>
@@ -7024,28 +7048,6 @@
         <author>
             <name>Unknomad</name>
             <uri>https://news.ycombinator.com/user?id=Unknomad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安全、使用和管理敏感数据--不需要接触它]]></title>
-        <id>https://news.ycombinator.com/item?id=31115040</id>
-        <link href="https://news.ycombinator.com/item?id=31115040"/>
-        <updated>2022-04-21T20:52:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Secure, use, and manage sensitive data–without touching it]]></summary>
-        <author>
-            <name>jslampe</name>
-            <uri>https://news.ycombinator.com/user?id=jslampe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GoROT ROT13在命令行上加密]]></title>
-        <id>https://news.ycombinator.com/item?id=31113968</id>
-        <link href="https://news.ycombinator.com/item?id=31113968"/>
-        <updated>2022-04-21T19:14:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GoROT ROT13 Encryption on the Command Line]]></summary>
-        <author>
-            <name>elsavio</name>
-            <uri>https://news.ycombinator.com/user?id=elsavio</uri>
         </author>
     </entry>
 </feed>
