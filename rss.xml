@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 19 Jun 2022 11:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 12:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Rune Reader - 为您的新闻简报提供专门的电子邮件收件箱
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31798728</link>
+            <guid>https://news.ycombinator.com/item?id=31798728</guid>
+            <pubDate>Sun, 19 Jun 2022 12:36:14 GMT</pubDate>
+            <description><![CDATA[Show HN: Rune Reader – A dedicated email inbox for your newsletters]]></description>
+        </item>
         <item>
             <title><![CDATA[Assert：在Go泛型之上的测试和断言库
 ]]></title>
@@ -4638,13 +4646,6 @@
             <guid>https://news.ycombinator.com/item?id=31113968</guid>
             <pubDate>Thu, 21 Apr 2022 19:14:40 GMT</pubDate>
             <description><![CDATA[Show HN: GoROT ROT13 Encryption on the Command Line]]></description>
-        </item>
-        <item>
-            <title><![CDATA[无代码SQL（面向非技术用户的可视化数据语言）]]></title>
-            <link>https://news.ycombinator.com/item?id=31113928</link>
-            <guid>https://news.ycombinator.com/item?id=31113928</guid>
-            <pubDate>Thu, 21 Apr 2022 19:10:16 GMT</pubDate>
-            <description><![CDATA[Show HN: No-code SQL (visual data language for non-technical users)]]></description>
         </item>
     </channel>
 </rss>

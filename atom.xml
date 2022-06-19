@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-19T11:24:16.594Z</updated>
+    <updated>2022-06-19T12:46:24.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Rune Reader - 为您的新闻简报提供专门的电子邮件收件箱
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31798728</id>
+        <link href="https://news.ycombinator.com/item?id=31798728"/>
+        <updated>2022-06-19T12:36:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Rune Reader – A dedicated email inbox for your newsletters]]></summary>
+        <author>
+            <name>arn4v</name>
+            <uri>https://news.ycombinator.com/user?id=arn4v</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Assert：在Go泛型之上的测试和断言库
 ]]></title>
@@ -7034,17 +7046,6 @@
         <author>
             <name>elsavio</name>
             <uri>https://news.ycombinator.com/user?id=elsavio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无代码SQL（面向非技术用户的可视化数据语言）]]></title>
-        <id>https://news.ycombinator.com/item?id=31113928</id>
-        <link href="https://news.ycombinator.com/item?id=31113928"/>
-        <updated>2022-04-21T19:10:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: No-code SQL (visual data language for non-technical users)]]></summary>
-        <author>
-            <name>george_ciobanu</name>
-            <uri>https://news.ycombinator.com/user?id=george_ciobanu</uri>
         </author>
     </entry>
 </feed>
