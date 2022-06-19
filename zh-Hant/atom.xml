@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-19T13:15:38.617Z</updated>
+    <updated>2022-06-19T13:42:51.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WarcDB：作為SQLite數據庫的網絡抓取數據
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31799147</id>
+        <link href="https://news.ycombinator.com/item?id=31799147"/>
+        <updated>2022-06-19T13:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WarcDB: Web crawl data as SQLite databases]]></summary>
+        <author>
+            <name>fforflo</name>
+            <uri>https://news.ycombinator.com/user?id=fforflo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於互動式全景圖的自定義HTML元素
 ]]></title>
@@ -7037,17 +7049,6 @@
         <author>
             <name>AndyJado</name>
             <uri>https://news.ycombinator.com/user?id=AndyJado</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面向所有人的算法交易]]></title>
-        <id>https://news.ycombinator.com/item?id=31117255</id>
-        <link href="https://news.ycombinator.com/item?id=31117255"/>
-        <updated>2022-04-22T01:31:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Algorithmic trading for everyone]]></summary>
-        <author>
-            <name>Unknomad</name>
-            <uri>https://news.ycombinator.com/user?id=Unknomad</uri>
         </author>
     </entry>
 </feed>
