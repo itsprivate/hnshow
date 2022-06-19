@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-19T17:28:51.228Z</updated>
+    <updated>2022-06-19T17:58:33.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mabel - 一個花哨的BitTorrent終端客戶端
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31801590</id>
+        <link href="https://news.ycombinator.com/item?id=31801590"/>
+        <updated>2022-06-19T17:47:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mabel – a fancy BitTorrent client for the terminal]]></summary>
+        <author>
+            <name>figbert</name>
+            <uri>https://news.ycombinator.com/user?id=figbert</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為您的網絡應用提供輕鬆的認證
 ]]></title>
@@ -7042,17 +7054,6 @@
         <author>
             <name>softmodeling</name>
             <uri>https://news.ycombinator.com/user?id=softmodeling</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將你的JavaScript工具與其他項目進行比較]]></title>
-        <id>https://news.ycombinator.com/item?id=31119187</id>
-        <link href="https://news.ycombinator.com/item?id=31119187"/>
-        <updated>2022-04-22T07:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Compare your JavaScript tooling with other projects]]></summary>
-        <author>
-            <name>rajasegarc</name>
-            <uri>https://news.ycombinator.com/user?id=rajasegarc</uri>
         </author>
     </entry>
 </feed>
