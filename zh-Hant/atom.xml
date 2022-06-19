@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-19T02:37:56.663Z</updated>
+    <updated>2022-06-19T06:52:47.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[構建產品的產品，構建產品的產品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31796822</id>
+        <link href="https://news.ycombinator.com/item?id=31796822"/>
+        <updated>2022-06-19T06:47:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Building the product that builds the product]]></summary>
+        <author>
+            <name>cheerioty</name>
+            <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[造夢者社區--你的夢想是什麼，什麼在阻止你？
 ]]></title>
@@ -7030,17 +7042,6 @@
         <author>
             <name>thelifeofrishi</name>
             <uri>https://news.ycombinator.com/user?id=thelifeofrishi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為你的公鑰生成一個獨特的可愛機器人]]></title>
-        <id>https://news.ycombinator.com/item?id=31112748</id>
-        <link href="https://news.ycombinator.com/item?id=31112748"/>
-        <updated>2022-04-21T17:44:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Generate a unique cute robot for your public key]]></summary>
-        <author>
-            <name>cmdli</name>
-            <uri>https://news.ycombinator.com/user?id=cmdli</uri>
         </author>
     </entry>
 </feed>
