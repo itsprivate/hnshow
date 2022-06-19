@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-19T17:58:33.911Z</updated>
+    <updated>2022-06-19T19:24:43.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开源的GamePort适配器可将旧的DB15操纵杆连接到USB端口
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31802384</id>
+        <link href="https://news.ycombinator.com/item?id=31802384"/>
+        <updated>2022-06-19T19:10:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open source GamePort adapter to connect old DB15 joysticks to USB port]]></summary>
+        <author>
+            <name>1541</name>
+            <uri>https://news.ycombinator.com/user?id=1541</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mabel - 一个花哨的BitTorrent终端客户端
 ]]></title>
@@ -7043,17 +7055,6 @@
         <author>
             <name>kaushikt</name>
             <uri>https://news.ycombinator.com/user?id=kaushikt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[构建聊天机器人的灵活务实的NLU意图匹配服务器]]></title>
-        <id>https://news.ycombinator.com/item?id=31120026</id>
-        <link href="https://news.ycombinator.com/item?id=31120026"/>
-        <updated>2022-04-22T10:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A flexible and pragmatic NLU intent matching server to build chatbots]]></summary>
-        <author>
-            <name>softmodeling</name>
-            <uri>https://news.ycombinator.com/user?id=softmodeling</uri>
         </author>
     </entry>
 </feed>

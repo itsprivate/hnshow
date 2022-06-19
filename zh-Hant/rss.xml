@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 19 Jun 2022 17:58:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 19:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[開源的GamePort適配器可將舊的DB15操縱桿連接到USB端口
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31802384</link>
+            <guid>https://news.ycombinator.com/item?id=31802384</guid>
+            <pubDate>Sun, 19 Jun 2022 19:10:51 GMT</pubDate>
+            <description><![CDATA[Show HN: Open source GamePort adapter to connect old DB15 joysticks to USB port]]></description>
+        </item>
         <item>
             <title><![CDATA[Mabel - 一個花哨的BitTorrent終端客戶端
 ]]></title>
@@ -4647,13 +4655,6 @@
             <guid>https://news.ycombinator.com/item?id=31120033</guid>
             <pubDate>Fri, 22 Apr 2022 10:33:58 GMT</pubDate>
             <description><![CDATA[Show HN: Spike.sh]]></description>
-        </item>
-        <item>
-            <title><![CDATA[構建聊天機器人的靈活務實的NLU意圖匹配服務器]]></title>
-            <link>https://news.ycombinator.com/item?id=31120026</link>
-            <guid>https://news.ycombinator.com/item?id=31120026</guid>
-            <pubDate>Fri, 22 Apr 2022 10:31:59 GMT</pubDate>
-            <description><![CDATA[Show HN: A flexible and pragmatic NLU intent matching server to build chatbots]]></description>
         </item>
     </channel>
 </rss>
