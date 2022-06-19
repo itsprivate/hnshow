@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-19T14:45:01.231Z</updated>
+    <updated>2022-06-19T16:39:01.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[将Chrome浏览器变成一个异步语音通信套件的扩展程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31800544</id>
+        <link href="https://news.ycombinator.com/item?id=31800544"/>
+        <updated>2022-06-19T16:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Extension to turn Chrome into an async voice communication suite]]></summary>
+        <author>
+            <name>VoiceLino</name>
+            <uri>https://news.ycombinator.com/user?id=VoiceLino</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[爸爸们再也不用担心了
 ]]></title>
@@ -7040,17 +7052,6 @@
         <author>
             <name>jic00</name>
             <uri>https://news.ycombinator.com/user?id=jic00</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一个应用程序来帮助Windows容器联网]]></title>
-        <id>https://news.ycombinator.com/item?id=31118903</id>
-        <link href="https://news.ycombinator.com/item?id=31118903"/>
-        <updated>2022-04-22T06:38:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built an app to help with Windows container networking]]></summary>
-        <author>
-            <name>BasiliusCarver</name>
-            <uri>https://news.ycombinator.com/user?id=BasiliusCarver</uri>
         </author>
     </entry>
 </feed>

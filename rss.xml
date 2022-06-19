@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 19 Jun 2022 14:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 16:39:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[将Chrome浏览器变成一个异步语音通信套件的扩展程序
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31800544</link>
+            <guid>https://news.ycombinator.com/item?id=31800544</guid>
+            <pubDate>Sun, 19 Jun 2022 16:00:10 GMT</pubDate>
+            <description><![CDATA[Show HN: Extension to turn Chrome into an async voice communication suite]]></description>
+        </item>
         <item>
             <title><![CDATA[爸爸们再也不用担心了
 ]]></title>
@@ -4644,13 +4652,6 @@
             <guid>https://news.ycombinator.com/item?id=31119111</guid>
             <pubDate>Fri, 22 Apr 2022 07:16:04 GMT</pubDate>
             <description><![CDATA[Show HN: I made a pizza icebreaker app for Slack]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我建立了一个应用程序来帮助Windows容器联网]]></title>
-            <link>https://news.ycombinator.com/item?id=31118903</link>
-            <guid>https://news.ycombinator.com/item?id=31118903</guid>
-            <pubDate>Fri, 22 Apr 2022 06:38:35 GMT</pubDate>
-            <description><![CDATA[Show HN: I built an app to help with Windows container networking]]></description>
         </item>
     </channel>
 </rss>
