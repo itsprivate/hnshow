@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-19T19:24:43.871Z</updated>
+    <updated>2022-06-19T20:30:48.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Bulletyn - 定製Reddit、HN和RSS的電子郵件摘要
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31803061</id>
+        <link href="https://news.ycombinator.com/item?id=31803061"/>
+        <updated>2022-06-19T20:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bulletyn – custom email digests of Reddit, HN, and RSS]]></summary>
+        <author>
+            <name>npilk</name>
+            <uri>https://news.ycombinator.com/user?id=npilk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StatusVista - 一個你所依賴的系統的一體化狀態頁面
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31802898</id>
+        <link href="https://news.ycombinator.com/item?id=31802898"/>
+        <updated>2022-06-19T20:06:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: StatusVista – An all-in-one status page of the systems you depend on]]></summary>
+        <author>
+            <name>dandrew5</name>
+            <uri>https://news.ycombinator.com/user?id=dandrew5</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開源的GamePort適配器可將舊的DB15操縱桿連接到USB端口
 ]]></title>
@@ -7033,28 +7057,6 @@
         <author>
             <name>txtai</name>
             <uri>https://news.ycombinator.com/user?id=txtai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個程序員尋找禮物的方法]]></title>
-        <id>https://news.ycombinator.com/item?id=31120050</id>
-        <link href="https://news.ycombinator.com/item?id=31120050"/>
-        <updated>2022-04-22T10:35:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A programmer's approach to finding gifts]]></summary>
-        <author>
-            <name>cvanvlack</name>
-            <uri>https://news.ycombinator.com/user?id=cvanvlack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spike.sh]]></title>
-        <id>https://news.ycombinator.com/item?id=31120033</id>
-        <link href="https://news.ycombinator.com/item?id=31120033"/>
-        <updated>2022-04-22T10:33:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Spike.sh]]></summary>
-        <author>
-            <name>kaushikt</name>
-            <uri>https://news.ycombinator.com/user?id=kaushikt</uri>
         </author>
     </entry>
 </feed>
