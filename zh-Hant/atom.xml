@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-19T08:32:08.614Z</updated>
+    <updated>2022-06-19T11:00:04.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DevRel新聞 - 所有最好的開發者關係文章都在一個地方
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31798170</id>
+        <link href="https://news.ycombinator.com/item?id=31798170"/>
+        <updated>2022-06-19T10:54:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: DevRel News – All the best developer relations articles in one place]]></summary>
+        <author>
+            <name>roberja90</name>
+            <uri>https://news.ycombinator.com/user?id=roberja90</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[特斯拉哨兵查看器--一個觀看哨兵模式片段的網絡應用。
 ]]></title>
@@ -7032,17 +7044,6 @@
         <author>
             <name>bestofwebrtc</name>
             <uri>https://news.ycombinator.com/user?id=bestofwebrtc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dashibase.com - 使用Supabase的無代碼用戶儀表板]]></title>
-        <id>https://news.ycombinator.com/item?id=31113158</id>
-        <link href="https://news.ycombinator.com/item?id=31113158"/>
-        <updated>2022-04-21T18:12:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dashibase.com – No-code user dashboards with Supabase]]></summary>
-        <author>
-            <name>greentfrapp</name>
-            <uri>https://news.ycombinator.com/user?id=greentfrapp</uri>
         </author>
     </entry>
 </feed>

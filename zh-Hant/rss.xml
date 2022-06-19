@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 19 Jun 2022 08:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 11:00:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[DevRel新聞 - 所有最好的開發者關係文章都在一個地方
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31798170</link>
+            <guid>https://news.ycombinator.com/item?id=31798170</guid>
+            <pubDate>Sun, 19 Jun 2022 10:54:16 GMT</pubDate>
+            <description><![CDATA[Show HN: DevRel News – All the best developer relations articles in one place]]></description>
+        </item>
         <item>
             <title><![CDATA[特斯拉哨兵查看器--一個觀看哨兵模式片段的網絡應用。
 ]]></title>
@@ -4636,13 +4644,6 @@
             <guid>https://news.ycombinator.com/item?id=31113648</guid>
             <pubDate>Thu, 21 Apr 2022 18:48:18 GMT</pubDate>
             <description><![CDATA[Show HN: Best of WebRTC projects, server and lib in one place]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dashibase.com - 使用Supabase的無代碼用戶儀表板]]></title>
-            <link>https://news.ycombinator.com/item?id=31113158</link>
-            <guid>https://news.ycombinator.com/item?id=31113158</guid>
-            <pubDate>Thu, 21 Apr 2022 18:12:11 GMT</pubDate>
-            <description><![CDATA[Show HN: Dashibase.com – No-code user dashboards with Supabase]]></description>
         </item>
     </channel>
 </rss>
