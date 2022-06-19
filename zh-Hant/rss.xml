@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 18 Jun 2022 23:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 02:37:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[造夢者社區--你的夢想是什麼，什麼在阻止你？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31795235</link>
+            <guid>https://news.ycombinator.com/item?id=31795235</guid>
+            <pubDate>Sun, 19 Jun 2022 01:05:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Dream Makers Community – What is your dream and what is stopping you]]></description>
+        </item>
         <item>
             <title><![CDATA[將公元前/公元后日期轉換為全新世歷日期的Chrome擴展程序
 ]]></title>
@@ -4633,13 +4641,6 @@
             <guid>https://news.ycombinator.com/item?id=31112748</guid>
             <pubDate>Thu, 21 Apr 2022 17:44:58 GMT</pubDate>
             <description><![CDATA[Show HN: Generate a unique cute robot for your public key]]></description>
-        </item>
-        <item>
-            <title><![CDATA[達薩納。建立在ClickHouse之上的JSON原生無模式日誌解決方案]]></title>
-            <link>https://news.ycombinator.com/item?id=31111432</link>
-            <guid>https://news.ycombinator.com/item?id=31111432</guid>
-            <pubDate>Thu, 21 Apr 2022 16:16:45 GMT</pubDate>
-            <description><![CDATA[Show HN: Dassana. JSON-native,schema-less logging solution built atop ClickHouse]]></description>
         </item>
     </channel>
 </rss>

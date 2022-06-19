@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-18T23:25:48.440Z</updated>
+    <updated>2022-06-19T02:37:56.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[造梦者社区--你的梦想是什么，什么在阻止你？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31795235</id>
+        <link href="https://news.ycombinator.com/item?id=31795235"/>
+        <updated>2022-06-19T01:05:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dream Makers Community – What is your dream and what is stopping you]]></summary>
+        <author>
+            <name>altuzar</name>
+            <uri>https://news.ycombinator.com/user?id=altuzar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[将公元前/公元后日期转换为全新世历日期的Chrome扩展程序
 ]]></title>
@@ -7029,17 +7041,6 @@
         <author>
             <name>cmdli</name>
             <uri>https://news.ycombinator.com/user?id=cmdli</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[达萨纳。建立在ClickHouse之上的JSON原生无模式日志解决方案]]></title>
-        <id>https://news.ycombinator.com/item?id=31111432</id>
-        <link href="https://news.ycombinator.com/item?id=31111432"/>
-        <updated>2022-04-21T16:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dassana. JSON-native,schema-less logging solution built atop ClickHouse]]></summary>
-        <author>
-            <name>gauravphoenix</name>
-            <uri>https://news.ycombinator.com/user?id=gauravphoenix</uri>
         </author>
     </entry>
 </feed>
