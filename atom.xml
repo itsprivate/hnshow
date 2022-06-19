@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-19T11:00:04.780Z</updated>
+    <updated>2022-06-19T11:24:16.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Assert：在Go泛型之上的测试和断言库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31798214</id>
+        <link href="https://news.ycombinator.com/item?id=31798214"/>
+        <updated>2022-06-19T11:04:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Assert: testing and assertion library on top of Go generics]]></summary>
+        <author>
+            <name>harunsasmaz</name>
+            <uri>https://news.ycombinator.com/user?id=harunsasmaz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevRel新闻 - 所有最好的开发者关系文章都在一个地方
 ]]></title>
@@ -7033,17 +7045,6 @@
         <author>
             <name>george_ciobanu</name>
             <uri>https://news.ycombinator.com/user?id=george_ciobanu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最佳的WebRTC项目、服务器和库在一个地方]]></title>
-        <id>https://news.ycombinator.com/item?id=31113648</id>
-        <link href="https://news.ycombinator.com/item?id=31113648"/>
-        <updated>2022-04-21T18:48:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Best of WebRTC projects, server and lib in one place]]></summary>
-        <author>
-            <name>bestofwebrtc</name>
-            <uri>https://news.ycombinator.com/user?id=bestofwebrtc</uri>
         </author>
     </entry>
 </feed>

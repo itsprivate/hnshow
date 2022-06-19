@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 19 Jun 2022 11:00:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 11:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Assert：在Go泛型之上的測試和斷言庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31798214</link>
+            <guid>https://news.ycombinator.com/item?id=31798214</guid>
+            <pubDate>Sun, 19 Jun 2022 11:04:32 GMT</pubDate>
+            <description><![CDATA[Show HN: Assert: testing and assertion library on top of Go generics]]></description>
+        </item>
         <item>
             <title><![CDATA[DevRel新聞 - 所有最好的開發者關係文章都在一個地方
 ]]></title>
@@ -4637,13 +4645,6 @@
             <guid>https://news.ycombinator.com/item?id=31113928</guid>
             <pubDate>Thu, 21 Apr 2022 19:10:16 GMT</pubDate>
             <description><![CDATA[Show HN: No-code SQL (visual data language for non-technical users)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[最佳的WebRTC項目、服務器和庫在一個地方]]></title>
-            <link>https://news.ycombinator.com/item?id=31113648</link>
-            <guid>https://news.ycombinator.com/item?id=31113648</guid>
-            <pubDate>Thu, 21 Apr 2022 18:48:18 GMT</pubDate>
-            <description><![CDATA[Show HN: Best of WebRTC projects, server and lib in one place]]></description>
         </item>
     </channel>
 </rss>
