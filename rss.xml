@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 19 Jun 2022 13:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 14:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[阅读。为大众简化研究文章
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31799604</link>
+            <guid>https://news.ycombinator.com/item?id=31799604</guid>
+            <pubDate>Sun, 19 Jun 2022 14:18:30 GMT</pubDate>
+            <description><![CDATA[Show HN: Outread: Simplifying research articles for the masses]]></description>
+        </item>
         <item>
             <title><![CDATA[WarcDB：作为SQLite数据库的网络抓取数据
 ]]></title>
@@ -4642,13 +4650,6 @@
             <guid>https://news.ycombinator.com/item?id=31118055</guid>
             <pubDate>Fri, 22 Apr 2022 04:01:45 GMT</pubDate>
             <description><![CDATA[Show HN: I made an app for all your payment links]]></description>
-        </item>
-        <item>
-            <title><![CDATA[就像你掐死蒲公英并把它交给你的爱人一样]]></title>
-            <link>https://news.ycombinator.com/item?id=31117378</link>
-            <guid>https://news.ycombinator.com/item?id=31117378</guid>
-            <pubDate>Fri, 22 Apr 2022 01:54:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Just like you strangle a dandelion and hand it to your love]]></description>
         </item>
     </channel>
 </rss>
