@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 20 Jun 2022 05:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 05:44:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用于iPhone和iPad的Markdown键盘
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31806629</link>
+            <guid>https://news.ycombinator.com/item?id=31806629</guid>
+            <pubDate>Mon, 20 Jun 2022 05:31:05 GMT</pubDate>
+            <description><![CDATA[Show HN: Markdown Keyboard for iPhone and iPad]]></description>
+        </item>
         <item>
             <title><![CDATA[一个基于Kubernetes的更强大的Crontab
 ]]></title>
@@ -4652,13 +4660,6 @@
             <guid>https://news.ycombinator.com/item?id=31121061</guid>
             <pubDate>Fri, 22 Apr 2022 12:58:59 GMT</pubDate>
             <description><![CDATA[Show HN: Laravel Nova alternative with no code UI editor, search, BRAC, and more]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Bash脚本来查找未使用的AMIs]]></title>
-            <link>https://news.ycombinator.com/item?id=31120753</link>
-            <guid>https://news.ycombinator.com/item?id=31120753</guid>
-            <pubDate>Fri, 22 Apr 2022 12:23:25 GMT</pubDate>
-            <description><![CDATA[Show HN: Bash script to find unused AMIs]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-20T05:26:25.093Z</updated>
+    <updated>2022-06-20T05:44:57.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用於iPhone和iPad的Markdown鍵盤
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31806629</id>
+        <link href="https://news.ycombinator.com/item?id=31806629"/>
+        <updated>2022-06-20T05:31:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Markdown Keyboard for iPhone and iPad]]></summary>
+        <author>
+            <name>andrewon</name>
+            <uri>https://news.ycombinator.com/user?id=andrewon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個基於Kubernetes的更強大的Crontab
 ]]></title>
@@ -7048,17 +7060,6 @@
         <author>
             <name>yen7</name>
             <uri>https://news.ycombinator.com/user?id=yen7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Bash腳本來查找未使用的AMIs]]></title>
-        <id>https://news.ycombinator.com/item?id=31120753</id>
-        <link href="https://news.ycombinator.com/item?id=31120753"/>
-        <updated>2022-04-22T12:23:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bash script to find unused AMIs]]></summary>
-        <author>
-            <name>ilpianista</name>
-            <uri>https://news.ycombinator.com/user?id=ilpianista</uri>
         </author>
     </entry>
 </feed>
