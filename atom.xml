@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-20T02:19:56.999Z</updated>
+    <updated>2022-06-20T05:26:25.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个基于Kubernetes的更强大的Crontab
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31806422</id>
+        <link href="https://news.ycombinator.com/item?id=31806422"/>
+        <updated>2022-06-20T04:55:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A more powerful Crontab based on Kubernetes]]></summary>
+        <author>
+            <name>haosdent</name>
+            <uri>https://news.ycombinator.com/user?id=haosdent</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在create-rust-app中为poem后端添加了ViteJS SSR支持
 ]]></title>
@@ -7047,17 +7059,6 @@
         <author>
             <name>ilpianista</name>
             <uri>https://news.ycombinator.com/user?id=ilpianista</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在推特上播放《DOOM》，在网页（chromium）上运行，没有广告拦截器。]]></title>
-        <id>https://news.ycombinator.com/item?id=31120191</id>
-        <link href="https://news.ycombinator.com/item?id=31120191"/>
-        <updated>2022-04-22T11:03:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Play DOOM embedded in a tweet.Works in web(chromium) without ad-blocker]]></summary>
-        <author>
-            <name>dixitbavu</name>
-            <uri>https://news.ycombinator.com/user?id=dixitbavu</uri>
         </author>
     </entry>
 </feed>
