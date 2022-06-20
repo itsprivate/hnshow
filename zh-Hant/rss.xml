@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 20 Jun 2022 16:47:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 17:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[TypeScript中的類型級正則匹配
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31812621</link>
+            <guid>https://news.ycombinator.com/item?id=31812621</guid>
+            <pubDate>Mon, 20 Jun 2022 16:56:31 GMT</pubDate>
+            <description><![CDATA[Show HN: Type-Level RegExp Matching in TypeScript]]></description>
+        </item>
         <item>
             <title><![CDATA[每天通過電子郵件摘錄一個人的Twitter朋友的最佳鏈接
 ]]></title>
@@ -4670,13 +4678,6 @@
             <guid>https://news.ycombinator.com/item?id=31132659</guid>
             <pubDate>Sat, 23 Apr 2022 09:31:29 GMT</pubDate>
             <description><![CDATA[Show HN: [Experimental] Fleet – A build tool for Rust that's upto 5x faster]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我創建了一個利用天氣和健康數據的音樂應用程序]]></title>
-            <link>https://news.ycombinator.com/item?id=31132488</link>
-            <guid>https://news.ycombinator.com/item?id=31132488</guid>
-            <pubDate>Sat, 23 Apr 2022 08:41:03 GMT</pubDate>
-            <description><![CDATA[Show HN: I created a music app that makes use of weather and health data]]></description>
         </item>
     </channel>
 </rss>
