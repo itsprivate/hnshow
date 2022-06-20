@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-20T08:43:47.282Z</updated>
+    <updated>2022-06-20T09:32:59.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[泰樂士代碼生成器（2022-OW2會議）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31808106</id>
+        <link href="https://news.ycombinator.com/item?id=31808106"/>
+        <updated>2022-06-20T09:26:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Telosys code generator (2022 – OW2 conference)]]></summary>
+        <author>
+            <name>jackpat99</name>
+            <uri>https://news.ycombinator.com/user?id=jackpat99</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[圖書館促進初創企業的發展
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31807957</id>
+        <link href="https://news.ycombinator.com/item?id=31807957"/>
+        <updated>2022-06-20T09:03:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Library to Boost Growth of Startup]]></summary>
+        <author>
+            <name>RealMaxRush</name>
+            <uri>https://news.ycombinator.com/user?id=RealMaxRush</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為你的GitHub項目創建旅遊
 ]]></title>
@@ -7042,28 +7066,6 @@
         <author>
             <name>syrusakbary</name>
             <uri>https://news.ycombinator.com/user?id=syrusakbary</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[創建GitHub聯繫表而不分享你的信息]]></title>
-        <id>https://news.ycombinator.com/item?id=31124490</id>
-        <link href="https://news.ycombinator.com/item?id=31124490"/>
-        <updated>2022-04-22T17:03:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Create a GitHub contact form without sharing your information]]></summary>
-        <author>
-            <name>zicxor</name>
-            <uri>https://news.ycombinator.com/user?id=zicxor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只用一個網頁就能防止你的電腦睡覺]]></title>
-        <id>https://news.ycombinator.com/item?id=31123522</id>
-        <link href="https://news.ycombinator.com/item?id=31123522"/>
-        <updated>2022-04-22T16:12:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Prevent your computer sleeping with just a webpage]]></summary>
-        <author>
-            <name>bradleyjkemp</name>
-            <uri>https://news.ycombinator.com/user?id=bradleyjkemp</uri>
         </author>
     </entry>
 </feed>
