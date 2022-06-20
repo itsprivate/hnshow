@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-20T15:33:33.453Z</updated>
+    <updated>2022-06-20T16:47:15.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每天通过电子邮件摘录一个人的Twitter朋友的最佳链接
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31812229</id>
+        <link href="https://news.ycombinator.com/item?id=31812229"/>
+        <updated>2022-06-20T16:25:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A daily email digest of the best links from one's Twitter friends]]></summary>
+        <author>
+            <name>p5v</name>
+            <uri>https://news.ycombinator.com/user?id=p5v</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mprocs 0.5 - 运行进程的TUI，现在支持鼠标了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31812124</id>
+        <link href="https://news.ycombinator.com/item?id=31812124"/>
+        <updated>2022-06-20T16:18:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mprocs 0.5 – TUI for running processes, now with mouse support]]></summary>
+        <author>
+            <name>pvolok</name>
+            <uri>https://news.ycombinator.com/user?id=pvolok</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[远程.NET工作委员会
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31812098</id>
+        <link href="https://news.ycombinator.com/item?id=31812098"/>
+        <updated>2022-06-20T16:16:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Remote .NET Job Board]]></summary>
+        <author>
+            <name>wesdoubleu</name>
+            <uri>https://news.ycombinator.com/user?id=wesdoubleu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[现在就试试WebRTC P2P/SFU - 免费视频通话
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31811967</id>
+        <link href="https://news.ycombinator.com/item?id=31811967"/>
+        <updated>2022-06-20T16:05:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Try now WebRTC P2P/SFU – free video calls]]></summary>
+        <author>
+            <name>mp85</name>
+            <uri>https://news.ycombinator.com/user?id=mp85</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zenphone - 一个极其简单的虚拟电话号码和语音邮件收件箱
 ]]></title>
@@ -7029,50 +7077,6 @@
         <author>
             <name>vldalecu</name>
             <uri>https://news.ycombinator.com/user?id=vldalecu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better-sqlite3-proxy：作为阵列的持久性存储的代理包装器]]></title>
-        <id>https://news.ycombinator.com/item?id=31132162</id>
-        <link href="https://news.ycombinator.com/item?id=31132162"/>
-        <updated>2022-04-23T07:23:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Better-sqlite3-proxy: a proxy wrapper of persistent storage as array]]></summary>
-        <author>
-            <name>aabbcc1241</name>
-            <uri>https://news.ycombinator.com/user?id=aabbcc1241</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minos（嵌入式系统的虚拟化解决方案）v0.4发布]]></title>
-        <id>https://news.ycombinator.com/item?id=31131933</id>
-        <link href="https://news.ycombinator.com/item?id=31131933"/>
-        <updated>2022-04-23T06:30:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Minos (Virtualization Solution for Embedded System) v0.4 Released]]></summary>
-        <author>
-            <name>lemin9538</name>
-            <uri>https://news.ycombinator.com/user?id=lemin9538</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HabituWall-手机壁纸，帮助你养成习惯]]></title>
-        <id>https://news.ycombinator.com/item?id=31130803</id>
-        <link href="https://news.ycombinator.com/item?id=31130803"/>
-        <updated>2022-04-23T02:23:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: HabituWall–Phone wallpaper to help with your habits]]></summary>
-        <author>
-            <name>benfrancom</name>
-            <uri>https://news.ycombinator.com/user?id=benfrancom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[撰写。弦乐的排版工具]]></title>
-        <id>https://news.ycombinator.com/item?id=31129440</id>
-        <link href="https://news.ycombinator.com/item?id=31129440"/>
-        <updated>2022-04-22T23:17:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Written: Typographic Tools for Strings]]></summary>
-        <author>
-            <name>vixalien</name>
-            <uri>https://news.ycombinator.com/user?id=vixalien</uri>
         </author>
     </entry>
 </feed>
