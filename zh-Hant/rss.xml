@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 20 Jun 2022 17:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 20:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,38 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Oblon - 通用REST API服務器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31814808</link>
+            <guid>https://news.ycombinator.com/item?id=31814808</guid>
+            <pubDate>Mon, 20 Jun 2022 19:44:37 GMT</pubDate>
+            <description><![CDATA[Show HN: Oblon – universal REST API server]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個新的JavaScript的OAuth2庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31814784</link>
+            <guid>https://news.ycombinator.com/item?id=31814784</guid>
+            <pubDate>Mon, 20 Jun 2022 19:42:54 GMT</pubDate>
+            <description><![CDATA[Show HN: A new OAuth2 library for JavaScript]]></description>
+        </item>
+        <item>
+            <title><![CDATA[黑客新聞，但它只有評論，沒有上下文
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31814771</link>
+            <guid>https://news.ycombinator.com/item?id=31814771</guid>
+            <pubDate>Mon, 20 Jun 2022 19:41:37 GMT</pubDate>
+            <description><![CDATA[Show HN: Hacker News but it's only the comments with none of the context]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Python生成支持Podcasting 2.0的RSS提要
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31814608</link>
+            <guid>https://news.ycombinator.com/item?id=31814608</guid>
+            <pubDate>Mon, 20 Jun 2022 19:29:11 GMT</pubDate>
+            <description><![CDATA[Show HN: Generate RSS feeds with Podcasting 2.0 support using Python]]></description>
+        </item>
         <item>
             <title><![CDATA[TypeScript中的類型級正則匹配
 ]]></title>
@@ -4650,34 +4682,6 @@
             <guid>https://news.ycombinator.com/item?id=31135311</guid>
             <pubDate>Sat, 23 Apr 2022 15:49:51 GMT</pubDate>
             <description><![CDATA[Show HN: Python library for detecting and launching browsers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[安卓版OCR數獨解算器]]></title>
-            <link>https://news.ycombinator.com/item?id=31134704</link>
-            <guid>https://news.ycombinator.com/item?id=31134704</guid>
-            <pubDate>Sat, 23 Apr 2022 14:46:11 GMT</pubDate>
-            <description><![CDATA[Show HN: OCR Sudoku Solver for Android]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ReddRecs - 一個更好的Reddit搜索引擎，用於推薦男裝]]></title>
-            <link>https://news.ycombinator.com/item?id=31133480</link>
-            <guid>https://news.ycombinator.com/item?id=31133480</guid>
-            <pubDate>Sat, 23 Apr 2022 11:57:04 GMT</pubDate>
-            <description><![CDATA[Show HN: ReddRecs – A better Reddit search engine for Menswear recommendations]]></description>
-        </item>
-        <item>
-            <title><![CDATA[簡歷編輯]]></title>
-            <link>https://news.ycombinator.com/item?id=31132788</link>
-            <guid>https://news.ycombinator.com/item?id=31132788</guid>
-            <pubDate>Sat, 23 Apr 2022 10:05:29 GMT</pubDate>
-            <description><![CDATA[Show HN: Resume Editor]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[實驗性] Fleet--Rust的構建工具，速度快達5倍。]]></title>
-            <link>https://news.ycombinator.com/item?id=31132659</link>
-            <guid>https://news.ycombinator.com/item?id=31132659</guid>
-            <pubDate>Sat, 23 Apr 2022 09:31:29 GMT</pubDate>
-            <description><![CDATA[Show HN: [Experimental] Fleet – A build tool for Rust that's upto 5x faster]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-20T17:14:35.982Z</updated>
+    <updated>2022-06-20T20:00:00.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Oblon - 通用REST API服务器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31814808</id>
+        <link href="https://news.ycombinator.com/item?id=31814808"/>
+        <updated>2022-06-20T19:44:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Oblon – universal REST API server]]></summary>
+        <author>
+            <name>vtashkov_oblon</name>
+            <uri>https://news.ycombinator.com/user?id=vtashkov_oblon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个新的JavaScript的OAuth2库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31814784</id>
+        <link href="https://news.ycombinator.com/item?id=31814784"/>
+        <updated>2022-06-20T19:42:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A new OAuth2 library for JavaScript]]></summary>
+        <author>
+            <name>treve</name>
+            <uri>https://news.ycombinator.com/user?id=treve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑客新闻，但它只有评论，没有上下文
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31814771</id>
+        <link href="https://news.ycombinator.com/item?id=31814771"/>
+        <updated>2022-06-20T19:41:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hacker News but it's only the comments with none of the context]]></summary>
+        <author>
+            <name>chiptopher</name>
+            <uri>https://news.ycombinator.com/user?id=chiptopher</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Python生成支持Podcasting 2.0的RSS提要
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31814608</id>
+        <link href="https://news.ycombinator.com/item?id=31814608"/>
+        <updated>2022-06-20T19:29:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Generate RSS feeds with Podcasting 2.0 support using Python]]></summary>
+        <author>
+            <name>tatsuhirosatou</name>
+            <uri>https://news.ycombinator.com/user?id=tatsuhirosatou</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript中的类型级正则匹配
 ]]></title>
@@ -7034,50 +7082,6 @@
         <author>
             <name>roniemartinez</name>
             <uri>https://news.ycombinator.com/user?id=roniemartinez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安卓版OCR数独解算器]]></title>
-        <id>https://news.ycombinator.com/item?id=31134704</id>
-        <link href="https://news.ycombinator.com/item?id=31134704"/>
-        <updated>2022-04-23T14:46:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: OCR Sudoku Solver for Android]]></summary>
-        <author>
-            <name>hypertensiune</name>
-            <uri>https://news.ycombinator.com/user?id=hypertensiune</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ReddRecs - 一个更好的Reddit搜索引擎，用于推荐男装]]></title>
-        <id>https://news.ycombinator.com/item?id=31133480</id>
-        <link href="https://news.ycombinator.com/item?id=31133480"/>
-        <updated>2022-04-23T11:57:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ReddRecs – A better Reddit search engine for Menswear recommendations]]></summary>
-        <author>
-            <name>adrielyong</name>
-            <uri>https://news.ycombinator.com/user?id=adrielyong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简历编辑]]></title>
-        <id>https://news.ycombinator.com/item?id=31132788</id>
-        <link href="https://news.ycombinator.com/item?id=31132788"/>
-        <updated>2022-04-23T10:05:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Resume Editor]]></summary>
-        <author>
-            <name>jacob_rezi</name>
-            <uri>https://news.ycombinator.com/user?id=jacob_rezi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[实验性] Fleet--Rust的构建工具，速度快达5倍。]]></title>
-        <id>https://news.ycombinator.com/item?id=31132659</id>
-        <link href="https://news.ycombinator.com/item?id=31132659"/>
-        <updated>2022-04-23T09:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: [Experimental] Fleet – A build tool for Rust that's upto 5x faster]]></summary>
-        <author>
-            <name>VarunPotti</name>
-            <uri>https://news.ycombinator.com/user?id=VarunPotti</uri>
         </author>
     </entry>
 </feed>
