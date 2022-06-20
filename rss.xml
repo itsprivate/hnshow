@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 19 Jun 2022 20:30:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 02:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在create-rust-app中为poem后端添加了ViteJS SSR支持
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31804970</link>
+            <guid>https://news.ycombinator.com/item?id=31804970</guid>
+            <pubDate>Mon, 20 Jun 2022 00:33:52 GMT</pubDate>
+            <description><![CDATA[Show HN: Added ViteJS SSR support for poem back end in create-rust-app]]></description>
+        </item>
         <item>
             <title><![CDATA[Bulletyn - 定制Reddit、HN和RSS的电子邮件摘要
 ]]></title>
@@ -4650,13 +4658,6 @@
             <guid>https://news.ycombinator.com/item?id=31120191</guid>
             <pubDate>Fri, 22 Apr 2022 11:03:36 GMT</pubDate>
             <description><![CDATA[Show HN: Play DOOM embedded in a tweet.Works in web(chromium) without ad-blocker]]></description>
-        </item>
-        <item>
-            <title><![CDATA[可解释的语义搜索，用txtai构建你自己的查询语言]]></title>
-            <link>https://news.ycombinator.com/item?id=31120118</link>
-            <guid>https://news.ycombinator.com/item?id=31120118</guid>
-            <pubDate>Fri, 22 Apr 2022 10:49:37 GMT</pubDate>
-            <description><![CDATA[Show HN: Explainable semantic search, build your own query language with txtai]]></description>
         </item>
     </channel>
 </rss>

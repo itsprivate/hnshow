@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-19T20:30:48.280Z</updated>
+    <updated>2022-06-20T02:19:57.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在create-rust-app中為poem後端添加了ViteJS SSR支持
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31804970</id>
+        <link href="https://news.ycombinator.com/item?id=31804970"/>
+        <updated>2022-06-20T00:33:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Added ViteJS SSR support for poem back end in create-rust-app]]></summary>
+        <author>
+            <name>har1s</name>
+            <uri>https://news.ycombinator.com/user?id=har1s</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bulletyn - 定製Reddit、HN和RSS的電子郵件摘要
 ]]></title>
@@ -7046,17 +7058,6 @@
         <author>
             <name>dixitbavu</name>
             <uri>https://news.ycombinator.com/user?id=dixitbavu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可解釋的語義搜索，用txtai構建你自己的查詢語言]]></title>
-        <id>https://news.ycombinator.com/item?id=31120118</id>
-        <link href="https://news.ycombinator.com/item?id=31120118"/>
-        <updated>2022-04-22T10:49:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Explainable semantic search, build your own query language with txtai]]></summary>
-        <author>
-            <name>txtai</name>
-            <uri>https://news.ycombinator.com/user?id=txtai</uri>
         </author>
     </entry>
 </feed>
