@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 20 Jun 2022 10:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 13:57:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[閱讀HN上發佈的文章摘要
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31809905</link>
+            <guid>https://news.ycombinator.com/item?id=31809905</guid>
+            <pubDate>Mon, 20 Jun 2022 13:09:00 GMT</pubDate>
+            <description><![CDATA[Show HN: Read summaries of articles posted on HN]]></description>
+        </item>
         <item>
             <title><![CDATA[為多任務忍者提供的專注於生產力的應用程序--標籤中的記事本
 ]]></title>
@@ -4662,13 +4670,6 @@
             <guid>https://news.ycombinator.com/item?id=31128256</guid>
             <pubDate>Fri, 22 Apr 2022 21:15:52 GMT</pubDate>
             <description><![CDATA[Show HN: Earth Day Twitter bot replying to corp's w their netzero plans analyzed]]></description>
-        </item>
-        <item>
-            <title><![CDATA[維基百科的興趣驅動型主題的頁面瀏覽量]]></title>
-            <link>https://news.ycombinator.com/item?id=31126828</link>
-            <guid>https://news.ycombinator.com/item?id=31126828</guid>
-            <pubDate>Fri, 22 Apr 2022 19:24:26 GMT</pubDate>
-            <description><![CDATA[Show HN: Wikipedia page views for interest-driven topics]]></description>
         </item>
     </channel>
 </rss>
