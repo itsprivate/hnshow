@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-20T13:57:32.274Z</updated>
+    <updated>2022-06-20T14:47:40.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[馬克文。時間軸的標記化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31810876</id>
+        <link href="https://news.ycombinator.com/item?id=31810876"/>
+        <updated>2022-06-20T14:39:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Markwhen: Markdown for Timelines]]></summary>
+        <author>
+            <name>koch</name>
+            <uri>https://news.ycombinator.com/user?id=koch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[閱讀HN上發佈的文章摘要
 ]]></title>
@@ -7059,17 +7071,6 @@
         <author>
             <name>Idered</name>
             <uri>https://news.ycombinator.com/user?id=Idered</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[地球日推特機器人回覆企業的零排放計劃分析]]></title>
-        <id>https://news.ycombinator.com/item?id=31128256</id>
-        <link href="https://news.ycombinator.com/item?id=31128256"/>
-        <updated>2022-04-22T21:15:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Earth Day Twitter bot replying to corp's w their netzero plans analyzed]]></summary>
-        <author>
-            <name>austinbeer</name>
-            <uri>https://news.ycombinator.com/user?id=austinbeer</uri>
         </author>
     </entry>
 </feed>
