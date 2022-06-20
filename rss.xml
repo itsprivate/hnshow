@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 20 Jun 2022 21:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 23:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[跟踪每个HTTP请求执行的代码的开源库
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31817240</link>
+            <guid>https://news.ycombinator.com/item?id=31817240</guid>
+            <pubDate>Mon, 20 Jun 2022 22:50:41 GMT</pubDate>
+            <description><![CDATA[Show HN: Open-source library to trace code executed per HTTP request]]></description>
+        </item>
+        <item>
+            <title><![CDATA[程序化的二维空间场景发生器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31817222</link>
+            <guid>https://news.ycombinator.com/item?id=31817222</guid>
+            <pubDate>Mon, 20 Jun 2022 22:48:25 GMT</pubDate>
+            <description><![CDATA[Show HN: Procedural 2D space scene generator]]></description>
+        </item>
         <item>
             <title><![CDATA[用于电动滑板的参数化皮带驱动3D打印正齿轮
 ]]></title>
@@ -4673,20 +4689,6 @@
             <guid>https://news.ycombinator.com/item?id=31137324</guid>
             <pubDate>Sat, 23 Apr 2022 19:04:31 GMT</pubDate>
             <description><![CDATA[Show HN: This AI Does Not Exist]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个更好的Reddit搜索引擎来寻找男装推荐]]></title>
-            <link>https://news.ycombinator.com/item?id=31138880</link>
-            <guid>https://news.ycombinator.com/item?id=31138880</guid>
-            <pubDate>Sat, 23 Apr 2022 21:42:18 GMT</pubDate>
-            <description><![CDATA[Show HN: A better Reddit search engine to find Menswear recommendations]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Def - 一个用于默认文件夹行为的zsh插件]]></title>
-            <link>https://news.ycombinator.com/item?id=31138311</link>
-            <guid>https://news.ycombinator.com/item?id=31138311</guid>
-            <pubDate>Sat, 23 Apr 2022 20:42:36 GMT</pubDate>
-            <description><![CDATA[Show HN: Def – A zsh plugin for default folder behavior]]></description>
         </item>
     </channel>
 </rss>
