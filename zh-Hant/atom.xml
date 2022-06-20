@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-20T07:30:35.204Z</updated>
+    <updated>2022-06-20T08:43:47.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為你的GitHub項目創建旅遊
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31807712</id>
+        <link href="https://news.ycombinator.com/item?id=31807712"/>
+        <updated>2022-06-20T08:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Create Tours for Your GitHub Projects]]></summary>
+        <author>
+            <name>celicoo</name>
+            <uri>https://news.ycombinator.com/user?id=celicoo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個用於Mwmbl非營利性搜索引擎的開源網絡爬蟲程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31807637</id>
+        <link href="https://news.ycombinator.com/item?id=31807637"/>
+        <updated>2022-06-20T08:18:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An open source web crawler for the Mwmbl non-profit search engine]]></summary>
+        <author>
+            <name>daoudc</name>
+            <uri>https://news.ycombinator.com/user?id=daoudc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[設計設計系統書
 ]]></title>
@@ -7040,28 +7064,6 @@
         <author>
             <name>bradleyjkemp</name>
             <uri>https://news.ycombinator.com/user?id=bradleyjkemp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個2MB、無GC、內存安全且易於使用的瀏覽器NPM音頻庫]]></title>
-        <id>https://news.ycombinator.com/item?id=31123433</id>
-        <link href="https://news.ycombinator.com/item?id=31123433"/>
-        <updated>2022-04-22T16:07:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A 2MB, GC-Free, Memory-Safe, and Easy-to-Use NPM Audio Lib for Browsers]]></summary>
-        <author>
-            <name>chaosprint</name>
-            <uri>https://news.ycombinator.com/user?id=chaosprint</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一個應用程序來創建和部署NFT集合]]></title>
-        <id>https://news.ycombinator.com/item?id=31122037</id>
-        <link href="https://news.ycombinator.com/item?id=31122037"/>
-        <updated>2022-04-22T14:32:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built an app to create and deploy NFT collections]]></summary>
-        <author>
-            <name>dario-fino</name>
-            <uri>https://news.ycombinator.com/user?id=dario-fino</uri>
         </author>
     </entry>
 </feed>
