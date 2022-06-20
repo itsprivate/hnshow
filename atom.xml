@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-20T20:36:45.672Z</updated>
+    <updated>2022-06-20T20:54:35.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Sensy - 一把自带大脑的吉他，可用于任何技能水平的演奏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31815696</id>
+        <link href="https://news.ycombinator.com/item?id=31815696"/>
+        <updated>2022-06-20T20:44:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sensy – A guitar with it's own brain for playing at any skill level]]></summary>
+        <author>
+            <name>Dudarion</name>
+            <uri>https://news.ycombinator.com/user?id=Dudarion</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Just - 零配置TypeScript开发工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31814927</id>
+        <link href="https://news.ycombinator.com/item?id=31814927"/>
+        <updated>2022-06-20T19:52:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Just – Zero Config TypeScript Development Tool]]></summary>
+        <author>
+            <name>sonnyt</name>
+            <uri>https://news.ycombinator.com/user?id=sonnyt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为您的SaaS提供推荐营销，从0美元/月起
 ]]></title>
@@ -7061,28 +7085,6 @@
         <author>
             <name>ThatGuySam</name>
             <uri>https://news.ycombinator.com/user?id=ThatGuySam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我经营一份关于Chrome扩展的通讯]]></title>
-        <id>https://news.ycombinator.com/item?id=31135555</id>
-        <link href="https://news.ycombinator.com/item?id=31135555"/>
-        <updated>2022-04-23T16:12:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I run a newsletter about Chrome extensions]]></summary>
-        <author>
-            <name>fardeenkhan</name>
-            <uri>https://news.ycombinator.com/user?id=fardeenkhan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sizle - 用于文件分析的Canva扩展]]></title>
-        <id>https://news.ycombinator.com/item?id=31135421</id>
-        <link href="https://news.ycombinator.com/item?id=31135421"/>
-        <updated>2022-04-23T15:58:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Sizle – Canva extension for document analytics]]></summary>
-        <author>
-            <name>memecrafter</name>
-            <uri>https://news.ycombinator.com/user?id=memecrafter</uri>
         </author>
     </entry>
 </feed>
