@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 20 Jun 2022 09:32:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 10:00:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个最小的DNS扩增攻击的例子
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31808331</link>
+            <guid>https://news.ycombinator.com/item?id=31808331</guid>
+            <pubDate>Mon, 20 Jun 2022 09:56:38 GMT</pubDate>
+            <description><![CDATA[Show HN: A minimal example of DNS amplification attacks]]></description>
+        </item>
         <item>
             <title><![CDATA[泰乐士代码生成器（2022-OW2会议）。
 ]]></title>
@@ -4659,13 +4667,6 @@
             <guid>https://news.ycombinator.com/item?id=31124885</guid>
             <pubDate>Fri, 22 Apr 2022 17:25:10 GMT</pubDate>
             <description><![CDATA[Show HN: Visualize MIDI notes in augmented reality using iOS LiDAR devices]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Markdown Playgrounds - 由WebAssembly提供技术支持]]></title>
-            <link>https://news.ycombinator.com/item?id=31124585</link>
-            <guid>https://news.ycombinator.com/item?id=31124585</guid>
-            <pubDate>Fri, 22 Apr 2022 17:09:17 GMT</pubDate>
-            <description><![CDATA[Show HN: Markdown Playgrounds – Powered by WebAssembly]]></description>
         </item>
     </channel>
 </rss>
