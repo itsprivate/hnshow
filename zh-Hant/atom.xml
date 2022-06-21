@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-21T15:33:17.737Z</updated>
+    <updated>2022-06-21T16:56:28.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[UnionML - 構建ML微服務的Python框架
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31825328</id>
+        <link href="https://news.ycombinator.com/item?id=31825328"/>
+        <updated>2022-06-21T15:50:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: UnionML – a Python framework for building ML microservices]]></summary>
+        <author>
+            <name>cosmicbboy</name>
+            <uri>https://news.ycombinator.com/user?id=cosmicbboy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的個人DIY書籤應用，取代Pinboard
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31825312</id>
+        <link href="https://news.ycombinator.com/item?id=31825312"/>
+        <updated>2022-06-21T15:49:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My personal DIY bookmarks app to replace Pinboard]]></summary>
+        <author>
+            <name>blakewatson</name>
+            <uri>https://news.ycombinator.com/user?id=blakewatson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以10倍的速度構建Ruby on Rails應用程序 - Avo
 ]]></title>
@@ -7086,28 +7110,6 @@
         <author>
             <name>targist</name>
             <uri>https://news.ycombinator.com/user?id=targist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一個簡單的天氣應用，有英制和公制兩種測量方法]]></title>
-        <id>https://news.ycombinator.com/item?id=31153459</id>
-        <link href="https://news.ycombinator.com/item?id=31153459"/>
-        <updated>2022-04-25T12:24:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a simple weather app with both imperial and metric measurements]]></summary>
-        <author>
-            <name>rain2o</name>
-            <uri>https://news.ycombinator.com/user?id=rain2o</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瀏覽器中的體素月球登陸器]]></title>
-        <id>https://news.ycombinator.com/item?id=31153333</id>
-        <link href="https://news.ycombinator.com/item?id=31153333"/>
-        <updated>2022-04-25T12:06:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Voxel Lunar Lander in the Browser]]></summary>
-        <author>
-            <name>JKCalhoun</name>
-            <uri>https://news.ycombinator.com/user?id=JKCalhoun</uri>
         </author>
     </entry>
 </feed>
