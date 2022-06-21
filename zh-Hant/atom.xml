@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-21T20:30:55.623Z</updated>
+    <updated>2022-06-21T21:48:25.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PyCircTools - 一個用於創建電路的Python庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31829419</id>
+        <link href="https://news.ycombinator.com/item?id=31829419"/>
+        <updated>2022-06-21T21:41:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PyCircTools – A Python library to create circuits]]></summary>
+        <author>
+            <name>LovetheFrogs</name>
+            <uri>https://news.ycombinator.com/user?id=LovetheFrogs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Java 19中的Project Loom的啟動實例
 ]]></title>
@@ -7113,17 +7125,6 @@
         <author>
             <name>nooron</name>
             <uri>https://news.ycombinator.com/user?id=nooron</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[像Netlify一樣，但在任何雲上]]></title>
-        <id>https://news.ycombinator.com/item?id=31157819</id>
-        <link href="https://news.ycombinator.com/item?id=31157819"/>
-        <updated>2022-04-25T17:11:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Like Netlify, but on Any Cloud]]></summary>
-        <author>
-            <name>ksajadi</name>
-            <uri>https://news.ycombinator.com/user?id=ksajadi</uri>
         </author>
     </entry>
 </feed>
