@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 21 Jun 2022 02:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 04:27:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在未簽出的分支上創建快照提交的 Git 命令
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31819196</link>
+            <guid>https://news.ycombinator.com/item?id=31819196</guid>
+            <pubDate>Tue, 21 Jun 2022 02:41:36 GMT</pubDate>
+            <description><![CDATA[Show HN: Git command for creating snapshot commits on a not checked-out branch]]></description>
+        </item>
         <item>
             <title><![CDATA[Figr.app - 一個實時、多用戶、記事本式的計算器
 ]]></title>
@@ -4683,13 +4691,6 @@
             <guid>https://news.ycombinator.com/item?id=31141303</guid>
             <pubDate>Sun, 24 Apr 2022 04:29:41 GMT</pubDate>
             <description><![CDATA[Show HN: Build a Hotel Platform Using Unity3D and AWS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為網頁設計師提供的Lorem Ipsum假文本生成器(& != Only)]]></title>
-            <link>https://news.ycombinator.com/item?id=31141180</link>
-            <guid>https://news.ycombinator.com/item?id=31141180</guid>
-            <pubDate>Sun, 24 Apr 2022 04:00:16 GMT</pubDate>
-            <description><![CDATA[Show HN: Lorem Ipsum Dummy Text Generator for Web Designers (& ! = Only)]]></description>
         </item>
     </channel>
 </rss>
