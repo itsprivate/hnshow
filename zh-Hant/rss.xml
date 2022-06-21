@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 21 Jun 2022 14:37:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 14:47:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[高性能的自定義元素虛擬滾動器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31824328</link>
+            <guid>https://news.ycombinator.com/item?id=31824328</guid>
+            <pubDate>Tue, 21 Jun 2022 14:28:25 GMT</pubDate>
+            <description><![CDATA[Show HN: High performance custom element virtual scroller]]></description>
+        </item>
         <item>
             <title><![CDATA[英國脫歐後，如何在英國找到軟件開發人員的工作（指南）。
 ]]></title>
@@ -4698,13 +4706,6 @@
             <guid>https://news.ycombinator.com/item?id=31153194</guid>
             <pubDate>Mon, 25 Apr 2022 11:48:09 GMT</pubDate>
             <description><![CDATA[Show HN: A service that confirms your vision status]]></description>
-        </item>
-        <item>
-            <title><![CDATA[提高你的郵件送達率，再也不會落入垃圾郵件中了]]></title>
-            <link>https://news.ycombinator.com/item?id=31153136</link>
-            <guid>https://news.ycombinator.com/item?id=31153136</guid>
-            <pubDate>Mon, 25 Apr 2022 11:40:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Increase your email deliverability and never land in spam anymore]]></description>
         </item>
     </channel>
 </rss>

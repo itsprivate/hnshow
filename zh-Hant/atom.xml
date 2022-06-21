@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-21T14:37:20.947Z</updated>
+    <updated>2022-06-21T14:47:52.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[高性能的自定義元素虛擬滾動器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31824328</id>
+        <link href="https://news.ycombinator.com/item?id=31824328"/>
+        <updated>2022-06-21T14:28:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: High performance custom element virtual scroller]]></summary>
+        <author>
+            <name>Havelock</name>
+            <uri>https://news.ycombinator.com/user?id=Havelock</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[英國脫歐後，如何在英國找到軟件開發人員的工作（指南）。
 ]]></title>
@@ -7094,17 +7106,6 @@
         <author>
             <name>kn81198</name>
             <uri>https://news.ycombinator.com/user?id=kn81198</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[提高你的郵件送達率，再也不會落入垃圾郵件中了]]></title>
-        <id>https://news.ycombinator.com/item?id=31153136</id>
-        <link href="https://news.ycombinator.com/item?id=31153136"/>
-        <updated>2022-04-25T11:40:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Increase your email deliverability and never land in spam anymore]]></summary>
-        <author>
-            <name>ArthuPe</name>
-            <uri>https://news.ycombinator.com/user?id=ArthuPe</uri>
         </author>
     </entry>
 </feed>
