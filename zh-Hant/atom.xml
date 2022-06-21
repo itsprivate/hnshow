@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-20T23:01:47.790Z</updated>
+    <updated>2022-06-21T02:21:28.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Figr.app - 一個實時、多用戶、記事本式的計算器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31817997</id>
+        <link href="https://news.ycombinator.com/item?id=31817997"/>
+        <updated>2022-06-21T00:10:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Figr.app – a real time, multi-user, notepad style calculator]]></summary>
+        <author>
+            <name>jklp</name>
+            <uri>https://news.ycombinator.com/user?id=jklp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[跟蹤每個HTTP請求執行的代碼的開源庫
 ]]></title>
@@ -7078,17 +7090,6 @@
         <author>
             <name>zenull</name>
             <uri>https://news.ycombinator.com/user?id=zenull</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這個人工智能並不存在]]></title>
-        <id>https://news.ycombinator.com/item?id=31137324</id>
-        <link href="https://news.ycombinator.com/item?id=31137324"/>
-        <updated>2022-04-23T19:04:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: This AI Does Not Exist]]></summary>
-        <author>
-            <name>thesephist</name>
-            <uri>https://news.ycombinator.com/user?id=thesephist</uri>
         </author>
     </entry>
 </feed>
