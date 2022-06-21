@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 21 Jun 2022 04:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 07:40:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Blame.email - 客户端的单向电子邮件生成器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31820502</link>
+            <guid>https://news.ycombinator.com/item?id=31820502</guid>
+            <pubDate>Tue, 21 Jun 2022 06:13:30 GMT</pubDate>
+            <description><![CDATA[Show HN: Blame.email – client-side one-way email generator]]></description>
+        </item>
         <item>
             <title><![CDATA[在未签出的分支上创建快照提交的 Git 命令
 ]]></title>
@@ -4684,13 +4692,6 @@
             <guid>https://news.ycombinator.com/item?id=31141485</guid>
             <pubDate>Sun, 24 Apr 2022 05:20:48 GMT</pubDate>
             <description><![CDATA[Show HN: A Pocket Calculator]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用Unity3D和AWS构建酒店平台]]></title>
-            <link>https://news.ycombinator.com/item?id=31141303</link>
-            <guid>https://news.ycombinator.com/item?id=31141303</guid>
-            <pubDate>Sun, 24 Apr 2022 04:29:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Build a Hotel Platform Using Unity3D and AWS]]></description>
         </item>
     </channel>
 </rss>
