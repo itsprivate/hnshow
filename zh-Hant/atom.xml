@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-21T14:01:17.055Z</updated>
+    <updated>2022-06-21T14:37:20.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[英國脫歐後，如何在英國找到軟件開發人員的工作（指南）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31824273</id>
+        <link href="https://news.ycombinator.com/item?id=31824273"/>
+        <updated>2022-06-21T14:23:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How to Get a Job as a Software Developer in the UK After Brexit (Guide)]]></summary>
+        <author>
+            <name>Varqu</name>
+            <uri>https://news.ycombinator.com/user?id=Varqu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將WARC（網絡檔案）文件轉換為Parquet並使用DuckDB進行查詢
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31824150</id>
+        <link href="https://news.ycombinator.com/item?id=31824150"/>
+        <updated>2022-06-21T14:10:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Convert WARC (Web Archive) Files to Parquet and Query with DuckDB]]></summary>
+        <author>
+            <name>llambda</name>
+            <uri>https://news.ycombinator.com/user?id=llambda</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevEx的Slack社區
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31823685</id>
+        <link href="https://news.ycombinator.com/item?id=31823685"/>
+        <updated>2022-06-21T13:27:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Slack Community for DevEx]]></summary>
+        <author>
+            <name>zohar-tan</name>
+            <uri>https://news.ycombinator.com/user?id=zohar-tan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Akedo - 復古遊戲和編碼平臺
 ]]></title>
@@ -7069,39 +7105,6 @@
         <author>
             <name>ArthuPe</name>
             <uri>https://news.ycombinator.com/user?id=ArthuPe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M3O - 通用公共API接口]]></title>
-        <id>https://news.ycombinator.com/item?id=31152511</id>
-        <link href="https://news.ycombinator.com/item?id=31152511"/>
-        <updated>2022-04-25T10:09:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: M3O – Universal Public API Interface]]></summary>
-        <author>
-            <name>asim</name>
-            <uri>https://news.ycombinator.com/user?id=asim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[API - 從輸入文本創建視頻]]></title>
-        <id>https://news.ycombinator.com/item?id=31151684</id>
-        <link href="https://news.ycombinator.com/item?id=31151684"/>
-        <updated>2022-04-25T07:59:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: API – video creation from an input text]]></summary>
-        <author>
-            <name>FlyNestor</name>
-            <uri>https://news.ycombinator.com/user?id=FlyNestor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Groomba - 梳理你的Jira積壓文件的Slackbot]]></title>
-        <id>https://news.ycombinator.com/item?id=31149401</id>
-        <link href="https://news.ycombinator.com/item?id=31149401"/>
-        <updated>2022-04-24T23:57:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Groomba – a Slackbot that grooms your Jira backlog]]></summary>
-        <author>
-            <name>wufufufu</name>
-            <uri>https://news.ycombinator.com/user?id=wufufufu</uri>
         </author>
     </entry>
 </feed>

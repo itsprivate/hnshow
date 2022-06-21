@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 21 Jun 2022 14:01:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 14:37:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[英国脱欧后，如何在英国找到软件开发人员的工作（指南）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31824273</link>
+            <guid>https://news.ycombinator.com/item?id=31824273</guid>
+            <pubDate>Tue, 21 Jun 2022 14:23:40 GMT</pubDate>
+            <description><![CDATA[Show HN: How to Get a Job as a Software Developer in the UK After Brexit (Guide)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[将WARC（网络档案）文件转换为Parquet并使用DuckDB进行查询
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31824150</link>
+            <guid>https://news.ycombinator.com/item?id=31824150</guid>
+            <pubDate>Tue, 21 Jun 2022 14:10:34 GMT</pubDate>
+            <description><![CDATA[Show HN: Convert WARC (Web Archive) Files to Parquet and Query with DuckDB]]></description>
+        </item>
+        <item>
+            <title><![CDATA[DevEx的Slack社区
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31823685</link>
+            <guid>https://news.ycombinator.com/item?id=31823685</guid>
+            <pubDate>Tue, 21 Jun 2022 13:27:45 GMT</pubDate>
+            <description><![CDATA[Show HN: Slack Community for DevEx]]></description>
+        </item>
         <item>
             <title><![CDATA[Akedo - 复古游戏和编码平台
 ]]></title>
@@ -4681,27 +4705,6 @@
             <guid>https://news.ycombinator.com/item?id=31153136</guid>
             <pubDate>Mon, 25 Apr 2022 11:40:09 GMT</pubDate>
             <description><![CDATA[Show HN: Increase your email deliverability and never land in spam anymore]]></description>
-        </item>
-        <item>
-            <title><![CDATA[M3O - 通用公共API接口]]></title>
-            <link>https://news.ycombinator.com/item?id=31152511</link>
-            <guid>https://news.ycombinator.com/item?id=31152511</guid>
-            <pubDate>Mon, 25 Apr 2022 10:09:25 GMT</pubDate>
-            <description><![CDATA[Show HN: M3O – Universal Public API Interface]]></description>
-        </item>
-        <item>
-            <title><![CDATA[API - 从输入文本创建视频]]></title>
-            <link>https://news.ycombinator.com/item?id=31151684</link>
-            <guid>https://news.ycombinator.com/item?id=31151684</guid>
-            <pubDate>Mon, 25 Apr 2022 07:59:04 GMT</pubDate>
-            <description><![CDATA[Show HN: API – video creation from an input text]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Groomba - 梳理你的Jira积压文件的Slackbot]]></title>
-            <link>https://news.ycombinator.com/item?id=31149401</link>
-            <guid>https://news.ycombinator.com/item?id=31149401</guid>
-            <pubDate>Sun, 24 Apr 2022 23:57:24 GMT</pubDate>
-            <description><![CDATA[Show HN: Groomba – a Slackbot that grooms your Jira backlog]]></description>
         </item>
     </channel>
 </rss>
