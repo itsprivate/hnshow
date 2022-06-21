@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-21T09:36:08.630Z</updated>
+    <updated>2022-06-21T10:02:07.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Golang写一个简单的Tcl解释器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31822103</id>
+        <link href="https://news.ycombinator.com/item?id=31822103"/>
+        <updated>2022-06-21T09:44:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Writing a simple Tcl interpreter in Golang]]></summary>
+        <author>
+            <name>stevekemp</name>
+            <uri>https://news.ycombinator.com/user?id=stevekemp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weld - ETL、Reverse-ETL和SQL建模都在一个工具中。
 ]]></title>
@@ -7082,17 +7094,6 @@
         <author>
             <name>Frajedo</name>
             <uri>https://news.ycombinator.com/user?id=Frajedo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我作为软件工程师的典型工作时间]]></title>
-        <id>https://news.ycombinator.com/item?id=31142043</id>
-        <link href="https://news.ycombinator.com/item?id=31142043"/>
-        <updated>2022-04-24T07:44:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: My typical working day as Software Engineer]]></summary>
-        <author>
-            <name>myle</name>
-            <uri>https://news.ycombinator.com/user?id=myle</uri>
         </author>
     </entry>
 </feed>
