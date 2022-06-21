@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-21T21:48:25.396Z</updated>
+    <updated>2022-06-21T22:29:24.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑客藍調
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31829690</id>
+        <link href="https://news.ycombinator.com/item?id=31829690"/>
+        <updated>2022-06-21T22:12:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hacker Blues]]></summary>
+        <author>
+            <name>jarrenae</name>
+            <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將你的頭像與你的NFT合併
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31829545</id>
+        <link href="https://news.ycombinator.com/item?id=31829545"/>
+        <updated>2022-06-21T21:56:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Merge your headshot with your NFT]]></summary>
+        <author>
+            <name>nquryshi</name>
+            <uri>https://news.ycombinator.com/user?id=nquryshi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PyCircTools - 一個用於創建電路的Python庫
 ]]></title>
@@ -7103,28 +7127,6 @@
         <author>
             <name>jpcapdevila</name>
             <uri>https://news.ycombinator.com/user?id=jpcapdevila</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用這個從Rust移植過來的NPM包來構建次一級的網絡音樂應用]]></title>
-        <id>https://news.ycombinator.com/item?id=31158145</id>
-        <link href="https://news.ycombinator.com/item?id=31158145"/>
-        <updated>2022-04-25T17:36:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Build next-level web music app with this NPM package ported from Rust]]></summary>
-        <author>
-            <name>chaosprint</name>
-            <uri>https://news.ycombinator.com/user?id=chaosprint</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於機械鍵盤的筆記本電腦支架]]></title>
-        <id>https://news.ycombinator.com/item?id=31157885</id>
-        <link href="https://news.ycombinator.com/item?id=31157885"/>
-        <updated>2022-04-25T17:16:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Laptop mount for your mechanical keyboard]]></summary>
-        <author>
-            <name>nooron</name>
-            <uri>https://news.ycombinator.com/user?id=nooron</uri>
         </author>
     </entry>
 </feed>
