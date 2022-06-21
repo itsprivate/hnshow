@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 21 Jun 2022 19:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 19:45:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Golang范围迭代变量的惊喜
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31828155</link>
+            <guid>https://news.ycombinator.com/item?id=31828155</guid>
+            <pubDate>Tue, 21 Jun 2022 19:34:14 GMT</pubDate>
+            <description><![CDATA[Show HN: Golang range iteration variable surprise]]></description>
+        </item>
+        <item>
+            <title><![CDATA[鲍勃，能够回答任何问题的人工智能
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31828010</link>
+            <guid>https://news.ycombinator.com/item?id=31828010</guid>
+            <pubDate>Tue, 21 Jun 2022 19:23:00 GMT</pubDate>
+            <description><![CDATA[Show HN: Bob, the artificial intelligence capable of answering any question]]></description>
+        </item>
+        <item>
+            <title><![CDATA[蟒蛇的阅读方式
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31827993</link>
+            <guid>https://news.ycombinator.com/item?id=31827993</guid>
+            <pubDate>Tue, 21 Jun 2022 19:22:02 GMT</pubDate>
+            <description><![CDATA[Show HN: Python Read Along]]></description>
+        </item>
         <item>
             <title><![CDATA[Fciv.net
 ]]></title>
@@ -4699,27 +4723,6 @@
             <guid>https://news.ycombinator.com/item?id=31157122</guid>
             <pubDate>Mon, 25 Apr 2022 16:26:54 GMT</pubDate>
             <description><![CDATA[Show HN: I Made a Magic Trick:)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Communick，一个专业管理的Fediverse和Matrix供应商]]></title>
-            <link>https://news.ycombinator.com/item?id=31156807</link>
-            <guid>https://news.ycombinator.com/item?id=31156807</guid>
-            <pubDate>Mon, 25 Apr 2022 16:05:19 GMT</pubDate>
-            <description><![CDATA[Show HN: Communick, a professionally-managed Fediverse and Matrix provider]]></description>
-        </item>
-        <item>
-            <title><![CDATA[加密货币新闻聚合器]]></title>
-            <link>https://news.ycombinator.com/item?id=31156801</link>
-            <guid>https://news.ycombinator.com/item?id=31156801</guid>
-            <pubDate>Mon, 25 Apr 2022 16:04:56 GMT</pubDate>
-            <description><![CDATA[Show HN: Crypto News Aggregator]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Badkeys.info - 检查加密密钥的已知漏洞]]></title>
-            <link>https://news.ycombinator.com/item?id=31156134</link>
-            <guid>https://news.ycombinator.com/item?id=31156134</guid>
-            <pubDate>Mon, 25 Apr 2022 15:21:57 GMT</pubDate>
-            <description><![CDATA[Show HN: Badkeys.info – checking cryptographic keys for known vulnerabilities]]></description>
         </item>
     </channel>
 </rss>
