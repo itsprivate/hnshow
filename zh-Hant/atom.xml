@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-21T16:56:28.013Z</updated>
+    <updated>2022-06-21T17:27:20.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們做了一個實驗來測試仿生閱讀是否能幫助你更快地閱讀
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31826204</id>
+        <link href="https://news.ycombinator.com/item?id=31826204"/>
+        <updated>2022-06-21T16:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We made an experiment to test if Bionic Reading helps you read faster]]></summary>
+        <author>
+            <name>hoodwink</name>
+            <uri>https://news.ycombinator.com/user?id=hoodwink</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[單一文件靜態微博生成器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31826128</id>
+        <link href="https://news.ycombinator.com/item?id=31826128"/>
+        <updated>2022-06-21T16:49:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Single file static microblog generator]]></summary>
+        <author>
+            <name>jjjbokma</name>
+            <uri>https://news.ycombinator.com/user?id=jjjbokma</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UnionML - 構建ML微服務的Python框架
 ]]></title>
@@ -7088,28 +7112,6 @@
         <author>
             <name>githaxs</name>
             <uri>https://news.ycombinator.com/user?id=githaxs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個為服務器設計的易於使用的備份工具--用Rust編寫]]></title>
-        <id>https://news.ycombinator.com/item?id=31154057</id>
-        <link href="https://news.ycombinator.com/item?id=31154057"/>
-        <updated>2022-04-25T13:14:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An easy-to-use backup tool designed for servers – written in Rust]]></summary>
-        <author>
-            <name>me2too</name>
-            <uri>https://news.ycombinator.com/user?id=me2too</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用在線平臺遠程控制一個機器人]]></title>
-        <id>https://news.ycombinator.com/item?id=31153934</id>
-        <link href="https://news.ycombinator.com/item?id=31153934"/>
-        <updated>2022-04-25T13:06:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Remote controlling a robot using an online plateform]]></summary>
-        <author>
-            <name>targist</name>
-            <uri>https://news.ycombinator.com/user?id=targist</uri>
         </author>
     </entry>
 </feed>
