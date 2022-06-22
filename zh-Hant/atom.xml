@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-22T10:02:38.776Z</updated>
+    <updated>2022-06-22T12:56:52.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個開發商的反向網絡代理
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31835288</id>
+        <link href="https://news.ycombinator.com/item?id=31835288"/>
+        <updated>2022-06-22T12:39:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A developer reverse web proxy]]></summary>
+        <author>
+            <name>crproxy</name>
+            <uri>https://news.ycombinator.com/user?id=crproxy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在CarPlay上用AI播客高亮應用程序保存播客時刻
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31835143</id>
+        <link href="https://news.ycombinator.com/item?id=31835143"/>
+        <updated>2022-06-22T12:26:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Save podcast moments with AI podcast highlighter app on CarPlay]]></summary>
+        <author>
+            <name>gina_schalala</name>
+            <uri>https://news.ycombinator.com/user?id=gina_schalala</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Licom - 瀏覽器插件，用於在每個網頁上發表評論
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31834867</id>
+        <link href="https://news.ycombinator.com/item?id=31834867"/>
+        <updated>2022-06-22T11:57:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Licom – browser plugin for comments on every webpage]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kstat，房地產定價可視化應用程序
 ]]></title>
@@ -7102,39 +7138,6 @@
         <author>
             <name>djsamseng</name>
             <uri>https://news.ycombinator.com/user?id=djsamseng</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyNeuraLogic。Python可微分邏輯程序]]></title>
-        <id>https://news.ycombinator.com/item?id=31161034</id>
-        <link href="https://news.ycombinator.com/item?id=31161034"/>
-        <updated>2022-04-25T21:40:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PyNeuraLogic: Python Differentiable Logic Programs]]></summary>
-        <author>
-            <name>LukasZahradnik</name>
-            <uri>https://news.ycombinator.com/user?id=LukasZahradnik</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用BPF的每個應用的合理可靠的流量監控]]></title>
-        <id>https://news.ycombinator.com/item?id=31160863</id>
-        <link href="https://news.ycombinator.com/item?id=31160863"/>
-        <updated>2022-04-25T21:26:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A reasonably reliable traffic per application monitor using BPF]]></summary>
-        <author>
-            <name>elesiuta</name>
-            <uri>https://news.ycombinator.com/user?id=elesiuta</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一個文字遊戲]]></title>
-        <id>https://news.ycombinator.com/item?id=31160447</id>
-        <link href="https://news.ycombinator.com/item?id=31160447"/>
-        <updated>2022-04-25T20:53:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I Built a Word Game]]></summary>
-        <author>
-            <name>knyt</name>
-            <uri>https://news.ycombinator.com/user?id=knyt</uri>
         </author>
     </entry>
 </feed>
