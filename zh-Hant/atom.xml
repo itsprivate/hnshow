@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-22T07:28:32.609Z</updated>
+    <updated>2022-06-22T09:03:03.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一個有趣的視頻會議應用，有二維物理學和近距離聊天。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31833415</id>
+        <link href="https://news.ycombinator.com/item?id=31833415"/>
+        <updated>2022-06-22T08:38:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a fun video meeting app with 2D physics and proximity chat]]></summary>
+        <author>
+            <name>pawelwentpawel</name>
+            <uri>https://news.ycombinator.com/user?id=pawelwentpawel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我創建的流體模擬。有什麼改進的建議嗎？
 ]]></title>
@@ -7122,17 +7134,6 @@
         <author>
             <name>dpatel1</name>
             <uri>https://news.ycombinator.com/user?id=dpatel1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在60秒內將任何Web應用部署到Lambda上]]></title>
-        <id>https://news.ycombinator.com/item?id=31160173</id>
-        <link href="https://news.ycombinator.com/item?id=31160173"/>
-        <updated>2022-04-25T20:29:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Deploy any Web App to Lambda in 60 seconds]]></summary>
-        <author>
-            <name>thekevinwang</name>
-            <uri>https://news.ycombinator.com/user?id=thekevinwang</uri>
         </author>
     </entry>
 </feed>
