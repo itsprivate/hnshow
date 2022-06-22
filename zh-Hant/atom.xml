@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-22T19:46:30.677Z</updated>
+    <updated>2022-06-22T20:31:43.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SAME項目--簡化將筆記本投入生產的過程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31841275</id>
+        <link href="https://news.ycombinator.com/item?id=31841275"/>
+        <updated>2022-06-22T20:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The SAME project – simplifying bringing your notebook to production]]></summary>
+        <author>
+            <name>TheIronYuppie</name>
+            <uri>https://news.ycombinator.com/user?id=TheIronYuppie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crocodile - 為GitHub提供更好的代碼審查
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31841215</id>
+        <link href="https://news.ycombinator.com/item?id=31841215"/>
+        <updated>2022-06-22T20:07:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Crocodile - Better code review for GitHub]]></summary>
+        <author>
+            <name>jameslao</name>
+            <uri>https://news.ycombinator.com/user?id=jameslao</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們發佈了我們新的無代碼產品。希波萊羅應用程序
 ]]></title>
@@ -7129,28 +7153,6 @@
         <author>
             <name>emehex</name>
             <uri>https://news.ycombinator.com/user?id=emehex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baseten - 構建以ML為動力的應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=31169193</id>
-        <link href="https://news.ycombinator.com/item?id=31169193"/>
-        <updated>2022-04-26T16:05:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Baseten – Build ML-powered applications]]></summary>
-        <author>
-            <name>philipkiely</name>
-            <uri>https://news.ycombinator.com/user?id=philipkiely</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thokr - 一個用rust編寫的光滑的打字TUI]]></title>
-        <id>https://news.ycombinator.com/item?id=31169133</id>
-        <link href="https://news.ycombinator.com/item?id=31169133"/>
-        <updated>2022-04-26T16:01:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Thokr – a sleek typing TUI written in rust]]></summary>
-        <author>
-            <name>coloradocolby</name>
-            <uri>https://news.ycombinator.com/user?id=coloradocolby</uri>
         </author>
     </entry>
 </feed>
