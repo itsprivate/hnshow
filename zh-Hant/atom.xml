@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-22T05:08:07.231Z</updated>
+    <updated>2022-06-22T05:57:26.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特上的玩具區塊鏈，無需編程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31832434</id>
+        <link href="https://news.ycombinator.com/item?id=31832434"/>
+        <updated>2022-06-22T05:39:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Toy blockchain on Twitter with no programming]]></summary>
+        <author>
+            <name>camjohnson26</name>
+            <uri>https://news.ycombinator.com/user?id=camjohnson26</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何作為一個單獨的開發者啟動一個創業公司？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31832427</id>
+        <link href="https://news.ycombinator.com/item?id=31832427"/>
+        <updated>2022-06-22T05:39:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How to start a startup as a solo developer?]]></summary>
+        <author>
+            <name>raunometsa</name>
+            <uri>https://news.ycombinator.com/user?id=raunometsa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vimified - 通過發展肌肉記憶掌握Vim
 ]]></title>
@@ -7107,28 +7131,6 @@
         <author>
             <name>holler</name>
             <uri>https://news.ycombinator.com/user?id=holler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個微型投資組合平臺]]></title>
-        <id>https://news.ycombinator.com/item?id=31160268</id>
-        <link href="https://news.ycombinator.com/item?id=31160268"/>
-        <updated>2022-04-25T20:37:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Micro Portfolio Platform]]></summary>
-        <author>
-            <name>connorsmacart</name>
-            <uri>https://news.ycombinator.com/user?id=connorsmacart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個像Wordle一樣的塗鴉應用程序]]></title>
-        <id>https://news.ycombinator.com/item?id=31159651</id>
-        <link href="https://news.ycombinator.com/item?id=31159651"/>
-        <updated>2022-04-25T19:46:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Doodling app like Wordle]]></summary>
-        <author>
-            <name>ekzy</name>
-            <uri>https://news.ycombinator.com/user?id=ekzy</uri>
         </author>
     </entry>
 </feed>
