@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-22T05:57:26.167Z</updated>
+    <updated>2022-06-22T06:37:14.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[学习圈 - 学习的社交网络
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31832637</id>
+        <link href="https://news.ycombinator.com/item?id=31832637"/>
+        <updated>2022-06-22T06:22:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Learning Loop – The social network for learning]]></summary>
+        <author>
+            <name>miletus</name>
+            <uri>https://news.ycombinator.com/user?id=miletus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推特上的玩具区块链，无需编程
 ]]></title>
@@ -7120,17 +7132,6 @@
         <author>
             <name>changelist</name>
             <uri>https://news.ycombinator.com/user?id=changelist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sqwok - 一个替代Twitter和Reddit的社交聊天工具]]></title>
-        <id>https://news.ycombinator.com/item?id=31160302</id>
-        <link href="https://news.ycombinator.com/item?id=31160302"/>
-        <updated>2022-04-25T20:40:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Sqwok – A social chat alternative to Twitter and Reddit]]></summary>
-        <author>
-            <name>holler</name>
-            <uri>https://news.ycombinator.com/user?id=holler</uri>
         </author>
     </entry>
 </feed>
