@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-22T17:52:24.577Z</updated>
+    <updated>2022-06-22T19:46:30.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们发布了我们新的无代码产品。希波莱罗应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31839839</id>
+        <link href="https://news.ycombinator.com/item?id=31839839"/>
+        <updated>2022-06-22T18:22:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We released our new no-code product: Hipporello Apps]]></summary>
+        <author>
+            <name>safakotur</name>
+            <uri>https://news.ycombinator.com/user?id=safakotur</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[务实的形式化建模（带可运行实例的教程系列）
 ]]></title>
@@ -7139,17 +7151,6 @@
         <author>
             <name>coloradocolby</name>
             <uri>https://news.ycombinator.com/user?id=coloradocolby</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linen - 让你的Slack社区可以被谷歌搜索到]]></title>
-        <id>https://news.ycombinator.com/item?id=31168882</id>
-        <link href="https://news.ycombinator.com/item?id=31168882"/>
-        <updated>2022-04-26T15:40:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Linen – Make your Slack community Google-searchable]]></summary>
-        <author>
-            <name>cheeseblubber</name>
-            <uri>https://news.ycombinator.com/user?id=cheeseblubber</uri>
         </author>
     </entry>
 </feed>

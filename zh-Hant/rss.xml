@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 22 Jun 2022 17:52:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 19:46:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們發佈了我們新的無代碼產品。希波萊羅應用程序
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31839839</link>
+            <guid>https://news.ycombinator.com/item?id=31839839</guid>
+            <pubDate>Wed, 22 Jun 2022 18:22:07 GMT</pubDate>
+            <description><![CDATA[Show HN: We released our new no-code product: Hipporello Apps]]></description>
+        </item>
         <item>
             <title><![CDATA[務實的形式化建模（帶可運行實例的教程系列）
 ]]></title>
@@ -4743,13 +4751,6 @@
             <guid>https://news.ycombinator.com/item?id=31169133</guid>
             <pubDate>Tue, 26 Apr 2022 16:01:11 GMT</pubDate>
             <description><![CDATA[Show HN: Thokr – a sleek typing TUI written in rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Linen - 讓你的Slack社區可以被谷歌搜索到]]></title>
-            <link>https://news.ycombinator.com/item?id=31168882</link>
-            <guid>https://news.ycombinator.com/item?id=31168882</guid>
-            <pubDate>Tue, 26 Apr 2022 15:40:39 GMT</pubDate>
-            <description><![CDATA[Show HN: Linen – Make your Slack community Google-searchable]]></description>
         </item>
     </channel>
 </rss>
