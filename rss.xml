@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 22 Jun 2022 14:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 15:34:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[ReflectOps - 我为回顾性研究建立的工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31837278</link>
+            <guid>https://news.ycombinator.com/item?id=31837278</guid>
+            <pubDate>Wed, 22 Jun 2022 15:25:48 GMT</pubDate>
+            <description><![CDATA[Show HN: ReflectOps – I built tool for retrospectives]]></description>
+        </item>
         <item>
             <title><![CDATA[Rhynn.io - 在物理空间中的数字会议
 ]]></title>
@@ -4733,13 +4741,6 @@
             <guid>https://news.ycombinator.com/item?id=31164799</guid>
             <pubDate>Tue, 26 Apr 2022 07:01:29 GMT</pubDate>
             <description><![CDATA[Show HN: Thin Back end, a universal back end for making realtime React Apps]]></description>
-        </item>
-        <item>
-            <title><![CDATA[检测Docker和Kubernetes等开发工具中的漏洞]]></title>
-            <link>https://news.ycombinator.com/item?id=31163757</link>
-            <guid>https://news.ycombinator.com/item?id=31163757</guid>
-            <pubDate>Tue, 26 Apr 2022 03:51:13 GMT</pubDate>
-            <description><![CDATA[Show HN: Detection of vulns within dev tools such as Docker and Kubernetes]]></description>
         </item>
     </channel>
 </rss>

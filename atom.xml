@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-22T14:33:24.921Z</updated>
+    <updated>2022-06-22T15:34:10.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ReflectOps - 我为回顾性研究建立的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31837278</id>
+        <link href="https://news.ycombinator.com/item?id=31837278"/>
+        <updated>2022-06-22T15:25:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ReflectOps – I built tool for retrospectives]]></summary>
+        <author>
+            <name>grasper</name>
+            <uri>https://news.ycombinator.com/user?id=grasper</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rhynn.io - 在物理空间中的数字会议
 ]]></title>
@@ -7129,17 +7141,6 @@
         <author>
             <name>_query</name>
             <uri>https://news.ycombinator.com/user?id=_query</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[检测Docker和Kubernetes等开发工具中的漏洞]]></title>
-        <id>https://news.ycombinator.com/item?id=31163757</id>
-        <link href="https://news.ycombinator.com/item?id=31163757"/>
-        <updated>2022-04-26T03:51:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Detection of vulns within dev tools such as Docker and Kubernetes]]></summary>
-        <author>
-            <name>kyoung3412</name>
-            <uri>https://news.ycombinator.com/user?id=kyoung3412</uri>
         </author>
     </entry>
 </feed>
