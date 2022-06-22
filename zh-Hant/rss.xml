@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 22 Jun 2022 15:55:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 16:48:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[時態，一種時間處理工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31837873</link>
+            <guid>https://news.ycombinator.com/item?id=31837873</guid>
+            <pubDate>Wed, 22 Jun 2022 16:07:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Tense, a Time Processing Tool]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hagana - 為Node.js提供運行時保護以阻止供應鏈攻擊
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31837759</link>
+            <guid>https://news.ycombinator.com/item?id=31837759</guid>
+            <pubDate>Wed, 22 Jun 2022 15:59:02 GMT</pubDate>
+            <description><![CDATA[Show HN: Hagana – Runtime protection for Node.js to block supply chain attacks]]></description>
+        </item>
         <item>
             <title><![CDATA[數據差異--跨數據庫比較任何大小的表
 ]]></title>
@@ -4728,20 +4744,6 @@
             <guid>https://news.ycombinator.com/item?id=31165538</guid>
             <pubDate>Tue, 26 Apr 2022 09:38:32 GMT</pubDate>
             <description><![CDATA[Show HN: A tool to seed your dev database with real data]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用真實的數據為你的開發數據庫播種的工具]]></title>
-            <link>https://news.ycombinator.com/item?id=31165493</link>
-            <guid>https://news.ycombinator.com/item?id=31165493</guid>
-            <pubDate>Tue, 26 Apr 2022 09:29:12 GMT</pubDate>
-            <description><![CDATA[Show HN: A tool to seed your dev database with real data]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ctrl+F的語義搜索]]></title>
-            <link>https://news.ycombinator.com/item?id=31165089</link>
-            <guid>https://news.ycombinator.com/item?id=31165089</guid>
-            <pubDate>Tue, 26 Apr 2022 08:00:03 GMT</pubDate>
-            <description><![CDATA[Show HN: Semantic Search for Ctrl+F]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-22T15:55:28.152Z</updated>
+    <updated>2022-06-22T16:48:38.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[時態，一種時間處理工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31837873</id>
+        <link href="https://news.ycombinator.com/item?id=31837873"/>
+        <updated>2022-06-22T16:07:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tense, a Time Processing Tool]]></summary>
+        <author>
+            <name>Animatea</name>
+            <uri>https://news.ycombinator.com/user?id=Animatea</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hagana - 為Node.js提供運行時保護以阻止供應鏈攻擊
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31837759</id>
+        <link href="https://news.ycombinator.com/item?id=31837759"/>
+        <updated>2022-06-22T15:59:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hagana – Runtime protection for Node.js to block supply chain attacks]]></summary>
+        <author>
+            <name>jackbeck</name>
+            <uri>https://news.ycombinator.com/user?id=jackbeck</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[數據差異--跨數據庫比較任何大小的表
 ]]></title>
@@ -7120,28 +7144,6 @@
         <author>
             <name>ev0xmusic</name>
             <uri>https://news.ycombinator.com/user?id=ev0xmusic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用真實的數據為你的開發數據庫播種的工具]]></title>
-        <id>https://news.ycombinator.com/item?id=31165493</id>
-        <link href="https://news.ycombinator.com/item?id=31165493"/>
-        <updated>2022-04-26T09:29:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A tool to seed your dev database with real data]]></summary>
-        <author>
-            <name>evoxmusic</name>
-            <uri>https://news.ycombinator.com/user?id=evoxmusic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ctrl+F的語義搜索]]></title>
-        <id>https://news.ycombinator.com/item?id=31165089</id>
-        <link href="https://news.ycombinator.com/item?id=31165089"/>
-        <updated>2022-04-26T08:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Semantic Search for Ctrl+F]]></summary>
-        <author>
-            <name>iamscout</name>
-            <uri>https://news.ycombinator.com/user?id=iamscout</uri>
         </author>
     </entry>
 </feed>
