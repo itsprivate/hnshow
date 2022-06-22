@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-22T21:27:52.421Z</updated>
+    <updated>2022-06-22T22:47:23.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Shopify的無頭商務棧現在是GA（Hydrogen和Oxygen）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31842658</id>
+        <link href="https://news.ycombinator.com/item?id=31842658"/>
+        <updated>2022-06-22T22:28:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Shopify's headless commerce stack now GA (Hydrogen and Oxygen)]]></summary>
+        <author>
+            <name>davecyen</name>
+            <uri>https://news.ycombinator.com/user?id=davecyen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[500px用JavaScript（或PHP）在沒有API的情況下提供圖像。
 ]]></title>
@@ -7143,17 +7155,6 @@
         <author>
             <name>eetuvaljakka</name>
             <uri>https://news.ycombinator.com/user?id=eetuvaljakka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graphsignal - 在任何地方對機器學習進行基準測試和剖析]]></title>
-        <id>https://news.ycombinator.com/item?id=31169862</id>
-        <link href="https://news.ycombinator.com/item?id=31169862"/>
-        <updated>2022-04-26T16:54:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Graphsignal – benchmark and profile machine learning anywhere]]></summary>
-        <author>
-            <name>complexity2</name>
-            <uri>https://news.ycombinator.com/user?id=complexity2</uri>
         </author>
     </entry>
 </feed>
