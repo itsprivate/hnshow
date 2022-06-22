@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-22T09:03:03.559Z</updated>
+    <updated>2022-06-22T10:02:38.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Kstat，房地产定价可视化应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31833863</id>
+        <link href="https://news.ycombinator.com/item?id=31833863"/>
+        <updated>2022-06-22T09:56:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Kstat, real estate pricing visualization app]]></summary>
+        <author>
+            <name>t0mk</name>
+            <uri>https://news.ycombinator.com/user?id=t0mk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一个有趣的视频会议应用，有二维物理学和近距离聊天。
 ]]></title>
@@ -7123,17 +7135,6 @@
         <author>
             <name>knyt</name>
             <uri>https://news.ycombinator.com/user?id=knyt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无偏见的产品评论平台]]></title>
-        <id>https://news.ycombinator.com/item?id=31160428</id>
-        <link href="https://news.ycombinator.com/item?id=31160428"/>
-        <updated>2022-04-25T20:51:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Unbiased Product Review Platform]]></summary>
-        <author>
-            <name>dpatel1</name>
-            <uri>https://news.ycombinator.com/user?id=dpatel1</uri>
         </author>
     </entry>
 </feed>
