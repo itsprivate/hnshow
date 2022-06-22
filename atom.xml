@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-22T15:34:10.349Z</updated>
+    <updated>2022-06-22T15:55:28.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[数据差异--跨数据库比较任何大小的表
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31837307</id>
+        <link href="https://news.ycombinator.com/item?id=31837307"/>
+        <updated>2022-06-22T15:28:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Data Diff – compare tables of any size across databases]]></summary>
+        <author>
+            <name>hichkaker</name>
+            <uri>https://news.ycombinator.com/user?id=hichkaker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ReflectOps - 我为回顾性研究建立的工具
 ]]></title>
@@ -7130,17 +7142,6 @@
         <author>
             <name>iamscout</name>
             <uri>https://news.ycombinator.com/user?id=iamscout</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thin Back end，一个用于制作实时React应用程序的通用后端]]></title>
-        <id>https://news.ycombinator.com/item?id=31164799</id>
-        <link href="https://news.ycombinator.com/item?id=31164799"/>
-        <updated>2022-04-26T07:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Thin Back end, a universal back end for making realtime React Apps]]></summary>
-        <author>
-            <name>_query</name>
-            <uri>https://news.ycombinator.com/user?id=_query</uri>
         </author>
     </entry>
 </feed>

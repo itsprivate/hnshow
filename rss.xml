@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 22 Jun 2022 15:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 15:55:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[数据差异--跨数据库比较任何大小的表
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31837307</link>
+            <guid>https://news.ycombinator.com/item?id=31837307</guid>
+            <pubDate>Wed, 22 Jun 2022 15:28:04 GMT</pubDate>
+            <description><![CDATA[Show HN: Data Diff – compare tables of any size across databases]]></description>
+        </item>
         <item>
             <title><![CDATA[ReflectOps - 我为回顾性研究建立的工具
 ]]></title>
@@ -4734,13 +4742,6 @@
             <guid>https://news.ycombinator.com/item?id=31165089</guid>
             <pubDate>Tue, 26 Apr 2022 08:00:03 GMT</pubDate>
             <description><![CDATA[Show HN: Semantic Search for Ctrl+F]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Thin Back end，一个用于制作实时React应用程序的通用后端]]></title>
-            <link>https://news.ycombinator.com/item?id=31164799</link>
-            <guid>https://news.ycombinator.com/item?id=31164799</guid>
-            <pubDate>Tue, 26 Apr 2022 07:01:29 GMT</pubDate>
-            <description><![CDATA[Show HN: Thin Back end, a universal back end for making realtime React Apps]]></description>
         </item>
     </channel>
 </rss>
