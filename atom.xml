@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-22T06:37:14.244Z</updated>
+    <updated>2022-06-22T07:28:32.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我创建的流体模拟。有什么改进的建议吗？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31832881</id>
+        <link href="https://news.ycombinator.com/item?id=31832881"/>
+        <updated>2022-06-22T07:08:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fluid Simulation that I created. Any tips for improvement]]></summary>
+        <author>
+            <name>AtharvSingh</name>
+            <uri>https://news.ycombinator.com/user?id=AtharvSingh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[学习圈 - 学习的社交网络
 ]]></title>
@@ -7121,17 +7133,6 @@
         <author>
             <name>thekevinwang</name>
             <uri>https://news.ycombinator.com/user?id=thekevinwang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你能把SOUP变成BACK，每次只改变一个字母吗？]]></title>
-        <id>https://news.ycombinator.com/item?id=31158980</id>
-        <link href="https://news.ycombinator.com/item?id=31158980"/>
-        <updated>2022-04-25T18:42:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Can you turn SOUP into BACK, changing just one letter at a time?]]></summary>
-        <author>
-            <name>changelist</name>
-            <uri>https://news.ycombinator.com/user?id=changelist</uri>
         </author>
     </entry>
 </feed>
