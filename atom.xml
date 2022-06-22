@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-21T23:48:26.079Z</updated>
+    <updated>2022-06-22T05:08:07.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vimified - 通过发展肌肉记忆掌握Vim
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31832148</id>
+        <link href="https://news.ycombinator.com/item?id=31832148"/>
+        <updated>2022-06-22T04:50:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Vimified – Master Vim by Developing Muscle Memory]]></summary>
+        <author>
+            <name>Silica6149</name>
+            <uri>https://news.ycombinator.com/user?id=Silica6149</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个简单的网站，展示了NFT的存储方式
 ]]></title>
@@ -7117,17 +7129,6 @@
         <author>
             <name>ekzy</name>
             <uri>https://news.ycombinator.com/user?id=ekzy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加拿大广播公司的热门评论新闻]]></title>
-        <id>https://news.ycombinator.com/item?id=31159437</id>
-        <link href="https://news.ycombinator.com/item?id=31159437"/>
-        <updated>2022-04-25T19:22:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Top Commented News from CBC]]></summary>
-        <author>
-            <name>holts-shoe</name>
-            <uri>https://news.ycombinator.com/user?id=holts-shoe</uri>
         </author>
     </entry>
 </feed>
