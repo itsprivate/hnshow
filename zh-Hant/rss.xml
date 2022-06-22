@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 22 Jun 2022 20:31:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 21:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[500px用JavaScript（或PHP）在沒有API的情況下提供圖像。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31841969</link>
+            <guid>https://news.ycombinator.com/item?id=31841969</guid>
+            <pubDate>Wed, 22 Jun 2022 21:17:26 GMT</pubDate>
+            <description><![CDATA[Show HN: 500px feed images without API with JavaScript (or PHP)]]></description>
+        </item>
         <item>
             <title><![CDATA[SAME項目--簡化將筆記本投入生產的過程
 ]]></title>
@@ -4746,13 +4754,6 @@
             <guid>https://news.ycombinator.com/item?id=31169862</guid>
             <pubDate>Tue, 26 Apr 2022 16:54:32 GMT</pubDate>
             <description><![CDATA[Show HN: Graphsignal – benchmark and profile machine learning anywhere]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BreadBuddy，一個開源的SwiftUI/MVVM菜譜調度器，適用於iOS系統]]></title>
-            <link>https://news.ycombinator.com/item?id=31169633</link>
-            <guid>https://news.ycombinator.com/item?id=31169633</guid>
-            <pubDate>Tue, 26 Apr 2022 16:38:39 GMT</pubDate>
-            <description><![CDATA[Show HN: BreadBuddy, an open-source SwiftUI/MVVM recipe scheduler for iOS]]></description>
         </item>
     </channel>
 </rss>
