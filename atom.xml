@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-22T16:48:38.757Z</updated>
+    <updated>2022-06-22T17:25:58.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Kicli - 开源的Kimai时间跟踪项目的开源CLI
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31838699</id>
+        <link href="https://news.ycombinator.com/item?id=31838699"/>
+        <updated>2022-06-22T17:03:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Kicli – open-source CLI for the open source Kimai time tracking project]]></summary>
+        <author>
+            <name>anned20</name>
+            <uri>https://news.ycombinator.com/user?id=anned20</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零开始建立软件创业公司的日记
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31838542</id>
+        <link href="https://news.ycombinator.com/item?id=31838542"/>
+        <updated>2022-06-22T16:53:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Diary of building software startup from scratch]]></summary>
+        <author>
+            <name>kjksf</name>
+            <uri>https://news.ycombinator.com/user?id=kjksf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Magniv绕过API速率限制
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31838298</id>
+        <link href="https://news.ycombinator.com/item?id=31838298"/>
+        <updated>2022-06-22T16:39:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Getting Around API Rate Limits with Magniv]]></summary>
+        <author>
+            <name>jonpon</name>
+            <uri>https://news.ycombinator.com/user?id=jonpon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[时态，一种时间处理工具
 ]]></title>
@@ -7111,39 +7147,6 @@
         <author>
             <name>JakeVacovec</name>
             <uri>https://news.ycombinator.com/user?id=JakeVacovec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS停机了吗？10个地区和7个服务的独立健康检查]]></title>
-        <id>https://news.ycombinator.com/item?id=31166095</id>
-        <link href="https://news.ycombinator.com/item?id=31166095"/>
-        <updated>2022-04-26T11:25:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Is AWS Down? Independent Health Checks for 10 Regions and 7 Services]]></summary>
-        <author>
-            <name>cloudfalcon</name>
-            <uri>https://news.ycombinator.com/user?id=cloudfalcon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可搜索的浏览器历史离线档案]]></title>
-        <id>https://news.ycombinator.com/item?id=31165688</id>
-        <link href="https://news.ycombinator.com/item?id=31165688"/>
-        <updated>2022-04-26T10:15:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Searchable offline archive of browser history]]></summary>
-        <author>
-            <name>graderjs</name>
-            <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用真实的数据为你的开发数据库播种的工具]]></title>
-        <id>https://news.ycombinator.com/item?id=31165538</id>
-        <link href="https://news.ycombinator.com/item?id=31165538"/>
-        <updated>2022-04-26T09:38:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A tool to seed your dev database with real data]]></summary>
-        <author>
-            <name>ev0xmusic</name>
-            <uri>https://news.ycombinator.com/user?id=ev0xmusic</uri>
         </author>
     </entry>
 </feed>

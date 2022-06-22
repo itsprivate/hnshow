@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 22 Jun 2022 16:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 17:25:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Kicli - 开源的Kimai时间跟踪项目的开源CLI
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31838699</link>
+            <guid>https://news.ycombinator.com/item?id=31838699</guid>
+            <pubDate>Wed, 22 Jun 2022 17:03:46 GMT</pubDate>
+            <description><![CDATA[Show HN: Kicli – open-source CLI for the open source Kimai time tracking project]]></description>
+        </item>
+        <item>
+            <title><![CDATA[从零开始建立软件创业公司的日记
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31838542</link>
+            <guid>https://news.ycombinator.com/item?id=31838542</guid>
+            <pubDate>Wed, 22 Jun 2022 16:53:03 GMT</pubDate>
+            <description><![CDATA[Show HN: Diary of building software startup from scratch]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Magniv绕过API速率限制
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31838298</link>
+            <guid>https://news.ycombinator.com/item?id=31838298</guid>
+            <pubDate>Wed, 22 Jun 2022 16:39:26 GMT</pubDate>
+            <description><![CDATA[Show HN: Getting Around API Rate Limits with Magniv]]></description>
+        </item>
         <item>
             <title><![CDATA[时态，一种时间处理工具
 ]]></title>
@@ -4723,27 +4747,6 @@
             <guid>https://news.ycombinator.com/item?id=31166924</guid>
             <pubDate>Tue, 26 Apr 2022 13:00:01 GMT</pubDate>
             <description><![CDATA[Show HN: FlyCode – Git-Based Copy and Translations Editor for Web Apps]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AWS停机了吗？10个地区和7个服务的独立健康检查]]></title>
-            <link>https://news.ycombinator.com/item?id=31166095</link>
-            <guid>https://news.ycombinator.com/item?id=31166095</guid>
-            <pubDate>Tue, 26 Apr 2022 11:25:15 GMT</pubDate>
-            <description><![CDATA[Show HN: Is AWS Down? Independent Health Checks for 10 Regions and 7 Services]]></description>
-        </item>
-        <item>
-            <title><![CDATA[可搜索的浏览器历史离线档案]]></title>
-            <link>https://news.ycombinator.com/item?id=31165688</link>
-            <guid>https://news.ycombinator.com/item?id=31165688</guid>
-            <pubDate>Tue, 26 Apr 2022 10:15:30 GMT</pubDate>
-            <description><![CDATA[Show HN: Searchable offline archive of browser history]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用真实的数据为你的开发数据库播种的工具]]></title>
-            <link>https://news.ycombinator.com/item?id=31165538</link>
-            <guid>https://news.ycombinator.com/item?id=31165538</guid>
-            <pubDate>Tue, 26 Apr 2022 09:38:32 GMT</pubDate>
-            <description><![CDATA[Show HN: A tool to seed your dev database with real data]]></description>
         </item>
     </channel>
 </rss>
