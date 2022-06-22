@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-22T17:25:58.586Z</updated>
+    <updated>2022-06-22T17:52:24.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[务实的形式化建模（带可运行实例的教程系列）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31839266</id>
+        <link href="https://news.ycombinator.com/item?id=31839266"/>
+        <updated>2022-06-22T17:43:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pragmatic Formal Modeling (Tutorial series with runnable examples)]]></summary>
+        <author>
+            <name>elliotswart</name>
+            <uri>https://news.ycombinator.com/user?id=elliotswart</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我为开发者建立了一个简单的模拟API
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31839244</id>
+        <link href="https://news.ycombinator.com/item?id=31839244"/>
+        <updated>2022-06-22T17:41:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a simply mock API for devs]]></summary>
+        <author>
+            <name>DasBeasto</name>
+            <uri>https://news.ycombinator.com/user?id=DasBeasto</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我建立了一个非常好的Ctrl+F的替代品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31839147</id>
+        <link href="https://news.ycombinator.com/item?id=31839147"/>
+        <updated>2022-06-22T17:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a really good Ctrl+F replacement]]></summary>
+        <author>
+            <name>iamscout</name>
+            <uri>https://news.ycombinator.com/user?id=iamscout</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kicli - 开源的Kimai时间跟踪项目的开源CLI
 ]]></title>
@@ -7114,39 +7150,6 @@
         <author>
             <name>cheeseblubber</name>
             <uri>https://news.ycombinator.com/user?id=cheeseblubber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xlibe：Haiku的无服务器Xlib（X11）兼容层]]></title>
-        <id>https://news.ycombinator.com/item?id=31167562</id>
-        <link href="https://news.ycombinator.com/item?id=31167562"/>
-        <updated>2022-04-26T14:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Xlibe: a serverless Xlib (X11) compatibility layer for Haiku]]></summary>
-        <author>
-            <name>waddlesplash</name>
-            <uri>https://news.ycombinator.com/user?id=waddlesplash</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客新闻黑暗模式的用户风格与可读性改进]]></title>
-        <id>https://news.ycombinator.com/item?id=31167197</id>
-        <link href="https://news.ycombinator.com/item?id=31167197"/>
-        <updated>2022-04-26T13:27:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hacker News dark mode userstyle with legibility improvements]]></summary>
-        <author>
-            <name>andrewgioia</name>
-            <uri>https://news.ycombinator.com/user?id=andrewgioia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlyCode - 基于Git的网络应用程序复制和翻译编辑器]]></title>
-        <id>https://news.ycombinator.com/item?id=31166924</id>
-        <link href="https://news.ycombinator.com/item?id=31166924"/>
-        <updated>2022-04-26T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: FlyCode – Git-Based Copy and Translations Editor for Web Apps]]></summary>
-        <author>
-            <name>JakeVacovec</name>
-            <uri>https://news.ycombinator.com/user?id=JakeVacovec</uri>
         </author>
     </entry>
 </feed>
