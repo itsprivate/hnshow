@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-22T13:56:38.286Z</updated>
+    <updated>2022-06-22T14:33:24.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Rhynn.io - 在物理空間中的數字會議
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31836209</id>
+        <link href="https://news.ycombinator.com/item?id=31836209"/>
+        <updated>2022-06-22T14:12:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Rhynn.io – Digitally meet in a Physical space]]></summary>
+        <author>
+            <name>lja</name>
+            <uri>https://news.ycombinator.com/user?id=lja</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Rust中實現一個異步運行時間
 ]]></title>
@@ -7128,17 +7140,6 @@
         <author>
             <name>kyoung3412</name>
             <uri>https://news.ycombinator.com/user?id=kyoung3412</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們推出了一個新的網絡瀏覽器]]></title>
-        <id>https://news.ycombinator.com/item?id=31163077</id>
-        <link href="https://news.ycombinator.com/item?id=31163077"/>
-        <updated>2022-04-26T01:45:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We launched a new web browser]]></summary>
-        <author>
-            <name>ca98am79</name>
-            <uri>https://news.ycombinator.com/user?id=ca98am79</uri>
         </author>
     </entry>
 </feed>

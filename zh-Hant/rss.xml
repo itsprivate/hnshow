@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 22 Jun 2022 13:56:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 14:33:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Rhynn.io - 在物理空間中的數字會議
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31836209</link>
+            <guid>https://news.ycombinator.com/item?id=31836209</guid>
+            <pubDate>Wed, 22 Jun 2022 14:12:57 GMT</pubDate>
+            <description><![CDATA[Show HN: Rhynn.io – Digitally meet in a Physical space]]></description>
+        </item>
         <item>
             <title><![CDATA[在Rust中實現一個異步運行時間
 ]]></title>
@@ -4732,13 +4740,6 @@
             <guid>https://news.ycombinator.com/item?id=31163757</guid>
             <pubDate>Tue, 26 Apr 2022 03:51:13 GMT</pubDate>
             <description><![CDATA[Show HN: Detection of vulns within dev tools such as Docker and Kubernetes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們推出了一個新的網絡瀏覽器]]></title>
-            <link>https://news.ycombinator.com/item?id=31163077</link>
-            <guid>https://news.ycombinator.com/item?id=31163077</guid>
-            <pubDate>Tue, 26 Apr 2022 01:45:17 GMT</pubDate>
-            <description><![CDATA[Show HN: We launched a new web browser]]></description>
         </item>
     </channel>
 </rss>
