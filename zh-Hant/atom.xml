@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-23T14:31:48.899Z</updated>
+    <updated>2022-06-23T15:04:27.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們從一個網頁上生成社會媒體帖子
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31849635</id>
+        <link href="https://news.ycombinator.com/item?id=31849635"/>
+        <updated>2022-06-23T14:32:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We generate Social Media Posts from a webpage]]></summary>
+        <author>
+            <name>Discere</name>
+            <uri>https://news.ycombinator.com/user?id=Discere</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tickler，Go庫，用於在後臺排隊和處理工作。
 ]]></title>
@@ -7151,17 +7163,6 @@
         <author>
             <name>jarrenae</name>
             <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fccf - 在一個目錄中快速搜索C/C++源代碼]]></title>
-        <id>https://news.ycombinator.com/item?id=31174551</id>
-        <link href="https://news.ycombinator.com/item?id=31174551"/>
-        <updated>2022-04-26T23:42:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fccf – Quickly search through C/C++ source code in a directory]]></summary>
-        <author>
-            <name>p-ranav</name>
-            <uri>https://news.ycombinator.com/user?id=p-ranav</uri>
         </author>
     </entry>
 </feed>

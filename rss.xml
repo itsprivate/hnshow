@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 23 Jun 2022 14:31:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 15:04:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们从一个网页上生成社会媒体帖子
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31849635</link>
+            <guid>https://news.ycombinator.com/item?id=31849635</guid>
+            <pubDate>Thu, 23 Jun 2022 14:32:28 GMT</pubDate>
+            <description><![CDATA[Show HN: We generate Social Media Posts from a webpage]]></description>
+        </item>
         <item>
             <title><![CDATA[Tickler，Go库，用于在后台排队和处理工作。
 ]]></title>
@@ -4755,13 +4763,6 @@
             <guid>https://news.ycombinator.com/item?id=31174778</guid>
             <pubDate>Wed, 27 Apr 2022 00:18:07 GMT</pubDate>
             <description><![CDATA[Show HN: Oldest Search – Search for the oldest result on internet]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fccf - 在一个目录中快速搜索C/C++源代码]]></title>
-            <link>https://news.ycombinator.com/item?id=31174551</link>
-            <guid>https://news.ycombinator.com/item?id=31174551</guid>
-            <pubDate>Tue, 26 Apr 2022 23:42:36 GMT</pubDate>
-            <description><![CDATA[Show HN: Fccf – Quickly search through C/C++ source code in a directory]]></description>
         </item>
     </channel>
 </rss>
