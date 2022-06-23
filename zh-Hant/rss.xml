@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 23 Jun 2022 22:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 22:47:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[通過SSH探索遠程SQLite數據庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31855922</link>
+            <guid>https://news.ycombinator.com/item?id=31855922</guid>
+            <pubDate>Thu, 23 Jun 2022 22:34:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Explore remote SQLite databases over SSH]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用Copper + Tailwind的Hacker News克隆版
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31855894</link>
+            <guid>https://news.ycombinator.com/item?id=31855894</guid>
+            <pubDate>Thu, 23 Jun 2022 22:31:21 GMT</pubDate>
+            <description><![CDATA[Show HN: Hacker News clone using Copper + Tailwind]]></description>
+        </item>
         <item>
             <title><![CDATA[Nerd Crawler - 我們監測原創漫畫藝術網站，所以你不必擔心。
 ]]></title>
@@ -4758,20 +4774,6 @@
             <guid>https://news.ycombinator.com/item?id=31180246</guid>
             <pubDate>Wed, 27 Apr 2022 14:22:35 GMT</pubDate>
             <description><![CDATA[Show HN: BlockPoll – Decentralized Blockchain-Based Polling (OSS)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TPI - 用於ML和自我恢復現貨的Terraform供應商]]></title>
-            <link>https://news.ycombinator.com/item?id=31179765</link>
-            <guid>https://news.ycombinator.com/item?id=31179765</guid>
-            <pubDate>Wed, 27 Apr 2022 13:41:24 GMT</pubDate>
-            <description><![CDATA[Show HN: TPI – Terraform provider for ML and self-recovering spot-instances]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gatsby-theme-pitayan - 極簡主義者的蓋茨比主題]]></title>
-            <link>https://news.ycombinator.com/item?id=31178996</link>
-            <guid>https://news.ycombinator.com/item?id=31178996</guid>
-            <pubDate>Wed, 27 Apr 2022 12:22:11 GMT</pubDate>
-            <description><![CDATA[Show HN: Gatsby-theme-pitayan – A Gatsby theme for minimalists]]></description>
         </item>
     </channel>
 </rss>
