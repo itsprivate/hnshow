@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-23T20:34:12.835Z</updated>
+    <updated>2022-06-23T21:28:10.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通过C2V将DOOM从C语言翻译成V语言，在1s下构建并运行它
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31855315</id>
+        <link href="https://news.ycombinator.com/item?id=31855315"/>
+        <updated>2022-06-23T21:22:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Translating DOOM from C to V via C2V, building under 1s and running it]]></summary>
+        <author>
+            <name>amedvednikov</name>
+            <uri>https://news.ycombinator.com/user?id=amedvednikov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lexman人工播客
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31855192</id>
+        <link href="https://news.ycombinator.com/item?id=31855192"/>
+        <updated>2022-06-23T21:10:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lexman Artificial Podcast]]></summary>
+        <author>
+            <name>almostdigital</name>
+            <uri>https://news.ycombinator.com/user?id=almostdigital</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meşk Tune - 调谐器应用程序
 ]]></title>
@@ -7145,28 +7169,6 @@
         <author>
             <name>pera</name>
             <uri>https://news.ycombinator.com/user?id=pera</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们目前正处于CTI搜索引擎的最后启动阶段。]]></title>
-        <id>https://news.ycombinator.com/item?id=31177485</id>
-        <link href="https://news.ycombinator.com/item?id=31177485"/>
-        <updated>2022-04-27T08:00:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We're currently at the stage of finalizing launch of CTI Search Engine]]></summary>
-        <author>
-            <name>kyoung3412</name>
-            <uri>https://news.ycombinator.com/user?id=kyoung3412</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[程序员的音译字母表]]></title>
-        <id>https://news.ycombinator.com/item?id=31176759</id>
-        <link href="https://news.ycombinator.com/item?id=31176759"/>
-        <updated>2022-04-27T05:50:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Programmer's Phonetic Alphabet]]></summary>
-        <author>
-            <name>drodil</name>
-            <uri>https://news.ycombinator.com/user?id=drodil</uri>
         </author>
     </entry>
 </feed>
