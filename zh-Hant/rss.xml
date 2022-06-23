@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 23 Jun 2022 15:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 15:55:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在Docker的Vim中嘗試Copilot
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31850521</link>
+            <guid>https://news.ycombinator.com/item?id=31850521</guid>
+            <pubDate>Thu, 23 Jun 2022 15:30:53 GMT</pubDate>
+            <description><![CDATA[Show HN: Try Copilot in Vim in Docker]]></description>
+        </item>
         <item>
             <title><![CDATA[我們從一個網頁上生成社會媒體帖子
 ]]></title>
@@ -4756,13 +4764,6 @@
             <guid>https://news.ycombinator.com/item?id=31175545</guid>
             <pubDate>Wed, 27 Apr 2022 02:21:16 GMT</pubDate>
             <description><![CDATA[Show HN: A drop-in Excel-like spreadsheet library with collabration support]]></description>
-        </item>
-        <item>
-            <title><![CDATA[最古老的搜索 - 搜索互聯網上最古老的結果]]></title>
-            <link>https://news.ycombinator.com/item?id=31174778</link>
-            <guid>https://news.ycombinator.com/item?id=31174778</guid>
-            <pubDate>Wed, 27 Apr 2022 00:18:07 GMT</pubDate>
-            <description><![CDATA[Show HN: Oldest Search – Search for the oldest result on internet]]></description>
         </item>
     </channel>
 </rss>

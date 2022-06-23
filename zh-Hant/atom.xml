@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-23T15:04:27.950Z</updated>
+    <updated>2022-06-23T15:55:21.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Docker的Vim中嘗試Copilot
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31850521</id>
+        <link href="https://news.ycombinator.com/item?id=31850521"/>
+        <updated>2022-06-23T15:30:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Try Copilot in Vim in Docker]]></summary>
+        <author>
+            <name>mg</name>
+            <uri>https://news.ycombinator.com/user?id=mg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們從一個網頁上生成社會媒體帖子
 ]]></title>
@@ -7152,17 +7164,6 @@
         <author>
             <name>zyc9012</name>
             <uri>https://news.ycombinator.com/user?id=zyc9012</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最古老的搜索 - 搜索互聯網上最古老的結果]]></title>
-        <id>https://news.ycombinator.com/item?id=31174778</id>
-        <link href="https://news.ycombinator.com/item?id=31174778"/>
-        <updated>2022-04-27T00:18:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Oldest Search – Search for the oldest result on internet]]></summary>
-        <author>
-            <name>jarrenae</name>
-            <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
         </author>
     </entry>
 </feed>
