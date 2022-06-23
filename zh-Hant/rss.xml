@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 23 Jun 2022 07:45:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 09:02:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Wielder - 在你的Obsidian文檔中編寫和評估Clojure代碼
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31846474</link>
+            <guid>https://news.ycombinator.com/item?id=31846474</guid>
+            <pubDate>Thu, 23 Jun 2022 08:36:25 GMT</pubDate>
+            <description><![CDATA[Show HN: Wielder – Write and evaluate Clojure code in your Obsidian documents]]></description>
+        </item>
         <item>
             <title><![CDATA[只需幾行代碼就能整合ONDC
 ]]></title>
@@ -4751,13 +4759,6 @@
             <guid>https://news.ycombinator.com/item?id=31171653</guid>
             <pubDate>Tue, 26 Apr 2022 19:00:19 GMT</pubDate>
             <description><![CDATA[Show HN: Benthos v4.0.0]]></description>
-        </item>
-        <item>
-            <title><![CDATA[像分析股票一樣分析衝刺進度表]]></title>
-            <link>https://news.ycombinator.com/item?id=31170345</link>
-            <guid>https://news.ycombinator.com/item?id=31170345</guid>
-            <pubDate>Tue, 26 Apr 2022 17:25:12 GMT</pubDate>
-            <description><![CDATA[Show HN: Analyze sprint burndown like you analyze stocks]]></description>
         </item>
     </channel>
 </rss>

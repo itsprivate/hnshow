@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-23T07:45:17.302Z</updated>
+    <updated>2022-06-23T09:02:43.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Wielder - 在你的Obsidian文档中编写和评估Clojure代码
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31846474</id>
+        <link href="https://news.ycombinator.com/item?id=31846474"/>
+        <updated>2022-06-23T08:36:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Wielder – Write and evaluate Clojure code in your Obsidian documents]]></summary>
+        <author>
+            <name>diggan</name>
+            <uri>https://news.ycombinator.com/user?id=diggan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[只需几行代码就能整合ONDC
 ]]></title>
@@ -7147,17 +7159,6 @@
         <author>
             <name>mihaitodor</name>
             <uri>https://news.ycombinator.com/user?id=mihaitodor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[像分析股票一样分析冲刺进度表]]></title>
-        <id>https://news.ycombinator.com/item?id=31170345</id>
-        <link href="https://news.ycombinator.com/item?id=31170345"/>
-        <updated>2022-04-26T17:25:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Analyze sprint burndown like you analyze stocks]]></summary>
-        <author>
-            <name>m88m</name>
-            <uri>https://news.ycombinator.com/user?id=m88m</uri>
         </author>
     </entry>
 </feed>
