@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-23T21:59:12.975Z</updated>
+    <updated>2022-06-23T22:30:06.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Nerd Crawler - 我們監測原創漫畫藝術網站，所以你不必擔心。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31855732</id>
+        <link href="https://news.ycombinator.com/item?id=31855732"/>
+        <updated>2022-06-23T22:10:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Nerd Crawler – we monitor original comic art sites so you don't have to]]></summary>
+        <author>
+            <name>chptung</name>
+            <uri>https://news.ycombinator.com/user?id=chptung</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Othlond - 有目的地滿足你的好奇心
 ]]></title>
@@ -7160,17 +7172,6 @@
         <author>
             <name>daiyanze</name>
             <uri>https://news.ycombinator.com/user?id=daiyanze</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Famewall.io - 在2分鐘內完成社會推薦工作]]></title>
-        <id>https://news.ycombinator.com/item?id=31178456</id>
-        <link href="https://news.ycombinator.com/item?id=31178456"/>
-        <updated>2022-04-27T10:59:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Famewall.io – Social testimonials in under 2 minutes]]></summary>
-        <author>
-            <name>gouthamj</name>
-            <uri>https://news.ycombinator.com/user?id=gouthamj</uri>
         </author>
     </entry>
 </feed>
