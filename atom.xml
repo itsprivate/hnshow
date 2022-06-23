@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-23T21:28:10.016Z</updated>
+    <updated>2022-06-23T21:47:39.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[request_migrations - Rails APIs的请求和响应迁移
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31855521</id>
+        <link href="https://news.ycombinator.com/item?id=31855521"/>
+        <updated>2022-06-23T21:43:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: request_migrations – request and response migrations for Rails APIs]]></summary>
+        <author>
+            <name>ezekg</name>
+            <uri>https://news.ycombinator.com/user?id=ezekg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通过C2V将DOOM从C语言翻译成V语言，在1s下构建并运行它
 ]]></title>
@@ -7158,17 +7170,6 @@
         <author>
             <name>kazinator</name>
             <uri>https://news.ycombinator.com/user?id=kazinator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pindex: 一个帮助你识别混淆的IC的工具]]></title>
-        <id>https://news.ycombinator.com/item?id=31177494</id>
-        <link href="https://news.ycombinator.com/item?id=31177494"/>
-        <updated>2022-04-27T08:02:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pindex: A tool to help you identify obfuscated ICs]]></summary>
-        <author>
-            <name>pera</name>
-            <uri>https://news.ycombinator.com/user?id=pera</uri>
         </author>
     </entry>
 </feed>
