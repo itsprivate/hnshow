@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-23T02:25:21.294Z</updated>
+    <updated>2022-06-23T03:53:07.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[VSCode扩展，允许你找到并添加链接到你的Markdown中。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31844646</id>
+        <link href="https://news.ycombinator.com/item?id=31844646"/>
+        <updated>2022-06-23T02:48:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: VSCode extension that allows you to find and add links to your Markdown]]></summary>
+        <author>
+            <name>Strryke</name>
+            <uri>https://news.ycombinator.com/user?id=Strryke</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WalkThru - 在网上解释代码的更好方式
 ]]></title>
@@ -7145,17 +7157,6 @@
         <author>
             <name>francislavoie</name>
             <uri>https://news.ycombinator.com/user?id=francislavoie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Melodle - 在6次尝试中猜测旋律（Wordle分支）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31170250</id>
-        <link href="https://news.ycombinator.com/item?id=31170250"/>
-        <updated>2022-04-26T17:17:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Melodle – Guess the melody in 6 tries (Wordle offshoot)]]></summary>
-        <author>
-            <name>enyo</name>
-            <uri>https://news.ycombinator.com/user?id=enyo</uri>
         </author>
     </entry>
 </feed>

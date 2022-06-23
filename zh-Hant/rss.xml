@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 23 Jun 2022 02:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 03:53:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[VSCode擴展，允許你找到並添加鏈接到你的Markdown中。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31844646</link>
+            <guid>https://news.ycombinator.com/item?id=31844646</guid>
+            <pubDate>Thu, 23 Jun 2022 02:48:29 GMT</pubDate>
+            <description><![CDATA[Show HN: VSCode extension that allows you to find and add links to your Markdown]]></description>
+        </item>
         <item>
             <title><![CDATA[WalkThru - 在網上解釋代碼的更好方式
 ]]></title>
@@ -4749,13 +4757,6 @@
             <guid>https://news.ycombinator.com/item?id=31170280</guid>
             <pubDate>Tue, 26 Apr 2022 17:20:19 GMT</pubDate>
             <description><![CDATA[Show HN: Caddy v2.5.0]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Melodle - 在6次嘗試中猜測旋律（Wordle分支）。]]></title>
-            <link>https://news.ycombinator.com/item?id=31170250</link>
-            <guid>https://news.ycombinator.com/item?id=31170250</guid>
-            <pubDate>Tue, 26 Apr 2022 17:17:39 GMT</pubDate>
-            <description><![CDATA[Show HN: Melodle – Guess the melody in 6 tries (Wordle offshoot)]]></description>
         </item>
     </channel>
 </rss>
