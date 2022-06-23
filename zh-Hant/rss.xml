@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 23 Jun 2022 13:00:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 14:31:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Tickler，Go庫，用於在後臺排隊和處理工作。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31849331</link>
+            <guid>https://news.ycombinator.com/item?id=31849331</guid>
+            <pubDate>Thu, 23 Jun 2022 14:08:23 GMT</pubDate>
+            <description><![CDATA[Show HN: Tickler, Go library to enqueue and process jobs in background]]></description>
+        </item>
         <item>
             <title><![CDATA[使用Oracle Jet的GUI任務
 ]]></title>
@@ -4754,13 +4762,6 @@
             <guid>https://news.ycombinator.com/item?id=31174551</guid>
             <pubDate>Tue, 26 Apr 2022 23:42:36 GMT</pubDate>
             <description><![CDATA[Show HN: Fccf – Quickly search through C/C++ source code in a directory]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gradio - 一個Python Web UI框架 - 在PyPI上的安裝量突破了10萬。]]></title>
-            <link>https://news.ycombinator.com/item?id=31174439</link>
-            <guid>https://news.ycombinator.com/item?id=31174439</guid>
-            <pubDate>Tue, 26 Apr 2022 23:27:49 GMT</pubDate>
-            <description><![CDATA[Show HN: Gradio – A Python web UI framework – crossed 100k installs on PyPI]]></description>
         </item>
     </channel>
 </rss>
