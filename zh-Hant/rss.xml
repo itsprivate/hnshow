@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 23 Jun 2022 15:55:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 18:00:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我的5/3/1應用程序現在可以在安卓上使用了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31852665</link>
+            <guid>https://news.ycombinator.com/item?id=31852665</guid>
+            <pubDate>Thu, 23 Jun 2022 17:46:38 GMT</pubDate>
+            <description><![CDATA[Show HN: My 5/3/1 App is now available on Android]]></description>
+        </item>
         <item>
             <title><![CDATA[在Docker的Vim中嘗試Copilot
 ]]></title>
@@ -4757,13 +4765,6 @@
             <guid>https://news.ycombinator.com/item?id=31175639</guid>
             <pubDate>Wed, 27 Apr 2022 02:39:05 GMT</pubDate>
             <description><![CDATA[Show HN: Mastodon Bulk Find and Follow]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個類似於Excel的電子表格庫，支持協作。]]></title>
-            <link>https://news.ycombinator.com/item?id=31175545</link>
-            <guid>https://news.ycombinator.com/item?id=31175545</guid>
-            <pubDate>Wed, 27 Apr 2022 02:21:16 GMT</pubDate>
-            <description><![CDATA[Show HN: A drop-in Excel-like spreadsheet library with collabration support]]></description>
         </item>
     </channel>
 </rss>
