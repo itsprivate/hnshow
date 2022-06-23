@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-23T03:53:07.073Z</updated>
+    <updated>2022-06-23T07:45:17.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[只需幾行代碼就能整合ONDC
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31846156</id>
+        <link href="https://news.ycombinator.com/item?id=31846156"/>
+        <updated>2022-06-23T07:36:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Integrate ONDC with just a few lines of code]]></summary>
+        <author>
+            <name>ukrocks007</name>
+            <uri>https://news.ycombinator.com/user?id=ukrocks007</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VSCode擴展，允許你找到並添加鏈接到你的Markdown中。
 ]]></title>
@@ -7146,17 +7158,6 @@
         <author>
             <name>m88m</name>
             <uri>https://news.ycombinator.com/user?id=m88m</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caddy v2.5.0]]></title>
-        <id>https://news.ycombinator.com/item?id=31170280</id>
-        <link href="https://news.ycombinator.com/item?id=31170280"/>
-        <updated>2022-04-26T17:20:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Caddy v2.5.0]]></summary>
-        <author>
-            <name>francislavoie</name>
-            <uri>https://news.ycombinator.com/user?id=francislavoie</uri>
         </author>
     </entry>
 </feed>
