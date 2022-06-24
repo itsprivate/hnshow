@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-24T18:39:37.004Z</updated>
+    <updated>2022-06-24T20:30:30.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Coldbrew - 自釀啤酒桶的網絡圖形用戶界面
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31868780</id>
+        <link href="https://news.ycombinator.com/item?id=31868780"/>
+        <updated>2022-06-24T20:20:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Coldbrew – A Web GUI for Homebrew Cask]]></summary>
+        <author>
+            <name>sarimabbas</name>
+            <uri>https://news.ycombinator.com/user?id=sarimabbas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[輕鬆地將WARC（網絡檔案）轉換為Parquet，然後用DuckDB進行查詢
 ]]></title>
@@ -7186,17 +7198,6 @@
         <author>
             <name>anshckr</name>
             <uri>https://news.ycombinator.com/user?id=anshckr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hush，一種現代shell腳本語言]]></title>
-        <id>https://news.ycombinator.com/item?id=31187413</id>
-        <link href="https://news.ycombinator.com/item?id=31187413"/>
-        <updated>2022-04-28T00:19:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hush, a modern shell scripting language]]></summary>
-        <author>
-            <name>gahag</name>
-            <uri>https://news.ycombinator.com/user?id=gahag</uri>
         </author>
     </entry>
 </feed>
