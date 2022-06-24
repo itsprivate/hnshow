@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-24T05:17:11.660Z</updated>
+    <updated>2022-06-24T09:59:47.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[紧张 - "时间处理工具"
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31859629</id>
+        <link href="https://news.ycombinator.com/item?id=31859629"/>
+        <updated>2022-06-24T09:52:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tense - "Time Processing Tool"]]></summary>
+        <author>
+            <name>Animatea</name>
+            <uri>https://news.ycombinator.com/user?id=Animatea</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpsFlow - 低代码的DevOps。用于基础设施的Webflow
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31859624</id>
+        <link href="https://news.ycombinator.com/item?id=31859624"/>
+        <updated>2022-06-24T09:51:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: OpsFlow – Low-code DevOps. Webflow for infrastructure]]></summary>
+        <author>
+            <name>igorzij</name>
+            <uri>https://news.ycombinator.com/user?id=igorzij</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Matplotlib中用于直观布局的子图管理器
 ]]></title>
@@ -7156,28 +7180,6 @@
         <author>
             <name>graderjs</name>
             <uri>https://news.ycombinator.com/user?id=graderjs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聚合Next.js API的Gatsby插件，以实现向Next的顺利迁移]]></title>
-        <id>https://news.ycombinator.com/item?id=31181423</id>
-        <link href="https://news.ycombinator.com/item?id=31181423"/>
-        <updated>2022-04-27T15:43:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Gatsby plugin that polyfills Next.js API for a smooth migration to Next]]></summary>
-        <author>
-            <name>vdemedes</name>
-            <uri>https://news.ycombinator.com/user?id=vdemedes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Startpage隐私保护扩展]]></title>
-        <id>https://news.ycombinator.com/item?id=31181319</id>
-        <link href="https://news.ycombinator.com/item?id=31181319"/>
-        <updated>2022-04-27T15:37:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Startpage Privacy Protection Extension]]></summary>
-        <author>
-            <name>abqdeveloper</name>
-            <uri>https://news.ycombinator.com/user?id=abqdeveloper</uri>
         </author>
     </entry>
 </feed>
