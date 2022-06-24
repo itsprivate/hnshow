@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-24T04:00:44.610Z</updated>
+    <updated>2022-06-24T04:51:43.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PipeRider，數據可靠性自動化工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31857689</id>
+        <link href="https://news.ycombinator.com/item?id=31857689"/>
+        <updated>2022-06-24T04:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PipeRider, data reliability automated tool]]></summary>
+        <author>
+            <name>catcatcatcat</name>
+            <uri>https://news.ycombinator.com/user?id=catcatcatcat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[簡單的徽章--你最喜歡的Shield.io徽章上的簡單圖標
 ]]></title>
@@ -7165,17 +7177,6 @@
         <author>
             <name>testmasterflex</name>
             <uri>https://news.ycombinator.com/user?id=testmasterflex</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們在90天內將有機流量提高了117%。]]></title>
-        <id>https://news.ycombinator.com/item?id=31180962</id>
-        <link href="https://news.ycombinator.com/item?id=31180962"/>
-        <updated>2022-04-27T15:17:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We Increased Organic Traffic by 117% in 90 Days]]></summary>
-        <author>
-            <name>abqdeveloper</name>
-            <uri>https://news.ycombinator.com/user?id=abqdeveloper</uri>
         </author>
     </entry>
 </feed>
