@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-24T17:58:34.660Z</updated>
+    <updated>2022-06-24T18:39:37.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[輕鬆地將WARC（網絡檔案）轉換為Parquet，然後用DuckDB進行查詢
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31867179</id>
+        <link href="https://news.ycombinator.com/item?id=31867179"/>
+        <updated>2022-06-24T18:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Easily Convert WARC (Web Archive) into Parquet, Then Query with DuckDB]]></summary>
+        <author>
+            <name>llambda</name>
+            <uri>https://news.ycombinator.com/user?id=llambda</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyCircTools更新 -創建電路的Python庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31866823</id>
+        <link href="https://news.ycombinator.com/item?id=31866823"/>
+        <updated>2022-06-24T18:07:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PyCircTools update -A Python library to create circuits]]></summary>
+        <author>
+            <name>LovetheFrogs</name>
+            <uri>https://news.ycombinator.com/user?id=LovetheFrogs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apollo - 用於查詢區塊鏈數據的ETL工具
 ]]></title>
@@ -7173,28 +7197,6 @@
         <author>
             <name>gahag</name>
             <uri>https://news.ycombinator.com/user?id=gahag</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taaalk - 一個長篇對話的社交網絡]]></title>
-        <id>https://news.ycombinator.com/item?id=31187241</id>
-        <link href="https://news.ycombinator.com/item?id=31187241"/>
-        <updated>2022-04-27T23:53:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Taaalk – a social network for long-form conversations]]></summary>
-        <author>
-            <name>FailMore</name>
-            <uri>https://news.ycombinator.com/user?id=FailMore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netplot，在終端繪製網絡連接圖]]></title>
-        <id>https://news.ycombinator.com/item?id=31186962</id>
-        <link href="https://news.ycombinator.com/item?id=31186962"/>
-        <updated>2022-04-27T23:11:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Netplot, plot network connections in the terminal]]></summary>
-        <author>
-            <name>fedeb95</name>
-            <uri>https://news.ycombinator.com/user?id=fedeb95</uri>
         </author>
     </entry>
 </feed>
