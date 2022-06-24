@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-24T15:55:15.581Z</updated>
+    <updated>2022-06-24T16:47:50.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[生成艺术平台。去探索
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31864265</id>
+        <link href="https://news.ycombinator.com/item?id=31864265"/>
+        <updated>2022-06-24T15:56:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Generative Art Platform: Go Explore]]></summary>
+        <author>
+            <name>zhl146</name>
+            <uri>https://news.ycombinator.com/user?id=zhl146</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们为多模态机器人行为训练了一个（迷你）GPT
 ]]></title>
@@ -7182,17 +7194,6 @@
         <author>
             <name>empressplay</name>
             <uri>https://news.ycombinator.com/user?id=empressplay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们用Tailwind CSS建立了50多个即将推出的网页，因为我们找不到]]></title>
-        <id>https://news.ycombinator.com/item?id=31184968</id>
-        <link href="https://news.ycombinator.com/item?id=31184968"/>
-        <updated>2022-04-27T19:58:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We built 50+ coming soon pages with Tailwind CSS cause we couldn't find]]></summary>
-        <author>
-            <name>hey_fk</name>
-            <uri>https://news.ycombinator.com/user?id=hey_fk</uri>
         </author>
     </entry>
 </feed>
