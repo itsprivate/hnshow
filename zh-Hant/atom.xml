@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-24T20:30:30.432Z</updated>
+    <updated>2022-06-24T22:31:02.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特贊助鏈接的廣告數量（關閉廣告屏蔽）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31870010</id>
+        <link href="https://news.ycombinator.com/item?id=31870010"/>
+        <updated>2022-06-24T22:02:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Amount of ads on Twitter sponsored link (turn off adblock)]]></summary>
+        <author>
+            <name>bluehorseray</name>
+            <uri>https://news.ycombinator.com/user?id=bluehorseray</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coldbrew - 自釀啤酒桶的網絡圖形用戶界面
 ]]></title>
@@ -7187,17 +7199,6 @@
         <author>
             <name>kimchidude</name>
             <uri>https://news.ycombinator.com/user?id=kimchidude</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CollabTools - 用於教學/團隊會議等的實時白板。]]></title>
-        <id>https://news.ycombinator.com/item?id=31188336</id>
-        <link href="https://news.ycombinator.com/item?id=31188336"/>
-        <updated>2022-04-28T03:05:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CollabTools – Realtime whiteboard for teaching/team-meetings etc.]]></summary>
-        <author>
-            <name>anshckr</name>
-            <uri>https://news.ycombinator.com/user?id=anshckr</uri>
         </author>
     </entry>
 </feed>
