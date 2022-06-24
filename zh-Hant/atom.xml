@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-24T12:57:24.920Z</updated>
+    <updated>2022-06-24T14:06:14.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Waaard For Login在60秒或更短時間內建立登錄流程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31861331</id>
+        <link href="https://news.ycombinator.com/item?id=31861331"/>
+        <updated>2022-06-24T13:20:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build login flows in 60 seconds or less with Waaard For Login]]></summary>
+        <author>
+            <name>hardwaresofton</name>
+            <uri>https://news.ycombinator.com/user?id=hardwaresofton</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我建立了一個在瀏覽器中運行的反應式ORM
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31861191</id>
+        <link href="https://news.ycombinator.com/item?id=31861191"/>
+        <updated>2022-06-24T13:09:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a reactive ORM that runs in the browser]]></summary>
+        <author>
+            <name>tantaman</name>
+            <uri>https://news.ycombinator.com/user?id=tantaman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個全棧式的Clojure/Script方言，具有可管理的客戶端/服務器數據同步功能
 ]]></title>
@@ -7166,28 +7190,6 @@
         <author>
             <name>ImpressiveWebs</name>
             <uri>https://news.ycombinator.com/user?id=ImpressiveWebs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新的尋路算法]]></title>
-        <id>https://news.ycombinator.com/item?id=31184706</id>
-        <link href="https://news.ycombinator.com/item?id=31184706"/>
-        <updated>2022-04-27T19:34:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: New Pathfinding Algorithm]]></summary>
-        <author>
-            <name>YesBox</name>
-            <uri>https://news.ycombinator.com/user?id=YesBox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我寫了自己的編程語言來解決leetcode問題]]></title>
-        <id>https://news.ycombinator.com/item?id=31184426</id>
-        <link href="https://news.ycombinator.com/item?id=31184426"/>
-        <updated>2022-04-27T19:10:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I wrote my own programming language to solve leetcode]]></summary>
-        <author>
-            <name>glouwbug</name>
-            <uri>https://news.ycombinator.com/user?id=glouwbug</uri>
         </author>
     </entry>
 </feed>

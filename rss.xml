@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 24 Jun 2022 12:57:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 14:06:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Waaard For Login在60秒或更短时间内建立登录流程
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31861331</link>
+            <guid>https://news.ycombinator.com/item?id=31861331</guid>
+            <pubDate>Fri, 24 Jun 2022 13:20:41 GMT</pubDate>
+            <description><![CDATA[Show HN: Build login flows in 60 seconds or less with Waaard For Login]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我建立了一个在浏览器中运行的反应式ORM
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31861191</link>
+            <guid>https://news.ycombinator.com/item?id=31861191</guid>
+            <pubDate>Fri, 24 Jun 2022 13:09:40 GMT</pubDate>
+            <description><![CDATA[Show HN: I built a reactive ORM that runs in the browser]]></description>
+        </item>
         <item>
             <title><![CDATA[一个全栈式的Clojure/Script方言，具有可管理的客户端/服务器数据同步功能
 ]]></title>
@@ -4774,20 +4790,6 @@
             <guid>https://news.ycombinator.com/item?id=31184930</guid>
             <pubDate>Wed, 27 Apr 2022 19:54:53 GMT</pubDate>
             <description><![CDATA[Show HN: VSCode.Email – A Newsletter on VS Code and Other IDEs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[新的寻路算法]]></title>
-            <link>https://news.ycombinator.com/item?id=31184706</link>
-            <guid>https://news.ycombinator.com/item?id=31184706</guid>
-            <pubDate>Wed, 27 Apr 2022 19:34:14 GMT</pubDate>
-            <description><![CDATA[Show HN: New Pathfinding Algorithm]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我写了自己的编程语言来解决leetcode问题]]></title>
-            <link>https://news.ycombinator.com/item?id=31184426</link>
-            <guid>https://news.ycombinator.com/item?id=31184426</guid>
-            <pubDate>Wed, 27 Apr 2022 19:10:59 GMT</pubDate>
-            <description><![CDATA[Show HN: I wrote my own programming language to solve leetcode]]></description>
         </item>
     </channel>
 </rss>
