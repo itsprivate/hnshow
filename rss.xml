@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 24 Jun 2022 15:38:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 15:55:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们为多模态机器人行为训练了一个（迷你）GPT
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31863974</link>
+            <guid>https://news.ycombinator.com/item?id=31863974</guid>
+            <pubDate>Fri, 24 Jun 2022 15:43:19 GMT</pubDate>
+            <description><![CDATA[Show HN: We trained a (mini) GPT for multi-modal robot behaviors]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我开发了一种快速的通用排序算法
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31845994</link>
+            <guid>https://news.ycombinator.com/item?id=31845994</guid>
+            <pubDate>Thu, 23 Jun 2022 07:05:40 GMT</pubDate>
+            <description><![CDATA[Show HN: I developed a fast general purpose sorting algorithm]]></description>
+        </item>
         <item>
             <title><![CDATA[Splitwise的替代品，更简约，没有广告，没有账户
 ]]></title>
@@ -4777,20 +4793,6 @@
             <guid>https://news.ycombinator.com/item?id=31184968</guid>
             <pubDate>Wed, 27 Apr 2022 19:58:28 GMT</pubDate>
             <description><![CDATA[Show HN: We built 50+ coming soon pages with Tailwind CSS cause we couldn't find]]></description>
-        </item>
-        <item>
-            <title><![CDATA[gldap v0.1.1]]></title>
-            <link>https://news.ycombinator.com/item?id=31185222</link>
-            <guid>https://news.ycombinator.com/item?id=31185222</guid>
-            <pubDate>Wed, 27 Apr 2022 20:20:00 GMT</pubDate>
-            <description><![CDATA[Show HN: gldap v0.1.1]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用假的iMessage弹出窗口创造尴尬的局面]]></title>
-            <link>https://news.ycombinator.com/item?id=31185121</link>
-            <guid>https://news.ycombinator.com/item?id=31185121</guid>
-            <pubDate>Wed, 27 Apr 2022 20:11:59 GMT</pubDate>
-            <description><![CDATA[Show HN: Create awkward situations with a fake iMessage Popup]]></description>
         </item>
     </channel>
 </rss>
