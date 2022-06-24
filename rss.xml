@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 24 Jun 2022 11:59:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 12:57:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个全栈式的Clojure/Script方言，具有可管理的客户端/服务器数据同步功能
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31860478</link>
+            <guid>https://news.ycombinator.com/item?id=31860478</guid>
+            <pubDate>Fri, 24 Jun 2022 12:00:52 GMT</pubDate>
+            <description><![CDATA[Show HN: A full-stack Clojure/Script dialect with managed client/server datasync]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Webpc - 每月2美元的有线VPN，没有记录
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31860449</link>
+            <guid>https://news.ycombinator.com/item?id=31860449</guid>
+            <pubDate>Fri, 24 Jun 2022 11:57:26 GMT</pubDate>
+            <description><![CDATA[Show HN: Webpc – 2$ per month wireguared VPN, no logs]]></description>
+        </item>
         <item>
             <title><![CDATA[使用视觉密码学的物理钥匙圈
 ]]></title>
@@ -4772,20 +4788,6 @@
             <guid>https://news.ycombinator.com/item?id=31184426</guid>
             <pubDate>Wed, 27 Apr 2022 19:10:59 GMT</pubDate>
             <description><![CDATA[Show HN: I wrote my own programming language to solve leetcode]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Alceris - 关注隐私的分析解决方案]]></title>
-            <link>https://news.ycombinator.com/item?id=31184223</link>
-            <guid>https://news.ycombinator.com/item?id=31184223</guid>
-            <pubDate>Wed, 27 Apr 2022 18:55:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Alceris – Privacy focused analytics solution]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用动画图表的一键式互动源代码统计]]></title>
-            <link>https://news.ycombinator.com/item?id=31182594</link>
-            <guid>https://news.ycombinator.com/item?id=31182594</guid>
-            <pubDate>Wed, 27 Apr 2022 16:59:27 GMT</pubDate>
-            <description><![CDATA[Show HN: One-click interactive source code stats using animated charts]]></description>
         </item>
     </channel>
 </rss>
