@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-23T22:47:57.887Z</updated>
+    <updated>2022-06-24T04:00:44.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[簡單的徽章--你最喜歡的Shield.io徽章上的簡單圖標
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31857414</id>
+        <link href="https://news.ycombinator.com/item?id=31857414"/>
+        <updated>2022-06-24T03:16:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Simple Badges – Simple Icons on Your Favorite Shields.io Badges]]></summary>
+        <author>
+            <name>devStorms</name>
+            <uri>https://news.ycombinator.com/user?id=devStorms</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[勇敢的Goggle，將政治中間派的新聞來源剔除。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31857270</id>
+        <link href="https://news.ycombinator.com/item?id=31857270"/>
+        <updated>2022-06-24T02:45:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Brave Goggle that upranks news sources that are politically centrist]]></summary>
+        <author>
+            <name>upwardbound</name>
+            <uri>https://news.ycombinator.com/user?id=upwardbound</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通過SSH探索遠程SQLite數據庫
 ]]></title>
@@ -7152,28 +7176,6 @@
         <author>
             <name>abqdeveloper</name>
             <uri>https://news.ycombinator.com/user?id=abqdeveloper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECAppLog - 為程序員提供的網絡化日誌GUI]]></title>
-        <id>https://news.ycombinator.com/item?id=31180537</id>
-        <link href="https://news.ycombinator.com/item?id=31180537"/>
-        <updated>2022-04-27T14:46:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ECAppLog – a networked logging GUI for programmers]]></summary>
-        <author>
-            <name>rangelreale</name>
-            <uri>https://news.ycombinator.com/user?id=rangelreale</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlockPoll - 基於區塊鏈的去中心化投票（開放源碼）。]]></title>
-        <id>https://news.ycombinator.com/item?id=31180246</id>
-        <link href="https://news.ycombinator.com/item?id=31180246"/>
-        <updated>2022-04-27T14:22:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: BlockPoll – Decentralized Blockchain-Based Polling (OSS)]]></summary>
-        <author>
-            <name>rijulgulati</name>
-            <uri>https://news.ycombinator.com/user?id=rijulgulati</uri>
         </author>
     </entry>
 </feed>
