@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-24T16:47:50.783Z</updated>
+    <updated>2022-06-24T17:58:34.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Apollo - 用于查询区块链数据的ETL工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31866377</id>
+        <link href="https://news.ycombinator.com/item?id=31866377"/>
+        <updated>2022-06-24T17:40:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Apollo – ETL tool for querying blockchain data]]></summary>
+        <author>
+            <name>jonasbostoen</name>
+            <uri>https://news.ycombinator.com/user?id=jonasbostoen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生成艺术平台。去探索
 ]]></title>
@@ -7183,17 +7195,6 @@
         <author>
             <name>fedeb95</name>
             <uri>https://news.ycombinator.com/user?id=fedeb95</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二十几个3D标志游戏，你可以在浏览器中玩和编辑。]]></title>
-        <id>https://news.ycombinator.com/item?id=31186500</id>
-        <link href="https://news.ycombinator.com/item?id=31186500"/>
-        <updated>2022-04-27T22:14:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Two dozen 3D Logo games you can play and edit in the browser]]></summary>
-        <author>
-            <name>empressplay</name>
-            <uri>https://news.ycombinator.com/user?id=empressplay</uri>
         </author>
     </entry>
 </feed>
