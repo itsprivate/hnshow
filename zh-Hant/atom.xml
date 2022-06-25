@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-25T13:58:20.848Z</updated>
+    <updated>2022-06-25T14:24:57.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[費里斯，與您最親密的朋友進行IRL活動的社交網絡
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31875354</id>
+        <link href="https://news.ycombinator.com/item?id=31875354"/>
+        <updated>2022-06-25T14:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Ferris, social network for IRL activities with your closest friends]]></summary>
+        <author>
+            <name>earlyriser</name>
+            <uri>https://news.ycombinator.com/user?id=earlyriser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用C++編寫的Python對bzip2文件的並行化隨機訪問
 ]]></title>
@@ -7194,17 +7206,6 @@
         <author>
             <name>shadev</name>
             <uri>https://news.ycombinator.com/user?id=shadev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bonjourr - 靈感來自iOS的極簡主義瀏覽器主頁]]></title>
-        <id>https://news.ycombinator.com/item?id=31190330</id>
-        <link href="https://news.ycombinator.com/item?id=31190330"/>
-        <updated>2022-04-28T09:18:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bonjourr · Minimalist browser homepage inspired by iOS]]></summary>
-        <author>
-            <name>morceaudebois</name>
-            <uri>https://news.ycombinator.com/user?id=morceaudebois</uri>
         </author>
     </entry>
 </feed>
