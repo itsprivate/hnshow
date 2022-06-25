@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 25 Jun 2022 12:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 13:58:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用C++编写的Python对bzip2文件的并行化随机访问
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31875318</link>
+            <guid>https://news.ycombinator.com/item?id=31875318</guid>
+            <pubDate>Sat, 25 Jun 2022 13:54:38 GMT</pubDate>
+            <description><![CDATA[Show HN: Parallelized random access to bzip2 files from Python written in C++]]></description>
+        </item>
         <item>
             <title><![CDATA[用简单的语言编写一个简单的游戏，并在智能手机上运行。
 ]]></title>
@@ -4797,13 +4805,6 @@
             <guid>https://news.ycombinator.com/item?id=31190330</guid>
             <pubDate>Thu, 28 Apr 2022 09:18:11 GMT</pubDate>
             <description><![CDATA[Show HN: Bonjourr · Minimalist browser homepage inspired by iOS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hatch 1.0.0 - 现代、可扩展的Python项目管理]]></title>
-            <link>https://news.ycombinator.com/item?id=31190027</link>
-            <guid>https://news.ycombinator.com/item?id=31190027</guid>
-            <pubDate>Thu, 28 Apr 2022 08:22:47 GMT</pubDate>
-            <description><![CDATA[Show HN: Hatch 1.0.0 – Modern, extensible Python project management]]></description>
         </item>
     </channel>
 </rss>
