@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-25T08:34:49.517Z</updated>
+    <updated>2022-06-25T11:01:07.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Git-bug的可重复使用的数据模型
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31874192</id>
+        <link href="https://news.ycombinator.com/item?id=31874192"/>
+        <updated>2022-06-25T10:51:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Git-bug's reusable data model]]></summary>
+        <author>
+            <name>michaelmure</name>
+            <uri>https://news.ycombinator.com/user?id=michaelmure</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[肢解 - 扫描记忆中的秘密和有趣的信息
 ]]></title>
@@ -7191,17 +7203,6 @@
         <author>
             <name>cagigas</name>
             <uri>https://news.ycombinator.com/user?id=cagigas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不用花200小时就能了解关于无代码的一切]]></title>
-        <id>https://news.ycombinator.com/item?id=31189747</id>
-        <link href="https://news.ycombinator.com/item?id=31189747"/>
-        <updated>2022-04-28T07:36:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Learn everything about no-code without spending 200 hours]]></summary>
-        <author>
-            <name>fullmamel</name>
-            <uri>https://news.ycombinator.com/user?id=fullmamel</uri>
         </author>
     </entry>
 </feed>
