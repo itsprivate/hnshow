@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-25T14:24:57.446Z</updated>
+    <updated>2022-06-25T14:44:13.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[寻路展示台
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31875580</id>
+        <link href="https://news.ycombinator.com/item?id=31875580"/>
+        <updated>2022-06-25T14:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pathfinding Visualizer]]></summary>
+        <author>
+            <name>honzaaap</name>
+            <uri>https://news.ycombinator.com/user?id=honzaaap</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[费里斯，与您最亲密的朋友进行IRL活动的社交网络
 ]]></title>
@@ -7195,17 +7207,6 @@
         <author>
             <name>rajasimon</name>
             <uri>https://news.ycombinator.com/user?id=rajasimon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据服务的统一接口]]></title>
-        <id>https://news.ycombinator.com/item?id=31190546</id>
-        <link href="https://news.ycombinator.com/item?id=31190546"/>
-        <updated>2022-04-28T09:45:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Unified Interface for Data Services]]></summary>
-        <author>
-            <name>shadev</name>
-            <uri>https://news.ycombinator.com/user?id=shadev</uri>
         </author>
     </entry>
 </feed>

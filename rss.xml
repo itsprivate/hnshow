@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 25 Jun 2022 14:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 14:44:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[寻路展示台
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31875580</link>
+            <guid>https://news.ycombinator.com/item?id=31875580</guid>
+            <pubDate>Sat, 25 Jun 2022 14:30:19 GMT</pubDate>
+            <description><![CDATA[Show HN: Pathfinding Visualizer]]></description>
+        </item>
         <item>
             <title><![CDATA[费里斯，与您最亲密的朋友进行IRL活动的社交网络
 ]]></title>
@@ -4799,13 +4807,6 @@
             <guid>https://news.ycombinator.com/item?id=31190547</guid>
             <pubDate>Thu, 28 Apr 2022 09:45:37 GMT</pubDate>
             <description><![CDATA[Show HN: Alternative Google Analytics Dashboard]]></description>
-        </item>
-        <item>
-            <title><![CDATA[数据服务的统一接口]]></title>
-            <link>https://news.ycombinator.com/item?id=31190546</link>
-            <guid>https://news.ycombinator.com/item?id=31190546</guid>
-            <pubDate>Thu, 28 Apr 2022 09:45:25 GMT</pubDate>
-            <description><![CDATA[Show HN: Unified Interface for Data Services]]></description>
         </item>
     </channel>
 </rss>
