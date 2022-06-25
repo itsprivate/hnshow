@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-24T22:31:02.485Z</updated>
+    <updated>2022-06-25T02:33:38.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基於OpenAI的CLIP的私人照片搜索應用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31871056</id>
+        <link href="https://news.ycombinator.com/item?id=31871056"/>
+        <updated>2022-06-25T00:04:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Private photo search app based on OpenAI's CLIP]]></summary>
+        <author>
+            <name>spullara</name>
+            <uri>https://news.ycombinator.com/user?id=spullara</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推特贊助鏈接的廣告數量（關閉廣告屏蔽）。
 ]]></title>
@@ -7188,17 +7200,6 @@
         <author>
             <name>kbst</name>
             <uri>https://news.ycombinator.com/user?id=kbst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ielts口語博客。有效果的專業演講練習]]></title>
-        <id>https://news.ycombinator.com/item?id=31189065</id>
-        <link href="https://news.ycombinator.com/item?id=31189065"/>
-        <updated>2022-04-28T05:27:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ielts Speaking Blog: Specialised speech exercises that get results]]></summary>
-        <author>
-            <name>kimchidude</name>
-            <uri>https://news.ycombinator.com/user?id=kimchidude</uri>
         </author>
     </entry>
 </feed>
