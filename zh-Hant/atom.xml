@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-25T11:01:07.878Z</updated>
+    <updated>2022-06-25T12:45:47.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用簡單的語言編寫一個簡單的遊戲，並在智能手機上運行。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31874734</id>
+        <link href="https://news.ycombinator.com/item?id=31874734"/>
+        <updated>2022-06-25T12:32:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Program a simple game in a simple language and run it on the smartphone]]></summary>
+        <author>
+            <name>chkas</name>
+            <uri>https://news.ycombinator.com/user?id=chkas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Git-bug的可重複使用的數據模型
 ]]></title>
@@ -7192,17 +7204,6 @@
         <author>
             <name>ofek</name>
             <uri>https://news.ycombinator.com/user?id=ofek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edworking - 多合一的團隊生產力平臺]]></title>
-        <id>https://news.ycombinator.com/item?id=31190014</id>
-        <link href="https://news.ycombinator.com/item?id=31190014"/>
-        <updated>2022-04-28T08:21:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Edworking – All-in-one productivity platform for teams]]></summary>
-        <author>
-            <name>cagigas</name>
-            <uri>https://news.ycombinator.com/user?id=cagigas</uri>
         </author>
     </entry>
 </feed>
