@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-26T00:53:47.928Z</updated>
+    <updated>2022-06-26T02:46:40.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[计算机生成的酸式广播
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31873451</id>
+        <link href="https://news.ycombinator.com/item?id=31873451"/>
+        <updated>2022-06-25T08:16:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Computer Generated Acid Radio]]></summary>
+        <author>
+            <name>web_user</name>
+            <uri>https://news.ycombinator.com/user?id=web_user</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tone v0.0.4 - 现在是可黑化的命令行音频标记器，任何反馈？
 ]]></title>
@@ -7201,17 +7213,6 @@
         <author>
             <name>blackbrokkoli</name>
             <uri>https://news.ycombinator.com/user?id=blackbrokkoli</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数以百万计的NFT的语义搜索]]></title>
-        <id>https://news.ycombinator.com/item?id=31191872</id>
-        <link href="https://news.ycombinator.com/item?id=31191872"/>
-        <updated>2022-04-28T12:55:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Semantic Search of Millions of NFTs]]></summary>
-        <author>
-            <name>saintarian</name>
-            <uri>https://news.ycombinator.com/user?id=saintarian</uri>
         </author>
     </entry>
 </feed>
