@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 26 Jun 2022 15:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 23:00:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,70 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个可以使用的任天堂游戏机背包
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31888348</link>
+            <guid>https://news.ycombinator.com/item?id=31888348</guid>
+            <pubDate>Sun, 26 Jun 2022 21:46:14 GMT</pubDate>
+            <description><![CDATA[Show HN: A Working Nintendo Gameboy Backpack]]></description>
+        </item>
+        <item>
+            <title><![CDATA[街头美食乐--每天猜测街头美食的游戏
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31888327</link>
+            <guid>https://news.ycombinator.com/item?id=31888327</guid>
+            <pubDate>Sun, 26 Jun 2022 21:44:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Street Foodle – a daily guessing game of street food]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Trkl，一个微小的可观察变量库，383字节
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31888206</link>
+            <guid>https://news.ycombinator.com/item?id=31888206</guid>
+            <pubDate>Sun, 26 Jun 2022 21:31:38 GMT</pubDate>
+            <description><![CDATA[Show HN: Trkl, a tiny observables library, 383 bytes]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Isthisabearmarket.com
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31887383</link>
+            <guid>https://news.ycombinator.com/item?id=31887383</guid>
+            <pubDate>Sun, 26 Jun 2022 19:57:29 GMT</pubDate>
+            <description><![CDATA[Show HN: Isthisabearmarket.com]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一个静态编译的32位Wine，因为为什么不呢？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31886551</link>
+            <guid>https://news.ycombinator.com/item?id=31886551</guid>
+            <pubDate>Sun, 26 Jun 2022 18:30:18 GMT</pubDate>
+            <description><![CDATA[Show HN: A statically compiled 32-bit Wine because why not?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CRProxy是一个简单而实惠的ngrok替代品
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31886120</link>
+            <guid>https://news.ycombinator.com/item?id=31886120</guid>
+            <pubDate>Sun, 26 Jun 2022 17:49:49 GMT</pubDate>
+            <description><![CDATA[Show HN: CRProxy is a simple and affordable ngrok alternative]]></description>
+        </item>
+        <item>
+            <title><![CDATA[移植到Scala 3的简单游戏--在浏览器中尝试它们
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31885272</link>
+            <guid>https://news.ycombinator.com/item?id=31885272</guid>
+            <pubDate>Sun, 26 Jun 2022 16:19:08 GMT</pubDate>
+            <description><![CDATA[Show HN: Simple games ported to Scala 3 – Try them in the browser]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MiniMail - 面向所有人的一次性电子邮件服务
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31885142</link>
+            <guid>https://news.ycombinator.com/item?id=31885142</guid>
+            <pubDate>Sun, 26 Jun 2022 16:02:32 GMT</pubDate>
+            <description><![CDATA[Show HN: MiniMail – Disposable Email Service for Everyone]]></description>
+        </item>
         <item>
             <title><![CDATA[带有内置编辑器的词汇页模板
 ]]></title>
@@ -4749,70 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31591042</guid>
             <pubDate>Thu, 02 Jun 2022 03:39:47 GMT</pubDate>
             <description><![CDATA[Show HN: Simple and self-hosted URL shortener]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有史以来第一次在WebAssembly上原生运行Common Lisp
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31590819</link>
-            <guid>https://news.ycombinator.com/item?id=31590819</guid>
-            <pubDate>Thu, 02 Jun 2022 03:02:52 GMT</pubDate>
-            <description><![CDATA[Show HN: Common Lisp running natively over WebAssembly for the first time ever]]></description>
-        </item>
-        <item>
-            <title><![CDATA[spotify-player - 一个命令驱动的Spotify播放器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31590090</link>
-            <guid>https://news.ycombinator.com/item?id=31590090</guid>
-            <pubDate>Thu, 02 Jun 2022 00:58:49 GMT</pubDate>
-            <description><![CDATA[Show HN: spotify-player – A command driven Spotify player]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为设计师提供的手绘涂鸦、箭头和形状[免费]。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31589253</link>
-            <guid>https://news.ycombinator.com/item?id=31589253</guid>
-            <pubDate>Wed, 01 Jun 2022 23:02:25 GMT</pubDate>
-            <description><![CDATA[Show HN: Hand-drawn scribbles, arrows and shapes for designers [free]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[做股票研究快30倍 10k,10q,ir,工业avgs一键搞定
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31589000</link>
-            <guid>https://news.ycombinator.com/item?id=31589000</guid>
-            <pubDate>Wed, 01 Jun 2022 22:32:38 GMT</pubDate>
-            <description><![CDATA[Show HN: Do Stock Research 30times faster 10k,10q,ir,industryavgs in one click]]></description>
-        </item>
-        <item>
-            <title><![CDATA[少年创建社会新闻网站
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31588533</link>
-            <guid>https://news.ycombinator.com/item?id=31588533</guid>
-            <pubDate>Wed, 01 Jun 2022 21:43:22 GMT</pubDate>
-            <description><![CDATA[Show HN: Teenager create social news website]]></description>
-        </item>
-        <item>
-            <title><![CDATA[创意拉面--一个有点不同的域名生成器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31588389</link>
-            <guid>https://news.ycombinator.com/item?id=31588389</guid>
-            <pubDate>Wed, 01 Jun 2022 21:29:32 GMT</pubDate>
-            <description><![CDATA[Show HN: Idea ramen – a little different domain name generator]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用于CodeMirror的漂亮的开源主题
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31587951</link>
-            <guid>https://news.ycombinator.com/item?id=31587951</guid>
-            <pubDate>Wed, 01 Jun 2022 20:54:31 GMT</pubDate>
-            <description><![CDATA[Show HN: Beautiful open-source themes for CodeMirror]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在你的终端上展示名画
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31587573</link>
-            <guid>https://news.ycombinator.com/item?id=31587573</guid>
-            <pubDate>Wed, 01 Jun 2022 20:25:25 GMT</pubDate>
-            <description><![CDATA[Show HN: Display famous paintings on your Terminal]]></description>
         </item>
     </channel>
 </rss>
