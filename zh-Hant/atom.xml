@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-26T14:24:50.502Z</updated>
+    <updated>2022-06-26T15:50:33.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[帶有內置編輯器的詞彙頁模板
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31884932</id>
+        <link href="https://news.ycombinator.com/item?id=31884932"/>
+        <updated>2022-06-26T15:37:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Glossary page template with a built-in editor]]></summary>
+        <author>
+            <name>hilverd</name>
+            <uri>https://news.ycombinator.com/user?id=hilverd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個微小的(850B)、快速的、通過函數實現的反應性觀測數據庫
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>the_monocle</name>
             <uri>https://news.ycombinator.com/user?id=the_monocle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我和一個朋友花了6年時間做了一個模擬遊戲，終於發佈了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31586833</id>
-        <link href="https://news.ycombinator.com/item?id=31586833"/>
-        <updated>2022-06-01T19:31:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A friend and I spent 6 years making a simulation game, finally released]]></summary>
-        <author>
-            <name>iliketrains</name>
-            <uri>https://news.ycombinator.com/user?id=iliketrains</uri>
         </author>
     </entry>
 </feed>
