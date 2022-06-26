@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 26 Jun 2022 13:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 14:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個微小的(850B)、快速的、通過函數實現的反應性觀測數據庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31884038</link>
+            <guid>https://news.ycombinator.com/item?id=31884038</guid>
+            <pubDate>Sun, 26 Jun 2022 13:57:53 GMT</pubDate>
+            <description><![CDATA[Show HN: A tiny (850B) and fast reactive observables library via functions]]></description>
+        </item>
         <item>
             <title><![CDATA[我一直在創建一個工具來分析區塊鏈數據
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31586833</guid>
             <pubDate>Wed, 01 Jun 2022 19:31:47 GMT</pubDate>
             <description><![CDATA[Show HN: A friend and I spent 6 years making a simulation game, finally released]]></description>
-        </item>
-        <item>
-            <title><![CDATA[更有效的蒼蠅拍
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31586284</link>
-            <guid>https://news.ycombinator.com/item?id=31586284</guid>
-            <pubDate>Wed, 01 Jun 2022 18:43:02 GMT</pubDate>
-            <description><![CDATA[Show HN: More Effective Fly Swatter]]></description>
         </item>
     </channel>
 </rss>

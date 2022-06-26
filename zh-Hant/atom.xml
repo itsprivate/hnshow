@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-26T13:17:20.494Z</updated>
+    <updated>2022-06-26T14:24:50.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個微小的(850B)、快速的、通過函數實現的反應性觀測數據庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31884038</id>
+        <link href="https://news.ycombinator.com/item?id=31884038"/>
+        <updated>2022-06-26T13:57:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A tiny (850B) and fast reactive observables library via functions]]></summary>
+        <author>
+            <name>rahim_alwer</name>
+            <uri>https://news.ycombinator.com/user?id=rahim_alwer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我一直在創建一個工具來分析區塊鏈數據
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>iliketrains</name>
             <uri>https://news.ycombinator.com/user?id=iliketrains</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更有效的蒼蠅拍
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31586284</id>
-        <link href="https://news.ycombinator.com/item?id=31586284"/>
-        <updated>2022-06-01T18:43:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: More Effective Fly Swatter]]></summary>
-        <author>
-            <name>tamaharbor</name>
-            <uri>https://news.ycombinator.com/user?id=tamaharbor</uri>
         </author>
     </entry>
 </feed>
