@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-25T17:49:58.594Z</updated>
+    <updated>2022-06-26T00:53:47.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Tone v0.0.4 - 现在是可黑化的命令行音频标记器，任何反馈？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31879133</id>
+        <link href="https://news.ycombinator.com/item?id=31879133"/>
+        <updated>2022-06-25T22:07:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tone v0.0.4 – now hackable command line audio tagger, any feedback?]]></summary>
+        <author>
+            <name>sandreas</name>
+            <uri>https://news.ycombinator.com/user?id=sandreas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medots - 部署dot文件的跨平台工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31879091</id>
+        <link href="https://news.ycombinator.com/item?id=31879091"/>
+        <updated>2022-06-25T22:01:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Medots – Cross-platform tool to deploy dot files]]></summary>
+        <author>
+            <name>goodkernel</name>
+            <uri>https://news.ycombinator.com/user?id=goodkernel</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用dbt在SQL中进行产品分析
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31877959</id>
+        <link href="https://news.ycombinator.com/item?id=31877959"/>
+        <updated>2022-06-25T19:23:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Product Analytics in SQL with dbt]]></summary>
+        <author>
+            <name>mjirv</name>
+            <uri>https://news.ycombinator.com/user?id=mjirv</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[羽--90%的彭博终端，价格为5%。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31877584</id>
+        <link href="https://news.ycombinator.com/item?id=31877584"/>
+        <updated>2022-06-25T18:35:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Feather – 90 percent of Bloomberg terminal, for 5 percent of the price]]></summary>
+        <author>
+            <name>akrai</name>
+            <uri>https://news.ycombinator.com/user?id=akrai</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unzip-HTTP - 通过HTTP提取文件
 ]]></title>
@@ -7164,50 +7212,6 @@
         <author>
             <name>saintarian</name>
             <uri>https://news.ycombinator.com/user?id=saintarian</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[带有Rust运行时间的Python网络框架]]></title>
-        <id>https://news.ycombinator.com/item?id=31191551</id>
-        <link href="https://news.ycombinator.com/item?id=31191551"/>
-        <updated>2022-04-28T12:12:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Python Web Framework with Rust Runtime]]></summary>
-        <author>
-            <name>hjxgoliath</name>
-            <uri>https://news.ycombinator.com/user?id=hjxgoliath</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日加密货币新闻提示]]></title>
-        <id>https://news.ycombinator.com/item?id=31191398</id>
-        <link href="https://news.ycombinator.com/item?id=31191398"/>
-        <updated>2022-04-28T11:51:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Daily Crypto News Alerts]]></summary>
-        <author>
-            <name>spdydve</name>
-            <uri>https://news.ycombinator.com/user?id=spdydve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jina NOW - 多模态神经搜索的低代码解决方案]]></title>
-        <id>https://news.ycombinator.com/item?id=31190953</id>
-        <link href="https://news.ycombinator.com/item?id=31190953"/>
-        <updated>2022-04-28T10:45:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Jina NOW – lowcode solution for multimodal neural search]]></summary>
-        <author>
-            <name>gapovaj742</name>
-            <uri>https://news.ycombinator.com/user?id=gapovaj742</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jina NOW - 多模态搜索的单线工具]]></title>
-        <id>https://news.ycombinator.com/item?id=31190880</id>
-        <link href="https://news.ycombinator.com/item?id=31190880"/>
-        <updated>2022-04-28T10:34:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Jina NOW - A one line tool for multimodal search]]></summary>
-        <author>
-            <name>gapovaj742</name>
-            <uri>https://news.ycombinator.com/user?id=gapovaj742</uri>
         </author>
     </entry>
 </feed>
