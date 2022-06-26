@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 26 Jun 2022 11:58:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 12:45:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[粒子 - URL包含整個程序代碼
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31883209</link>
+            <guid>https://news.ycombinator.com/item?id=31883209</guid>
+            <pubDate>Sun, 26 Jun 2022 12:07:02 GMT</pubDate>
+            <description><![CDATA[Show HN: Particles – the URL contains the whole program code]]></description>
+        </item>
         <item>
             <title><![CDATA[Rupt - 能為你找到更好的股票的人工智能
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31586076</guid>
             <pubDate>Wed, 01 Jun 2022 18:29:34 GMT</pubDate>
             <description><![CDATA[Show HN: A collection of sysadmin utilities, in a single binary]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個用於跟蹤、繪製和調用移動物體的webhooks的API
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31586036</link>
-            <guid>https://news.ycombinator.com/item?id=31586036</guid>
-            <pubDate>Wed, 01 Jun 2022 18:27:14 GMT</pubDate>
-            <description><![CDATA[Show HN: An API to track, plot and call webhooks for moving objects]]></description>
         </item>
     </channel>
 </rss>

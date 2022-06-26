@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-26T11:58:19.566Z</updated>
+    <updated>2022-06-26T12:45:52.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[粒子 - URL包含整个程序代码
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31883209</id>
+        <link href="https://news.ycombinator.com/item?id=31883209"/>
+        <updated>2022-06-26T12:07:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Particles – the URL contains the whole program code]]></summary>
+        <author>
+            <name>chkas</name>
+            <uri>https://news.ycombinator.com/user?id=chkas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rupt - 能为你找到更好的股票的人工智能
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>stevekemp</name>
             <uri>https://news.ycombinator.com/user?id=stevekemp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个用于跟踪、绘制和调用移动物体的webhooks的API
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31586036</id>
-        <link href="https://news.ycombinator.com/item?id=31586036"/>
-        <updated>2022-06-01T18:27:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An API to track, plot and call webhooks for moving objects]]></summary>
-        <author>
-            <name>alem</name>
-            <uri>https://news.ycombinator.com/user?id=alem</uri>
         </author>
     </entry>
 </feed>
