@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 26 Jun 2022 12:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 13:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我一直在创建一个工具来分析区块链数据
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31883519</link>
+            <guid>https://news.ycombinator.com/item?id=31883519</guid>
+            <pubDate>Sun, 26 Jun 2022 13:02:21 GMT</pubDate>
+            <description><![CDATA[Show HN: I have been creating a tool to analyse blockchain data]]></description>
+        </item>
         <item>
             <title><![CDATA[粒子 - URL包含整个程序代码
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31586284</guid>
             <pubDate>Wed, 01 Jun 2022 18:43:02 GMT</pubDate>
             <description><![CDATA[Show HN: More Effective Fly Swatter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在一个单一的二进制文件中收集系统管理员的实用程序
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31586076</link>
-            <guid>https://news.ycombinator.com/item?id=31586076</guid>
-            <pubDate>Wed, 01 Jun 2022 18:29:34 GMT</pubDate>
-            <description><![CDATA[Show HN: A collection of sysadmin utilities, in a single binary]]></description>
         </item>
     </channel>
 </rss>

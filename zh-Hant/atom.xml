@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-26T12:45:52.181Z</updated>
+    <updated>2022-06-26T13:17:20.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我一直在創建一個工具來分析區塊鏈數據
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31883519</id>
+        <link href="https://news.ycombinator.com/item?id=31883519"/>
+        <updated>2022-06-26T13:02:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I have been creating a tool to analyse blockchain data]]></summary>
+        <author>
+            <name>keooodev</name>
+            <uri>https://news.ycombinator.com/user?id=keooodev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[粒子 - URL包含整個程序代碼
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tamaharbor</name>
             <uri>https://news.ycombinator.com/user?id=tamaharbor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在一個單一的二進制文件中收集系統管理員的實用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31586076</id>
-        <link href="https://news.ycombinator.com/item?id=31586076"/>
-        <updated>2022-06-01T18:29:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A collection of sysadmin utilities, in a single binary]]></summary>
-        <author>
-            <name>stevekemp</name>
-            <uri>https://news.ycombinator.com/user?id=stevekemp</uri>
         </author>
     </entry>
 </feed>
