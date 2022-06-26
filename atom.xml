@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-26T23:00:37.262Z</updated>
+    <updated>2022-06-26T23:28:32.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个纯围棋的帧缓冲控制台查看器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31889025</id>
+        <link href="https://news.ycombinator.com/item?id=31889025"/>
+        <updated>2022-06-26T23:16:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A framebuffer console viewer, pure Go]]></summary>
+        <author>
+            <name>cyansmoker</name>
+            <uri>https://news.ycombinator.com/user?id=cyansmoker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个可以使用的任天堂游戏机背包
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mikeadev</name>
             <uri>https://news.ycombinator.com/user?id=mikeadev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简单和自我托管的URL缩短器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31591042</id>
-        <link href="https://news.ycombinator.com/item?id=31591042"/>
-        <updated>2022-06-02T03:39:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Simple and self-hosted URL shortener]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
         </author>
     </entry>
 </feed>
