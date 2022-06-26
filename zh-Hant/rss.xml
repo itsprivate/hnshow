@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 26 Jun 2022 08:49:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 11:58:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Rupt - 能為你找到更好的股票的人工智能
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31883093</link>
+            <guid>https://news.ycombinator.com/item?id=31883093</guid>
+            <pubDate>Sun, 26 Jun 2022 11:46:53 GMT</pubDate>
+            <description><![CDATA[Show HN: Rupt – AI that finds you better stocks]]></description>
+        </item>
         <item>
             <title><![CDATA[在K3s/Kubernetes集群上運行Ghost
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31586036</guid>
             <pubDate>Wed, 01 Jun 2022 18:27:14 GMT</pubDate>
             <description><![CDATA[Show HN: An API to track, plot and call webhooks for moving objects]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基於捐贈的簡易Mumble主機
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31585989</link>
-            <guid>https://news.ycombinator.com/item?id=31585989</guid>
-            <pubDate>Wed, 01 Jun 2022 18:24:15 GMT</pubDate>
-            <description><![CDATA[Show HN: Easy donation based mumble hosting]]></description>
         </item>
     </channel>
 </rss>
