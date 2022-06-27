@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-26T23:28:32.197Z</updated>
+    <updated>2022-06-27T10:21:06.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Chrome扩展模板 repo
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31892265</id>
+        <link href="https://news.ycombinator.com/item?id=31892265"/>
+        <updated>2022-06-27T09:21:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Chrome extension template repo]]></summary>
+        <author>
+            <name>jebraat</name>
+            <uri>https://news.ycombinator.com/user?id=jebraat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typemat.com - 转换博客/网站中的任何公共谷歌驱动器文件夹
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31892219</id>
+        <link href="https://news.ycombinator.com/item?id=31892219"/>
+        <updated>2022-06-27T09:14:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Typemat.com – Convert any public Google Drive folder in a blog/site]]></summary>
+        <author>
+            <name>cosbgn</name>
+            <uri>https://news.ycombinator.com/user?id=cosbgn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heybase是一个数字销售室软件，可以更快地完成B2B交易。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31891757</id>
+        <link href="https://news.ycombinator.com/item?id=31891757"/>
+        <updated>2022-06-27T07:56:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Heybase is a Digital Sales Room Software to close B2B deals faster]]></summary>
+        <author>
+            <name>shindekaran</name>
+            <uri>https://news.ycombinator.com/user?id=shindekaran</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yboard是一个基于CRDT的多人桌面式工作空间。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31891608</id>
+        <link href="https://news.ycombinator.com/item?id=31891608"/>
+        <updated>2022-06-27T07:33:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Yboard is a multiplayer desktop-like workspace based on CRDT]]></summary>
+        <author>
+            <name>selknam</name>
+            <uri>https://news.ycombinator.com/user?id=selknam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[游牧时寻找产品替代品的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31890001</id>
+        <link href="https://news.ycombinator.com/item?id=31890001"/>
+        <updated>2022-06-27T02:31:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tool to find product alternatives when nomading]]></summary>
+        <author>
+            <name>keooodev</name>
+            <uri>https://news.ycombinator.com/user?id=keooodev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个纯围棋的帧缓冲控制台查看器
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>elephcastle</name>
             <uri>https://news.ycombinator.com/user?id=elephcastle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在公共场合建立了一个工具来自动处理Twitter的DMs
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31592897</id>
-        <link href="https://news.ycombinator.com/item?id=31592897"/>
-        <updated>2022-06-02T09:12:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built in public a tool to automate Twitter DMs]]></summary>
-        <author>
-            <name>ikoichi2112</name>
-            <uri>https://news.ycombinator.com/user?id=ikoichi2112</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notkia - 一个具有LoRa+WiFi+BT连接功能的Linux手机
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31592854</id>
-        <link href="https://news.ycombinator.com/item?id=31592854"/>
-        <updated>2022-06-02T09:04:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Notkia – A Linux phone with LoRa+WiFi+BT connectivity]]></summary>
-        <author>
-            <name>ClassicOldSong</name>
-            <uri>https://news.ycombinator.com/user?id=ClassicOldSong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Cron:Sequencer重放/调试/测试Cron事件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31592730</id>
-        <link href="https://news.ycombinator.com/item?id=31592730"/>
-        <updated>2022-06-02T08:40:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Replay/Debug/Test Cron Events with Cron:Sequencer]]></summary>
-        <author>
-            <name>leejo</name>
-            <uri>https://news.ycombinator.com/user?id=leejo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只需几行代码就能实现微服务的现代化，以实现横向扩展
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31592693</id>
-        <link href="https://news.ycombinator.com/item?id=31592693"/>
-        <updated>2022-06-02T08:31:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Modernize microservices for horizontal scale with a few lines of code]]></summary>
-        <author>
-            <name>bjflanne</name>
-            <uri>https://news.ycombinator.com/user?id=bjflanne</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carbide - C4模型软件架构工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31591530</id>
-        <link href="https://news.ycombinator.com/item?id=31591530"/>
-        <updated>2022-06-02T05:04:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Carbide – C4 Model Software Architecture Tool]]></summary>
-        <author>
-            <name>mikeadev</name>
-            <uri>https://news.ycombinator.com/user?id=mikeadev</uri>
         </author>
     </entry>
 </feed>
