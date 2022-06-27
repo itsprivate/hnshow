@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-27T17:59:42.223Z</updated>
+    <updated>2022-06-27T18:46:07.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[微软团队的延迟发送
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31898562</id>
+        <link href="https://news.ycombinator.com/item?id=31898562"/>
+        <updated>2022-06-27T18:23:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Delayed Send for Microsoft Teams]]></summary>
+        <author>
+            <name>ihaveajob</name>
+            <uri>https://news.ycombinator.com/user?id=ihaveajob</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超模--世嘉3型街机仿真器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31898236</id>
+        <link href="https://news.ycombinator.com/item?id=31898236"/>
+        <updated>2022-06-27T18:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Supermodel – A Sega Model 3 arcade emulator]]></summary>
+        <author>
+            <name>trzy</name>
+            <uri>https://news.ycombinator.com/user?id=trzy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个Chrome扩展，可以用简单的英语解释代码
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>noone_youknow</name>
             <uri>https://news.ycombinator.com/user?id=noone_youknow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自动检测你的应用程序/API中的安全漏洞
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31598616</id>
-        <link href="https://news.ycombinator.com/item?id=31598616"/>
-        <updated>2022-06-02T18:20:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Automatically Detect Security Bugs in Your App/API]]></summary>
-        <author>
-            <name>vineshreddy007</name>
-            <uri>https://news.ycombinator.com/user?id=vineshreddy007</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taaalk - 尝试一下我的副业（邀请码848581320）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31598039</id>
-        <link href="https://news.ycombinator.com/item?id=31598039"/>
-        <updated>2022-06-02T17:36:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Taaalk – Try out my side project (invite code 848581320)]]></summary>
-        <author>
-            <name>FailMore</name>
-            <uri>https://news.ycombinator.com/user?id=FailMore</uri>
         </author>
     </entry>
 </feed>
