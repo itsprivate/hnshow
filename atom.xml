@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-27T14:50:22.762Z</updated>
+    <updated>2022-06-27T15:43:11.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[CSVFiddle - 使用SQL即时查询CSV文件，由DuckDB提供支持。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31895494</id>
+        <link href="https://news.ycombinator.com/item?id=31895494"/>
+        <updated>2022-06-27T14:59:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: CSVFiddle – instantly query CSV files with SQL, powered by DuckDB]]></summary>
+        <author>
+            <name>shbhrsaha</name>
+            <uri>https://news.ycombinator.com/user?id=shbhrsaha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yuzu - 用于快速开发的股票和加密货币GraphQL/Streaming API
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>businessperson</name>
             <uri>https://news.ycombinator.com/user?id=businessperson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在名画中寻找正确位置的谜语游戏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31595873</id>
-        <link href="https://news.ycombinator.com/item?id=31595873"/>
-        <updated>2022-06-02T15:13:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A riddle game to find the right spots in famous paintings]]></summary>
-        <author>
-            <name>soneca</name>
-            <uri>https://news.ycombinator.com/user?id=soneca</uri>
         </author>
     </entry>
 </feed>
