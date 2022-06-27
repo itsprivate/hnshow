@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-27T22:28:57.134Z</updated>
+    <updated>2022-06-27T23:28:27.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WebExtension Playground
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31902083</id>
+        <link href="https://news.ycombinator.com/item?id=31902083"/>
+        <updated>2022-06-27T23:05:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WebExtension Playground]]></summary>
+        <author>
+            <name>oliverdunk</name>
+            <uri>https://news.ycombinator.com/user?id=oliverdunk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AirScript - 像Lua一樣，但在Rust中，又有所不同
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>si_164</name>
             <uri>https://news.ycombinator.com/user?id=si_164</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一個數字風琴，這是我學到的東西
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31599818</id>
-        <link href="https://news.ycombinator.com/item?id=31599818"/>
-        <updated>2022-06-02T20:01:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I’ve Built a Digital Organ and This Is What I Learned]]></summary>
-        <author>
-            <name>ionicabizau</name>
-            <uri>https://news.ycombinator.com/user?id=ionicabizau</uri>
         </author>
     </entry>
 </feed>
