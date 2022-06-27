@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-27T20:32:54.102Z</updated>
+    <updated>2022-06-27T22:28:57.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AirScript - 像Lua一样，但在Rust中，又有所不同
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31901596</id>
+        <link href="https://news.ycombinator.com/item?id=31901596"/>
+        <updated>2022-06-27T22:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: AirScript – Like Lua, but in Rust, and Different]]></summary>
+        <author>
+            <name>linkdd</name>
+            <uri>https://news.ycombinator.com/user?id=linkdd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[NSFW] 色情生成的扩散模型
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ionicabizau</name>
             <uri>https://news.ycombinator.com/user?id=ionicabizau</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svelvet - 一个用于构建交互式流程图的组件库
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31595822</id>
-        <link href="https://news.ycombinator.com/item?id=31595822"/>
-        <updated>2022-06-02T15:09:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Svelvet – A component library for building interactive flow diagrams]]></summary>
-        <author>
-            <name>awillettnyc</name>
-            <uri>https://news.ycombinator.com/user?id=awillettnyc</uri>
         </author>
     </entry>
 </feed>
