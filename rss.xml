@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 27 Jun 2022 16:46:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 17:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[PRQL 0.2 - 一个更好的SQL - 现在可以使用了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31897430</link>
+            <guid>https://news.ycombinator.com/item?id=31897430</guid>
+            <pubDate>Mon, 27 Jun 2022 17:03:33 GMT</pubDate>
+            <description><![CDATA[Show HN: PRQL 0.2 – A better SQL — now ready to use]]></description>
+        </item>
+        <item>
+            <title><![CDATA[摆脱Git子模块，永不回头（现在为GitHub用户）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31897249</link>
+            <guid>https://news.ycombinator.com/item?id=31897249</guid>
+            <pubDate>Mon, 27 Jun 2022 16:49:46 GMT</pubDate>
+            <description><![CDATA[Show HN: Get rid of Git submodules and never look back (now for GitHub users)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Dashibase Insert - 为Supabase用户提供的一个免费的类似Notion的表单生成器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31897233</link>
+            <guid>https://news.ycombinator.com/item?id=31897233</guid>
+            <pubDate>Mon, 27 Jun 2022 16:48:57 GMT</pubDate>
+            <description><![CDATA[Show HN: Dashibase Insert – a free Notion-like form builder for Supabase users]]></description>
+        </item>
         <item>
             <title><![CDATA[为任何语言建立字典
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31597366</guid>
             <pubDate>Thu, 02 Jun 2022 16:52:35 GMT</pubDate>
             <description><![CDATA[Show HN: Try out my side project Taaalk]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gitlinks - 由Git驱动的golinks
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31597081</link>
-            <guid>https://news.ycombinator.com/item?id=31597081</guid>
-            <pubDate>Thu, 02 Jun 2022 16:36:27 GMT</pubDate>
-            <description><![CDATA[Show HN: Gitlinks – Git powered golinks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Swarmsible - 设置（和管理）Docker Swarm的Ansible Playbooks
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31596929</link>
-            <guid>https://news.ycombinator.com/item?id=31596929</guid>
-            <pubDate>Thu, 02 Jun 2022 16:26:34 GMT</pubDate>
-            <description><![CDATA[Show HN: Swarmsible – Ansible Playbooks to Setup (and Manage) a Docker Swarm]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Haberdasher是一个类似于Git的VCS，适用于大型仓库。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31596233</link>
-            <guid>https://news.ycombinator.com/item?id=31596233</guid>
-            <pubDate>Thu, 02 Jun 2022 15:40:33 GMT</pubDate>
-            <description><![CDATA[Show HN: Haberdasher is a Git-like VCS for huge repos]]></description>
         </item>
     </channel>
 </rss>

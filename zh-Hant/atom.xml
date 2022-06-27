@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-27T16:46:58.179Z</updated>
+    <updated>2022-06-27T17:19:32.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PRQL 0.2 - 一個更好的SQL - 現在可以使用了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31897430</id>
+        <link href="https://news.ycombinator.com/item?id=31897430"/>
+        <updated>2022-06-27T17:03:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PRQL 0.2 – A better SQL — now ready to use]]></summary>
+        <author>
+            <name>maximilianroos</name>
+            <uri>https://news.ycombinator.com/user?id=maximilianroos</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[擺脫Git子模塊，永不回頭（現在為GitHub用戶）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31897249</id>
+        <link href="https://news.ycombinator.com/item?id=31897249"/>
+        <updated>2022-06-27T16:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Get rid of Git submodules and never look back (now for GitHub users)]]></summary>
+        <author>
+            <name>oka</name>
+            <uri>https://news.ycombinator.com/user?id=oka</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dashibase Insert - 為Supabase用戶提供的一個免費的類似Notion的表單生成器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31897233</id>
+        <link href="https://news.ycombinator.com/item?id=31897233"/>
+        <updated>2022-06-27T16:48:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dashibase Insert – a free Notion-like form builder for Supabase users]]></summary>
+        <author>
+            <name>greentfrapp</name>
+            <uri>https://news.ycombinator.com/user?id=greentfrapp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為任何語言建立字典
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>FailMore</name>
             <uri>https://news.ycombinator.com/user?id=FailMore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitlinks - 由Git驅動的golinks
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31597081</id>
-        <link href="https://news.ycombinator.com/item?id=31597081"/>
-        <updated>2022-06-02T16:36:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Gitlinks – Git powered golinks]]></summary>
-        <author>
-            <name>logane</name>
-            <uri>https://news.ycombinator.com/user?id=logane</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swarmsible - 設置（和管理）Docker Swarm的Ansible Playbooks
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31596929</id>
-        <link href="https://news.ycombinator.com/item?id=31596929"/>
-        <updated>2022-06-02T16:26:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Swarmsible – Ansible Playbooks to Setup (and Manage) a Docker Swarm]]></summary>
-        <author>
-            <name>ancieque</name>
-            <uri>https://news.ycombinator.com/user?id=ancieque</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haberdasher是一個類似於Git的VCS，適用於大型倉庫。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31596233</id>
-        <link href="https://news.ycombinator.com/item?id=31596233"/>
-        <updated>2022-06-02T15:40:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Haberdasher is a Git-like VCS for huge repos]]></summary>
-        <author>
-            <name>yash-hd</name>
-            <uri>https://news.ycombinator.com/user?id=yash-hd</uri>
         </author>
     </entry>
 </feed>
