@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-27T18:46:07.762Z</updated>
+    <updated>2022-06-27T20:32:54.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[[NSFW] 色情生成的扩散模型
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31900095</id>
+        <link href="https://news.ycombinator.com/item?id=31900095"/>
+        <updated>2022-06-27T20:08:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: [NSFW] Diffusion models for porn generation]]></summary>
+        <author>
+            <name>GistNoesis</name>
+            <uri>https://news.ycombinator.com/user?id=GistNoesis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软团队的延迟发送
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>awillettnyc</name>
             <uri>https://news.ycombinator.com/user?id=awillettnyc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我利用假期编写了一个现代JVM汇编程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31599603</id>
-        <link href="https://news.ycombinator.com/item?id=31599603"/>
-        <updated>2022-06-02T19:40:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I spent my vacation writing a modern JVM assembler]]></summary>
-        <author>
-            <name>noone_youknow</name>
-            <uri>https://news.ycombinator.com/user?id=noone_youknow</uri>
         </author>
     </entry>
 </feed>
