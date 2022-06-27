@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-27T13:01:15.432Z</updated>
+    <updated>2022-06-27T14:36:30.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自动将任何云资产转向Terraform
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31894609</id>
+        <link href="https://news.ycombinator.com/item?id=31894609"/>
+        <updated>2022-06-27T13:53:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Automatically turn any cloud asset to Terraform]]></summary>
+        <author>
+            <name>sefi-infralight</name>
+            <uri>https://news.ycombinator.com/user?id=sefi-infralight</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高效的仰卧计算设置
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31894458</id>
+        <link href="https://news.ycombinator.com/item?id=31894458"/>
+        <updated>2022-06-27T13:39:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Efficient Supine Computing Setup]]></summary>
+        <author>
+            <name>viet_nguyen</name>
+            <uri>https://news.ycombinator.com/user?id=viet_nguyen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Cloudflare、Fastly和Fly.io的开源GraphQL CDN/Edge Cache
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31894299</id>
+        <link href="https://news.ycombinator.com/item?id=31894299"/>
+        <updated>2022-06-27T13:27:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-Source GraphQL CDN/Edge Cache with Cloudflare, Fastly, and Fly.io]]></summary>
+        <author>
+            <name>jensneuse</name>
+            <uri>https://news.ycombinator.com/user?id=jensneuse</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文档管理质量和代码注释覆盖率
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31893967</id>
+        <link href="https://news.ycombinator.com/item?id=31893967"/>
+        <updated>2022-06-27T13:00:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Document Management Quality and Code Comment Coverage]]></summary>
+        <author>
+            <name>terakoya76</name>
+            <uri>https://news.ycombinator.com/user?id=terakoya76</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[浏览器中的网络服务器Livecode
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>keithpitt</name>
             <uri>https://news.ycombinator.com/user?id=keithpitt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go-faker。Golang的Faker。与postman动态变量兼容
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31595004</id>
-        <link href="https://news.ycombinator.com/item?id=31595004"/>
-        <updated>2022-06-02T14:02:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Go-faker: Faker for Golang. Compatible with postman dynamic variables]]></summary>
-        <author>
-            <name>kursat_</name>
-            <uri>https://news.ycombinator.com/user?id=kursat_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免费的另类投资数据平台
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31594885</id>
-        <link href="https://news.ycombinator.com/item?id=31594885"/>
-        <updated>2022-06-02T13:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Free alternative investment data platform]]></summary>
-        <author>
-            <name>ckardat123</name>
-            <uri>https://news.ycombinator.com/user?id=ckardat123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我用我的声音黑掉了我儿子的Duplo火车，让它走得更快。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31594144</id>
-        <link href="https://news.ycombinator.com/item?id=31594144"/>
-        <updated>2022-06-02T12:49:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I hacked my sons Duplo train to go faster using my voice]]></summary>
-        <author>
-            <name>RedGreenBlack</name>
-            <uri>https://news.ycombinator.com/user?id=RedGreenBlack</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漂流文件的格式化
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31594094</id>
-        <link href="https://news.ycombinator.com/item?id=31594094"/>
-        <updated>2022-06-02T12:44:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Formatter for Thrift Files]]></summary>
-        <author>
-            <name>alingse</name>
-            <uri>https://news.ycombinator.com/user?id=alingse</uri>
         </author>
     </entry>
 </feed>

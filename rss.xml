@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 27 Jun 2022 13:01:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 14:36:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,38 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[自动将任何云资产转向Terraform
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31894609</link>
+            <guid>https://news.ycombinator.com/item?id=31894609</guid>
+            <pubDate>Mon, 27 Jun 2022 13:53:53 GMT</pubDate>
+            <description><![CDATA[Show HN: Automatically turn any cloud asset to Terraform]]></description>
+        </item>
+        <item>
+            <title><![CDATA[高效的仰卧计算设置
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31894458</link>
+            <guid>https://news.ycombinator.com/item?id=31894458</guid>
+            <pubDate>Mon, 27 Jun 2022 13:39:46 GMT</pubDate>
+            <description><![CDATA[Show HN: Efficient Supine Computing Setup]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用Cloudflare、Fastly和Fly.io的开源GraphQL CDN/Edge Cache
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31894299</link>
+            <guid>https://news.ycombinator.com/item?id=31894299</guid>
+            <pubDate>Mon, 27 Jun 2022 13:27:12 GMT</pubDate>
+            <description><![CDATA[Show HN: Open-Source GraphQL CDN/Edge Cache with Cloudflare, Fastly, and Fly.io]]></description>
+        </item>
+        <item>
+            <title><![CDATA[文档管理质量和代码注释覆盖率
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31893967</link>
+            <guid>https://news.ycombinator.com/item?id=31893967</guid>
+            <pubDate>Mon, 27 Jun 2022 13:00:47 GMT</pubDate>
+            <description><![CDATA[Show HN: Document Management Quality and Code Comment Coverage]]></description>
+        </item>
         <item>
             <title><![CDATA[浏览器中的网络服务器Livecode
 ]]></title>
@@ -4781,38 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31595507</guid>
             <pubDate>Thu, 02 Jun 2022 14:44:19 GMT</pubDate>
             <description><![CDATA[Show HN: Buildkite Test Analytics: observability for your test suite]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Go-faker。Golang的Faker。与postman动态变量兼容
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31595004</link>
-            <guid>https://news.ycombinator.com/item?id=31595004</guid>
-            <pubDate>Thu, 02 Jun 2022 14:02:14 GMT</pubDate>
-            <description><![CDATA[Show HN: Go-faker: Faker for Golang. Compatible with postman dynamic variables]]></description>
-        </item>
-        <item>
-            <title><![CDATA[免费的另类投资数据平台
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31594885</link>
-            <guid>https://news.ycombinator.com/item?id=31594885</guid>
-            <pubDate>Thu, 02 Jun 2022 13:51:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Free alternative investment data platform]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我用我的声音黑掉了我儿子的Duplo火车，让它走得更快。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31594144</link>
-            <guid>https://news.ycombinator.com/item?id=31594144</guid>
-            <pubDate>Thu, 02 Jun 2022 12:49:23 GMT</pubDate>
-            <description><![CDATA[Show HN: I hacked my sons Duplo train to go faster using my voice]]></description>
-        </item>
-        <item>
-            <title><![CDATA[漂流文件的格式化
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31594094</link>
-            <guid>https://news.ycombinator.com/item?id=31594094</guid>
-            <pubDate>Thu, 02 Jun 2022 12:44:57 GMT</pubDate>
-            <description><![CDATA[Show HN: A Formatter for Thrift Files]]></description>
         </item>
     </channel>
 </rss>
