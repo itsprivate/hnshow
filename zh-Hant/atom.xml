@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-27T17:19:32.836Z</updated>
+    <updated>2022-06-27T17:59:42.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個Chrome擴展，可以用簡單的英語解釋代碼
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31897881</id>
+        <link href="https://news.ycombinator.com/item?id=31897881"/>
+        <updated>2022-06-27T17:35:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a Chrome extension that explains code in plain English]]></summary>
+        <author>
+            <name>NithurM</name>
+            <uri>https://news.ycombinator.com/user?id=NithurM</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PRQL 0.2 - 一個更好的SQL - 現在可以使用了
 ]]></title>
@@ -7198,18 +7210,6 @@
         <link href="https://news.ycombinator.com/item?id=31598039"/>
         <updated>2022-06-02T17:36:11.000Z</updated>
         <summary type="html"><![CDATA[Show HN: Taaalk – Try out my side project (invite code 848581320)]]></summary>
-        <author>
-            <name>FailMore</name>
-            <uri>https://news.ycombinator.com/user?id=FailMore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[試試我的副業Taaalk
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31597366</id>
-        <link href="https://news.ycombinator.com/item?id=31597366"/>
-        <updated>2022-06-02T16:52:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Try out my side project Taaalk]]></summary>
         <author>
             <name>FailMore</name>
             <uri>https://news.ycombinator.com/user?id=FailMore</uri>
