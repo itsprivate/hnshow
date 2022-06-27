@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-27T14:36:30.588Z</updated>
+    <updated>2022-06-27T14:50:22.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Yuzu - 用于快速开发的股票和加密货币GraphQL/Streaming API
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31895101</id>
+        <link href="https://news.ycombinator.com/item?id=31895101"/>
+        <updated>2022-06-27T14:32:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Yuzu – The Stock and Crypto GraphQL/Streaming API for Rapid Development]]></summary>
+        <author>
+            <name>sdcoffey</name>
+            <uri>https://news.ycombinator.com/user?id=sdcoffey</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为初创企业创始人提供的免费使用的工具集
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31894857</id>
+        <link href="https://news.ycombinator.com/item?id=31894857"/>
+        <updated>2022-06-27T14:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Collection of free to use tools for startup founders]]></summary>
+        <author>
+            <name>jayra</name>
+            <uri>https://news.ycombinator.com/user?id=jayra</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自动将任何云资产转向Terraform
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>soneca</name>
             <uri>https://news.ycombinator.com/user?id=soneca</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linkians，一个类似于模拟的游戏，发生在你的网址栏里的表情符号。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31595541</id>
-        <link href="https://news.ycombinator.com/item?id=31595541"/>
-        <updated>2022-06-02T14:47:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Linkians, a sims-like game that happens in your url bar with emojis]]></summary>
-        <author>
-            <name>escot</name>
-            <uri>https://news.ycombinator.com/user?id=escot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buildkite测试分析：测试套件的可观察性
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31595507</id>
-        <link href="https://news.ycombinator.com/item?id=31595507"/>
-        <updated>2022-06-02T14:44:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Buildkite Test Analytics: observability for your test suite]]></summary>
-        <author>
-            <name>keithpitt</name>
-            <uri>https://news.ycombinator.com/user?id=keithpitt</uri>
         </author>
     </entry>
 </feed>
