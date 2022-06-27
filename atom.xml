@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-27T10:21:06.139Z</updated>
+    <updated>2022-06-27T10:39:03.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Locode快速开发CRUD网络应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31892535</id>
+        <link href="https://news.ycombinator.com/item?id=31892535"/>
+        <updated>2022-06-27T10:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Rapidly Develop CRUD Web Apps with Locode]]></summary>
+        <author>
+            <name>mythz</name>
+            <uri>https://news.ycombinator.com/user?id=mythz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chrome扩展模板 repo
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>brxken</name>
             <uri>https://news.ycombinator.com/user?id=brxken</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[时间序列终端
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31593146</id>
-        <link href="https://news.ycombinator.com/item?id=31593146"/>
-        <updated>2022-06-02T10:01:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Time Series Terminal]]></summary>
-        <author>
-            <name>elephcastle</name>
-            <uri>https://news.ycombinator.com/user?id=elephcastle</uri>
         </author>
     </entry>
 </feed>
