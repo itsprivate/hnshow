@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-27T10:39:03.368Z</updated>
+    <updated>2022-06-27T13:01:15.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[浏览器中的网络服务器Livecode
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31893632</id>
+        <link href="https://news.ycombinator.com/item?id=31893632"/>
+        <updated>2022-06-27T12:31:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Livecode a Webserver in a Browser]]></summary>
+        <author>
+            <name>tlarkworthy</name>
+            <uri>https://news.ycombinator.com/user?id=tlarkworthy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于健身的开源书籍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31893618</id>
+        <link href="https://news.ycombinator.com/item?id=31893618"/>
+        <updated>2022-06-27T12:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-Source Book on Fitness]]></summary>
+        <author>
+            <name>mihaildu</name>
+            <uri>https://news.ycombinator.com/user?id=mihaildu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用AI驱动的食品成分分析实现更健康的购物
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31893337</id>
+        <link href="https://news.ycombinator.com/item?id=31893337"/>
+        <updated>2022-06-27T12:02:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: AI powered food ingredient analysis for healthier shopping]]></summary>
+        <author>
+            <name>bbreslin_</name>
+            <uri>https://news.ycombinator.com/user?id=bbreslin_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Locode快速开发CRUD网络应用程序
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>alingse</name>
             <uri>https://news.ycombinator.com/user?id=alingse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个看似简单却很难滑动的拼图
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31593726</id>
-        <link href="https://news.ycombinator.com/item?id=31593726"/>
-        <updated>2022-06-02T11:50:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a deceptively simple but hard sliding puzzle]]></summary>
-        <author>
-            <name>amenghra</name>
-            <uri>https://news.ycombinator.com/user?id=amenghra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tone - 一个纯粹的C#跨平台自动标记器，没有依赖性
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31593661</id>
-        <link href="https://news.ycombinator.com/item?id=31593661"/>
-        <updated>2022-06-02T11:37:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tone – a pure C# cross platform auto tagger without dependencies]]></summary>
-        <author>
-            <name>sandreas</name>
-            <uri>https://news.ycombinator.com/user?id=sandreas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dexios，一个安全的命令行加密工具（V8.4.1版）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31593404</id>
-        <link href="https://news.ycombinator.com/item?id=31593404"/>
-        <updated>2022-06-02T10:50:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dexios, a secure command-line encryption tool (v8.4.1 release)]]></summary>
-        <author>
-            <name>brxken</name>
-            <uri>https://news.ycombinator.com/user?id=brxken</uri>
         </author>
     </entry>
 </feed>

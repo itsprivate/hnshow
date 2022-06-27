@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 27 Jun 2022 10:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 13:01:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[浏览器中的网络服务器Livecode
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31893632</link>
+            <guid>https://news.ycombinator.com/item?id=31893632</guid>
+            <pubDate>Mon, 27 Jun 2022 12:31:30 GMT</pubDate>
+            <description><![CDATA[Show HN: Livecode a Webserver in a Browser]]></description>
+        </item>
+        <item>
+            <title><![CDATA[关于健身的开源书籍
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31893618</link>
+            <guid>https://news.ycombinator.com/item?id=31893618</guid>
+            <pubDate>Mon, 27 Jun 2022 12:30:22 GMT</pubDate>
+            <description><![CDATA[Show HN: Open-Source Book on Fitness]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用AI驱动的食品成分分析实现更健康的购物
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31893337</link>
+            <guid>https://news.ycombinator.com/item?id=31893337</guid>
+            <pubDate>Mon, 27 Jun 2022 12:02:01 GMT</pubDate>
+            <description><![CDATA[Show HN: AI powered food ingredient analysis for healthier shopping]]></description>
+        </item>
         <item>
             <title><![CDATA[用Locode快速开发CRUD网络应用程序
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31594094</guid>
             <pubDate>Thu, 02 Jun 2022 12:44:57 GMT</pubDate>
             <description><![CDATA[Show HN: A Formatter for Thrift Files]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个看似简单却很难滑动的拼图
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31593726</link>
-            <guid>https://news.ycombinator.com/item?id=31593726</guid>
-            <pubDate>Thu, 02 Jun 2022 11:50:18 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a deceptively simple but hard sliding puzzle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tone - 一个纯粹的C#跨平台自动标记器，没有依赖性
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31593661</link>
-            <guid>https://news.ycombinator.com/item?id=31593661</guid>
-            <pubDate>Thu, 02 Jun 2022 11:37:51 GMT</pubDate>
-            <description><![CDATA[Show HN: Tone – a pure C# cross platform auto tagger without dependencies]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dexios，一个安全的命令行加密工具（V8.4.1版）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31593404</link>
-            <guid>https://news.ycombinator.com/item?id=31593404</guid>
-            <pubDate>Thu, 02 Jun 2022 10:50:10 GMT</pubDate>
-            <description><![CDATA[Show HN: Dexios, a secure command-line encryption tool (v8.4.1 release)]]></description>
         </item>
     </channel>
 </rss>
