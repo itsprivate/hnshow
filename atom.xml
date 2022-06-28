@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-28T20:35:34.365Z</updated>
+    <updated>2022-06-28T21:02:14.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Jd JSON差异和补丁
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31912860</id>
+        <link href="https://news.ycombinator.com/item?id=31912860"/>
+        <updated>2022-06-28T20:52:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Jd JSON Diff and Patch]]></summary>
+        <author>
+            <name>josephburnett</name>
+            <uri>https://news.ycombinator.com/user?id=josephburnett</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我建立了一个工具，用于快速生成社交封面
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31912845</id>
+        <link href="https://news.ycombinator.com/item?id=31912845"/>
+        <updated>2022-06-28T20:50:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a tool to generate social covers on-the-fly]]></summary>
+        <author>
+            <name>bndr</name>
+            <uri>https://news.ycombinator.com/user?id=bndr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于高性能网站的最快的滑块库
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>jkirsteins</name>
             <uri>https://news.ycombinator.com/user?id=jkirsteins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纸质原型CSS
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31619431</id>
-        <link href="https://news.ycombinator.com/item?id=31619431"/>
-        <updated>2022-06-04T12:13:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Paper Prototype CSS]]></summary>
-        <author>
-            <name>edent</name>
-            <uri>https://news.ycombinator.com/user?id=edent</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[终端中的GraphQL客户端
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31618487</id>
-        <link href="https://news.ycombinator.com/item?id=31618487"/>
-        <updated>2022-06-04T09:27:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GraphQL Client in the Terminal]]></summary>
-        <author>
-            <name>eerimoq</name>
-            <uri>https://news.ycombinator.com/user?id=eerimoq</uri>
         </author>
     </entry>
 </feed>
