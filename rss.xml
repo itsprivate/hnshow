@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 28 Jun 2022 16:51:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 17:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用于文本分割和每段标题生成的NLP API
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31910209</link>
+            <guid>https://news.ycombinator.com/item?id=31910209</guid>
+            <pubDate>Tue, 28 Jun 2022 17:00:09 GMT</pubDate>
+            <description><![CDATA[Show HN: NLP API for text segmentation and per-segment title generation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用dstack运行AI应用程序和开发环境
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31910112</link>
+            <guid>https://news.ycombinator.com/item?id=31910112</guid>
+            <pubDate>Tue, 28 Jun 2022 16:52:31 GMT</pubDate>
+            <description><![CDATA[Show HN: Run AI apps and dev environments with dstack]]></description>
+        </item>
         <item>
             <title><![CDATA[在1-5分的范围内快速给项目打分
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31613269</guid>
             <pubDate>Fri, 03 Jun 2022 20:31:21 GMT</pubDate>
             <description><![CDATA[Show HN: Move away from streaming platforms and take your music offline]]></description>
-        </item>
-        <item>
-            <title><![CDATA[免费测试你的应用程序颜色创意
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31613602</link>
-            <guid>https://news.ycombinator.com/item?id=31613602</guid>
-            <pubDate>Fri, 03 Jun 2022 21:05:32 GMT</pubDate>
-            <description><![CDATA[Show HN: Test your app color ideas for free]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何使用MicroPython和MQTT连接ESP32s
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31611725</link>
-            <guid>https://news.ycombinator.com/item?id=31611725</guid>
-            <pubDate>Fri, 03 Jun 2022 18:08:15 GMT</pubDate>
-            <description><![CDATA[Show HN: How to connect ESP32s using MicroPython and MQTT]]></description>
         </item>
     </channel>
 </rss>

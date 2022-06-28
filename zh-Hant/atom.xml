@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-28T16:51:50.629Z</updated>
+    <updated>2022-06-28T17:17:38.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用於文本分割和每段標題生成的NLP API
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31910209</id>
+        <link href="https://news.ycombinator.com/item?id=31910209"/>
+        <updated>2022-06-28T17:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: NLP API for text segmentation and per-segment title generation]]></summary>
+        <author>
+            <name>mojojojo24</name>
+            <uri>https://news.ycombinator.com/user?id=mojojojo24</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用dstack運行AI應用程序和開發環境
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31910112</id>
+        <link href="https://news.ycombinator.com/item?id=31910112"/>
+        <updated>2022-06-28T16:52:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Run AI apps and dev environments with dstack]]></summary>
+        <author>
+            <name>peterschmidt</name>
+            <uri>https://news.ycombinator.com/user?id=peterschmidt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在1-5分的範圍內快速給項目打分
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>orhunp_</name>
             <uri>https://news.ycombinator.com/user?id=orhunp_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免費測試你的應用程序顏色創意
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31613602</id>
-        <link href="https://news.ycombinator.com/item?id=31613602"/>
-        <updated>2022-06-03T21:05:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Test your app color ideas for free]]></summary>
-        <author>
-            <name>DCodes1</name>
-            <uri>https://news.ycombinator.com/user?id=DCodes1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使用MicroPython和MQTT連接ESP32s
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31611725</id>
-        <link href="https://news.ycombinator.com/item?id=31611725"/>
-        <updated>2022-06-03T18:08:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: How to connect ESP32s using MicroPython and MQTT]]></summary>
-        <author>
-            <name>muunbo</name>
-            <uri>https://news.ycombinator.com/user?id=muunbo</uri>
         </author>
     </entry>
 </feed>
