@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-28T05:37:33.400Z</updated>
+    <updated>2022-06-28T06:57:31.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[(計算機視覺的（測試）自動化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31904820</id>
+        <link href="https://news.ycombinator.com/item?id=31904820"/>
+        <updated>2022-06-28T06:40:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: (Test-)Automation with Computer Vision]]></summary>
+        <author>
+            <name>grolle</name>
+            <uri>https://news.ycombinator.com/user?id=grolle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[聖經語義搜索
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>subtract-smiles</name>
             <uri>https://news.ycombinator.com/user?id=subtract-smiles</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MongoDB卡塔斯/實踐問題
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31602223</id>
-        <link href="https://news.ycombinator.com/item?id=31602223"/>
-        <updated>2022-06-02T23:57:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: MongoDB Katas / Practice Problems]]></summary>
-        <author>
-            <name>markthethomas</name>
-            <uri>https://news.ycombinator.com/user?id=markthethomas</uri>
         </author>
     </entry>
 </feed>
