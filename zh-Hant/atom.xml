@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-28T18:02:02.804Z</updated>
+    <updated>2022-06-28T18:43:37.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們為播客製作了一個快速音頻編輯器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31905554</id>
+        <link href="https://news.ycombinator.com/item?id=31905554"/>
+        <updated>2022-06-28T08:44:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We made a fast audio editor for podcasting]]></summary>
+        <author>
+            <name>xiaoxing</name>
+            <uri>https://news.ycombinator.com/user?id=xiaoxing</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Inngest - 一個開源的事件驅動的隊列
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nomilk</name>
             <uri>https://news.ycombinator.com/user?id=nomilk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[創業兩年多來值得分享的事情
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31617625</id>
-        <link href="https://news.ycombinator.com/item?id=31617625"/>
-        <updated>2022-06-04T06:32:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Things worth sharing over the two years of startup]]></summary>
-        <author>
-            <name>jjzhiyuan</name>
-            <uri>https://news.ycombinator.com/user?id=jjzhiyuan</uri>
         </author>
     </entry>
 </feed>
