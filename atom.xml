@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-28T02:32:43.958Z</updated>
+    <updated>2022-06-28T05:37:33.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[圣经语义搜索
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31903549</id>
+        <link href="https://news.ycombinator.com/item?id=31903549"/>
+        <updated>2022-06-28T02:48:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bible Semantic Search]]></summary>
+        <author>
+            <name>crehn</name>
+            <uri>https://news.ycombinator.com/user?id=crehn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我把DALL-E Mini剥离到最基本的部分，并将其转换为火炬。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>markthethomas</name>
             <uri>https://news.ycombinator.com/user?id=markthethomas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salesfinity - 平行拨号软件，可拨打3-5倍的电话
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31601302</id>
-        <link href="https://news.ycombinator.com/item?id=31601302"/>
-        <updated>2022-06-02T22:24:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Salesfinity – Parallel Dialer software to make 3x-5x more phone calls]]></summary>
-        <author>
-            <name>Mavlonbek1</name>
-            <uri>https://news.ycombinator.com/user?id=Mavlonbek1</uri>
         </author>
     </entry>
 </feed>
