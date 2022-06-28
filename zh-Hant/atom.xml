@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-28T06:57:31.166Z</updated>
+    <updated>2022-06-28T09:02:08.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Randy - 帶有一堆隨機（但可能有用）工具的Rust網絡應用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31905607</id>
+        <link href="https://news.ycombinator.com/item?id=31905607"/>
+        <updated>2022-06-28T08:54:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Randy – Rust web app with a bunch of random (but probably useful) tools]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(計算機視覺的（測試）自動化
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>whatrocks</name>
             <uri>https://news.ycombinator.com/user?id=whatrocks</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hair - 一個用Rust製作的HTTP客戶端
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31603077</id>
-        <link href="https://news.ycombinator.com/item?id=31603077"/>
-        <updated>2022-06-03T01:24:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hair – An HTTP client made in Rust]]></summary>
-        <author>
-            <name>subtract-smiles</name>
-            <uri>https://news.ycombinator.com/user?id=subtract-smiles</uri>
         </author>
     </entry>
 </feed>
