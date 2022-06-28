@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-28T21:02:14.959Z</updated>
+    <updated>2022-06-28T23:46:06.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WebReducer.dev具有重放性的即時狀態端點
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31914467</id>
+        <link href="https://news.ycombinator.com/item?id=31914467"/>
+        <updated>2022-06-28T23:31:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WebReducer.dev instant stateful endpoints with replayability]]></summary>
+        <author>
+            <name>zekenie</name>
+            <uri>https://news.ycombinator.com/user?id=zekenie</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jd JSON差異和補丁
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>wagslane</name>
             <uri>https://news.ycombinator.com/user?id=wagslane</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在iPad上使用新的Swift Playgrounds 4製作了一個Wordle克隆。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31619784</id>
-        <link href="https://news.ycombinator.com/item?id=31619784"/>
-        <updated>2022-06-04T12:59:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a Wordle clone on an iPad using the new Swift Playgrounds 4]]></summary>
-        <author>
-            <name>jkirsteins</name>
-            <uri>https://news.ycombinator.com/user?id=jkirsteins</uri>
         </author>
     </entry>
 </feed>

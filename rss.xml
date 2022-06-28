@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 28 Jun 2022 21:02:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 23:46:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[WebReducer.dev具有重放性的即时状态端点
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31914467</link>
+            <guid>https://news.ycombinator.com/item?id=31914467</guid>
+            <pubDate>Tue, 28 Jun 2022 23:31:42 GMT</pubDate>
+            <description><![CDATA[Show HN: WebReducer.dev instant stateful endpoints with replayability]]></description>
+        </item>
         <item>
             <title><![CDATA[Jd JSON差异和补丁
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31619915</guid>
             <pubDate>Sat, 04 Jun 2022 13:13:34 GMT</pubDate>
             <description><![CDATA[Show HN: Boot.dev – Learn computer science through hands on courses and projects]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我在iPad上使用新的Swift Playgrounds 4制作了一个Wordle克隆。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31619784</link>
-            <guid>https://news.ycombinator.com/item?id=31619784</guid>
-            <pubDate>Sat, 04 Jun 2022 12:59:50 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a Wordle clone on an iPad using the new Swift Playgrounds 4]]></description>
         </item>
     </channel>
 </rss>
