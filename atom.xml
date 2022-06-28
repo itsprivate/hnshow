@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-28T11:26:11.289Z</updated>
+    <updated>2022-06-28T13:00:46.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[社区建设者的自动化工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31906888</id>
+        <link href="https://news.ycombinator.com/item?id=31906888"/>
+        <updated>2022-06-28T12:41:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Automation Tools for Community Builders]]></summary>
+        <author>
+            <name>drewdil</name>
+            <uri>https://news.ycombinator.com/user?id=drewdil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Picspanel - 最简单的图钉创建者
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31906878</id>
+        <link href="https://news.ycombinator.com/item?id=31906878"/>
+        <updated>2022-06-28T12:40:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Picspanel – Simplest Pin Creator]]></summary>
+        <author>
+            <name>paritoshmehta</name>
+            <uri>https://news.ycombinator.com/user?id=paritoshmehta</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人人享有的智能卡
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31906679</id>
+        <link href="https://news.ycombinator.com/item?id=31906679"/>
+        <updated>2022-06-28T12:13:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Smart Cards for Everyone]]></summary>
+        <author>
+            <name>lifeencoder</name>
+            <uri>https://news.ycombinator.com/user?id=lifeencoder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自己的报纸
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31906670</id>
+        <link href="https://news.ycombinator.com/item?id=31906670"/>
+        <updated>2022-06-28T12:12:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Own Newspaper]]></summary>
+        <author>
+            <name>lifeencoder</name>
+            <uri>https://news.ycombinator.com/user?id=lifeencoder</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从任何维基百科页面生成视频的开源工具
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>varbhat</name>
             <uri>https://news.ycombinator.com/user?id=varbhat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gui4REST - 用于测试REST API的无漏洞跨平台GUI
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31607019</id>
-        <link href="https://news.ycombinator.com/item?id=31607019"/>
-        <updated>2022-06-03T11:45:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Gui4REST – no-bloat cross-platform GUI for testing REST APIs]]></summary>
-        <author>
-            <name>ommz</name>
-            <uri>https://news.ycombinator.com/user?id=ommz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go-srpc。Golang的简单流式RPC
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31605919</id>
-        <link href="https://news.ycombinator.com/item?id=31605919"/>
-        <updated>2022-06-03T09:07:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Go-srpc: Simple streaming RPC for Golang]]></summary>
-        <author>
-            <name>hsfzxjy</name>
-            <uri>https://news.ycombinator.com/user?id=hsfzxjy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逃离YouTube算法，播放你喜欢的频道的旧视频
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31605054</id>
-        <link href="https://news.ycombinator.com/item?id=31605054"/>
-        <updated>2022-06-03T06:50:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Escape the YouTube algorithm and play old videos from your fav channels]]></summary>
-        <author>
-            <name>xk3</name>
-            <uri>https://news.ycombinator.com/user?id=xk3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac&Win--一键隐藏桌面图标、最小化应用程序、静音等。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31604890</id>
-        <link href="https://news.ycombinator.com/item?id=31604890"/>
-        <updated>2022-06-03T06:20:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mac&Win-One click to hide desktop icons, minimise apps, mute and more]]></summary>
-        <author>
-            <name>theindianappguy</name>
-            <uri>https://news.ycombinator.com/user?id=theindianappguy</uri>
         </author>
     </entry>
 </feed>
