@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-28T17:17:38.686Z</updated>
+    <updated>2022-06-28T18:02:02.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,78 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Inngest - 一個開源的事件驅動的隊列
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31910762</id>
+        <link href="https://news.ycombinator.com/item?id=31910762"/>
+        <updated>2022-06-28T17:49:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Inngest – an open-source event-driven queue]]></summary>
+        <author>
+            <name>tonyhb</name>
+            <uri>https://news.ycombinator.com/user?id=tonyhb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開源管理的Python裝飾器crons
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31910678</id>
+        <link href="https://news.ycombinator.com/item?id=31910678"/>
+        <updated>2022-06-28T17:41:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-Source managed Python decorator crons]]></summary>
+        <author>
+            <name>jzone3</name>
+            <uri>https://news.ycombinator.com/user?id=jzone3</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我按速度對新聞網站進行排名
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31910622</id>
+        <link href="https://news.ycombinator.com/item?id=31910622"/>
+        <updated>2022-06-28T17:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I ranked news websites by speed]]></summary>
+        <author>
+            <name>bradgessler</name>
+            <uri>https://news.ycombinator.com/user?id=bradgessler</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用圍棋在一個週末內完成光線追蹤
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31910585</id>
+        <link href="https://news.ycombinator.com/item?id=31910585"/>
+        <updated>2022-06-28T17:32:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Ray Tracing in One Weekend in Go]]></summary>
+        <author>
+            <name>iforgetlogins01</name>
+            <uri>https://news.ycombinator.com/user?id=iforgetlogins01</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們利用投資者工具找到了最適合工作的初創企業
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31910519</id>
+        <link href="https://news.ycombinator.com/item?id=31910519"/>
+        <updated>2022-06-28T17:27:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We used investor tools to find the best startups to work at]]></summary>
+        <author>
+            <name>dvykhopen</name>
+            <uri>https://news.ycombinator.com/user?id=dvykhopen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hasura GraphQL數據連接器SDK，將GraphQL API添加到任何數據源中
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31910358</id>
+        <link href="https://news.ycombinator.com/item?id=31910358"/>
+        <updated>2022-06-28T17:13:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hasura GraphQL Data Connector SDK to add GraphQL API to any data source]]></summary>
+        <author>
+            <name>praveenweb</name>
+            <uri>https://news.ycombinator.com/user?id=praveenweb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於文本分割和每段標題生成的NLP API
 ]]></title>
@@ -7141,78 +7213,6 @@
         <author>
             <name>jjzhiyuan</name>
             <uri>https://news.ycombinator.com/user?id=jjzhiyuan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ModelRunner - 開源的、支持語音的數據管理平臺
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31614444</id>
-        <link href="https://news.ycombinator.com/item?id=31614444"/>
-        <updated>2022-06-03T22:26:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ModelRunner – open source, speech-enabled data management platform]]></summary>
-        <author>
-            <name>Etienne68</name>
-            <uri>https://news.ycombinator.com/user?id=Etienne68</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[布魯姆--一個自由和開源的 "谷歌"(2019年)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31616389</id>
-        <link href="https://news.ycombinator.com/item?id=31616389"/>
-        <updated>2022-06-04T02:35:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bloom – A free and open source 'Google' (2019)]]></summary>
-        <author>
-            <name>ddtaylor</name>
-            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K1pwit - iTerm2上的1Password
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31615612</id>
-        <link href="https://news.ycombinator.com/item?id=31615612"/>
-        <updated>2022-06-04T00:39:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: K1pwit – 1Password on iTerm2]]></summary>
-        <author>
-            <name>kissge</name>
-            <uri>https://news.ycombinator.com/user?id=kissge</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我喜歡FitnessSF，但我討厭他們的手機應用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31615136</id>
-        <link href="https://news.ycombinator.com/item?id=31615136"/>
-        <updated>2022-06-03T23:33:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I love FitnessSF, but I hate their mobile app]]></summary>
-        <author>
-            <name>aklarfeld</name>
-            <uri>https://news.ycombinator.com/user?id=aklarfeld</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在你的手機上跟蹤你的Python培訓/評估或後端任務
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31614354</id>
-        <link href="https://news.ycombinator.com/item?id=31614354"/>
-        <updated>2022-06-03T22:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Track your Python Training/Evaluation or Back end tasks on your Phone]]></summary>
-        <author>
-            <name>srelbo</name>
-            <uri>https://news.ycombinator.com/user?id=srelbo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遠離流媒體平臺，把你的音樂帶到線下
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31613269</id>
-        <link href="https://news.ycombinator.com/item?id=31613269"/>
-        <updated>2022-06-03T20:31:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Move away from streaming platforms and take your music offline]]></summary>
-        <author>
-            <name>orhunp_</name>
-            <uri>https://news.ycombinator.com/user?id=orhunp_</uri>
         </author>
     </entry>
 </feed>
