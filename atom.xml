@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-28T09:02:08.302Z</updated>
+    <updated>2022-06-28T10:53:31.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每周CS论文 - 每周末获得一份计算机科学论文
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31906094</id>
+        <link href="https://news.ycombinator.com/item?id=31906094"/>
+        <updated>2022-06-28T10:36:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Weekly CS Paper - Get a computer science paper every Weekend]]></summary>
+        <author>
+            <name>l1am0</name>
+            <uri>https://news.ycombinator.com/user?id=l1am0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Randy - 带有一堆随机（但可能有用）工具的Rust网络应用程序
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ntr--</name>
             <uri>https://news.ycombinator.com/user?id=ntr--</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我写了一个关于《超级马里奥兄弟》中的迷你世界的短篇故事
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31604320</id>
-        <link href="https://news.ycombinator.com/item?id=31604320"/>
-        <updated>2022-06-03T04:32:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I wrote a short story about the Minus World in Super Mario Bros]]></summary>
-        <author>
-            <name>whatrocks</name>
-            <uri>https://news.ycombinator.com/user?id=whatrocks</uri>
         </author>
     </entry>
 </feed>
