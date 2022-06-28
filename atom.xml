@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-28T14:34:21.205Z</updated>
+    <updated>2022-06-28T14:49:24.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ClearQuery 4 - 人类的分析。几秒钟内的洞察力
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31908171</id>
+        <link href="https://news.ycombinator.com/item?id=31908171"/>
+        <updated>2022-06-28T14:32:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ClearQuery 4 – Analytics for Humans. Insights in Seconds]]></summary>
+        <author>
+            <name>timtutt</name>
+            <uri>https://news.ycombinator.com/user?id=timtutt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[容器作为开发环境
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31908152</id>
+        <link href="https://news.ycombinator.com/item?id=31908152"/>
+        <updated>2022-06-28T14:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Container as Development Environment]]></summary>
+        <author>
+            <name>huntzhan</name>
+            <uri>https://news.ycombinator.com/user?id=huntzhan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[免费二维码生成器
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>appveyor</name>
             <uri>https://news.ycombinator.com/user?id=appveyor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Postgres上强制执行访问策略
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31610184</id>
-        <link href="https://news.ycombinator.com/item?id=31610184"/>
-        <updated>2022-06-03T16:03:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Enforce Access Policies on Postgres]]></summary>
-        <author>
-            <name>tiwarinitish86</name>
-            <uri>https://news.ycombinator.com/user?id=tiwarinitish86</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plasmo - 构建现代Chrome扩展的框架
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31609896</id>
-        <link href="https://news.ycombinator.com/item?id=31609896"/>
-        <updated>2022-06-03T15:46:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Plasmo – a framework for building modern Chrome extensions]]></summary>
-        <author>
-            <name>coldsauce</name>
-            <uri>https://news.ycombinator.com/user?id=coldsauce</uri>
         </author>
     </entry>
 </feed>

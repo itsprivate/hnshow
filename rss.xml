@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 28 Jun 2022 14:34:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 14:49:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[ClearQuery 4 - 人类的分析。几秒钟内的洞察力
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31908171</link>
+            <guid>https://news.ycombinator.com/item?id=31908171</guid>
+            <pubDate>Tue, 28 Jun 2022 14:32:10 GMT</pubDate>
+            <description><![CDATA[Show HN: ClearQuery 4 – Analytics for Humans. Insights in Seconds]]></description>
+        </item>
+        <item>
+            <title><![CDATA[容器作为开发环境
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31908152</link>
+            <guid>https://news.ycombinator.com/item?id=31908152</guid>
+            <pubDate>Tue, 28 Jun 2022 14:30:56 GMT</pubDate>
+            <description><![CDATA[Show HN: Container as Development Environment]]></description>
+        </item>
         <item>
             <title><![CDATA[免费二维码生成器
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31610252</guid>
             <pubDate>Fri, 03 Jun 2022 16:08:20 GMT</pubDate>
             <description><![CDATA[Show HN: Flet – The fastest way to build Flutter apps in Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Postgres上强制执行访问策略
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31610184</link>
-            <guid>https://news.ycombinator.com/item?id=31610184</guid>
-            <pubDate>Fri, 03 Jun 2022 16:03:23 GMT</pubDate>
-            <description><![CDATA[Show HN: Enforce Access Policies on Postgres]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Plasmo - 构建现代Chrome扩展的框架
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31609896</link>
-            <guid>https://news.ycombinator.com/item?id=31609896</guid>
-            <pubDate>Fri, 03 Jun 2022 15:46:10 GMT</pubDate>
-            <description><![CDATA[Show HN: Plasmo – a framework for building modern Chrome extensions]]></description>
         </item>
     </channel>
 </rss>
