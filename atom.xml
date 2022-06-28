@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-28T15:33:23.646Z</updated>
+    <updated>2022-06-28T16:51:50.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在1-5分的范围内快速给项目打分
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31909587</id>
+        <link href="https://news.ycombinator.com/item?id=31909587"/>
+        <updated>2022-06-28T16:12:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Quickly score items on a scale of 1-5]]></summary>
+        <author>
+            <name>leobg</name>
+            <uri>https://news.ycombinator.com/user?id=leobg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[90k计算机视觉数据集和7k预训练模型
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31909532</id>
+        <link href="https://news.ycombinator.com/item?id=31909532"/>
+        <updated>2022-06-28T16:09:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: 90k Computer Vision Datasets and 7k Pre-Trained Models]]></summary>
+        <author>
+            <name>yeldarb</name>
+            <uri>https://news.ycombinator.com/user?id=yeldarb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Msgspec - Python的快速JSON模式库
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>muunbo</name>
             <uri>https://news.ycombinator.com/user?id=muunbo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptid零信任认证和授权，开源的Oberon
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31611483</id>
-        <link href="https://news.ycombinator.com/item?id=31611483"/>
-        <updated>2022-06-03T17:47:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cryptid Zero Trust Authentication and Authorization, Open Source Oberon]]></summary>
-        <author>
-            <name>jratkevic</name>
-            <uri>https://news.ycombinator.com/user?id=jratkevic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我花了一年时间建立了一个在浏览器中运行的桌面环境
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31611016</id>
-        <link href="https://news.ycombinator.com/item?id=31611016"/>
-        <updated>2022-06-03T17:14:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I spent a year building a desktop environment that runs in the browser]]></summary>
-        <author>
-            <name>george0812</name>
-            <uri>https://news.ycombinator.com/user?id=george0812</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 28 Jun 2022 15:33:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 16:51:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在1-5分的範圍內快速給項目打分
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31909587</link>
+            <guid>https://news.ycombinator.com/item?id=31909587</guid>
+            <pubDate>Tue, 28 Jun 2022 16:12:15 GMT</pubDate>
+            <description><![CDATA[Show HN: Quickly score items on a scale of 1-5]]></description>
+        </item>
+        <item>
+            <title><![CDATA[90k計算機視覺數據集和7k預訓練模型
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31909532</link>
+            <guid>https://news.ycombinator.com/item?id=31909532</guid>
+            <pubDate>Tue, 28 Jun 2022 16:09:02 GMT</pubDate>
+            <description><![CDATA[Show HN: 90k Computer Vision Datasets and 7k Pre-Trained Models]]></description>
+        </item>
         <item>
             <title><![CDATA[Msgspec - Python的快速JSON模式庫
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31611725</guid>
             <pubDate>Fri, 03 Jun 2022 18:08:15 GMT</pubDate>
             <description><![CDATA[Show HN: How to connect ESP32s using MicroPython and MQTT]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cryptid零信任認證和授權，開源的Oberon
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31611483</link>
-            <guid>https://news.ycombinator.com/item?id=31611483</guid>
-            <pubDate>Fri, 03 Jun 2022 17:47:59 GMT</pubDate>
-            <description><![CDATA[Show HN: Cryptid Zero Trust Authentication and Authorization, Open Source Oberon]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我花了一年時間建立了一個在瀏覽器中運行的桌面環境
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31611016</link>
-            <guid>https://news.ycombinator.com/item?id=31611016</guid>
-            <pubDate>Fri, 03 Jun 2022 17:14:01 GMT</pubDate>
-            <description><![CDATA[Show HN: I spent a year building a desktop environment that runs in the browser]]></description>
         </item>
     </channel>
 </rss>
