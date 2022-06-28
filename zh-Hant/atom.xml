@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-28T15:01:31.127Z</updated>
+    <updated>2022-06-28T15:33:23.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Msgspec - Python的快速JSON模式庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31908647</id>
+        <link href="https://news.ycombinator.com/item?id=31908647"/>
+        <updated>2022-06-28T15:03:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Msgspec – a fast JSON schema library for Python]]></summary>
+        <author>
+            <name>jammycrisp</name>
+            <uri>https://news.ycombinator.com/user?id=jammycrisp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[還錢。提醒你的朋友和家人償還他們的債務
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31908319</id>
+        <link href="https://news.ycombinator.com/item?id=31908319"/>
+        <updated>2022-06-28T14:42:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Payback: Remind your friends and family to pay their debts]]></summary>
+        <author>
+            <name>ureymutuale</name>
+            <uri>https://news.ycombinator.com/user?id=ureymutuale</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用WASM FFMPEG將YouTube視頻轉換為GIF文件
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>george0812</name>
             <uri>https://news.ycombinator.com/user?id=george0812</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ezbitmap.com，從ASCII藝術中創建美麗的圖像
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31610454</id>
-        <link href="https://news.ycombinator.com/item?id=31610454"/>
-        <updated>2022-06-03T16:24:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ezbitmap.com, create beautiful images from ASCII art]]></summary>
-        <author>
-            <name>drcode</name>
-            <uri>https://news.ycombinator.com/user?id=drcode</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具有本地多頁應用功能的Streamlit
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31610264</id>
-        <link href="https://news.ycombinator.com/item?id=31610264"/>
-        <updated>2022-06-03T16:09:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Streamlit with native multipage app functionality]]></summary>
-        <author>
-            <name>TCR19</name>
-            <uri>https://news.ycombinator.com/user?id=TCR19</uri>
         </author>
     </entry>
 </feed>
