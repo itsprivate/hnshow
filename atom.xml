@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-29T06:56:52.924Z</updated>
+    <updated>2022-06-29T07:59:23.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Whnex - Fast Hacker News Client (Elixir/Phoenix)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31917542</id>
+        <link href="https://news.ycombinator.com/item?id=31917542"/>
+        <updated>2022-06-29T07:52:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Whnex – Fast Hacker News Client (Elixir/Phoenix)]]></summary>
+        <author>
+            <name>mathisfaivre</name>
+            <uri>https://news.ycombinator.com/user?id=mathisfaivre</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yare 2 - RTS，你用代码控制一切
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tslmy</name>
             <uri>https://news.ycombinator.com/user?id=tslmy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stablecoins.WTF - 关于加密稳定币的实时仪表板和内容
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31622075</id>
-        <link href="https://news.ycombinator.com/item?id=31622075"/>
-        <updated>2022-06-04T16:12:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Stablecoins.WTF – Live-Dashboard and Content about Crypto Stablecoins]]></summary>
-        <author>
-            <name>dennis_zoma</name>
-            <uri>https://news.ycombinator.com/user?id=dennis_zoma</uri>
         </author>
     </entry>
 </feed>
