@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-29T10:35:03.283Z</updated>
+    <updated>2022-06-29T11:28:07.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Safari的扩展
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31918687</id>
+        <link href="https://news.ycombinator.com/item?id=31918687"/>
+        <updated>2022-06-29T11:22:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Safari Extensions]]></summary>
+        <author>
+            <name>willswire</name>
+            <uri>https://news.ycombinator.com/user?id=willswire</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebReducer：在几秒钟内建立具有状态的独立HTTP端点
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31918616</id>
+        <link href="https://news.ycombinator.com/item?id=31918616"/>
+        <updated>2022-06-29T11:10:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WebReducer: build self-contained HTTP endpoints with state in seconds]]></summary>
+        <author>
+            <name>zekenie</name>
+            <uri>https://news.ycombinator.com/user?id=zekenie</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BotDeploy - 在AWS上一键生成Telegram、Slack或Discord机器人
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>janpaul123</name>
             <uri>https://news.ycombinator.com/user?id=janpaul123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grid.js - 在任何地方都能使用的高级表格库(2020)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31626268</id>
-        <link href="https://news.ycombinator.com/item?id=31626268"/>
-        <updated>2022-06-04T23:35:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Grid.js – Advanced table library that works everywhere (2020)]]></summary>
-        <author>
-            <name>ddtaylor</name>
-            <uri>https://news.ycombinator.com/user?id=ddtaylor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whattocook.org
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31625791</id>
-        <link href="https://news.ycombinator.com/item?id=31625791"/>
-        <updated>2022-06-04T22:38:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Whattocook.org]]></summary>
-        <author>
-            <name>nadermx</name>
-            <uri>https://news.ycombinator.com/user?id=nadermx</uri>
         </author>
     </entry>
 </feed>
