@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 29 Jun 2022 09:30:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 10:35:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[BotDeploy - 在AWS上一鍵生成Telegram、Slack或Discord機器人
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31918306</link>
+            <guid>https://news.ycombinator.com/item?id=31918306</guid>
+            <pubDate>Wed, 29 Jun 2022 10:19:26 GMT</pubDate>
+            <description><![CDATA[Show HN: BotDeploy – A Telegram, Slack or Discord bot on AWS in one click]]></description>
+        </item>
         <item>
             <title><![CDATA[imglab - 按需進行圖像優化和處理
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31625791</guid>
             <pubDate>Sat, 04 Jun 2022 22:38:21 GMT</pubDate>
             <description><![CDATA[Show HN: Whattocook.org]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AWS Lambda中的臨時遠程執行
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31624064</link>
-            <guid>https://news.ycombinator.com/item?id=31624064</guid>
-            <pubDate>Sat, 04 Jun 2022 19:12:39 GMT</pubDate>
-            <description><![CDATA[Show HN: Adhoc remote execution in AWS Lambda]]></description>
         </item>
     </channel>
 </rss>
