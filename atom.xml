@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-29T21:31:55.509Z</updated>
+    <updated>2022-06-29T22:29:59.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Let's Gym，这个应用程序可以让你找到附近的健身伙伴。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31926342</id>
+        <link href="https://news.ycombinator.com/item?id=31926342"/>
+        <updated>2022-06-29T22:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Let’s Gym, the app that lets you find a nearby Gym Partner]]></summary>
+        <author>
+            <name>belalkamara</name>
+            <uri>https://news.ycombinator.com/user?id=belalkamara</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[美国个人所得税的计算器，从1970年到现在
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>oblib</name>
             <uri>https://news.ycombinator.com/user?id=oblib</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[印章--为你的私人想法提供可验证的时间戳
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31637150</id>
-        <link href="https://news.ycombinator.com/item?id=31637150"/>
-        <updated>2022-06-06T04:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Seal – Verifiable timestamp for your private ideas]]></summary>
-        <author>
-            <name>losfair</name>
-            <uri>https://news.ycombinator.com/user?id=losfair</uri>
         </author>
     </entry>
 </feed>
