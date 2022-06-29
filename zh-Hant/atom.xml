@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-29T20:33:00.335Z</updated>
+    <updated>2022-06-29T21:31:55.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[美國個人所得稅的計算器，從1970年到現在
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31925871</id>
+        <link href="https://news.ycombinator.com/item?id=31925871"/>
+        <updated>2022-06-29T21:22:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Calculator for US Individual Income tax, from 1970-present]]></summary>
+        <author>
+            <name>tmm1</name>
+            <uri>https://news.ycombinator.com/user?id=tmm1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sudopad - 朋友們的私人鏈接分享板
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31925712</id>
+        <link href="https://news.ycombinator.com/item?id=31925712"/>
+        <updated>2022-06-29T21:06:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sudopad – Private link sharing board for friends]]></summary>
+        <author>
+            <name>ishanr</name>
+            <uri>https://news.ycombinator.com/user?id=ishanr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[D'Ehre - 用巴伐利亞語說你好
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>losfair</name>
             <uri>https://news.ycombinator.com/user?id=losfair</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pidove，Java Streams API的替代品
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31636768</id>
-        <link href="https://news.ycombinator.com/item?id=31636768"/>
-        <updated>2022-06-06T02:21:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pidove, an Alternative to the Java Streams API]]></summary>
-        <author>
-            <name>PaulHoule</name>
-            <uri>https://news.ycombinator.com/user?id=PaulHoule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[立體攝像機的端到端3D手部姿勢估計
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31636401</id>
-        <link href="https://news.ycombinator.com/item?id=31636401"/>
-        <updated>2022-06-06T01:07:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: End-to-End 3D Hand Pose Estimation from Stereo Cameras]]></summary>
-        <author>
-            <name>upwardbound</name>
-            <uri>https://news.ycombinator.com/user?id=upwardbound</uri>
         </author>
     </entry>
 </feed>
