@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-29T17:57:49.386Z</updated>
+    <updated>2022-06-29T19:07:05.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[熱泵成本比較
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31924066</id>
+        <link href="https://news.ycombinator.com/item?id=31924066"/>
+        <updated>2022-06-29T18:37:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Heat Pump Cost Comparison]]></summary>
+        <author>
+            <name>Siecje</name>
+            <uri>https://news.ycombinator.com/user?id=Siecje</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對抗式2048
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hbagdi</name>
             <uri>https://news.ycombinator.com/user?id=hbagdi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaktime，一個用Rust編寫的CLI應用程序（很差）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31635094</id>
-        <link href="https://news.ycombinator.com/item?id=31635094"/>
-        <updated>2022-06-05T21:41:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Breaktime, a CLI app that's (poorly) written in Rust]]></summary>
-        <author>
-            <name>MathCodeLove</name>
-            <uri>https://news.ycombinator.com/user?id=MathCodeLove</uri>
         </author>
     </entry>
 </feed>
