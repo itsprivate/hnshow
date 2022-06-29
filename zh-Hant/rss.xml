@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 29 Jun 2022 13:04:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 13:55:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[創建拉動請求的分步演練
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31919904</link>
+            <guid>https://news.ycombinator.com/item?id=31919904</guid>
+            <pubDate>Wed, 29 Jun 2022 13:36:10 GMT</pubDate>
+            <description><![CDATA[Show HN: Create a Step-by-Step Walkthrough of a Pull Request]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一個更難的Wordle版本
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31919706</link>
+            <guid>https://news.ycombinator.com/item?id=31919706</guid>
+            <pubDate>Wed, 29 Jun 2022 13:20:43 GMT</pubDate>
+            <description><![CDATA[Show HN: A Harder Version of Wordle]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用reactpwa.com創建了超快的PWA應用程序
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31919471</link>
+            <guid>https://news.ycombinator.com/item?id=31919471</guid>
+            <pubDate>Wed, 29 Jun 2022 12:54:36 GMT</pubDate>
+            <description><![CDATA[Show HN: Created super-fast PWA app using reactpwa.com]]></description>
+        </item>
         <item>
             <title><![CDATA[私人擁有或共同使用DialMe電話號碼，在網上接收短信
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31629754</guid>
             <pubDate>Sun, 05 Jun 2022 10:45:10 GMT</pubDate>
             <description><![CDATA[Show HN: Domain driven design with Node.js template]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一條內插3個點的二次方曲線
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31628899</link>
-            <guid>https://news.ycombinator.com/item?id=31628899</guid>
-            <pubDate>Sun, 05 Jun 2022 07:53:52 GMT</pubDate>
-            <description><![CDATA[Show HN: A quadratic curve interpolating 3 points]]></description>
-        </item>
-        <item>
-            <title><![CDATA[尼克斯發展框架(Nim)
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31628895</link>
-            <guid>https://news.ycombinator.com/item?id=31628895</guid>
-            <pubDate>Sun, 05 Jun 2022 07:52:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Nexus Development Framework (Nim)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[觸摸屏幕邊緣時向KVM/HDMI矩陣設備發送命令
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31628709</link>
-            <guid>https://news.ycombinator.com/item?id=31628709</guid>
-            <pubDate>Sun, 05 Jun 2022 07:03:26 GMT</pubDate>
-            <description><![CDATA[Show HN: Send commands to KVM/HDMI matrix devices when touching screen edge]]></description>
         </item>
     </channel>
 </rss>

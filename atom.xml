@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-29T13:04:00.940Z</updated>
+    <updated>2022-06-29T13:55:17.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[创建拉动请求的分步演练
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31919904</id>
+        <link href="https://news.ycombinator.com/item?id=31919904"/>
+        <updated>2022-06-29T13:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Create a Step-by-Step Walkthrough of a Pull Request]]></summary>
+        <author>
+            <name>domagoj412</name>
+            <uri>https://news.ycombinator.com/user?id=domagoj412</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个更难的Wordle版本
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31919706</id>
+        <link href="https://news.ycombinator.com/item?id=31919706"/>
+        <updated>2022-06-29T13:20:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Harder Version of Wordle]]></summary>
+        <author>
+            <name>danieltait</name>
+            <uri>https://news.ycombinator.com/user?id=danieltait</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用reactpwa.com创建了超快的PWA应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31919471</id>
+        <link href="https://news.ycombinator.com/item?id=31919471"/>
+        <updated>2022-06-29T12:54:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Created super-fast PWA app using reactpwa.com]]></summary>
+        <author>
+            <name>avkpatel</name>
+            <uri>https://news.ycombinator.com/user?id=avkpatel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[私人拥有或共同使用DialMe电话号码，在网上接收短信
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>revskill</name>
             <uri>https://news.ycombinator.com/user?id=revskill</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一条内插3个点的二次方曲线
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31628899</id>
-        <link href="https://news.ycombinator.com/item?id=31628899"/>
-        <updated>2022-06-05T07:53:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A quadratic curve interpolating 3 points]]></summary>
-        <author>
-            <name>martyalain</name>
-            <uri>https://news.ycombinator.com/user?id=martyalain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尼克斯发展框架(Nim)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31628895</id>
-        <link href="https://news.ycombinator.com/item?id=31628895"/>
-        <updated>2022-06-05T07:52:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Nexus Development Framework (Nim)]]></summary>
-        <author>
-            <name>jasfi</name>
-            <uri>https://news.ycombinator.com/user?id=jasfi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[触摸屏幕边缘时向KVM/HDMI矩阵设备发送命令
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31628709</id>
-        <link href="https://news.ycombinator.com/item?id=31628709"/>
-        <updated>2022-06-05T07:03:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Send commands to KVM/HDMI matrix devices when touching screen edge]]></summary>
-        <author>
-            <name>tim--</name>
-            <uri>https://news.ycombinator.com/user?id=tim--</uri>
         </author>
     </entry>
 </feed>
