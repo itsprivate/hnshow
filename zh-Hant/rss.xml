@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 29 Jun 2022 13:55:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 14:06:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我寫了一本關於如何僱用和管理遠程團隊的書
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31920047</link>
+            <guid>https://news.ycombinator.com/item?id=31920047</guid>
+            <pubDate>Wed, 29 Jun 2022 13:48:15 GMT</pubDate>
+            <description><![CDATA[Show HN: I wrote a book on how to hire and manage remote teams]]></description>
+        </item>
         <item>
             <title><![CDATA[創建拉動請求的分步演練
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31630132</guid>
             <pubDate>Sun, 05 Jun 2022 11:52:36 GMT</pubDate>
             <description><![CDATA[Show HN: An interactive tutorial on symmetric encryption]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Node.js模板進行領域驅動設計
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31629754</link>
-            <guid>https://news.ycombinator.com/item?id=31629754</guid>
-            <pubDate>Sun, 05 Jun 2022 10:45:10 GMT</pubDate>
-            <description><![CDATA[Show HN: Domain driven design with Node.js template]]></description>
         </item>
     </channel>
 </rss>
