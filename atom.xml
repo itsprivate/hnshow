@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-30T02:35:58.854Z</updated>
+    <updated>2022-06-30T04:00:09.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在一个无限的画布中使用任何网络SaaS
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31928477</id>
+        <link href="https://news.ycombinator.com/item?id=31928477"/>
+        <updated>2022-06-30T03:32:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Use any web SaaS in an infinite canvas]]></summary>
+        <author>
+            <name>zhangruinan</name>
+            <uri>https://news.ycombinator.com/user?id=zhangruinan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS自动清理 - 自动清理你的AWS账户
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jensneuse</name>
             <uri>https://news.ycombinator.com/user?id=jensneuse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微型LZMA解码器(X86汇编代码高尔夫)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31638552</id>
-        <link href="https://news.ycombinator.com/item?id=31638552"/>
-        <updated>2022-06-06T09:27:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Micro LZMA decoder (x86 assembly code golf)]]></summary>
-        <author>
-            <name>jpegqs</name>
-            <uri>https://news.ycombinator.com/user?id=jpegqs</uri>
         </author>
     </entry>
 </feed>
