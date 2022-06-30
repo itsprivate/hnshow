@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 30 Jun 2022 21:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 22:01:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[S3-OCR: 从存储在S3桶中的PDF文件中提取文本
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31939094</link>
+            <guid>https://news.ycombinator.com/item?id=31939094</guid>
+            <pubDate>Thu, 30 Jun 2022 21:50:05 GMT</pubDate>
+            <description><![CDATA[Show HN: S3-OCR: Extract text from PDF files stored in an S3 bucket]]></description>
+        </item>
         <item>
             <title><![CDATA[Homechart，让你的家庭保持同步，简化你的生活
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31656007</guid>
             <pubDate>Tue, 07 Jun 2022 15:44:21 GMT</pubDate>
             <description><![CDATA[Show HN: Harmonic, HN Client for Android]]></description>
-        </item>
-        <item>
-            <title><![CDATA[召回 - 您的个人百科全书
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31655676</link>
-            <guid>https://news.ycombinator.com/item?id=31655676</guid>
-            <pubDate>Tue, 07 Jun 2022 15:20:48 GMT</pubDate>
-            <description><![CDATA[Show HN: Recall – Your Personal Encyclopedia]]></description>
         </item>
     </channel>
 </rss>

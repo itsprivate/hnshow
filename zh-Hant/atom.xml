@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-30T21:48:28.753Z</updated>
+    <updated>2022-06-30T22:01:28.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[S3-OCR: 從存儲在S3桶中的PDF文件中提取文本
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31939094</id>
+        <link href="https://news.ycombinator.com/item?id=31939094"/>
+        <updated>2022-06-30T21:50:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: S3-OCR: Extract text from PDF files stored in an S3 bucket]]></summary>
+        <author>
+            <name>simonw</name>
+            <uri>https://news.ycombinator.com/user?id=simonw</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Homechart，讓你的家庭保持同步，簡化你的生活
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>aarobot</name>
             <uri>https://news.ycombinator.com/user?id=aarobot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[召回 - 您的個人百科全書
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31655676</id>
-        <link href="https://news.ycombinator.com/item?id=31655676"/>
-        <updated>2022-06-07T15:20:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Recall – Your Personal Encyclopedia]]></summary>
-        <author>
-            <name>paulrchds</name>
-            <uri>https://news.ycombinator.com/user?id=paulrchds</uri>
         </author>
     </entry>
 </feed>
