@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-30T22:01:28.289Z</updated>
+    <updated>2022-06-30T23:01:00.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[创业学校操作系统 - 创业学校的概念操作系统（免费）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31939760</id>
+        <link href="https://news.ycombinator.com/item?id=31939760"/>
+        <updated>2022-06-30T22:57:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Startup School OS – A Notion Operating System for Startup School (Free)]]></summary>
+        <author>
+            <name>ivanesro</name>
+            <uri>https://news.ycombinator.com/user?id=ivanesro</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[S3-OCR: 从存储在S3桶中的PDF文件中提取文本
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jc_sec</name>
             <uri>https://news.ycombinator.com/user?id=jc_sec</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harmonic，Android的HN客户端
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31656007</id>
-        <link href="https://news.ycombinator.com/item?id=31656007"/>
-        <updated>2022-06-07T15:44:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Harmonic, HN Client for Android]]></summary>
-        <author>
-            <name>aarobot</name>
-            <uri>https://news.ycombinator.com/user?id=aarobot</uri>
         </author>
     </entry>
 </feed>
