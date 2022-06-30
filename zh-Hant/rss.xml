@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 30 Jun 2022 14:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 14:32:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[開放我的Web3書籤，我每天都在使用。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31932464</link>
+            <guid>https://news.ycombinator.com/item?id=31932464</guid>
+            <pubDate>Thu, 30 Jun 2022 14:03:49 GMT</pubDate>
+            <description><![CDATA[Show HN: Open sourcing my Web3 bookmarks that I use everyday]]></description>
+        </item>
         <item>
             <title><![CDATA[Featureform - 一個用於ML的開源特徵庫
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31646285</guid>
             <pubDate>Mon, 06 Jun 2022 21:08:22 GMT</pubDate>
             <description><![CDATA[Show HN: Rust Lisp Interpreter with FFI]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ScrapeMagic API - 使用GPT3的自然語言進行搜刮
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31645777</link>
-            <guid>https://news.ycombinator.com/item?id=31645777</guid>
-            <pubDate>Mon, 06 Jun 2022 20:28:57 GMT</pubDate>
-            <description><![CDATA[Show HN: ScrapeMagic API – Scraping with Natural Language Using GPT3]]></description>
         </item>
     </channel>
 </rss>
