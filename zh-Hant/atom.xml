@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-30T19:05:54.359Z</updated>
+    <updated>2022-06-30T20:33:12.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Bentoctl - 一個用於ML的開源Terraform部署工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31937775</id>
+        <link href="https://news.ycombinator.com/item?id=31937775"/>
+        <updated>2022-06-30T19:58:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bentoctl – An open-source Terraform deployment tool for ML]]></summary>
+        <author>
+            <name>yubozhao</name>
+            <uri>https://news.ycombinator.com/user?id=yubozhao</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[網絡組件和Lit的入門
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>latebird22</name>
             <uri>https://news.ycombinator.com/user?id=latebird22</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公司財務數據（10年），免費並可下載
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31654085</id>
-        <link href="https://news.ycombinator.com/item?id=31654085"/>
-        <updated>2022-06-07T13:36:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Company Financials data (10yr), free and downloadable]]></summary>
-        <author>
-            <name>spxdcz</name>
-            <uri>https://news.ycombinator.com/user?id=spxdcz</uri>
         </author>
     </entry>
 </feed>
