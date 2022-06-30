@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 30 Jun 2022 20:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 21:30:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[對文件、網站、圖像的音頻、視頻、文本反饋
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31938565</link>
+            <guid>https://news.ycombinator.com/item?id=31938565</guid>
+            <pubDate>Thu, 30 Jun 2022 21:01:43 GMT</pubDate>
+            <description><![CDATA[Show HN: Audio, video, text feedback on documents, websites, images]]></description>
+        </item>
         <item>
             <title><![CDATA[Bentoctl - 一個用於ML的開源Terraform部署工具
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31653726</guid>
             <pubDate>Tue, 07 Jun 2022 13:11:51 GMT</pubDate>
             <description><![CDATA[Show HN: The Bitcoin Note – Secure, Self-Custodial Bitcoin Wallets in Cash Form]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SetOps - 在你自己的AWS賬戶中運行容器、數據庫和更多東西
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31654696</link>
-            <guid>https://news.ycombinator.com/item?id=31654696</guid>
-            <pubDate>Tue, 07 Jun 2022 14:19:09 GMT</pubDate>
-            <description><![CDATA[Show HN: SetOps – Run containers, databases and more in your own AWS account]]></description>
         </item>
     </channel>
 </rss>

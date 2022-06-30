@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-30T20:33:12.561Z</updated>
+    <updated>2022-06-30T21:30:07.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[对文件、网站、图像的音频、视频、文本反馈
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31938565</id>
+        <link href="https://news.ycombinator.com/item?id=31938565"/>
+        <updated>2022-06-30T21:01:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Audio, video, text feedback on documents, websites, images]]></summary>
+        <author>
+            <name>samiezkay</name>
+            <uri>https://news.ycombinator.com/user?id=samiezkay</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bentoctl - 一个用于ML的开源Terraform部署工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>paulgerhardt</name>
             <uri>https://news.ycombinator.com/user?id=paulgerhardt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SetOps - 在你自己的AWS账户中运行容器、数据库和更多东西
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31654696</id>
-        <link href="https://news.ycombinator.com/item?id=31654696"/>
-        <updated>2022-06-07T14:19:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: SetOps – Run containers, databases and more in your own AWS account]]></summary>
-        <author>
-            <name>latebird22</name>
-            <uri>https://news.ycombinator.com/user?id=latebird22</uri>
         </author>
     </entry>
 </feed>
