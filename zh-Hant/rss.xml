@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 30 Jun 2022 09:01:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 14:06:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Featureform - 一個用於ML的開源特徵庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31932434</link>
+            <guid>https://news.ycombinator.com/item?id=31932434</guid>
+            <pubDate>Thu, 30 Jun 2022 14:00:09 GMT</pubDate>
+            <description><![CDATA[Show HN: Featureform – An open-source Feature Store for ML]]></description>
+        </item>
         <item>
             <title><![CDATA[免費GraphQL安全快速掃描
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31645777</guid>
             <pubDate>Mon, 06 Jun 2022 20:28:57 GMT</pubDate>
             <description><![CDATA[Show HN: ScrapeMagic API – Scraping with Natural Language Using GPT3]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ZetaMerge - 用於將Google Sheet數據合併到Google Docs的新插件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31643624</link>
-            <guid>https://news.ycombinator.com/item?id=31643624</guid>
-            <pubDate>Mon, 06 Jun 2022 18:00:46 GMT</pubDate>
-            <description><![CDATA[Show HN: ZetaMerge – New add-on for merging Google Sheet data into Google Docs]]></description>
         </item>
     </channel>
 </rss>
