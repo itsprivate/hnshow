@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-30T04:00:09.085Z</updated>
+    <updated>2022-06-30T04:54:02.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[JoinBase - 为物联网时代创造了一个前所未有的数据库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31928694</id>
+        <link href="https://news.ycombinator.com/item?id=31928694"/>
+        <updated>2022-06-30T04:20:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: JoinBase – Creates an Unprecedented Database for IoT Era]]></summary>
+        <author>
+            <name>jinmingjian</name>
+            <uri>https://news.ycombinator.com/user?id=jinmingjian</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在一个无限的画布中使用任何网络SaaS
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dbieber</name>
             <uri>https://news.ycombinator.com/user?id=dbieber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WunderGraph - 开源的API开发者工具包
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31639879</id>
-        <link href="https://news.ycombinator.com/item?id=31639879"/>
-        <updated>2022-06-06T12:59:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WunderGraph – open-source API Developer Toolkit]]></summary>
-        <author>
-            <name>jensneuse</name>
-            <uri>https://news.ycombinator.com/user?id=jensneuse</uri>
         </author>
     </entry>
 </feed>
