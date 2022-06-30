@@ -11,6 +11,38 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=31927584",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31927584",
+            "title": "AWS自動清理 - 自動清理你的AWS賬戶\n",
+            "summary": "Show HN: AWS Auto Cleanup – Automatically cleanup your AWS account",
+            "date_modified": "2022-06-30T01:01:29.000Z",
+            "author": {
+                "name": "mlevit",
+                "url": "https://news.ycombinator.com/user?id=mlevit"
+            },
+            "_original_headline": "Show HN: AWS Auto Cleanup – Automatically cleanup your AWS account",
+            "_original_url": "https://news.ycombinator.com/item?id=31927584",
+            "_sensitive": false,
+            "_score": 1
+        },
+        {
+            "id": "https://news.ycombinator.com/item?id=31927235",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=31927235",
+            "title": "在Redpanda中使用Flink\n",
+            "summary": "Show HN: Using Flink with Redpanda",
+            "date_modified": "2022-06-30T00:01:43.000Z",
+            "author": {
+                "name": "northstar702",
+                "url": "https://news.ycombinator.com/user?id=northstar702"
+            },
+            "_original_headline": "Show HN: Using Flink with Redpanda",
+            "_original_url": "https://redpanda.com/blog/apache-flink-redpanda-real-time-word-count-application",
+            "_sensitive": false,
+            "_score": 2
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=31926452",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=31926452",
@@ -9577,38 +9609,6 @@
             "_original_url": "https://github.com/ilyakurdyukov/micro-lzmadec",
             "_sensitive": false,
             "_score": 1
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31638542",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31638542",
-            "title": "用一個補丁修復Chrome的字體渲染伽馬問題\n",
-            "summary": "Show HN: Fix Chrome's font rendering gamma issue with a single patch",
-            "date_modified": "2022-06-06T09:25:12.000Z",
-            "author": {
-                "name": "Shadonototra",
-                "url": "https://news.ycombinator.com/user?id=Shadonototra"
-            },
-            "_original_headline": "Show HN: Fix Chrome's font rendering gamma issue with a single patch",
-            "_original_url": "https://gist.github.com/ryuukk/5fcbafabafd85fda1a8d94e31bdbf754",
-            "_sensitive": false,
-            "_score": 1
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31637781",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31637781",
-            "title": "Arttime v1.3.0增加了交互式時區選擇器，更多內容即將推出\n",
-            "summary": "Show HN: Arttime v1.3.0 adds interactive timezone selector, more to come",
-            "date_modified": "2022-06-06T06:34:39.000Z",
-            "author": {
-                "name": "reportaman",
-                "url": "https://news.ycombinator.com/user?id=reportaman"
-            },
-            "_original_headline": "Show HN: Arttime v1.3.0 adds interactive timezone selector, more to come",
-            "_original_url": "https://github.com/reportaman/arttime/releases/tag/v1.3.0",
-            "_sensitive": false,
-            "_score": 2
         }
     ]
 }
