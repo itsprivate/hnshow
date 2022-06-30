@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-30T23:01:00.189Z</updated>
+    <updated>2022-06-30T23:47:41.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[裁员支持
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31940185</id>
+        <link href="https://news.ycombinator.com/item?id=31940185"/>
+        <updated>2022-06-30T23:41:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Layoff Support]]></summary>
+        <author>
+            <name>jacob_rezi</name>
+            <uri>https://news.ycombinator.com/user?id=jacob_rezi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我写了一个关于GPT-3的故事 写了一个关于我写GPT3的故事
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31940115</id>
+        <link href="https://news.ycombinator.com/item?id=31940115"/>
+        <updated>2022-06-30T23:33:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I wrote a story about GPT-3 writing a story about me writing about GPT3]]></summary>
+        <author>
+            <name>whatrocks</name>
+            <uri>https://news.ycombinator.com/user?id=whatrocks</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[创业学校操作系统 - 创业学校的概念操作系统（免费）。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>merwanedr</name>
             <uri>https://news.ycombinator.com/user?id=merwanedr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[间隔，浏览器中的CLI，没有前端代码
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31656496</id>
-        <link href="https://news.ycombinator.com/item?id=31656496"/>
-        <updated>2022-06-07T16:14:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Interval, CLIs in browser with no front end code]]></summary>
-        <author>
-            <name>alexarena</name>
-            <uri>https://news.ycombinator.com/user?id=alexarena</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tensu - 用于Sensu Go的TUI仪表板
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31656245</id>
-        <link href="https://news.ycombinator.com/item?id=31656245"/>
-        <updated>2022-06-07T15:59:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tensu – A TUI Dashboard for Sensu Go]]></summary>
-        <author>
-            <name>jc_sec</name>
-            <uri>https://news.ycombinator.com/user?id=jc_sec</uri>
         </author>
     </entry>
 </feed>
