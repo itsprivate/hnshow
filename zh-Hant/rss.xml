@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 30 Jun 2022 04:54:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 06:36:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[djkube在AWS EKS上快速啟動你的Django項目
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31929071</link>
+            <guid>https://news.ycombinator.com/item?id=31929071</guid>
+            <pubDate>Thu, 30 Jun 2022 05:55:26 GMT</pubDate>
+            <description><![CDATA[Show HN: djkube launch your Django project on AWS EKS in no time]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用Fastly Compute-at-Edge的WebSocket演示
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31929058</link>
+            <guid>https://news.ycombinator.com/item?id=31929058</guid>
+            <pubDate>Thu, 30 Jun 2022 05:52:29 GMT</pubDate>
+            <description><![CDATA[Show HN: WebSocket demo using Fastly Compute-at-Edge]]></description>
+        </item>
         <item>
             <title><![CDATA[JoinBase - 為物聯網時代創造了一個前所未有的數據庫
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31642064</guid>
             <pubDate>Mon, 06 Jun 2022 15:53:33 GMT</pubDate>
             <description><![CDATA[Show HN: Brx – flow state bionic reading in the terminal (written in rust)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dns.Toys
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31641306</link>
-            <guid>https://news.ycombinator.com/item?id=31641306</guid>
-            <pubDate>Mon, 06 Jun 2022 14:57:38 GMT</pubDate>
-            <description><![CDATA[Show HN: Dns.toys]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Python中的神奇函數
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31641013</link>
-            <guid>https://news.ycombinator.com/item?id=31641013</guid>
-            <pubDate>Mon, 06 Jun 2022 14:33:58 GMT</pubDate>
-            <description><![CDATA[Show HN: Magic Functions in Python]]></description>
         </item>
     </channel>
 </rss>
