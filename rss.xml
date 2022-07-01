@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 01 Jul 2022 17:43:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 18:00:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用于MacOS的空间
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31950049</link>
+            <guid>https://news.ycombinator.com/item?id=31950049</guid>
+            <pubDate>Fri, 01 Jul 2022 17:48:35 GMT</pubDate>
+            <description><![CDATA[Show HN: Spaces for macOS]]></description>
+        </item>
         <item>
             <title><![CDATA[寻路者
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31666450</guid>
             <pubDate>Wed, 08 Jun 2022 12:46:24 GMT</pubDate>
             <description><![CDATA[Show HN: I've built a CLI to create remote dev envs as a Go learning project]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tasqueue - Go中简单、可定制的分布式作业/工作器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31665924</link>
-            <guid>https://news.ycombinator.com/item?id=31665924</guid>
-            <pubDate>Wed, 08 Jun 2022 11:45:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Tasqueue – A simple, customisable distributed job/worker in Go]]></description>
         </item>
     </channel>
 </rss>
