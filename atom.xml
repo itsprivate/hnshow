@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-01T20:32:43.559Z</updated>
+    <updated>2022-07-01T21:02:41.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Docker中的Redbean 2.0
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31952678</id>
+        <link href="https://news.ycombinator.com/item?id=31952678"/>
+        <updated>2022-07-01T20:50:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Redbean 2.0 in Docker]]></summary>
+        <author>
+            <name>kissgyorgy</name>
+            <uri>https://news.ycombinator.com/user?id=kissgyorgy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flair - 用低代码构建Web3应用程序
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>johnjuanlin</name>
             <uri>https://news.ycombinator.com/user?id=johnjuanlin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可铸造的视频
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31670251</id>
-        <link href="https://news.ycombinator.com/item?id=31670251"/>
-        <updated>2022-06-08T16:56:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: castable-video]]></summary>
-        <author>
-            <name>luwes</name>
-            <uri>https://news.ycombinator.com/user?id=luwes</uri>
         </author>
     </entry>
 </feed>
