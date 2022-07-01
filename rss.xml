@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 01 Jul 2022 13:00:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 13:55:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[CSVFiddle - 在浏览器中用DuckDB查询CSV文件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31946039</link>
+            <guid>https://news.ycombinator.com/item?id=31946039</guid>
+            <pubDate>Fri, 01 Jul 2022 13:27:12 GMT</pubDate>
+            <description><![CDATA[Show HN: CSVFiddle – Query CSV files with DuckDB in the browser]]></description>
+        </item>
+        <item>
+            <title><![CDATA[免费的Calendly替代方案（以及建立该方案1年来的经验教训）
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31945742</link>
+            <guid>https://news.ycombinator.com/item?id=31945742</guid>
+            <pubDate>Fri, 01 Jul 2022 12:57:56 GMT</pubDate>
+            <description><![CDATA[Show HN: Free Calendly alternative (and lessons learned from 1 year building it)]]></description>
+        </item>
         <item>
             <title><![CDATA[Simple-Ops - 一个GitOps存储库管理工具
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31660213</guid>
             <pubDate>Tue, 07 Jun 2022 21:20:00 GMT</pubDate>
             <description><![CDATA[Show HN: Postman but for the CLI]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我在Ionic和Angular中建立了一个 "Spot It "的克隆版
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31659478</link>
-            <guid>https://news.ycombinator.com/item?id=31659478</guid>
-            <pubDate>Tue, 07 Jun 2022 20:09:44 GMT</pubDate>
-            <description><![CDATA[Show HN: I Built a “Spot It ” Clone in Ionic and Angular]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个开源的、隐私友好的谷歌分析和GTM替代品
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31658627</link>
-            <guid>https://news.ycombinator.com/item?id=31658627</guid>
-            <pubDate>Tue, 07 Jun 2022 18:57:24 GMT</pubDate>
-            <description><![CDATA[Show HN: An open-source, privacy-friendly Google Analytics and GTM alternative]]></description>
         </item>
     </channel>
 </rss>
