@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-01T18:00:17.193Z</updated>
+    <updated>2022-07-01T18:40:27.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Baghchal.net，一個實時的雙人棋盤遊戲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31950375</id>
+        <link href="https://news.ycombinator.com/item?id=31950375"/>
+        <updated>2022-07-01T18:09:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Baghchal.net, a real-time two player board game]]></summary>
+        <author>
+            <name>bhu1st</name>
+            <uri>https://news.ycombinator.com/user?id=bhu1st</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於MacOS的空間
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kloch</name>
             <uri>https://news.ycombinator.com/user?id=kloch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一個CLI來創建遠程開發環境，作為一個Go學習項目
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31666450</id>
-        <link href="https://news.ycombinator.com/item?id=31666450"/>
-        <updated>2022-06-08T12:46:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I've built a CLI to create remote dev envs as a Go learning project]]></summary>
-        <author>
-            <name>jeremylevy</name>
-            <uri>https://news.ycombinator.com/user?id=jeremylevy</uri>
         </author>
     </entry>
 </feed>
