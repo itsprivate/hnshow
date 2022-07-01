@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-01T18:40:27.211Z</updated>
+    <updated>2022-07-01T19:00:24.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[共享--数据交换和持久化的三要素
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31950844</id>
+        <link href="https://news.ycombinator.com/item?id=31950844"/>
+        <updated>2022-07-01T18:39:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Shared – Triptych for data exchange and persistence]]></summary>
+        <author>
+            <name>alexrustic</name>
+            <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Baghchal.net，一个实时的双人棋盘游戏
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>soorajsanker</name>
             <uri>https://news.ycombinator.com/user?id=soorajsanker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ip4.me/ip6.me API现在显示X-Forwarded-For和RFC7239报头
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31666825</id>
-        <link href="https://news.ycombinator.com/item?id=31666825"/>
-        <updated>2022-06-08T13:15:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ip4.me/ip6.me API now shows X-Forwarded-For and RFC7239 headers]]></summary>
-        <author>
-            <name>kloch</name>
-            <uri>https://news.ycombinator.com/user?id=kloch</uri>
         </author>
     </entry>
 </feed>

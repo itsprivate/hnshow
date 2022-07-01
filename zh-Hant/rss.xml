@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 01 Jul 2022 18:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 19:00:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[共享--數據交換和持久化的三要素
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31950844</link>
+            <guid>https://news.ycombinator.com/item?id=31950844</guid>
+            <pubDate>Fri, 01 Jul 2022 18:39:24 GMT</pubDate>
+            <description><![CDATA[Show HN: Shared – Triptych for data exchange and persistence]]></description>
+        </item>
         <item>
             <title><![CDATA[Baghchal.net，一個實時的雙人棋盤遊戲
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31667115</guid>
             <pubDate>Wed, 08 Jun 2022 13:36:09 GMT</pubDate>
             <description><![CDATA[Show HN: PgAdmin OSS Alternative]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ip4.me/ip6.me API現在顯示X-Forwarded-For和RFC7239報頭
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31666825</link>
-            <guid>https://news.ycombinator.com/item?id=31666825</guid>
-            <pubDate>Wed, 08 Jun 2022 13:15:49 GMT</pubDate>
-            <description><![CDATA[Show HN: Ip4.me/ip6.me API now shows X-Forwarded-For and RFC7239 headers]]></description>
         </item>
     </channel>
 </rss>
