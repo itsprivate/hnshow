@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 01 Jul 2022 19:00:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 19:31:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用這個瀏覽器擴展快速查看HN的趨勢帖子
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31951167</link>
+            <guid>https://news.ycombinator.com/item?id=31951167</guid>
+            <pubDate>Fri, 01 Jul 2022 19:04:14 GMT</pubDate>
+            <description><![CDATA[Show HN: Quickly see trending HN posts with this browser extension]]></description>
+        </item>
         <item>
             <title><![CDATA[共享--數據交換和持久化的三要素
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31668648</guid>
             <pubDate>Wed, 08 Jun 2022 15:19:17 GMT</pubDate>
             <description><![CDATA[Show HN: A game fully contained in a link]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PgAdmin OSS替代品
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31667115</link>
-            <guid>https://news.ycombinator.com/item?id=31667115</guid>
-            <pubDate>Wed, 08 Jun 2022 13:36:09 GMT</pubDate>
-            <description><![CDATA[Show HN: PgAdmin OSS Alternative]]></description>
         </item>
     </channel>
 </rss>

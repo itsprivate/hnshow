@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-01T19:00:24.069Z</updated>
+    <updated>2022-07-01T19:31:03.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用這個瀏覽器擴展快速查看HN的趨勢帖子
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31951167</id>
+        <link href="https://news.ycombinator.com/item?id=31951167"/>
+        <updated>2022-07-01T19:04:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Quickly see trending HN posts with this browser extension]]></summary>
+        <author>
+            <name>orliesaurus</name>
+            <uri>https://news.ycombinator.com/user?id=orliesaurus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[共享--數據交換和持久化的三要素
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>escot</name>
             <uri>https://news.ycombinator.com/user?id=escot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PgAdmin OSS替代品
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31667115</id>
-        <link href="https://news.ycombinator.com/item?id=31667115"/>
-        <updated>2022-06-08T13:36:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PgAdmin OSS Alternative]]></summary>
-        <author>
-            <name>soorajsanker</name>
-            <uri>https://news.ycombinator.com/user?id=soorajsanker</uri>
         </author>
     </entry>
 </feed>
