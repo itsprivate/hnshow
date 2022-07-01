@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-01T14:06:39.197Z</updated>
+    <updated>2022-07-01T14:32:57.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[路障--不再建立認證
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31946594</id>
+        <link href="https://news.ycombinator.com/item?id=31946594"/>
+        <updated>2022-07-01T14:07:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Barricade – Never build authentication again]]></summary>
+        <author>
+            <name>ianpurton</name>
+            <uri>https://news.ycombinator.com/user?id=ianpurton</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[簡單的API性能測試工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31946592</id>
+        <link href="https://news.ycombinator.com/item?id=31946592"/>
+        <updated>2022-07-01T14:07:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Simple API Performance Testing Tool]]></summary>
+        <author>
+            <name>fatihbaltaci</name>
+            <uri>https://news.ycombinator.com/user?id=fatihbaltaci</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Recruiters, WTF過濾掉招聘人員的郵件？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>kinguking</name>
             <uri>https://news.ycombinator.com/user?id=kinguking</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[烘烤我們的Twitter客戶關係管理和DM管理應用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31660558</id>
-        <link href="https://news.ycombinator.com/item?id=31660558"/>
-        <updated>2022-06-07T21:58:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Roast Our Twitter CRM and DM Management App]]></summary>
-        <author>
-            <name>delvikt</name>
-            <uri>https://news.ycombinator.com/user?id=delvikt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Postman動態變量進行負載測試
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31660226</id>
-        <link href="https://news.ycombinator.com/item?id=31660226"/>
-        <updated>2022-06-07T21:20:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Use Postman dynamic variables for Load Testing]]></summary>
-        <author>
-            <name>kursat_</name>
-            <uri>https://news.ycombinator.com/user?id=kursat_</uri>
         </author>
     </entry>
 </feed>
