@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-06-30T23:47:41.343Z</updated>
+    <updated>2022-07-01T04:16:08.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Matplotlib中美麗的圓周率圖譜
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31942171</id>
+        <link href="https://news.ycombinator.com/item?id=31942171"/>
+        <updated>2022-07-01T03:58:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Beautiful Circos Plots in Matplotlib]]></summary>
+        <author>
+            <name>ponnhide</name>
+            <uri>https://news.ycombinator.com/user?id=ponnhide</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[裁員支持
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>uuddlrlrba</name>
             <uri>https://news.ycombinator.com/user?id=uuddlrlrba</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chaingrep - 上下文的鏈上數據API
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31656924</id>
-        <link href="https://news.ycombinator.com/item?id=31656924"/>
-        <updated>2022-06-07T16:41:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Chaingrep – Contextual on-chain data API]]></summary>
-        <author>
-            <name>merwanedr</name>
-            <uri>https://news.ycombinator.com/user?id=merwanedr</uri>
         </author>
     </entry>
 </feed>
