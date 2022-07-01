@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-01T09:49:14.260Z</updated>
+    <updated>2022-07-01T10:33:54.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通过GitHub数据寻找开发者
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31944448</id>
+        <link href="https://news.ycombinator.com/item?id=31944448"/>
+        <updated>2022-07-01T10:15:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Find Developers via GitHub Data]]></summary>
+        <author>
+            <name>visox</name>
+            <uri>https://news.ycombinator.com/user?id=visox</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Logseq管理代码片段
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rungu</name>
             <uri>https://news.ycombinator.com/user?id=rungu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stick - 可共享的Git动力笔记本
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31657539</id>
-        <link href="https://news.ycombinator.com/item?id=31657539"/>
-        <updated>2022-06-07T17:27:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Stick – Shareable Git-powered notebooks]]></summary>
-        <author>
-            <name>tslocum</name>
-            <uri>https://news.ycombinator.com/user?id=tslocum</uri>
         </author>
     </entry>
 </feed>
