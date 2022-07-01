@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-01T08:37:45.613Z</updated>
+    <updated>2022-07-01T09:49:14.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Logseq管理代码片段
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31944182</id>
+        <link href="https://news.ycombinator.com/item?id=31944182"/>
+        <updated>2022-07-01T09:34:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Managing Code Snippets Using Logseq]]></summary>
+        <author>
+            <name>gbro3n</name>
+            <uri>https://news.ycombinator.com/user?id=gbro3n</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[房间的颜色可视化（地板、墙壁、家具上的颜色匹配）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tslocum</name>
             <uri>https://news.ycombinator.com/user?id=tslocum</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umbrel - 一个用于自我托管的个人服务器操作系统
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31657527</id>
-        <link href="https://news.ycombinator.com/item?id=31657527"/>
-        <updated>2022-06-07T17:26:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Umbrel – A personal server OS for self-hosting]]></summary>
-        <author>
-            <name>mayankchhabra</name>
-            <uri>https://news.ycombinator.com/user?id=mayankchhabra</uri>
         </author>
     </entry>
 </feed>

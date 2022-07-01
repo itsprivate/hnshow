@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 01 Jul 2022 08:37:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 09:49:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用Logseq管理代碼片段
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31944182</link>
+            <guid>https://news.ycombinator.com/item?id=31944182</guid>
+            <pubDate>Fri, 01 Jul 2022 09:34:06 GMT</pubDate>
+            <description><![CDATA[Show HN: Managing Code Snippets Using Logseq]]></description>
+        </item>
         <item>
             <title><![CDATA[房間的顏色可視化（地板、牆壁、傢俱上的顏色匹配）。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31657539</guid>
             <pubDate>Tue, 07 Jun 2022 17:27:57 GMT</pubDate>
             <description><![CDATA[Show HN: Stick – Shareable Git-powered notebooks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Umbrel - 一個用於自我託管的個人服務器操作系統
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31657527</link>
-            <guid>https://news.ycombinator.com/item?id=31657527</guid>
-            <pubDate>Tue, 07 Jun 2022 17:26:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Umbrel – A personal server OS for self-hosting]]></description>
         </item>
     </channel>
 </rss>
