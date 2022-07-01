@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-01T19:31:03.788Z</updated>
+    <updated>2022-07-01T20:32:43.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Flair - 用低代碼構建Web3應用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31952364</id>
+        <link href="https://news.ycombinator.com/item?id=31952364"/>
+        <updated>2022-07-01T20:27:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Flair – Build Web3 apps with low-code]]></summary>
+        <author>
+            <name>kasra-khosravi</name>
+            <uri>https://news.ycombinator.com/user?id=kasra-khosravi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[網絡組件和Lit的入門，第二部分
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31952100</id>
+        <link href="https://news.ycombinator.com/item?id=31952100"/>
+        <updated>2022-07-01T20:09:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Getting Started with Web Components and Lit, Part II]]></summary>
+        <author>
+            <name>dtagames</name>
+            <uri>https://news.ycombinator.com/user?id=dtagames</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用這個瀏覽器擴展快速查看HN的趨勢帖子
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>luwes</name>
             <uri>https://news.ycombinator.com/user?id=luwes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用同態加密法私下閱讀維基百科
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31668814</id>
-        <link href="https://news.ycombinator.com/item?id=31668814"/>
-        <updated>2022-06-08T15:29:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Read Wikipedia privately using homomorphic encryption]]></summary>
-        <author>
-            <name>blintz</name>
-            <uri>https://news.ycombinator.com/user?id=blintz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[完全包含在一個鏈接中的遊戲
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31668648</id>
-        <link href="https://news.ycombinator.com/item?id=31668648"/>
-        <updated>2022-06-08T15:19:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A game fully contained in a link]]></summary>
-        <author>
-            <name>escot</name>
-            <uri>https://news.ycombinator.com/user?id=escot</uri>
         </author>
     </entry>
 </feed>
