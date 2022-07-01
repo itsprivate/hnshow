@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-01T04:16:08.838Z</updated>
+    <updated>2022-07-01T08:37:45.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[房間的顏色可視化（地板、牆壁、傢俱上的顏色匹配）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31943769</id>
+        <link href="https://news.ycombinator.com/item?id=31943769"/>
+        <updated>2022-07-01T08:22:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Room color visualizer (matching colors on the floor, walls, furniture)]]></summary>
+        <author>
+            <name>Mike-br</name>
+            <uri>https://news.ycombinator.com/user?id=Mike-br</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Matplotlib中美麗的圓周率圖譜
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mayankchhabra</name>
             <uri>https://news.ycombinator.com/user?id=mayankchhabra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathzetta - 用JavaScript將數學轉換為LaTeX
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31656982</id>
-        <link href="https://news.ycombinator.com/item?id=31656982"/>
-        <updated>2022-06-07T16:44:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mathzetta – Convert Math to LaTeX with JavaScript]]></summary>
-        <author>
-            <name>uuddlrlrba</name>
-            <uri>https://news.ycombinator.com/user?id=uuddlrlrba</uri>
         </author>
     </entry>
 </feed>
