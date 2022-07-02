@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 02 Jul 2022 13:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 17:07:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Shufflz 一个在Svelte和Tailwind CSS中的15个益智游戏
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31960530</link>
+            <guid>https://news.ycombinator.com/item?id=31960530</guid>
+            <pubDate>Sat, 02 Jul 2022 16:47:00 GMT</pubDate>
+            <description><![CDATA[Show HN: Shufflz a 15 puzzle game in Svelte and Tailwind CSS]]></description>
+        </item>
+        <item>
+            <title><![CDATA[SpaceVim 发布 v2.0.0
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31956657</link>
+            <guid>https://news.ycombinator.com/item?id=31956657</guid>
+            <pubDate>Sat, 02 Jul 2022 06:04:07 GMT</pubDate>
+            <description><![CDATA[Show HN: SpaceVim Release v2.0.0]]></description>
+        </item>
         <item>
             <title><![CDATA[为你的项目提供一个围棋框架
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31681841</guid>
             <pubDate>Thu, 09 Jun 2022 14:46:20 GMT</pubDate>
             <description><![CDATA[Show HN: Entitlements – GitHub's modular IAM system]]></description>
-        </item>
-        <item>
-            <title><![CDATA[由Dbt和Airbyte提供的开源数据工作区
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31681828</link>
-            <guid>https://news.ycombinator.com/item?id=31681828</guid>
-            <pubDate>Thu, 09 Jun 2022 14:45:32 GMT</pubDate>
-            <description><![CDATA[Show HN: Open-Source Data Workspace Powered by Dbt and Airbyte]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Brows是一个带有命令调色板的多面板文件浏览器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31681694</link>
-            <guid>https://news.ycombinator.com/item?id=31681694</guid>
-            <pubDate>Thu, 09 Jun 2022 14:35:45 GMT</pubDate>
-            <description><![CDATA[Show HN: Brows is a multi-panel file browser with a command palette]]></description>
         </item>
     </channel>
 </rss>
