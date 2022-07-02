@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 02 Jul 2022 09:58:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 11:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[野獸 - 構建系統
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31957976</link>
+            <guid>https://news.ycombinator.com/item?id=31957976</guid>
+            <pubDate>Sat, 02 Jul 2022 11:04:12 GMT</pubDate>
+            <description><![CDATA[Show HN: Beast – The Build System]]></description>
+        </item>
         <item>
             <title><![CDATA[一個在Golang中的簡單Tcl解釋器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31680994</guid>
             <pubDate>Thu, 09 Jun 2022 13:40:10 GMT</pubDate>
             <description><![CDATA[Show HN: Shibuya – Web3 Video Platform]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我花了6個月時間建立的SaaS，只用了1周就重新建立了。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31680992</link>
-            <guid>https://news.ycombinator.com/item?id=31680992</guid>
-            <pubDate>Thu, 09 Jun 2022 13:39:59 GMT</pubDate>
-            <description><![CDATA[Show HN: I recreated my SaaS that took me 6 months to build in just 1 week]]></description>
         </item>
     </channel>
 </rss>
