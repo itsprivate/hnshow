@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 02 Jul 2022 06:33:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 06:52:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[避免穿越的声音是怎样的？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31956787</link>
+            <guid>https://news.ycombinator.com/item?id=31956787</guid>
+            <pubDate>Sat, 02 Jul 2022 06:40:09 GMT</pubDate>
+            <description><![CDATA[Show HN: What do avoided crossings sound like?]]></description>
+        </item>
         <item>
             <title><![CDATA[用Locode快速开发CRUD应用程序
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31680391</guid>
             <pubDate>Thu, 09 Jun 2022 12:33:36 GMT</pubDate>
             <description><![CDATA[Show HN: Fully local, privacy friendly, full text search browser history]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Python Live GUI - Dear ImGUI 和 Phoenix LiveView 的混合体
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31679945</link>
-            <guid>https://news.ycombinator.com/item?id=31679945</guid>
-            <pubDate>Thu, 09 Jun 2022 11:37:52 GMT</pubDate>
-            <description><![CDATA[Show HN: Python Live GUI – A Hybrid of Dear ImGUI and Phoenix LiveView]]></description>
         </item>
     </channel>
 </rss>

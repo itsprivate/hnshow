@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-02T06:33:16.882Z</updated>
+    <updated>2022-07-02T06:52:31.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[避免穿越的声音是怎样的？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31956787</id>
+        <link href="https://news.ycombinator.com/item?id=31956787"/>
+        <updated>2022-07-02T06:40:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: What do avoided crossings sound like?]]></summary>
+        <author>
+            <name>darthoctopus</name>
+            <uri>https://news.ycombinator.com/user?id=darthoctopus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Locode快速开发CRUD应用程序
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Southclaws</name>
             <uri>https://news.ycombinator.com/user?id=Southclaws</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Live GUI - Dear ImGUI 和 Phoenix LiveView 的混合体
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31679945</id>
-        <link href="https://news.ycombinator.com/item?id=31679945"/>
-        <updated>2022-06-09T11:37:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Python Live GUI – A Hybrid of Dear ImGUI and Phoenix LiveView]]></summary>
-        <author>
-            <name>RupertWiser</name>
-            <uri>https://news.ycombinator.com/user?id=RupertWiser</uri>
         </author>
     </entry>
 </feed>
