@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-02T07:25:38.533Z</updated>
+    <updated>2022-07-02T09:28:31.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[咖啡屋，与随机的HN用户进行一对一的语音聊天
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31957389</id>
+        <link href="https://news.ycombinator.com/item?id=31957389"/>
+        <updated>2022-07-02T09:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Coffeehouse, one-on-one voicechat with random HN users]]></summary>
+        <author>
+            <name>amadeuspagel</name>
+            <uri>https://news.ycombinator.com/user?id=amadeuspagel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML期刊
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jp_sc</name>
             <uri>https://news.ycombinator.com/user?id=jp_sc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debase - 在你的终端中拖放Git re-base
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31680717</id>
-        <link href="https://news.ycombinator.com/item?id=31680717"/>
-        <updated>2022-06-09T13:06:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Debase – drag and drop Git rebase in your terminal]]></summary>
-        <author>
-            <name>johndoughy</name>
-            <uri>https://news.ycombinator.com/user?id=johndoughy</uri>
         </author>
     </entry>
 </feed>

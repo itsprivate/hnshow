@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 02 Jul 2022 07:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 09:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[咖啡屋，與隨機的HN用戶進行一對一的語音聊天
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31957389</link>
+            <guid>https://news.ycombinator.com/item?id=31957389</guid>
+            <pubDate>Sat, 02 Jul 2022 09:02:07 GMT</pubDate>
+            <description><![CDATA[Show HN: Coffeehouse, one-on-one voicechat with random HN users]]></description>
+        </item>
         <item>
             <title><![CDATA[HTML期刊
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31680874</guid>
             <pubDate>Thu, 09 Jun 2022 13:27:27 GMT</pubDate>
             <description><![CDATA[Show HN: Template Components: server-side components with Jinja]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Debase - 在你的終端中拖放Git re-base
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31680717</link>
-            <guid>https://news.ycombinator.com/item?id=31680717</guid>
-            <pubDate>Thu, 09 Jun 2022 13:06:37 GMT</pubDate>
-            <description><![CDATA[Show HN: Debase – drag and drop Git rebase in your terminal]]></description>
         </item>
     </channel>
 </rss>
