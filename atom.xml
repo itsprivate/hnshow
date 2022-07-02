@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-02T04:47:46.925Z</updated>
+    <updated>2022-07-02T06:33:16.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Locode快速开发CRUD应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31956693</id>
+        <link href="https://news.ycombinator.com/item?id=31956693"/>
+        <updated>2022-07-02T06:12:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Rapidly Develop CRUD Apps with Locode]]></summary>
+        <author>
+            <name>mythz</name>
+            <uri>https://news.ycombinator.com/user?id=mythz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我建立了一个类似的推特搜索器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31956633</id>
+        <link href="https://news.ycombinator.com/item?id=31956633"/>
+        <updated>2022-07-02T05:56:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a similar tweet finder]]></summary>
+        <author>
+            <name>leedj</name>
+            <uri>https://news.ycombinator.com/user?id=leedj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Responsecodes.xyz
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>RupertWiser</name>
             <uri>https://news.ycombinator.com/user?id=RupertWiser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Go编写的开源身份服务器 (Ory Kratos)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31679811</id>
-        <link href="https://news.ycombinator.com/item?id=31679811"/>
-        <updated>2022-06-09T11:17:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open-Source Identity Server Written in Go (Ory Kratos)]]></summary>
-        <author>
-            <name>nottennis</name>
-            <uri>https://news.ycombinator.com/user?id=nottennis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帮助被解雇的人--光环
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31679673</id>
-        <link href="https://news.ycombinator.com/item?id=31679673"/>
-        <updated>2022-06-09T10:51:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Help a Laid Off Person – Halo]]></summary>
-        <author>
-            <name>leonagano</name>
-            <uri>https://news.ycombinator.com/user?id=leonagano</uri>
         </author>
     </entry>
 </feed>
