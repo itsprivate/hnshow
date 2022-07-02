@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 02 Jul 2022 11:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 13:40:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為你的項目提供一個圍棋框架
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31958823</link>
+            <guid>https://news.ycombinator.com/item?id=31958823</guid>
+            <pubDate>Sat, 02 Jul 2022 13:30:47 GMT</pubDate>
+            <description><![CDATA[Show HN: A Go framework for your projects]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Jekyll、GitHub Pages和GitHub Codespaces維護博客
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31958724</link>
+            <guid>https://news.ycombinator.com/item?id=31958724</guid>
+            <pubDate>Sat, 02 Jul 2022 13:15:36 GMT</pubDate>
+            <description><![CDATA[Show HN: Maintaining a Blog with Jekyll, GitHub Pages and GitHub Codespaces]]></description>
+        </item>
         <item>
             <title><![CDATA[野獸 - 構建系統
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31681694</guid>
             <pubDate>Thu, 09 Jun 2022 14:35:45 GMT</pubDate>
             <description><![CDATA[Show HN: Brows is a multi-panel file browser with a command palette]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用Python和Jupyter的交互式音頻
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31681152</link>
-            <guid>https://news.ycombinator.com/item?id=31681152</guid>
-            <pubDate>Thu, 09 Jun 2022 13:54:36 GMT</pubDate>
-            <description><![CDATA[Show HN: Interactive Audio with Python and Jupyter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[澀谷 - Web3視頻平臺
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31680994</link>
-            <guid>https://news.ycombinator.com/item?id=31680994</guid>
-            <pubDate>Thu, 09 Jun 2022 13:40:10 GMT</pubDate>
-            <description><![CDATA[Show HN: Shibuya – Web3 Video Platform]]></description>
         </item>
     </channel>
 </rss>
