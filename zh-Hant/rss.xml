@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 02 Jul 2022 09:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 09:58:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個在Golang中的簡單Tcl解釋器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31957580</link>
+            <guid>https://news.ycombinator.com/item?id=31957580</guid>
+            <pubDate>Sat, 02 Jul 2022 09:46:24 GMT</pubDate>
+            <description><![CDATA[Show HN: A simple Tcl interpreter in Golang]]></description>
+        </item>
         <item>
             <title><![CDATA[咖啡屋，與隨機的HN用戶進行一對一的語音聊天
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31680992</guid>
             <pubDate>Thu, 09 Jun 2022 13:39:59 GMT</pubDate>
             <description><![CDATA[Show HN: I recreated my SaaS that took me 6 months to build in just 1 week]]></description>
-        </item>
-        <item>
-            <title><![CDATA[模板組件：使用Jinja的服務器端組件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31680874</link>
-            <guid>https://news.ycombinator.com/item?id=31680874</guid>
-            <pubDate>Thu, 09 Jun 2022 13:27:27 GMT</pubDate>
-            <description><![CDATA[Show HN: Template Components: server-side components with Jinja]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-02T09:28:31.393Z</updated>
+    <updated>2022-07-02T09:58:04.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个在Golang中的简单Tcl解释器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31957580</id>
+        <link href="https://news.ycombinator.com/item?id=31957580"/>
+        <updated>2022-07-02T09:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A simple Tcl interpreter in Golang]]></summary>
+        <author>
+            <name>stevekemp</name>
+            <uri>https://news.ycombinator.com/user?id=stevekemp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[咖啡屋，与随机的HN用户进行一对一的语音聊天
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>anuragk11</name>
             <uri>https://news.ycombinator.com/user?id=anuragk11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[模板组件：使用Jinja的服务器端组件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31680874</id>
-        <link href="https://news.ycombinator.com/item?id=31680874"/>
-        <updated>2022-06-09T13:27:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Template Components: server-side components with Jinja]]></summary>
-        <author>
-            <name>jp_sc</name>
-            <uri>https://news.ycombinator.com/user?id=jp_sc</uri>
         </author>
     </entry>
 </feed>
