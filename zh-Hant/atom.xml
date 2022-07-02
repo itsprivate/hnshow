@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-01T22:47:30.872Z</updated>
+    <updated>2022-07-02T02:33:41.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我用min-dalle做了一個Twitter機器人
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31955132</id>
+        <link href="https://news.ycombinator.com/item?id=31955132"/>
+        <updated>2022-07-02T01:26:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a Twitter bot with min-dalle]]></summary>
+        <author>
+            <name>w4ffl35</name>
+            <uri>https://news.ycombinator.com/user?id=w4ffl35</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[替代方案，但針對數據
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31954702</id>
+        <link href="https://news.ycombinator.com/item?id=31954702"/>
+        <updated>2022-07-02T00:16:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Substack, but for Data]]></summary>
+        <author>
+            <name>orangep</name>
+            <uri>https://news.ycombinator.com/user?id=orangep</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[軌跡.lol一個最小的音樂NFT電臺
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>andreyk</name>
             <uri>https://news.ycombinator.com/user?id=andreyk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於Rust的微小虛擬DOM的玩具網絡框架
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31673355</id>
-        <link href="https://news.ycombinator.com/item?id=31673355"/>
-        <updated>2022-06-08T20:14:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A tiny virtual DOM based toy web framework in Rust]]></summary>
-        <author>
-            <name>jiyinyiyong</name>
-            <uri>https://news.ycombinator.com/user?id=jiyinyiyong</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於數據可視化的調色板生成器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31672761</id>
-        <link href="https://news.ycombinator.com/item?id=31672761"/>
-        <updated>2022-06-08T19:29:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Color palettes generator for data visualization]]></summary>
-        <author>
-            <name>realaleris149</name>
-            <uri>https://news.ycombinator.com/user?id=realaleris149</uri>
         </author>
     </entry>
 </feed>
