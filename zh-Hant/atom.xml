@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-02T06:52:31.246Z</updated>
+    <updated>2022-07-02T07:25:38.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HTML期刊
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31956846</id>
+        <link href="https://news.ycombinator.com/item?id=31956846"/>
+        <updated>2022-07-02T06:56:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: HTML Journal]]></summary>
+        <author>
+            <name>ms123</name>
+            <uri>https://news.ycombinator.com/user?id=ms123</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[避免穿越的聲音是怎樣的？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>johndoughy</name>
             <uri>https://news.ycombinator.com/user?id=johndoughy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[完全本地化、隱私友好、全文搜索的瀏覽器歷史記錄
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31680391</id>
-        <link href="https://news.ycombinator.com/item?id=31680391"/>
-        <updated>2022-06-09T12:33:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fully local, privacy friendly, full text search browser history]]></summary>
-        <author>
-            <name>Southclaws</name>
-            <uri>https://news.ycombinator.com/user?id=Southclaws</uri>
         </author>
     </entry>
 </feed>
