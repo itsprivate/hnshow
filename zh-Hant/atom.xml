@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-03T18:32:21.379Z</updated>
+    <updated>2022-07-03T19:43:53.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Web組件和Lit建立一個單頁應用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31970229</id>
+        <link href="https://news.ycombinator.com/item?id=31970229"/>
+        <updated>2022-07-03T19:21:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build a Single Page App with Web Components and Lit]]></summary>
+        <author>
+            <name>dtagames</name>
+            <uri>https://news.ycombinator.com/user?id=dtagames</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個用於C++的綁定編譯器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nserrino</name>
             <uri>https://news.ycombinator.com/user?id=nserrino</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[謎語--每日單詞遊戲
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31687965</id>
-        <link href="https://news.ycombinator.com/item?id=31687965"/>
-        <updated>2022-06-09T22:52:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Riddle – A Daily Word Game]]></summary>
-        <author>
-            <name>netol</name>
-            <uri>https://news.ycombinator.com/user?id=netol</uri>
         </author>
     </entry>
 </feed>
