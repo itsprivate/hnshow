@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-03T09:28:57.619Z</updated>
+    <updated>2022-07-03T12:45:06.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用DALL-E mini生成网页摘要图像
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31967141</id>
+        <link href="https://news.ycombinator.com/item?id=31967141"/>
+        <updated>2022-07-03T12:18:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Generate webpage summary images with DALL-E mini]]></summary>
+        <author>
+            <name>txtai</name>
+            <uri>https://news.ycombinator.com/user?id=txtai</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[将TailwindCSS注入到HTML模板中
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>SuDa2103</name>
             <uri>https://news.ycombinator.com/user?id=SuDa2103</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在你的Chrome浏览器新标签上的提醒列表
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31683992</id>
-        <link href="https://news.ycombinator.com/item?id=31683992"/>
-        <updated>2022-06-09T17:16:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Reminder list on your Chrome browser new tab]]></summary>
-        <author>
-            <name>coderhs</name>
-            <uri>https://news.ycombinator.com/user?id=coderhs</uri>
         </author>
     </entry>
 </feed>

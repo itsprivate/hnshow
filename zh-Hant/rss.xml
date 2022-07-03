@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 03 Jul 2022 09:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 12:45:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用DALL-E mini生成網頁摘要圖像
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31967141</link>
+            <guid>https://news.ycombinator.com/item?id=31967141</guid>
+            <pubDate>Sun, 03 Jul 2022 12:18:24 GMT</pubDate>
+            <description><![CDATA[Show HN: Generate webpage summary images with DALL-E mini]]></description>
+        </item>
         <item>
             <title><![CDATA[將TailwindCSS注入到HTML模板中
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31684056</guid>
             <pubDate>Thu, 09 Jun 2022 17:20:29 GMT</pubDate>
             <description><![CDATA[Show HN: The Newbies Guide to Crypto – available for free to Beta readers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在你的Chrome瀏覽器新標籤上的提醒列表
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31683992</link>
-            <guid>https://news.ycombinator.com/item?id=31683992</guid>
-            <pubDate>Thu, 09 Jun 2022 17:16:29 GMT</pubDate>
-            <description><![CDATA[Show HN: Reminder list on your Chrome browser new tab]]></description>
         </item>
     </channel>
 </rss>
