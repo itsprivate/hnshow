@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-03T14:25:39.792Z</updated>
+    <updated>2022-07-03T15:30:46.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[掃描你的網絡應用的安全問題（SaaS）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31968400</id>
+        <link href="https://news.ycombinator.com/item?id=31968400"/>
+        <updated>2022-07-03T15:24:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Scan you web app for security issues (SaaS)]]></summary>
+        <author>
+            <name>mgl</name>
+            <uri>https://news.ycombinator.com/user?id=mgl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API 2 KPI - 初創企業/側面項目的簡單KPI儀表盤解決方案
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31968204</id>
+        <link href="https://news.ycombinator.com/item?id=31968204"/>
+        <updated>2022-07-03T15:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: API 2 KPI – a simple KPI dashboard solution for Startups/Side projects]]></summary>
+        <author>
+            <name>kinoro</name>
+            <uri>https://news.ycombinator.com/user?id=kinoro</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go 1.18的通用利用類型
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>wakahiu</name>
             <uri>https://news.ycombinator.com/user?id=wakahiu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mario Bros.時鐘
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31687142</id>
-        <link href="https://news.ycombinator.com/item?id=31687142"/>
-        <updated>2022-06-09T21:28:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mario Bros. Clock]]></summary>
-        <author>
-            <name>jnthas</name>
-            <uri>https://news.ycombinator.com/user?id=jnthas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LinkWarden - 一個存放有用鏈接的地方
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31686363</id>
-        <link href="https://news.ycombinator.com/item?id=31686363"/>
-        <updated>2022-06-09T20:26:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: LinkWarden – A place for your useful links]]></summary>
-        <author>
-            <name>DaniDaniel5005</name>
-            <uri>https://news.ycombinator.com/user?id=DaniDaniel5005</uri>
         </author>
     </entry>
 </feed>
