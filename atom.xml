@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-03T20:46:26.365Z</updated>
+    <updated>2022-07-03T21:57:46.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在短短12秒内运行整个React测试套件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31971300</id>
+        <link href="https://news.ycombinator.com/item?id=31971300"/>
+        <updated>2022-07-03T21:47:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Running the entire React test suite in just 12 seconds]]></summary>
+        <author>
+            <name>reillyse</name>
+            <uri>https://news.ycombinator.com/user?id=reillyse</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Desklamp - 在PDF文件上进行便捷的协作式记事
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hauxir</name>
             <uri>https://news.ycombinator.com/user?id=hauxir</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[得分大球
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31688809</id>
-        <link href="https://news.ycombinator.com/item?id=31688809"/>
-        <updated>2022-06-10T01:01:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Score Da Ball]]></summary>
-        <author>
-            <name>eviledamame</name>
-            <uri>https://news.ycombinator.com/user?id=eviledamame</uri>
         </author>
     </entry>
 </feed>
