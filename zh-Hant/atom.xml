@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-03T19:43:53.491Z</updated>
+    <updated>2022-07-03T19:57:51.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[VS代碼擴展，將文檔與代碼連接起來
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31970484</id>
+        <link href="https://news.ycombinator.com/item?id=31970484"/>
+        <updated>2022-07-03T19:54:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: VS Code extenstion that connects documentation to code]]></summary>
+        <author>
+            <name>hahnbee</name>
+            <uri>https://news.ycombinator.com/user?id=hahnbee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Web組件和Lit建立一個單頁應用程序
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bardiar</name>
             <uri>https://news.ycombinator.com/user?id=bardiar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixie，使用eBPF的Kubernetes開源觀察能力
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31687978</id>
-        <link href="https://news.ycombinator.com/item?id=31687978"/>
-        <updated>2022-06-09T22:54:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pixie, open source observability for Kubernetes using eBPF]]></summary>
-        <author>
-            <name>nserrino</name>
-            <uri>https://news.ycombinator.com/user?id=nserrino</uri>
         </author>
     </entry>
 </feed>

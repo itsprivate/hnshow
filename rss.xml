@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 03 Jul 2022 19:43:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 19:57:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[VS代码扩展，将文档与代码连接起来
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31970484</link>
+            <guid>https://news.ycombinator.com/item?id=31970484</guid>
+            <pubDate>Sun, 03 Jul 2022 19:54:30 GMT</pubDate>
+            <description><![CDATA[Show HN: VS Code extenstion that connects documentation to code]]></description>
+        </item>
         <item>
             <title><![CDATA[用Web组件和Lit建立一个单页应用程序
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31687986</guid>
             <pubDate>Thu, 09 Jun 2022 22:54:49 GMT</pubDate>
             <description><![CDATA[Show HN: EC2 Pricing Tool]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pixie，使用eBPF的Kubernetes开源观察能力
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31687978</link>
-            <guid>https://news.ycombinator.com/item?id=31687978</guid>
-            <pubDate>Thu, 09 Jun 2022 22:54:08 GMT</pubDate>
-            <description><![CDATA[Show HN: Pixie, open source observability for Kubernetes using eBPF]]></description>
         </item>
     </channel>
 </rss>
