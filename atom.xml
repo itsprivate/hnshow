@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-03T19:57:51.224Z</updated>
+    <updated>2022-07-03T20:46:26.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Desklamp - 在PDF文件上进行便捷的协作式记事
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31966914</id>
+        <link href="https://news.ycombinator.com/item?id=31966914"/>
+        <updated>2022-07-03T11:35:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Desklamp – convenient and collaborative notemaking on PDFs]]></summary>
+        <author>
+            <name>pj747</name>
+            <uri>https://news.ycombinator.com/user?id=pj747</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VS代码扩展，将文档与代码连接起来
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>eviledamame</name>
             <uri>https://news.ycombinator.com/user?id=eviledamame</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EC2定价工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31687986</id>
-        <link href="https://news.ycombinator.com/item?id=31687986"/>
-        <updated>2022-06-09T22:54:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: EC2 Pricing Tool]]></summary>
-        <author>
-            <name>bardiar</name>
-            <uri>https://news.ycombinator.com/user?id=bardiar</uri>
         </author>
     </entry>
 </feed>
