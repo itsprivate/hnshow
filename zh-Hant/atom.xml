@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-03T15:30:46.101Z</updated>
+    <updated>2022-07-03T18:32:21.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個用於C++的綁定編譯器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31969625</id>
+        <link href="https://news.ycombinator.com/item?id=31969625"/>
+        <updated>2022-07-03T17:59:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Bindings Compiler for C++]]></summary>
+        <author>
+            <name>coutille</name>
+            <uri>https://news.ycombinator.com/user?id=coutille</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[掃描你的網絡應用的安全問題（SaaS）
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>netol</name>
             <uri>https://news.ycombinator.com/user?id=netol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[思想領導力是一種服務
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31687361</id>
-        <link href="https://news.ycombinator.com/item?id=31687361"/>
-        <updated>2022-06-09T21:48:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Thought Leadership as a Service]]></summary>
-        <author>
-            <name>wakahiu</name>
-            <uri>https://news.ycombinator.com/user?id=wakahiu</uri>
         </author>
     </entry>
 </feed>
