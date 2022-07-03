@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 03 Jul 2022 07:43:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 09:28:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[將TailwindCSS注入到HTML模板中
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31966248</link>
+            <guid>https://news.ycombinator.com/item?id=31966248</guid>
+            <pubDate>Sun, 03 Jul 2022 09:01:00 GMT</pubDate>
+            <description><![CDATA[Show HN: Inject TailwindCSS into HTML Templates]]></description>
+        </item>
         <item>
             <title><![CDATA[使用ThreeJS從你的GitHub貢獻中創建一個城市
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31683992</guid>
             <pubDate>Thu, 09 Jun 2022 17:16:29 GMT</pubDate>
             <description><![CDATA[Show HN: Reminder list on your Chrome browser new tab]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基於Markdown的文檔，具有豐富的視覺效果和有用的插件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31683156</link>
-            <guid>https://news.ycombinator.com/item?id=31683156</guid>
-            <pubDate>Thu, 09 Jun 2022 16:20:43 GMT</pubDate>
-            <description><![CDATA[Show HN: Markdown based documentation with rich visuals and useful plugins]]></description>
         </item>
     </channel>
 </rss>
