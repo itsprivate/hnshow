@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-03T14:00:47.832Z</updated>
+    <updated>2022-07-03T14:25:39.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Go 1.18的通用利用类型
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31967869</id>
+        <link href="https://news.ycombinator.com/item?id=31967869"/>
+        <updated>2022-07-03T14:20:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Generic util types for Go 1.18]]></summary>
+        <author>
+            <name>jilleJr</name>
+            <uri>https://news.ycombinator.com/user?id=jilleJr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bebo - 在Deno上运行Clojure脚本
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>DaniDaniel5005</name>
             <uri>https://news.ycombinator.com/user?id=DaniDaniel5005</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有我自己算法的TLDR（短）新闻网站
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31686111</id>
-        <link href="https://news.ycombinator.com/item?id=31686111"/>
-        <updated>2022-06-09T20:07:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: TLDR (short) news website with my own algorithm]]></summary>
-        <author>
-            <name>superdario</name>
-            <uri>https://news.ycombinator.com/user?id=superdario</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 03 Jul 2022 14:00:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 14:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Go 1.18的通用利用類型
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31967869</link>
+            <guid>https://news.ycombinator.com/item?id=31967869</guid>
+            <pubDate>Sun, 03 Jul 2022 14:20:02 GMT</pubDate>
+            <description><![CDATA[Show HN: Generic util types for Go 1.18]]></description>
+        </item>
         <item>
             <title><![CDATA[Bebo - 在Deno上運行Clojure腳本
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31686363</guid>
             <pubDate>Thu, 09 Jun 2022 20:26:41 GMT</pubDate>
             <description><![CDATA[Show HN: LinkWarden – A place for your useful links]]></description>
-        </item>
-        <item>
-            <title><![CDATA[有我自己算法的TLDR（短）新聞網站
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31686111</link>
-            <guid>https://news.ycombinator.com/item?id=31686111</guid>
-            <pubDate>Thu, 09 Jun 2022 20:07:06 GMT</pubDate>
-            <description><![CDATA[Show HN: TLDR (short) news website with my own algorithm]]></description>
         </item>
     </channel>
 </rss>
