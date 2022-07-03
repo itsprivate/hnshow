@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-02T18:32:52.320Z</updated>
+    <updated>2022-07-03T04:01:02.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于分布式交易、读写分割、存储的DatabaseMesh
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31964301</id>
+        <link href="https://news.ycombinator.com/item?id=31964301"/>
+        <updated>2022-07-03T01:45:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: DatabaseMesh for distributed transaction、read write splitting、sharding]]></summary>
+        <author>
+            <name>dksl</name>
+            <uri>https://news.ycombinator.com/user?id=dksl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WebReducer - 微量事件采购云功能
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sebrind</name>
             <uri>https://news.ycombinator.com/user?id=sebrind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gwak - 来自你信任的人的餐厅推荐
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31682993</id>
-        <link href="https://news.ycombinator.com/item?id=31682993"/>
-        <updated>2022-06-09T16:09:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Gwak – restaurant recommendations from people you trust]]></summary>
-        <author>
-            <name>andrewk17</name>
-            <uri>https://news.ycombinator.com/user?id=andrewk17</uri>
         </author>
     </entry>
 </feed>
