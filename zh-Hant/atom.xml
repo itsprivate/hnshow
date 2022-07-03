@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-03T04:01:02.430Z</updated>
+    <updated>2022-07-03T07:43:34.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用ThreeJS從你的GitHub貢獻中創建一個城市
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31965847</id>
+        <link href="https://news.ycombinator.com/item?id=31965847"/>
+        <updated>2022-07-03T07:34:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Using ThreeJS to create a city from Your GitHub contributions]]></summary>
+        <author>
+            <name>honzaaap</name>
+            <uri>https://news.ycombinator.com/user?id=honzaaap</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於分佈式交易、讀寫分割、存儲的DatabaseMesh
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ninside</name>
             <uri>https://news.ycombinator.com/user?id=ninside</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開源的Shopify (Medusa)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31683306</id>
-        <link href="https://news.ycombinator.com/item?id=31683306"/>
-        <updated>2022-06-09T16:32:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open-Source Shopify (Medusa)]]></summary>
-        <author>
-            <name>sebrind</name>
-            <uri>https://news.ycombinator.com/user?id=sebrind</uri>
         </author>
     </entry>
 </feed>
