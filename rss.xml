@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 03 Jul 2022 12:45:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 14:00:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Bebo - 在Deno上运行Clojure脚本
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31967618</link>
+            <guid>https://news.ycombinator.com/item?id=31967618</guid>
+            <pubDate>Sun, 03 Jul 2022 13:39:27 GMT</pubDate>
+            <description><![CDATA[Show HN: Bebo – run Clojure scripts on Deno]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我已经为Flutter项目建立了一个代码库
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31967569</link>
+            <guid>https://news.ycombinator.com/item?id=31967569</guid>
+            <pubDate>Sun, 03 Jul 2022 13:30:12 GMT</pubDate>
+            <description><![CDATA[Show HN: I have built a code library for Flutter projects]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Shotstack - 用于视频编辑和程序化媒体的Twilio
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31967535</link>
+            <guid>https://news.ycombinator.com/item?id=31967535</guid>
+            <pubDate>Sun, 03 Jul 2022 13:24:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Shotstack – Twilio for Video Editing & Programmatic Media]]></description>
+        </item>
         <item>
             <title><![CDATA[用DALL-E mini生成网页摘要图像
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31686111</guid>
             <pubDate>Thu, 09 Jun 2022 20:07:06 GMT</pubDate>
             <description><![CDATA[Show HN: TLDR (short) news website with my own algorithm]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sake - 在远程服务器上运行任务的工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31686059</link>
-            <guid>https://news.ycombinator.com/item?id=31686059</guid>
-            <pubDate>Thu, 09 Jun 2022 20:02:55 GMT</pubDate>
-            <description><![CDATA[Show HN: Sake – tool to run tasks on remote servers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[机器学习辅助的旁门左道攻击
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31684062</link>
-            <guid>https://news.ycombinator.com/item?id=31684062</guid>
-            <pubDate>Thu, 09 Jun 2022 17:20:46 GMT</pubDate>
-            <description><![CDATA[Show HN: Machine-learning-assisted side-channel attacks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[低碳货币新手指南》--免费提供给Beta版读者
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31684056</link>
-            <guid>https://news.ycombinator.com/item?id=31684056</guid>
-            <pubDate>Thu, 09 Jun 2022 17:20:29 GMT</pubDate>
-            <description><![CDATA[Show HN: The Newbies Guide to Crypto – available for free to Beta readers]]></description>
         </item>
     </channel>
 </rss>
