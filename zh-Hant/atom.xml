@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-04T15:52:09.599Z</updated>
+    <updated>2022-07-04T16:43:36.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Discord GitBot
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31978539</id>
+        <link href="https://news.ycombinator.com/item?id=31978539"/>
+        <updated>2022-07-04T16:02:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Discord GitBot]]></summary>
+        <author>
+            <name>ViktorEE</name>
+            <uri>https://news.ycombinator.com/user?id=ViktorEE</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[遷移到monorepo，在這個過程中不破壞一切
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jeremylevy</name>
             <uri>https://news.ycombinator.com/user?id=jeremylevy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[創始人的財務指南
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31695576</id>
-        <link href="https://news.ycombinator.com/item?id=31695576"/>
-        <updated>2022-06-10T15:32:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Finance for Founders Guide]]></summary>
-        <author>
-            <name>smoussa</name>
-            <uri>https://news.ycombinator.com/user?id=smoussa</uri>
         </author>
     </entry>
 </feed>
