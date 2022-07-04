@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-04T05:01:58.827Z</updated>
+    <updated>2022-07-04T06:41:20.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GitNex - 用於Gitea、Codeberg和自我託管實例的Android應用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31974027</id>
+        <link href="https://news.ycombinator.com/item?id=31974027"/>
+        <updated>2022-07-04T06:21:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GitNex – Android app for Gitea, Codeberg and self hosted instances]]></summary>
+        <author>
+            <name>mianarif</name>
+            <uri>https://news.ycombinator.com/user?id=mianarif</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SHOW HN：建立一個應用來統治所有基於網絡的SaaS，需要HN的反饋。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lukamlakar</name>
             <uri>https://news.ycombinator.com/user?id=lukamlakar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[實時可視化和探索GitHub數據
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31691674</id>
-        <link href="https://news.ycombinator.com/item?id=31691674"/>
-        <updated>2022-06-10T08:56:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Visualize and explore GitHub data in realtime]]></summary>
-        <author>
-            <name>Hooopo</name>
-            <uri>https://news.ycombinator.com/user?id=Hooopo</uri>
         </author>
     </entry>
 </feed>
