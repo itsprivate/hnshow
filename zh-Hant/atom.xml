@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-04T21:25:19.611Z</updated>
+    <updated>2022-07-04T21:46:54.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ASort - 用於對__所有__列表進行排序的Python工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31981946</id>
+        <link href="https://news.ycombinator.com/item?id=31981946"/>
+        <updated>2022-07-04T21:27:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ASort – Python Utility For Sorting __all__ lists]]></summary>
+        <author>
+            <name>cpendery</name>
+            <uri>https://news.ycombinator.com/user?id=cpendery</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tersho，AI驅動的公式生成器和谷歌表的解釋器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31981851</id>
+        <link href="https://news.ycombinator.com/item?id=31981851"/>
+        <updated>2022-07-04T21:13:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tersho, AI-powered formula generator and explainer for Google Sheets]]></summary>
+        <author>
+            <name>apugoneappu</name>
+            <uri>https://news.ycombinator.com/user?id=apugoneappu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[漫遊，一個為HashiCorp Nomad提供的終端應用
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>susam</name>
             <uri>https://news.ycombinator.com/user?id=susam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我自行出版了 "互聯網創業者的法律"。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31699295</id>
-        <link href="https://news.ycombinator.com/item?id=31699295"/>
-        <updated>2022-06-10T20:58:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I self-published “Law for Internet Entrepreneurs”]]></summary>
-        <author>
-            <name>anconia</name>
-            <uri>https://news.ycombinator.com/user?id=anconia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用類似於Automerge的API對JSON進行快速的差異、修補和合並
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31699230</id>
-        <link href="https://news.ycombinator.com/item?id=31699230"/>
-        <updated>2022-06-10T20:51:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pigeon–Fast diff, patch, merge for JSON with an Automerge-like API]]></summary>
-        <author>
-            <name>dxchester</name>
-            <uri>https://news.ycombinator.com/user?id=dxchester</uri>
         </author>
     </entry>
 </feed>
