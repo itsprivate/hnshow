@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-04T19:00:38.247Z</updated>
+    <updated>2022-07-04T19:58:57.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在上週末建立的一個簡短的二元論遊戲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31980980</id>
+        <link href="https://news.ycombinator.com/item?id=31980980"/>
+        <updated>2022-07-04T19:43:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A short dystopian game I build last weekend]]></summary>
+        <author>
+            <name>drcode</name>
+            <uri>https://news.ycombinator.com/user?id=drcode</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[獲取機器到CROON - 歌手/作曲家與點唱機 [pdf]
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>DasBeasto</name>
             <uri>https://news.ycombinator.com/user?id=DasBeasto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[atsi - 即時無根的阿爾卑斯山貝殼
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31698130</id>
-        <link href="https://news.ycombinator.com/item?id=31698130"/>
-        <updated>2022-06-10T19:02:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: atsi – instant rootless Alpine shells]]></summary>
-        <author>
-            <name>notamy</name>
-            <uri>https://news.ycombinator.com/user?id=notamy</uri>
         </author>
     </entry>
 </feed>

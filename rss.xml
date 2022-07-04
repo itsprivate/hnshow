@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 04 Jul 2022 19:00:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 19:58:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在上周末建立的一个简短的二元论游戏
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31980980</link>
+            <guid>https://news.ycombinator.com/item?id=31980980</guid>
+            <pubDate>Mon, 04 Jul 2022 19:43:56 GMT</pubDate>
+            <description><![CDATA[Show HN: A short dystopian game I build last weekend]]></description>
+        </item>
         <item>
             <title><![CDATA[获取机器到CROON - 歌手/作曲家与点唱机 [pdf]
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31698733</guid>
             <pubDate>Fri, 10 Jun 2022 19:57:50 GMT</pubDate>
             <description><![CDATA[Show HN: I built a tool to describe ~4.3B colors]]></description>
-        </item>
-        <item>
-            <title><![CDATA[atsi - 即时无根的阿尔卑斯山贝壳
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31698130</link>
-            <guid>https://news.ycombinator.com/item?id=31698130</guid>
-            <pubDate>Fri, 10 Jun 2022 19:02:36 GMT</pubDate>
-            <description><![CDATA[Show HN: atsi – instant rootless Alpine shells]]></description>
         </item>
     </channel>
 </rss>
