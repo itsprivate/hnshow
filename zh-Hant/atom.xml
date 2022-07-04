@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-04T13:49:43.117Z</updated>
+    <updated>2022-07-04T14:32:40.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Phrag - 從RDBMS連接中自動創建的用於CRUD的GraphQL API
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31977126</id>
+        <link href="https://news.ycombinator.com/item?id=31977126"/>
+        <updated>2022-07-04T14:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Phrag – GraphQL API for CRUD auto-created from an RDBMS connection]]></summary>
+        <author>
+            <name>yo_ohei</name>
+            <uri>https://news.ycombinator.com/user?id=yo_ohei</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pinferencia，用漂亮的UI和REST API部署你的AI模型
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tombrm</name>
             <uri>https://news.ycombinator.com/user?id=tombrm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幫助被解僱的人。分享他們的資料。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31693853</id>
-        <link href="https://news.ycombinator.com/item?id=31693853"/>
-        <updated>2022-06-10T13:27:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Help a laid off person. Share their profile.]]></summary>
-        <author>
-            <name>leonagano</name>
-            <uri>https://news.ycombinator.com/user?id=leonagano</uri>
         </author>
     </entry>
 </feed>

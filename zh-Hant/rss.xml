@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 04 Jul 2022 13:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 14:32:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Phrag - 從RDBMS連接中自動創建的用於CRUD的GraphQL API
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31977126</link>
+            <guid>https://news.ycombinator.com/item?id=31977126</guid>
+            <pubDate>Mon, 04 Jul 2022 14:01:26 GMT</pubDate>
+            <description><![CDATA[Show HN: Phrag – GraphQL API for CRUD auto-created from an RDBMS connection]]></description>
+        </item>
         <item>
             <title><![CDATA[Pinferencia，用漂亮的UI和REST API部署你的AI模型
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31694038</guid>
             <pubDate>Fri, 10 Jun 2022 13:40:57 GMT</pubDate>
             <description><![CDATA[Show HN: I built a dev job post tracker to see if we are in recession (not yet)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[幫助被解僱的人。分享他們的資料。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31693853</link>
-            <guid>https://news.ycombinator.com/item?id=31693853</guid>
-            <pubDate>Fri, 10 Jun 2022 13:27:35 GMT</pubDate>
-            <description><![CDATA[Show HN: Help a laid off person. Share their profile.]]></description>
         </item>
     </channel>
 </rss>
