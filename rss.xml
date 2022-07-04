@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 04 Jul 2022 12:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 13:49:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Pinferencia，用漂亮的UI和REST API部署你的AI模型
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31976791</link>
+            <guid>https://news.ycombinator.com/item?id=31976791</guid>
+            <pubDate>Mon, 04 Jul 2022 13:27:46 GMT</pubDate>
+            <description><![CDATA[Show HN: Pinferencia, Deploy Your AI Models with Pretty UI and REST API]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Dethrone.gg - 是时候甩掉discord、guilded和slack了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31976616</link>
+            <guid>https://news.ycombinator.com/item?id=31976616</guid>
+            <pubDate>Mon, 04 Jul 2022 13:09:00 GMT</pubDate>
+            <description><![CDATA[Show HN: Dethrone.gg – Its time to ditch discord, guilded, and slack]]></description>
+        </item>
+        <item>
+            <title><![CDATA[运行外部脚本的Minecraft模型（服务器端）
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31976532</link>
+            <guid>https://news.ycombinator.com/item?id=31976532</guid>
+            <pubDate>Mon, 04 Jul 2022 12:58:10 GMT</pubDate>
+            <description><![CDATA[Show HN: Minecraft mod to run external scripts (serverside)]]></description>
+        </item>
         <item>
             <title><![CDATA[在Bio中购物 - 在Bio中的链接页面，内置即时结账功能
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31693853</guid>
             <pubDate>Fri, 10 Jun 2022 13:27:35 GMT</pubDate>
             <description><![CDATA[Show HN: Help a laid off person. Share their profile.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用语言模型分析顶级HN帖子
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31693314</link>
-            <guid>https://news.ycombinator.com/item?id=31693314</guid>
-            <pubDate>Fri, 10 Jun 2022 12:47:23 GMT</pubDate>
-            <description><![CDATA[Show HN: Analyzing top HN posts with language models]]></description>
-        </item>
-        <item>
-            <title><![CDATA[定期将MySQL备份到电子邮件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31692937</link>
-            <guid>https://news.ycombinator.com/item?id=31692937</guid>
-            <pubDate>Fri, 10 Jun 2022 12:10:31 GMT</pubDate>
-            <description><![CDATA[Show HN: Regular MySQL Backup to Email]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Terragen.dev - 自动生成Terraform for AWS
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31692259</link>
-            <guid>https://news.ycombinator.com/item?id=31692259</guid>
-            <pubDate>Fri, 10 Jun 2022 10:42:14 GMT</pubDate>
-            <description><![CDATA[Show HN: Terragen.dev – Automagically Generate Terraform for AWS]]></description>
         </item>
     </channel>
 </rss>

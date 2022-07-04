@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-04T12:57:43.066Z</updated>
+    <updated>2022-07-04T13:49:43.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Pinferencia，用漂亮的UI和REST API部署你的AI模型
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31976791</id>
+        <link href="https://news.ycombinator.com/item?id=31976791"/>
+        <updated>2022-07-04T13:27:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pinferencia, Deploy Your AI Models with Pretty UI and REST API]]></summary>
+        <author>
+            <name>wjiuhe</name>
+            <uri>https://news.ycombinator.com/user?id=wjiuhe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dethrone.gg - 是时候甩掉discord、guilded和slack了
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31976616</id>
+        <link href="https://news.ycombinator.com/item?id=31976616"/>
+        <updated>2022-07-04T13:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dethrone.gg – Its time to ditch discord, guilded, and slack]]></summary>
+        <author>
+            <name>JarriusMadeIt</name>
+            <uri>https://news.ycombinator.com/user?id=JarriusMadeIt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[运行外部脚本的Minecraft模型（服务器端）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31976532</id>
+        <link href="https://news.ycombinator.com/item?id=31976532"/>
+        <updated>2022-07-04T12:58:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Minecraft mod to run external scripts (serverside)]]></summary>
+        <author>
+            <name>rheide</name>
+            <uri>https://news.ycombinator.com/user?id=rheide</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Bio中购物 - 在Bio中的链接页面，内置即时结账功能
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>leonagano</name>
             <uri>https://news.ycombinator.com/user?id=leonagano</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用语言模型分析顶级HN帖子
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31693314</id>
-        <link href="https://news.ycombinator.com/item?id=31693314"/>
-        <updated>2022-06-10T12:47:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Analyzing top HN posts with language models]]></summary>
-        <author>
-            <name>jayalammar</name>
-            <uri>https://news.ycombinator.com/user?id=jayalammar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[定期将MySQL备份到电子邮件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31692937</id>
-        <link href="https://news.ycombinator.com/item?id=31692937"/>
-        <updated>2022-06-10T12:10:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Regular MySQL Backup to Email]]></summary>
-        <author>
-            <name>tariky</name>
-            <uri>https://news.ycombinator.com/user?id=tariky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terragen.dev - 自动生成Terraform for AWS
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31692259</id>
-        <link href="https://news.ycombinator.com/item?id=31692259"/>
-        <updated>2022-06-10T10:42:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Terragen.dev – Automagically Generate Terraform for AWS]]></summary>
-        <author>
-            <name>igorzij</name>
-            <uri>https://news.ycombinator.com/user?id=igorzij</uri>
         </author>
     </entry>
 </feed>
