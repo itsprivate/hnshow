@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-04T15:32:23.236Z</updated>
+    <updated>2022-07-04T15:52:09.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[迁移到monorepo，在这个过程中不破坏一切
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31978111</id>
+        <link href="https://news.ycombinator.com/item?id=31978111"/>
+        <updated>2022-07-04T15:29:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Migrate to monorepo without breaking everything in the process]]></summary>
+        <author>
+            <name>Dm_Linov</name>
+            <uri>https://news.ycombinator.com/user?id=Dm_Linov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlablaBlock - 一个去中心化的共同基金
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>smoussa</name>
             <uri>https://news.ycombinator.com/user?id=smoussa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meadowrun将在AWS/Azure上运行Python的繁琐细节自动化。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31694827</id>
-        <link href="https://news.ycombinator.com/item?id=31694827"/>
-        <updated>2022-06-10T14:37:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Meadowrun automates the tedious details of running Python on AWS/Azure]]></summary>
-        <author>
-            <name>indoorskier</name>
-            <uri>https://news.ycombinator.com/user?id=indoorskier</uri>
         </author>
     </entry>
 </feed>
