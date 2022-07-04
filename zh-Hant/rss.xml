@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 04 Jul 2022 21:46:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 21:58:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[nbsnapshot - Jupyter筆記本的快照測試
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31982124</link>
+            <guid>https://news.ycombinator.com/item?id=31982124</guid>
+            <pubDate>Mon, 04 Jul 2022 21:53:58 GMT</pubDate>
+            <description><![CDATA[Show HN: nbsnapshot – Snapshot testing for Jupyter notebooks]]></description>
+        </item>
+        <item>
+            <title><![CDATA[不變的備份如此簡單，以至於無法工作
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31982049</link>
+            <guid>https://news.ycombinator.com/item?id=31982049</guid>
+            <pubDate>Mon, 04 Jul 2022 21:42:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Immutable backups so simple that unborkable]]></description>
+        </item>
         <item>
             <title><![CDATA[ASort - 用於對__所有__列表進行排序的Python工具
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31699879</guid>
             <pubDate>Fri, 10 Jun 2022 22:05:18 GMT</pubDate>
             <description><![CDATA[Show HN: Foisch – An open list of things which are bad for the future of mankind]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個基於網絡的音序器，你可以製作、聆聽和分享模式
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31699570</link>
-            <guid>https://news.ycombinator.com/item?id=31699570</guid>
-            <pubDate>Fri, 10 Jun 2022 21:30:29 GMT</pubDate>
-            <description><![CDATA[Show HN: A web-based sequencer where you can make, listen to, and share patterns]]></description>
-        </item>
-        <item>
-            <title><![CDATA[大HN - 增加HN上字體大小的微小用戶腳本
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31699495</link>
-            <guid>https://news.ycombinator.com/item?id=31699495</guid>
-            <pubDate>Fri, 10 Jun 2022 21:20:42 GMT</pubDate>
-            <description><![CDATA[Show HN: Big HN – Tiny Userscript to Increase Font Size on HN]]></description>
         </item>
     </channel>
 </rss>

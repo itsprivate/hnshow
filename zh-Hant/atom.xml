@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-04T21:46:54.935Z</updated>
+    <updated>2022-07-04T21:58:27.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[nbsnapshot - Jupyter筆記本的快照測試
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31982124</id>
+        <link href="https://news.ycombinator.com/item?id=31982124"/>
+        <updated>2022-07-04T21:53:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: nbsnapshot – Snapshot testing for Jupyter notebooks]]></summary>
+        <author>
+            <name>edublancas</name>
+            <uri>https://news.ycombinator.com/user?id=edublancas</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不變的備份如此簡單，以至於無法工作
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31982049</id>
+        <link href="https://news.ycombinator.com/item?id=31982049"/>
+        <updated>2022-07-04T21:42:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Immutable backups so simple that unborkable]]></summary>
+        <author>
+            <name>nathants</name>
+            <uri>https://news.ycombinator.com/user?id=nathants</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ASort - 用於對__所有__列表進行排序的Python工具
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>midzer</name>
             <uri>https://news.ycombinator.com/user?id=midzer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個基於網絡的音序器，你可以製作、聆聽和分享模式
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31699570</id>
-        <link href="https://news.ycombinator.com/item?id=31699570"/>
-        <updated>2022-06-10T21:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A web-based sequencer where you can make, listen to, and share patterns]]></summary>
-        <author>
-            <name>shriracha</name>
-            <uri>https://news.ycombinator.com/user?id=shriracha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大HN - 增加HN上字體大小的微小用戶腳本
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31699495</id>
-        <link href="https://news.ycombinator.com/item?id=31699495"/>
-        <updated>2022-06-10T21:20:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Big HN – Tiny Userscript to Increase Font Size on HN]]></summary>
-        <author>
-            <name>susam</name>
-            <uri>https://news.ycombinator.com/user?id=susam</uri>
         </author>
     </entry>
 </feed>
