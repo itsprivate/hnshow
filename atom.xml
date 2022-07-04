@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-04T19:58:56.944Z</updated>
+    <updated>2022-07-04T21:25:19.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[漫游，一个为HashiCorp Nomad提供的终端应用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31981831</id>
+        <link href="https://news.ycombinator.com/item?id=31981831"/>
+        <updated>2022-07-04T21:11:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Wander, a terminal app for HashiCorp Nomad]]></summary>
+        <author>
+            <name>lrobinovitch</name>
+            <uri>https://news.ycombinator.com/user?id=lrobinovitch</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在上周末建立的一个简短的二元论游戏
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dxchester</name>
             <uri>https://news.ycombinator.com/user?id=dxchester</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一个工具来描述~4.3B的颜色
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31698733</id>
-        <link href="https://news.ycombinator.com/item?id=31698733"/>
-        <updated>2022-06-10T19:57:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a tool to describe ~4.3B colors]]></summary>
-        <author>
-            <name>DasBeasto</name>
-            <uri>https://news.ycombinator.com/user?id=DasBeasto</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 04 Jul 2022 19:58:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 21:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[漫游，一个为HashiCorp Nomad提供的终端应用
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31981831</link>
+            <guid>https://news.ycombinator.com/item?id=31981831</guid>
+            <pubDate>Mon, 04 Jul 2022 21:11:37 GMT</pubDate>
+            <description><![CDATA[Show HN: Wander, a terminal app for HashiCorp Nomad]]></description>
+        </item>
         <item>
             <title><![CDATA[我在上周末建立的一个简短的二元论游戏
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31699230</guid>
             <pubDate>Fri, 10 Jun 2022 20:51:46 GMT</pubDate>
             <description><![CDATA[Show HN: Pigeon–Fast diff, patch, merge for JSON with an Automerge-like API]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我建立了一个工具来描述~4.3B的颜色
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31698733</link>
-            <guid>https://news.ycombinator.com/item?id=31698733</guid>
-            <pubDate>Fri, 10 Jun 2022 19:57:50 GMT</pubDate>
-            <description><![CDATA[Show HN: I built a tool to describe ~4.3B colors]]></description>
         </item>
     </channel>
 </rss>
