@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-03T21:57:46.742Z</updated>
+    <updated>2022-07-04T05:01:58.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SHOW HN：建立一个应用来统治所有基于网络的SaaS，需要HN的反馈。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31973382</id>
+        <link href="https://news.ycombinator.com/item?id=31973382"/>
+        <updated>2022-07-04T04:05:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SHOW HN: Building an app to rule all web-based SaaS, need feedbacks from HN]]></summary>
+        <author>
+            <name>zhangruinan</name>
+            <uri>https://news.ycombinator.com/user?id=zhangruinan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在短短12秒内运行整个React测试套件
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Hooopo</name>
             <uri>https://news.ycombinator.com/user?id=Hooopo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tomatotree.tv - 使用 "烂番茄 "找到你的下一个要看的剧集
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31689103</id>
-        <link href="https://news.ycombinator.com/item?id=31689103"/>
-        <updated>2022-06-10T01:53:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tomatotree.tv – Find your next series to watch using Rotten Tomatoes]]></summary>
-        <author>
-            <name>hauxir</name>
-            <uri>https://news.ycombinator.com/user?id=hauxir</uri>
         </author>
     </entry>
 </feed>
