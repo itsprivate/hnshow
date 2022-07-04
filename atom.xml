@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-04T17:12:57.196Z</updated>
+    <updated>2022-07-04T17:43:22.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通过歌词与拼音和翻译学习中文
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31979375</id>
+        <link href="https://news.ycombinator.com/item?id=31979375"/>
+        <updated>2022-07-04T17:09:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Learn Chinese through lyrics with pinyin and translation]]></summary>
+        <author>
+            <name>hao1300</name>
+            <uri>https://news.ycombinator.com/user?id=hao1300</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Instant.gallery进一步推动了3D沉浸式网络的发展
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jp_sc</name>
             <uri>https://news.ycombinator.com/user?id=jp_sc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mood Surf - 一个基于话题的Twitter线程发现引擎
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31696384</id>
-        <link href="https://news.ycombinator.com/item?id=31696384"/>
-        <updated>2022-06-10T16:35:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mood Surf – A topic-based discovery engine for Twitter threads]]></summary>
-        <author>
-            <name>researchers</name>
-            <uri>https://news.ycombinator.com/user?id=researchers</uri>
         </author>
     </entry>
 </feed>
