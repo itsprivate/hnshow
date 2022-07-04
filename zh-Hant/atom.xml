@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-04T06:41:20.311Z</updated>
+    <updated>2022-07-04T07:57:56.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在我的應用程序中自動掃描收據數據功能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31974508</id>
+        <link href="https://news.ycombinator.com/item?id=31974508"/>
+        <updated>2022-07-04T07:43:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Auto scan receipt data feature in my app]]></summary>
+        <author>
+            <name>karrysodhi</name>
+            <uri>https://news.ycombinator.com/user?id=karrysodhi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitNex - 用於Gitea、Codeberg和自我託管實例的Android應用程序
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>MaxRush</name>
             <uri>https://news.ycombinator.com/user?id=MaxRush</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webflow模板庫 - 我們已經策劃了60多個免費的Webflow模板
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31691985</id>
-        <link href="https://news.ycombinator.com/item?id=31691985"/>
-        <updated>2022-06-10T09:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Webflow Template Library – We've curated 60+ free Webflow templates]]></summary>
-        <author>
-            <name>lukamlakar</name>
-            <uri>https://news.ycombinator.com/user?id=lukamlakar</uri>
         </author>
     </entry>
 </feed>
