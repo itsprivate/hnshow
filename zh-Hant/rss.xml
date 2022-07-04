@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 04 Jul 2022 21:58:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 22:59:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為Chrome擴展提供類型化的React useStorage鉤子
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31982491</link>
+            <guid>https://news.ycombinator.com/item?id=31982491</guid>
+            <pubDate>Mon, 04 Jul 2022 22:47:55 GMT</pubDate>
+            <description><![CDATA[Show HN: Typed React useStorage hook for Chrome extensions]]></description>
+        </item>
         <item>
             <title><![CDATA[nbsnapshot - Jupyter筆記本的快照測試
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31699887</guid>
             <pubDate>Fri, 10 Jun 2022 22:06:03 GMT</pubDate>
             <description><![CDATA[Show HN: Guad – An open list of things which are good for the future of mankind]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Foisch - 一份對人類未來不利的公開清單
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31699879</link>
-            <guid>https://news.ycombinator.com/item?id=31699879</guid>
-            <pubDate>Fri, 10 Jun 2022 22:05:18 GMT</pubDate>
-            <description><![CDATA[Show HN: Foisch – An open list of things which are bad for the future of mankind]]></description>
         </item>
     </channel>
 </rss>
