@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-05T04:48:00.212Z</updated>
+    <updated>2022-07-05T09:04:32.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Malibu for VSCode复古主题的灵感来自于Malibu海滩的冲浪日子。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31985877</id>
+        <link href="https://news.ycombinator.com/item?id=31985877"/>
+        <updated>2022-07-05T08:46:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Malibu for VSCode retro theme inspired by surfing days in Malibu Beach]]></summary>
+        <author>
+            <name>Mike_Andreuzza</name>
+            <uri>https://news.ycombinator.com/user?id=Mike_Andreuzza</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Feathr - 一个开源的、企业级的虚拟功能商店
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>crap</name>
             <uri>https://news.ycombinator.com/user?id=crap</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fetcher - 个人账户的 "RSS "提要
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31701938</id>
-        <link href="https://news.ycombinator.com/item?id=31701938"/>
-        <updated>2022-06-11T04:29:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fetcher – personal account 'RSS' feeds]]></summary>
-        <author>
-            <name>neriymus</name>
-            <uri>https://news.ycombinator.com/user?id=neriymus</uri>
         </author>
     </entry>
 </feed>
