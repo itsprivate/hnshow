@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-05T15:56:30.625Z</updated>
+    <updated>2022-07-05T16:49:15.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Prose.sh - 一个黑客的博客平台
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31989997</id>
+        <link href="https://news.ycombinator.com/item?id=31989997"/>
+        <updated>2022-07-05T16:07:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Prose.sh – A Blog Platform for Hackers]]></summary>
+        <author>
+            <name>qudat</name>
+            <uri>https://news.ycombinator.com/user?id=qudat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Async-rdma: 一个用于编写高吞吐量网络应用的库
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>andrewbridges</name>
             <uri>https://news.ycombinator.com/user?id=andrewbridges</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[专辑旋转 - 组织和可视化您最喜爱的专辑（桌面）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31710484</id>
-        <link href="https://news.ycombinator.com/item?id=31710484"/>
-        <updated>2022-06-12T01:50:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Album Rotation – Organize and visualize your favorite albums (desktop)]]></summary>
-        <author>
-            <name>adamfuhrer</name>
-            <uri>https://news.ycombinator.com/user?id=adamfuhrer</uri>
         </author>
     </entry>
 </feed>
