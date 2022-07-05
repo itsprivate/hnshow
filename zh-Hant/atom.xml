@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-05T18:38:37.432Z</updated>
+    <updated>2022-07-05T18:55:44.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Tailwind和Flowbite製作的著陸頁模板 [MIT授權]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31992063</id>
+        <link href="https://news.ycombinator.com/item?id=31992063"/>
+        <updated>2022-07-05T18:40:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Landing Page Template Built with Tailwind and Flowbite [MIT License]]]></summary>
+        <author>
+            <name>elwingo1</name>
+            <uri>https://news.ycombinator.com/user?id=elwingo1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[將無代碼應用程序轉換為Native應用程序
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ricardbejarano</name>
             <uri>https://news.ycombinator.com/user?id=ricardbejarano</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cleanup - 清除硬盤的UI應用程序（Lite Touch MDT安裝）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31712418</id>
-        <link href="https://news.ycombinator.com/item?id=31712418"/>
-        <updated>2022-06-12T07:32:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cleanup – UI app to erase the hard disk (Lite Touch MDT installation)]]></summary>
-        <author>
-            <name>cx1221</name>
-            <uri>https://news.ycombinator.com/user?id=cx1221</uri>
         </author>
     </entry>
 </feed>
