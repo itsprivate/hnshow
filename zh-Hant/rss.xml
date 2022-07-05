@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 05 Jul 2022 18:55:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 19:45:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[讓你的每個按鈕都有自己的敬酒通知的React庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31992585</link>
+            <guid>https://news.ycombinator.com/item?id=31992585</guid>
+            <pubDate>Tue, 05 Jul 2022 19:25:38 GMT</pubDate>
+            <description><![CDATA[Show HN: React library to give every button of yours its own toast notification]]></description>
+        </item>
+        <item>
+            <title><![CDATA[免費的二維碼菜單生成器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31992581</link>
+            <guid>https://news.ycombinator.com/item?id=31992581</guid>
+            <pubDate>Tue, 05 Jul 2022 19:25:12 GMT</pubDate>
+            <description><![CDATA[Show HN: Free QR code menu generator]]></description>
+        </item>
         <item>
             <title><![CDATA[用Tailwind和Flowbite製作的著陸頁模板 [MIT授權]
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31714253</guid>
             <pubDate>Sun, 12 Jun 2022 13:19:11 GMT</pubDate>
             <description><![CDATA[Show HN: Album Rotation – Organize and visualize your favorite albums (desktop)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[多人競爭性CSS挑戰
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31713783</link>
-            <guid>https://news.ycombinator.com/item?id=31713783</guid>
-            <pubDate>Sun, 12 Jun 2022 11:45:11 GMT</pubDate>
-            <description><![CDATA[Show HN: Competitive Multiplayer CSS Challenges]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Go模板預覽（由WebAssembly提供）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31713654</link>
-            <guid>https://news.ycombinator.com/item?id=31713654</guid>
-            <pubDate>Sun, 12 Jun 2022 11:19:29 GMT</pubDate>
-            <description><![CDATA[Show HN: Go Template Preview (Powered by WebAssembly)]]></description>
         </item>
     </channel>
 </rss>
