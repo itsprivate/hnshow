@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-05T09:48:03.655Z</updated>
+    <updated>2022-07-05T11:28:48.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[职位描述中的技能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31986756</id>
+        <link href="https://news.ycombinator.com/item?id=31986756"/>
+        <updated>2022-07-05T11:08:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Skills in Job Descriptions]]></summary>
+        <author>
+            <name>Oras</name>
+            <uri>https://news.ycombinator.com/user?id=Oras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daspoll - 调查和表格生成器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>M0r13n</name>
             <uri>https://news.ycombinator.com/user?id=M0r13n</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利用实体经济和加密货币对抗通货膨胀的新工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31704385</id>
-        <link href="https://news.ycombinator.com/item?id=31704385"/>
-        <updated>2022-06-11T13:48:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A new tool to fight inflation using real economy and crypto]]></summary>
-        <author>
-            <name>mcanosa</name>
-            <uri>https://news.ycombinator.com/user?id=mcanosa</uri>
         </author>
     </entry>
 </feed>
