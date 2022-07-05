@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-05T04:05:47.670Z</updated>
+    <updated>2022-07-05T04:48:00.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Feathr - 一个开源的、企业级的虚拟功能商店
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31984354</id>
+        <link href="https://news.ycombinator.com/item?id=31984354"/>
+        <updated>2022-07-05T04:35:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Feathr – An Open-Source, Enterprise-Grade Virtual Feature Store]]></summary>
+        <author>
+            <name>zxzxy1988</name>
+            <uri>https://news.ycombinator.com/user?id=zxzxy1988</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IniShare - 综合数字出版应用
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>neriymus</name>
             <uri>https://news.ycombinator.com/user?id=neriymus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SIEMCraft - Minecraft中的安全信息和事件管理
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31700875</id>
-        <link href="https://news.ycombinator.com/item?id=31700875"/>
-        <updated>2022-06-11T00:40:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: SIEMCraft – Security Information and Event Management in Minecraft]]></summary>
-        <author>
-            <name>path_to_file</name>
-            <uri>https://news.ycombinator.com/user?id=path_to_file</uri>
         </author>
     </entry>
 </feed>
