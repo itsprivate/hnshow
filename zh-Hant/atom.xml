@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-05T20:48:32.486Z</updated>
+    <updated>2022-07-05T21:30:41.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個應用程序，以保持最新的專輯發佈。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31993644</id>
+        <link href="https://news.ycombinator.com/item?id=31993644"/>
+        <updated>2022-07-05T21:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an app to stay update with the latest albums releases]]></summary>
+        <author>
+            <name>difradev</name>
+            <uri>https://news.ycombinator.com/user?id=difradev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[全球恐怖主義目錄--1968年以來發生的恐怖主義事件
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gradschool</name>
             <uri>https://news.ycombinator.com/user?id=gradschool</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的404頁面是一個文本冒險
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31714852</id>
-        <link href="https://news.ycombinator.com/item?id=31714852"/>
-        <updated>2022-06-12T14:41:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: My 404 page is a text adventure]]></summary>
-        <author>
-            <name>encse</name>
-            <uri>https://news.ycombinator.com/user?id=encse</uri>
         </author>
     </entry>
 </feed>
