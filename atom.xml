@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-05T11:28:48.920Z</updated>
+    <updated>2022-07-05T13:00:41.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[获得报酬，为每一次公关获得短暂的环境（Livecycle.io）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31987430</id>
+        <link href="https://news.ycombinator.com/item?id=31987430"/>
+        <updated>2022-07-05T12:32:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Get paid to get ephemeral environments for every PR (Livecycle.io)]]></summary>
+        <author>
+            <name>zevir</name>
+            <uri>https://news.ycombinator.com/user?id=zevir</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[职位描述中的技能
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>brownboycodes</name>
             <uri>https://news.ycombinator.com/user?id=brownboycodes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从你的MikroTik设备上实时绘制开放连接的三维地球图
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31704698</id>
-        <link href="https://news.ycombinator.com/item?id=31704698"/>
-        <updated>2022-06-11T14:33:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Live plot open connections from your MikroTik device on a 3-d globe]]></summary>
-        <author>
-            <name>M0r13n</name>
-            <uri>https://news.ycombinator.com/user?id=M0r13n</uri>
         </author>
     </entry>
 </feed>
