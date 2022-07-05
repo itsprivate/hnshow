@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-05T15:36:05.050Z</updated>
+    <updated>2022-07-05T15:56:30.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Async-rdma: 一个用于编写高吞吐量网络应用的库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31989550</id>
+        <link href="https://news.ycombinator.com/item?id=31989550"/>
+        <updated>2022-07-05T15:40:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Async-rdma: A lib for writing high-throughput networking Apps]]></summary>
+        <author>
+            <name>withy</name>
+            <uri>https://news.ycombinator.com/user?id=withy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Preline UI - 开源的Tailwind CSS组件
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>adamfuhrer</name>
             <uri>https://news.ycombinator.com/user?id=adamfuhrer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浏览器内简单的1分钟视频记录器，为YC应用提供时间线索。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31709925</id>
-        <link href="https://news.ycombinator.com/item?id=31709925"/>
-        <updated>2022-06-12T00:25:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Simple in-browser 1 minute video recorder with time clues for YC appl]]></summary>
-        <author>
-            <name>_bidule</name>
-            <uri>https://news.ycombinator.com/user?id=_bidule</uri>
         </author>
     </entry>
 </feed>
