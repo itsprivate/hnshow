@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-05T15:01:15.184Z</updated>
+    <updated>2022-07-05T15:36:05.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Preline UI - 開源的Tailwind CSS組件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31989062</id>
+        <link href="https://news.ycombinator.com/item?id=31989062"/>
+        <updated>2022-07-05T15:03:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Preline UI – Open-Source Tailwind CSS Components]]></summary>
+        <author>
+            <name>jaha</name>
+            <uri>https://news.ycombinator.com/user?id=jaha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marvel Order - 開源的Marvel電影時間表，每日更新
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>_bidule</name>
             <uri>https://news.ycombinator.com/user?id=_bidule</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用DALL-E Mega和Mini生成圖像
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31706606</id>
-        <link href="https://news.ycombinator.com/item?id=31706606"/>
-        <updated>2022-06-11T18:04:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Generate images using DALL-E Mega and Mini]]></summary>
-        <author>
-            <name>saharhash</name>
-            <uri>https://news.ycombinator.com/user?id=saharhash</uri>
         </author>
     </entry>
 </feed>
