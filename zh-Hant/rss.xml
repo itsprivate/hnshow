@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 05 Jul 2022 19:58:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 20:34:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[本地化和翻譯應該是代碼，而不是數據
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31993131</link>
+            <guid>https://news.ycombinator.com/item?id=31993131</guid>
+            <pubDate>Tue, 05 Jul 2022 20:15:42 GMT</pubDate>
+            <description><![CDATA[Show HN: Localization and translations should be code, not data]]></description>
+        </item>
         <item>
             <title><![CDATA[一個USB-Rubber-Ducky Blocker（50個代碼）。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31714709</guid>
             <pubDate>Sun, 12 Jun 2022 14:22:38 GMT</pubDate>
             <description><![CDATA[Show HN: Can I DevTools?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用於Safari瀏覽器的快速閱讀器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31714687</link>
-            <guid>https://news.ycombinator.com/item?id=31714687</guid>
-            <pubDate>Sun, 12 Jun 2022 14:20:04 GMT</pubDate>
-            <description><![CDATA[Show HN: Speed Reader for Safari]]></description>
         </item>
     </channel>
 </rss>

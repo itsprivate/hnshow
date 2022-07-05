@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-05T19:58:13.703Z</updated>
+    <updated>2022-07-05T20:34:48.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[本地化和翻譯應該是代碼，而不是數據
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31993131</id>
+        <link href="https://news.ycombinator.com/item?id=31993131"/>
+        <updated>2022-07-05T20:15:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Localization and translations should be code, not data]]></summary>
+        <author>
+            <name>LeviticusMB</name>
+            <uri>https://news.ycombinator.com/user?id=LeviticusMB</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個USB-Rubber-Ducky Blocker（50個代碼）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pankajparashar</name>
             <uri>https://news.ycombinator.com/user?id=pankajparashar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於Safari瀏覽器的快速閱讀器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31714687</id>
-        <link href="https://news.ycombinator.com/item?id=31714687"/>
-        <updated>2022-06-12T14:20:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Speed Reader for Safari]]></summary>
-        <author>
-            <name>willswire</name>
-            <uri>https://news.ycombinator.com/user?id=willswire</uri>
         </author>
     </entry>
 </feed>
