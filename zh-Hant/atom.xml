@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-05T19:45:59.464Z</updated>
+    <updated>2022-07-05T19:58:13.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個USB-Rubber-Ducky Blocker（50個代碼）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31992800</id>
+        <link href="https://news.ycombinator.com/item?id=31992800"/>
+        <updated>2022-07-05T19:46:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A USB-Rubber-Ducky Blocker (50 Codes)]]></summary>
+        <author>
+            <name>pleinairist</name>
+            <uri>https://news.ycombinator.com/user?id=pleinairist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[讓你的每個按鈕都有自己的敬酒通知的React庫
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>willswire</name>
             <uri>https://news.ycombinator.com/user?id=willswire</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[專輯旋轉 - 組織和可視化您最喜愛的專輯（桌面）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31714253</id>
-        <link href="https://news.ycombinator.com/item?id=31714253"/>
-        <updated>2022-06-12T13:19:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Album Rotation – Organize and visualize your favorite albums (desktop)]]></summary>
-        <author>
-            <name>adamfuhrer</name>
-            <uri>https://news.ycombinator.com/user?id=adamfuhrer</uri>
         </author>
     </entry>
 </feed>
