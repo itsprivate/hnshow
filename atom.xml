@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-05T17:58:48.200Z</updated>
+    <updated>2022-07-05T18:38:37.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[将无代码应用程序转换为Native应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31991523</id>
+        <link href="https://news.ycombinator.com/item?id=31991523"/>
+        <updated>2022-07-05T17:56:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Convert no code apps into Native apps]]></summary>
+        <author>
+            <name>kith</name>
+            <uri>https://news.ycombinator.com/user?id=kith</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[让人工智能博客写手取代我的鬼才写手
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cx1221</name>
             <uri>https://news.ycombinator.com/user?id=cx1221</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[兰姆达威项目
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31712159</id>
-        <link href="https://news.ycombinator.com/item?id=31712159"/>
-        <updated>2022-06-12T06:48:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The Lambdaway Project]]></summary>
-        <author>
-            <name>martyalain</name>
-            <uri>https://news.ycombinator.com/user?id=martyalain</uri>
         </author>
     </entry>
 </feed>
