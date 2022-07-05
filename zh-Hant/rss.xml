@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 05 Jul 2022 14:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 15:01:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Marvel Order - 開源的Marvel電影時間表，每日更新
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31988886</link>
+            <guid>https://news.ycombinator.com/item?id=31988886</guid>
+            <pubDate>Tue, 05 Jul 2022 14:51:15 GMT</pubDate>
+            <description><![CDATA[Show HN: Marvel Order – Open-Source Timeline of Marvel Movies, Updated Daily]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用eBPF的Linux的憑證轉儲器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31988820</link>
+            <guid>https://news.ycombinator.com/item?id=31988820</guid>
+            <pubDate>Tue, 05 Jul 2022 14:44:55 GMT</pubDate>
+            <description><![CDATA[Show HN: Credentials dumper for Linux using eBPF]]></description>
+        </item>
         <item>
             <title><![CDATA[移動應用的分佈式位置數據分析
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31706606</guid>
             <pubDate>Sat, 11 Jun 2022 18:04:14 GMT</pubDate>
             <description><![CDATA[Show HN: Generate images using DALL-E Mega and Mini]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Freezes.fyi - 查看當前的技術招聘凍結情況
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31709283</link>
-            <guid>https://news.ycombinator.com/item?id=31709283</guid>
-            <pubDate>Sat, 11 Jun 2022 22:56:05 GMT</pubDate>
-            <description><![CDATA[Show HN: Freezes.fyi – View current Tech hiring freezes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我把swarmprom移植到了所有新的圖像版本上
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31708695</link>
-            <guid>https://news.ycombinator.com/item?id=31708695</guid>
-            <pubDate>Sat, 11 Jun 2022 21:40:58 GMT</pubDate>
-            <description><![CDATA[Show HN: I ported swarmprom to all new image versions]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-05T14:32:36.337Z</updated>
+    <updated>2022-07-05T15:01:15.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Marvel Order - 開源的Marvel電影時間表，每日更新
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31988886</id>
+        <link href="https://news.ycombinator.com/item?id=31988886"/>
+        <updated>2022-07-05T14:51:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Marvel Order – Open-Source Timeline of Marvel Movies, Updated Daily]]></summary>
+        <author>
+            <name>ThatGuySam</name>
+            <uri>https://news.ycombinator.com/user?id=ThatGuySam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用eBPF的Linux的憑證轉儲器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31988820</id>
+        <link href="https://news.ycombinator.com/item?id=31988820"/>
+        <updated>2022-07-05T14:44:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Credentials dumper for Linux using eBPF]]></summary>
+        <author>
+            <name>citronneur</name>
+            <uri>https://news.ycombinator.com/user?id=citronneur</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[移動應用的分佈式位置數據分析
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>saharhash</name>
             <uri>https://news.ycombinator.com/user?id=saharhash</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freezes.fyi - 查看當前的技術招聘凍結情況
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31709283</id>
-        <link href="https://news.ycombinator.com/item?id=31709283"/>
-        <updated>2022-06-11T22:56:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Freezes.fyi – View current Tech hiring freezes]]></summary>
-        <author>
-            <name>cpendery</name>
-            <uri>https://news.ycombinator.com/user?id=cpendery</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我把swarmprom移植到了所有新的圖像版本上
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31708695</id>
-        <link href="https://news.ycombinator.com/item?id=31708695"/>
-        <updated>2022-06-11T21:40:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I ported swarmprom to all new image versions]]></summary>
-        <author>
-            <name>ancieque</name>
-            <uri>https://news.ycombinator.com/user?id=ancieque</uri>
         </author>
     </entry>
 </feed>
