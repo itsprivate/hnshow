@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-05T17:20:22.593Z</updated>
+    <updated>2022-07-05T17:58:48.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[讓人工智能博客寫手取代我的鬼才寫手
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31991368</id>
+        <link href="https://news.ycombinator.com/item?id=31991368"/>
+        <updated>2022-07-05T17:45:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Made an AI Blog Writer to Replace My Ghostwriter]]></summary>
+        <author>
+            <name>tommydriscoll</name>
+            <uri>https://news.ycombinator.com/user?id=tommydriscoll</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[純粹的Python中，一個不合理的高效的生命遊戲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31991359</id>
+        <link href="https://news.ycombinator.com/item?id=31991359"/>
+        <updated>2022-07-05T17:45:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An unreasonably efficient Game of Life, in pure Python]]></summary>
+        <author>
+            <name>Retr0id</name>
+            <uri>https://news.ycombinator.com/user?id=Retr0id</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(幾乎)Twitter上的每張dalle-mini圖片
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31991331</id>
+        <link href="https://news.ycombinator.com/item?id=31991331"/>
+        <updated>2022-07-05T17:43:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: (Almost) Every dalle-mini image on Twitter]]></summary>
+        <author>
+            <name>theahura</name>
+            <uri>https://news.ycombinator.com/user?id=theahura</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我製造了Zigpoll - 現場調查和表格工具
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>martyalain</name>
             <uri>https://news.ycombinator.com/user?id=martyalain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mwmbl爬行器擴展：從Firefox中爬行網絡
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31711974</id>
-        <link href="https://news.ycombinator.com/item?id=31711974"/>
-        <updated>2022-06-12T06:15:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mwmbl crawler extension: crawl the web from Firefox]]></summary>
-        <author>
-            <name>daoudc</name>
-            <uri>https://news.ycombinator.com/user?id=daoudc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在lambda上構建服務應該是簡單而有趣的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31711417</id>
-        <link href="https://news.ycombinator.com/item?id=31711417"/>
-        <updated>2022-06-12T04:23:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Building services on lambda should be easy and fun]]></summary>
-        <author>
-            <name>nathants</name>
-            <uri>https://news.ycombinator.com/user?id=nathants</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瀏覽器擴展可以偽造你的位置數據以匹配你的VPN
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31710603</id>
-        <link href="https://news.ycombinator.com/item?id=31710603"/>
-        <updated>2022-06-12T02:10:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Browser extension that spoofs your location data to match your VPN]]></summary>
-        <author>
-            <name>z0ccc</name>
-            <uri>https://news.ycombinator.com/user?id=z0ccc</uri>
         </author>
     </entry>
 </feed>

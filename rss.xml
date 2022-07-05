@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 05 Jul 2022 17:20:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 17:58:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[让人工智能博客写手取代我的鬼才写手
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31991368</link>
+            <guid>https://news.ycombinator.com/item?id=31991368</guid>
+            <pubDate>Tue, 05 Jul 2022 17:45:53 GMT</pubDate>
+            <description><![CDATA[Show HN: Made an AI Blog Writer to Replace My Ghostwriter]]></description>
+        </item>
+        <item>
+            <title><![CDATA[纯粹的Python中，一个不合理的高效的生命游戏
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31991359</link>
+            <guid>https://news.ycombinator.com/item?id=31991359</guid>
+            <pubDate>Tue, 05 Jul 2022 17:45:41 GMT</pubDate>
+            <description><![CDATA[Show HN: An unreasonably efficient Game of Life, in pure Python]]></description>
+        </item>
+        <item>
+            <title><![CDATA[(几乎)Twitter上的每张dalle-mini图片
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31991331</link>
+            <guid>https://news.ycombinator.com/item?id=31991331</guid>
+            <pubDate>Tue, 05 Jul 2022 17:43:42 GMT</pubDate>
+            <description><![CDATA[Show HN: (Almost) Every dalle-mini image on Twitter]]></description>
+        </item>
         <item>
             <title><![CDATA[我制造了Zigpoll - 现场调查和表格工具
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31712159</guid>
             <pubDate>Sun, 12 Jun 2022 06:48:49 GMT</pubDate>
             <description><![CDATA[Show HN: The Lambdaway Project]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mwmbl爬行器扩展：从Firefox中爬行网络
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31711974</link>
-            <guid>https://news.ycombinator.com/item?id=31711974</guid>
-            <pubDate>Sun, 12 Jun 2022 06:15:28 GMT</pubDate>
-            <description><![CDATA[Show HN: Mwmbl crawler extension: crawl the web from Firefox]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在lambda上构建服务应该是简单而有趣的
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31711417</link>
-            <guid>https://news.ycombinator.com/item?id=31711417</guid>
-            <pubDate>Sun, 12 Jun 2022 04:23:58 GMT</pubDate>
-            <description><![CDATA[Show HN: Building services on lambda should be easy and fun]]></description>
-        </item>
-        <item>
-            <title><![CDATA[浏览器扩展可以伪造你的位置数据以匹配你的VPN
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31710603</link>
-            <guid>https://news.ycombinator.com/item?id=31710603</guid>
-            <pubDate>Sun, 12 Jun 2022 02:10:42 GMT</pubDate>
-            <description><![CDATA[Show HN: Browser extension that spoofs your location data to match your VPN]]></description>
         </item>
     </channel>
 </rss>
