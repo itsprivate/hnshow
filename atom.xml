@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-05T13:57:19.272Z</updated>
+    <updated>2022-07-05T14:32:36.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[移动应用的分布式位置数据分析
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31988284</id>
+        <link href="https://news.ycombinator.com/item?id=31988284"/>
+        <updated>2022-07-05T14:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Distributed location data analytics for mobile apps]]></summary>
+        <author>
+            <name>kasper_kerem</name>
+            <uri>https://news.ycombinator.com/user?id=kasper_kerem</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Nocode构建多模态AI搜索
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ancieque</name>
             <uri>https://news.ycombinator.com/user?id=ancieque</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amalgam引擎--轻松创建等距虚拟世界
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31708169</id>
-        <link href="https://news.ycombinator.com/item?id=31708169"/>
-        <updated>2022-06-11T20:41:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The Amalgam Engine – Easily create isometric virtual worlds]]></summary>
-        <author>
-            <name>net_</name>
-            <uri>https://news.ycombinator.com/user?id=net_</uri>
         </author>
     </entry>
 </feed>

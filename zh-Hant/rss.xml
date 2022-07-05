@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 05 Jul 2022 13:57:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 14:32:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[移動應用的分佈式位置數據分析
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31988284</link>
+            <guid>https://news.ycombinator.com/item?id=31988284</guid>
+            <pubDate>Tue, 05 Jul 2022 14:00:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Distributed location data analytics for mobile apps]]></description>
+        </item>
         <item>
             <title><![CDATA[使用Nocode構建多模態AI搜索
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31708695</guid>
             <pubDate>Sat, 11 Jun 2022 21:40:58 GMT</pubDate>
             <description><![CDATA[Show HN: I ported swarmprom to all new image versions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Amalgam引擎--輕鬆創建等距虛擬世界
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31708169</link>
-            <guid>https://news.ycombinator.com/item?id=31708169</guid>
-            <pubDate>Sat, 11 Jun 2022 20:41:34 GMT</pubDate>
-            <description><![CDATA[Show HN: The Amalgam Engine – Easily create isometric virtual worlds]]></description>
         </item>
     </channel>
 </rss>
