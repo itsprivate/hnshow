@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-05T09:04:32.680Z</updated>
+    <updated>2022-07-05T09:48:03.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Daspoll - 调查和表格生成器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31986162</id>
+        <link href="https://news.ycombinator.com/item?id=31986162"/>
+        <updated>2022-07-05T09:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Daspoll – Survey and Form Builder]]></summary>
+        <author>
+            <name>wayoverthecloud</name>
+            <uri>https://news.ycombinator.com/user?id=wayoverthecloud</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个体面的安卓电视网络浏览器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31986121</id>
+        <link href="https://news.ycombinator.com/item?id=31986121"/>
+        <updated>2022-07-05T09:24:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I Made a Decent Android TV Web Browser]]></summary>
+        <author>
+            <name>binaryapparatus</name>
+            <uri>https://news.ycombinator.com/user?id=binaryapparatus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malibu for VSCode复古主题的灵感来自于Malibu海滩的冲浪日子。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mcanosa</name>
             <uri>https://news.ycombinator.com/user?id=mcanosa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[练习前端问题的平台
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31703960</id>
-        <link href="https://news.ycombinator.com/item?id=31703960"/>
-        <updated>2022-06-11T12:26:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Platform to practice front end problems]]></summary>
-        <author>
-            <name>P_kT</name>
-            <uri>https://news.ycombinator.com/user?id=P_kT</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Present - 在你的Markdown文档中插值shell脚本的输出
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31704115</id>
-        <link href="https://news.ycombinator.com/item?id=31704115"/>
-        <updated>2022-06-11T12:58:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Present – Interpolate the output of shell scripts in your Markdown docs]]></summary>
-        <author>
-            <name>crap</name>
-            <uri>https://news.ycombinator.com/user?id=crap</uri>
         </author>
     </entry>
 </feed>
