@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-04T23:59:25.746Z</updated>
+    <updated>2022-07-05T04:05:47.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[IniShare - 综合数字出版应用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31983926</id>
+        <link href="https://news.ycombinator.com/item?id=31983926"/>
+        <updated>2022-07-05T03:15:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: IniShare – integrated digital publishing app]]></summary>
+        <author>
+            <name>pbackup12345</name>
+            <uri>https://news.ycombinator.com/user?id=pbackup12345</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[owo - OneNote转普通文本
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>path_to_file</name>
             <uri>https://news.ycombinator.com/user?id=path_to_file</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们推出了新的农业币
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31700865</id>
-        <link href="https://news.ycombinator.com/item?id=31700865"/>
-        <updated>2022-06-11T00:38:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We Launched New Agro Coin]]></summary>
-        <author>
-            <name>mcanosa</name>
-            <uri>https://news.ycombinator.com/user?id=mcanosa</uri>
         </author>
     </entry>
 </feed>
