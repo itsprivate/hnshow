@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-05T21:30:41.207Z</updated>
+    <updated>2022-07-05T23:31:13.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Visage Collage - 從自拍中生成混搭照片
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31994905</id>
+        <link href="https://news.ycombinator.com/item?id=31994905"/>
+        <updated>2022-07-05T23:13:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Visage Collage – generate mashups from selfies]]></summary>
+        <author>
+            <name>maweibezahn</name>
+            <uri>https://news.ycombinator.com/user?id=maweibezahn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個應用程序，以保持最新的專輯發佈。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>brianpost</name>
             <uri>https://news.ycombinator.com/user?id=brianpost</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[共同遞歸實用程序C庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31715049</id>
-        <link href="https://news.ycombinator.com/item?id=31715049"/>
-        <updated>2022-06-12T15:08:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Co-recursion utilities C library]]></summary>
-        <author>
-            <name>gradschool</name>
-            <uri>https://news.ycombinator.com/user?id=gradschool</uri>
         </author>
     </entry>
 </feed>
