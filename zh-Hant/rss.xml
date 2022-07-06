@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 06 Jul 2022 13:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 14:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Dashboardify - 使用JSON創建可共享儀表盤的開放源碼項目
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32000561</link>
+            <guid>https://news.ycombinator.com/item?id=32000561</guid>
+            <pubDate>Wed, 06 Jul 2022 13:29:30 GMT</pubDate>
+            <description><![CDATA[Show HN: Dashboardify – OSS project to create shareable dashboards using JSON]]></description>
+        </item>
         <item>
             <title><![CDATA[Consuma - 使用人工智能來做你的研究
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31721737</guid>
             <pubDate>Mon, 13 Jun 2022 06:00:26 GMT</pubDate>
             <description><![CDATA[Show HN: Display P3 exclusive Pantone colors]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用NixOS建立一個路由器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31721719</link>
-            <guid>https://news.ycombinator.com/item?id=31721719</guid>
-            <pubDate>Mon, 13 Jun 2022 05:56:23 GMT</pubDate>
-            <description><![CDATA[Show HN: Building a Router with NixOS]]></description>
         </item>
     </channel>
 </rss>
