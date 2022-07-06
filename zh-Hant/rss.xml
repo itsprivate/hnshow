@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 06 Jul 2022 18:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 19:48:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[C3 - 看起來像C的C的替代品（2022年更新）
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32005678</link>
+            <guid>https://news.ycombinator.com/item?id=32005678</guid>
+            <pubDate>Wed, 06 Jul 2022 19:31:01 GMT</pubDate>
+            <description><![CDATA[Show HN: C3 – The C alternative that looks like C (2022 update)]]></description>
+        </item>
         <item>
             <title><![CDATA[Gpucsl - 使用GPU進行因果結構學習的Python庫
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31728756</guid>
             <pubDate>Mon, 13 Jun 2022 17:38:07 GMT</pubDate>
             <description><![CDATA[Show HN: Tech-Blog Aggregator]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Binserve - 快速的單進制靜態網絡服務器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31727908</link>
-            <guid>https://news.ycombinator.com/item?id=31727908</guid>
-            <pubDate>Mon, 13 Jun 2022 16:37:36 GMT</pubDate>
-            <description><![CDATA[Show HN: Binserve – Fast single-binary static web server]]></description>
         </item>
     </channel>
 </rss>
