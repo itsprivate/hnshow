@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-06T16:50:06.250Z</updated>
+    <updated>2022-07-06T17:18:31.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[与你的Twitter粉丝互动，建立有意义的关系
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32003754</id>
+        <link href="https://news.ycombinator.com/item?id=32003754"/>
+        <updated>2022-07-06T17:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Engage with your Twitter followers to build meaningful relationships]]></summary>
+        <author>
+            <name>Abishek_Muthian</name>
+            <uri>https://news.ycombinator.com/user?id=Abishek_Muthian</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在Node中解析一个参数化的HTTP头
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32003753</id>
+        <link href="https://news.ycombinator.com/item?id=32003753"/>
+        <updated>2022-07-06T17:01:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How to parse a parameterized HTTP header in Node]]></summary>
+        <author>
+            <name>ezekg</name>
+            <uri>https://news.ycombinator.com/user?id=ezekg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TripleCross - 一个带有C2系统的Linux eBPF rootkit和更多信息
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32003561</id>
+        <link href="https://news.ycombinator.com/item?id=32003561"/>
+        <updated>2022-07-06T16:49:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: TripleCross – A Linux eBPF rootkit with a C2 system and more]]></summary>
+        <author>
+            <name>h3xduck</name>
+            <uri>https://news.ycombinator.com/user?id=h3xduck</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[含有Vite的Lit入门套件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32003455</id>
+        <link href="https://news.ycombinator.com/item?id=32003455"/>
+        <updated>2022-07-06T16:41:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lit Starter Kit with Vite]]></summary>
+        <author>
+            <name>dtagames</name>
+            <uri>https://news.ycombinator.com/user?id=dtagames</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Midtone - 支持图层和选区的在线照片编辑器
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>Nic56</name>
             <uri>https://news.ycombinator.com/user?id=Nic56</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31726472</id>
-        <link href="https://news.ycombinator.com/item?id=31726472"/>
-        <updated>2022-06-13T14:55:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tuc – When cut doesn’t cut it]]></summary>
-        <author>
-            <name>riquito</name>
-            <uri>https://news.ycombinator.com/user?id=riquito</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galaxi.me - 给你的想法发短信，然后让他们回短信
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31726393</id>
-        <link href="https://news.ycombinator.com/item?id=31726393"/>
-        <updated>2022-06-13T14:50:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Galaxi.me – text your ideas and have them texted back later]]></summary>
-        <author>
-            <name>devinhn</name>
-            <uri>https://news.ycombinator.com/user?id=devinhn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于比较和选择正确的Azure虚拟机的极快工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31725502</id>
-        <link href="https://news.ycombinator.com/item?id=31725502"/>
-        <updated>2022-06-13T13:47:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Blazing fast tool to compare and choose the right Azure VMs]]></summary>
-        <author>
-            <name>gaploid</name>
-            <uri>https://news.ycombinator.com/user?id=gaploid</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为你的股票投资组合创建预测
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31724904</id>
-        <link href="https://news.ycombinator.com/item?id=31724904"/>
-        <updated>2022-06-13T12:59:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Create forecasts for your stock portfolio]]></summary>
-        <author>
-            <name>HypoCast</name>
-            <uri>https://news.ycombinator.com/user?id=HypoCast</uri>
         </author>
     </entry>
 </feed>
