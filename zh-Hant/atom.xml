@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-06T15:56:47.324Z</updated>
+    <updated>2022-07-06T16:50:06.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Midtone - 支持圖層和選區的在線照片編輯器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32003119</id>
+        <link href="https://news.ycombinator.com/item?id=32003119"/>
+        <updated>2022-07-06T16:17:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Midtone – online photo editor with support for layers and selections]]></summary>
+        <author>
+            <name>midtone_app</name>
+            <uri>https://news.ycombinator.com/user?id=midtone_app</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[猜猜那個產品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32002843</id>
+        <link href="https://news.ycombinator.com/item?id=32002843"/>
+        <updated>2022-07-06T15:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Guess That Product]]></summary>
+        <author>
+            <name>roryoreilly</name>
+            <uri>https://news.ycombinator.com/user?id=roryoreilly</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[僅可由人眼閱讀的PDF，耐OCR性強
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>HypoCast</name>
             <uri>https://news.ycombinator.com/user?id=HypoCast</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hivekit - 我們正在開發的空間自動化平臺
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31724443</id>
-        <link href="https://news.ycombinator.com/item?id=31724443"/>
-        <updated>2022-06-13T12:21:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hivekit – a spatial automation platform we're working on]]></summary>
-        <author>
-            <name>wolframhempel</name>
-            <uri>https://news.ycombinator.com/user?id=wolframhempel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[折磨面試官的方法 (C++, FizzBuzz)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31723446</id>
-        <link href="https://news.ycombinator.com/item?id=31723446"/>
-        <updated>2022-06-13T10:31:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A way to torture an interviewer (C++, FizzBuzz)]]></summary>
-        <author>
-            <name>jpegqs</name>
-            <uri>https://news.ycombinator.com/user?id=jpegqs</uri>
         </author>
     </entry>
 </feed>
