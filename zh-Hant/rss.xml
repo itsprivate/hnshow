@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 06 Jul 2022 15:38:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 15:56:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[僅可由人眼閱讀的PDF，耐OCR性強
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32002555</link>
+            <guid>https://news.ycombinator.com/item?id=32002555</guid>
+            <pubDate>Wed, 06 Jul 2022 15:38:58 GMT</pubDate>
+            <description><![CDATA[Show HN: PDFs That Are Readable by Human Eyes Only, OCR Resistant]]></description>
+        </item>
         <item>
             <title><![CDATA[想獨自或與他人一起玩有趣的測驗嗎？
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31723446</guid>
             <pubDate>Mon, 13 Jun 2022 10:31:53 GMT</pubDate>
             <description><![CDATA[Show HN: A way to torture an interviewer (C++, FizzBuzz)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[沒有註冊的電子郵件/網站反饋工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31723382</link>
-            <guid>https://news.ycombinator.com/item?id=31723382</guid>
-            <pubDate>Mon, 13 Jun 2022 10:23:18 GMT</pubDate>
-            <description><![CDATA[Show HN: No sign up email/website feedback tool]]></description>
         </item>
     </channel>
 </rss>
