@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 06 Jul 2022 21:27:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 22:49:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Topler - 實時在線一起玩筆和紙的桌面RPG遊戲
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32007646</link>
+            <guid>https://news.ycombinator.com/item?id=32007646</guid>
+            <pubDate>Wed, 06 Jul 2022 22:26:23 GMT</pubDate>
+            <description><![CDATA[Show HN: Topler – Play pen and paper tabletop RPGs together online in real time]]></description>
+        </item>
         <item>
             <title><![CDATA[Barfi - 基於Python流程的GUI編程
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31729204</guid>
             <pubDate>Mon, 13 Jun 2022 18:12:21 GMT</pubDate>
             <description><![CDATA[Show HN: PostgresML integrates Hugging Face to bring SOTA models into the db]]></description>
-        </item>
-        <item>
-            <title><![CDATA[C語言中的Hindley-Milner類型推理
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31729082</link>
-            <guid>https://news.ycombinator.com/item?id=31729082</guid>
-            <pubDate>Mon, 13 Jun 2022 18:01:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Hindley–Milner type inferencing in C]]></description>
         </item>
     </channel>
 </rss>
