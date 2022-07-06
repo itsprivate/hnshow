@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-06T02:47:02.271Z</updated>
+    <updated>2022-07-06T05:48:29.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用C語言編寫的一個簡單的意大利語到英語的翻譯器（Hello World笑話）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31997061</id>
+        <link href="https://news.ycombinator.com/item?id=31997061"/>
+        <updated>2022-07-06T05:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A simple Italian to English translator written in C (Hello World joke)]]></summary>
+        <author>
+            <name>jpegqs</name>
+            <uri>https://news.ycombinator.com/user?id=jpegqs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用神經搜索的IT威脅檢測
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31996914</id>
+        <link href="https://news.ycombinator.com/item?id=31996914"/>
+        <updated>2022-07-06T05:03:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: IT Threat Detection Using Neural Search]]></summary>
+        <author>
+            <name>shubham_saboo</name>
+            <uri>https://news.ycombinator.com/user?id=shubham_saboo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Una - 基於人工智能的旅遊應用和折扣會員制
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>quantdaddy</name>
             <uri>https://news.ycombinator.com/user?id=quantdaddy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WASM Postflop - 在網絡瀏覽器上運行的免費撲克GTO解算器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31715946</id>
-        <link href="https://news.ycombinator.com/item?id=31715946"/>
-        <updated>2022-06-12T16:49:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WASM Postflop – Free GTO solver for poker that works on web browsers]]></summary>
-        <author>
-            <name>b-inary</name>
-            <uri>https://news.ycombinator.com/user?id=b-inary</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過為谷歌雲計費設置上限來自動控制成本
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31715458</id>
-        <link href="https://news.ycombinator.com/item?id=31715458"/>
-        <updated>2022-06-12T15:56:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Automatic cost control by capping Google Cloud billing]]></summary>
-        <author>
-            <name>Cyclenerd</name>
-            <uri>https://news.ycombinator.com/user?id=Cyclenerd</uri>
         </author>
     </entry>
 </feed>

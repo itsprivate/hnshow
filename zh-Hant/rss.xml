@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 06 Jul 2022 02:47:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 05:48:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用C語言編寫的一個簡單的意大利語到英語的翻譯器（Hello World笑話）
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31997061</link>
+            <guid>https://news.ycombinator.com/item?id=31997061</guid>
+            <pubDate>Wed, 06 Jul 2022 05:30:57 GMT</pubDate>
+            <description><![CDATA[Show HN: A simple Italian to English translator written in C (Hello World joke)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用神經搜索的IT威脅檢測
+]]></title>
+            <link>https://news.ycombinator.com/item?id=31996914</link>
+            <guid>https://news.ycombinator.com/item?id=31996914</guid>
+            <pubDate>Wed, 06 Jul 2022 05:03:19 GMT</pubDate>
+            <description><![CDATA[Show HN: IT Threat Detection Using Neural Search]]></description>
+        </item>
         <item>
             <title><![CDATA[Una - 基於人工智能的旅遊應用和折扣會員制
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31716393</guid>
             <pubDate>Sun, 12 Jun 2022 17:32:50 GMT</pubDate>
             <description><![CDATA[Show HN: Looking for feedback on Truegit, Git powered Blogging platform]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WASM Postflop - 在網絡瀏覽器上運行的免費撲克GTO解算器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31715946</link>
-            <guid>https://news.ycombinator.com/item?id=31715946</guid>
-            <pubDate>Sun, 12 Jun 2022 16:49:30 GMT</pubDate>
-            <description><![CDATA[Show HN: WASM Postflop – Free GTO solver for poker that works on web browsers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通過為谷歌雲計費設置上限來自動控制成本
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31715458</link>
-            <guid>https://news.ycombinator.com/item?id=31715458</guid>
-            <pubDate>Sun, 12 Jun 2022 15:56:26 GMT</pubDate>
-            <description><![CDATA[Show HN: Automatic cost control by capping Google Cloud billing]]></description>
         </item>
     </channel>
 </rss>
