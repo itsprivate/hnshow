@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-06T21:01:08.608Z</updated>
+    <updated>2022-07-06T21:27:03.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Barfi - 基於Python流程的GUI編程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32006756</id>
+        <link href="https://news.ycombinator.com/item?id=32006756"/>
+        <updated>2022-07-06T21:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Barfi – Python flow based programming with GUI]]></summary>
+        <author>
+            <name>krishadi</name>
+            <uri>https://news.ycombinator.com/user?id=krishadi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們為團隊創建了一個密碼和數據管理器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nmhancoc</name>
             <uri>https://news.ycombinator.com/user?id=nmhancoc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[創作者的語音克隆
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31728939</id>
-        <link href="https://news.ycombinator.com/item?id=31728939"/>
-        <updated>2022-06-13T17:51:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Voice Clones for Creators]]></summary>
-        <author>
-            <name>_josh_meyer_</name>
-            <uri>https://news.ycombinator.com/user?id=_josh_meyer_</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 06 Jul 2022 21:01:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 21:27:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Barfi - 基於Python流程的GUI編程
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32006756</link>
+            <guid>https://news.ycombinator.com/item?id=32006756</guid>
+            <pubDate>Wed, 06 Jul 2022 21:00:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Barfi – Python flow based programming with GUI]]></description>
+        </item>
         <item>
             <title><![CDATA[我們為團隊創建了一個密碼和數據管理器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31729082</guid>
             <pubDate>Mon, 13 Jun 2022 18:01:41 GMT</pubDate>
             <description><![CDATA[Show HN: Hindley–Milner type inferencing in C]]></description>
-        </item>
-        <item>
-            <title><![CDATA[創作者的語音克隆
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31728939</link>
-            <guid>https://news.ycombinator.com/item?id=31728939</guid>
-            <pubDate>Mon, 13 Jun 2022 17:51:50 GMT</pubDate>
-            <description><![CDATA[Show HN: Voice Clones for Creators]]></description>
         </item>
     </channel>
 </rss>
