@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-06T09:33:32.411Z</updated>
+    <updated>2022-07-06T10:39:11.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[收藏一篇文章，以后在自己的播客频道上收听
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31998941</id>
+        <link href="https://news.ycombinator.com/item?id=31998941"/>
+        <updated>2022-07-06T10:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bookmark an article, listen to it later on your own podcast feed]]></summary>
+        <author>
+            <name>tuanmanhcao</name>
+            <uri>https://news.ycombinator.com/user?id=tuanmanhcao</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[朋友评论--为时刻评分，为你的友谊打分
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31998887</id>
+        <link href="https://news.ycombinator.com/item?id=31998887"/>
+        <updated>2022-07-06T10:11:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Friend Review – Rate Moments, Scale Your Friendships]]></summary>
+        <author>
+            <name>3dwafflee</name>
+            <uri>https://news.ycombinator.com/user?id=3dwafflee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[: Markdown内容的RankMath风格的页面SEO
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>sodality2</name>
             <uri>https://news.ycombinator.com/user?id=sodality2</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vstwebview，使用web技术编写VST3音频插件UI
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31718521</id>
-        <link href="https://news.ycombinator.com/item?id=31718521"/>
-        <updated>2022-06-12T21:37:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Vstwebview, write VST3 audio plugin UIs using webtech]]></summary>
-        <author>
-            <name>cmrdporcupine</name>
-            <uri>https://news.ycombinator.com/user?id=cmrdporcupine</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日记事的应用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31718479</id>
-        <link href="https://news.ycombinator.com/item?id=31718479"/>
-        <updated>2022-06-12T21:31:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: App for Daily Journaling]]></summary>
-        <author>
-            <name>brooksdra</name>
-            <uri>https://news.ycombinator.com/user?id=brooksdra</uri>
         </author>
     </entry>
 </feed>
