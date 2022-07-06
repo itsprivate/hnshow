@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-06T10:39:11.064Z</updated>
+    <updated>2022-07-06T11:28:37.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[批量自動填寫PDF表格 [Excel, CSV, SQL Server, Access, XML或JSON] 。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31999358</id>
+        <link href="https://news.ycombinator.com/item?id=31999358"/>
+        <updated>2022-07-06T11:21:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Batch Auto Fill PDF Forms [Excel, CSV, SQL Server, Access, XML or JSON]]]></summary>
+        <author>
+            <name>Tadelsucht</name>
+            <uri>https://news.ycombinator.com/user?id=Tadelsucht</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[StoneDB - 一個建立在MySQL基礎上的實時HTAP數據庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=31999357</id>
+        <link href="https://news.ycombinator.com/item?id=31999357"/>
+        <updated>2022-07-06T11:21:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: StoneDB – A real-time HTAP database built on MySQL]]></summary>
+        <author>
+            <name>YangWilly</name>
+            <uri>https://news.ycombinator.com/user?id=YangWilly</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[收藏一篇文章，以後在自己的播客頻道上收聽
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>thefedoration</name>
             <uri>https://news.ycombinator.com/user?id=thefedoration</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[水彩AI
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31718603</id>
-        <link href="https://news.ycombinator.com/item?id=31718603"/>
-        <updated>2022-06-12T21:47:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Watercolor AI]]></summary>
-        <author>
-            <name>singam96</name>
-            <uri>https://news.ycombinator.com/user?id=singam96</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HJKL訓練器 - 習慣於HJKL Vim的鍵位
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31718655</id>
-        <link href="https://news.ycombinator.com/item?id=31718655"/>
-        <updated>2022-06-12T21:54:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: HJKL Trainer - Get used to HJKL Vim keybinds]]></summary>
-        <author>
-            <name>sodality2</name>
-            <uri>https://news.ycombinator.com/user?id=sodality2</uri>
         </author>
     </entry>
 </feed>
