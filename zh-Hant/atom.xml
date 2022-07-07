@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-07T16:53:22.958Z</updated>
+    <updated>2022-07-07T17:24:28.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[毫無意義的Chrome擴展程序，如果它與regex匹配，會使Twitter圖片旋轉
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32016367</id>
+        <link href="https://news.ycombinator.com/item?id=32016367"/>
+        <updated>2022-07-07T16:51:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pointless Chrome ext that makes Twitter pic spin if it matches regex]]></summary>
+        <author>
+            <name>kinoro</name>
+            <uri>https://news.ycombinator.com/user?id=kinoro</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PATR--一個簡單、強大的Heroku替代方案，可以很好地擴展。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>inaccelbot</name>
             <uri>https://news.ycombinator.com/user?id=inaccelbot</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於FOSS DNN的嵌入式無人機地面障礙物檢測
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31736681</id>
-        <link href="https://news.ycombinator.com/item?id=31736681"/>
-        <updated>2022-06-14T09:51:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: FOSS DNN-based embedded UAV ground-obstacle detection]]></summary>
-        <author>
-            <name>stephanst</name>
-            <uri>https://news.ycombinator.com/user?id=stephanst</uri>
         </author>
     </entry>
 </feed>

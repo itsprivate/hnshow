@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 07 Jul 2022 16:53:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 17:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[毫无意义的Chrome扩展程序，如果它与regex匹配，会使Twitter图片旋转
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32016367</link>
+            <guid>https://news.ycombinator.com/item?id=32016367</guid>
+            <pubDate>Thu, 07 Jul 2022 16:51:30 GMT</pubDate>
+            <description><![CDATA[Show HN: Pointless Chrome ext that makes Twitter pic spin if it matches regex]]></description>
+        </item>
         <item>
             <title><![CDATA[PATR--一个简单、强大的Heroku替代方案，可以很好地扩展。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31737647</guid>
             <pubDate>Tue, 14 Jun 2022 11:41:01 GMT</pubDate>
             <description><![CDATA[Show HN: The FPGA Zero-Knowledge Playground]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基于FOSS DNN的嵌入式无人机地面障碍物检测
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31736681</link>
-            <guid>https://news.ycombinator.com/item?id=31736681</guid>
-            <pubDate>Tue, 14 Jun 2022 09:51:05 GMT</pubDate>
-            <description><![CDATA[Show HN: FOSS DNN-based embedded UAV ground-obstacle detection]]></description>
         </item>
     </channel>
 </rss>
