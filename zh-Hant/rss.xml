@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 07 Jul 2022 02:42:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 05:35:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Arttime獲得了一個進度條，簡單的安裝程序，可以暫停/不暫停的能力
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32010171</link>
+            <guid>https://news.ycombinator.com/item?id=32010171</guid>
+            <pubDate>Thu, 07 Jul 2022 05:16:40 GMT</pubDate>
+            <description><![CDATA[Show HN: Arttime gets a progress bar, simple installer, ability to pause/unpause]]></description>
+        </item>
         <item>
             <title><![CDATA[用React構建的iCal風格的UI庫，99%為無頭組件
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31730550</guid>
             <pubDate>Mon, 13 Jun 2022 19:33:24 GMT</pubDate>
             <description><![CDATA[Show HN: Generate client library for expressjs endpoints]]></description>
-        </item>
-        <item>
-            <title><![CDATA[us-stripe-subscription - 輕鬆地在你的React應用中添加Stripe計費。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31730223</link>
-            <guid>https://news.ycombinator.com/item?id=31730223</guid>
-            <pubDate>Mon, 13 Jun 2022 19:12:44 GMT</pubDate>
-            <description><![CDATA[Show HN: use-stripe-subscription – easily add Stripe Billing to your React app]]></description>
         </item>
     </channel>
 </rss>
