@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-07T13:10:01.103Z</updated>
+    <updated>2022-07-07T14:49:23.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AppBlocker - 安卓应用，你可以用它来阻止其他应用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32013842</id>
+        <link href="https://news.ycombinator.com/item?id=32013842"/>
+        <updated>2022-07-07T13:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: AppBlocker – Android app that you can use to block other apps]]></summary>
+        <author>
+            <name>platanos</name>
+            <uri>https://news.ycombinator.com/user?id=platanos</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[构建自己的源代码的PoC人工智能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32013807</id>
+        <link href="https://news.ycombinator.com/item?id=32013807"/>
+        <updated>2022-07-07T13:27:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PoC AI that builds its own source code]]></summary>
+        <author>
+            <name>nunodonato</name>
+            <uri>https://news.ycombinator.com/user?id=nunodonato</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PocketBase - 开源的实时后端，只有一个文件
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>brooksdra</name>
             <uri>https://news.ycombinator.com/user?id=brooksdra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的第一个JavaScript项目（用alpine.js复制到剪贴板）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31731386</id>
-        <link href="https://news.ycombinator.com/item?id=31731386"/>
-        <updated>2022-06-13T20:31:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: My first JavaScript project (copy-to-clipboard with alpine.js)]]></summary>
-        <author>
-            <name>yucelfaruksahan</name>
-            <uri>https://news.ycombinator.com/user?id=yucelfaruksahan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个具有用户友好监控的整合平台
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31731357</id>
-        <link href="https://news.ycombinator.com/item?id=31731357"/>
-        <updated>2022-06-13T20:29:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a integration platform with user-friendly monitoring]]></summary>
-        <author>
-            <name>renanwilliam</name>
-            <uri>https://news.ycombinator.com/user?id=renanwilliam</uri>
         </author>
     </entry>
 </feed>
