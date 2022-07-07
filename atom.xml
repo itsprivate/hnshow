@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-07T17:24:28.636Z</updated>
+    <updated>2022-07-07T17:49:54.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Five/Three/One--5/3/1的锻炼应用--现已登陆安卓系统
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32016675</id>
+        <link href="https://news.ycombinator.com/item?id=32016675"/>
+        <updated>2022-07-07T17:16:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Five/Three/One – A workout app for 5/3/1 – is now available on Android]]></summary>
+        <author>
+            <name>strongpigeon</name>
+            <uri>https://news.ycombinator.com/user?id=strongpigeon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[毫无意义的Chrome扩展程序，如果它与regex匹配，会使Twitter图片旋转
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nishithfolly</name>
             <uri>https://news.ycombinator.com/user?id=nishithfolly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FPGA零知识游乐场
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31737647</id>
-        <link href="https://news.ycombinator.com/item?id=31737647"/>
-        <updated>2022-06-14T11:41:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The FPGA Zero-Knowledge Playground]]></summary>
-        <author>
-            <name>inaccelbot</name>
-            <uri>https://news.ycombinator.com/user?id=inaccelbot</uri>
         </author>
     </entry>
 </feed>
