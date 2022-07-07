@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 07 Jul 2022 05:35:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 07:02:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Pythogen - OpenAPI客户端生成器（基于pydantic和httpx）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32010702</link>
+            <guid>https://news.ycombinator.com/item?id=32010702</guid>
+            <pubDate>Thu, 07 Jul 2022 06:52:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Pythogen – OpenAPI clients generator (based on pydantic and httpx)]]></description>
+        </item>
         <item>
             <title><![CDATA[Arttime获得了一个进度条，简单的安装程序，可以暂停/不暂停的能力
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31730621</guid>
             <pubDate>Mon, 13 Jun 2022 19:37:42 GMT</pubDate>
             <description><![CDATA[Show HN: Quartz.rs Minimalistic scheduling library for Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为Expressjs端点生成客户端库
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31730550</link>
-            <guid>https://news.ycombinator.com/item?id=31730550</guid>
-            <pubDate>Mon, 13 Jun 2022 19:33:24 GMT</pubDate>
-            <description><![CDATA[Show HN: Generate client library for expressjs endpoints]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-07T05:35:01.138Z</updated>
+    <updated>2022-07-07T07:02:00.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Pythogen - OpenAPI客戶端生成器（基於pydantic和httpx）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32010702</id>
+        <link href="https://news.ycombinator.com/item?id=32010702"/>
+        <updated>2022-07-07T06:52:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pythogen – OpenAPI clients generator (based on pydantic and httpx)]]></summary>
+        <author>
+            <name>erhosen</name>
+            <uri>https://news.ycombinator.com/user?id=erhosen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arttime獲得了一個進度條，簡單的安裝程序，可以暫停/不暫停的能力
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mitghi</name>
             <uri>https://news.ycombinator.com/user?id=mitghi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為Expressjs端點生成客戶端庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31730550</id>
-        <link href="https://news.ycombinator.com/item?id=31730550"/>
-        <updated>2022-06-13T19:33:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Generate client library for expressjs endpoints]]></summary>
-        <author>
-            <name>ziolko</name>
-            <uri>https://news.ycombinator.com/user?id=ziolko</uri>
         </author>
     </entry>
 </feed>
