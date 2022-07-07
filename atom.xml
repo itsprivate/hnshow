@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-07T09:48:14.410Z</updated>
+    <updated>2022-07-07T10:57:15.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个基于Go 1.18泛型的依赖注入库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32012205</id>
+        <link href="https://news.ycombinator.com/item?id=32012205"/>
+        <updated>2022-07-07T10:31:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A dependency injection library based on Go 1.18 Generics]]></summary>
+        <author>
+            <name>samber</name>
+            <uri>https://news.ycombinator.com/user?id=samber</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个基于早期DOS游戏的小型开源逻辑游戏
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pyajamas</name>
             <uri>https://news.ycombinator.com/user?id=pyajamas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust的并发散列式哈希图
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31730673</id>
-        <link href="https://news.ycombinator.com/item?id=31730673"/>
-        <updated>2022-06-13T19:41:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Concurrent Sharded HashMap for Rust]]></summary>
-        <author>
-            <name>mitghi</name>
-            <uri>https://news.ycombinator.com/user?id=mitghi</uri>
         </author>
     </entry>
 </feed>

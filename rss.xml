@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 07 Jul 2022 09:48:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 10:57:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个基于Go 1.18泛型的依赖注入库
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32012205</link>
+            <guid>https://news.ycombinator.com/item?id=32012205</guid>
+            <pubDate>Thu, 07 Jul 2022 10:31:31 GMT</pubDate>
+            <description><![CDATA[Show HN: A dependency injection library based on Go 1.18 Generics]]></description>
+        </item>
         <item>
             <title><![CDATA[一个基于早期DOS游戏的小型开源逻辑游戏
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31730788</guid>
             <pubDate>Mon, 13 Jun 2022 19:47:28 GMT</pubDate>
             <description><![CDATA[Show HN: A public Lighthouse service for Slack's nebula VPN]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rust的并发散列式哈希图
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31730673</link>
-            <guid>https://news.ycombinator.com/item?id=31730673</guid>
-            <pubDate>Mon, 13 Jun 2022 19:41:01 GMT</pubDate>
-            <description><![CDATA[Show HN: Concurrent Sharded HashMap for Rust]]></description>
         </item>
     </channel>
 </rss>

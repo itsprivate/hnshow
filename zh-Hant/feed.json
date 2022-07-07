@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32012205",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32012205",
+            "title": "一個基於Go 1.18泛型的依賴注入庫\n",
+            "summary": "Show HN: A dependency injection library based on Go 1.18 Generics",
+            "date_modified": "2022-07-07T10:31:31.000Z",
+            "author": {
+                "name": "samber",
+                "url": "https://news.ycombinator.com/user?id=samber"
+            },
+            "_original_headline": "Show HN: A dependency injection library based on Go 1.18 Generics",
+            "_original_url": "https://github.com/samber/do",
+            "_sensitive": false,
+            "_score": 1
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32011739",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32011739",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "Show HN: A public Lighthouse service for Slack's nebula VPN",
             "_original_url": "https://news.ycombinator.com/item?id=31730788",
-            "_sensitive": false,
-            "_score": 1
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31730673",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31730673",
-            "title": "Rust的併發散列式哈希圖\n",
-            "summary": "Show HN: Concurrent Sharded HashMap for Rust",
-            "date_modified": "2022-06-13T19:41:01.000Z",
-            "author": {
-                "name": "mitghi",
-                "url": "https://news.ycombinator.com/user?id=mitghi"
-            },
-            "_original_headline": "Show HN: Concurrent Sharded HashMap for Rust",
-            "_original_url": "https://github.com/mitghi/scherben-map.rs",
             "_sensitive": false,
             "_score": 1
         }
