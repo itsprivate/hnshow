@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-07T07:02:00.342Z</updated>
+    <updated>2022-07-07T09:48:14.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个基于早期DOS游戏的小型开源逻辑游戏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32011739</id>
+        <link href="https://news.ycombinator.com/item?id=32011739"/>
+        <updated>2022-07-07T09:33:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A small open-source logic game based on an a early DOS game]]></summary>
+        <author>
+            <name>peterfication</name>
+            <uri>https://news.ycombinator.com/user?id=peterfication</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pythogen - OpenAPI客户端生成器（基于pydantic和httpx）。
 ]]></title>
@@ -7198,18 +7210,6 @@
         <link href="https://news.ycombinator.com/item?id=31730673"/>
         <updated>2022-06-13T19:41:01.000Z</updated>
         <summary type="html"><![CDATA[Show HN: Concurrent Sharded HashMap for Rust]]></summary>
-        <author>
-            <name>mitghi</name>
-            <uri>https://news.ycombinator.com/user?id=mitghi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quartz.rs Rust的最小化调度库
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31730621</id>
-        <link href="https://news.ycombinator.com/item?id=31730621"/>
-        <updated>2022-06-13T19:37:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Quartz.rs Minimalistic scheduling library for Rust]]></summary>
         <author>
             <name>mitghi</name>
             <uri>https://news.ycombinator.com/user?id=mitghi</uri>

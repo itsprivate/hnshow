@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 07 Jul 2022 07:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 09:48:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個基於早期DOS遊戲的小型開源邏輯遊戲
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32011739</link>
+            <guid>https://news.ycombinator.com/item?id=32011739</guid>
+            <pubDate>Thu, 07 Jul 2022 09:33:50 GMT</pubDate>
+            <description><![CDATA[Show HN: A small open-source logic game based on an a early DOS game]]></description>
+        </item>
         <item>
             <title><![CDATA[Pythogen - OpenAPI客戶端生成器（基於pydantic和httpx）。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31730673</guid>
             <pubDate>Mon, 13 Jun 2022 19:41:01 GMT</pubDate>
             <description><![CDATA[Show HN: Concurrent Sharded HashMap for Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Quartz.rs Rust的最小化調度庫
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31730621</link>
-            <guid>https://news.ycombinator.com/item?id=31730621</guid>
-            <pubDate>Mon, 13 Jun 2022 19:37:42 GMT</pubDate>
-            <description><![CDATA[Show HN: Quartz.rs Minimalistic scheduling library for Rust]]></description>
         </item>
     </channel>
 </rss>
