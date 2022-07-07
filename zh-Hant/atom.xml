@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-07T15:35:54.022Z</updated>
+    <updated>2022-07-07T16:53:22.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PATR--一個簡單、強大的Heroku替代方案，可以很好地擴展。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32016097</id>
+        <link href="https://news.ycombinator.com/item?id=32016097"/>
+        <updated>2022-07-07T16:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PATR- A simple,powerful alternative to Heroku that scales AFFORDABLY]]></summary>
+        <author>
+            <name>adarshw</name>
+            <uri>https://news.ycombinator.com/user?id=adarshw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[組合式搜索--使網頁瀏覽更容易
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32015853</id>
+        <link href="https://news.ycombinator.com/item?id=32015853"/>
+        <updated>2022-07-07T16:12:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Combined Search – make web browsing much easier]]></summary>
+        <author>
+            <name>weekendvampire</name>
+            <uri>https://news.ycombinator.com/user?id=weekendvampire</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dynamesa - 一個簡單的DynamoDB客戶端
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32015744</id>
+        <link href="https://news.ycombinator.com/item?id=32015744"/>
+        <updated>2022-07-07T16:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dynamesa – A Simple DynamoDB Client]]></summary>
+        <author>
+            <name>jiaaro</name>
+            <uri>https://news.ycombinator.com/user?id=jiaaro</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tlogistry.dev：使用Sigstore的Rekor的透明的不可變標籤
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>stephanst</name>
             <uri>https://news.ycombinator.com/user?id=stephanst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signal Desktop中的離線語音信息轉錄
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31735754</id>
-        <link href="https://news.ycombinator.com/item?id=31735754"/>
-        <updated>2022-06-14T07:20:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Offline voice messages transcription in Signal Desktop]]></summary>
-        <author>
-            <name>dexterp37</name>
-            <uri>https://news.ycombinator.com/user?id=dexterp37</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gh-xplr - 通過GitHub CLI使用xplr探索GitHub的倉庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31735167</id>
-        <link href="https://news.ycombinator.com/item?id=31735167"/>
-        <updated>2022-06-14T05:46:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Gh-xplr – Explore GitHub repos using xplr via GitHub CLI]]></summary>
-        <author>
-            <name>sayanarijit</name>
-            <uri>https://news.ycombinator.com/user?id=sayanarijit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase FOMO計算器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31734604</id>
-        <link href="https://news.ycombinator.com/item?id=31734604"/>
-        <updated>2022-06-14T04:02:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The Coinbase FOMO Calculator]]></summary>
-        <author>
-            <name>zarie</name>
-            <uri>https://news.ycombinator.com/user?id=zarie</uri>
         </author>
     </entry>
 </feed>
