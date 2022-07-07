@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32008958",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32008958",
+            "title": "用React構建的iCal風格的UI庫，99%為無頭組件\n",
+            "summary": "Show HN: iCal style UI library built with React, 99% headless components",
+            "date_modified": "2022-07-07T01:27:57.000Z",
+            "author": {
+                "name": "trevorme91",
+                "url": "https://news.ycombinator.com/user?id=trevorme91"
+            },
+            "_original_headline": "Show HN: iCal style UI library built with React, 99% headless components",
+            "_original_url": "https://github.com/ifndefdeadmau5/react-go-to-calendar",
+            "_sensitive": false,
+            "_score": 2
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32007646",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32007646",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://github.com/clerkinc/use-stripe-subscription",
             "_sensitive": false,
             "_score": 2
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31729204",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31729204",
-            "title": "PostgresML集成了Hugging Face，將SOTA模型帶入數據庫。\n",
-            "summary": "Show HN: PostgresML integrates Hugging Face to bring SOTA models into the db",
-            "date_modified": "2022-06-13T18:12:21.000Z",
-            "author": {
-                "name": "levkk",
-                "url": "https://news.ycombinator.com/user?id=levkk"
-            },
-            "_original_headline": "Show HN: PostgresML integrates Hugging Face to bring SOTA models into the db",
-            "_original_url": "https://postgresml.org/user_guides/transformers/pre_trained_models/",
-            "_sensitive": false,
-            "_score": 7
         }
     ]
 }
