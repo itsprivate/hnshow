@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 07 Jul 2022 19:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 21:27:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[RemoteFriendly - 一個受HN啟發的遠程招聘網站
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32019598</link>
+            <guid>https://news.ycombinator.com/item?id=32019598</guid>
+            <pubDate>Thu, 07 Jul 2022 21:20:02 GMT</pubDate>
+            <description><![CDATA[Show HN: RemoteFriendly – A remote job board inspired by HN]]></description>
+        </item>
         <item>
             <title><![CDATA[ReadHN，一個具有一些不錯的小功能的Hacker News閱讀器：)
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31739737</guid>
             <pubDate>Tue, 14 Jun 2022 14:08:26 GMT</pubDate>
             <description><![CDATA[Show HN: Export Figma design to React components]]></description>
-        </item>
-        <item>
-            <title><![CDATA[荒謬的設計 - 第四章
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31739136</link>
-            <guid>https://news.ycombinator.com/item?id=31739136</guid>
-            <pubDate>Tue, 14 Jun 2022 13:28:56 GMT</pubDate>
-            <description><![CDATA[Show HN: Absurd Design – Chapter 4]]></description>
         </item>
     </channel>
 </rss>
