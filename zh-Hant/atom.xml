@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-08T07:45:22.172Z</updated>
+    <updated>2022-07-08T08:38:41.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在瀏覽Zillow/Trulia時，即時計算抵押貸款的還款。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32024246</id>
+        <link href="https://news.ycombinator.com/item?id=32024246"/>
+        <updated>2022-07-08T08:15:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Calculate mortgage repayments on the fly while browsing Zillow/Trulia]]></summary>
+        <author>
+            <name>rdm_blackhole</name>
+            <uri>https://news.ycombinator.com/user?id=rdm_blackhole</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鋼琴培訓師 - 使用MIDI學習鋼琴音階、和絃等
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>shcheklein</name>
             <uri>https://news.ycombinator.com/user?id=shcheklein</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BackerKit的眾籌 (YC W13)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31742038</id>
-        <link href="https://news.ycombinator.com/item?id=31742038"/>
-        <updated>2022-06-14T16:41:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Crowdfunding by BackerKit (YC W13)]]></summary>
-        <author>
-            <name>mbs348</name>
-            <uri>https://news.ycombinator.com/user?id=mbs348</uri>
         </author>
     </entry>
 </feed>
