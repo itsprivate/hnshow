@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 08 Jul 2022 22:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 23:33:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[三重支付 - 通过分享链接向任何人索取加密货币
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32028972</link>
+            <guid>https://news.ycombinator.com/item?id=32028972</guid>
+            <pubDate>Fri, 08 Jul 2022 23:05:56 GMT</pubDate>
+            <description><![CDATA[Show HN: Triple Payments – Request crypto from anyone by sharing a link]]></description>
+        </item>
         <item>
             <title><![CDATA[Nasefa - 发送自己的文件（通过自我托管的NATS）。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31747850</guid>
             <pubDate>Wed, 15 Jun 2022 00:43:27 GMT</pubDate>
             <description><![CDATA[Show HN: Thoughts on Digital Sticky Notes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[跨越RSS的语义搜索
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31745604</link>
-            <guid>https://news.ycombinator.com/item?id=31745604</guid>
-            <pubDate>Tue, 14 Jun 2022 20:28:42 GMT</pubDate>
-            <description><![CDATA[Show HN: Semantic Search Across RSS Feeds]]></description>
         </item>
     </channel>
 </rss>
