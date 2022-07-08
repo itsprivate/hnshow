@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-08T02:44:02.484Z</updated>
+    <updated>2022-07-08T04:53:38.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[觀看創作者本人講述OpenAI GPT-3背後的故事
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32022972</id>
+        <link href="https://news.ycombinator.com/item?id=32022972"/>
+        <updated>2022-07-08T04:02:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Watch the story behind OpenAI GPT-3 from the creators themselves]]></summary>
+        <author>
+            <name>shubham_saboo</name>
+            <uri>https://news.ycombinator.com/user?id=shubham_saboo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個應用程序，幫助失眠症患者學習如何重新入睡
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>scastiel</name>
             <uri>https://news.ycombinator.com/user?id=scastiel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我對無聊的永久治療方法
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31740441</id>
-        <link href="https://news.ycombinator.com/item?id=31740441"/>
-        <updated>2022-06-14T14:55:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: My Permanent Cure for Boredom]]></summary>
-        <author>
-            <name>Phileosopher</name>
-            <uri>https://news.ycombinator.com/user?id=Phileosopher</uri>
         </author>
     </entry>
 </feed>
