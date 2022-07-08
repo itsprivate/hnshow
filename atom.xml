@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-08T21:42:55.355Z</updated>
+    <updated>2022-07-08T22:19:46.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Nasefa - 发送自己的文件（通过自我托管的NATS）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32027970</id>
+        <link href="https://news.ycombinator.com/item?id=32027970"/>
+        <updated>2022-07-08T22:01:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Nasefa – Sending myself files (via self-hosted NATS)]]></summary>
+        <author>
+            <name>mprime1</name>
+            <uri>https://news.ycombinator.com/user?id=mprime1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wiby现在是免费软件
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>aquajet</name>
             <uri>https://news.ycombinator.com/user?id=aquajet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[带有磁盘有效载荷存储的搜索引擎降低了RAM的使用量
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31745346</id>
-        <link href="https://news.ycombinator.com/item?id=31745346"/>
-        <updated>2022-06-14T20:07:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Search Engine with On-Disk Payload Storage Reduces RAM Usage]]></summary>
-        <author>
-            <name>Alyka</name>
-            <uri>https://news.ycombinator.com/user?id=Alyka</uri>
         </author>
     </entry>
 </feed>
