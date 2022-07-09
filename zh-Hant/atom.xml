@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-09T19:57:58.437Z</updated>
+    <updated>2022-07-09T20:30:44.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[技術書籍/框架的辦公時間
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32038780</id>
+        <link href="https://news.ycombinator.com/item?id=32038780"/>
+        <updated>2022-07-09T20:04:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Office hours for technical books/frameworks]]></summary>
+        <author>
+            <name>gentooguy</name>
+            <uri>https://news.ycombinator.com/user?id=gentooguy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[React Native Elements v4
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bolanone</name>
             <uri>https://news.ycombinator.com/user?id=bolanone</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個GPT-3的東西來幫助我做更好的黑客馬拉松項目
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31758805</id>
-        <link href="https://news.ycombinator.com/item?id=31758805"/>
-        <updated>2022-06-15T20:12:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a GPT-3 thing to help me make better hackathon projects]]></summary>
-        <author>
-            <name>jarrenae</name>
-            <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
         </author>
     </entry>
 </feed>
