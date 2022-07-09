@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-09T02:23:19.254Z</updated>
+    <updated>2022-07-09T04:49:34.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Logto, OSS在幾分鐘內建立簽到體驗和用戶身份
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32031649</id>
+        <link href="https://news.ycombinator.com/item?id=32031649"/>
+        <updated>2022-07-09T04:24:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Logto, OSS to build sign-in experience and user identity within minutes]]></summary>
+        <author>
+            <name>pseudopuppet</name>
+            <uri>https://news.ycombinator.com/user?id=pseudopuppet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個MIDI工具來教我鋼琴
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cheerioty</name>
             <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的副業模擬圖 - 聯盟營銷工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31749795</id>
-        <link href="https://news.ycombinator.com/item?id=31749795"/>
-        <updated>2022-06-15T06:35:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: My Side Project Mockup – Affiliate Marketing Tool]]></summary>
-        <author>
-            <name>changhao</name>
-            <uri>https://news.ycombinator.com/user?id=changhao</uri>
         </author>
     </entry>
 </feed>
