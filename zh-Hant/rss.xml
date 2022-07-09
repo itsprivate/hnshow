@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 09 Jul 2022 04:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 05:45:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Obj-C的異步框架：並行處理、通知等
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32032093</link>
+            <guid>https://news.ycombinator.com/item?id=32032093</guid>
+            <pubDate>Sat, 09 Jul 2022 05:34:54 GMT</pubDate>
+            <description><![CDATA[Show HN: Async Framework for Obj-C: parallel processing, notifications and more]]></description>
+        </item>
         <item>
             <title><![CDATA[Logto, OSS在幾分鐘內建立簽到體驗和用戶身份
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31751568</guid>
             <pubDate>Wed, 15 Jun 2022 11:43:04 GMT</pubDate>
             <description><![CDATA[Show HN: GraphQL Zeus 5.0.4 – Encode&Decode GraphQL Scalars]]></description>
-        </item>
-        <item>
-            <title><![CDATA[創業公司的Questmate
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31750125</link>
-            <guid>https://news.ycombinator.com/item?id=31750125</guid>
-            <pubDate>Wed, 15 Jun 2022 07:34:16 GMT</pubDate>
-            <description><![CDATA[Show HN: Questmate for Startups]]></description>
         </item>
     </channel>
 </rss>
