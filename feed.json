@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32032314",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32032314",
+            "title": "我创建了ESLint插件，发现JSX中无效的HTML嵌套\n",
+            "summary": "Show HN: I Created ESLint Plugin That Finds Invalid HTML Nestings in JSX",
+            "date_modified": "2022-07-09T06:07:21.000Z",
+            "author": {
+                "name": "MNNTNK",
+                "url": "https://news.ycombinator.com/user?id=MNNTNK"
+            },
+            "_original_headline": "Show HN: I Created ESLint Plugin That Finds Invalid HTML Nestings in JSX",
+            "_original_url": "https://github.com/MananTank/eslint-plugin-validate-jsx-nesting",
+            "_sensitive": false,
+            "_score": 1
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32032093",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32032093",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://www.youtube.com/watch?v=0yOEndF1bLw",
             "_sensitive": false,
             "_score": 2
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31751568",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31751568",
-            "title": "GraphQL Zeus 5.0.4 - 对GraphQL标量进行编码和解码\n",
-            "summary": "Show HN: GraphQL Zeus 5.0.4 – Encode&Decode GraphQL Scalars",
-            "date_modified": "2022-06-15T11:43:04.000Z",
-            "author": {
-                "name": "aexol",
-                "url": "https://news.ycombinator.com/user?id=aexol"
-            },
-            "_original_headline": "Show HN: GraphQL Zeus 5.0.4 – Encode&Decode GraphQL Scalars",
-            "_original_url": "https://zeus.graphqleditor.com/page/graphql/scalars.html",
-            "_sensitive": false,
-            "_score": 1
         }
     ]
 }
