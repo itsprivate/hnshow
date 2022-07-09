@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-09T13:17:56.098Z</updated>
+    <updated>2022-07-09T13:58:23.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[NFT稀有度工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32035108</id>
+        <link href="https://news.ycombinator.com/item?id=32035108"/>
+        <updated>2022-07-09T13:55:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: NFT Rarity Tool]]></summary>
+        <author>
+            <name>cavario</name>
+            <uri>https://news.ycombinator.com/user?id=cavario</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我建立了一個公司信息平臺（falconchart.com）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32035051</id>
+        <link href="https://news.ycombinator.com/item?id=32035051"/>
+        <updated>2022-07-09T13:48:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built an company information platform (falconchart.com)]]></summary>
+        <author>
+            <name>tanosugi</name>
+            <uri>https://news.ycombinator.com/user?id=tanosugi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shotstack - 一個具有強大雲渲染和託管功能的視頻編輯API
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32035045</id>
+        <link href="https://news.ycombinator.com/item?id=32035045"/>
+        <updated>2022-07-09T13:47:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Shotstack – A video editing API with robust cloud rendering and hosting]]></summary>
+        <author>
+            <name>KMag070</name>
+            <uri>https://news.ycombinator.com/user?id=KMag070</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一個互動課程，幫助你更快地學習Vim
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>esherr</name>
             <uri>https://news.ycombinator.com/user?id=esherr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可視化地構建Web3 Dapps
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31754591</id>
-        <link href="https://news.ycombinator.com/item?id=31754591"/>
-        <updated>2022-06-15T15:36:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Build Web3 Dapps Visually]]></summary>
-        <author>
-            <name>zubairq</name>
-            <uri>https://news.ycombinator.com/user?id=zubairq</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Aurinko.io構建你的下一個Outlook/Teams/WebEx插件/應用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31753765</id>
-        <link href="https://news.ycombinator.com/item?id=31753765"/>
-        <updated>2022-06-15T14:50:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Build your next Outlook/Teams/WebEx addon/app with Aurinko.io]]></summary>
-        <author>
-            <name>aspantel</name>
-            <uri>https://news.ycombinator.com/user?id=aspantel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LeaksID 2.0 for Trade Secrets - 安全地分享投稿、報告和知識產權
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31753663</id>
-        <link href="https://news.ycombinator.com/item?id=31753663"/>
-        <updated>2022-06-15T14:44:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: LeaksID 2.0 for Trade Secrets – securely share pitches, reports and IP]]></summary>
-        <author>
-            <name>Voynov</name>
-            <uri>https://news.ycombinator.com/user?id=Voynov</uri>
         </author>
     </entry>
 </feed>
