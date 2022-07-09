@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-09T13:58:23.786Z</updated>
+    <updated>2022-07-09T16:02:12.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一键为您的Stripe账户建立一个店面
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32036230</id>
+        <link href="https://news.ycombinator.com/item?id=32036230"/>
+        <updated>2022-07-09T15:53:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Store Front for your Stripe account in 1 click]]></summary>
+        <author>
+            <name>natzar</name>
+            <uri>https://news.ycombinator.com/user?id=natzar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NFT稀有度工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>0xPersona</name>
             <uri>https://news.ycombinator.com/user?id=0xPersona</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个更直观的NFT集合
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31754704</id>
-        <link href="https://news.ycombinator.com/item?id=31754704"/>
-        <updated>2022-06-15T15:42:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a more visual NFT collection]]></summary>
-        <author>
-            <name>esherr</name>
-            <uri>https://news.ycombinator.com/user?id=esherr</uri>
         </author>
     </entry>
 </feed>
