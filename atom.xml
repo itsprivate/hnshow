@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-09T20:30:44.430Z</updated>
+    <updated>2022-07-09T21:00:01.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[迷宫生成可视化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32032962</id>
+        <link href="https://news.ycombinator.com/item?id=32032962"/>
+        <updated>2022-07-09T08:04:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Maze Generation Visualization]]></summary>
+        <author>
+            <name>pkstn</name>
+            <uri>https://news.ycombinator.com/user?id=pkstn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[技术书籍/框架的办公时间
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>wanderingjew</name>
             <uri>https://news.ycombinator.com/user?id=wanderingjew</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个基于迷宫的游戏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31760285</id>
-        <link href="https://news.ycombinator.com/item?id=31760285"/>
-        <updated>2022-06-15T22:33:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a game based on mazes]]></summary>
-        <author>
-            <name>bolanone</name>
-            <uri>https://news.ycombinator.com/user?id=bolanone</uri>
         </author>
     </entry>
 </feed>

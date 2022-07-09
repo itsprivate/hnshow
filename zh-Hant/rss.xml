@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 09 Jul 2022 20:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 21:00:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[迷宮生成可視化
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32032962</link>
+            <guid>https://news.ycombinator.com/item?id=32032962</guid>
+            <pubDate>Sat, 09 Jul 2022 08:04:17 GMT</pubDate>
+            <description><![CDATA[Show HN: Maze Generation Visualization]]></description>
+        </item>
         <item>
             <title><![CDATA[技術書籍/框架的辦公時間
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31760485</guid>
             <pubDate>Wed, 15 Jun 2022 22:55:20 GMT</pubDate>
             <description><![CDATA[Show HN: IoT device to warn you of a supernova hours before Earth is destroyed]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一個基於迷宮的遊戲
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31760285</link>
-            <guid>https://news.ycombinator.com/item?id=31760285</guid>
-            <pubDate>Wed, 15 Jun 2022 22:33:25 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a game based on mazes]]></description>
         </item>
     </channel>
 </rss>
