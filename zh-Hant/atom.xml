@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-09T12:48:09.334Z</updated>
+    <updated>2022-07-09T13:17:56.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一個互動課程，幫助你更快地學習Vim
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32034625</id>
+        <link href="https://news.ycombinator.com/item?id=32034625"/>
+        <updated>2022-07-09T12:54:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built an interactive course that helps you learn Vim faster]]></summary>
+        <author>
+            <name>Silica6149</name>
+            <uri>https://news.ycombinator.com/user?id=Silica6149</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鐵威，用最先進的ML實現穩定的生產力
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Voynov</name>
             <uri>https://news.ycombinator.com/user?id=Voynov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discord Neofetch - 完全可定製的Neofetch，為Discord而建
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31753057</id>
-        <link href="https://news.ycombinator.com/item?id=31753057"/>
-        <updated>2022-06-15T14:04:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Discord Neofetch – Fully Customizable Neofetch, Built for Discord]]></summary>
-        <author>
-            <name>Skyascii</name>
-            <uri>https://news.ycombinator.com/user?id=Skyascii</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 09 Jul 2022 12:48:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 13:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我建立了一個互動課程，幫助你更快地學習Vim
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32034625</link>
+            <guid>https://news.ycombinator.com/item?id=32034625</guid>
+            <pubDate>Sat, 09 Jul 2022 12:54:23 GMT</pubDate>
+            <description><![CDATA[Show HN: I built an interactive course that helps you learn Vim faster]]></description>
+        </item>
         <item>
             <title><![CDATA[鐵威，用最先進的ML實現穩定的生產力
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31753663</guid>
             <pubDate>Wed, 15 Jun 2022 14:44:43 GMT</pubDate>
             <description><![CDATA[Show HN: LeaksID 2.0 for Trade Secrets – securely share pitches, reports and IP]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Discord Neofetch - 完全可定製的Neofetch，為Discord而建
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31753057</link>
-            <guid>https://news.ycombinator.com/item?id=31753057</guid>
-            <pubDate>Wed, 15 Jun 2022 14:04:24 GMT</pubDate>
-            <description><![CDATA[Show HN: Discord Neofetch – Fully Customizable Neofetch, Built for Discord]]></description>
         </item>
     </channel>
 </rss>
