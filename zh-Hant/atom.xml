@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-09T16:02:12.872Z</updated>
+    <updated>2022-07-09T16:42:29.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我所遇到的每一本偉大的讀物--編入知識圖譜
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32036478</id>
+        <link href="https://news.ycombinator.com/item?id=32036478"/>
+        <updated>2022-07-09T16:13:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Every great reads I've ever come across – compiled into Knowledge Graph]]></summary>
+        <author>
+            <name>rpac0</name>
+            <uri>https://news.ycombinator.com/user?id=rpac0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一鍵為您的Stripe賬戶建立一個店面
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>estebandalelr</name>
             <uri>https://news.ycombinator.com/user?id=estebandalelr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個網站，顯示你可以匿名工作的工作崗位
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31755025</id>
-        <link href="https://news.ycombinator.com/item?id=31755025"/>
-        <updated>2022-06-15T16:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a site that shows jobs where you can work pseudonymously]]></summary>
-        <author>
-            <name>0xPersona</name>
-            <uri>https://news.ycombinator.com/user?id=0xPersona</uri>
         </author>
     </entry>
 </feed>
