@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-09T00:00:37.963Z</updated>
+    <updated>2022-07-09T02:23:19.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個MIDI工具來教我鋼琴
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32029901</id>
+        <link href="https://news.ycombinator.com/item?id=32029901"/>
+        <updated>2022-07-09T00:21:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a MIDI tool to teach me piano]]></summary>
+        <author>
+            <name>FinalDestiny</name>
+            <uri>https://news.ycombinator.com/user?id=FinalDestiny</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[找出你的保健品的生產和來源地
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>changhao</name>
             <uri>https://news.ycombinator.com/user?id=changhao</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想象力》，一份由人工智能撰寫的短篇小說通訊
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31748135</id>
-        <link href="https://news.ycombinator.com/item?id=31748135"/>
-        <updated>2022-06-15T01:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Imagination, a newsletter of short stories written by AI]]></summary>
-        <author>
-            <name>_bidule</name>
-            <uri>https://news.ycombinator.com/user?id=_bidule</uri>
         </author>
     </entry>
 </feed>
