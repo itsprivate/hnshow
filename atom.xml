@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-09T17:07:15.152Z</updated>
+    <updated>2022-07-09T18:35:42.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从任何网站复制React代码
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32037740</id>
+        <link href="https://news.ycombinator.com/item?id=32037740"/>
+        <updated>2022-07-09T18:06:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Copy React code from any site]]></summary>
+        <author>
+            <name>tscepo</name>
+            <uri>https://news.ycombinator.com/user?id=tscepo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用谷歌翻译自动翻译po、CSV文件
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ramosbugs</name>
             <uri>https://news.ycombinator.com/user?id=ramosbugs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过在不需要时停止非生产资源来削减你的AWS成本
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31755862</id>
-        <link href="https://news.ycombinator.com/item?id=31755862"/>
-        <updated>2022-06-15T16:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cut your AWS costs by stopping non-production resources when not needed]]></summary>
-        <author>
-            <name>sriprasanna</name>
-            <uri>https://news.ycombinator.com/user?id=sriprasanna</uri>
         </author>
     </entry>
 </feed>

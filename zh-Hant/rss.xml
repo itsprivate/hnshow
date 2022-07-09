@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 09 Jul 2022 17:07:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 18:35:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[從任何網站複製React代碼
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32037740</link>
+            <guid>https://news.ycombinator.com/item?id=32037740</guid>
+            <pubDate>Sat, 09 Jul 2022 18:06:56 GMT</pubDate>
+            <description><![CDATA[Show HN: Copy React code from any site]]></description>
+        </item>
         <item>
             <title><![CDATA[用谷歌翻譯自動翻譯po、CSV文件
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31756276</guid>
             <pubDate>Wed, 15 Jun 2022 17:27:30 GMT</pubDate>
             <description><![CDATA[Show HN: Pytest-unflakable plugin tracks and quarantines flaky Python tests]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通過在不需要時停止非生產資源來削減你的AWS成本
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31755862</link>
-            <guid>https://news.ycombinator.com/item?id=31755862</guid>
-            <pubDate>Wed, 15 Jun 2022 16:58:47 GMT</pubDate>
-            <description><![CDATA[Show HN: Cut your AWS costs by stopping non-production resources when not needed]]></description>
         </item>
     </channel>
 </rss>
