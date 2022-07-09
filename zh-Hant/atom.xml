@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-09T19:25:12.433Z</updated>
+    <updated>2022-07-09T19:44:55.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lumigo - 為AWS lambdas提供免費跟蹤服務
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32038541</id>
+        <link href="https://news.ycombinator.com/item?id=32038541"/>
+        <updated>2022-07-09T19:39:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lumigo – free tracing for AWS lambdas]]></summary>
+        <author>
+            <name>shlosky</name>
+            <uri>https://news.ycombinator.com/user?id=shlosky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在1天內訓練你自己的物體檢測AI，而不需要任何預先的知識
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jarrenae</name>
             <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Hacker News上徵集帖子的位置
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31756569</id>
-        <link href="https://news.ycombinator.com/item?id=31756569"/>
-        <updated>2022-06-15T17:47:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Soliciting post placement on Hacker News]]></summary>
-        <author>
-            <name>Doches</name>
-            <uri>https://news.ycombinator.com/user?id=Doches</uri>
         </author>
     </entry>
 </feed>
