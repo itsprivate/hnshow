@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-09T16:42:29.867Z</updated>
+    <updated>2022-07-09T17:07:15.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用谷歌翻译自动翻译po、CSV文件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32036936</id>
+        <link href="https://news.ycombinator.com/item?id=32036936"/>
+        <updated>2022-07-09T16:51:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Auto translate po, CSV files with Google translate]]></summary>
+        <author>
+            <name>natzar</name>
+            <uri>https://news.ycombinator.com/user?id=natzar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[压缩文件的速度是7-Zip的4倍，有一个用JavaScript编写的演示
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32036881</id>
+        <link href="https://news.ycombinator.com/item?id=32036881"/>
+        <updated>2022-07-09T16:46:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Zip files 4 times faster than 7-Zip with a demo written in JavaScript]]></summary>
+        <author>
+            <name>gildas</name>
+            <uri>https://news.ycombinator.com/user?id=gildas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我所遇到的每一本伟大的读物--编入知识图谱
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>sriprasanna</name>
             <uri>https://news.ycombinator.com/user?id=sriprasanna</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[管理信息过载的Slack应用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31755501</id>
-        <link href="https://news.ycombinator.com/item?id=31755501"/>
-        <updated>2022-06-15T16:33:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Slack app to manage messages overload]]></summary>
-        <author>
-            <name>shankarganesh</name>
-            <uri>https://news.ycombinator.com/user?id=shankarganesh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub成就社区列表
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31755231</id>
-        <link href="https://news.ycombinator.com/item?id=31755231"/>
-        <updated>2022-06-15T16:15:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GitHub Achievements Community List]]></summary>
-        <author>
-            <name>estebandalelr</name>
-            <uri>https://news.ycombinator.com/user?id=estebandalelr</uri>
         </author>
     </entry>
 </feed>
