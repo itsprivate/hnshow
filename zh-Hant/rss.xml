@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 09 Jul 2022 06:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 09:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用tview在Go中實現的7guis TUI
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32033187</link>
+            <guid>https://news.ycombinator.com/item?id=32033187</guid>
+            <pubDate>Sat, 09 Jul 2022 08:51:58 GMT</pubDate>
+            <description><![CDATA[Show HN: 7guis TUI implemented in Go using tview]]></description>
+        </item>
         <item>
             <title><![CDATA[我創建了ESLint插件，發現JSX中無效的HTML嵌套
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31752708</guid>
             <pubDate>Wed, 15 Jun 2022 13:39:28 GMT</pubDate>
             <description><![CDATA[Show HN: Ranking Universities with Professor Reviews]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基於PIXI.js和GLSL的渲染萬花筒的網絡工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31752593</link>
-            <guid>https://news.ycombinator.com/item?id=31752593</guid>
-            <pubDate>Wed, 15 Jun 2022 13:30:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Web tool for rendering Kaleidoscopes based on PIXI.js and GLSL]]></description>
         </item>
     </channel>
 </rss>
