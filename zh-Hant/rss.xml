@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 10 Jul 2022 05:45:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 09:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我建立了整潔和免費的互動JavaScript課程
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32042947</link>
+            <guid>https://news.ycombinator.com/item?id=32042947</guid>
+            <pubDate>Sun, 10 Jul 2022 08:56:01 GMT</pubDate>
+            <description><![CDATA[Show HN: I built neat and free interactive JavaScript courses]]></description>
+        </item>
         <item>
             <title><![CDATA[我用Chakra-UI和Next.js做了3D選色器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31764149</guid>
             <pubDate>Thu, 16 Jun 2022 09:45:58 GMT</pubDate>
             <description><![CDATA[Show HN: NPM Library for ONDC (Open Network for Digital Commerce)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[可鎖定--分佈式系統的同步鎖
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31764026</link>
-            <guid>https://news.ycombinator.com/item?id=31764026</guid>
-            <pubDate>Thu, 16 Jun 2022 09:27:26 GMT</pubDate>
-            <description><![CDATA[Show HN: Lockable – sync locks for distributed systems]]></description>
         </item>
     </channel>
 </rss>
