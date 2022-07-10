@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-10T11:00:32.268Z</updated>
+    <updated>2022-07-10T12:46:19.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Yearlydiary - 我創建的日記，用於試駕無服務器的Postgres。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32044069</id>
+        <link href="https://news.ycombinator.com/item?id=32044069"/>
+        <updated>2022-07-10T12:26:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Yearlydiary – A diary I created to test drive neon serverless Postgres]]></summary>
+        <author>
+            <name>peterjuras</name>
+            <uri>https://news.ycombinator.com/user?id=peterjuras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從Stackoverflow中查找VSCode的摘錄
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>daoudc</name>
             <uri>https://news.ycombinator.com/user?id=daoudc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flywheel.sh - 在AWS上構建的最快方式
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31764945</id>
-        <link href="https://news.ycombinator.com/item?id=31764945"/>
-        <updated>2022-06-16T11:56:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Flywheel.sh – the fastest way to build on AWS]]></summary>
-        <author>
-            <name>igorzij</name>
-            <uri>https://news.ycombinator.com/user?id=igorzij</uri>
         </author>
     </entry>
 </feed>

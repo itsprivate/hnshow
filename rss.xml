@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 10 Jul 2022 11:00:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 12:46:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Yearlydiary - 我创建的日记，用于试驾无服务器的Postgres。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32044069</link>
+            <guid>https://news.ycombinator.com/item?id=32044069</guid>
+            <pubDate>Sun, 10 Jul 2022 12:26:07 GMT</pubDate>
+            <description><![CDATA[Show HN: Yearlydiary – A diary I created to test drive neon serverless Postgres]]></description>
+        </item>
         <item>
             <title><![CDATA[从Stackoverflow中查找VSCode的摘录
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31765015</guid>
             <pubDate>Thu, 16 Jun 2022 12:02:03 GMT</pubDate>
             <description><![CDATA[Show HN: An open source web crawler for the Mwmbl non-profit search engine]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Flywheel.sh - 在AWS上构建的最快方式
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31764945</link>
-            <guid>https://news.ycombinator.com/item?id=31764945</guid>
-            <pubDate>Thu, 16 Jun 2022 11:56:22 GMT</pubDate>
-            <description><![CDATA[Show HN: Flywheel.sh – the fastest way to build on AWS]]></description>
         </item>
     </channel>
 </rss>
