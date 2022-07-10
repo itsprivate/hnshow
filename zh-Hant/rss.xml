@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 10 Jul 2022 03:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 05:45:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我用Chakra-UI和Next.js做了3D選色器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32041517</link>
+            <guid>https://news.ycombinator.com/item?id=32041517</guid>
+            <pubDate>Sun, 10 Jul 2022 03:11:15 GMT</pubDate>
+            <description><![CDATA[Show HN: I Made 3D Color Picker with Chakra-UI and Next.js]]></description>
+        </item>
         <item>
             <title><![CDATA[Evryca - 分形思維工具，用於頭腦風暴和組織思維
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31764026</guid>
             <pubDate>Thu, 16 Jun 2022 09:27:26 GMT</pubDate>
             <description><![CDATA[Show HN: Lockable – sync locks for distributed systems]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Marklog，一個收集鏈接和Twitter書籤的簡約工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31763890</link>
-            <guid>https://news.ycombinator.com/item?id=31763890</guid>
-            <pubDate>Thu, 16 Jun 2022 09:04:16 GMT</pubDate>
-            <description><![CDATA[Show HN: Marklog, a minimalist tool to collect links and Twitter Bookmarks]]></description>
         </item>
     </channel>
 </rss>

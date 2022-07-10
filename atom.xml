@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-10T03:51:46.018Z</updated>
+    <updated>2022-07-10T05:45:48.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我用Chakra-UI和Next.js做了3D选色器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32041517</id>
+        <link href="https://news.ycombinator.com/item?id=32041517"/>
+        <updated>2022-07-10T03:11:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I Made 3D Color Picker with Chakra-UI and Next.js]]></summary>
+        <author>
+            <name>IttaFuanashi</name>
+            <uri>https://news.ycombinator.com/user?id=IttaFuanashi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Evryca - 分形思维工具，用于头脑风暴和组织思维
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>keyless_</name>
             <uri>https://news.ycombinator.com/user?id=keyless_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marklog，一个收集链接和Twitter书签的简约工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31763890</id>
-        <link href="https://news.ycombinator.com/item?id=31763890"/>
-        <updated>2022-06-16T09:04:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Marklog, a minimalist tool to collect links and Twitter Bookmarks]]></summary>
-        <author>
-            <name>ismaelmc</name>
-            <uri>https://news.ycombinator.com/user?id=ismaelmc</uri>
         </author>
     </entry>
 </feed>
