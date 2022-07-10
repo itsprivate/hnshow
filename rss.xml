@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 10 Jul 2022 19:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 20:29:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个USB-Rubber-Ducky阻挡器（澄清）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32048354</link>
+            <guid>https://news.ycombinator.com/item?id=32048354</guid>
+            <pubDate>Sun, 10 Jul 2022 19:56:54 GMT</pubDate>
+            <description><![CDATA[Show HN: A USB-Rubber-Ducky Blocker (Clarified)]]></description>
+        </item>
         <item>
             <title><![CDATA[Whatcha - 数字媒体的社交网络
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31765661</guid>
             <pubDate>Thu, 16 Jun 2022 13:13:11 GMT</pubDate>
             <description><![CDATA[Show HN: React Time-Travel Debugger with React Router Support]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tailwind DX - Tailwind CSS的开发工具扩展
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31765475</link>
-            <guid>https://news.ycombinator.com/item?id=31765475</guid>
-            <pubDate>Thu, 16 Jun 2022 12:52:33 GMT</pubDate>
-            <description><![CDATA[Show HN: Tailwind DX – A DevTools Extension for Tailwind CSS]]></description>
         </item>
     </channel>
 </rss>

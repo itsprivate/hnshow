@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-10T19:25:08.606Z</updated>
+    <updated>2022-07-10T20:29:20.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個USB-Rubber-Ducky阻擋器（澄清）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32048354</id>
+        <link href="https://news.ycombinator.com/item?id=32048354"/>
+        <updated>2022-07-10T19:56:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A USB-Rubber-Ducky Blocker (Clarified)]]></summary>
+        <author>
+            <name>pleinairist</name>
+            <uri>https://news.ycombinator.com/user?id=pleinairist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Whatcha - 數字媒體的社交網絡
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>riemannz</name>
             <uri>https://news.ycombinator.com/user?id=riemannz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailwind DX - Tailwind CSS的開發工具擴展
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31765475</id>
-        <link href="https://news.ycombinator.com/item?id=31765475"/>
-        <updated>2022-06-16T12:52:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tailwind DX – A DevTools Extension for Tailwind CSS]]></summary>
-        <author>
-            <name>TailwindDX</name>
-            <uri>https://news.ycombinator.com/user?id=TailwindDX</uri>
         </author>
     </entry>
 </feed>
