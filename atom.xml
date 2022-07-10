@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-10T09:59:39.412Z</updated>
+    <updated>2022-07-10T11:00:32.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从Stackoverflow中查找VSCode的摘录
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32043556</id>
+        <link href="https://news.ycombinator.com/item?id=32043556"/>
+        <updated>2022-07-10T10:56:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Find Snippets from Stackoverflow for VSCode]]></summary>
+        <author>
+            <name>hieu229</name>
+            <uri>https://news.ycombinator.com/user?id=hieu229</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蚂蚁沙箱--蚂蚁模拟器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>igorzij</name>
             <uri>https://news.ycombinator.com/user?id=igorzij</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge Freeze v2.0 - 轻松屏蔽GitHub PR上的分支
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31764606</id>
-        <link href="https://news.ycombinator.com/item?id=31764606"/>
-        <updated>2022-06-16T11:02:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Merge Freeze v2.0 – easily block branches on GitHub PRs]]></summary>
-        <author>
-            <name>ryanckulp</name>
-            <uri>https://news.ycombinator.com/user?id=ryanckulp</uri>
         </author>
     </entry>
 </feed>
