@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-10T16:40:47.570Z</updated>
+    <updated>2022-07-10T19:25:08.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Whatcha - 數字媒體的社交網絡
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32047747</id>
+        <link href="https://news.ycombinator.com/item?id=32047747"/>
+        <updated>2022-07-10T18:57:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Whatcha – the social network for digital media]]></summary>
+        <author>
+            <name>dropstep</name>
+            <uri>https://news.ycombinator.com/user?id=dropstep</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WIP - 機器學習.ipynb的模板
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>TailwindDX</name>
             <uri>https://news.ycombinator.com/user?id=TailwindDX</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tailwind DX - 為Tailwind CSS開發者提供的DevTools擴展工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31765115</id>
-        <link href="https://news.ycombinator.com/item?id=31765115"/>
-        <updated>2022-06-16T12:13:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tailwind DX – A DevTools Extension for Tailwind CSS Developers]]></summary>
-        <author>
-            <name>gimliapp</name>
-            <uri>https://news.ycombinator.com/user?id=gimliapp</uri>
         </author>
     </entry>
 </feed>
