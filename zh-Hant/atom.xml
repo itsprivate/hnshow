@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-10T12:46:19.611Z</updated>
+    <updated>2022-07-10T16:40:47.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WIP - 機器學習.ipynb的模板
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32045851</id>
+        <link href="https://news.ycombinator.com/item?id=32045851"/>
+        <updated>2022-07-10T15:56:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WIP – Machine Learning .ipynb boilerplate]]></summary>
+        <author>
+            <name>bigEnotation</name>
+            <uri>https://news.ycombinator.com/user?id=bigEnotation</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yearlydiary - 我創建的日記，用於試駕無服務器的Postgres。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gimliapp</name>
             <uri>https://news.ycombinator.com/user?id=gimliapp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個用於Mwmbl非營利性搜索引擎的開源網絡爬蟲程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31765015</id>
-        <link href="https://news.ycombinator.com/item?id=31765015"/>
-        <updated>2022-06-16T12:02:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An open source web crawler for the Mwmbl non-profit search engine]]></summary>
-        <author>
-            <name>daoudc</name>
-            <uri>https://news.ycombinator.com/user?id=daoudc</uri>
         </author>
     </entry>
 </feed>
