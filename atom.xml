@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-10T20:29:20.267Z</updated>
+    <updated>2022-07-10T23:46:41.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Typewaiter，不等待的打字机
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32049780</id>
+        <link href="https://news.ycombinator.com/item?id=32049780"/>
+        <updated>2022-07-10T22:27:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Typewaiter, the typewriter that doesn't wait]]></summary>
+        <author>
+            <name>OisinMoran</name>
+            <uri>https://news.ycombinator.com/user?id=OisinMoran</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个USB-Rubber-Ducky阻挡器（澄清）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>CapmCrackaWaka</name>
             <uri>https://news.ycombinator.com/user?id=CapmCrackaWaka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支持React Router的React Time-Travel调试器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31765661</id>
-        <link href="https://news.ycombinator.com/item?id=31765661"/>
-        <updated>2022-06-16T13:13:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: React Time-Travel Debugger with React Router Support]]></summary>
-        <author>
-            <name>riemannz</name>
-            <uri>https://news.ycombinator.com/user?id=riemannz</uri>
         </author>
     </entry>
 </feed>
