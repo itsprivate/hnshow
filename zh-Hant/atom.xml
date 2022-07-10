@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-09T21:00:01.323Z</updated>
+    <updated>2022-07-10T03:51:46.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Evryca - 分形思維工具，用於頭腦風暴和組織思維
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32033394</id>
+        <link href="https://news.ycombinator.com/item?id=32033394"/>
+        <updated>2022-07-09T09:33:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Evryca – fractal thinking tool to brainstorm and organize thoughts]]></summary>
+        <author>
+            <name>efojs</name>
+            <uri>https://news.ycombinator.com/user?id=efojs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迷宮生成可視化
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ismaelmc</name>
             <uri>https://news.ycombinator.com/user?id=ismaelmc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[物聯網設備可在地球毀滅前幾小時向你發出超新星的警告
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31760485</id>
-        <link href="https://news.ycombinator.com/item?id=31760485"/>
-        <updated>2022-06-15T22:55:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: IoT device to warn you of a supernova hours before Earth is destroyed]]></summary>
-        <author>
-            <name>wanderingjew</name>
-            <uri>https://news.ycombinator.com/user?id=wanderingjew</uri>
         </author>
     </entry>
 </feed>
