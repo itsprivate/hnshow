@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Jul 2022 17:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 18:05:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[onBroom - Chrome擴展程序，可將許多搜索引擎的結果結合起來
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32059298</link>
+            <guid>https://news.ycombinator.com/item?id=32059298</guid>
+            <pubDate>Mon, 11 Jul 2022 17:47:56 GMT</pubDate>
+            <description><![CDATA[Show HN: onBroom – Chrome extension to combine results from many search engines]]></description>
+        </item>
         <item>
             <title><![CDATA[Terminalyst - 一個沒有GUI的招聘網站
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31778078</guid>
             <pubDate>Fri, 17 Jun 2022 13:47:47 GMT</pubDate>
             <description><![CDATA[Show HN: I built a version of Google Trends for investors]]></description>
-        </item>
-        <item>
-            <title><![CDATA[快速測試應用程序的顏色，無需設計或編碼
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31777955</link>
-            <guid>https://news.ycombinator.com/item?id=31777955</guid>
-            <pubDate>Fri, 17 Jun 2022 13:38:34 GMT</pubDate>
-            <description><![CDATA[Show HN: Quickly test app colors without having to design or code]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-11T17:52:21.229Z</updated>
+    <updated>2022-07-11T18:05:17.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[onBroom - Chrome扩展程序，可将许多搜索引擎的结果结合起来
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32059298</id>
+        <link href="https://news.ycombinator.com/item?id=32059298"/>
+        <updated>2022-07-11T17:47:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: onBroom – Chrome extension to combine results from many search engines]]></summary>
+        <author>
+            <name>barteo</name>
+            <uri>https://news.ycombinator.com/user?id=barteo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terminalyst - 一个没有GUI的招聘网站
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ckardat123</name>
             <uri>https://news.ycombinator.com/user?id=ckardat123</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快速测试应用程序的颜色，无需设计或编码
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31777955</id>
-        <link href="https://news.ycombinator.com/item?id=31777955"/>
-        <updated>2022-06-17T13:38:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Quickly test app colors without having to design or code]]></summary>
-        <author>
-            <name>DCodes1</name>
-            <uri>https://news.ycombinator.com/user?id=DCodes1</uri>
         </author>
     </entry>
 </feed>
