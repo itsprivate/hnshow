@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-11T11:25:18.575Z</updated>
+    <updated>2022-07-11T11:46:06.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[干预--在不浪费员工空闲时间的情况下实现远程工作场所的社交化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32054780</id>
+        <link href="https://news.ycombinator.com/item?id=32054780"/>
+        <updated>2022-07-11T11:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Intervy- Socialize remote workplace without wasting employees free time]]></summary>
+        <author>
+            <name>kvergins</name>
+            <uri>https://news.ycombinator.com/user?id=kvergins</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分享美丽的截图
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>adelelow</name>
             <uri>https://news.ycombinator.com/user?id=adelelow</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TabBrew - 自动对你的Chrome标签进行分类
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31768215</id>
-        <link href="https://news.ycombinator.com/item?id=31768215"/>
-        <updated>2022-06-16T16:48:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: TabBrew – Automate categorize your Chrome tabs]]></summary>
-        <author>
-            <name>colevels</name>
-            <uri>https://news.ycombinator.com/user?id=colevels</uri>
         </author>
     </entry>
 </feed>
