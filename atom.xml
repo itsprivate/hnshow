@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-11T18:05:17.239Z</updated>
+    <updated>2022-07-11T18:40:30.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[简单的Python结构格式-字符串解释器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32059865</id>
+        <link href="https://news.ycombinator.com/item?id=32059865"/>
+        <updated>2022-07-11T18:30:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Simple Python struct format-string explainer]]></summary>
+        <author>
+            <name>superpolynomial</name>
+            <uri>https://news.ycombinator.com/user?id=superpolynomial</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于Redis的DNS反向/缓存代理
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32059542</id>
+        <link href="https://news.ycombinator.com/item?id=32059542"/>
+        <updated>2022-07-11T18:06:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: DNS Reverse / Caching Proxy for Redis]]></summary>
+        <author>
+            <name>m3047</name>
+            <uri>https://news.ycombinator.com/user?id=m3047</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[onBroom - Chrome扩展程序，可将许多搜索引擎的结果结合起来
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>PhilipWee</name>
             <uri>https://news.ycombinator.com/user?id=PhilipWee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Localfirst，自我托管的书签工具。全文搜索、注释、RSS
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31778715</id>
-        <link href="https://news.ycombinator.com/item?id=31778715"/>
-        <updated>2022-06-17T14:26:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Localfirst, selfhosted bookmark tool. Full text search, annotations, RSS]]></summary>
-        <author>
-            <name>hamsterbase</name>
-            <uri>https://news.ycombinator.com/user?id=hamsterbase</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我为投资者建立了一个版本的谷歌趋势
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31778078</id>
-        <link href="https://news.ycombinator.com/item?id=31778078"/>
-        <updated>2022-06-17T13:47:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a version of Google Trends for investors]]></summary>
-        <author>
-            <name>ckardat123</name>
-            <uri>https://news.ycombinator.com/user?id=ckardat123</uri>
         </author>
     </entry>
 </feed>

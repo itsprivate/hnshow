@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Jul 2022 18:05:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 18:40:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[简单的Python结构格式-字符串解释器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32059865</link>
+            <guid>https://news.ycombinator.com/item?id=32059865</guid>
+            <pubDate>Mon, 11 Jul 2022 18:30:27 GMT</pubDate>
+            <description><![CDATA[Show HN: Simple Python struct format-string explainer]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用于Redis的DNS反向/缓存代理
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32059542</link>
+            <guid>https://news.ycombinator.com/item?id=32059542</guid>
+            <pubDate>Mon, 11 Jul 2022 18:06:03 GMT</pubDate>
+            <description><![CDATA[Show HN: DNS Reverse / Caching Proxy for Redis]]></description>
+        </item>
         <item>
             <title><![CDATA[onBroom - Chrome扩展程序，可将许多搜索引擎的结果结合起来
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31779160</guid>
             <pubDate>Fri, 17 Jun 2022 14:58:26 GMT</pubDate>
             <description><![CDATA[Show HN: FireJet – Export from Figma to Tailwind CSS – Hacker News]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Localfirst，自我托管的书签工具。全文搜索、注释、RSS
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31778715</link>
-            <guid>https://news.ycombinator.com/item?id=31778715</guid>
-            <pubDate>Fri, 17 Jun 2022 14:26:59 GMT</pubDate>
-            <description><![CDATA[Show HN: Localfirst, selfhosted bookmark tool. Full text search, annotations, RSS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我为投资者建立了一个版本的谷歌趋势
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31778078</link>
-            <guid>https://news.ycombinator.com/item?id=31778078</guid>
-            <pubDate>Fri, 17 Jun 2022 13:47:47 GMT</pubDate>
-            <description><![CDATA[Show HN: I built a version of Google Trends for investors]]></description>
         </item>
     </channel>
 </rss>
