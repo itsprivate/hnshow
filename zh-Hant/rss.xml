@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Jul 2022 23:01:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 23:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一個簡單的令人上癮的網頁遊戲
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32063653</link>
+            <guid>https://news.ycombinator.com/item?id=32063653</guid>
+            <pubDate>Mon, 11 Jul 2022 23:40:02 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a simple addictive web game]]></description>
+        </item>
         <item>
             <title><![CDATA[Go中的安全遠程密碼庫
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31781161</guid>
             <pubDate>Fri, 17 Jun 2022 17:06:20 GMT</pubDate>
             <description><![CDATA[Show HN: Slackbot for Documentation Changes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[將Cloudformation模板轉換為Terraform模板
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31781014</link>
-            <guid>https://news.ycombinator.com/item?id=31781014</guid>
-            <pubDate>Fri, 17 Jun 2022 16:54:59 GMT</pubDate>
-            <description><![CDATA[Show HN: Convert Cloudformation Templates to Terraform]]></description>
         </item>
     </channel>
 </rss>
