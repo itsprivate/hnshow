@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Jul 2022 22:01:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 23:01:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Go中的安全遠程密碼庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32063223</link>
+            <guid>https://news.ycombinator.com/item?id=32063223</guid>
+            <pubDate>Mon, 11 Jul 2022 22:55:57 GMT</pubDate>
+            <description><![CDATA[Show HN: Secure Remote Password Library in Go]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Rubbrband，一個簡單的高速緩存監控服務
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32063145</link>
+            <guid>https://news.ycombinator.com/item?id=32063145</guid>
+            <pubDate>Mon, 11 Jul 2022 22:47:54 GMT</pubDate>
+            <description><![CDATA[Show HN: Rubbrband, a simple cache monitoring service]]></description>
+        </item>
         <item>
             <title><![CDATA[在C/C++甚至彙編中運行變換器模型推理
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31781014</guid>
             <pubDate>Fri, 17 Jun 2022 16:54:59 GMT</pubDate>
             <description><![CDATA[Show HN: Convert Cloudformation Templates to Terraform]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mailauth，分析DKIM、DMARC、SPF、ARC、BIMI簽名的CLI工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31780998</link>
-            <guid>https://news.ycombinator.com/item?id=31780998</guid>
-            <pubDate>Fri, 17 Jun 2022 16:53:52 GMT</pubDate>
-            <description><![CDATA[Show HN: Mailauth, CLI utility to analyze DKIM, DMARC, SPF, ARC, BIMI signatures]]></description>
-        </item>
-        <item>
-            <title><![CDATA[統一IO，AI2的一個新的通用模型
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31780981</link>
-            <guid>https://news.ycombinator.com/item?id=31780981</guid>
-            <pubDate>Fri, 17 Jun 2022 16:52:25 GMT</pubDate>
-            <description><![CDATA[Show HN: Unified-IO, a new general purpose model from AI2]]></description>
         </item>
     </channel>
 </rss>

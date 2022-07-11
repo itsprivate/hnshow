@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-11T22:01:11.837Z</updated>
+    <updated>2022-07-11T23:01:09.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Go中的安全远程密码库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32063223</id>
+        <link href="https://news.ycombinator.com/item?id=32063223"/>
+        <updated>2022-07-11T22:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Secure Remote Password Library in Go]]></summary>
+        <author>
+            <name>mohamedattahri</name>
+            <uri>https://news.ycombinator.com/user?id=mohamedattahri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rubbrband，一个简单的高速缓存监控服务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32063145</id>
+        <link href="https://news.ycombinator.com/item?id=32063145"/>
+        <updated>2022-07-11T22:47:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Rubbrband, a simple cache monitoring service]]></summary>
+        <author>
+            <name>oaknutspiano</name>
+            <uri>https://news.ycombinator.com/user?id=oaknutspiano</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在C/C++甚至汇编中运行变换器模型推理
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>shadycuz</name>
             <uri>https://news.ycombinator.com/user?id=shadycuz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mailauth，分析DKIM、DMARC、SPF、ARC、BIMI签名的CLI工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31780998</id>
-        <link href="https://news.ycombinator.com/item?id=31780998"/>
-        <updated>2022-06-17T16:53:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mailauth, CLI utility to analyze DKIM, DMARC, SPF, ARC, BIMI signatures]]></summary>
-        <author>
-            <name>andris9</name>
-            <uri>https://news.ycombinator.com/user?id=andris9</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[统一IO，AI2的一个新的通用模型
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31780981</id>
-        <link href="https://news.ycombinator.com/item?id=31780981"/>
-        <updated>2022-06-17T16:52:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Unified-IO, a new general purpose model from AI2]]></summary>
-        <author>
-            <name>codeviking</name>
-            <uri>https://news.ycombinator.com/user?id=codeviking</uri>
         </author>
     </entry>
 </feed>
