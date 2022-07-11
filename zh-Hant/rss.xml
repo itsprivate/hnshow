@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Jul 2022 14:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 14:36:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用於Kobo Sage電子讀物的HN客戶端
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32056229</link>
+            <guid>https://news.ycombinator.com/item?id=32056229</guid>
+            <pubDate>Mon, 11 Jul 2022 13:59:37 GMT</pubDate>
+            <description><![CDATA[Show HN: HN client for Kobo Sage e-readers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[沒有照片的粘性新聞頭條
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32056130</link>
+            <guid>https://news.ycombinator.com/item?id=32056130</guid>
+            <pubDate>Mon, 11 Jul 2022 13:52:56 GMT</pubDate>
+            <description><![CDATA[Show HN: Sticky News Headlines Without Photos]]></description>
+        </item>
         <item>
             <title><![CDATA[我創建了一個符合GDPR標準的即時聊天工具，可與Slack一起使用
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31771403</guid>
             <pubDate>Thu, 16 Jun 2022 21:48:42 GMT</pubDate>
             <description><![CDATA[Show HN: Jsonl Golang library to read and write JSON Lines text format]]></description>
-        </item>
-        <item>
-            <title><![CDATA[幸運的是--瞭解財務決策的權衡因素
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31771099</link>
-            <guid>https://news.ycombinator.com/item?id=31771099</guid>
-            <pubDate>Thu, 16 Jun 2022 21:19:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Fortunately – Understand the tradeoffs of financial decisions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[從Figma導出React代碼
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31770944</link>
-            <guid>https://news.ycombinator.com/item?id=31770944</guid>
-            <pubDate>Thu, 16 Jun 2022 21:02:28 GMT</pubDate>
-            <description><![CDATA[Show HN: Export React Code from Figma]]></description>
         </item>
     </channel>
 </rss>

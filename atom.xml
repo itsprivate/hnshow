@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-11T14:01:35.730Z</updated>
+    <updated>2022-07-11T14:36:52.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于Kobo Sage电子读物的HN客户端
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32056229</id>
+        <link href="https://news.ycombinator.com/item?id=32056229"/>
+        <updated>2022-07-11T13:59:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: HN client for Kobo Sage e-readers]]></summary>
+        <author>
+            <name>graypegg</name>
+            <uri>https://news.ycombinator.com/user?id=graypegg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没有照片的粘性新闻头条
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32056130</id>
+        <link href="https://news.ycombinator.com/item?id=32056130"/>
+        <updated>2022-07-11T13:52:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sticky News Headlines Without Photos]]></summary>
+        <author>
+            <name>andrewfromx</name>
+            <uri>https://news.ycombinator.com/user?id=andrewfromx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我创建了一个符合GDPR标准的即时聊天工具，可与Slack一起使用
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>l1am0</name>
             <uri>https://news.ycombinator.com/user?id=l1am0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幸运的是--了解财务决策的权衡因素
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31771099</id>
-        <link href="https://news.ycombinator.com/item?id=31771099"/>
-        <updated>2022-06-16T21:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fortunately – Understand the tradeoffs of financial decisions]]></summary>
-        <author>
-            <name>gerad</name>
-            <uri>https://news.ycombinator.com/user?id=gerad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从Figma导出React代码
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31770944</id>
-        <link href="https://news.ycombinator.com/item?id=31770944"/>
-        <updated>2022-06-16T21:02:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Export React Code from Figma]]></summary>
-        <author>
-            <name>tscepo</name>
-            <uri>https://news.ycombinator.com/user?id=tscepo</uri>
         </author>
     </entry>
 </feed>
