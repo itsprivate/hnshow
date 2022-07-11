@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-11T06:35:57.153Z</updated>
+    <updated>2022-07-11T09:32:08.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通過視覺註釋獲得對你的設計的糟糕反饋
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32053856</id>
+        <link href="https://news.ycombinator.com/item?id=32053856"/>
+        <updated>2022-07-11T09:13:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Get badass feedback on your designs with visual annotations]]></summary>
+        <author>
+            <name>aswin_kp</name>
+            <uri>https://news.ycombinator.com/user?id=aswin_kp</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colorvote.io - 按受歡迎程度對所有16,777,216種sRGB網絡顏色進行排名
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32053816</id>
+        <link href="https://news.ycombinator.com/item?id=32053816"/>
+        <updated>2022-07-11T09:05:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Colorvote.io – ranking all 16,777,216 sRGB web colors by popularity]]></summary>
+        <author>
+            <name>gcuth</name>
+            <uri>https://news.ycombinator.com/user?id=gcuth</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CANDL，YAML的替代品
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>abboud</name>
             <uri>https://news.ycombinator.com/user?id=abboud</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個突發新聞和內容搜索引擎
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31767072</id>
-        <link href="https://news.ycombinator.com/item?id=31767072"/>
-        <updated>2022-06-16T15:18:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A breaking news and content search engine]]></summary>
-        <author>
-            <name>zeras</name>
-            <uri>https://news.ycombinator.com/user?id=zeras</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QuickOWL - 以選定的文本作為輸入，快速打開喜愛的URLs
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31767005</id>
-        <link href="https://news.ycombinator.com/item?id=31767005"/>
-        <updated>2022-06-16T15:14:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: QuickOWL – Quickly open favourite URLs with selected text as input]]></summary>
-        <author>
-            <name>bprasanna</name>
-            <uri>https://news.ycombinator.com/user?id=bprasanna</uri>
         </author>
     </entry>
 </feed>
