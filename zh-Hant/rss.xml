@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Jul 2022 17:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 17:52:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Terminalyst - 一個沒有GUI的招聘網站
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32058950</link>
+            <guid>https://news.ycombinator.com/item?id=32058950</guid>
+            <pubDate>Mon, 11 Jul 2022 17:21:55 GMT</pubDate>
+            <description><![CDATA[Show HN: Terminalyst – A job board without GUI]]></description>
+        </item>
         <item>
             <title><![CDATA[基於FPGA的語音控制機器人
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31777955</guid>
             <pubDate>Fri, 17 Jun 2022 13:38:34 GMT</pubDate>
             <description><![CDATA[Show HN: Quickly test app colors without having to design or code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個節儉的格式化的VSCode擴展
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31777669</link>
-            <guid>https://news.ycombinator.com/item?id=31777669</guid>
-            <pubDate>Fri, 17 Jun 2022 13:17:18 GMT</pubDate>
-            <description><![CDATA[Show HN: A Thrift Formatter VSCode extenstion]]></description>
         </item>
     </channel>
 </rss>

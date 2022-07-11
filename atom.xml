@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-11T17:20:47.392Z</updated>
+    <updated>2022-07-11T17:52:21.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Terminalyst - 一个没有GUI的招聘网站
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32058950</id>
+        <link href="https://news.ycombinator.com/item?id=32058950"/>
+        <updated>2022-07-11T17:21:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Terminalyst – A job board without GUI]]></summary>
+        <author>
+            <name>Meixam</name>
+            <uri>https://news.ycombinator.com/user?id=Meixam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于FPGA的语音控制机器人
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>DCodes1</name>
             <uri>https://news.ycombinator.com/user?id=DCodes1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个节俭的格式化的VSCode扩展
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31777669</id>
-        <link href="https://news.ycombinator.com/item?id=31777669"/>
-        <updated>2022-06-17T13:17:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Thrift Formatter VSCode extenstion]]></summary>
-        <author>
-            <name>alingse</name>
-            <uri>https://news.ycombinator.com/user?id=alingse</uri>
         </author>
     </entry>
 </feed>
