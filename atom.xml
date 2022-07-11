@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-11T04:49:08.343Z</updated>
+    <updated>2022-07-11T06:35:57.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[CANDL，YAML的替代品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32052908</id>
+        <link href="https://news.ycombinator.com/item?id=32052908"/>
+        <updated>2022-07-11T06:32:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: CANDL, a Replacement for YAML]]></summary>
+        <author>
+            <name>djhaskin987</name>
+            <uri>https://news.ycombinator.com/user?id=djhaskin987</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个简单的envoy配置可视化工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bprasanna</name>
             <uri>https://news.ycombinator.com/user?id=bprasanna</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果你不能处理Nonce，就不要使用流密码。互动教程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31766138</id>
-        <link href="https://news.ycombinator.com/item?id=31766138"/>
-        <updated>2022-06-16T14:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Don't use stream cipher if you can't handle Nonce. Interactive tutorial]]></summary>
-        <author>
-            <name>chkas</name>
-            <uri>https://news.ycombinator.com/user?id=chkas</uri>
         </author>
     </entry>
 </feed>

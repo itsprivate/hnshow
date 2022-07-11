@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Jul 2022 04:49:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 06:35:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[CANDL，YAML的替代品
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32052908</link>
+            <guid>https://news.ycombinator.com/item?id=32052908</guid>
+            <pubDate>Mon, 11 Jul 2022 06:32:28 GMT</pubDate>
+            <description><![CDATA[Show HN: CANDL, a Replacement for YAML]]></description>
+        </item>
         <item>
             <title><![CDATA[一個簡單的envoy配置可視化工具
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31767005</guid>
             <pubDate>Thu, 16 Jun 2022 15:14:02 GMT</pubDate>
             <description><![CDATA[Show HN: QuickOWL – Quickly open favourite URLs with selected text as input]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果你不能處理Nonce，就不要使用流密碼。互動教程
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31766138</link>
-            <guid>https://news.ycombinator.com/item?id=31766138</guid>
-            <pubDate>Thu, 16 Jun 2022 14:00:47 GMT</pubDate>
-            <description><![CDATA[Show HN: Don't use stream cipher if you can't handle Nonce. Interactive tutorial]]></description>
         </item>
     </channel>
 </rss>
