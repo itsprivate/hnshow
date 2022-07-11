@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-11T15:55:53.720Z</updated>
+    <updated>2022-07-11T16:55:50.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[值得商榷 - 有结果的Reddit
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32058224</id>
+        <link href="https://news.ycombinator.com/item?id=32058224"/>
+        <updated>2022-07-11T16:24:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Debatable – Reddit with Results]]></summary>
+        <author>
+            <name>robcorn</name>
+            <uri>https://news.ycombinator.com/user?id=robcorn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[graphql-request-profiler - 一个小型GraphQL性能分析插件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32057887</id>
+        <link href="https://news.ycombinator.com/item?id=32057887"/>
+        <updated>2022-07-11T16:00:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: graphql-request-profiler – a small GraphQL performance analysis plugin]]></summary>
+        <author>
+            <name>karlewr</name>
+            <uri>https://news.ycombinator.com/user?id=karlewr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[输入Slack风格的表情符号别名
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>eivindhaa</name>
             <uri>https://news.ycombinator.com/user?id=eivindhaa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kambeo - 改变人们改变世界的方式
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31777374</id>
-        <link href="https://news.ycombinator.com/item?id=31777374"/>
-        <updated>2022-06-17T12:54:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Kambeo – Changing how people change the world]]></summary>
-        <author>
-            <name>someguynyc</name>
-            <uri>https://news.ycombinator.com/user?id=someguynyc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tickler - 在后台对作业进行排队和处理。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31776724</id>
-        <link href="https://news.ycombinator.com/item?id=31776724"/>
-        <updated>2022-06-17T11:40:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tickler – Enqueue and process the jobs in the background]]></summary>
-        <author>
-            <name>goodjobtech</name>
-            <uri>https://news.ycombinator.com/user?id=goodjobtech</uri>
         </author>
     </entry>
 </feed>
