@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-11T20:01:04.711Z</updated>
+    <updated>2022-07-11T21:28:00.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Windows上一鍵開發數據庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32062015</id>
+        <link href="https://news.ycombinator.com/item?id=32062015"/>
+        <updated>2022-07-11T21:18:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dev databases on Windows in one click]]></summary>
+        <author>
+            <name>rathboma</name>
+            <uri>https://news.ycombinator.com/user?id=rathboma</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Namecheap AI企業名稱生成器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pondero</name>
             <uri>https://news.ycombinator.com/user?id=pondero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[根源即服務--不再翻閱日誌
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31780076</id>
-        <link href="https://news.ycombinator.com/item?id=31780076"/>
-        <updated>2022-06-17T15:55:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Root Cause as a Service – Never dig through logs again]]></summary>
-        <author>
-            <name>stochastimus</name>
-            <uri>https://news.ycombinator.com/user?id=stochastimus</uri>
         </author>
     </entry>
 </feed>
