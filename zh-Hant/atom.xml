@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-11T18:40:30.198Z</updated>
+    <updated>2022-07-11T19:44:35.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[金薩納，DAO的信用卡
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32060772</id>
+        <link href="https://news.ycombinator.com/item?id=32060772"/>
+        <updated>2022-07-11T19:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Kinzana, Credit Cards for DAOs]]></summary>
+        <author>
+            <name>chessboxer</name>
+            <uri>https://news.ycombinator.com/user?id=chessboxer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[簡單的Python結構格式-字符串解釋器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>martyalain</name>
             <uri>https://news.ycombinator.com/user?id=martyalain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FireJet - 從Figma導出到Tailwind CSS - Hacker News
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31779160</id>
-        <link href="https://news.ycombinator.com/item?id=31779160"/>
-        <updated>2022-06-17T14:58:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: FireJet – Export from Figma to Tailwind CSS – Hacker News]]></summary>
-        <author>
-            <name>PhilipWee</name>
-            <uri>https://news.ycombinator.com/user?id=PhilipWee</uri>
         </author>
     </entry>
 </feed>
