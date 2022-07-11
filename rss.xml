@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Jul 2022 09:52:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 11:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[分享美丽的截图
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32054643</link>
+            <guid>https://news.ycombinator.com/item?id=32054643</guid>
+            <pubDate>Mon, 11 Jul 2022 11:20:52 GMT</pubDate>
+            <description><![CDATA[Show HN: Share Beautiful Screenshots]]></description>
+        </item>
         <item>
             <title><![CDATA[Lldap，一个简化的LDAP服务器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31768215</guid>
             <pubDate>Thu, 16 Jun 2022 16:48:30 GMT</pubDate>
             <description><![CDATA[Show HN: TabBrew – Automate categorize your Chrome tabs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Recut能自动去除视频中的静音。它是用Tauri
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31767830</link>
-            <guid>https://news.ycombinator.com/item?id=31767830</guid>
-            <pubDate>Thu, 16 Jun 2022 16:19:30 GMT</pubDate>
-            <description><![CDATA[Show HN: Recut automatically removes silence from videos. It's built with Tauri]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-11T09:52:55.391Z</updated>
+    <updated>2022-07-11T11:25:18.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[分享美丽的截图
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32054643</id>
+        <link href="https://news.ycombinator.com/item?id=32054643"/>
+        <updated>2022-07-11T11:20:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Share Beautiful Screenshots]]></summary>
+        <author>
+            <name>dipen_dedania_</name>
+            <uri>https://news.ycombinator.com/user?id=dipen_dedania_</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lldap，一个简化的LDAP服务器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>colevels</name>
             <uri>https://news.ycombinator.com/user?id=colevels</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recut能自动去除视频中的静音。它是用Tauri
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31767830</id>
-        <link href="https://news.ycombinator.com/item?id=31767830"/>
-        <updated>2022-06-16T16:19:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Recut automatically removes silence from videos. It's built with Tauri]]></summary>
-        <author>
-            <name>dceddia</name>
-            <uri>https://news.ycombinator.com/user?id=dceddia</uri>
         </author>
     </entry>
 </feed>
