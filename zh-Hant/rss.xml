@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Jul 2022 11:46:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 12:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[CursorWalk，一個關於鼠標光標的隨機行走實現。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32054999</link>
+            <guid>https://news.ycombinator.com/item?id=32054999</guid>
+            <pubDate>Mon, 11 Jul 2022 12:04:07 GMT</pubDate>
+            <description><![CDATA[Show HN: CursorWalk, a random walk implementation on the mouse cursor]]></description>
+        </item>
         <item>
             <title><![CDATA[干預--在不浪費員工空閒時間的情況下實現遠程工作場所的社交化
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31768589</guid>
             <pubDate>Thu, 16 Jun 2022 17:20:33 GMT</pubDate>
             <description><![CDATA[Show HN: Automate Your Gifting]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dataherald (YC W21) 像WSJ一樣創建你自己的汽油價格數據Viz
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31768288</link>
-            <guid>https://news.ycombinator.com/item?id=31768288</guid>
-            <pubDate>Thu, 16 Jun 2022 16:53:27 GMT</pubDate>
-            <description><![CDATA[Show HN: Dataherald (YC W21) Create Your Own Gas Price Data Viz Like the WSJ]]></description>
         </item>
     </channel>
 </rss>
