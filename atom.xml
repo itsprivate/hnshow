@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-11T15:35:52.432Z</updated>
+    <updated>2022-07-11T15:55:53.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[输入Slack风格的表情符号别名
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32057689</id>
+        <link href="https://news.ycombinator.com/item?id=32057689"/>
+        <updated>2022-07-11T15:47:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Type Slack style emoji alias]]></summary>
+        <author>
+            <name>onmyway133</name>
+            <uri>https://news.ycombinator.com/user?id=onmyway133</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特灵-锈迹斑斑，与特灵和锈迹斑斑的人一起学习锈迹。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32057505</id>
+        <link href="https://news.ycombinator.com/item?id=32057505"/>
+        <updated>2022-07-11T15:35:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Trane-rustlings, learn Rust with Trane and rustligns]]></summary>
+        <author>
+            <name>trane_project</name>
+            <uri>https://news.ycombinator.com/user?id=trane_project</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTube上使用3blue1brown的Manim的教育视频的feed
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>goodjobtech</name>
             <uri>https://news.ycombinator.com/user?id=goodjobtech</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从Notion数据库中创建一个Changelog网站
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31775587</id>
-        <link href="https://news.ycombinator.com/item?id=31775587"/>
-        <updated>2022-06-17T08:38:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Create a Changelog website from a Notion database]]></summary>
-        <author>
-            <name>xmorse</name>
-            <uri>https://news.ycombinator.com/user?id=xmorse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Greenleaf - Golang用于MongoDB的简单查询构建
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31775542</id>
-        <link href="https://news.ycombinator.com/item?id=31775542"/>
-        <updated>2022-06-17T08:30:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Greenleaf – Golang simple query build for MongoDB]]></summary>
-        <author>
-            <name>slavabobik</name>
-            <uri>https://news.ycombinator.com/user?id=slavabobik</uri>
         </author>
     </entry>
 </feed>

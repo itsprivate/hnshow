@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Jul 2022 15:35:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 15:55:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[输入Slack风格的表情符号别名
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32057689</link>
+            <guid>https://news.ycombinator.com/item?id=32057689</guid>
+            <pubDate>Mon, 11 Jul 2022 15:47:11 GMT</pubDate>
+            <description><![CDATA[Show HN: Type Slack style emoji alias]]></description>
+        </item>
+        <item>
+            <title><![CDATA[特灵-锈迹斑斑，与特灵和锈迹斑斑的人一起学习锈迹。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32057505</link>
+            <guid>https://news.ycombinator.com/item?id=32057505</guid>
+            <pubDate>Mon, 11 Jul 2022 15:35:13 GMT</pubDate>
+            <description><![CDATA[Show HN: Trane-rustlings, learn Rust with Trane and rustligns]]></description>
+        </item>
         <item>
             <title><![CDATA[YouTube上使用3blue1brown的Manim的教育视频的feed
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31776724</guid>
             <pubDate>Fri, 17 Jun 2022 11:40:54 GMT</pubDate>
             <description><![CDATA[Show HN: Tickler – Enqueue and process the jobs in the background]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从Notion数据库中创建一个Changelog网站
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31775587</link>
-            <guid>https://news.ycombinator.com/item?id=31775587</guid>
-            <pubDate>Fri, 17 Jun 2022 08:38:59 GMT</pubDate>
-            <description><![CDATA[Show HN: Create a Changelog website from a Notion database]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Greenleaf - Golang用于MongoDB的简单查询构建
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31775542</link>
-            <guid>https://news.ycombinator.com/item?id=31775542</guid>
-            <pubDate>Fri, 17 Jun 2022 08:30:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Greenleaf – Golang simple query build for MongoDB]]></description>
         </item>
     </channel>
 </rss>
