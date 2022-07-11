@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-11T16:55:50.838Z</updated>
+    <updated>2022-07-11T17:20:47.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基於FPGA的語音控制機器人
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32058785</id>
+        <link href="https://news.ycombinator.com/item?id=32058785"/>
+        <updated>2022-07-11T17:08:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Speech Controlled Robot on FPGA]]></summary>
+        <author>
+            <name>petrohi</name>
+            <uri>https://news.ycombinator.com/user?id=petrohi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[值得商榷 - 有結果的Reddit
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>alingse</name>
             <uri>https://news.ycombinator.com/user?id=alingse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自動實現React應用程序的本地化
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31777478</id>
-        <link href="https://news.ycombinator.com/item?id=31777478"/>
-        <updated>2022-06-17T13:01:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Automatically Localize React Applications]]></summary>
-        <author>
-            <name>eivindhaa</name>
-            <uri>https://news.ycombinator.com/user?id=eivindhaa</uri>
         </author>
     </entry>
 </feed>

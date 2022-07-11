@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Jul 2022 16:55:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 17:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[基于FPGA的语音控制机器人
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32058785</link>
+            <guid>https://news.ycombinator.com/item?id=32058785</guid>
+            <pubDate>Mon, 11 Jul 2022 17:08:10 GMT</pubDate>
+            <description><![CDATA[Show HN: Speech Controlled Robot on FPGA]]></description>
+        </item>
         <item>
             <title><![CDATA[值得商榷 - 有结果的Reddit
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31777669</guid>
             <pubDate>Fri, 17 Jun 2022 13:17:18 GMT</pubDate>
             <description><![CDATA[Show HN: A Thrift Formatter VSCode extenstion]]></description>
-        </item>
-        <item>
-            <title><![CDATA[自动实现React应用程序的本地化
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31777478</link>
-            <guid>https://news.ycombinator.com/item?id=31777478</guid>
-            <pubDate>Fri, 17 Jun 2022 13:01:48 GMT</pubDate>
-            <description><![CDATA[Show HN: Automatically Localize React Applications]]></description>
         </item>
     </channel>
 </rss>
