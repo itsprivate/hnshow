@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 11 Jul 2022 14:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 14:55:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[ExpressJS和NestJS：哪個更適合你的項目？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32056820</link>
+            <guid>https://news.ycombinator.com/item?id=32056820</guid>
+            <pubDate>Mon, 11 Jul 2022 14:43:34 GMT</pubDate>
+            <description><![CDATA[Show HN: ExpressJS or NestJS: Which is better for your project?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用於開發和測試的Kubernetes-in-Kubernetes
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32056625</link>
+            <guid>https://news.ycombinator.com/item?id=32056625</guid>
+            <pubDate>Mon, 11 Jul 2022 14:27:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Kubernetes-in-Kubernetes for development and testing]]></description>
+        </item>
         <item>
             <title><![CDATA[用於Kobo Sage電子讀物的HN客戶端
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31771496</guid>
             <pubDate>Thu, 16 Jun 2022 21:58:13 GMT</pubDate>
             <description><![CDATA[Show HN: Warp - Automate windows on your macOS desktop]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cyvincenty - Vincenty算法的Cython實現
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31771598</link>
-            <guid>https://news.ycombinator.com/item?id=31771598</guid>
-            <pubDate>Thu, 16 Jun 2022 22:06:45 GMT</pubDate>
-            <description><![CDATA[Show HN: Cyvincenty – Cython implementation of Vincenty algorithm]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jsonl Golang庫讀取和寫入JSON線文本格式
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31771403</link>
-            <guid>https://news.ycombinator.com/item?id=31771403</guid>
-            <pubDate>Thu, 16 Jun 2022 21:48:42 GMT</pubDate>
-            <description><![CDATA[Show HN: Jsonl Golang library to read and write JSON Lines text format]]></description>
         </item>
     </channel>
 </rss>
