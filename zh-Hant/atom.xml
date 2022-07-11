@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-11T03:56:31.975Z</updated>
+    <updated>2022-07-11T04:49:08.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個簡單的envoy配置可視化工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32052268</id>
+        <link href="https://news.ycombinator.com/item?id=32052268"/>
+        <updated>2022-07-11T04:38:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A simple envoy configuration visualization tool]]></summary>
+        <author>
+            <name>saltbo</name>
+            <uri>https://news.ycombinator.com/user?id=saltbo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Formie - 在1分鐘內將任何智能合約變成一個表單
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>chkas</name>
             <uri>https://news.ycombinator.com/user?id=chkas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鏽跡斑斑的遊樂場與前10萬個木箱
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31766121</id>
-        <link href="https://news.ycombinator.com/item?id=31766121"/>
-        <updated>2022-06-16T13:59:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rust Playground with the top 10k Crates]]></summary>
-        <author>
-            <name>apd_</name>
-            <uri>https://news.ycombinator.com/user?id=apd_</uri>
         </author>
     </entry>
 </feed>
