@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32062347",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32062347",
+            "title": "在C/C++甚至彙編中運行變換器模型推理\n",
+            "summary": "Show HN: Run transformers model inference in C/C++ and even assembly",
+            "date_modified": "2022-07-11T21:44:21.000Z",
+            "author": {
+                "name": "txtai",
+                "url": "https://news.ycombinator.com/user?id=txtai"
+            },
+            "_original_headline": "Show HN: Run transformers model inference in C/C++ and even assembly",
+            "_original_url": "https://colab.research.google.com/github/neuml/txtai/blob/master/examples/36_Run_txtai_in_native_code.ipynb",
+            "_sensitive": false,
+            "_score": 2
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32062015",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32062015",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://unified-io.allenai.org/",
             "_sensitive": false,
             "_score": 1
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31780504",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31780504",
-            "title": "MockCI--雲端託管的DynamoDB模擬在一次API調用中可用\n",
-            "summary": "Show HN: MockCI – Cloud hosted DynamoDB mocks available in one API call",
-            "date_modified": "2022-06-17T16:22:21.000Z",
-            "author": {
-                "name": "pondero",
-                "url": "https://news.ycombinator.com/user?id=pondero"
-            },
-            "_original_headline": "Show HN: MockCI – Cloud hosted DynamoDB mocks available in one API call",
-            "_original_url": "https://mockci.cloud",
-            "_sensitive": false,
-            "_score": 2
         }
     ]
 }
