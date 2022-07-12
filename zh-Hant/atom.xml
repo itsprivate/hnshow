@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-12T18:39:53.015Z</updated>
+    <updated>2022-07-12T19:59:04.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SimpleX Chat v3.0 - 具有iOS通知和e2e加密通話功能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32074799</id>
+        <link href="https://news.ycombinator.com/item?id=32074799"/>
+        <updated>2022-07-12T19:49:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SimpleX Chat v3.0 – with iOS notifications and e2e encrypted calls]]></summary>
+        <author>
+            <name>epoberezkin</name>
+            <uri>https://news.ycombinator.com/user?id=epoberezkin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Easy Docs - (HTML, JSON and Markdown) Doc Generator. 用於GitHub頁面
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>z0ccc</name>
             <uri>https://news.ycombinator.com/user?id=z0ccc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Ffmpeg去除視頻中的靜音
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31792108</id>
-        <link href="https://news.ycombinator.com/item?id=31792108"/>
-        <updated>2022-06-18T17:51:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Remove Silence from Videos with Ffmpeg]]></summary>
-        <author>
-            <name>bambax</name>
-            <uri>https://news.ycombinator.com/user?id=bambax</uri>
         </author>
     </entry>
 </feed>
