@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-12T16:45:45.054Z</updated>
+    <updated>2022-07-12T18:39:53.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Easy Docs - (HTML, JSON and Markdown) Doc Generator. 用於GitHub頁面
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32073733</id>
+        <link href="https://news.ycombinator.com/item?id=32073733"/>
+        <updated>2022-07-12T18:13:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Easy Docs – (HTML, JSON and Markdown) Doc Generator. For GitHub Pages]]></summary>
+        <author>
+            <name>usernamebias</name>
+            <uri>https://news.ycombinator.com/user?id=usernamebias</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MPL繪圖儀--出版質量的圖畫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32073552</id>
+        <link href="https://news.ycombinator.com/item?id=32073552"/>
+        <updated>2022-07-12T17:58:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MPL Plotter – Publication Quality Plots]]></summary>
+        <author>
+            <name>antonlopezr</name>
+            <uri>https://news.ycombinator.com/user?id=antonlopezr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個簡單的用於鏈接音調指標的小網站
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>bambax</name>
             <uri>https://news.ycombinator.com/user?id=bambax</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DLock - 在Cloudflare耐用對象上的分佈式鎖即服務
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31791965</id>
-        <link href="https://news.ycombinator.com/item?id=31791965"/>
-        <updated>2022-06-18T17:34:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: DLock – Distributed-Lock-as-a-Service on Cloudflare Durable Objects]]></summary>
-        <author>
-            <name>losfair</name>
-            <uri>https://news.ycombinator.com/user?id=losfair</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在未簽出的分支上創建快照提交的 Git 命令
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31790824</id>
-        <link href="https://news.ycombinator.com/item?id=31790824"/>
-        <updated>2022-06-18T15:37:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Git command for creating snapshot commits on a not checked-out branch]]></summary>
-        <author>
-            <name>meribold</name>
-            <uri>https://news.ycombinator.com/user?id=meribold</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 12 Jul 2022 16:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 18:39:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Easy Docs - (HTML, JSON and Markdown) Doc Generator. 用于GitHub页面
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32073733</link>
+            <guid>https://news.ycombinator.com/item?id=32073733</guid>
+            <pubDate>Tue, 12 Jul 2022 18:13:30 GMT</pubDate>
+            <description><![CDATA[Show HN: Easy Docs – (HTML, JSON and Markdown) Doc Generator. For GitHub Pages]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MPL绘图仪--出版质量的图画
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32073552</link>
+            <guid>https://news.ycombinator.com/item?id=32073552</guid>
+            <pubDate>Tue, 12 Jul 2022 17:58:55 GMT</pubDate>
+            <description><![CDATA[Show HN: MPL Plotter – Publication Quality Plots]]></description>
+        </item>
         <item>
             <title><![CDATA[一个简单的用于链接音调指标的小网站
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31792108</guid>
             <pubDate>Sat, 18 Jun 2022 17:51:11 GMT</pubDate>
             <description><![CDATA[Show HN: Remove Silence from Videos with Ffmpeg]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DLock - 在Cloudflare耐用对象上的分布式锁即服务
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31791965</link>
-            <guid>https://news.ycombinator.com/item?id=31791965</guid>
-            <pubDate>Sat, 18 Jun 2022 17:34:10 GMT</pubDate>
-            <description><![CDATA[Show HN: DLock – Distributed-Lock-as-a-Service on Cloudflare Durable Objects]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在未签出的分支上创建快照提交的 Git 命令
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31790824</link>
-            <guid>https://news.ycombinator.com/item?id=31790824</guid>
-            <pubDate>Sat, 18 Jun 2022 15:37:57 GMT</pubDate>
-            <description><![CDATA[Show HN: Git command for creating snapshot commits on a not checked-out branch]]></description>
         </item>
     </channel>
 </rss>
