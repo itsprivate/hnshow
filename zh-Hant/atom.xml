@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-12T11:28:00.334Z</updated>
+    <updated>2022-07-12T12:10:01.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fastify DX，一個基於Fastify和Vite的全棧框架
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32068579</id>
+        <link href="https://news.ycombinator.com/item?id=32068579"/>
+        <updated>2022-07-12T11:59:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fastify DX, a full stack framework based on Fastify and Vite]]></summary>
+        <author>
+            <name>jgalvez</name>
+            <uri>https://news.ycombinator.com/user?id=jgalvez</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個按合同設計的Python包，大約有100行
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32068447</id>
+        <link href="https://news.ycombinator.com/item?id=32068447"/>
+        <updated>2022-07-12T11:43:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A design-by-contract Python package in ~100 lines]]></summary>
+        <author>
+            <name>stefanka</name>
+            <uri>https://news.ycombinator.com/user?id=stefanka</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於ASR的Algolia - 語音轉文字的UI組件
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>amitlevy49</name>
             <uri>https://news.ycombinator.com/user?id=amitlevy49</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lisp的根源 "解釋器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31788130</id>
-        <link href="https://news.ycombinator.com/item?id=31788130"/>
-        <updated>2022-06-18T08:19:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The Roots of Lisp” Interpreter]]></summary>
-        <author>
-            <name>dolia</name>
-            <uri>https://news.ycombinator.com/user?id=dolia</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尋路者
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31787603</id>
-        <link href="https://news.ycombinator.com/item?id=31787603"/>
-        <updated>2022-06-18T06:14:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pathfind]]></summary>
-        <author>
-            <name>atum47</name>
-            <uri>https://news.ycombinator.com/user?id=atum47</uri>
         </author>
     </entry>
 </feed>
