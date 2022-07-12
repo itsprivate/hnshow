@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 12 Jul 2022 10:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 10:51:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GitHub即代码 - 用Terraform管理GitHub
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32067984</link>
+            <guid>https://news.ycombinator.com/item?id=32067984</guid>
+            <pubDate>Tue, 12 Jul 2022 10:44:16 GMT</pubDate>
+            <description><![CDATA[Show HN: GitHub as Code – Manage GitHub with Terraform]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CostGuard - 即时的AWS帐单提醒
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32067980</link>
+            <guid>https://news.ycombinator.com/item?id=32067980</guid>
+            <pubDate>Tue, 12 Jul 2022 10:43:40 GMT</pubDate>
+            <description><![CDATA[Show HN: CostGuard – instant AWS billing alerts]]></description>
+        </item>
         <item>
             <title><![CDATA[树莓派比特币全节点。真正的去中心化和Docker化
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31787182</guid>
             <pubDate>Sat, 18 Jun 2022 04:06:53 GMT</pubDate>
             <description><![CDATA[Show HN: Multi-Dimensional Spreadsheets in Vim]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Unsubscan - 免费和离线的邮件列表退订工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31786324</link>
-            <guid>https://news.ycombinator.com/item?id=31786324</guid>
-            <pubDate>Sat, 18 Jun 2022 00:50:23 GMT</pubDate>
-            <description><![CDATA[Show HN: Unsubscan – Free and offline mailing list unsubscription tool]]></description>
-        </item>
-        <item>
-            <title><![CDATA[EconIsle，一个教授经济学的网络游戏
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31785956</link>
-            <guid>https://news.ycombinator.com/item?id=31785956</guid>
-            <pubDate>Fri, 17 Jun 2022 23:50:20 GMT</pubDate>
-            <description><![CDATA[Show HN: EconIsle, a Web-Based Game That Teaches Economics]]></description>
         </item>
     </channel>
 </rss>

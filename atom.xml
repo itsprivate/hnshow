@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-12T10:34:37.835Z</updated>
+    <updated>2022-07-12T10:51:23.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GitHub即代码 - 用Terraform管理GitHub
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32067984</id>
+        <link href="https://news.ycombinator.com/item?id=32067984"/>
+        <updated>2022-07-12T10:44:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GitHub as Code – Manage GitHub with Terraform]]></summary>
+        <author>
+            <name>sorenmartius</name>
+            <uri>https://news.ycombinator.com/user?id=sorenmartius</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CostGuard - 即时的AWS帐单提醒
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32067980</id>
+        <link href="https://news.ycombinator.com/item?id=32067980"/>
+        <updated>2022-07-12T10:43:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: CostGuard – instant AWS billing alerts]]></summary>
+        <author>
+            <name>igorzij</name>
+            <uri>https://news.ycombinator.com/user?id=igorzij</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[树莓派比特币全节点。真正的去中心化和Docker化
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>tbt</name>
             <uri>https://news.ycombinator.com/user?id=tbt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unsubscan - 免费和离线的邮件列表退订工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31786324</id>
-        <link href="https://news.ycombinator.com/item?id=31786324"/>
-        <updated>2022-06-18T00:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Unsubscan – Free and offline mailing list unsubscription tool]]></summary>
-        <author>
-            <name>bsnnkv</name>
-            <uri>https://news.ycombinator.com/user?id=bsnnkv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EconIsle，一个教授经济学的网络游戏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31785956</id>
-        <link href="https://news.ycombinator.com/item?id=31785956"/>
-        <updated>2022-06-17T23:50:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: EconIsle, a Web-Based Game That Teaches Economics]]></summary>
-        <author>
-            <name>drcode</name>
-            <uri>https://news.ycombinator.com/user?id=drcode</uri>
         </author>
     </entry>
 </feed>
