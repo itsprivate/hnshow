@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-12T14:49:39.389Z</updated>
+    <updated>2022-07-12T15:00:25.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MockIPFS - 一個用於IPFS測試和調試的模擬節點和MitM代理
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32070831</id>
+        <link href="https://news.ycombinator.com/item?id=32070831"/>
+        <updated>2022-07-12T14:51:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MockIPFS – a mock node and MitM proxy for IPFS testing and debugging]]></summary>
+        <author>
+            <name>pimterry</name>
+            <uri>https://news.ycombinator.com/user?id=pimterry</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta Package Manager，一個解決Xkcd #1654問題的CLI。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ushakov</name>
             <uri>https://news.ycombinator.com/user?id=ushakov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nimwave - 為終端、網絡和桌面建立TUIs
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31789489</id>
-        <link href="https://news.ycombinator.com/item?id=31789489"/>
-        <updated>2022-06-18T13:06:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Nimwave – build TUIs for the terminal, web, and desktop]]></summary>
-        <author>
-            <name>sekao</name>
-            <uri>https://news.ycombinator.com/user?id=sekao</uri>
         </author>
     </entry>
 </feed>
