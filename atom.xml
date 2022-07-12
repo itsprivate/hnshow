@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-12T07:42:50.094Z</updated>
+    <updated>2022-07-12T10:34:37.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[树莓派比特币全节点。真正的去中心化和Docker化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32067831</id>
+        <link href="https://news.ycombinator.com/item?id=32067831"/>
+        <updated>2022-07-12T10:18:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Raspberry Pi Bitcoin Full Node. Truly Decentralized and Dockerized]]></summary>
+        <author>
+            <name>3xa</name>
+            <uri>https://news.ycombinator.com/user?id=3xa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud-Runner，Gitlab-ci管道的速度最高可达40%。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32067755</id>
+        <link href="https://news.ycombinator.com/item?id=32067755"/>
+        <updated>2022-07-12T10:06:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Cloud-Runner, up to 40% faster Gitlab-ci pipelines]]></summary>
+        <author>
+            <name>fgribreau</name>
+            <uri>https://news.ycombinator.com/user?id=fgribreau</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[克雷亚，一个邮递员的替代品
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>drcode</name>
             <uri>https://news.ycombinator.com/user?id=drcode</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个具有现实经济模型的中央银行模拟游戏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31785199</id>
-        <link href="https://news.ycombinator.com/item?id=31785199"/>
-        <updated>2022-06-17T22:24:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A central bank simulator game with a realistic economic model]]></summary>
-        <author>
-            <name>BenoitEssiambre</name>
-            <uri>https://news.ycombinator.com/user?id=BenoitEssiambre</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hTorrent - 一个用Go写的HTTP到BitTorrent的网关，可以寻求。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31784983</id>
-        <link href="https://news.ycombinator.com/item?id=31784983"/>
-        <updated>2022-06-17T22:02:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: hTorrent – A HTTP to BitTorrent gateway with seeking written in Go]]></summary>
-        <author>
-            <name>pojntfx</name>
-            <uri>https://news.ycombinator.com/user?id=pojntfx</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 12 Jul 2022 07:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 10:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[樹莓派比特幣全節點。真正的去中心化和Docker化
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32067831</link>
+            <guid>https://news.ycombinator.com/item?id=32067831</guid>
+            <pubDate>Tue, 12 Jul 2022 10:18:24 GMT</pubDate>
+            <description><![CDATA[Show HN: Raspberry Pi Bitcoin Full Node. Truly Decentralized and Dockerized]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Cloud-Runner，Gitlab-ci管道的速度最高可達40%。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32067755</link>
+            <guid>https://news.ycombinator.com/item?id=32067755</guid>
+            <pubDate>Tue, 12 Jul 2022 10:06:48 GMT</pubDate>
+            <description><![CDATA[Show HN: Cloud-Runner, up to 40% faster Gitlab-ci pipelines]]></description>
+        </item>
         <item>
             <title><![CDATA[克雷亞，一個郵遞員的替代品
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31785956</guid>
             <pubDate>Fri, 17 Jun 2022 23:50:20 GMT</pubDate>
             <description><![CDATA[Show HN: EconIsle, a Web-Based Game That Teaches Economics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個具有現實經濟模型的中央銀行模擬遊戲
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31785199</link>
-            <guid>https://news.ycombinator.com/item?id=31785199</guid>
-            <pubDate>Fri, 17 Jun 2022 22:24:21 GMT</pubDate>
-            <description><![CDATA[Show HN: A central bank simulator game with a realistic economic model]]></description>
-        </item>
-        <item>
-            <title><![CDATA[hTorrent - 一個用Go寫的HTTP到BitTorrent的網關，可以尋求。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31784983</link>
-            <guid>https://news.ycombinator.com/item?id=31784983</guid>
-            <pubDate>Fri, 17 Jun 2022 22:02:26 GMT</pubDate>
-            <description><![CDATA[Show HN: hTorrent – A HTTP to BitTorrent gateway with seeking written in Go]]></description>
         </item>
     </channel>
 </rss>
