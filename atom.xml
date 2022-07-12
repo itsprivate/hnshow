@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-12T14:30:30.544Z</updated>
+    <updated>2022-07-12T14:49:39.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Meta Package Manager，一个解决Xkcd #1654问题的CLI。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32070459</id>
+        <link href="https://news.ycombinator.com/item?id=32070459"/>
+        <updated>2022-07-12T14:26:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Meta Package Manager, a CLI that solves Xkcd #1654]]></summary>
+        <author>
+            <name>kdeldycke</name>
+            <uri>https://news.ycombinator.com/user?id=kdeldycke</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Botkube - Kubernetes的ChatOps
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sekao</name>
             <uri>https://news.ycombinator.com/user?id=sekao</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARElight - 一个用于提取关系的大众媒体处理应用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31789436</id>
-        <link href="https://news.ycombinator.com/item?id=31789436"/>
-        <updated>2022-06-18T12:59:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ARElight – A Mass-Media Processing Application for Relation Extraction]]></summary>
-        <author>
-            <name>nicolay-r</name>
-            <uri>https://news.ycombinator.com/user?id=nicolay-r</uri>
         </author>
     </entry>
 </feed>
