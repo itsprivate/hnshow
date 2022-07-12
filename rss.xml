@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 12 Jul 2022 13:56:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 14:30:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Botkube - Kubernetes的ChatOps
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32070194</link>
+            <guid>https://news.ycombinator.com/item?id=32070194</guid>
+            <pubDate>Tue, 12 Jul 2022 14:09:32 GMT</pubDate>
+            <description><![CDATA[Show HN: Botkube – ChatOps for Kubernetes]]></description>
+        </item>
         <item>
             <title><![CDATA[我们正在努力（最终）将尾部调用纳入WebAssembly标准中
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31789436</guid>
             <pubDate>Sat, 18 Jun 2022 12:59:08 GMT</pubDate>
             <description><![CDATA[Show HN: ARElight – A Mass-Media Processing Application for Relation Extraction]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用正式的方法来编写更好的需求
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31789225</link>
-            <guid>https://news.ycombinator.com/item?id=31789225</guid>
-            <pubDate>Sat, 18 Jun 2022 12:28:27 GMT</pubDate>
-            <description><![CDATA[Show HN: Using formal methods to write better requirements]]></description>
         </item>
     </channel>
 </rss>
