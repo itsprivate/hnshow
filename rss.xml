@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 12 Jul 2022 21:31:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 22:29:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[博客上的CTF挑战
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32076101</link>
+            <guid>https://news.ycombinator.com/item?id=32076101</guid>
+            <pubDate>Tue, 12 Jul 2022 21:47:16 GMT</pubDate>
+            <description><![CDATA[Show HN: CTF challenge on a blog]]></description>
+        </item>
         <item>
             <title><![CDATA[VSCode扩展，将文档与代码连接起来
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31794312</guid>
             <pubDate>Sat, 18 Jun 2022 22:18:42 GMT</pubDate>
             <description><![CDATA[Show HN: Website that can fingerprint you based on installed Chrome extensions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我创造了一些新的东西，使你的浏览体验很愉快
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31794175</link>
-            <guid>https://news.ycombinator.com/item?id=31794175</guid>
-            <pubDate>Sat, 18 Jun 2022 21:56:12 GMT</pubDate>
-            <description><![CDATA[Show HN: I have created something new to make your browsing experience enjoyable]]></description>
         </item>
     </channel>
 </rss>
