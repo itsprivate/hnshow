@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 12 Jul 2022 19:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 20:35:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[React Native、Expo、Flutter推送通知的简单化
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32075151</link>
+            <guid>https://news.ycombinator.com/item?id=32075151</guid>
+            <pubDate>Tue, 12 Jul 2022 20:22:39 GMT</pubDate>
+            <description><![CDATA[Show HN: React Native, Expo, Flutter push notifications made simple]]></description>
+        </item>
         <item>
             <title><![CDATA[SimpleX Chat v3.0 - 具有iOS通知和e2e加密通话功能
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31793598</guid>
             <pubDate>Sat, 18 Jun 2022 20:36:49 GMT</pubDate>
             <description><![CDATA[Show HN: Tickler: Go library to enqueue and process jobs in background]]></description>
-        </item>
-        <item>
-            <title><![CDATA[根据你的扩展功能，检查你的可追踪性如何
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31792764</link>
-            <guid>https://news.ycombinator.com/item?id=31792764</guid>
-            <pubDate>Sat, 18 Jun 2022 19:06:22 GMT</pubDate>
-            <description><![CDATA[Show HN: Check how trackable you are based on your extensions]]></description>
         </item>
     </channel>
 </rss>

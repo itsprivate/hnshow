@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-12T19:59:04.374Z</updated>
+    <updated>2022-07-12T20:35:25.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[React Native、Expo、Flutter推送通知的簡單化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32075151</id>
+        <link href="https://news.ycombinator.com/item?id=32075151"/>
+        <updated>2022-07-12T20:22:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: React Native, Expo, Flutter push notifications made simple]]></summary>
+        <author>
+            <name>timmccarty</name>
+            <uri>https://news.ycombinator.com/user?id=timmccarty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SimpleX Chat v3.0 - 具有iOS通知和e2e加密通話功能
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>harunsasmaz</name>
             <uri>https://news.ycombinator.com/user?id=harunsasmaz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[根據你的擴展功能，檢查你的可追蹤性如何
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31792764</id>
-        <link href="https://news.ycombinator.com/item?id=31792764"/>
-        <updated>2022-06-18T19:06:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Check how trackable you are based on your extensions]]></summary>
-        <author>
-            <name>z0ccc</name>
-            <uri>https://news.ycombinator.com/user?id=z0ccc</uri>
         </author>
     </entry>
 </feed>
