@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-11T23:47:01.540Z</updated>
+    <updated>2022-07-12T02:40:59.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们在AWS amplify上建立了一个性格测试
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32064670</id>
+        <link href="https://news.ycombinator.com/item?id=32064670"/>
+        <updated>2022-07-12T01:56:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We built a personality test on AWS amplify]]></summary>
+        <author>
+            <name>pndpo</name>
+            <uri>https://news.ycombinator.com/user?id=pndpo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个简单的令人上瘾的网页游戏
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>cmdli</name>
             <uri>https://news.ycombinator.com/user?id=cmdli</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文件修改的Slackbot
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31781161</id>
-        <link href="https://news.ycombinator.com/item?id=31781161"/>
-        <updated>2022-06-17T17:06:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Slackbot for Documentation Changes]]></summary>
-        <author>
-            <name>hahnbee</name>
-            <uri>https://news.ycombinator.com/user?id=hahnbee</uri>
         </author>
     </entry>
 </feed>
