@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 12 Jul 2022 10:51:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 11:28:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用於ASR的Algolia - 語音轉文字的UI組件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32068182</link>
+            <guid>https://news.ycombinator.com/item?id=32068182</guid>
+            <pubDate>Tue, 12 Jul 2022 11:09:14 GMT</pubDate>
+            <description><![CDATA[Show HN: The Algolia for ASR – UI components for speech to text]]></description>
+        </item>
         <item>
             <title><![CDATA[GitHub即代碼 - 用Terraform管理GitHub
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31787603</guid>
             <pubDate>Sat, 18 Jun 2022 06:14:03 GMT</pubDate>
             <description><![CDATA[Show HN: Pathfind]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Vim中的多維電子表格
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31787182</link>
-            <guid>https://news.ycombinator.com/item?id=31787182</guid>
-            <pubDate>Sat, 18 Jun 2022 04:06:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Multi-Dimensional Spreadsheets in Vim]]></description>
         </item>
     </channel>
 </rss>
