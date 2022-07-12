@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-12T15:00:25.747Z</updated>
+    <updated>2022-07-12T15:53:31.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[德鲁斯, 多人决策
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32071555</id>
+        <link href="https://news.ycombinator.com/item?id=32071555"/>
+        <updated>2022-07-12T15:42:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Druthers, Multiplayer Decision-Making]]></summary>
+        <author>
+            <name>gavmor</name>
+            <uri>https://news.ycombinator.com/user?id=gavmor</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MockIPFS - 一个用于IPFS测试和调试的模拟节点和MitM代理
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>phgn</name>
             <uri>https://news.ycombinator.com/user?id=phgn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typosaur，现代网络的交互式拼写检查器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31790123</id>
-        <link href="https://news.ycombinator.com/item?id=31790123"/>
-        <updated>2022-06-18T14:33:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Typosaur, the interactive spell-checker for modern web]]></summary>
-        <author>
-            <name>ushakov</name>
-            <uri>https://news.ycombinator.com/user?id=ushakov</uri>
         </author>
     </entry>
 </feed>

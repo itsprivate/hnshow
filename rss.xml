@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 12 Jul 2022 15:00:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 15:53:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[德鲁斯, 多人决策
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32071555</link>
+            <guid>https://news.ycombinator.com/item?id=32071555</guid>
+            <pubDate>Tue, 12 Jul 2022 15:42:03 GMT</pubDate>
+            <description><![CDATA[Show HN: Druthers, Multiplayer Decision-Making]]></description>
+        </item>
         <item>
             <title><![CDATA[MockIPFS - 一个用于IPFS测试和调试的模拟节点和MitM代理
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31790593</guid>
             <pubDate>Sat, 18 Jun 2022 15:19:09 GMT</pubDate>
             <description><![CDATA[Show HN: Reader Mode that shows Hacker News quote comments]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Typosaur，现代网络的交互式拼写检查器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31790123</link>
-            <guid>https://news.ycombinator.com/item?id=31790123</guid>
-            <pubDate>Sat, 18 Jun 2022 14:33:54 GMT</pubDate>
-            <description><![CDATA[Show HN: Typosaur, the interactive spell-checker for modern web]]></description>
         </item>
     </channel>
 </rss>
