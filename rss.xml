@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 13 Jul 2022 15:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 15:54:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用于Next.js的Visual Builder - Makeswift
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32084356</link>
+            <guid>https://news.ycombinator.com/item?id=32084356</guid>
+            <pubDate>Wed, 13 Jul 2022 15:49:09 GMT</pubDate>
+            <description><![CDATA[Show HN: Visual Builder for Next.js – Makeswift]]></description>
+        </item>
         <item>
             <title><![CDATA[一个将tailwind类转换为CSS的应用程序
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31806629</guid>
             <pubDate>Mon, 20 Jun 2022 05:31:05 GMT</pubDate>
             <description><![CDATA[Show HN: Markdown Keyboard for iPhone and iPad]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个基于Kubernetes的更强大的Crontab
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31806422</link>
-            <guid>https://news.ycombinator.com/item?id=31806422</guid>
-            <pubDate>Mon, 20 Jun 2022 04:55:03 GMT</pubDate>
-            <description><![CDATA[Show HN: A more powerful Crontab based on Kubernetes]]></description>
         </item>
     </channel>
 </rss>
