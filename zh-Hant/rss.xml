@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 13 Jul 2022 19:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 20:34:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Qrscan - 使用系統攝像頭或給定的圖像掃描終端中的QR碼
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32088150</link>
+            <guid>https://news.ycombinator.com/item?id=32088150</guid>
+            <pubDate>Wed, 13 Jul 2022 20:09:52 GMT</pubDate>
+            <description><![CDATA[Show HN: Qrscan – Scan a QR code in terminal using system camera or given image]]></description>
+        </item>
         <item>
             <title><![CDATA[TreasuryViewer - 刮擦TreasuryDirect.gov
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31809905</guid>
             <pubDate>Mon, 20 Jun 2022 13:09:00 GMT</pubDate>
             <description><![CDATA[Show HN: Read summaries of articles posted on HN]]></description>
-        </item>
-        <item>
-            <title><![CDATA[為多任務忍者提供的專注於生產力的應用程序--標籤中的記事本
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31808412</link>
-            <guid>https://news.ycombinator.com/item?id=31808412</guid>
-            <pubDate>Mon, 20 Jun 2022 10:06:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Productivity focused app for multitasking ninjas – Note taking in tabs]]></description>
         </item>
     </channel>
 </rss>

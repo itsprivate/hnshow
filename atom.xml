@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-13T19:46:33.273Z</updated>
+    <updated>2022-07-13T20:34:10.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Qrscan - 使用系统摄像头或给定的图像扫描终端中的QR码
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32088150</id>
+        <link href="https://news.ycombinator.com/item?id=32088150"/>
+        <updated>2022-07-13T20:09:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Qrscan – Scan a QR code in terminal using system camera or given image]]></summary>
+        <author>
+            <name>sayanarijit</name>
+            <uri>https://news.ycombinator.com/user?id=sayanarijit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TreasuryViewer - 刮擦TreasuryDirect.gov
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>arjunsred</name>
             <uri>https://news.ycombinator.com/user?id=arjunsred</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为多任务忍者提供的专注于生产力的应用程序--标签中的记事本
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31808412</id>
-        <link href="https://news.ycombinator.com/item?id=31808412"/>
-        <updated>2022-06-20T10:06:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Productivity focused app for multitasking ninjas – Note taking in tabs]]></summary>
-        <author>
-            <name>adamsabla</name>
-            <uri>https://news.ycombinator.com/user?id=adamsabla</uri>
         </author>
     </entry>
 </feed>
