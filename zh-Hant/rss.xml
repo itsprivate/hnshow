@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 13 Jul 2022 08:35:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 08:54:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Blank - 一個以鍵盤為基礎的Markdown編輯器，用於寫作。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32080264</link>
+            <guid>https://news.ycombinator.com/item?id=32080264</guid>
+            <pubDate>Wed, 13 Jul 2022 08:36:39 GMT</pubDate>
+            <description><![CDATA[Show HN: Blank – A keyboard-first Markdown Editor made for writing]]></description>
+        </item>
         <item>
             <title><![CDATA[Face IO - 網絡的面部認證
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31798214</guid>
             <pubDate>Sun, 19 Jun 2022 11:04:32 GMT</pubDate>
             <description><![CDATA[Show HN: Assert: testing and assertion library on top of Go generics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DevRel新聞 - 所有最好的開發者關係文章都在一個地方
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31798170</link>
-            <guid>https://news.ycombinator.com/item?id=31798170</guid>
-            <pubDate>Sun, 19 Jun 2022 10:54:16 GMT</pubDate>
-            <description><![CDATA[Show HN: DevRel News – All the best developer relations articles in one place]]></description>
         </item>
     </channel>
 </rss>
