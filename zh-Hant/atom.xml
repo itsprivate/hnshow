@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-13T17:20:31.121Z</updated>
+    <updated>2022-07-13T17:47:15.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Sweetfont - 按 "氣質 "搜索字體
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32085893</id>
+        <link href="https://news.ycombinator.com/item?id=32085893"/>
+        <updated>2022-07-13T17:26:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sweetfont – Search for Fonts by ‘Vibe’]]></summary>
+        <author>
+            <name>alexray</name>
+            <uri>https://news.ycombinator.com/user?id=alexray</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stdg - 通用二維圖形
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>celicoo</name>
             <uri>https://news.ycombinator.com/user?id=celicoo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個用於Mwmbl非營利性搜索引擎的開源網絡爬蟲程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31807637</id>
-        <link href="https://news.ycombinator.com/item?id=31807637"/>
-        <updated>2022-06-20T08:18:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An open source web crawler for the Mwmbl non-profit search engine]]></summary>
-        <author>
-            <name>daoudc</name>
-            <uri>https://news.ycombinator.com/user?id=daoudc</uri>
         </author>
     </entry>
 </feed>
