@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-13T05:39:12.893Z</updated>
+    <updated>2022-07-13T07:58:44.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用PyTroch在GPU上對點雲進行快速去噪
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32079985</id>
+        <link href="https://news.ycombinator.com/item?id=32079985"/>
+        <updated>2022-07-13T07:44:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fast denoising of pointclouds on GPU using PyTroch]]></summary>
+        <author>
+            <name>amitoz_azad</name>
+            <uri>https://news.ycombinator.com/user?id=amitoz_azad</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[圖像壓縮和調整大小的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32079726</id>
+        <link href="https://news.ycombinator.com/item?id=32079726"/>
+        <updated>2022-07-13T06:56:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Image Compression and Resizing Tool]]></summary>
+        <author>
+            <name>ic3m4n</name>
+            <uri>https://news.ycombinator.com/user?id=ic3m4n</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[恢復YouTube播放列表中被刪除或私人視頻的標題
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>denysvitali</name>
             <uri>https://news.ycombinator.com/user?id=denysvitali</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[構建產品的產品，構建產品的產品
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31796822</id>
-        <link href="https://news.ycombinator.com/item?id=31796822"/>
-        <updated>2022-06-19T06:47:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Building the product that builds the product]]></summary>
-        <author>
-            <name>cheerioty</name>
-            <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[造夢者社區--你的夢想是什麼，什麼在阻止你？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31795235</id>
-        <link href="https://news.ycombinator.com/item?id=31795235"/>
-        <updated>2022-06-19T01:05:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dream Makers Community – What is your dream and what is stopping you]]></summary>
-        <author>
-            <name>altuzar</name>
-            <uri>https://news.ycombinator.com/user?id=altuzar</uri>
         </author>
     </entry>
 </feed>
