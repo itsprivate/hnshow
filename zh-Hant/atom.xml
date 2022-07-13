@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-13T09:29:13.385Z</updated>
+    <updated>2022-07-13T10:39:34.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PyCircTools - 使用Python構建數字電路
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32080766</id>
+        <link href="https://news.ycombinator.com/item?id=32080766"/>
+        <updated>2022-07-13T10:16:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PyCircTools – Build digital circuits using Python]]></summary>
+        <author>
+            <name>LovetheFrogs</name>
+            <uri>https://news.ycombinator.com/user?id=LovetheFrogs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[只需拖動方框就能刪除照片中不需要的物體
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>markles</name>
             <uri>https://news.ycombinator.com/user?id=markles</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rune Reader - 為您的新聞簡報提供專門的電子郵件收件箱
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31798728</id>
-        <link href="https://news.ycombinator.com/item?id=31798728"/>
-        <updated>2022-06-19T12:36:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rune Reader – A dedicated email inbox for your newsletters]]></summary>
-        <author>
-            <name>arn4v</name>
-            <uri>https://news.ycombinator.com/user?id=arn4v</uri>
         </author>
     </entry>
 </feed>
