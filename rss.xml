@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 13 Jul 2022 11:58:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 12:58:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用CD即服务的简单云部署
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32081749</link>
+            <guid>https://news.ycombinator.com/item?id=32081749</guid>
+            <pubDate>Wed, 13 Jul 2022 12:34:03 GMT</pubDate>
+            <description><![CDATA[Show HN: Simple cloud deployments with CD as-a-Service]]></description>
+        </item>
+        <item>
+            <title><![CDATA[仓库流量报告的GitHub行动
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32081661</link>
+            <guid>https://news.ycombinator.com/item?id=32081661</guid>
+            <pubDate>Wed, 13 Jul 2022 12:23:53 GMT</pubDate>
+            <description><![CDATA[Show HN: GitHub Action for repository traffic reporting]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Atorable，一个针对高需求内容的点对点解决方案
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32081438</link>
+            <guid>https://news.ycombinator.com/item?id=32081438</guid>
+            <pubDate>Wed, 13 Jul 2022 11:56:41 GMT</pubDate>
+            <description><![CDATA[Show HN: Atorable, a peer-to-peer solution for high demand content]]></description>
+        </item>
         <item>
             <title><![CDATA[流动 - 用于集中注意力的环境音乐生成器
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31801189</guid>
             <pubDate>Sun, 19 Jun 2022 17:08:01 GMT</pubDate>
             <description><![CDATA[Show HN: Effortless Authentication for Your Web Application]]></description>
-        </item>
-        <item>
-            <title><![CDATA[将Chrome浏览器变成一个异步语音通信套件的扩展程序
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31800544</link>
-            <guid>https://news.ycombinator.com/item?id=31800544</guid>
-            <pubDate>Sun, 19 Jun 2022 16:00:10 GMT</pubDate>
-            <description><![CDATA[Show HN: Extension to turn Chrome into an async voice communication suite]]></description>
-        </item>
-        <item>
-            <title><![CDATA[爸爸们再也不用担心了
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31799754</link>
-            <guid>https://news.ycombinator.com/item?id=31799754</guid>
-            <pubDate>Sun, 19 Jun 2022 14:33:45 GMT</pubDate>
-            <description><![CDATA[Show HN: Daddies won't have to worry anymore]]></description>
-        </item>
-        <item>
-            <title><![CDATA[阅读。为大众简化研究文章
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31799604</link>
-            <guid>https://news.ycombinator.com/item?id=31799604</guid>
-            <pubDate>Sun, 19 Jun 2022 14:18:30 GMT</pubDate>
-            <description><![CDATA[Show HN: Outread: Simplifying research articles for the masses]]></description>
         </item>
     </channel>
 </rss>

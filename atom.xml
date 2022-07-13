@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-13T11:58:36.810Z</updated>
+    <updated>2022-07-13T12:58:01.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用CD即服务的简单云部署
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081749</id>
+        <link href="https://news.ycombinator.com/item?id=32081749"/>
+        <updated>2022-07-13T12:34:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Simple cloud deployments with CD as-a-Service]]></summary>
+        <author>
+            <name>techcofounder</name>
+            <uri>https://news.ycombinator.com/user?id=techcofounder</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仓库流量报告的GitHub行动
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081661</id>
+        <link href="https://news.ycombinator.com/item?id=32081661"/>
+        <updated>2022-07-13T12:23:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GitHub Action for repository traffic reporting]]></summary>
+        <author>
+            <name>jgehrcke</name>
+            <uri>https://news.ycombinator.com/user?id=jgehrcke</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atorable，一个针对高需求内容的点对点解决方案
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081438</id>
+        <link href="https://news.ycombinator.com/item?id=32081438"/>
+        <updated>2022-07-13T11:56:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Atorable, a peer-to-peer solution for high demand content]]></summary>
+        <author>
+            <name>sergethompson</name>
+            <uri>https://news.ycombinator.com/user?id=sergethompson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[流动 - 用于集中注意力的环境音乐生成器
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>fragile_frogs</name>
             <uri>https://news.ycombinator.com/user?id=fragile_frogs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将Chrome浏览器变成一个异步语音通信套件的扩展程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31800544</id>
-        <link href="https://news.ycombinator.com/item?id=31800544"/>
-        <updated>2022-06-19T16:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Extension to turn Chrome into an async voice communication suite]]></summary>
-        <author>
-            <name>VoiceLino</name>
-            <uri>https://news.ycombinator.com/user?id=VoiceLino</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[爸爸们再也不用担心了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31799754</id>
-        <link href="https://news.ycombinator.com/item?id=31799754"/>
-        <updated>2022-06-19T14:33:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Daddies won't have to worry anymore]]></summary>
-        <author>
-            <name>fullmamel</name>
-            <uri>https://news.ycombinator.com/user?id=fullmamel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阅读。为大众简化研究文章
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31799604</id>
-        <link href="https://news.ycombinator.com/item?id=31799604"/>
-        <updated>2022-06-19T14:18:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Outread: Simplifying research articles for the masses]]></summary>
-        <author>
-            <name>drytinall</name>
-            <uri>https://news.ycombinator.com/user?id=drytinall</uri>
         </author>
     </entry>
 </feed>
