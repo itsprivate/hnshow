@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-13T12:58:01.979Z</updated>
+    <updated>2022-07-13T14:01:46.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通貨膨脹調整後的股票圖表--實際總回報率
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081943</id>
+        <link href="https://news.ycombinator.com/item?id=32081943"/>
+        <updated>2022-07-13T12:55:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Inflation-adjusted stock charts – Total Real Returns]]></summary>
+        <author>
+            <name>compumike</name>
+            <uri>https://news.ycombinator.com/user?id=compumike</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用CD即服務的簡單雲部署
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>figbert</name>
             <uri>https://news.ycombinator.com/user?id=figbert</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為您的網絡應用提供輕鬆的認證
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31801189</id>
-        <link href="https://news.ycombinator.com/item?id=31801189"/>
-        <updated>2022-06-19T17:08:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Effortless Authentication for Your Web Application]]></summary>
-        <author>
-            <name>fragile_frogs</name>
-            <uri>https://news.ycombinator.com/user?id=fragile_frogs</uri>
         </author>
     </entry>
 </feed>
