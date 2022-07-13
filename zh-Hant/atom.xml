@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-13T11:44:37.719Z</updated>
+    <updated>2022-07-13T11:58:36.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[流動 - 用於集中注意力的環境音樂生成器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081338</id>
+        <link href="https://news.ycombinator.com/item?id=32081338"/>
+        <updated>2022-07-13T11:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Flowful – Ambient music generators for focus and concentration]]></summary>
+        <author>
+            <name>printscreen</name>
+            <uri>https://news.ycombinator.com/user?id=printscreen</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蓬勃發展--表裡如一的音樂展示臺
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081330</id>
+        <link href="https://news.ycombinator.com/item?id=32081330"/>
+        <updated>2022-07-13T11:42:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Flourish – An Epicyclic Music Visualiser]]></summary>
+        <author>
+            <name>sgentle</name>
+            <uri>https://news.ycombinator.com/user?id=sgentle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[語言路線圖。尋找你完美的語言學習沉浸式內容
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>drytinall</name>
             <uri>https://news.ycombinator.com/user?id=drytinall</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WarcDB：作為SQLite數據庫的網絡抓取數據
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31799147</id>
-        <link href="https://news.ycombinator.com/item?id=31799147"/>
-        <updated>2022-06-19T13:26:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WarcDB: Web crawl data as SQLite databases]]></summary>
-        <author>
-            <name>fforflo</name>
-            <uri>https://news.ycombinator.com/user?id=fforflo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於互動式全景圖的自定義HTML元素
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31798874</id>
-        <link href="https://news.ycombinator.com/item?id=31798874"/>
-        <updated>2022-06-19T12:57:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The custom HTML element for interactive panoramas]]></summary>
-        <author>
-            <name>ondras</name>
-            <uri>https://news.ycombinator.com/user?id=ondras</uri>
         </author>
     </entry>
 </feed>
