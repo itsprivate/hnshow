@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-13T22:02:16.933Z</updated>
+    <updated>2022-07-13T22:29:51.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[日語假名學習閃卡
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32089363</id>
+        <link href="https://news.ycombinator.com/item?id=32089363"/>
+        <updated>2022-07-13T22:09:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Japanese Kana Learning Flashcards]]></summary>
+        <author>
+            <name>ratchetclank</name>
+            <uri>https://news.ycombinator.com/user?id=ratchetclank</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何從GitHub Actions運行中獲得對coredumps的訪問權
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jordanf</name>
             <uri>https://news.ycombinator.com/user?id=jordanf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自動化平臺，為開發者提供先進的監控和追蹤功能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31811048</id>
-        <link href="https://news.ycombinator.com/item?id=31811048"/>
-        <updated>2022-06-20T14:52:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Automation platform with advanced monitoring and tracing for developers]]></summary>
-        <author>
-            <name>renanwilliam</name>
-            <uri>https://news.ycombinator.com/user?id=renanwilliam</uri>
         </author>
     </entry>
 </feed>
