@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 13 Jul 2022 14:01:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 14:30:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[基於Pandoc的VS Code的Markdown預覽
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32082876</link>
+            <guid>https://news.ycombinator.com/item?id=32082876</guid>
+            <pubDate>Wed, 13 Jul 2022 14:04:18 GMT</pubDate>
+            <description><![CDATA[Show HN: Pandoc-based Markdown preview for VS Code]]></description>
+        </item>
+        <item>
+            <title><![CDATA[JWST/Hubble深視場在可縮放/可轉印地圖界面上的比較
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32082809</link>
+            <guid>https://news.ycombinator.com/item?id=32082809</guid>
+            <pubDate>Wed, 13 Jul 2022 13:59:28 GMT</pubDate>
+            <description><![CDATA[Show HN: A JWST/Hubble deepfield comparison on a zoomable/pannable map interface]]></description>
+        </item>
         <item>
             <title><![CDATA[通貨膨脹調整後的股票圖表--實際總回報率
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31802898</guid>
             <pubDate>Sun, 19 Jun 2022 20:06:06 GMT</pubDate>
             <description><![CDATA[Show HN: StatusVista – An all-in-one status page of the systems you depend on]]></description>
-        </item>
-        <item>
-            <title><![CDATA[開源的GamePort適配器可將舊的DB15操縱桿連接到USB端口
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31802384</link>
-            <guid>https://news.ycombinator.com/item?id=31802384</guid>
-            <pubDate>Sun, 19 Jun 2022 19:10:51 GMT</pubDate>
-            <description><![CDATA[Show HN: Open source GamePort adapter to connect old DB15 joysticks to USB port]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mabel - 一個花哨的BitTorrent終端客戶端
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31801590</link>
-            <guid>https://news.ycombinator.com/item?id=31801590</guid>
-            <pubDate>Sun, 19 Jun 2022 17:47:56 GMT</pubDate>
-            <description><![CDATA[Show HN: Mabel – a fancy BitTorrent client for the terminal]]></description>
         </item>
     </channel>
 </rss>

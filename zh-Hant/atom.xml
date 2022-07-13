@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-13T14:01:46.829Z</updated>
+    <updated>2022-07-13T14:30:56.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基於Pandoc的VS Code的Markdown預覽
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32082876</id>
+        <link href="https://news.ycombinator.com/item?id=32082876"/>
+        <updated>2022-07-13T14:04:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pandoc-based Markdown preview for VS Code]]></summary>
+        <author>
+            <name>gpoore</name>
+            <uri>https://news.ycombinator.com/user?id=gpoore</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JWST/Hubble深視場在可縮放/可轉印地圖界面上的比較
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32082809</id>
+        <link href="https://news.ycombinator.com/item?id=32082809"/>
+        <updated>2022-07-13T13:59:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A JWST/Hubble deepfield comparison on a zoomable/pannable map interface]]></summary>
+        <author>
+            <name>outputchannel</name>
+            <uri>https://news.ycombinator.com/user?id=outputchannel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通貨膨脹調整後的股票圖表--實際總回報率
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>dandrew5</name>
             <uri>https://news.ycombinator.com/user?id=dandrew5</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開源的GamePort適配器可將舊的DB15操縱桿連接到USB端口
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31802384</id>
-        <link href="https://news.ycombinator.com/item?id=31802384"/>
-        <updated>2022-06-19T19:10:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open source GamePort adapter to connect old DB15 joysticks to USB port]]></summary>
-        <author>
-            <name>1541</name>
-            <uri>https://news.ycombinator.com/user?id=1541</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mabel - 一個花哨的BitTorrent終端客戶端
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31801590</id>
-        <link href="https://news.ycombinator.com/item?id=31801590"/>
-        <updated>2022-06-19T17:47:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mabel – a fancy BitTorrent client for the terminal]]></summary>
-        <author>
-            <name>figbert</name>
-            <uri>https://news.ycombinator.com/user?id=figbert</uri>
         </author>
     </entry>
 </feed>
