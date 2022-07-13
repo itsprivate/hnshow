@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 12 Jul 2022 22:29:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 02:41:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[太阳钟：一个显示太阳位置的24小时时钟。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32077914</link>
+            <guid>https://news.ycombinator.com/item?id=32077914</guid>
+            <pubDate>Wed, 13 Jul 2022 01:20:07 GMT</pubDate>
+            <description><![CDATA[Show HN: Sun Clock: a 24hr clock that shows the position of the sun]]></description>
+        </item>
         <item>
             <title><![CDATA[博客上的CTF挑战
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31794464</guid>
             <pubDate>Sat, 18 Jun 2022 22:42:47 GMT</pubDate>
             <description><![CDATA[Show HN: Just Five News · Daily News]]></description>
-        </item>
-        <item>
-            <title><![CDATA[可以根据安装的Chrome扩展程序对你进行指纹识别的网站
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31794312</link>
-            <guid>https://news.ycombinator.com/item?id=31794312</guid>
-            <pubDate>Sat, 18 Jun 2022 22:18:42 GMT</pubDate>
-            <description><![CDATA[Show HN: Website that can fingerprint you based on installed Chrome extensions]]></description>
         </item>
     </channel>
 </rss>

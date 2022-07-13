@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-12T22:29:40.841Z</updated>
+    <updated>2022-07-13T02:41:02.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[太阳钟：一个显示太阳位置的24小时时钟。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32077914</id>
+        <link href="https://news.ycombinator.com/item?id=32077914"/>
+        <updated>2022-07-13T01:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sun Clock: a 24hr clock that shows the position of the sun]]></summary>
+        <author>
+            <name>perilunar</name>
+            <uri>https://news.ycombinator.com/user?id=perilunar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[博客上的CTF挑战
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>baransel</name>
             <uri>https://news.ycombinator.com/user?id=baransel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可以根据安装的Chrome扩展程序对你进行指纹识别的网站
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31794312</id>
-        <link href="https://news.ycombinator.com/item?id=31794312"/>
-        <updated>2022-06-18T22:18:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Website that can fingerprint you based on installed Chrome extensions]]></summary>
-        <author>
-            <name>z0ccc</name>
-            <uri>https://news.ycombinator.com/user?id=z0ccc</uri>
         </author>
     </entry>
 </feed>
