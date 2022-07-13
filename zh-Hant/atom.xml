@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-13T10:39:34.797Z</updated>
+    <updated>2022-07-13T11:44:37.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[語言路線圖。尋找你完美的語言學習沉浸式內容
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32081261</id>
+        <link href="https://news.ycombinator.com/item?id=32081261"/>
+        <updated>2022-07-13T11:33:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Language Roadmap: Find your perfect language learning immersion content]]></summary>
+        <author>
+            <name>pizza_pleb</name>
+            <uri>https://news.ycombinator.com/user?id=pizza_pleb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PyCircTools - 使用Python構建數字電路
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ondras</name>
             <uri>https://news.ycombinator.com/user?id=ondras</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fourplay.fun - 一個合作的文字遊戲
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31798800</id>
-        <link href="https://news.ycombinator.com/item?id=31798800"/>
-        <updated>2022-06-19T12:47:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fourplay.fun – A Cooperative Word Game]]></summary>
-        <author>
-            <name>markles</name>
-            <uri>https://news.ycombinator.com/user?id=markles</uri>
         </author>
     </entry>
 </feed>
