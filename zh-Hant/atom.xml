@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-13T21:02:29.816Z</updated>
+    <updated>2022-07-13T22:02:16.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何從GitHub Actions運行中獲得對coredumps的訪問權
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32089211</id>
+        <link href="https://news.ycombinator.com/item?id=32089211"/>
+        <updated>2022-07-13T21:51:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How to get access to coredumps from GitHub Actions runs]]></summary>
+        <author>
+            <name>itamarst</name>
+            <uri>https://news.ycombinator.com/user?id=itamarst</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BentoML進入1.0階段--以更快的方式將您的模型運送到生產部門
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>renanwilliam</name>
             <uri>https://news.ycombinator.com/user?id=renanwilliam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[馬克文。時間軸的標記化
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31810876</id>
-        <link href="https://news.ycombinator.com/item?id=31810876"/>
-        <updated>2022-06-20T14:39:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Markwhen: Markdown for Timelines]]></summary>
-        <author>
-            <name>koch</name>
-            <uri>https://news.ycombinator.com/user?id=koch</uri>
         </author>
     </entry>
 </feed>
