@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-13T17:47:15.425Z</updated>
+    <updated>2022-07-13T18:36:32.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[錯誤信息遊戲--一個社會媒體研究工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32086528</id>
+        <link href="https://news.ycombinator.com/item?id=32086528"/>
+        <updated>2022-07-13T18:08:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Misinformation Game – A social media research tool]]></summary>
+        <author>
+            <name>sothatsit</name>
+            <uri>https://news.ycombinator.com/user?id=sothatsit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sweetfont - 按 "氣質 "搜索字體
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>RealMaxRush</name>
             <uri>https://news.ycombinator.com/user?id=RealMaxRush</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為你的GitHub項目創建旅遊
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31807712</id>
-        <link href="https://news.ycombinator.com/item?id=31807712"/>
-        <updated>2022-06-20T08:26:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Create Tours for Your GitHub Projects]]></summary>
-        <author>
-            <name>celicoo</name>
-            <uri>https://news.ycombinator.com/user?id=celicoo</uri>
         </author>
     </entry>
 </feed>
