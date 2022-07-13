@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 13 Jul 2022 08:54:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 09:29:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[只需拖动方框就能删除照片中不需要的物体
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32080469</link>
+            <guid>https://news.ycombinator.com/item?id=32080469</guid>
+            <pubDate>Wed, 13 Jul 2022 09:19:31 GMT</pubDate>
+            <description><![CDATA[Show HN: Remove unwanted objects in photos simply by dragging boxes]]></description>
+        </item>
         <item>
             <title><![CDATA[Blank - 一个以键盘为基础的Markdown编辑器，用于写作。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31798728</guid>
             <pubDate>Sun, 19 Jun 2022 12:36:14 GMT</pubDate>
             <description><![CDATA[Show HN: Rune Reader – A dedicated email inbox for your newsletters]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Assert：在Go泛型之上的测试和断言库
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31798214</link>
-            <guid>https://news.ycombinator.com/item?id=31798214</guid>
-            <pubDate>Sun, 19 Jun 2022 11:04:32 GMT</pubDate>
-            <description><![CDATA[Show HN: Assert: testing and assertion library on top of Go generics]]></description>
         </item>
     </channel>
 </rss>
