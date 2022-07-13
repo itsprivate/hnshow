@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-13T03:59:44.597Z</updated>
+    <updated>2022-07-13T05:39:12.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[恢复YouTube播放列表中被删除或私人视频的标题
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32079290</id>
+        <link href="https://news.ycombinator.com/item?id=32079290"/>
+        <updated>2022-07-13T05:26:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Restore titles for removed or private videos in YouTube playlists]]></summary>
+        <author>
+            <name>exKitsune</name>
+            <uri>https://news.ycombinator.com/user?id=exKitsune</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordDumb，一个帮助你阅读书籍的calibre插件
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>altuzar</name>
             <uri>https://news.ycombinator.com/user?id=altuzar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将公元前/公元后日期转换为全新世历日期的Chrome扩展程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31794602</id>
-        <link href="https://news.ycombinator.com/item?id=31794602"/>
-        <updated>2022-06-18T23:03:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Chrome extension that converts BC/BCE dates to Holocene Calendar dates]]></summary>
-        <author>
-            <name>kgcoder</name>
-            <uri>https://news.ycombinator.com/user?id=kgcoder</uri>
         </author>
     </entry>
 </feed>
