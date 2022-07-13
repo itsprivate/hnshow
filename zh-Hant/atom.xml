@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-13T15:54:56.443Z</updated>
+    <updated>2022-07-13T16:49:27.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[分析性數據庫的基準（Snowflake、Druid、Redshift）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32084571</id>
+        <link href="https://news.ycombinator.com/item?id=32084571"/>
+        <updated>2022-07-13T16:03:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A benchmark for analytical databases (Snowflake, Druid, Redshift)]]></summary>
+        <author>
+            <name>zX41ZdbW</name>
+            <uri>https://news.ycombinator.com/user?id=zX41ZdbW</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MemScroll - 簡單的程序內存可視化工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32084496</id>
+        <link href="https://news.ycombinator.com/item?id=32084496"/>
+        <updated>2022-07-13T15:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MemScroll – Simple program memory visualizer]]></summary>
+        <author>
+            <name>cauefcr</name>
+            <uri>https://news.ycombinator.com/user?id=cauefcr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於Next.js的Visual Builder - Makeswift
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>lessio</name>
             <uri>https://news.ycombinator.com/user?id=lessio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超越波莫多羅，設定多個目標，多次循環實現目標
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31807010</id>
-        <link href="https://news.ycombinator.com/item?id=31807010"/>
-        <updated>2022-06-20T06:37:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Beyond Pomodoro, set multiple goals, loop over goals multiple times]]></summary>
-        <author>
-            <name>reportaman</name>
-            <uri>https://news.ycombinator.com/user?id=reportaman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於iPhone和iPad的Markdown鍵盤
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31806629</id>
-        <link href="https://news.ycombinator.com/item?id=31806629"/>
-        <updated>2022-06-20T05:31:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Markdown Keyboard for iPhone and iPad]]></summary>
-        <author>
-            <name>andrewon</name>
-            <uri>https://news.ycombinator.com/user?id=andrewon</uri>
         </author>
     </entry>
 </feed>
