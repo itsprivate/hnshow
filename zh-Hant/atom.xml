@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-13T14:30:56.788Z</updated>
+    <updated>2022-07-13T14:59:31.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[測試你的K8s知識
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32083490</id>
+        <link href="https://news.ycombinator.com/item?id=32083490"/>
+        <updated>2022-07-13T14:47:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Test Your K8s Knowledge]]></summary>
+        <author>
+            <name>moochee</name>
+            <uri>https://news.ycombinator.com/user?id=moochee</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[哦，我的博客--一個馬克頓的博客模板
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32083263</id>
+        <link href="https://news.ycombinator.com/item?id=32083263"/>
+        <updated>2022-07-13T14:29:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Oh My Blog – A Markdown Blog Template]]></summary>
+        <author>
+            <name>Swarup_Tripathy</name>
+            <uri>https://news.ycombinator.com/user?id=Swarup_Tripathy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基於Pandoc的VS Code的Markdown預覽
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>har1s</name>
             <uri>https://news.ycombinator.com/user?id=har1s</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bulletyn - 定製Reddit、HN和RSS的電子郵件摘要
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31803061</id>
-        <link href="https://news.ycombinator.com/item?id=31803061"/>
-        <updated>2022-06-19T20:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bulletyn – custom email digests of Reddit, HN, and RSS]]></summary>
-        <author>
-            <name>npilk</name>
-            <uri>https://news.ycombinator.com/user?id=npilk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StatusVista - 一個你所依賴的系統的一體化狀態頁面
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31802898</id>
-        <link href="https://news.ycombinator.com/item?id=31802898"/>
-        <updated>2022-06-19T20:06:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: StatusVista – An all-in-one status page of the systems you depend on]]></summary>
-        <author>
-            <name>dandrew5</name>
-            <uri>https://news.ycombinator.com/user?id=dandrew5</uri>
         </author>
     </entry>
 </feed>
