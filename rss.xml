@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 14 Jul 2022 21:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 21:48:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[送鸟人 - 每周一次在您的收件箱中发送Twitter书签
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32101657</link>
+            <guid>https://news.ycombinator.com/item?id=32101657</guid>
+            <pubDate>Thu, 14 Jul 2022 21:27:05 GMT</pubDate>
+            <description><![CDATA[Show HN: Birdfeeder - Twitter bookmarks in your inbox, once a week]]></description>
+        </item>
         <item>
             <title><![CDATA[Tweedle - 一个针对Twitter上的个人资料和推文的Wordle游戏
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31824273</guid>
             <pubDate>Tue, 21 Jun 2022 14:23:40 GMT</pubDate>
             <description><![CDATA[Show HN: How to Get a Job as a Software Developer in the UK After Brexit (Guide)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[将WARC（网络档案）文件转换为Parquet并使用DuckDB进行查询
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31824150</link>
-            <guid>https://news.ycombinator.com/item?id=31824150</guid>
-            <pubDate>Tue, 21 Jun 2022 14:10:34 GMT</pubDate>
-            <description><![CDATA[Show HN: Convert WARC (Web Archive) Files to Parquet and Query with DuckDB]]></description>
         </item>
     </channel>
 </rss>

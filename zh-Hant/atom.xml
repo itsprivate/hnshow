@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-14T21:31:32.357Z</updated>
+    <updated>2022-07-14T21:48:32.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[送鳥人 - 每週一次在您的收件箱中發送Twitter書籤
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32101657</id>
+        <link href="https://news.ycombinator.com/item?id=32101657"/>
+        <updated>2022-07-14T21:27:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Birdfeeder - Twitter bookmarks in your inbox, once a week]]></summary>
+        <author>
+            <name>dewey</name>
+            <uri>https://news.ycombinator.com/user?id=dewey</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tweedle - 一個針對Twitter上的個人資料和推文的Wordle遊戲
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Varqu</name>
             <uri>https://news.ycombinator.com/user?id=Varqu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將WARC（網絡檔案）文件轉換為Parquet並使用DuckDB進行查詢
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31824150</id>
-        <link href="https://news.ycombinator.com/item?id=31824150"/>
-        <updated>2022-06-21T14:10:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Convert WARC (Web Archive) Files to Parquet and Query with DuckDB]]></summary>
-        <author>
-            <name>llambda</name>
-            <uri>https://news.ycombinator.com/user?id=llambda</uri>
         </author>
     </entry>
 </feed>
