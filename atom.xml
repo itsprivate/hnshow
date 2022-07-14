@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-14T19:26:39.949Z</updated>
+    <updated>2022-07-14T19:46:35.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个美国进化模拟器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32100487</id>
+        <link href="https://news.ycombinator.com/item?id=32100487"/>
+        <updated>2022-07-14T19:27:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A US Evolution Simulator]]></summary>
+        <author>
+            <name>ag8</name>
+            <uri>https://news.ycombinator.com/user?id=ag8</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Payload，用于局域网文件传输的X-Platform桌面应用程序[Tauri/Rust, Go]
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>yrandom</name>
             <uri>https://news.ycombinator.com/user?id=yrandom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区产生的艺术是一种NFT
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31823868</id>
-        <link href="https://news.ycombinator.com/item?id=31823868"/>
-        <updated>2022-06-21T13:44:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Community Generated Art as an NFT]]></summary>
-        <author>
-            <name>sharjeelsidd</name>
-            <uri>https://news.ycombinator.com/user?id=sharjeelsidd</uri>
         </author>
     </entry>
 </feed>
