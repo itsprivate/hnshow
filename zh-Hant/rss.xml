@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 14 Jul 2022 14:02:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 14:50:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Lexy - 帶有自定義DSL的C++分析器組合器庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32096697</link>
+            <guid>https://news.ycombinator.com/item?id=32096697</guid>
+            <pubDate>Thu, 14 Jul 2022 14:44:47 GMT</pubDate>
+            <description><![CDATA[Show HN: Lexy – C++ parser combinator library with custom DSL]]></description>
+        </item>
+        <item>
+            <title><![CDATA[基於Google-Zanzibar的開源授權服務
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32096610</link>
+            <guid>https://news.ycombinator.com/item?id=32096610</guid>
+            <pubDate>Thu, 14 Jul 2022 14:38:14 GMT</pubDate>
+            <description><![CDATA[Show HN: Open-source authorization service based on Google-Zanzibar]]></description>
+        </item>
         <item>
             <title><![CDATA[預覽你的網站在Twitter上的樣子
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31815990</guid>
             <pubDate>Mon, 20 Jun 2022 21:11:46 GMT</pubDate>
             <description><![CDATA[Show HN: Into the Futureverse]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sensy - 一把自帶大腦的吉他，可用於任何技能水平的演奏
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31815696</link>
-            <guid>https://news.ycombinator.com/item?id=31815696</guid>
-            <pubDate>Mon, 20 Jun 2022 20:44:43 GMT</pubDate>
-            <description><![CDATA[Show HN: Sensy – A guitar with it's own brain for playing at any skill level]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Just - 零配置TypeScript開發工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31814927</link>
-            <guid>https://news.ycombinator.com/item?id=31814927</guid>
-            <pubDate>Mon, 20 Jun 2022 19:52:52 GMT</pubDate>
-            <description><![CDATA[Show HN: Just – Zero Config TypeScript Development Tool]]></description>
         </item>
     </channel>
 </rss>
