@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 14 Jul 2022 20:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 21:31:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Tweedle - 一个针对Twitter上的个人资料和推文的Wordle游戏
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32101638</link>
+            <guid>https://news.ycombinator.com/item?id=32101638</guid>
+            <pubDate>Thu, 14 Jul 2022 21:24:44 GMT</pubDate>
+            <description><![CDATA[Show HN: Tweedle – A Wordle game for profiles and tweets on Twitter]]></description>
+        </item>
         <item>
             <title><![CDATA[Superlines - 虚拟谷歌广告营销人员
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31824150</guid>
             <pubDate>Tue, 21 Jun 2022 14:10:34 GMT</pubDate>
             <description><![CDATA[Show HN: Convert WARC (Web Archive) Files to Parquet and Query with DuckDB]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DevEx的Slack社区
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31823685</link>
-            <guid>https://news.ycombinator.com/item?id=31823685</guid>
-            <pubDate>Tue, 21 Jun 2022 13:27:45 GMT</pubDate>
-            <description><![CDATA[Show HN: Slack Community for DevEx]]></description>
         </item>
     </channel>
 </rss>

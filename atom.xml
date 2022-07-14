@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-14T20:34:27.142Z</updated>
+    <updated>2022-07-14T21:31:32.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Tweedle - 一个针对Twitter上的个人资料和推文的Wordle游戏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32101638</id>
+        <link href="https://news.ycombinator.com/item?id=32101638"/>
+        <updated>2022-07-14T21:24:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tweedle – A Wordle game for profiles and tweets on Twitter]]></summary>
+        <author>
+            <name>cgrunewald</name>
+            <uri>https://news.ycombinator.com/user?id=cgrunewald</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Superlines - 虚拟谷歌广告营销人员
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>llambda</name>
             <uri>https://news.ycombinator.com/user?id=llambda</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevEx的Slack社区
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31823685</id>
-        <link href="https://news.ycombinator.com/item?id=31823685"/>
-        <updated>2022-06-21T13:27:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Slack Community for DevEx]]></summary>
-        <author>
-            <name>zohar-tan</name>
-            <uri>https://news.ycombinator.com/user?id=zohar-tan</uri>
         </author>
     </entry>
 </feed>
