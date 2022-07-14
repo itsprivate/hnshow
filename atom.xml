@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-14T10:52:14.709Z</updated>
+    <updated>2022-07-14T11:45:26.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Atorable-Loader - 建立一个为自己服务的网站
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32094481</id>
+        <link href="https://news.ycombinator.com/item?id=32094481"/>
+        <updated>2022-07-14T11:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Atorable-Loader – Build a website that serves itself]]></summary>
+        <author>
+            <name>sergethompson</name>
+            <uri>https://news.ycombinator.com/user?id=sergethompson</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[免费：NextJs Firebase入门套件
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>p5v</name>
             <uri>https://news.ycombinator.com/user?id=p5v</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mprocs 0.5 - 运行进程的TUI，现在支持鼠标了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31812124</id>
-        <link href="https://news.ycombinator.com/item?id=31812124"/>
-        <updated>2022-06-20T16:18:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mprocs 0.5 – TUI for running processes, now with mouse support]]></summary>
-        <author>
-            <name>pvolok</name>
-            <uri>https://news.ycombinator.com/user?id=pvolok</uri>
         </author>
     </entry>
 </feed>
