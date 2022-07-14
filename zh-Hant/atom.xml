@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-14T17:24:57.329Z</updated>
+    <updated>2022-07-14T18:00:46.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個無障礙的、基於網絡的圖形設計GUI實驗
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32099016</id>
+        <link href="https://news.ycombinator.com/item?id=32099016"/>
+        <updated>2022-07-14T17:27:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An accessible, responsive web-based graphic design GUI experiment]]></summary>
+        <author>
+            <name>rikroots</name>
+            <uri>https://news.ycombinator.com/user?id=rikroots</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將工作從LinkedIn和Indeed保存到Sheet的Chrome擴展程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32099008</id>
+        <link href="https://news.ycombinator.com/item?id=32099008"/>
+        <updated>2022-07-14T17:27:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Chrome extension to save jobs from LinkedIn and Indeed to Sheets]]></summary>
+        <author>
+            <name>dandiferr</name>
+            <uri>https://news.ycombinator.com/user?id=dandiferr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ec2instances.info推出EC2和RDS的詳細頁面
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>tommyjepsen</name>
             <uri>https://news.ycombinator.com/user?id=tommyjepsen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blame.email - 客戶端的單向電子郵件生成器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31820502</id>
-        <link href="https://news.ycombinator.com/item?id=31820502"/>
-        <updated>2022-06-21T06:13:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Blame.email – client-side one-way email generator]]></summary>
-        <author>
-            <name>eriner_</name>
-            <uri>https://news.ycombinator.com/user?id=eriner_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在未簽出的分支上創建快照提交的 Git 命令
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31819196</id>
-        <link href="https://news.ycombinator.com/item?id=31819196"/>
-        <updated>2022-06-21T02:41:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Git command for creating snapshot commits on a not checked-out branch]]></summary>
-        <author>
-            <name>meribold</name>
-            <uri>https://news.ycombinator.com/user?id=meribold</uri>
         </author>
     </entry>
 </feed>

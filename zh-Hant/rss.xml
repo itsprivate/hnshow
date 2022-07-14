@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 14 Jul 2022 17:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 18:00:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個無障礙的、基於網絡的圖形設計GUI實驗
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32099016</link>
+            <guid>https://news.ycombinator.com/item?id=32099016</guid>
+            <pubDate>Thu, 14 Jul 2022 17:27:47 GMT</pubDate>
+            <description><![CDATA[Show HN: An accessible, responsive web-based graphic design GUI experiment]]></description>
+        </item>
+        <item>
+            <title><![CDATA[將工作從LinkedIn和Indeed保存到Sheet的Chrome擴展程序
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32099008</link>
+            <guid>https://news.ycombinator.com/item?id=32099008</guid>
+            <pubDate>Thu, 14 Jul 2022 17:27:10 GMT</pubDate>
+            <description><![CDATA[Show HN: Chrome extension to save jobs from LinkedIn and Indeed to Sheets]]></description>
+        </item>
         <item>
             <title><![CDATA[Ec2instances.info推出EC2和RDS的詳細頁面
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31821765</guid>
             <pubDate>Tue, 21 Jun 2022 08:47:07 GMT</pubDate>
             <description><![CDATA[Show HN: Weld – ETL, Reverse-ETL and SQL modelling all in one tool]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Blame.email - 客戶端的單向電子郵件生成器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31820502</link>
-            <guid>https://news.ycombinator.com/item?id=31820502</guid>
-            <pubDate>Tue, 21 Jun 2022 06:13:30 GMT</pubDate>
-            <description><![CDATA[Show HN: Blame.email – client-side one-way email generator]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在未簽出的分支上創建快照提交的 Git 命令
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31819196</link>
-            <guid>https://news.ycombinator.com/item?id=31819196</guid>
-            <pubDate>Tue, 21 Jun 2022 02:41:36 GMT</pubDate>
-            <description><![CDATA[Show HN: Git command for creating snapshot commits on a not checked-out branch]]></description>
         </item>
     </channel>
 </rss>
