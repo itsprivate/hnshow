@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 14 Jul 2022 18:58:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 19:26:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Payload，用于局域网文件传输的X-Platform桌面应用程序[Tauri/Rust, Go]
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32100352</link>
+            <guid>https://news.ycombinator.com/item?id=32100352</guid>
+            <pubDate>Thu, 14 Jul 2022 19:16:15 GMT</pubDate>
+            <description><![CDATA[Show HN: Payload, X-Platform Desktop App for LAN File Transfers [Tauri/Rust, Go]]]></description>
+        </item>
         <item>
             <title><![CDATA[ShopCats - 认识生活在世界各地公共场所的猫咪
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31823868</guid>
             <pubDate>Tue, 21 Jun 2022 13:44:28 GMT</pubDate>
             <description><![CDATA[Show HN: Community Generated Art as an NFT]]></description>
-        </item>
-        <item>
-            <title><![CDATA[网络安全会议的生成预测法
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31823689</link>
-            <guid>https://news.ycombinator.com/item?id=31823689</guid>
-            <pubDate>Tue, 21 Jun 2022 13:28:11 GMT</pubDate>
-            <description><![CDATA[Show HN: Generative Projection for Cybersecurity Conference]]></description>
         </item>
     </channel>
 </rss>
