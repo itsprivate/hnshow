@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-14T18:41:24.982Z</updated>
+    <updated>2022-07-14T18:58:05.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ShopCats - 認識生活在世界各地公共場所的貓咪
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32099816</id>
+        <link href="https://news.ycombinator.com/item?id=32099816"/>
+        <updated>2022-07-14T18:34:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ShopCats – Meet cats living in public places around the world]]></summary>
+        <author>
+            <name>davmar</name>
+            <uri>https://news.ycombinator.com/user?id=davmar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cargo-semver-checks，一個快速的CI友好的基於查詢的Rust semver linter。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tomek_zemla</name>
             <uri>https://news.ycombinator.com/user?id=tomek_zemla</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一個有趣的、免費的工具來幫助你在公共場合建設
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31823570</id>
-        <link href="https://news.ycombinator.com/item?id=31823570"/>
-        <updated>2022-06-21T13:17:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a fun, free tool to help you build in public]]></summary>
-        <author>
-            <name>thewakka1</name>
-            <uri>https://news.ycombinator.com/user?id=thewakka1</uri>
         </author>
     </entry>
 </feed>
