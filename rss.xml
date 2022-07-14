@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 14 Jul 2022 11:58:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 13:01:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[令人信服和可理解的语言沉浸式媒体的目录
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32095373</link>
+            <guid>https://news.ycombinator.com/item?id=32095373</guid>
+            <pubDate>Thu, 14 Jul 2022 12:49:24 GMT</pubDate>
+            <description><![CDATA[Show HN: A catalog for compelling and comprehensible language immersion media]]></description>
+        </item>
+        <item>
+            <title><![CDATA[只需导入任何tailwind CSS网站/模板，就可以对其进行可视化编辑
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32094897</link>
+            <guid>https://news.ycombinator.com/item?id=32094897</guid>
+            <pubDate>Thu, 14 Jul 2022 12:12:04 GMT</pubDate>
+            <description><![CDATA[Show HN: Visually edit any tailwind CSS website/template by simply importing it]]></description>
+        </item>
         <item>
             <title><![CDATA[帮助计划、制作、审查和发布视频的应用程序
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31814771</guid>
             <pubDate>Mon, 20 Jun 2022 19:41:37 GMT</pubDate>
             <description><![CDATA[Show HN: Hacker News but it's only the comments with none of the context]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Python生成支持Podcasting 2.0的RSS提要
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31814608</link>
-            <guid>https://news.ycombinator.com/item?id=31814608</guid>
-            <pubDate>Mon, 20 Jun 2022 19:29:11 GMT</pubDate>
-            <description><![CDATA[Show HN: Generate RSS feeds with Podcasting 2.0 support using Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TypeScript中的类型级正则匹配
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31812621</link>
-            <guid>https://news.ycombinator.com/item?id=31812621</guid>
-            <pubDate>Mon, 20 Jun 2022 16:56:31 GMT</pubDate>
-            <description><![CDATA[Show HN: Type-Level RegExp Matching in TypeScript]]></description>
         </item>
     </channel>
 </rss>

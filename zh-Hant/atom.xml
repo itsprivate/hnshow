@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-14T11:58:20.616Z</updated>
+    <updated>2022-07-14T13:01:10.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[令人信服和可理解的語言沉浸式媒體的目錄
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32095373</id>
+        <link href="https://news.ycombinator.com/item?id=32095373"/>
+        <updated>2022-07-14T12:49:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A catalog for compelling and comprehensible language immersion media]]></summary>
+        <author>
+            <name>pizza_pleb</name>
+            <uri>https://news.ycombinator.com/user?id=pizza_pleb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[只需導入任何tailwind CSS網站/模板，就可以對其進行可視化編輯
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32094897</id>
+        <link href="https://news.ycombinator.com/item?id=32094897"/>
+        <updated>2022-07-14T12:12:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Visually edit any tailwind CSS website/template by simply importing it]]></summary>
+        <author>
+            <name>speedwares</name>
+            <uri>https://news.ycombinator.com/user?id=speedwares</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幫助計劃、製作、審查和發佈視頻的應用程序
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>chiptopher</name>
             <uri>https://news.ycombinator.com/user?id=chiptopher</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Python生成支持Podcasting 2.0的RSS提要
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31814608</id>
-        <link href="https://news.ycombinator.com/item?id=31814608"/>
-        <updated>2022-06-20T19:29:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Generate RSS feeds with Podcasting 2.0 support using Python]]></summary>
-        <author>
-            <name>tatsuhirosatou</name>
-            <uri>https://news.ycombinator.com/user?id=tatsuhirosatou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeScript中的類型級正則匹配
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31812621</id>
-        <link href="https://news.ycombinator.com/item?id=31812621"/>
-        <updated>2022-06-20T16:56:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Type-Level RegExp Matching in TypeScript]]></summary>
-        <author>
-            <name>evolveyourmind</name>
-            <uri>https://news.ycombinator.com/user?id=evolveyourmind</uri>
         </author>
     </entry>
 </feed>
