@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 14 Jul 2022 15:01:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 15:38:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[如何用釘子和砍刀修復媒體的偏見
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32096874</link>
+            <guid>https://news.ycombinator.com/item?id=32096874</guid>
+            <pubDate>Thu, 14 Jul 2022 14:59:21 GMT</pubDate>
+            <description><![CDATA[Show HN: How to Fix Media Bias with Staking and Slashing]]></description>
+        </item>
         <item>
             <title><![CDATA[將OpenBSD Pledge()移植到Linux上
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31817222</guid>
             <pubDate>Mon, 20 Jun 2022 22:48:25 GMT</pubDate>
             <description><![CDATA[Show HN: Procedural 2D space scene generator]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用於電動滑板的參數化皮帶驅動3D打印正齒輪
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31816031</link>
-            <guid>https://news.ycombinator.com/item?id=31816031</guid>
-            <pubDate>Mon, 20 Jun 2022 21:15:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Parametric Belt Driven 3D Printed Spur Gear for Electric Skateboards]]></description>
         </item>
     </channel>
 </rss>

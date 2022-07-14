@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-14T15:01:22.415Z</updated>
+    <updated>2022-07-14T15:38:27.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何用钉子和砍刀修复媒体的偏见
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32096874</id>
+        <link href="https://news.ycombinator.com/item?id=32096874"/>
+        <updated>2022-07-14T14:59:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How to Fix Media Bias with Staking and Slashing]]></summary>
+        <author>
+            <name>toricalea</name>
+            <uri>https://news.ycombinator.com/user?id=toricalea</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[将OpenBSD Pledge()移植到Linux上
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>wwwtyro</name>
             <uri>https://news.ycombinator.com/user?id=wwwtyro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于电动滑板的参数化皮带驱动3D打印正齿轮
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31816031</id>
-        <link href="https://news.ycombinator.com/item?id=31816031"/>
-        <updated>2022-06-20T21:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Parametric Belt Driven 3D Printed Spur Gear for Electric Skateboards]]></summary>
-        <author>
-            <name>skittleson</name>
-            <uri>https://news.ycombinator.com/user?id=skittleson</uri>
         </author>
     </entry>
 </feed>
