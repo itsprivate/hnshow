@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-14T13:01:10.269Z</updated>
+    <updated>2022-07-14T14:02:47.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[预览你的网站在Twitter上的样子
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32096031</id>
+        <link href="https://news.ycombinator.com/item?id=32096031"/>
+        <updated>2022-07-14T13:45:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Preview how your website looks like on Twitter]]></summary>
+        <author>
+            <name>bquaresma</name>
+            <uri>https://news.ycombinator.com/user?id=bquaresma</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上周五我发了25封邮件，要求在发行后1周内更新音乐
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32095910</id>
+        <link href="https://news.ycombinator.com/item?id=32095910"/>
+        <updated>2022-07-14T13:34:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Last Friday I sent 25 emails for music updates 1 week after release]]></summary>
+        <author>
+            <name>difradev</name>
+            <uri>https://news.ycombinator.com/user?id=difradev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我为自己在网上会议中说得太多的时候做了一个应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32095592</id>
+        <link href="https://news.ycombinator.com/item?id=32095592"/>
+        <updated>2022-07-14T13:09:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built an app for when I talk too much in online meetings]]></summary>
+        <author>
+            <name>interleave</name>
+            <uri>https://news.ycombinator.com/user?id=interleave</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推特机器人从推文中分析国际象棋图谱
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32095349</id>
+        <link href="https://news.ycombinator.com/item?id=32095349"/>
+        <updated>2022-07-14T12:47:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Twitter bot analyzes chess diagrams from tweets]]></summary>
+        <author>
+            <name>pkacprzak</name>
+            <uri>https://news.ycombinator.com/user?id=pkacprzak</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[令人信服和可理解的语言沉浸式媒体的目录
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>sonnyt</name>
             <uri>https://news.ycombinator.com/user?id=sonnyt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为您的SaaS提供推荐营销，从0美元/月起
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31815194</id>
-        <link href="https://news.ycombinator.com/item?id=31815194"/>
-        <updated>2022-06-20T20:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Referral marketing for your SaaS from $0/month]]></summary>
-        <author>
-            <name>richiemcilroy</name>
-            <uri>https://news.ycombinator.com/user?id=richiemcilroy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oblon - 通用REST API服务器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31814808</id>
-        <link href="https://news.ycombinator.com/item?id=31814808"/>
-        <updated>2022-06-20T19:44:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Oblon – universal REST API server]]></summary>
-        <author>
-            <name>vtashkov_oblon</name>
-            <uri>https://news.ycombinator.com/user?id=vtashkov_oblon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个新的JavaScript的OAuth2库
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31814784</id>
-        <link href="https://news.ycombinator.com/item?id=31814784"/>
-        <updated>2022-06-20T19:42:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A new OAuth2 library for JavaScript]]></summary>
-        <author>
-            <name>treve</name>
-            <uri>https://news.ycombinator.com/user?id=treve</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客新闻，但它只有评论，没有上下文
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31814771</id>
-        <link href="https://news.ycombinator.com/item?id=31814771"/>
-        <updated>2022-06-20T19:41:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hacker News but it's only the comments with none of the context]]></summary>
-        <author>
-            <name>chiptopher</name>
-            <uri>https://news.ycombinator.com/user?id=chiptopher</uri>
         </author>
     </entry>
 </feed>
