@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 14 Jul 2022 15:38:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 16:54:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我建立了一个小小的平台，在那里你可以说任何你想说的话
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32098203</link>
+            <guid>https://news.ycombinator.com/item?id=32098203</guid>
+            <pubDate>Thu, 14 Jul 2022 16:31:48 GMT</pubDate>
+            <description><![CDATA[Show HN: I built a tiny platform where you can say anything you want]]></description>
+        </item>
+        <item>
+            <title><![CDATA[云简历的挑战
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32098161</link>
+            <guid>https://news.ycombinator.com/item?id=32098161</guid>
+            <pubDate>Thu, 14 Jul 2022 16:28:41 GMT</pubDate>
+            <description><![CDATA[Show HN: The Cloud Resume Challenge]]></description>
+        </item>
         <item>
             <title><![CDATA[如何用钉子和砍刀修复媒体的偏见
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31817997</guid>
             <pubDate>Tue, 21 Jun 2022 00:10:07 GMT</pubDate>
             <description><![CDATA[Show HN: Figr.app – a real time, multi-user, notepad style calculator]]></description>
-        </item>
-        <item>
-            <title><![CDATA[跟踪每个HTTP请求执行的代码的开源库
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31817240</link>
-            <guid>https://news.ycombinator.com/item?id=31817240</guid>
-            <pubDate>Mon, 20 Jun 2022 22:50:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Open-source library to trace code executed per HTTP request]]></description>
-        </item>
-        <item>
-            <title><![CDATA[程序化的二维空间场景发生器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31817222</link>
-            <guid>https://news.ycombinator.com/item?id=31817222</guid>
-            <pubDate>Mon, 20 Jun 2022 22:48:25 GMT</pubDate>
-            <description><![CDATA[Show HN: Procedural 2D space scene generator]]></description>
         </item>
     </channel>
 </rss>

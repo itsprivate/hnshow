@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-14T15:38:27.458Z</updated>
+    <updated>2022-07-14T16:54:38.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一個小小的平臺，在那裡你可以說任何你想說的話
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32098203</id>
+        <link href="https://news.ycombinator.com/item?id=32098203"/>
+        <updated>2022-07-14T16:31:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a tiny platform where you can say anything you want]]></summary>
+        <author>
+            <name>amin</name>
+            <uri>https://news.ycombinator.com/user?id=amin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雲簡歷的挑戰
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32098161</id>
+        <link href="https://news.ycombinator.com/item?id=32098161"/>
+        <updated>2022-07-14T16:28:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Cloud Resume Challenge]]></summary>
+        <author>
+            <name>forrestbrazeal</name>
+            <uri>https://news.ycombinator.com/user?id=forrestbrazeal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何用釘子和砍刀修復媒體的偏見
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>jklp</name>
             <uri>https://news.ycombinator.com/user?id=jklp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跟蹤每個HTTP請求執行的代碼的開源庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31817240</id>
-        <link href="https://news.ycombinator.com/item?id=31817240"/>
-        <updated>2022-06-20T22:50:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open-source library to trace code executed per HTTP request]]></summary>
-        <author>
-            <name>belousovdmn</name>
-            <uri>https://news.ycombinator.com/user?id=belousovdmn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[程序化的二維空間場景發生器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31817222</id>
-        <link href="https://news.ycombinator.com/item?id=31817222"/>
-        <updated>2022-06-20T22:48:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Procedural 2D space scene generator]]></summary>
-        <author>
-            <name>wwwtyro</name>
-            <uri>https://news.ycombinator.com/user?id=wwwtyro</uri>
         </author>
     </entry>
 </feed>
