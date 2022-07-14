@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-14T11:45:26.910Z</updated>
+    <updated>2022-07-14T11:58:20.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[帮助计划、制作、审查和发布视频的应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32094644</id>
+        <link href="https://news.ycombinator.com/item?id=32094644"/>
+        <updated>2022-07-14T11:45:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: App to help with planning, producing, reviewing, and publishing video]]></summary>
+        <author>
+            <name>synu</name>
+            <uri>https://news.ycombinator.com/user?id=synu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Atorable-Loader - 建立一个为自己服务的网站
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>evolveyourmind</name>
             <uri>https://news.ycombinator.com/user?id=evolveyourmind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每天通过电子邮件摘录一个人的Twitter朋友的最佳链接
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31812229</id>
-        <link href="https://news.ycombinator.com/item?id=31812229"/>
-        <updated>2022-06-20T16:25:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A daily email digest of the best links from one's Twitter friends]]></summary>
-        <author>
-            <name>p5v</name>
-            <uri>https://news.ycombinator.com/user?id=p5v</uri>
         </author>
     </entry>
 </feed>
