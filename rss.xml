@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 15 Jul 2022 18:38:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 19:44:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Agit CMS - 一个基于Hugo/Jekyll的桌面无头CMS。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32111822</link>
+            <guid>https://news.ycombinator.com/item?id=32111822</guid>
+            <pubDate>Fri, 15 Jul 2022 19:22:39 GMT</pubDate>
+            <description><![CDATA[Show HN: Agit CMS – A desktop based headless CMS for Hugo/Jekyll]]></description>
+        </item>
         <item>
             <title><![CDATA[Mapedia.org - 一个众包的学习地图
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31829545</guid>
             <pubDate>Tue, 21 Jun 2022 21:56:05 GMT</pubDate>
             <description><![CDATA[Show HN: Merge your headshot with your NFT]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PyCircTools - 一个用于创建电路的Python库
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31829419</link>
-            <guid>https://news.ycombinator.com/item?id=31829419</guid>
-            <pubDate>Tue, 21 Jun 2022 21:41:05 GMT</pubDate>
-            <description><![CDATA[Show HN: PyCircTools – A Python library to create circuits]]></description>
         </item>
     </channel>
 </rss>

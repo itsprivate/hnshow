@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-15T18:38:36.432Z</updated>
+    <updated>2022-07-15T19:44:56.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Agit CMS - 一個基於Hugo/Jekyll的桌面無頭CMS。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32111822</id>
+        <link href="https://news.ycombinator.com/item?id=32111822"/>
+        <updated>2022-07-15T19:22:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Agit CMS – A desktop based headless CMS for Hugo/Jekyll]]></summary>
+        <author>
+            <name>0xsuk</name>
+            <uri>https://news.ycombinator.com/user?id=0xsuk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mapedia.org - 一個眾包的學習地圖
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nquryshi</name>
             <uri>https://news.ycombinator.com/user?id=nquryshi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyCircTools - 一個用於創建電路的Python庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31829419</id>
-        <link href="https://news.ycombinator.com/item?id=31829419"/>
-        <updated>2022-06-21T21:41:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PyCircTools – A Python library to create circuits]]></summary>
-        <author>
-            <name>LovetheFrogs</name>
-            <uri>https://news.ycombinator.com/user?id=LovetheFrogs</uri>
         </author>
     </entry>
 </feed>
