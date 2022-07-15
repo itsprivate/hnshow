@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 15 Jul 2022 06:36:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 07:58:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[偽裝成羔羊的數據竊賊
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32105774</link>
+            <guid>https://news.ycombinator.com/item?id=32105774</guid>
+            <pubDate>Fri, 15 Jul 2022 07:49:24 GMT</pubDate>
+            <description><![CDATA[Show HN: A data thief in the guise of a lamb]]></description>
+        </item>
         <item>
             <title><![CDATA[即時辦公時間
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31825328</guid>
             <pubDate>Tue, 21 Jun 2022 15:50:29 GMT</pubDate>
             <description><![CDATA[Show HN: UnionML – a Python framework for building ML microservices]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我的個人DIY書籤應用，取代Pinboard
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31825312</link>
-            <guid>https://news.ycombinator.com/item?id=31825312</guid>
-            <pubDate>Tue, 21 Jun 2022 15:49:06 GMT</pubDate>
-            <description><![CDATA[Show HN: My personal DIY bookmarks app to replace Pinboard]]></description>
         </item>
     </channel>
 </rss>
