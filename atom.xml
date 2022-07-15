@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-15T17:51:00.474Z</updated>
+    <updated>2022-07-15T18:38:36.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mapedia.org - 一个众包的学习地图
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32111306</id>
+        <link href="https://news.ycombinator.com/item?id=32111306"/>
+        <updated>2022-07-15T18:27:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mapedia.org – A Crowdsourced Learning Map]]></summary>
+        <author>
+            <name>Layvier</name>
+            <uri>https://news.ycombinator.com/user?id=Layvier</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我建立了一个写笔记的工具，可以在你死后阅读。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32111109</id>
+        <link href="https://news.ycombinator.com/item?id=32111109"/>
+        <updated>2022-07-15T18:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a tool for writing notes that can be read after your death]]></summary>
+        <author>
+            <name>ciccionamente</name>
+            <uri>https://news.ycombinator.com/user?id=ciccionamente</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[吸引追随者--减少范围倾倒，增加有意义的讨论
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>LovetheFrogs</name>
             <uri>https://news.ycombinator.com/user?id=LovetheFrogs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java 19中的Project Loom的启动实例
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31828501</id>
-        <link href="https://news.ycombinator.com/item?id=31828501"/>
-        <updated>2022-06-21T20:05:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Starter examples for Project Loom in Java 19]]></summary>
-        <author>
-            <name>codetojoy</name>
-            <uri>https://news.ycombinator.com/user?id=codetojoy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golang范围迭代变量的惊喜
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31828155</id>
-        <link href="https://news.ycombinator.com/item?id=31828155"/>
-        <updated>2022-06-21T19:34:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Golang range iteration variable surprise]]></summary>
-        <author>
-            <name>jackielii</name>
-            <uri>https://news.ycombinator.com/user?id=jackielii</uri>
         </author>
     </entry>
 </feed>
