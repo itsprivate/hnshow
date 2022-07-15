@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-15T21:50:52.081Z</updated>
+    <updated>2022-07-15T22:29:22.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Floode - DMs的收件箱為0
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32113417</id>
+        <link href="https://news.ycombinator.com/item?id=32113417"/>
+        <updated>2022-07-15T22:24:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Floode – Inbox 0 for DMs]]></summary>
+        <author>
+            <name>sonthemoon</name>
+            <uri>https://news.ycombinator.com/user?id=sonthemoon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Owlkettle - 一個基於GTK 4的聲明式用戶界面框架
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>miletus</name>
             <uri>https://news.ycombinator.com/user?id=miletus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特上的玩具區塊鏈，無需編程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31832434</id>
-        <link href="https://news.ycombinator.com/item?id=31832434"/>
-        <updated>2022-06-22T05:39:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Toy blockchain on Twitter with no programming]]></summary>
-        <author>
-            <name>camjohnson26</name>
-            <uri>https://news.ycombinator.com/user?id=camjohnson26</uri>
         </author>
     </entry>
 </feed>
