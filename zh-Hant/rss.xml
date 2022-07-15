@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 15 Jul 2022 06:14:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 06:36:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[即時辦公時間
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32105052</link>
+            <guid>https://news.ycombinator.com/item?id=32105052</guid>
+            <pubDate>Fri, 15 Jul 2022 05:58:23 GMT</pubDate>
+            <description><![CDATA[Show HN: Instant Office Hours]]></description>
+        </item>
         <item>
             <title><![CDATA[淘寶網
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31825312</guid>
             <pubDate>Tue, 21 Jun 2022 15:49:06 GMT</pubDate>
             <description><![CDATA[Show HN: My personal DIY bookmarks app to replace Pinboard]]></description>
-        </item>
-        <item>
-            <title><![CDATA[以10倍的速度構建Ruby on Rails應用程序 - Avo
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31824877</link>
-            <guid>https://news.ycombinator.com/item?id=31824877</guid>
-            <pubDate>Tue, 21 Jun 2022 15:14:02 GMT</pubDate>
-            <description><![CDATA[Show HN: Build Ruby on Rails apps 10x faster – Avo]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-15T06:14:30.370Z</updated>
+    <updated>2022-07-15T06:36:16.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[即时办公时间
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32105052</id>
+        <link href="https://news.ycombinator.com/item?id=32105052"/>
+        <updated>2022-07-15T05:58:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Instant Office Hours]]></summary>
+        <author>
+            <name>jajoosam</name>
+            <uri>https://news.ycombinator.com/user?id=jajoosam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[淘宝网
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>blakewatson</name>
             <uri>https://news.ycombinator.com/user?id=blakewatson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以10倍的速度构建Ruby on Rails应用程序 - Avo
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31824877</id>
-        <link href="https://news.ycombinator.com/item?id=31824877"/>
-        <updated>2022-06-21T15:14:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Build Ruby on Rails apps 10x faster – Avo]]></summary>
-        <author>
-            <name>adrianthedev</name>
-            <uri>https://news.ycombinator.com/user?id=adrianthedev</uri>
         </author>
     </entry>
 </feed>
