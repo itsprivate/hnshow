@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-14T21:48:32.778Z</updated>
+    <updated>2022-07-15T02:52:46.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为你的无价值的NFT提供流动资金
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32103829</id>
+        <link href="https://news.ycombinator.com/item?id=32103829"/>
+        <updated>2022-07-15T02:08:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Liquidity for Your Worthless NFT's]]></summary>
+        <author>
+            <name>allynjalford</name>
+            <uri>https://news.ycombinator.com/user?id=allynjalford</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Robin: 一个终端友好的、简单的文件服务器。用Go编写
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32103454</id>
+        <link href="https://news.ycombinator.com/item?id=32103454"/>
+        <updated>2022-07-15T01:13:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Robin: A terminal-friendly, dead-simple file server. Written in Go]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[送鸟人 - 每周一次在您的收件箱中发送Twitter书签
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>omkarjc27</name>
             <uri>https://news.ycombinator.com/user?id=omkarjc27</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高性能的自定义元素虚拟滚动器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31824328</id>
-        <link href="https://news.ycombinator.com/item?id=31824328"/>
-        <updated>2022-06-21T14:28:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: High performance custom element virtual scroller]]></summary>
-        <author>
-            <name>Havelock</name>
-            <uri>https://news.ycombinator.com/user?id=Havelock</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国脱欧后，如何在英国找到软件开发人员的工作（指南）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31824273</id>
-        <link href="https://news.ycombinator.com/item?id=31824273"/>
-        <updated>2022-06-21T14:23:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: How to Get a Job as a Software Developer in the UK After Brexit (Guide)]]></summary>
-        <author>
-            <name>Varqu</name>
-            <uri>https://news.ycombinator.com/user?id=Varqu</uri>
         </author>
     </entry>
 </feed>
