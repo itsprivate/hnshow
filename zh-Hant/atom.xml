@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-15T07:58:58.757Z</updated>
+    <updated>2022-07-15T09:01:33.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[tere - 一個更快替代cd+ls的方法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32106126</id>
+        <link href="https://news.ycombinator.com/item?id=32106126"/>
+        <updated>2022-07-15T08:45:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: tere – A Faster Alternative to cd+ls]]></summary>
+        <author>
+            <name>mgunyho</name>
+            <uri>https://news.ycombinator.com/user?id=mgunyho</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[偽裝成羔羊的數據竊賊
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jjjbokma</name>
             <uri>https://news.ycombinator.com/user?id=jjjbokma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UnionML - 構建ML微服務的Python框架
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31825328</id>
-        <link href="https://news.ycombinator.com/item?id=31825328"/>
-        <updated>2022-06-21T15:50:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: UnionML – a Python framework for building ML microservices]]></summary>
-        <author>
-            <name>cosmicbboy</name>
-            <uri>https://news.ycombinator.com/user?id=cosmicbboy</uri>
         </author>
     </entry>
 </feed>
