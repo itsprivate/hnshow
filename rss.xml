@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 15 Jul 2022 14:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 14:35:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用于低延迟分布式授权的开源边缘代理
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32108473</link>
+            <guid>https://news.ycombinator.com/item?id=32108473</guid>
+            <pubDate>Fri, 15 Jul 2022 14:20:18 GMT</pubDate>
+            <description><![CDATA[Show HN: Open Source Edge Proxy for Low Latency Distributed Authorization]]></description>
+        </item>
         <item>
             <title><![CDATA[我的第一个流光溢彩的应用程序可以分析WhatsApp聊天记录
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31827648</guid>
             <pubDate>Tue, 21 Jun 2022 18:54:36 GMT</pubDate>
             <description><![CDATA[Show HN: ModResponse – Mock, modify, and replay HTTP response]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sciagraph，用于生产Python批量作业的性能+内存分析器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31826872</link>
-            <guid>https://news.ycombinator.com/item?id=31826872</guid>
-            <pubDate>Tue, 21 Jun 2022 17:42:35 GMT</pubDate>
-            <description><![CDATA[Show HN: Sciagraph, performance+memory profiler for production Python batch jobs]]></description>
         </item>
     </channel>
 </rss>

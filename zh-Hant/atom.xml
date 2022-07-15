@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-15T14:03:41.719Z</updated>
+    <updated>2022-07-15T14:35:50.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用於低延遲分佈式授權的開源邊緣代理
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32108473</id>
+        <link href="https://news.ycombinator.com/item?id=32108473"/>
+        <updated>2022-07-15T14:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open Source Edge Proxy for Low Latency Distributed Authorization]]></summary>
+        <author>
+            <name>kkajla</name>
+            <uri>https://news.ycombinator.com/user?id=kkajla</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的第一個流光溢彩的應用程序可以分析WhatsApp聊天記錄
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hao1300</name>
             <uri>https://news.ycombinator.com/user?id=hao1300</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sciagraph，用於生產Python批量作業的性能+內存分析器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31826872</id>
-        <link href="https://news.ycombinator.com/item?id=31826872"/>
-        <updated>2022-06-21T17:42:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Sciagraph, performance+memory profiler for production Python batch jobs]]></summary>
-        <author>
-            <name>itamarst</name>
-            <uri>https://news.ycombinator.com/user?id=itamarst</uri>
         </author>
     </entry>
 </feed>
