@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 15 Jul 2022 09:01:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 13:02:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用于审查新闻文章的Chrome扩展
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32107586</link>
+            <guid>https://news.ycombinator.com/item?id=32107586</guid>
+            <pubDate>Fri, 15 Jul 2022 12:51:27 GMT</pubDate>
+            <description><![CDATA[Show HN: Chrome extension for reviewing news articles]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Qrscan - 外壳和相机 = 命令行二维码扫描器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32107532</link>
+            <guid>https://news.ycombinator.com/item?id=32107532</guid>
+            <pubDate>Fri, 15 Jul 2022 12:45:10 GMT</pubDate>
+            <description><![CDATA[Show HN: Qrscan – Shell and Camera = Commandline QR Code Scanner]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用kodyfire-CLI从HTML模板生成PDF文档
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32107270</link>
+            <guid>https://news.ycombinator.com/item?id=32107270</guid>
+            <pubDate>Fri, 15 Jul 2022 12:11:35 GMT</pubDate>
+            <description><![CDATA[Show HN: Generate PDF docs from HTML templates using kodyfire-CLI]]></description>
+        </item>
         <item>
             <title><![CDATA[tere - 一个更快替代cd+ls的方法
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31826610</guid>
             <pubDate>Tue, 21 Jun 2022 17:23:16 GMT</pubDate>
             <description><![CDATA[Show HN: Heks.Social – Share your thoughts in Hex code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[团队提醒--团队活动的短信提醒
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31826586</link>
-            <guid>https://news.ycombinator.com/item?id=31826586</guid>
-            <pubDate>Tue, 21 Jun 2022 17:20:22 GMT</pubDate>
-            <description><![CDATA[Show HN: Team Reminders – SMS Reminders for Team Events]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们做了一个实验来测试仿生阅读是否能帮助你更快地阅读
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31826204</link>
-            <guid>https://news.ycombinator.com/item?id=31826204</guid>
-            <pubDate>Tue, 21 Jun 2022 16:53:28 GMT</pubDate>
-            <description><![CDATA[Show HN: We made an experiment to test if Bionic Reading helps you read faster]]></description>
-        </item>
-        <item>
-            <title><![CDATA[单一文件静态微博生成器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31826128</link>
-            <guid>https://news.ycombinator.com/item?id=31826128</guid>
-            <pubDate>Tue, 21 Jun 2022 16:49:26 GMT</pubDate>
-            <description><![CDATA[Show HN: Single file static microblog generator]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-15T09:01:33.700Z</updated>
+    <updated>2022-07-15T13:02:27.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于审查新闻文章的Chrome扩展
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32107586</id>
+        <link href="https://news.ycombinator.com/item?id=32107586"/>
+        <updated>2022-07-15T12:51:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Chrome extension for reviewing news articles]]></summary>
+        <author>
+            <name>jawerty</name>
+            <uri>https://news.ycombinator.com/user?id=jawerty</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qrscan - 外壳和相机 = 命令行二维码扫描器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32107532</id>
+        <link href="https://news.ycombinator.com/item?id=32107532"/>
+        <updated>2022-07-15T12:45:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Qrscan – Shell and Camera = Commandline QR Code Scanner]]></summary>
+        <author>
+            <name>sayanarijit</name>
+            <uri>https://news.ycombinator.com/user?id=sayanarijit</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用kodyfire-CLI从HTML模板生成PDF文档
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32107270</id>
+        <link href="https://news.ycombinator.com/item?id=32107270"/>
+        <updated>2022-07-15T12:11:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Generate PDF docs from HTML templates using kodyfire-CLI]]></summary>
+        <author>
+            <name>noqta</name>
+            <uri>https://news.ycombinator.com/user?id=noqta</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[tere - 一个更快替代cd+ls的方法
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>stfurkan</name>
             <uri>https://news.ycombinator.com/user?id=stfurkan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[团队提醒--团队活动的短信提醒
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31826586</id>
-        <link href="https://news.ycombinator.com/item?id=31826586"/>
-        <updated>2022-06-21T17:20:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Team Reminders – SMS Reminders for Team Events]]></summary>
-        <author>
-            <name>itextyou</name>
-            <uri>https://news.ycombinator.com/user?id=itextyou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们做了一个实验来测试仿生阅读是否能帮助你更快地阅读
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31826204</id>
-        <link href="https://news.ycombinator.com/item?id=31826204"/>
-        <updated>2022-06-21T16:53:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We made an experiment to test if Bionic Reading helps you read faster]]></summary>
-        <author>
-            <name>hoodwink</name>
-            <uri>https://news.ycombinator.com/user?id=hoodwink</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[单一文件静态微博生成器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31826128</id>
-        <link href="https://news.ycombinator.com/item?id=31826128"/>
-        <updated>2022-06-21T16:49:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Single file static microblog generator]]></summary>
-        <author>
-            <name>jjjbokma</name>
-            <uri>https://news.ycombinator.com/user?id=jjjbokma</uri>
         </author>
     </entry>
 </feed>
