@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-15T13:02:27.619Z</updated>
+    <updated>2022-07-15T14:03:41.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的第一个流光溢彩的应用程序可以分析WhatsApp聊天记录
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32108157</id>
+        <link href="https://news.ycombinator.com/item?id=32108157"/>
+        <updated>2022-07-15T13:48:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My First Streamlit App Can Analyze WhatsApp Chats]]></summary>
+        <author>
+            <name>caldarons</name>
+            <uri>https://news.ycombinator.com/user?id=caldarons</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[观念文件的会员管理
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32108105</id>
+        <link href="https://news.ycombinator.com/item?id=32108105"/>
+        <updated>2022-07-15T13:43:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Membership Management for Notion Docs]]></summary>
+        <author>
+            <name>BruceHN</name>
+            <uri>https://news.ycombinator.com/user?id=BruceHN</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于审查新闻文章的Chrome扩展
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>itamarst</name>
             <uri>https://news.ycombinator.com/user?id=itamarst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[场景--评估真实软件工程技能的技术面试
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31826624</id>
-        <link href="https://news.ycombinator.com/item?id=31826624"/>
-        <updated>2022-06-21T17:24:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Scenario – Tech Interviews That Assess Real Software Engineering Skills]]></summary>
-        <author>
-            <name>lucasvanbramer</name>
-            <uri>https://news.ycombinator.com/user?id=lucasvanbramer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heks.Social - 用Hex代码分享你的想法
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31826610</id>
-        <link href="https://news.ycombinator.com/item?id=31826610"/>
-        <updated>2022-06-21T17:23:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Heks.Social – Share your thoughts in Hex code]]></summary>
-        <author>
-            <name>stfurkan</name>
-            <uri>https://news.ycombinator.com/user?id=stfurkan</uri>
         </author>
     </entry>
 </feed>
