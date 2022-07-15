@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-15T16:49:44.734Z</updated>
+    <updated>2022-07-15T17:22:22.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在2分鐘內建立日常的團隊站立會議
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32110430</id>
+        <link href="https://news.ycombinator.com/item?id=32110430"/>
+        <updated>2022-07-15T17:13:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Setup daily team stand-ups in under 2 minute]]></summary>
+        <author>
+            <name>cheerioty</name>
+            <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彙編代碼中的機器學習推理
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32110377</id>
+        <link href="https://news.ycombinator.com/item?id=32110377"/>
+        <updated>2022-07-15T17:09:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Machine learning inference in assembly code]]></summary>
+        <author>
+            <name>txtai</name>
+            <uri>https://news.ycombinator.com/user?id=txtai</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們如何使用我們的產品來構建我們的產品
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>hackermondev</name>
             <uri>https://news.ycombinator.com/user?id=hackermondev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蟒蛇的閱讀方式
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31827993</id>
-        <link href="https://news.ycombinator.com/item?id=31827993"/>
-        <updated>2022-06-21T19:22:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Python Read Along]]></summary>
-        <author>
-            <name>ohiovr</name>
-            <uri>https://news.ycombinator.com/user?id=ohiovr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fciv.net
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31827943</id>
-        <link href="https://news.ycombinator.com/item?id=31827943"/>
-        <updated>2022-06-21T19:18:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fciv.net]]></summary>
-        <author>
-            <name>roschdal</name>
-            <uri>https://news.ycombinator.com/user?id=roschdal</uri>
         </author>
     </entry>
 </feed>
