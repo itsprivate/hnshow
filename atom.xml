@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-15T20:49:32.386Z</updated>
+    <updated>2022-07-15T21:02:51.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基于Thompson算法的Regex-to-Golang编译器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32112616</id>
+        <link href="https://news.ycombinator.com/item?id=32112616"/>
+        <updated>2022-07-15T20:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Regex-to-Golang compiler based on Thompson's algorithm]]></summary>
+        <author>
+            <name>thegenius2000</name>
+            <uri>https://news.ycombinator.com/user?id=thegenius2000</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个网站来收集每个HN模式
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>evetheattacker</name>
             <uri>https://news.ycombinator.com/user?id=evetheattacker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客蓝调
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31829690</id>
-        <link href="https://news.ycombinator.com/item?id=31829690"/>
-        <updated>2022-06-21T22:12:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hacker Blues]]></summary>
-        <author>
-            <name>jarrenae</name>
-            <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
         </author>
     </entry>
 </feed>
