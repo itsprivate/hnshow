@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-15T21:02:51.139Z</updated>
+    <updated>2022-07-15T21:28:25.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Scream.exe，一個更現代的詭異的靜態網頁
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32112754</id>
+        <link href="https://news.ycombinator.com/item?id=32112754"/>
+        <updated>2022-07-15T20:59:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Scream.exe, a more modern spooky static webpage]]></summary>
+        <author>
+            <name>theden</name>
+            <uri>https://news.ycombinator.com/user?id=theden</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基於Thompson算法的Regex-to-Golang編譯器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Silica6149</name>
             <uri>https://news.ycombinator.com/user?id=Silica6149</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個簡單的網站，展示了NFT的存儲方式
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31830410</id>
-        <link href="https://news.ycombinator.com/item?id=31830410"/>
-        <updated>2022-06-21T23:41:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A simple website to show how NFTs are stored]]></summary>
-        <author>
-            <name>evetheattacker</name>
-            <uri>https://news.ycombinator.com/user?id=evetheattacker</uri>
         </author>
     </entry>
 </feed>
