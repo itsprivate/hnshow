@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-16T12:47:45.013Z</updated>
+    <updated>2022-07-16T13:18:38.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個簡單的平臺來購買/出售副業項目
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32117519</id>
+        <link href="https://news.ycombinator.com/item?id=32117519"/>
+        <updated>2022-07-16T12:50:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a simple platform to buy/sell side projects]]></summary>
+        <author>
+            <name>heyarviind2</name>
+            <uri>https://news.ycombinator.com/user?id=heyarviind2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[維基百科的 "時事 "門戶網站的可搜索檔案
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>modinfo</name>
             <uri>https://news.ycombinator.com/user?id=modinfo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kstat，房地產定價可視化應用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31833863</id>
-        <link href="https://news.ycombinator.com/item?id=31833863"/>
-        <updated>2022-06-22T09:56:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Kstat, real estate pricing visualization app]]></summary>
-        <author>
-            <name>t0mk</name>
-            <uri>https://news.ycombinator.com/user?id=t0mk</uri>
         </author>
     </entry>
 </feed>
