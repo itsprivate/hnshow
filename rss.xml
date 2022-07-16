@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 16 Jul 2022 15:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 17:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[MyHearty，一个简单的慈善网站（Next.js和Rails API）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32119858</link>
+            <guid>https://news.ycombinator.com/item?id=32119858</guid>
+            <pubDate>Sat, 16 Jul 2022 17:00:10 GMT</pubDate>
+            <description><![CDATA[Show HN: MyHearty, a simple charity website (Next.js and Rails API)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[rest.quest - 一个微小的、本地优先的、与S3同步的todo网络应用程序
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32119771</link>
+            <guid>https://news.ycombinator.com/item?id=32119771</guid>
+            <pubDate>Sat, 16 Jul 2022 16:49:43 GMT</pubDate>
+            <description><![CDATA[Show HN: rest.quest – A tiny, local-first todo webapp with S3 sync]]></description>
+        </item>
         <item>
             <title><![CDATA[Logto公开测试版--轻松构建签到、认证和身份认证
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31839147</guid>
             <pubDate>Wed, 22 Jun 2022 17:33:54 GMT</pubDate>
             <description><![CDATA[Show HN: I built a really good Ctrl+F replacement]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Kicli - 开源的Kimai时间跟踪项目的开源CLI
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31838699</link>
-            <guid>https://news.ycombinator.com/item?id=31838699</guid>
-            <pubDate>Wed, 22 Jun 2022 17:03:46 GMT</pubDate>
-            <description><![CDATA[Show HN: Kicli – open-source CLI for the open source Kimai time tracking project]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从零开始建立软件创业公司的日记
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31838542</link>
-            <guid>https://news.ycombinator.com/item?id=31838542</guid>
-            <pubDate>Wed, 22 Jun 2022 16:53:03 GMT</pubDate>
-            <description><![CDATA[Show HN: Diary of building software startup from scratch]]></description>
         </item>
     </channel>
 </rss>
