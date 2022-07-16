@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-16T08:52:21.753Z</updated>
+    <updated>2022-07-16T12:47:45.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[維基百科的 "時事 "門戶網站的可搜索檔案
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32117358</id>
+        <link href="https://news.ycombinator.com/item?id=32117358"/>
+        <updated>2022-07-16T12:26:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A searchable archive of Wikipedia's “Current Events” portal]]></summary>
+        <author>
+            <name>p-e-w</name>
+            <uri>https://news.ycombinator.com/user?id=p-e-w</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們建立了一個在瀏覽器內運行的WordPress的演示
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32117237</id>
+        <link href="https://news.ycombinator.com/item?id=32117237"/>
+        <updated>2022-07-16T12:04:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We built a demo of WordPress running inside the browser]]></summary>
+        <author>
+            <name>ridruejo</name>
+            <uri>https://news.ycombinator.com/user?id=ridruejo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WatchThemLive - 合法地觀察您的用戶在您網站上的活動
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>t0mk</name>
             <uri>https://news.ycombinator.com/user?id=t0mk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一個有趣的視頻會議應用，有二維物理學和近距離聊天。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31833415</id>
-        <link href="https://news.ycombinator.com/item?id=31833415"/>
-        <updated>2022-06-22T08:38:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a fun video meeting app with 2D physics and proximity chat]]></summary>
-        <author>
-            <name>pawelwentpawel</name>
-            <uri>https://news.ycombinator.com/user?id=pawelwentpawel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我創建的流體模擬。有什麼改進的建議嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31832881</id>
-        <link href="https://news.ycombinator.com/item?id=31832881"/>
-        <updated>2022-06-22T07:08:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fluid Simulation that I created. Any tips for improvement]]></summary>
-        <author>
-            <name>AtharvSingh</name>
-            <uri>https://news.ycombinator.com/user?id=AtharvSingh</uri>
         </author>
     </entry>
 </feed>
