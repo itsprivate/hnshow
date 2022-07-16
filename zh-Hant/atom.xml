@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-16T14:45:51.135Z</updated>
+    <updated>2022-07-16T15:33:20.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Logto公開測試版--輕鬆構建簽到、認證和身份認證
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32118950</id>
+        <link href="https://news.ycombinator.com/item?id=32118950"/>
+        <updated>2022-07-16T15:17:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Logto public beta – build sign-in, auth, and identity with ease]]></summary>
+        <author>
+            <name>pseudopuppet</name>
+            <uri>https://news.ycombinator.com/user?id=pseudopuppet</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[由WebAssembly提供的Text-Diff
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32118904</id>
+        <link href="https://news.ycombinator.com/item?id=32118904"/>
+        <updated>2022-07-16T15:12:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Text-Diff Powered by WebAssembly]]></summary>
+        <author>
+            <name>tcper</name>
+            <uri>https://news.ycombinator.com/user?id=tcper</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CashGraphs - 一個證券投資組合優化器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32118796</id>
+        <link href="https://news.ycombinator.com/item?id=32118796"/>
+        <updated>2022-07-16T15:01:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: CashGraphs – A securities portfolio optimizer]]></summary>
+        <author>
+            <name>justinluther</name>
+            <uri>https://news.ycombinator.com/user?id=justinluther</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[變得更快樂的初學者指南》（The Beginner's Guide to be a little bit Happier）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32118779</id>
+        <link href="https://news.ycombinator.com/item?id=32118779"/>
+        <updated>2022-07-16T14:59:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Beginner's Guide to being a little bit Happier]]></summary>
+        <author>
+            <name>SuDa2103</name>
+            <uri>https://news.ycombinator.com/user?id=SuDa2103</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[關於 "日常 "數據科學的互動課程
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>kjksf</name>
             <uri>https://news.ycombinator.com/user?id=kjksf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Magniv繞過API速率限制
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31838298</id>
-        <link href="https://news.ycombinator.com/item?id=31838298"/>
-        <updated>2022-06-22T16:39:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Getting Around API Rate Limits with Magniv]]></summary>
-        <author>
-            <name>jonpon</name>
-            <uri>https://news.ycombinator.com/user?id=jonpon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[時態，一種時間處理工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31837873</id>
-        <link href="https://news.ycombinator.com/item?id=31837873"/>
-        <updated>2022-06-22T16:07:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tense, a Time Processing Tool]]></summary>
-        <author>
-            <name>Animatea</name>
-            <uri>https://news.ycombinator.com/user?id=Animatea</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hagana - 為Node.js提供運行時保護以阻止供應鏈攻擊
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31837759</id>
-        <link href="https://news.ycombinator.com/item?id=31837759"/>
-        <updated>2022-06-22T15:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hagana – Runtime protection for Node.js to block supply chain attacks]]></summary>
-        <author>
-            <name>jackbeck</name>
-            <uri>https://news.ycombinator.com/user?id=jackbeck</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[數據差異--跨數據庫比較任何大小的表
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31837307</id>
-        <link href="https://news.ycombinator.com/item?id=31837307"/>
-        <updated>2022-06-22T15:28:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Data Diff – compare tables of any size across databases]]></summary>
-        <author>
-            <name>hichkaker</name>
-            <uri>https://news.ycombinator.com/user?id=hichkaker</uri>
         </author>
     </entry>
 </feed>
