@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 16 Jul 2022 21:59:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 22:28:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Scratch密碼學庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32122382</link>
+            <guid>https://news.ycombinator.com/item?id=32122382</guid>
+            <pubDate>Sat, 16 Jul 2022 22:05:37 GMT</pubDate>
+            <description><![CDATA[Show HN: Scratch Cryptography Library]]></description>
+        </item>
         <item>
             <title><![CDATA[Tone v0.0.7 - 支持docker的可腳本命令行音頻標記器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31841969</guid>
             <pubDate>Wed, 22 Jun 2022 21:17:26 GMT</pubDate>
             <description><![CDATA[Show HN: 500px feed images without API with JavaScript (or PHP)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SAME項目--簡化將筆記本投入生產的過程
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31841275</link>
-            <guid>https://news.ycombinator.com/item?id=31841275</guid>
-            <pubDate>Wed, 22 Jun 2022 20:12:15 GMT</pubDate>
-            <description><![CDATA[Show HN: The SAME project – simplifying bringing your notebook to production]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-16T21:59:33.375Z</updated>
+    <updated>2022-07-16T22:28:07.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Scratch密码学库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32122382</id>
+        <link href="https://news.ycombinator.com/item?id=32122382"/>
+        <updated>2022-07-16T22:05:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Scratch Cryptography Library]]></summary>
+        <author>
+            <name>Retr0id</name>
+            <uri>https://news.ycombinator.com/user?id=Retr0id</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tone v0.0.7 - 支持docker的可脚本命令行音频标记器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>orsifrancesco</name>
             <uri>https://news.ycombinator.com/user?id=orsifrancesco</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAME项目--简化将笔记本投入生产的过程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31841275</id>
-        <link href="https://news.ycombinator.com/item?id=31841275"/>
-        <updated>2022-06-22T20:12:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The SAME project – simplifying bringing your notebook to production]]></summary>
-        <author>
-            <name>TheIronYuppie</name>
-            <uri>https://news.ycombinator.com/user?id=TheIronYuppie</uri>
         </author>
     </entry>
 </feed>
