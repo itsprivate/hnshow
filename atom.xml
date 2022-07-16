@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-16T14:26:34.264Z</updated>
+    <updated>2022-07-16T14:45:51.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[关于 "日常 "数据科学的互动课程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32118530</id>
+        <link href="https://news.ycombinator.com/item?id=32118530"/>
+        <updated>2022-07-16T14:32:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Interactive course about “everyday” data science]]></summary>
+        <author>
+            <name>andrewnc</name>
+            <uri>https://news.ycombinator.com/user?id=andrewnc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解析用户输入的5kb小函数
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32118523</id>
+        <link href="https://news.ycombinator.com/item?id=32118523"/>
+        <updated>2022-07-16T14:32:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tiny 5kb function who parse user input]]></summary>
+        <author>
+            <name>Luctst</name>
+            <uri>https://news.ycombinator.com/user?id=Luctst</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[威廉姆林斯服务器邀请函
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>hichkaker</name>
             <uri>https://news.ycombinator.com/user?id=hichkaker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ReflectOps - 我为回顾性研究建立的工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31837278</id>
-        <link href="https://news.ycombinator.com/item?id=31837278"/>
-        <updated>2022-06-22T15:25:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ReflectOps – I built tool for retrospectives]]></summary>
-        <author>
-            <name>grasper</name>
-            <uri>https://news.ycombinator.com/user?id=grasper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rhynn.io - 在物理空间中的数字会议
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31836209</id>
-        <link href="https://news.ycombinator.com/item?id=31836209"/>
-        <updated>2022-06-22T14:12:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rhynn.io – Digitally meet in a Physical space]]></summary>
-        <author>
-            <name>lja</name>
-            <uri>https://news.ycombinator.com/user?id=lja</uri>
         </author>
     </entry>
 </feed>
