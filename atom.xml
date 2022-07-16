@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-16T20:49:54.147Z</updated>
+    <updated>2022-07-16T21:59:33.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Tone v0.0.7 - 支持docker的可脚本命令行音频标记器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32122293</id>
+        <link href="https://news.ycombinator.com/item?id=32122293"/>
+        <updated>2022-07-16T21:50:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tone v0.0.7 – scriptable command line audio tagger with docker support]]></summary>
+        <author>
+            <name>sandreas</name>
+            <uri>https://news.ycombinator.com/user?id=sandreas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[查理--一只写着可爱内容的人工智能小狗
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>TheIronYuppie</name>
             <uri>https://news.ycombinator.com/user?id=TheIronYuppie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crocodile - 为GitHub提供更好的代码审查
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31841215</id>
-        <link href="https://news.ycombinator.com/item?id=31841215"/>
-        <updated>2022-06-22T20:07:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Crocodile - Better code review for GitHub]]></summary>
-        <author>
-            <name>jameslao</name>
-            <uri>https://news.ycombinator.com/user?id=jameslao</uri>
         </author>
     </entry>
 </feed>
