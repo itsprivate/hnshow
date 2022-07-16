@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-16T22:28:07.148Z</updated>
+    <updated>2022-07-16T23:27:16.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個簡單語言的編譯器和虛擬機，只有150行代碼
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32121846</id>
+        <link href="https://news.ycombinator.com/item?id=32121846"/>
+        <updated>2022-07-16T20:51:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A compiler and VM for a simple language, in 150 lines of code]]></summary>
+        <author>
+            <name>p4bl0</name>
+            <uri>https://news.ycombinator.com/user?id=p4bl0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scratch密碼學庫
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>davecyen</name>
             <uri>https://news.ycombinator.com/user?id=davecyen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[500px用JavaScript（或PHP）在沒有API的情況下提供圖像。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31841969</id>
-        <link href="https://news.ycombinator.com/item?id=31841969"/>
-        <updated>2022-06-22T21:17:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: 500px feed images without API with JavaScript (or PHP)]]></summary>
-        <author>
-            <name>orsifrancesco</name>
-            <uri>https://news.ycombinator.com/user?id=orsifrancesco</uri>
         </author>
     </entry>
 </feed>
