@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-17T11:47:49.668Z</updated>
+    <updated>2022-07-17T12:50:26.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[铁威，用最先进的ML实现稳定的生产力
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32126132</id>
+        <link href="https://news.ycombinator.com/item?id=32126132"/>
+        <updated>2022-07-17T12:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Ironwill, consistent productivity with cutting-edge ML]]></summary>
+        <author>
+            <name>rooster5</name>
+            <uri>https://news.ycombinator.com/user?id=rooster5</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[将一些数字相乘并为你输出唯一的一个数字
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>zprogrammer</name>
             <uri>https://news.ycombinator.com/user?id=zprogrammer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过交叉促销快速、免费地增加你的通讯受众
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31847397</id>
-        <link href="https://news.ycombinator.com/item?id=31847397"/>
-        <updated>2022-06-23T11:02:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Grow your newsletter audience fast and free with cross promotions]]></summary>
-        <author>
-            <name>vonadz</name>
-            <uri>https://news.ycombinator.com/user?id=vonadz</uri>
         </author>
     </entry>
 </feed>
