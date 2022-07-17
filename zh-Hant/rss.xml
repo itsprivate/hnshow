@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 17 Jul 2022 03:59:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 10:29:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[IOK - 用於檢測網絡釣魚工具包的開放規則集和DSL
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32125661</link>
+            <guid>https://news.ycombinator.com/item?id=32125661</guid>
+            <pubDate>Sun, 17 Jul 2022 10:21:07 GMT</pubDate>
+            <description><![CDATA[Show HN: IOK – an open ruleset and DSL for detecting phishing kits]]></description>
+        </item>
         <item>
             <title><![CDATA[我建立了一個Redis源代碼的演練
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31846156</guid>
             <pubDate>Thu, 23 Jun 2022 07:36:37 GMT</pubDate>
             <description><![CDATA[Show HN: Integrate ONDC with just a few lines of code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[VSCode擴展，允許你找到並添加鏈接到你的Markdown中。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31844646</link>
-            <guid>https://news.ycombinator.com/item?id=31844646</guid>
-            <pubDate>Thu, 23 Jun 2022 02:48:29 GMT</pubDate>
-            <description><![CDATA[Show HN: VSCode extension that allows you to find and add links to your Markdown]]></description>
         </item>
     </channel>
 </rss>

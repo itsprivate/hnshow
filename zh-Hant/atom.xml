@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-17T03:59:27.063Z</updated>
+    <updated>2022-07-17T10:29:45.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[IOK - 用於檢測網絡釣魚工具包的開放規則集和DSL
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32125661</id>
+        <link href="https://news.ycombinator.com/item?id=32125661"/>
+        <updated>2022-07-17T10:21:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: IOK – an open ruleset and DSL for detecting phishing kits]]></summary>
+        <author>
+            <name>bradleyjkemp</name>
+            <uri>https://news.ycombinator.com/user?id=bradleyjkemp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一個Redis源代碼的演練
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ukrocks007</name>
             <uri>https://news.ycombinator.com/user?id=ukrocks007</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VSCode擴展，允許你找到並添加鏈接到你的Markdown中。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31844646</id>
-        <link href="https://news.ycombinator.com/item?id=31844646"/>
-        <updated>2022-06-23T02:48:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: VSCode extension that allows you to find and add links to your Markdown]]></summary>
-        <author>
-            <name>Strryke</name>
-            <uri>https://news.ycombinator.com/user?id=Strryke</uri>
         </author>
     </entry>
 </feed>
