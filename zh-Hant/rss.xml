@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 17 Jul 2022 15:50:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 18:00:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[編碼的Uber
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32129089</link>
+            <guid>https://news.ycombinator.com/item?id=32129089</guid>
+            <pubDate>Sun, 17 Jul 2022 17:42:12 GMT</pubDate>
+            <description><![CDATA[Show HN: Uber for Coding]]></description>
+        </item>
         <item>
             <title><![CDATA[一個在你的Google Drive上託管圖片和媒體的小工具
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31852665</guid>
             <pubDate>Thu, 23 Jun 2022 17:46:38 GMT</pubDate>
             <description><![CDATA[Show HN: My 5/3/1 App is now available on Android]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Docker的Vim中嘗試Copilot
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31850521</link>
-            <guid>https://news.ycombinator.com/item?id=31850521</guid>
-            <pubDate>Thu, 23 Jun 2022 15:30:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Try Copilot in Vim in Docker]]></description>
         </item>
     </channel>
 </rss>

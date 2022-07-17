@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-17T15:50:04.163Z</updated>
+    <updated>2022-07-17T18:00:50.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[编码的Uber
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32129089</id>
+        <link href="https://news.ycombinator.com/item?id=32129089"/>
+        <updated>2022-07-17T17:42:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Uber for Coding]]></summary>
+        <author>
+            <name>zcesur</name>
+            <uri>https://news.ycombinator.com/user?id=zcesur</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个在你的Google Drive上托管图片和媒体的小工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>strongpigeon</name>
             <uri>https://news.ycombinator.com/user?id=strongpigeon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Docker的Vim中尝试Copilot
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31850521</id>
-        <link href="https://news.ycombinator.com/item?id=31850521"/>
-        <updated>2022-06-23T15:30:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Try Copilot in Vim in Docker]]></summary>
-        <author>
-            <name>mg</name>
-            <uri>https://news.ycombinator.com/user?id=mg</uri>
         </author>
     </entry>
 </feed>
