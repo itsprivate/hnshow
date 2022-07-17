@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 17 Jul 2022 02:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 03:59:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我建立了一个Redis源代码的演练
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32124156</link>
+            <guid>https://news.ycombinator.com/item?id=32124156</guid>
+            <pubDate>Sun, 17 Jul 2022 03:12:58 GMT</pubDate>
+            <description><![CDATA[Show HN: I built a walkthrough of Redis's source code]]></description>
+        </item>
         <item>
             <title><![CDATA[dpScreenOCR - 一个识别屏幕上文字的程序
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31844646</guid>
             <pubDate>Thu, 23 Jun 2022 02:48:29 GMT</pubDate>
             <description><![CDATA[Show HN: VSCode extension that allows you to find and add links to your Markdown]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WalkThru - 在网上解释代码的更好方式
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31844064</link>
-            <guid>https://news.ycombinator.com/item?id=31844064</guid>
-            <pubDate>Thu, 23 Jun 2022 01:21:15 GMT</pubDate>
-            <description><![CDATA[Show HN: WalkThru – a better way of explaining code on the web]]></description>
         </item>
     </channel>
 </rss>
