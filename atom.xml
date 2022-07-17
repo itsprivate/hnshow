@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-17T12:50:26.340Z</updated>
+    <updated>2022-07-17T13:17:39.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于下载DALL-E 2图像及其提示的Chrome扩展程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32126368</id>
+        <link href="https://news.ycombinator.com/item?id=32126368"/>
+        <updated>2022-07-17T12:59:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Chrome extension for downloading DALL·E 2 images with their prompts]]></summary>
+        <author>
+            <name>arrow7000</name>
+            <uri>https://news.ycombinator.com/user?id=arrow7000</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[铁威，用最先进的ML实现稳定的生产力
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>harunsasmaz</name>
             <uri>https://news.ycombinator.com/user?id=harunsasmaz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Oracle Jet的GUI任务
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31848271</id>
-        <link href="https://news.ycombinator.com/item?id=31848271"/>
-        <updated>2022-06-23T12:46:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GUI Tasks with Oracle Jet]]></summary>
-        <author>
-            <name>zprogrammer</name>
-            <uri>https://news.ycombinator.com/user?id=zprogrammer</uri>
         </author>
     </entry>
 </feed>
