@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 17 Jul 2022 13:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 15:50:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個在你的Google Drive上託管圖片和媒體的小工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32127795</link>
+            <guid>https://news.ycombinator.com/item?id=32127795</guid>
+            <pubDate>Sun, 17 Jul 2022 15:43:50 GMT</pubDate>
+            <description><![CDATA[Show HN: A little tool to host images and media on your Google Drive]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Snordle - Wordle，但輸入是一個蛇的遊戲
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32127786</link>
+            <guid>https://news.ycombinator.com/item?id=32127786</guid>
+            <pubDate>Sun, 17 Jul 2022 15:42:37 GMT</pubDate>
+            <description><![CDATA[Show HN: Snordle – Wordle, but input is a game of snake]]></description>
+        </item>
         <item>
             <title><![CDATA[用於下載DALL-E 2圖像及其提示的Chrome擴展程序
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31850521</guid>
             <pubDate>Thu, 23 Jun 2022 15:30:53 GMT</pubDate>
             <description><![CDATA[Show HN: Try Copilot in Vim in Docker]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們從一個網頁上生成社會媒體帖子
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31849635</link>
-            <guid>https://news.ycombinator.com/item?id=31849635</guid>
-            <pubDate>Thu, 23 Jun 2022 14:32:28 GMT</pubDate>
-            <description><![CDATA[Show HN: We generate Social Media Posts from a webpage]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tickler，Go庫，用於在後臺排隊和處理工作。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31849331</link>
-            <guid>https://news.ycombinator.com/item?id=31849331</guid>
-            <pubDate>Thu, 23 Jun 2022 14:08:23 GMT</pubDate>
-            <description><![CDATA[Show HN: Tickler, Go library to enqueue and process jobs in background]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-17T13:17:39.851Z</updated>
+    <updated>2022-07-17T15:50:04.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個在你的Google Drive上託管圖片和媒體的小工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32127795</id>
+        <link href="https://news.ycombinator.com/item?id=32127795"/>
+        <updated>2022-07-17T15:43:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A little tool to host images and media on your Google Drive]]></summary>
+        <author>
+            <name>HugoDz</name>
+            <uri>https://news.ycombinator.com/user?id=HugoDz</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snordle - Wordle，但輸入是一個蛇的遊戲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32127786</id>
+        <link href="https://news.ycombinator.com/item?id=32127786"/>
+        <updated>2022-07-17T15:42:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Snordle – Wordle, but input is a game of snake]]></summary>
+        <author>
+            <name>ivankuz</name>
+            <uri>https://news.ycombinator.com/user?id=ivankuz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於下載DALL-E 2圖像及其提示的Chrome擴展程序
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mg</name>
             <uri>https://news.ycombinator.com/user?id=mg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們從一個網頁上生成社會媒體帖子
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31849635</id>
-        <link href="https://news.ycombinator.com/item?id=31849635"/>
-        <updated>2022-06-23T14:32:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We generate Social Media Posts from a webpage]]></summary>
-        <author>
-            <name>Discere</name>
-            <uri>https://news.ycombinator.com/user?id=Discere</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tickler，Go庫，用於在後臺排隊和處理工作。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31849331</id>
-        <link href="https://news.ycombinator.com/item?id=31849331"/>
-        <updated>2022-06-23T14:08:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tickler, Go library to enqueue and process jobs in background]]></summary>
-        <author>
-            <name>harunsasmaz</name>
-            <uri>https://news.ycombinator.com/user?id=harunsasmaz</uri>
         </author>
     </entry>
 </feed>
