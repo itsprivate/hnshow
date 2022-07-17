@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-17T10:29:45.552Z</updated>
+    <updated>2022-07-17T11:47:49.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將一些數字相乘併為你輸出唯一的一個數字
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32125926</id>
+        <link href="https://news.ycombinator.com/item?id=32125926"/>
+        <updated>2022-07-17T11:31:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Multiply some numbers and output unique one for you]]></summary>
+        <author>
+            <name>Mylloon</name>
+            <uri>https://news.ycombinator.com/user?id=Mylloon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MechKeebs - 發現你的下一個機械鍵盤的在線社區
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32125888</id>
+        <link href="https://news.ycombinator.com/item?id=32125888"/>
+        <updated>2022-07-17T11:20:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MechKeebs – Online community to discover your next mechanical keyboard]]></summary>
+        <author>
+            <name>pzrsa</name>
+            <uri>https://news.ycombinator.com/user?id=pzrsa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IOK - 用於檢測網絡釣魚工具包的開放規則集和DSL
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>vonadz</name>
             <uri>https://news.ycombinator.com/user?id=vonadz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wielder - 在你的Obsidian文檔中編寫和評估Clojure代碼
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31846474</id>
-        <link href="https://news.ycombinator.com/item?id=31846474"/>
-        <updated>2022-06-23T08:36:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Wielder – Write and evaluate Clojure code in your Obsidian documents]]></summary>
-        <author>
-            <name>diggan</name>
-            <uri>https://news.ycombinator.com/user?id=diggan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只需幾行代碼就能整合ONDC
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31846156</id>
-        <link href="https://news.ycombinator.com/item?id=31846156"/>
-        <updated>2022-06-23T07:36:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Integrate ONDC with just a few lines of code]]></summary>
-        <author>
-            <name>ukrocks007</name>
-            <uri>https://news.ycombinator.com/user?id=ukrocks007</uri>
         </author>
     </entry>
 </feed>
