@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 16 Jul 2022 23:27:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 02:39:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[dpScreenOCR - 一个识别屏幕上文字的程序
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32123437</link>
+            <guid>https://news.ycombinator.com/item?id=32123437</guid>
+            <pubDate>Sun, 17 Jul 2022 01:05:28 GMT</pubDate>
+            <description><![CDATA[Show HN: dpScreenOCR – a program to recognize text on the screen]]></description>
+        </item>
         <item>
             <title><![CDATA[一个简单语言的编译器和虚拟机，只有150行代码
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31844064</guid>
             <pubDate>Thu, 23 Jun 2022 01:21:15 GMT</pubDate>
             <description><![CDATA[Show HN: WalkThru – a better way of explaining code on the web]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Shopify的无头商务栈现在是GA（Hydrogen和Oxygen）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31842658</link>
-            <guid>https://news.ycombinator.com/item?id=31842658</guid>
-            <pubDate>Wed, 22 Jun 2022 22:28:14 GMT</pubDate>
-            <description><![CDATA[Show HN: Shopify's headless commerce stack now GA (Hydrogen and Oxygen)]]></description>
         </item>
     </channel>
 </rss>

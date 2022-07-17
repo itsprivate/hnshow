@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-16T23:27:16.751Z</updated>
+    <updated>2022-07-17T02:39:03.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[dpScreenOCR - 一个识别屏幕上文字的程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32123437</id>
+        <link href="https://news.ycombinator.com/item?id=32123437"/>
+        <updated>2022-07-17T01:05:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: dpScreenOCR – a program to recognize text on the screen]]></summary>
+        <author>
+            <name>danpla</name>
+            <uri>https://news.ycombinator.com/user?id=danpla</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个简单语言的编译器和虚拟机，只有150行代码
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>anthonygore</name>
             <uri>https://news.ycombinator.com/user?id=anthonygore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shopify的无头商务栈现在是GA（Hydrogen和Oxygen）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31842658</id>
-        <link href="https://news.ycombinator.com/item?id=31842658"/>
-        <updated>2022-06-22T22:28:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Shopify's headless commerce stack now GA (Hydrogen and Oxygen)]]></summary>
-        <author>
-            <name>davecyen</name>
-            <uri>https://news.ycombinator.com/user?id=davecyen</uri>
         </author>
     </entry>
 </feed>
