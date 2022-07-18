@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 18 Jul 2022 09:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 10:37:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[流行的人工智能研究论文
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32136553</link>
+            <guid>https://news.ycombinator.com/item?id=32136553</guid>
+            <pubDate>Mon, 18 Jul 2022 10:28:08 GMT</pubDate>
+            <description><![CDATA[Show HN: Trending AI Research Papers]]></description>
+        </item>
         <item>
             <title><![CDATA[PubKey--在匿名的公共空间进行私密交流
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31857905</guid>
             <pubDate>Fri, 24 Jun 2022 04:46:53 GMT</pubDate>
             <description><![CDATA[Show HN: A subplot manager for intuitive layouts in Matplotlib]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PipeRider，数据可靠性自动化工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31857689</link>
-            <guid>https://news.ycombinator.com/item?id=31857689</guid>
-            <pubDate>Fri, 24 Jun 2022 04:02:54 GMT</pubDate>
-            <description><![CDATA[Show HN: PipeRider, data reliability automated tool]]></description>
         </item>
     </channel>
 </rss>

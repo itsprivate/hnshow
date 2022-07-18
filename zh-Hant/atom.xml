@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-18T09:32:16.219Z</updated>
+    <updated>2022-07-18T10:37:45.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[流行的人工智能研究論文
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32136553</id>
+        <link href="https://news.ycombinator.com/item?id=32136553"/>
+        <updated>2022-07-18T10:28:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Trending AI Research Papers]]></summary>
+        <author>
+            <name>vpj</name>
+            <uri>https://news.ycombinator.com/user?id=vpj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PubKey--在匿名的公共空間進行私密交流
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ponnhide</name>
             <uri>https://news.ycombinator.com/user?id=ponnhide</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PipeRider，數據可靠性自動化工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31857689</id>
-        <link href="https://news.ycombinator.com/item?id=31857689"/>
-        <updated>2022-06-24T04:02:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PipeRider, data reliability automated tool]]></summary>
-        <author>
-            <name>catcatcatcat</name>
-            <uri>https://news.ycombinator.com/user?id=catcatcatcat</uri>
         </author>
     </entry>
 </feed>
