@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 18 Jul 2022 07:45:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 07:58:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Qwikdraft。为你的画作发声
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32135720</link>
+            <guid>https://news.ycombinator.com/item?id=32135720</guid>
+            <pubDate>Mon, 18 Jul 2022 07:50:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Qwikdraft: Voicefy Your Drawings]]></description>
+        </item>
         <item>
             <title><![CDATA[Locofy.ai - 将Figma设计变成代码。React, React Native, HTML-CSS
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31855922</guid>
             <pubDate>Thu, 23 Jun 2022 22:34:16 GMT</pubDate>
             <description><![CDATA[Show HN: Explore remote SQLite databases over SSH]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用Copper + Tailwind的Hacker News克隆版
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31855894</link>
-            <guid>https://news.ycombinator.com/item?id=31855894</guid>
-            <pubDate>Thu, 23 Jun 2022 22:31:21 GMT</pubDate>
-            <description><![CDATA[Show HN: Hacker News clone using Copper + Tailwind]]></description>
         </item>
     </channel>
 </rss>
