@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-18T06:39:29.391Z</updated>
+    <updated>2022-07-18T07:45:45.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Locofy.ai - 将Figma设计变成代码。React, React Native, HTML-CSS
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32135638</id>
+        <link href="https://news.ycombinator.com/item?id=32135638"/>
+        <updated>2022-07-18T07:31:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Locofy.ai – Turn Figma Designs into Code: React, React Native, HTML-CSS]]></summary>
+        <author>
+            <name>honey_m</name>
+            <uri>https://news.ycombinator.com/user?id=honey_m</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从Kindle获取屏幕时间数据
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tusharsoni</name>
             <uri>https://news.ycombinator.com/user?id=tusharsoni</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nerd Crawler - 我们监测原创漫画艺术网站，所以你不必担心。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31855732</id>
-        <link href="https://news.ycombinator.com/item?id=31855732"/>
-        <updated>2022-06-23T22:10:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Nerd Crawler – we monitor original comic art sites so you don't have to]]></summary>
-        <author>
-            <name>chptung</name>
-            <uri>https://news.ycombinator.com/user?id=chptung</uri>
         </author>
     </entry>
 </feed>
