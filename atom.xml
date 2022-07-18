@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-18T09:02:12.557Z</updated>
+    <updated>2022-07-18T09:32:16.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PubKey--在匿名的公共空间进行私密交流
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32136202</id>
+        <link href="https://news.ycombinator.com/item?id=32136202"/>
+        <updated>2022-07-18T09:23:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PubKey – Communicate Privately in Anonymous Public Spaces]]></summary>
+        <author>
+            <name>popcalc</name>
+            <uri>https://news.ycombinator.com/user?id=popcalc</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果VS Code有一个以数据为中心的IDE兄弟姐妹，那会是什么样子？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32136121</id>
+        <link href="https://news.ycombinator.com/item?id=32136121"/>
+        <updated>2022-07-18T09:09:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: If VS Code had a data-centric IDE sibling, what would that look like?]]></summary>
+        <author>
+            <name>jonathan_re</name>
+            <uri>https://news.ycombinator.com/user?id=jonathan_re</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如果VS Code有一个以数据为中心的IDE兄弟姐妹，那会是什么样子？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>catcatcatcat</name>
             <uri>https://news.ycombinator.com/user?id=catcatcatcat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简单的徽章--你最喜欢的Shield.io徽章上的简单图标
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31857414</id>
-        <link href="https://news.ycombinator.com/item?id=31857414"/>
-        <updated>2022-06-24T03:16:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Simple Badges – Simple Icons on Your Favorite Shields.io Badges]]></summary>
-        <author>
-            <name>devStorms</name>
-            <uri>https://news.ycombinator.com/user?id=devStorms</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[勇敢的Goggle，将政治中间派的新闻来源剔除。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31857270</id>
-        <link href="https://news.ycombinator.com/item?id=31857270"/>
-        <updated>2022-06-24T02:45:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Brave Goggle that upranks news sources that are politically centrist]]></summary>
-        <author>
-            <name>upwardbound</name>
-            <uri>https://news.ycombinator.com/user?id=upwardbound</uri>
         </author>
     </entry>
 </feed>
