@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-17T22:47:26.096Z</updated>
+    <updated>2022-07-18T02:34:53.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Typograms，类似Markdown的ASCII图的渲染器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32133345</id>
+        <link href="https://news.ycombinator.com/item?id=32133345"/>
+        <updated>2022-07-18T01:05:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Typograms, Markdown-like renderer for ASCII diagrams]]></summary>
+        <author>
+            <name>sgoto</name>
+            <uri>https://news.ycombinator.com/user?id=sgoto</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[构建应用程序，并使您的谷歌表格自动化。不需要代码
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32133323</id>
+        <link href="https://news.ycombinator.com/item?id=32133323"/>
+        <updated>2022-07-18T01:02:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build apps and automate your Google Sheets. No-code required]]></summary>
+        <author>
+            <name>bl0ssom</name>
+            <uri>https://news.ycombinator.com/user?id=bl0ssom</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[读懂特朗普在推特上的 "真相"，为支持者和讨厌者服务
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ezekg</name>
             <uri>https://news.ycombinator.com/user?id=ezekg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过C2V将DOOM从C语言翻译成V语言，在1s下构建并运行它
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31855315</id>
-        <link href="https://news.ycombinator.com/item?id=31855315"/>
-        <updated>2022-06-23T21:22:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Translating DOOM from C to V via C2V, building under 1s and running it]]></summary>
-        <author>
-            <name>amedvednikov</name>
-            <uri>https://news.ycombinator.com/user?id=amedvednikov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lexman人工播客
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31855192</id>
-        <link href="https://news.ycombinator.com/item?id=31855192"/>
-        <updated>2022-06-23T21:10:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lexman Artificial Podcast]]></summary>
-        <author>
-            <name>almostdigital</name>
-            <uri>https://news.ycombinator.com/user?id=almostdigital</uri>
         </author>
     </entry>
 </feed>

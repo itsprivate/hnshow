@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 17 Jul 2022 22:47:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 02:34:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Typograms，類似Markdown的ASCII圖的渲染器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32133345</link>
+            <guid>https://news.ycombinator.com/item?id=32133345</guid>
+            <pubDate>Mon, 18 Jul 2022 01:05:37 GMT</pubDate>
+            <description><![CDATA[Show HN: Typograms, Markdown-like renderer for ASCII diagrams]]></description>
+        </item>
+        <item>
+            <title><![CDATA[構建應用程序，並使您的谷歌表格自動化。不需要代碼
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32133323</link>
+            <guid>https://news.ycombinator.com/item?id=32133323</guid>
+            <pubDate>Mon, 18 Jul 2022 01:02:22 GMT</pubDate>
+            <description><![CDATA[Show HN: Build apps and automate your Google Sheets. No-code required]]></description>
+        </item>
         <item>
             <title><![CDATA[讀懂特朗普在推特上的 "真相"，為支持者和討厭者服務
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31855521</guid>
             <pubDate>Thu, 23 Jun 2022 21:43:29 GMT</pubDate>
             <description><![CDATA[Show HN: request_migrations – request and response migrations for Rails APIs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通過C2V將DOOM從C語言翻譯成V語言，在1s下構建並運行它
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31855315</link>
-            <guid>https://news.ycombinator.com/item?id=31855315</guid>
-            <pubDate>Thu, 23 Jun 2022 21:22:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Translating DOOM from C to V via C2V, building under 1s and running it]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lexman人工播客
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31855192</link>
-            <guid>https://news.ycombinator.com/item?id=31855192</guid>
-            <pubDate>Thu, 23 Jun 2022 21:10:02 GMT</pubDate>
-            <description><![CDATA[Show HN: Lexman Artificial Podcast]]></description>
         </item>
     </channel>
 </rss>
