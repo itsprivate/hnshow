@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-18T02:34:53.447Z</updated>
+    <updated>2022-07-18T04:07:55.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個只是另一個Cron的替代品，但有更多的功能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32134011</id>
+        <link href="https://news.ycombinator.com/item?id=32134011"/>
+        <updated>2022-07-18T02:46:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A just another Cron alternative but with much more capabilities]]></summary>
+        <author>
+            <name>yohamta</name>
+            <uri>https://news.ycombinator.com/user?id=yohamta</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Typograms，類似Markdown的ASCII圖的渲染器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>aragorg</name>
             <uri>https://news.ycombinator.com/user?id=aragorg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[request_migrations - Rails APIs的請求和響應遷移
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31855521</id>
-        <link href="https://news.ycombinator.com/item?id=31855521"/>
-        <updated>2022-06-23T21:43:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: request_migrations – request and response migrations for Rails APIs]]></summary>
-        <author>
-            <name>ezekg</name>
-            <uri>https://news.ycombinator.com/user?id=ezekg</uri>
         </author>
     </entry>
 </feed>

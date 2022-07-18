@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 18 Jul 2022 02:34:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 04:07:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个只是另一个Cron的替代品，但有更多的功能
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32134011</link>
+            <guid>https://news.ycombinator.com/item?id=32134011</guid>
+            <pubDate>Mon, 18 Jul 2022 02:46:59 GMT</pubDate>
+            <description><![CDATA[Show HN: A just another Cron alternative but with much more capabilities]]></description>
+        </item>
         <item>
             <title><![CDATA[Typograms，类似Markdown的ASCII图的渲染器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31855603</guid>
             <pubDate>Thu, 23 Jun 2022 21:54:11 GMT</pubDate>
             <description><![CDATA[Show HN: Othlond – feed your curiosity, with purpose]]></description>
-        </item>
-        <item>
-            <title><![CDATA[request_migrations - Rails APIs的请求和响应迁移
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31855521</link>
-            <guid>https://news.ycombinator.com/item?id=31855521</guid>
-            <pubDate>Thu, 23 Jun 2022 21:43:29 GMT</pubDate>
-            <description><![CDATA[Show HN: request_migrations – request and response migrations for Rails APIs]]></description>
         </item>
     </channel>
 </rss>
