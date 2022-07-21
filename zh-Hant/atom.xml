@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-21T15:57:22.524Z</updated>
+    <updated>2022-07-21T16:48:11.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Call4U - 為您處理預約
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32181269</id>
+        <link href="https://news.ycombinator.com/item?id=32181269"/>
+        <updated>2022-07-21T16:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Call4U – Handling Appointments for You]]></summary>
+        <author>
+            <name>Gelubt</name>
+            <uri>https://news.ycombinator.com/user?id=Gelubt</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果公司的動畫CPU編程平臺
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32181251</id>
+        <link href="https://news.ycombinator.com/item?id=32181251"/>
+        <updated>2022-07-21T16:21:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Animation CPU programming platform for Apple]]></summary>
+        <author>
+            <name>ellis0n</name>
+            <uri>https://news.ycombinator.com/user?id=ellis0n</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[恐怖的視野。程序員的占星術
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32181081</id>
+        <link href="https://news.ycombinator.com/item?id=32181081"/>
+        <updated>2022-07-21T16:06:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: HorrorScope: Astrology for Programmers]]></summary>
+        <author>
+            <name>shantnutiwari</name>
+            <uri>https://news.ycombinator.com/user?id=shantnutiwari</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我使用WebAssembly為Awk、Sed、Grep建立了交互式遊樂場。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32181011</id>
+        <link href="https://news.ycombinator.com/item?id=32181011"/>
+        <updated>2022-07-21T16:02:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built interactive playgrounds for Awk, Sed, Grep using WebAssembly]]></summary>
+        <author>
+            <name>raboukhalil</name>
+            <uri>https://news.ycombinator.com/user?id=raboukhalil</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PodSnacks (CliffsNotes for Podcasts)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32181000</id>
+        <link href="https://news.ycombinator.com/item?id=32181000"/>
+        <updated>2022-07-21T16:01:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PodSnacks (CliffsNotes for Podcasts)]]></summary>
+        <author>
+            <name>siruva07</name>
+            <uri>https://news.ycombinator.com/user?id=siruva07</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個可視化的測試跟蹤器來發現更多的bug
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>spullara</name>
             <uri>https://news.ycombinator.com/user?id=spullara</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特贊助鏈接的廣告數量（關閉廣告屏蔽）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31870010</id>
-        <link href="https://news.ycombinator.com/item?id=31870010"/>
-        <updated>2022-06-24T22:02:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Amount of ads on Twitter sponsored link (turn off adblock)]]></summary>
-        <author>
-            <name>bluehorseray</name>
-            <uri>https://news.ycombinator.com/user?id=bluehorseray</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coldbrew - 自釀啤酒桶的網絡圖形用戶界面
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31868780</id>
-        <link href="https://news.ycombinator.com/item?id=31868780"/>
-        <updated>2022-06-24T20:20:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Coldbrew – A Web GUI for Homebrew Cask]]></summary>
-        <author>
-            <name>sarimabbas</name>
-            <uri>https://news.ycombinator.com/user?id=sarimabbas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[輕鬆地將WARC（網絡檔案）轉換為Parquet，然後用DuckDB進行查詢
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31867179</id>
-        <link href="https://news.ycombinator.com/item?id=31867179"/>
-        <updated>2022-06-24T18:26:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Easily Convert WARC (Web Archive) into Parquet, Then Query with DuckDB]]></summary>
-        <author>
-            <name>llambda</name>
-            <uri>https://news.ycombinator.com/user?id=llambda</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyCircTools更新 -創建電路的Python庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31866823</id>
-        <link href="https://news.ycombinator.com/item?id=31866823"/>
-        <updated>2022-06-24T18:07:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PyCircTools update -A Python library to create circuits]]></summary>
-        <author>
-            <name>LovetheFrogs</name>
-            <uri>https://news.ycombinator.com/user?id=LovetheFrogs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apollo - 用於查詢區塊鏈數據的ETL工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31866377</id>
-        <link href="https://news.ycombinator.com/item?id=31866377"/>
-        <updated>2022-06-24T17:40:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Apollo – ETL tool for querying blockchain data]]></summary>
-        <author>
-            <name>jonasbostoen</name>
-            <uri>https://news.ycombinator.com/user?id=jonasbostoen</uri>
         </author>
     </entry>
 </feed>
