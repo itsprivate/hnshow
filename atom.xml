@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-21T16:48:11.932Z</updated>
+    <updated>2022-07-21T17:48:31.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Sudopad V2 - 现在您可以保存您的垫子并创建私人板块
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32182190</id>
+        <link href="https://news.ycombinator.com/item?id=32182190"/>
+        <updated>2022-07-21T17:27:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sudopad V2 – Now you can save your pads and create private boards]]></summary>
+        <author>
+            <name>ishanr</name>
+            <uri>https://news.ycombinator.com/user?id=ishanr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Call4U - 为您处理预约
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ram-pasala</name>
             <uri>https://news.ycombinator.com/user?id=ram-pasala</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于OpenAI的CLIP的私人照片搜索应用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31871056</id>
-        <link href="https://news.ycombinator.com/item?id=31871056"/>
-        <updated>2022-06-25T00:04:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Private photo search app based on OpenAI's CLIP]]></summary>
-        <author>
-            <name>spullara</name>
-            <uri>https://news.ycombinator.com/user?id=spullara</uri>
         </author>
     </entry>
 </feed>
