@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 21 Jul 2022 11:29:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 11:47:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[初创企业的SEO解决方案
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32178039</link>
+            <guid>https://news.ycombinator.com/item?id=32178039</guid>
+            <pubDate>Thu, 21 Jul 2022 11:22:00 GMT</pubDate>
+            <description><![CDATA[Show HN: An SEO Solution for Startups]]></description>
+        </item>
         <item>
             <title><![CDATA[我们已经为K8s建立了免费的云计算成本监控模块
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31860478</guid>
             <pubDate>Fri, 24 Jun 2022 12:00:52 GMT</pubDate>
             <description><![CDATA[Show HN: A full-stack Clojure/Script dialect with managed client/server datasync]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Webpc - 每月2美元的有线VPN，没有记录
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31860449</link>
-            <guid>https://news.ycombinator.com/item?id=31860449</guid>
-            <pubDate>Fri, 24 Jun 2022 11:57:26 GMT</pubDate>
-            <description><![CDATA[Show HN: Webpc – 2$ per month wireguared VPN, no logs]]></description>
         </item>
     </channel>
 </rss>

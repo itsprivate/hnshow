@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-21T11:29:32.565Z</updated>
+    <updated>2022-07-21T11:47:00.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[初創企業的SEO解決方案
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32178039</id>
+        <link href="https://news.ycombinator.com/item?id=32178039"/>
+        <updated>2022-07-21T11:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An SEO Solution for Startups]]></summary>
+        <author>
+            <name>pyeargin</name>
+            <uri>https://news.ycombinator.com/user?id=pyeargin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們已經為K8s建立了免費的雲計算成本監控模塊
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dustingetz</name>
             <uri>https://news.ycombinator.com/user?id=dustingetz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webpc - 每月2美元的有線VPN，沒有記錄
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31860449</id>
-        <link href="https://news.ycombinator.com/item?id=31860449"/>
-        <updated>2022-06-24T11:57:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Webpc – 2$ per month wireguared VPN, no logs]]></summary>
-        <author>
-            <name>hcalium</name>
-            <uri>https://news.ycombinator.com/user?id=hcalium</uri>
         </author>
     </entry>
 </feed>
