@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-21T11:47:00.876Z</updated>
+    <updated>2022-07-21T11:57:41.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[新餐厅发现通知书
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32178253</id>
+        <link href="https://news.ycombinator.com/item?id=32178253"/>
+        <updated>2022-07-21T11:52:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: New Restaurants Discovery Notifier]]></summary>
+        <author>
+            <name>billylo</name>
+            <uri>https://news.ycombinator.com/user?id=billylo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初创企业的SEO解决方案
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tantaman</name>
             <uri>https://news.ycombinator.com/user?id=tantaman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个全栈式的Clojure/Script方言，具有可管理的客户端/服务器数据同步功能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31860478</id>
-        <link href="https://news.ycombinator.com/item?id=31860478"/>
-        <updated>2022-06-24T12:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A full-stack Clojure/Script dialect with managed client/server datasync]]></summary>
-        <author>
-            <name>dustingetz</name>
-            <uri>https://news.ycombinator.com/user?id=dustingetz</uri>
         </author>
     </entry>
 </feed>
