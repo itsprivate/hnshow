@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-21T09:37:38.321Z</updated>
+    <updated>2022-07-21T10:01:49.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Notepin - 極簡主義的匿名博客平臺
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32177406</id>
+        <link href="https://news.ycombinator.com/item?id=32177406"/>
+        <updated>2022-07-21T09:51:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Notepin – Minimalist, anonymous blogging platform]]></summary>
+        <author>
+            <name>okozzie</name>
+            <uri>https://news.ycombinator.com/user?id=okozzie</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用WebAssembly將圖像壓縮到任何大小
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rgmarinho</name>
             <uri>https://news.ycombinator.com/user?id=rgmarinho</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Domfetch.com - 免費查找有歷史記錄的過期域名的工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31860123</id>
-        <link href="https://news.ycombinator.com/item?id=31860123"/>
-        <updated>2022-06-24T11:16:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Domfetch.com - free tool to find expired domains with history]]></summary>
-        <author>
-            <name>dutchbrit</name>
-            <uri>https://news.ycombinator.com/user?id=dutchbrit</uri>
         </author>
     </entry>
 </feed>
