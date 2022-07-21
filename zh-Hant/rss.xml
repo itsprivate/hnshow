@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 21 Jul 2022 13:57:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 14:42:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Pg_jsonschema - 一個用於JSON驗證的Postgres擴展。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32179856</link>
+            <guid>https://news.ycombinator.com/item?id=32179856</guid>
+            <pubDate>Thu, 21 Jul 2022 14:31:20 GMT</pubDate>
+            <description><![CDATA[Show HN: Pg_jsonschema – A Postgres extension for JSON validation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Looria - 一個爛番茄式的產品平臺
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32179797</link>
+            <guid>https://news.ycombinator.com/item?id=32179797</guid>
+            <pubDate>Thu, 21 Jul 2022 14:25:08 GMT</pubDate>
+            <description><![CDATA[Show HN: Looria – A Rotten Tomatoes-style platform for products]]></description>
+        </item>
+        <item>
+            <title><![CDATA[視覺化的最重要的物理學家
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32179728</link>
+            <guid>https://news.ycombinator.com/item?id=32179728</guid>
+            <pubDate>Thu, 21 Jul 2022 14:19:23 GMT</pubDate>
+            <description><![CDATA[Show HN: Visualizing the Most Important Physicists]]></description>
+        </item>
         <item>
             <title><![CDATA[獨立作者的Linktree替代方案
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31864265</guid>
             <pubDate>Fri, 24 Jun 2022 15:56:08 GMT</pubDate>
             <description><![CDATA[Show HN: Generative Art Platform: Go Explore]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們為多模態機器人行為訓練了一個（迷你）GPT
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31863974</link>
-            <guid>https://news.ycombinator.com/item?id=31863974</guid>
-            <pubDate>Fri, 24 Jun 2022 15:43:19 GMT</pubDate>
-            <description><![CDATA[Show HN: We trained a (mini) GPT for multi-modal robot behaviors]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我開發了一種快速的通用排序算法
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31845994</link>
-            <guid>https://news.ycombinator.com/item?id=31845994</guid>
-            <pubDate>Thu, 23 Jun 2022 07:05:40 GMT</pubDate>
-            <description><![CDATA[Show HN: I developed a fast general purpose sorting algorithm]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Splitwise的替代品，更簡約，沒有廣告，沒有賬戶
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31863691</link>
-            <guid>https://news.ycombinator.com/item?id=31863691</guid>
-            <pubDate>Fri, 24 Jun 2022 15:28:44 GMT</pubDate>
-            <description><![CDATA[Show HN: An alternative to Splitwise, more minimalist, no ads, no account]]></description>
         </item>
     </channel>
 </rss>

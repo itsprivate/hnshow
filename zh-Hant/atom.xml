@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-21T13:57:26.041Z</updated>
+    <updated>2022-07-21T14:42:07.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Pg_jsonschema - 一個用於JSON驗證的Postgres擴展。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32179856</id>
+        <link href="https://news.ycombinator.com/item?id=32179856"/>
+        <updated>2022-07-21T14:31:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pg_jsonschema – A Postgres extension for JSON validation]]></summary>
+        <author>
+            <name>oliverrice</name>
+            <uri>https://news.ycombinator.com/user?id=oliverrice</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looria - 一個爛番茄式的產品平臺
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32179797</id>
+        <link href="https://news.ycombinator.com/item?id=32179797"/>
+        <updated>2022-07-21T14:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Looria – A Rotten Tomatoes-style platform for products]]></summary>
+        <author>
+            <name>hubraumhugo</name>
+            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[視覺化的最重要的物理學家
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32179728</id>
+        <link href="https://news.ycombinator.com/item?id=32179728"/>
+        <updated>2022-07-21T14:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Visualizing the Most Important Physicists]]></summary>
+        <author>
+            <name>camjohnson26</name>
+            <uri>https://news.ycombinator.com/user?id=camjohnson26</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[獨立作者的Linktree替代方案
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>zhl146</name>
             <uri>https://news.ycombinator.com/user?id=zhl146</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們為多模態機器人行為訓練了一個（迷你）GPT
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31863974</id>
-        <link href="https://news.ycombinator.com/item?id=31863974"/>
-        <updated>2022-06-24T15:43:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We trained a (mini) GPT for multi-modal robot behaviors]]></summary>
-        <author>
-            <name>polygamous_bat</name>
-            <uri>https://news.ycombinator.com/user?id=polygamous_bat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我開發了一種快速的通用排序算法
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31845994</id>
-        <link href="https://news.ycombinator.com/item?id=31845994"/>
-        <updated>2022-06-23T07:05:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I developed a fast general purpose sorting algorithm]]></summary>
-        <author>
-            <name>fangbingchen</name>
-            <uri>https://news.ycombinator.com/user?id=fangbingchen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Splitwise的替代品，更簡約，沒有廣告，沒有賬戶
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31863691</id>
-        <link href="https://news.ycombinator.com/item?id=31863691"/>
-        <updated>2022-06-24T15:28:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An alternative to Splitwise, more minimalist, no ads, no account]]></summary>
-        <author>
-            <name>scastiel</name>
-            <uri>https://news.ycombinator.com/user?id=scastiel</uri>
         </author>
     </entry>
 </feed>
