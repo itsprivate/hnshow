@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-21T17:48:31.727Z</updated>
+    <updated>2022-07-21T18:42:51.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[图像到CRT
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32182774</id>
+        <link href="https://news.ycombinator.com/item?id=32182774"/>
+        <updated>2022-07-21T18:15:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Image to CRT]]></summary>
+        <author>
+            <name>atum47</name>
+            <uri>https://news.ycombinator.com/user?id=atum47</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Banana.dev用于机器学习推理的无服务器GPU
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32182767</id>
+        <link href="https://news.ycombinator.com/item?id=32182767"/>
+        <updated>2022-07-21T18:15:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Banana.dev Serverless GPUs for Machine Learning Inference]]></summary>
+        <author>
+            <name>votick</name>
+            <uri>https://news.ycombinator.com/user?id=votick</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JAMSTACK内的浏览器分析功能
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32182674</id>
+        <link href="https://news.ycombinator.com/item?id=32182674"/>
+        <updated>2022-07-21T18:05:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: In-browser analytics within JAMSTACK]]></summary>
+        <author>
+            <name>dirslashls</name>
+            <uri>https://news.ycombinator.com/user?id=dirslashls</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sudopad V2 - 现在您可以保存您的垫子并创建私人板块
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>chkas</name>
             <uri>https://news.ycombinator.com/user?id=chkas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git-bug的可重复使用的数据模型
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31874192</id>
-        <link href="https://news.ycombinator.com/item?id=31874192"/>
-        <updated>2022-06-25T10:51:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Git-bug's reusable data model]]></summary>
-        <author>
-            <name>michaelmure</name>
-            <uri>https://news.ycombinator.com/user?id=michaelmure</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[肢解 - 扫描记忆中的秘密和有趣的信息
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31873211</id>
-        <link href="https://news.ycombinator.com/item?id=31873211"/>
-        <updated>2022-06-25T07:07:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dismember – Scan memory for secrets and interesting information]]></summary>
-        <author>
-            <name>liamg</name>
-            <uri>https://news.ycombinator.com/user?id=liamg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑曜石--现在在网络上使用Neverinstall软件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31873325</id>
-        <link href="https://news.ycombinator.com/item?id=31873325"/>
-        <updated>2022-06-25T07:36:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Obsidian – Now on Web with Neverinstall]]></summary>
-        <author>
-            <name>ram-pasala</name>
-            <uri>https://news.ycombinator.com/user?id=ram-pasala</uri>
         </author>
     </entry>
 </feed>
