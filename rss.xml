@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 21 Jul 2022 10:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 11:29:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们已经为K8s建立了免费的云计算成本监控模块
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32177934</link>
+            <guid>https://news.ycombinator.com/item?id=32177934</guid>
+            <pubDate>Thu, 21 Jul 2022 11:07:56 GMT</pubDate>
+            <description><![CDATA[Show HN: We've built FREE cloud cost monitoring module for K8s]]></description>
+        </item>
         <item>
             <title><![CDATA[主动学习作为一种服务，便于数据选择
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31860449</guid>
             <pubDate>Fri, 24 Jun 2022 11:57:26 GMT</pubDate>
             <description><![CDATA[Show HN: Webpc – 2$ per month wireguared VPN, no logs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用视觉密码学的物理钥匙圈
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31860392</link>
-            <guid>https://news.ycombinator.com/item?id=31860392</guid>
-            <pubDate>Fri, 24 Jun 2022 11:49:54 GMT</pubDate>
-            <description><![CDATA[Show HN: Using visual cryptography for physical keyrings]]></description>
         </item>
     </channel>
 </rss>
