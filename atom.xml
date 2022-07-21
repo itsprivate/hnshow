@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-21T13:02:23.831Z</updated>
+    <updated>2022-07-21T13:57:25.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[独立作者的Linktree替代方案
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32179060</id>
+        <link href="https://news.ycombinator.com/item?id=32179060"/>
+        <updated>2022-07-21T13:27:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Linktree alternative for indie authors]]></summary>
+        <author>
+            <name>scastiel</name>
+            <uri>https://news.ycombinator.com/user?id=scastiel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个网站，帮助你把你的生活变成一个游戏和一个故事
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>scastiel</name>
             <uri>https://news.ycombinator.com/user?id=scastiel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Waaard For Login在60秒或更短时间内建立登录流程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31861331</id>
-        <link href="https://news.ycombinator.com/item?id=31861331"/>
-        <updated>2022-06-24T13:20:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Build login flows in 60 seconds or less with Waaard For Login]]></summary>
-        <author>
-            <name>hardwaresofton</name>
-            <uri>https://news.ycombinator.com/user?id=hardwaresofton</uri>
         </author>
     </entry>
 </feed>

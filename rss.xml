@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 21 Jul 2022 13:02:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 13:57:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[独立作者的Linktree替代方案
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32179060</link>
+            <guid>https://news.ycombinator.com/item?id=32179060</guid>
+            <pubDate>Thu, 21 Jul 2022 13:27:25 GMT</pubDate>
+            <description><![CDATA[Show HN: A Linktree alternative for indie authors]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一个网站，帮助你把你的生活变成一个游戏和一个故事
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31863691</guid>
             <pubDate>Fri, 24 Jun 2022 15:28:44 GMT</pubDate>
             <description><![CDATA[Show HN: An alternative to Splitwise, more minimalist, no ads, no account]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Waaard For Login在60秒或更短时间内建立登录流程
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31861331</link>
-            <guid>https://news.ycombinator.com/item?id=31861331</guid>
-            <pubDate>Fri, 24 Jun 2022 13:20:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Build login flows in 60 seconds or less with Waaard For Login]]></description>
         </item>
     </channel>
 </rss>
