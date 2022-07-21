@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 21 Jul 2022 11:57:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 13:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一個網站，幫助你把你的生活變成一個遊戲和一個故事
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32178678</link>
+            <guid>https://news.ycombinator.com/item?id=32178678</guid>
+            <pubDate>Thu, 21 Jul 2022 12:49:57 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a website that helps you turn your life into a game and a story]]></description>
+        </item>
         <item>
             <title><![CDATA[新餐廳發現通知書
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31861331</guid>
             <pubDate>Fri, 24 Jun 2022 13:20:41 GMT</pubDate>
             <description><![CDATA[Show HN: Build login flows in 60 seconds or less with Waaard For Login]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我建立了一個在瀏覽器中運行的反應式ORM
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31861191</link>
-            <guid>https://news.ycombinator.com/item?id=31861191</guid>
-            <pubDate>Fri, 24 Jun 2022 13:09:40 GMT</pubDate>
-            <description><![CDATA[Show HN: I built a reactive ORM that runs in the browser]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-21T11:57:41.345Z</updated>
+    <updated>2022-07-21T13:02:23.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个网站，帮助你把你的生活变成一个游戏和一个故事
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32178678</id>
+        <link href="https://news.ycombinator.com/item?id=32178678"/>
+        <updated>2022-07-21T12:49:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a website that helps you turn your life into a game and a story]]></summary>
+        <author>
+            <name>darrendliang</name>
+            <uri>https://news.ycombinator.com/user?id=darrendliang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新餐厅发现通知书
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hardwaresofton</name>
             <uri>https://news.ycombinator.com/user?id=hardwaresofton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一个在浏览器中运行的反应式ORM
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31861191</id>
-        <link href="https://news.ycombinator.com/item?id=31861191"/>
-        <updated>2022-06-24T13:09:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a reactive ORM that runs in the browser]]></summary>
-        <author>
-            <name>tantaman</name>
-            <uri>https://news.ycombinator.com/user?id=tantaman</uri>
         </author>
     </entry>
 </feed>
