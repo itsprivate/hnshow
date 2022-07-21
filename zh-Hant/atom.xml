@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-21T02:38:54.337Z</updated>
+    <updated>2022-07-21T04:02:48.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為初創企業提供負擔得起的全球薪資表
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32175542</id>
+        <link href="https://news.ycombinator.com/item?id=32175542"/>
+        <updated>2022-07-21T03:45:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Affordable Global Payroll for Startups]]></summary>
+        <author>
+            <name>chessboxer</name>
+            <uri>https://news.ycombinator.com/user?id=chessboxer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個更好的版本控制IAC的方法
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pinehqcom</name>
             <uri>https://news.ycombinator.com/user?id=pinehqcom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[緊張 - "時間處理工具"
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31859629</id>
-        <link href="https://news.ycombinator.com/item?id=31859629"/>
-        <updated>2022-06-24T09:52:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tense - "Time Processing Tool"]]></summary>
-        <author>
-            <name>Animatea</name>
-            <uri>https://news.ycombinator.com/user?id=Animatea</uri>
         </author>
     </entry>
 </feed>
