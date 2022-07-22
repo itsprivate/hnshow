@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 21 Jul 2022 22:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 00:02:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[為數字產品和內容建立一個SaaS市場
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32186804</link>
+            <guid>https://news.ycombinator.com/item?id=32186804</guid>
+            <pubDate>Thu, 21 Jul 2022 23:58:27 GMT</pubDate>
+            <description><![CDATA[Show HN: Building a SaaS Marketplace for Digital Products and Content]]></description>
+        </item>
         <item>
             <title><![CDATA[Scribe，一個用於編寫、運行和生成CI管道的Go庫
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31877584</guid>
             <pubDate>Sat, 25 Jun 2022 18:35:31 GMT</pubDate>
             <description><![CDATA[Show HN: Feather – 90 percent of Bloomberg terminal, for 5 percent of the price]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Unzip-HTTP - 通過HTTP提取文件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31876839</link>
-            <guid>https://news.ycombinator.com/item?id=31876839</guid>
-            <pubDate>Sat, 25 Jun 2022 17:01:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Unzip-HTTP – extract files over HTTP]]></description>
         </item>
     </channel>
 </rss>
