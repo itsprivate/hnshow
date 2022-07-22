@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-22T18:40:52.871Z</updated>
+    <updated>2022-07-22T20:33:40.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我为Megadash做了一个原型--轻松实现可视化分享你的指标
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32196516</id>
+        <link href="https://news.ycombinator.com/item?id=32196516"/>
+        <updated>2022-07-22T20:06:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a prototype for Megadash – easily share your metrics visually]]></summary>
+        <author>
+            <name>kinoro</name>
+            <uri>https://news.ycombinator.com/user?id=kinoro</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacolyte - 一个用NextJS构建的Hacker News阅读器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32196476</id>
+        <link href="https://news.ycombinator.com/item?id=32196476"/>
+        <updated>2022-07-22T20:03:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hacolyte – a Hacker News reader built with NextJS]]></summary>
+        <author>
+            <name>iamdan</name>
+            <uri>https://news.ycombinator.com/user?id=iamdan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SimPer在重新加载时保存你的CSS类别
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>tlarkworthy</name>
             <uri>https://news.ycombinator.com/user?id=tlarkworthy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于健身的开源书籍
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31893618</id>
-        <link href="https://news.ycombinator.com/item?id=31893618"/>
-        <updated>2022-06-27T12:30:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open-Source Book on Fitness]]></summary>
-        <author>
-            <name>mihaildu</name>
-            <uri>https://news.ycombinator.com/user?id=mihaildu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用AI驱动的食品成分分析实现更健康的购物
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31893337</id>
-        <link href="https://news.ycombinator.com/item?id=31893337"/>
-        <updated>2022-06-27T12:02:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: AI powered food ingredient analysis for healthier shopping]]></summary>
-        <author>
-            <name>bbreslin_</name>
-            <uri>https://news.ycombinator.com/user?id=bbreslin_</uri>
         </author>
     </entry>
 </feed>
