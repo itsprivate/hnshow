@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 22 Jul 2022 15:37:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 16:53:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,38 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[通过GitHub行动进行开放API和GraphQL模糊测试
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32193967</link>
+            <guid>https://news.ycombinator.com/item?id=32193967</guid>
+            <pubDate>Fri, 22 Jul 2022 16:37:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Open API and GraphQL Fuzzing via GitHub Actions]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Formie - 一个用纯HTML/JS/CSS制作的开源（WIP）表单网站
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32193896</link>
+            <guid>https://news.ycombinator.com/item?id=32193896</guid>
+            <pubDate>Fri, 22 Jul 2022 16:30:58 GMT</pubDate>
+            <description><![CDATA[Show HN: Formie – an open source (WIP) form website made with pure HTML/JS/CSS]]></description>
+        </item>
+        <item>
+            <title><![CDATA[邮件发送，用TypeScript和React发送邮件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32193506</link>
+            <guid>https://news.ycombinator.com/item?id=32193506</guid>
+            <pubDate>Fri, 22 Jul 2022 16:01:57 GMT</pubDate>
+            <description><![CDATA[Show HN: Mailing, send emails with TypeScript and React]]></description>
+        </item>
+        <item>
+            <title><![CDATA[普罗维登斯，为React提供更好的状态管理
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32193361</link>
+            <guid>https://news.ycombinator.com/item?id=32193361</guid>
+            <pubDate>Fri, 22 Jul 2022 15:54:46 GMT</pubDate>
+            <description><![CDATA[Show HN: Providence, Better State Management for React]]></description>
+        </item>
         <item>
             <title><![CDATA[远程工作就像朝九晚五
 ]]></title>
@@ -4781,38 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31891608</guid>
             <pubDate>Mon, 27 Jun 2022 07:33:11 GMT</pubDate>
             <description><![CDATA[Show HN: Yboard is a multiplayer desktop-like workspace based on CRDT]]></description>
-        </item>
-        <item>
-            <title><![CDATA[游牧时寻找产品替代品的工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31890001</link>
-            <guid>https://news.ycombinator.com/item?id=31890001</guid>
-            <pubDate>Mon, 27 Jun 2022 02:31:12 GMT</pubDate>
-            <description><![CDATA[Show HN: Tool to find product alternatives when nomading]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个纯围棋的帧缓冲控制台查看器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31889025</link>
-            <guid>https://news.ycombinator.com/item?id=31889025</guid>
-            <pubDate>Sun, 26 Jun 2022 23:16:51 GMT</pubDate>
-            <description><![CDATA[Show HN: A framebuffer console viewer, pure Go]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个可以使用的任天堂游戏机背包
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31888348</link>
-            <guid>https://news.ycombinator.com/item?id=31888348</guid>
-            <pubDate>Sun, 26 Jun 2022 21:46:14 GMT</pubDate>
-            <description><![CDATA[Show HN: A Working Nintendo Gameboy Backpack]]></description>
-        </item>
-        <item>
-            <title><![CDATA[街头美食乐--每天猜测街头美食的游戏
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31888327</link>
-            <guid>https://news.ycombinator.com/item?id=31888327</guid>
-            <pubDate>Sun, 26 Jun 2022 21:44:01 GMT</pubDate>
-            <description><![CDATA[Show HN: Street Foodle – a daily guessing game of street food]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-22T15:37:59.312Z</updated>
+    <updated>2022-07-22T16:53:25.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通过GitHub行动进行开放API和GraphQL模糊测试
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32193967</id>
+        <link href="https://news.ycombinator.com/item?id=32193967"/>
+        <updated>2022-07-22T16:37:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open API and GraphQL Fuzzing via GitHub Actions]]></summary>
+        <author>
+            <name>dmitry_dygalo</name>
+            <uri>https://news.ycombinator.com/user?id=dmitry_dygalo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Formie - 一个用纯HTML/JS/CSS制作的开源（WIP）表单网站
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32193896</id>
+        <link href="https://news.ycombinator.com/item?id=32193896"/>
+        <updated>2022-07-22T16:30:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Formie – an open source (WIP) form website made with pure HTML/JS/CSS]]></summary>
+        <author>
+            <name>div72</name>
+            <uri>https://news.ycombinator.com/user?id=div72</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[邮件发送，用TypeScript和React发送邮件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32193506</id>
+        <link href="https://news.ycombinator.com/item?id=32193506"/>
+        <updated>2022-07-22T16:01:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mailing, send emails with TypeScript and React]]></summary>
+        <author>
+            <name>rgbrgb</name>
+            <uri>https://news.ycombinator.com/user?id=rgbrgb</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普罗维登斯，为React提供更好的状态管理
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32193361</id>
+        <link href="https://news.ycombinator.com/item?id=32193361"/>
+        <updated>2022-07-22T15:54:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Providence, Better State Management for React]]></summary>
+        <author>
+            <name>FoxyFoxie</name>
+            <uri>https://news.ycombinator.com/user?id=FoxyFoxie</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[远程工作就像朝九晚五
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>selknam</name>
             <uri>https://news.ycombinator.com/user?id=selknam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[游牧时寻找产品替代品的工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31890001</id>
-        <link href="https://news.ycombinator.com/item?id=31890001"/>
-        <updated>2022-06-27T02:31:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tool to find product alternatives when nomading]]></summary>
-        <author>
-            <name>keooodev</name>
-            <uri>https://news.ycombinator.com/user?id=keooodev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个纯围棋的帧缓冲控制台查看器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31889025</id>
-        <link href="https://news.ycombinator.com/item?id=31889025"/>
-        <updated>2022-06-26T23:16:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A framebuffer console viewer, pure Go]]></summary>
-        <author>
-            <name>cyansmoker</name>
-            <uri>https://news.ycombinator.com/user?id=cyansmoker</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个可以使用的任天堂游戏机背包
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31888348</id>
-        <link href="https://news.ycombinator.com/item?id=31888348"/>
-        <updated>2022-06-26T21:46:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Working Nintendo Gameboy Backpack]]></summary>
-        <author>
-            <name>99112000</name>
-            <uri>https://news.ycombinator.com/user?id=99112000</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[街头美食乐--每天猜测街头美食的游戏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31888327</id>
-        <link href="https://news.ycombinator.com/item?id=31888327"/>
-        <updated>2022-06-26T21:44:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Street Foodle – a daily guessing game of street food]]></summary>
-        <author>
-            <name>higgins</name>
-            <uri>https://news.ycombinator.com/user?id=higgins</uri>
         </author>
     </entry>
 </feed>
