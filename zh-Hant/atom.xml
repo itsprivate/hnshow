@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-22T17:23:15.341Z</updated>
+    <updated>2022-07-22T17:51:19.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[奎因承諾
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32194845</id>
+        <link href="https://news.ycombinator.com/item?id=32194845"/>
+        <updated>2022-07-22T17:42:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Quine Commit]]></summary>
+        <author>
+            <name>broothie</name>
+            <uri>https://news.ycombinator.com/user?id=broothie</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zazow - 生成藝術玩具（分形圖、螺旋圖、Satori，等等）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mythz</name>
             <uri>https://news.ycombinator.com/user?id=mythz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome擴展模板 repo
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31892265</id>
-        <link href="https://news.ycombinator.com/item?id=31892265"/>
-        <updated>2022-06-27T09:21:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Chrome extension template repo]]></summary>
-        <author>
-            <name>jebraat</name>
-            <uri>https://news.ycombinator.com/user?id=jebraat</uri>
         </author>
     </entry>
 </feed>
