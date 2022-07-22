@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-22T04:09:26.549Z</updated>
+    <updated>2022-07-22T09:32:19.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了你會喜歡的社交媒體管理平臺
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32190137</id>
+        <link href="https://news.ycombinator.com/item?id=32190137"/>
+        <updated>2022-07-22T09:21:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built the social media management platform you'll love]]></summary>
+        <author>
+            <name>inspired_prgmr</name>
+            <uri>https://news.ycombinator.com/user?id=inspired_prgmr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[時區同步小工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32190071</id>
+        <link href="https://news.ycombinator.com/item?id=32190071"/>
+        <updated>2022-07-22T09:08:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Timezone Sync Widget]]></summary>
+        <author>
+            <name>chenlevy</name>
+            <uri>https://news.ycombinator.com/user?id=chenlevy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[本週開發者最有趣的討論主題
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>manibatra</name>
             <uri>https://news.ycombinator.com/user?id=manibatra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[計算機生成的酸式廣播
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31873451</id>
-        <link href="https://news.ycombinator.com/item?id=31873451"/>
-        <updated>2022-06-25T08:16:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Computer Generated Acid Radio]]></summary>
-        <author>
-            <name>web_user</name>
-            <uri>https://news.ycombinator.com/user?id=web_user</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tone v0.0.4 - 現在是可黑化的命令行音頻標記器，任何反饋？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31879133</id>
-        <link href="https://news.ycombinator.com/item?id=31879133"/>
-        <updated>2022-06-25T22:07:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tone v0.0.4 – now hackable command line audio tagger, any feedback?]]></summary>
-        <author>
-            <name>sandreas</name>
-            <uri>https://news.ycombinator.com/user?id=sandreas</uri>
         </author>
     </entry>
 </feed>
