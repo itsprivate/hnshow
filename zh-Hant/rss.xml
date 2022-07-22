@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 22 Jul 2022 02:43:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 04:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[本週開發者最有趣的討論主題
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32188355</link>
+            <guid>https://news.ycombinator.com/item?id=32188355</guid>
+            <pubDate>Fri, 22 Jul 2022 03:59:26 GMT</pubDate>
+            <description><![CDATA[Show HN: Most interesting discussion threads by developers this week]]></description>
+        </item>
+        <item>
+            <title><![CDATA[令人驚奇的編程語言 - 一個精心策劃的編程語言列表
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32187957</link>
+            <guid>https://news.ycombinator.com/item?id=32187957</guid>
+            <pubDate>Fri, 22 Jul 2022 02:59:04 GMT</pubDate>
+            <description><![CDATA[Show HN: Awesome-Programming-Languages – A curated list of programming languages]]></description>
+        </item>
         <item>
             <title><![CDATA[XP-Newtab，一個Windows XP/98風格的Newtab擴展
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31879133</guid>
             <pubDate>Sat, 25 Jun 2022 22:07:19 GMT</pubDate>
             <description><![CDATA[Show HN: Tone v0.0.4 – now hackable command line audio tagger, any feedback?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Medots - 部署dot文件的跨平臺工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31879091</link>
-            <guid>https://news.ycombinator.com/item?id=31879091</guid>
-            <pubDate>Sat, 25 Jun 2022 22:01:22 GMT</pubDate>
-            <description><![CDATA[Show HN: Medots – Cross-platform tool to deploy dot files]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用dbt在SQL中進行產品分析
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31877959</link>
-            <guid>https://news.ycombinator.com/item?id=31877959</guid>
-            <pubDate>Sat, 25 Jun 2022 19:23:44 GMT</pubDate>
-            <description><![CDATA[Show HN: Product Analytics in SQL with dbt]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-22T02:43:43.361Z</updated>
+    <updated>2022-07-22T04:09:26.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[本週開發者最有趣的討論主題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32188355</id>
+        <link href="https://news.ycombinator.com/item?id=32188355"/>
+        <updated>2022-07-22T03:59:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Most interesting discussion threads by developers this week]]></summary>
+        <author>
+            <name>growthunter</name>
+            <uri>https://news.ycombinator.com/user?id=growthunter</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[令人驚奇的編程語言 - 一個精心策劃的編程語言列表
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32187957</id>
+        <link href="https://news.ycombinator.com/item?id=32187957"/>
+        <updated>2022-07-22T02:59:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Awesome-Programming-Languages – A curated list of programming languages]]></summary>
+        <author>
+            <name>ericspring08</name>
+            <uri>https://news.ycombinator.com/user?id=ericspring08</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XP-Newtab，一個Windows XP/98風格的Newtab擴展
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>sandreas</name>
             <uri>https://news.ycombinator.com/user?id=sandreas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medots - 部署dot文件的跨平臺工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31879091</id>
-        <link href="https://news.ycombinator.com/item?id=31879091"/>
-        <updated>2022-06-25T22:01:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Medots – Cross-platform tool to deploy dot files]]></summary>
-        <author>
-            <name>goodkernel</name>
-            <uri>https://news.ycombinator.com/user?id=goodkernel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用dbt在SQL中進行產品分析
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31877959</id>
-        <link href="https://news.ycombinator.com/item?id=31877959"/>
-        <updated>2022-06-25T19:23:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Product Analytics in SQL with dbt]]></summary>
-        <author>
-            <name>mjirv</name>
-            <uri>https://news.ycombinator.com/user?id=mjirv</uri>
         </author>
     </entry>
 </feed>
