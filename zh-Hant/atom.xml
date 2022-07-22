@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-22T16:53:25.386Z</updated>
+    <updated>2022-07-22T17:23:15.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Zazow - 生成藝術玩具（分形圖、螺旋圖、Satori，等等）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32194482</id>
+        <link href="https://news.ycombinator.com/item?id=32194482"/>
+        <updated>2022-07-22T17:14:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Zazow – Generative Art Toy (fractals, spirograph, satori, etc.)]]></summary>
+        <author>
+            <name>offsky</name>
+            <uri>https://news.ycombinator.com/user?id=offsky</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Datazip - 重整數據基礎設施
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32194253</id>
+        <link href="https://news.ycombinator.com/item?id=32194253"/>
+        <updated>2022-07-22T16:56:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Datazip – Retool for Data Infrastructure]]></summary>
+        <author>
+            <name>Ro_Khameshra</name>
+            <uri>https://news.ycombinator.com/user?id=Ro_Khameshra</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows終端的屏幕噪音
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32194087</id>
+        <link href="https://news.ycombinator.com/item?id=32194087"/>
+        <updated>2022-07-22T16:44:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Windows Terminal Screen Noise]]></summary>
+        <author>
+            <name>rbanffy</name>
+            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通過GitHub行動進行開放API和GraphQL模糊測試
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>jebraat</name>
             <uri>https://news.ycombinator.com/user?id=jebraat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typemat.com - 轉換博客/網站中的任何公共谷歌驅動器文件夾
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31892219</id>
-        <link href="https://news.ycombinator.com/item?id=31892219"/>
-        <updated>2022-06-27T09:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Typemat.com – Convert any public Google Drive folder in a blog/site]]></summary>
-        <author>
-            <name>cosbgn</name>
-            <uri>https://news.ycombinator.com/user?id=cosbgn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heybase是一個數字銷售室軟件，可以更快地完成B2B交易。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31891757</id>
-        <link href="https://news.ycombinator.com/item?id=31891757"/>
-        <updated>2022-06-27T07:56:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Heybase is a Digital Sales Room Software to close B2B deals faster]]></summary>
-        <author>
-            <name>shindekaran</name>
-            <uri>https://news.ycombinator.com/user?id=shindekaran</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yboard是一個基於CRDT的多人桌面式工作空間。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31891608</id>
-        <link href="https://news.ycombinator.com/item?id=31891608"/>
-        <updated>2022-06-27T07:33:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Yboard is a multiplayer desktop-like workspace based on CRDT]]></summary>
-        <author>
-            <name>selknam</name>
-            <uri>https://news.ycombinator.com/user?id=selknam</uri>
         </author>
     </entry>
 </feed>

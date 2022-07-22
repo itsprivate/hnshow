@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 22 Jul 2022 16:53:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 17:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Zazow - 生成藝術玩具（分形圖、螺旋圖、Satori，等等）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32194482</link>
+            <guid>https://news.ycombinator.com/item?id=32194482</guid>
+            <pubDate>Fri, 22 Jul 2022 17:14:10 GMT</pubDate>
+            <description><![CDATA[Show HN: Zazow – Generative Art Toy (fractals, spirograph, satori, etc.)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Datazip - 重整數據基礎設施
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32194253</link>
+            <guid>https://news.ycombinator.com/item?id=32194253</guid>
+            <pubDate>Fri, 22 Jul 2022 16:56:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Datazip – Retool for Data Infrastructure]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Windows終端的屏幕噪音
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32194087</link>
+            <guid>https://news.ycombinator.com/item?id=32194087</guid>
+            <pubDate>Fri, 22 Jul 2022 16:44:39 GMT</pubDate>
+            <description><![CDATA[Show HN: Windows Terminal Screen Noise]]></description>
+        </item>
         <item>
             <title><![CDATA[通過GitHub行動進行開放API和GraphQL模糊測試
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31892265</guid>
             <pubDate>Mon, 27 Jun 2022 09:21:59 GMT</pubDate>
             <description><![CDATA[Show HN: Chrome extension template repo]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Typemat.com - 轉換博客/網站中的任何公共谷歌驅動器文件夾
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31892219</link>
-            <guid>https://news.ycombinator.com/item?id=31892219</guid>
-            <pubDate>Mon, 27 Jun 2022 09:14:13 GMT</pubDate>
-            <description><![CDATA[Show HN: Typemat.com – Convert any public Google Drive folder in a blog/site]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Heybase是一個數字銷售室軟件，可以更快地完成B2B交易。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31891757</link>
-            <guid>https://news.ycombinator.com/item?id=31891757</guid>
-            <pubDate>Mon, 27 Jun 2022 07:56:57 GMT</pubDate>
-            <description><![CDATA[Show HN: Heybase is a Digital Sales Room Software to close B2B deals faster]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Yboard是一個基於CRDT的多人桌面式工作空間。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31891608</link>
-            <guid>https://news.ycombinator.com/item?id=31891608</guid>
-            <pubDate>Mon, 27 Jun 2022 07:33:11 GMT</pubDate>
-            <description><![CDATA[Show HN: Yboard is a multiplayer desktop-like workspace based on CRDT]]></description>
         </item>
     </channel>
 </rss>
