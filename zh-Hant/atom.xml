@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-22T21:29:30.574Z</updated>
+    <updated>2022-07-22T23:48:07.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個更好的版本控制IAC的方法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32198459</id>
+        <link href="https://news.ycombinator.com/item?id=32198459"/>
+        <updated>2022-07-22T23:38:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A better way of version controlling IAC]]></summary>
+        <author>
+            <name>movedx</name>
+            <uri>https://news.ycombinator.com/user?id=movedx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[像CRT顯示器一樣顯示一個圖像
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32198455</id>
+        <link href="https://news.ycombinator.com/item?id=32198455"/>
+        <updated>2022-07-22T23:38:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Display an image like a CRT monitor]]></summary>
+        <author>
+            <name>atum47</name>
+            <uri>https://news.ycombinator.com/user?id=atum47</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node.js CLI的隱私保護遙測技術
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>viet_nguyen</name>
             <uri>https://news.ycombinator.com/user?id=viet_nguyen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Cloudflare、Fastly和Fly.io的開源GraphQL CDN/Edge Cache
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31894299</id>
-        <link href="https://news.ycombinator.com/item?id=31894299"/>
-        <updated>2022-06-27T13:27:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open-Source GraphQL CDN/Edge Cache with Cloudflare, Fastly, and Fly.io]]></summary>
-        <author>
-            <name>jensneuse</name>
-            <uri>https://news.ycombinator.com/user?id=jensneuse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文檔管理質量和代碼註釋覆蓋率
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31893967</id>
-        <link href="https://news.ycombinator.com/item?id=31893967"/>
-        <updated>2022-06-27T13:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Document Management Quality and Code Comment Coverage]]></summary>
-        <author>
-            <name>terakoya76</name>
-            <uri>https://news.ycombinator.com/user?id=terakoya76</uri>
         </author>
     </entry>
 </feed>
