@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-22T15:02:42.171Z</updated>
+    <updated>2022-07-22T15:37:59.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[远程工作就像朝九晚五
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32192787</id>
+        <link href="https://news.ycombinator.com/item?id=32192787"/>
+        <updated>2022-07-22T15:12:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Remote Jobs are like 9-5]]></summary>
+        <author>
+            <name>UIH</name>
+            <uri>https://news.ycombinator.com/user?id=UIH</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个高速（60秒）的加密货币期权平台
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32192696</id>
+        <link href="https://news.ycombinator.com/item?id=32192696"/>
+        <updated>2022-07-22T15:06:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A high-speed (60sec) options platform on crypto]]></summary>
+        <author>
+            <name>popcreator</name>
+            <uri>https://news.ycombinator.com/user?id=popcreator</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小丑
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32192353</id>
+        <link href="https://news.ycombinator.com/item?id=32192353"/>
+        <updated>2022-07-22T14:42:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: gclown]]></summary>
+        <author>
+            <name>machinerychorus</name>
+            <uri>https://news.ycombinator.com/user?id=machinerychorus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[很好地整理了Bash命令的历史记录
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>higgins</name>
             <uri>https://news.ycombinator.com/user?id=higgins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trkl，一个微小的可观察变量库，383字节
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31888206</id>
-        <link href="https://news.ycombinator.com/item?id=31888206"/>
-        <updated>2022-06-26T21:31:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Trkl, a tiny observables library, 383 bytes]]></summary>
-        <author>
-            <name>jbreckmckye</name>
-            <uri>https://news.ycombinator.com/user?id=jbreckmckye</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Isthisabearmarket.com
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31887383</id>
-        <link href="https://news.ycombinator.com/item?id=31887383"/>
-        <updated>2022-06-26T19:57:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Isthisabearmarket.com]]></summary>
-        <author>
-            <name>mzharov</name>
-            <uri>https://news.ycombinator.com/user?id=mzharov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个静态编译的32位Wine，因为为什么不呢？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31886551</id>
-        <link href="https://news.ycombinator.com/item?id=31886551"/>
-        <updated>2022-06-26T18:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A statically compiled 32-bit Wine because why not?]]></summary>
-        <author>
-            <name>mivanchev</name>
-            <uri>https://news.ycombinator.com/user?id=mivanchev</uri>
         </author>
     </entry>
 </feed>
