@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-22T20:33:40.528Z</updated>
+    <updated>2022-07-22T21:29:30.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Node.js CLI的隱私保護遙測技術
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32197261</id>
+        <link href="https://news.ycombinator.com/item?id=32197261"/>
+        <updated>2022-07-22T21:21:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Privacy-preserving telemetry for Node.js CLIs]]></summary>
+        <author>
+            <name>matt_the_cat</name>
+            <uri>https://news.ycombinator.com/user?id=matt_the_cat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我為Megadash做了一個原型--輕鬆實現可視化分享你的指標
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>terakoya76</name>
             <uri>https://news.ycombinator.com/user?id=terakoya76</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[瀏覽器中的網絡服務器Livecode
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31893632</id>
-        <link href="https://news.ycombinator.com/item?id=31893632"/>
-        <updated>2022-06-27T12:31:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Livecode a Webserver in a Browser]]></summary>
-        <author>
-            <name>tlarkworthy</name>
-            <uri>https://news.ycombinator.com/user?id=tlarkworthy</uri>
         </author>
     </entry>
 </feed>
