@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-22T09:32:19.990Z</updated>
+    <updated>2022-07-22T10:36:05.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Next.js，Prisma，可以重複使用的Docker Boilerplate
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32190336</id>
+        <link href="https://news.ycombinator.com/item?id=32190336"/>
+        <updated>2022-07-22T10:02:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Next.js, Prisma, Docker Boilerplate that you can reuse]]></summary>
+        <author>
+            <name>acczasearchapi</name>
+            <uri>https://news.ycombinator.com/user?id=acczasearchapi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了你會喜歡的社交媒體管理平臺
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Laumski</name>
             <uri>https://news.ycombinator.com/user?id=Laumski</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在K3s/Kubernetes集群上運行Ghost
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31882124</id>
-        <link href="https://news.ycombinator.com/item?id=31882124"/>
-        <updated>2022-06-26T08:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Run Ghost on a K3s/Kubernetes Cluster]]></summary>
-        <author>
-            <name>manibatra</name>
-            <uri>https://news.ycombinator.com/user?id=manibatra</uri>
         </author>
     </entry>
 </feed>
