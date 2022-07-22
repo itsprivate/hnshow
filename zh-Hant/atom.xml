@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-22T17:51:19.318Z</updated>
+    <updated>2022-07-22T18:40:52.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SimPer在重新加載時保存你的CSS類別
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32195247</id>
+        <link href="https://news.ycombinator.com/item?id=32195247"/>
+        <updated>2022-07-22T18:10:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SimPer saves your CSS classes on reload]]></summary>
+        <author>
+            <name>hidelooktropic</name>
+            <uri>https://news.ycombinator.com/user?id=hidelooktropic</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奎因承諾
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bbreslin_</name>
             <uri>https://news.ycombinator.com/user?id=bbreslin_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Locode快速開發CRUD網絡應用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31892535</id>
-        <link href="https://news.ycombinator.com/item?id=31892535"/>
-        <updated>2022-06-27T10:04:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rapidly Develop CRUD Web Apps with Locode]]></summary>
-        <author>
-            <name>mythz</name>
-            <uri>https://news.ycombinator.com/user?id=mythz</uri>
         </author>
     </entry>
 </feed>
