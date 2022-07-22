@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-22T00:02:56.347Z</updated>
+    <updated>2022-07-22T02:43:43.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[XP-Newtab，一个Windows XP/98风格的Newtab扩展
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32187370</id>
+        <link href="https://news.ycombinator.com/item?id=32187370"/>
+        <updated>2022-07-22T01:23:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: XP-Newtab, a Newtab Extension in the Style of Windows XP/98]]></summary>
+        <author>
+            <name>Etesam</name>
+            <uri>https://news.ycombinator.com/user?id=Etesam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为数字产品和内容建立一个SaaS市场
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mjirv</name>
             <uri>https://news.ycombinator.com/user?id=mjirv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[羽--90%的彭博终端，价格为5%。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31877584</id>
-        <link href="https://news.ycombinator.com/item?id=31877584"/>
-        <updated>2022-06-25T18:35:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Feather – 90 percent of Bloomberg terminal, for 5 percent of the price]]></summary>
-        <author>
-            <name>akrai</name>
-            <uri>https://news.ycombinator.com/user?id=akrai</uri>
         </author>
     </entry>
 </feed>
