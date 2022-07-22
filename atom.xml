@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-22T10:36:05.131Z</updated>
+    <updated>2022-07-22T11:01:23.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[humble-cli - 一个下载Humble Bundle购买的CLI工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32190600</id>
+        <link href="https://news.ycombinator.com/item?id=32190600"/>
+        <updated>2022-07-22T10:52:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: humble-cli – A CLI tool to download Humble Bundle purchases]]></summary>
+        <author>
+            <name>smbl64</name>
+            <uri>https://news.ycombinator.com/user?id=smbl64</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浮桥，一对一的会议追踪器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32190504</id>
+        <link href="https://news.ycombinator.com/item?id=32190504"/>
+        <updated>2022-07-22T10:34:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pontoon, one to one meeting tracker]]></summary>
+        <author>
+            <name>Rhysjc</name>
+            <uri>https://news.ycombinator.com/user?id=Rhysjc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Next.js，Prisma，可以重复使用的Docker Boilerplate
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>keooodev</name>
             <uri>https://news.ycombinator.com/user?id=keooodev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[粒子 - URL包含整个程序代码
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31883209</id>
-        <link href="https://news.ycombinator.com/item?id=31883209"/>
-        <updated>2022-06-26T12:07:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Particles – the URL contains the whole program code]]></summary>
-        <author>
-            <name>chkas</name>
-            <uri>https://news.ycombinator.com/user?id=chkas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rupt - 能为你找到更好的股票的人工智能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31883093</id>
-        <link href="https://news.ycombinator.com/item?id=31883093"/>
-        <updated>2022-06-26T11:46:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rupt – AI that finds you better stocks]]></summary>
-        <author>
-            <name>Laumski</name>
-            <uri>https://news.ycombinator.com/user?id=Laumski</uri>
         </author>
     </entry>
 </feed>
