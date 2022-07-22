@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 22 Jul 2022 13:57:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 15:02:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[很好地整理了Bash命令的歷史記錄
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32192508</link>
+            <guid>https://news.ycombinator.com/item?id=32192508</guid>
+            <pubDate>Fri, 22 Jul 2022 14:54:02 GMT</pubDate>
+            <description><![CDATA[Show HN: Tidying up Bash command history nicely]]></description>
+        </item>
         <item>
             <title><![CDATA[用這個數據平臺將你的分析性能提高10倍（5分鐘視頻）
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31886551</guid>
             <pubDate>Sun, 26 Jun 2022 18:30:18 GMT</pubDate>
             <description><![CDATA[Show HN: A statically compiled 32-bit Wine because why not?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CRProxy是一個簡單而實惠的ngrok替代品
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31886120</link>
-            <guid>https://news.ycombinator.com/item?id=31886120</guid>
-            <pubDate>Sun, 26 Jun 2022 17:49:49 GMT</pubDate>
-            <description><![CDATA[Show HN: CRProxy is a simple and affordable ngrok alternative]]></description>
         </item>
     </channel>
 </rss>
