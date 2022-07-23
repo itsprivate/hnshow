@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-23T06:34:49.647Z</updated>
+    <updated>2022-07-23T07:27:40.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[回复 "Symlinks的麻烦 "的代码。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32201150</id>
+        <link href="https://news.ycombinator.com/item?id=32201150"/>
+        <updated>2022-07-23T07:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Code in Response to “The Trouble with Symlinks.”]]></summary>
+        <author>
+            <name>kazinator</name>
+            <uri>https://news.ycombinator.com/user?id=kazinator</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[净插值的彩色控制台
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>oka</name>
             <uri>https://news.ycombinator.com/user?id=oka</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dashibase Insert - 为Supabase用户提供的一个免费的类似Notion的表单生成器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31897233</id>
-        <link href="https://news.ycombinator.com/item?id=31897233"/>
-        <updated>2022-06-27T16:48:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dashibase Insert – a free Notion-like form builder for Supabase users]]></summary>
-        <author>
-            <name>greentfrapp</name>
-            <uri>https://news.ycombinator.com/user?id=greentfrapp</uri>
         </author>
     </entry>
 </feed>

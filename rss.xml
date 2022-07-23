@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 23 Jul 2022 06:34:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 07:27:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[回复 "Symlinks的麻烦 "的代码。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32201150</link>
+            <guid>https://news.ycombinator.com/item?id=32201150</guid>
+            <pubDate>Sat, 23 Jul 2022 07:16:37 GMT</pubDate>
+            <description><![CDATA[Show HN: Code in Response to “The Trouble with Symlinks.”]]></description>
+        </item>
         <item>
             <title><![CDATA[净插值的彩色控制台
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31897249</guid>
             <pubDate>Mon, 27 Jun 2022 16:49:46 GMT</pubDate>
             <description><![CDATA[Show HN: Get rid of Git submodules and never look back (now for GitHub users)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dashibase Insert - 为Supabase用户提供的一个免费的类似Notion的表单生成器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31897233</link>
-            <guid>https://news.ycombinator.com/item?id=31897233</guid>
-            <pubDate>Mon, 27 Jun 2022 16:48:57 GMT</pubDate>
-            <description><![CDATA[Show HN: Dashibase Insert – a free Notion-like form builder for Supabase users]]></description>
         </item>
     </channel>
 </rss>
