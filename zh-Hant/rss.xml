@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 23 Jul 2022 13:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 14:28:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在瀏覽器中用CycleGAN將圖像點燃
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32203571</link>
+            <guid>https://news.ycombinator.com/item?id=32203571</guid>
+            <pubDate>Sat, 23 Jul 2022 14:18:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Set images on fire with CycleGAN in the browser]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Svelte當地第一個記事本應用程序
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32203501</link>
+            <guid>https://news.ycombinator.com/item?id=32203501</guid>
+            <pubDate>Sat, 23 Jul 2022 14:10:39 GMT</pubDate>
+            <description><![CDATA[Show HN: Svelte local first Journaling App]]></description>
+        </item>
         <item>
             <title><![CDATA[我18個月來的體重
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31902083</guid>
             <pubDate>Mon, 27 Jun 2022 23:05:16 GMT</pubDate>
             <description><![CDATA[Show HN: WebExtension Playground]]></description>
-        </item>
-        <item>
-            <title><![CDATA[AirScript - 像Lua一樣，但在Rust中，又有所不同
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31901596</link>
-            <guid>https://news.ycombinator.com/item?id=31901596</guid>
-            <pubDate>Mon, 27 Jun 2022 22:18:00 GMT</pubDate>
-            <description><![CDATA[Show HN: AirScript – Like Lua, but in Rust, and Different]]></description>
-        </item>
-        <item>
-            <title><![CDATA[[NSFW] 色情生成的擴散模型
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31900095</link>
-            <guid>https://news.ycombinator.com/item?id=31900095</guid>
-            <pubDate>Mon, 27 Jun 2022 20:08:59 GMT</pubDate>
-            <description><![CDATA[Show HN: [NSFW] Diffusion models for porn generation]]></description>
         </item>
     </channel>
 </rss>

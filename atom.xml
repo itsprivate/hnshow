@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-23T13:47:57.223Z</updated>
+    <updated>2022-07-23T14:28:10.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在浏览器中用CycleGAN将图像点燃
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32203571</id>
+        <link href="https://news.ycombinator.com/item?id=32203571"/>
+        <updated>2022-07-23T14:18:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Set images on fire with CycleGAN in the browser]]></summary>
+        <author>
+            <name>jasmaa</name>
+            <uri>https://news.ycombinator.com/user?id=jasmaa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Svelte当地第一个记事本应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32203501</id>
+        <link href="https://news.ycombinator.com/item?id=32203501"/>
+        <updated>2022-07-23T14:10:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Svelte local first Journaling App]]></summary>
+        <author>
+            <name>nathanfaucett</name>
+            <uri>https://news.ycombinator.com/user?id=nathanfaucett</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我18个月来的体重
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>oliverdunk</name>
             <uri>https://news.ycombinator.com/user?id=oliverdunk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AirScript - 像Lua一样，但在Rust中，又有所不同
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31901596</id>
-        <link href="https://news.ycombinator.com/item?id=31901596"/>
-        <updated>2022-06-27T22:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: AirScript – Like Lua, but in Rust, and Different]]></summary>
-        <author>
-            <name>linkdd</name>
-            <uri>https://news.ycombinator.com/user?id=linkdd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NSFW] 色情生成的扩散模型
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31900095</id>
-        <link href="https://news.ycombinator.com/item?id=31900095"/>
-        <updated>2022-06-27T20:08:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: [NSFW] Diffusion models for porn generation]]></summary>
-        <author>
-            <name>GistNoesis</name>
-            <uri>https://news.ycombinator.com/user?id=GistNoesis</uri>
         </author>
     </entry>
 </feed>
