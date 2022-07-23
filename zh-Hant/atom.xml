@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-23T10:32:26.194Z</updated>
+    <updated>2022-07-23T11:01:45.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[深度學習實現的集合與並列的註釋
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32202161</id>
+        <link href="https://news.ycombinator.com/item?id=32202161"/>
+        <updated>2022-07-23T10:51:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Collection of deep learning implementations with side-by-side notes]]></summary>
+        <author>
+            <name>vpj</name>
+            <uri>https://news.ycombinator.com/user?id=vpj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vssshield，一個用於緩解Windows勒索軟件的Rust項目
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>NithurM</name>
             <uri>https://news.ycombinator.com/user?id=NithurM</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PRQL 0.2 - 一個更好的SQL - 現在可以使用了
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31897430</id>
-        <link href="https://news.ycombinator.com/item?id=31897430"/>
-        <updated>2022-06-27T17:03:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PRQL 0.2 – A better SQL — now ready to use]]></summary>
-        <author>
-            <name>maximilianroos</name>
-            <uri>https://news.ycombinator.com/user?id=maximilianroos</uri>
         </author>
     </entry>
 </feed>

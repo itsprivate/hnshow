@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 23 Jul 2022 10:32:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 11:01:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[深度學習實現的集合與並列的註釋
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32202161</link>
+            <guid>https://news.ycombinator.com/item?id=32202161</guid>
+            <pubDate>Sat, 23 Jul 2022 10:51:17 GMT</pubDate>
+            <description><![CDATA[Show HN: Collection of deep learning implementations with side-by-side notes]]></description>
+        </item>
         <item>
             <title><![CDATA[Vssshield，一個用於緩解Windows勒索軟件的Rust項目
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31897881</guid>
             <pubDate>Mon, 27 Jun 2022 17:35:31 GMT</pubDate>
             <description><![CDATA[Show HN: I made a Chrome extension that explains code in plain English]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PRQL 0.2 - 一個更好的SQL - 現在可以使用了
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31897430</link>
-            <guid>https://news.ycombinator.com/item?id=31897430</guid>
-            <pubDate>Mon, 27 Jun 2022 17:03:33 GMT</pubDate>
-            <description><![CDATA[Show HN: PRQL 0.2 – A better SQL — now ready to use]]></description>
         </item>
     </channel>
 </rss>
