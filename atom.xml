@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-23T11:01:45.112Z</updated>
+    <updated>2022-07-23T12:48:44.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大HN、暗HN、无HN--定制黑客新闻的微小用户脚本
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32202417</id>
+        <link href="https://news.ycombinator.com/item?id=32202417"/>
+        <updated>2022-07-23T11:41:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Big HN, Dark HN, No HN – Tiny Userscripts to Customize Hacker News]]></summary>
+        <author>
+            <name>susam</name>
+            <uri>https://news.ycombinator.com/user?id=susam</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深度学习实现的集合与并列的注释
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>trzy</name>
             <uri>https://news.ycombinator.com/user?id=trzy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个Chrome扩展，可以用简单的英语解释代码
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31897881</id>
-        <link href="https://news.ycombinator.com/item?id=31897881"/>
-        <updated>2022-06-27T17:35:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a Chrome extension that explains code in plain English]]></summary>
-        <author>
-            <name>NithurM</name>
-            <uri>https://news.ycombinator.com/user?id=NithurM</uri>
         </author>
     </entry>
 </feed>

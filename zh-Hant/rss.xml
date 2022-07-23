@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 23 Jul 2022 11:01:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 12:48:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[大HN、暗HN、無HN--定製黑客新聞的微小用戶腳本
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32202417</link>
+            <guid>https://news.ycombinator.com/item?id=32202417</guid>
+            <pubDate>Sat, 23 Jul 2022 11:41:51 GMT</pubDate>
+            <description><![CDATA[Show HN: Big HN, Dark HN, No HN – Tiny Userscripts to Customize Hacker News]]></description>
+        </item>
         <item>
             <title><![CDATA[深度學習實現的集合與並列的註釋
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31898236</guid>
             <pubDate>Mon, 27 Jun 2022 18:00:13 GMT</pubDate>
             <description><![CDATA[Show HN: Supermodel – A Sega Model 3 arcade emulator]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一個Chrome擴展，可以用簡單的英語解釋代碼
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31897881</link>
-            <guid>https://news.ycombinator.com/item?id=31897881</guid>
-            <pubDate>Mon, 27 Jun 2022 17:35:31 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a Chrome extension that explains code in plain English]]></description>
         </item>
     </channel>
 </rss>
