@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-23T12:48:44.499Z</updated>
+    <updated>2022-07-23T13:21:31.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Catp - 打印一个运行中的进程的输出（可能是/dev/null）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32202957</id>
+        <link href="https://news.ycombinator.com/item?id=32202957"/>
+        <updated>2022-07-23T13:07:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Catp – print the output of a running process (which may be /dev/null)]]></summary>
+        <author>
+            <name>rapiz</name>
+            <uri>https://news.ycombinator.com/user?id=rapiz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大HN、暗HN、无HN--定制黑客新闻的微小用户脚本
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ihaveajob</name>
             <uri>https://news.ycombinator.com/user?id=ihaveajob</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超模--世嘉3型街机仿真器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31898236</id>
-        <link href="https://news.ycombinator.com/item?id=31898236"/>
-        <updated>2022-06-27T18:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Supermodel – A Sega Model 3 arcade emulator]]></summary>
-        <author>
-            <name>trzy</name>
-            <uri>https://news.ycombinator.com/user?id=trzy</uri>
         </author>
     </entry>
 </feed>
