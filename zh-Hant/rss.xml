@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 23 Jul 2022 07:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 10:32:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Vssshield，一個用於緩解Windows勒索軟件的Rust項目
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32201973</link>
+            <guid>https://news.ycombinator.com/item?id=32201973</guid>
+            <pubDate>Sat, 23 Jul 2022 10:13:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Vssshield, a Rust project to mitigate Windows ransomware]]></description>
+        </item>
         <item>
             <title><![CDATA[回覆 "Symlinks的麻煩 "的代碼。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31897430</guid>
             <pubDate>Mon, 27 Jun 2022 17:03:33 GMT</pubDate>
             <description><![CDATA[Show HN: PRQL 0.2 – A better SQL — now ready to use]]></description>
-        </item>
-        <item>
-            <title><![CDATA[擺脫Git子模塊，永不回頭（現在為GitHub用戶）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31897249</link>
-            <guid>https://news.ycombinator.com/item?id=31897249</guid>
-            <pubDate>Mon, 27 Jun 2022 16:49:46 GMT</pubDate>
-            <description><![CDATA[Show HN: Get rid of Git submodules and never look back (now for GitHub users)]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-23T07:27:40.870Z</updated>
+    <updated>2022-07-23T10:32:26.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vssshield，一个用于缓解Windows勒索软件的Rust项目
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32201973</id>
+        <link href="https://news.ycombinator.com/item?id=32201973"/>
+        <updated>2022-07-23T10:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Vssshield, a Rust project to mitigate Windows ransomware]]></summary>
+        <author>
+            <name>technion</name>
+            <uri>https://news.ycombinator.com/user?id=technion</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[回复 "Symlinks的麻烦 "的代码。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>maximilianroos</name>
             <uri>https://news.ycombinator.com/user?id=maximilianroos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摆脱Git子模块，永不回头（现在为GitHub用户）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31897249</id>
-        <link href="https://news.ycombinator.com/item?id=31897249"/>
-        <updated>2022-06-27T16:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Get rid of Git submodules and never look back (now for GitHub users)]]></summary>
-        <author>
-            <name>oka</name>
-            <uri>https://news.ycombinator.com/user?id=oka</uri>
         </author>
     </entry>
 </feed>
