@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-23T14:28:10.999Z</updated>
+    <updated>2022-07-23T15:51:05.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Skłable - 一個用Scala和Scala.js創建的類似於拼字的遊戲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32204400</id>
+        <link href="https://news.ycombinator.com/item?id=32204400"/>
+        <updated>2022-07-23T15:47:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Skłable – a scrabble-like game created with Scala and Scala.js]]></summary>
+        <author>
+            <name>masterito16</name>
+            <uri>https://news.ycombinator.com/user?id=masterito16</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用WebRTC和WebSockets的互動會議演示
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32204244</id>
+        <link href="https://news.ycombinator.com/item?id=32204244"/>
+        <updated>2022-07-23T15:32:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Interactive meeting demo with WebRTC and WebSockets]]></summary>
+        <author>
+            <name>Rhysjc</name>
+            <uri>https://news.ycombinator.com/user?id=Rhysjc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在瀏覽器中用CycleGAN將圖像點燃
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>owenfi</name>
             <uri>https://news.ycombinator.com/user?id=owenfi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個描述和分享DNA構建協議的框架
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31902630</id>
-        <link href="https://news.ycombinator.com/item?id=31902630"/>
-        <updated>2022-06-28T00:20:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A framework to describe and share DNA construction protocols]]></summary>
-        <author>
-            <name>ponnhide</name>
-            <uri>https://news.ycombinator.com/user?id=ponnhide</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebExtension Playground
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31902083</id>
-        <link href="https://news.ycombinator.com/item?id=31902083"/>
-        <updated>2022-06-27T23:05:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WebExtension Playground]]></summary>
-        <author>
-            <name>oliverdunk</name>
-            <uri>https://news.ycombinator.com/user?id=oliverdunk</uri>
         </author>
     </entry>
 </feed>
