@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 23 Jul 2022 17:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 22:47:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个（天真的）安全的俘虏式门户。有什么想法？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32208258</link>
+            <guid>https://news.ycombinator.com/item?id=32208258</guid>
+            <pubDate>Sat, 23 Jul 2022 22:38:23 GMT</pubDate>
+            <description><![CDATA[Show HN: A (Naive) Secure Captive Portal. Thoughts?]]></description>
+        </item>
         <item>
             <title><![CDATA[Famnom - 家庭营养追踪器和膳食计划器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31903549</guid>
             <pubDate>Tue, 28 Jun 2022 02:48:24 GMT</pubDate>
             <description><![CDATA[Show HN: Bible Semantic Search]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我把DALL-E Mini剥离到最基本的部分，并将其转换为火炬。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31903076</link>
-            <guid>https://news.ycombinator.com/item?id=31903076</guid>
-            <pubDate>Tue, 28 Jun 2022 01:27:52 GMT</pubDate>
-            <description><![CDATA[Show HN: I stripped DALL·E Mini to its bare essentials and converted it to Torch]]></description>
         </item>
     </channel>
 </rss>

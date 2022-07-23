@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-23T17:09:32.816Z</updated>
+    <updated>2022-07-23T22:47:16.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個（天真的）安全的俘虜式門戶。有什麼想法？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32208258</id>
+        <link href="https://news.ycombinator.com/item?id=32208258"/>
+        <updated>2022-07-23T22:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A (Naive) Secure Captive Portal. Thoughts?]]></summary>
+        <author>
+            <name>somishere</name>
+            <uri>https://news.ycombinator.com/user?id=somishere</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Famnom - 家庭營養追蹤器和膳食計劃器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>crehn</name>
             <uri>https://news.ycombinator.com/user?id=crehn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我把DALL-E Mini剝離到最基本的部分，並將其轉換為火炬。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31903076</id>
-        <link href="https://news.ycombinator.com/item?id=31903076"/>
-        <updated>2022-06-28T01:27:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I stripped DALL·E Mini to its bare essentials and converted it to Torch]]></summary>
-        <author>
-            <name>kuprel</name>
-            <uri>https://news.ycombinator.com/user?id=kuprel</uri>
         </author>
     </entry>
 </feed>
