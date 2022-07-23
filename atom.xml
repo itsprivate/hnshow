@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-23T05:05:42.719Z</updated>
+    <updated>2022-07-23T05:46:57.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[作为文本重写的计算
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32200678</id>
+        <link href="https://news.ycombinator.com/item?id=32200678"/>
+        <updated>2022-07-23T05:37:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Computation as Text Rewriting]]></summary>
+        <author>
+            <name>martyalain</name>
+            <uri>https://news.ycombinator.com/user?id=martyalain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TheSillyHome智能家居设备的机器学习
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>knadh</name>
             <uri>https://news.ycombinator.com/user?id=knadh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSVFiddle - 使用SQL即时查询CSV文件，由DuckDB提供支持。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31895494</id>
-        <link href="https://news.ycombinator.com/item?id=31895494"/>
-        <updated>2022-06-27T14:59:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CSVFiddle – instantly query CSV files with SQL, powered by DuckDB]]></summary>
-        <author>
-            <name>shbhrsaha</name>
-            <uri>https://news.ycombinator.com/user?id=shbhrsaha</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 23 Jul 2022 05:05:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 05:46:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[作为文本重写的计算
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32200678</link>
+            <guid>https://news.ycombinator.com/item?id=32200678</guid>
+            <pubDate>Sat, 23 Jul 2022 05:37:08 GMT</pubDate>
+            <description><![CDATA[Show HN: Computation as Text Rewriting]]></description>
+        </item>
         <item>
             <title><![CDATA[TheSillyHome智能家居设备的机器学习
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31896642</guid>
             <pubDate>Mon, 27 Jun 2022 16:12:11 GMT</pubDate>
             <description><![CDATA[Show HN: Build Dictionaries for Any Language]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CSVFiddle - 使用SQL即时查询CSV文件，由DuckDB提供支持。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31895494</link>
-            <guid>https://news.ycombinator.com/item?id=31895494</guid>
-            <pubDate>Mon, 27 Jun 2022 14:59:30 GMT</pubDate>
-            <description><![CDATA[Show HN: CSVFiddle – instantly query CSV files with SQL, powered by DuckDB]]></description>
         </item>
     </channel>
 </rss>
