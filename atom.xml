@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-24T11:27:29.326Z</updated>
+    <updated>2022-07-24T13:23:24.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Python Live GUI - 基于网络的即时模式渲染器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32213180</id>
+        <link href="https://news.ycombinator.com/item?id=32213180"/>
+        <updated>2022-07-24T13:15:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Python Live GUI – Web Based immediate mode renderer]]></summary>
+        <author>
+            <name>RupertWiser</name>
+            <uri>https://news.ycombinator.com/user?id=RupertWiser</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kvass，一个个人键值存储器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lifeencoder</name>
             <uri>https://news.ycombinator.com/user?id=lifeencoder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从任何维基百科页面生成视频的开源工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31906326</id>
-        <link href="https://news.ycombinator.com/item?id=31906326"/>
-        <updated>2022-06-28T11:18:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open-source tool to generate a video from any Wikipedia page]]></summary>
-        <author>
-            <name>ailef</name>
-            <uri>https://news.ycombinator.com/user?id=ailef</uri>
         </author>
     </entry>
 </feed>

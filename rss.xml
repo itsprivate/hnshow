@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 24 Jul 2022 11:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 13:23:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Python Live GUI - 基于网络的即时模式渲染器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32213180</link>
+            <guid>https://news.ycombinator.com/item?id=32213180</guid>
+            <pubDate>Sun, 24 Jul 2022 13:15:18 GMT</pubDate>
+            <description><![CDATA[Show HN: Python Live GUI – Web Based immediate mode renderer]]></description>
+        </item>
         <item>
             <title><![CDATA[Kvass，一个个人键值存储器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31906670</guid>
             <pubDate>Tue, 28 Jun 2022 12:12:16 GMT</pubDate>
             <description><![CDATA[Show HN: Own Newspaper]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从任何维基百科页面生成视频的开源工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31906326</link>
-            <guid>https://news.ycombinator.com/item?id=31906326</guid>
-            <pubDate>Tue, 28 Jun 2022 11:18:28 GMT</pubDate>
-            <description><![CDATA[Show HN: Open-source tool to generate a video from any Wikipedia page]]></description>
         </item>
     </channel>
 </rss>
