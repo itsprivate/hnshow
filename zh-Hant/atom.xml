@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-24T09:27:42.062Z</updated>
+    <updated>2022-07-24T11:27:29.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Kvass，一個個人鍵值存儲器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32212235</id>
+        <link href="https://news.ycombinator.com/item?id=32212235"/>
+        <updated>2022-07-24T11:05:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Kvass, a personal key-value store]]></summary>
+        <author>
+            <name>maxmunzel</name>
+            <uri>https://news.ycombinator.com/user?id=maxmunzel</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[神聖的尾巴--加密貨幣遊戲的前沿是不斷變化的
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ailef</name>
             <uri>https://news.ycombinator.com/user?id=ailef</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每週CS論文 - 每週末獲得一份計算機科學論文
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31906094</id>
-        <link href="https://news.ycombinator.com/item?id=31906094"/>
-        <updated>2022-06-28T10:36:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Weekly CS Paper - Get a computer science paper every Weekend]]></summary>
-        <author>
-            <name>l1am0</name>
-            <uri>https://news.ycombinator.com/user?id=l1am0</uri>
         </author>
     </entry>
 </feed>
