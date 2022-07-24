@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-24T18:36:11.552Z</updated>
+    <updated>2022-07-24T19:27:08.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[雨果主题--永恒
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32216548</id>
+        <link href="https://news.ycombinator.com/item?id=32216548"/>
+        <updated>2022-07-24T19:04:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Hugo Theme – Eternity]]></summary>
+        <author>
+            <name>boratanrikulu</name>
+            <uri>https://news.ycombinator.com/user?id=boratanrikulu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[约1.2KLOC的静态博客生成器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>afarchy</name>
             <uri>https://news.ycombinator.com/user?id=afarchy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在我的视频游戏中寻找1M个代理到独特的目的地的路径
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31907719</id>
-        <link href="https://news.ycombinator.com/item?id=31907719"/>
-        <updated>2022-06-28T13:56:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pathfind 1M agents to unique destinations in my video game]]></summary>
-        <author>
-            <name>YesBox</name>
-            <uri>https://news.ycombinator.com/user?id=YesBox</uri>
         </author>
     </entry>
 </feed>
