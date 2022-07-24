@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-24T13:54:42.835Z</updated>
+    <updated>2022-07-24T14:27:53.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SkillPress - 通过间隔性重复和主动回忆学习JavaScript
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32213729</id>
+        <link href="https://news.ycombinator.com/item?id=32213729"/>
+        <updated>2022-07-24T14:18:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SkillPress – Learn JavaScript via spaced repetition and active recall]]></summary>
+        <author>
+            <name>delabroj</name>
+            <uri>https://news.ycombinator.com/user?id=delabroj</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为学习语言寻找令人信服和可理解的媒体
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>paritoshmehta</name>
             <uri>https://news.ycombinator.com/user?id=paritoshmehta</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人人享有的智能卡
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31906679</id>
-        <link href="https://news.ycombinator.com/item?id=31906679"/>
-        <updated>2022-06-28T12:13:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Smart Cards for Everyone]]></summary>
-        <author>
-            <name>lifeencoder</name>
-            <uri>https://news.ycombinator.com/user?id=lifeencoder</uri>
         </author>
     </entry>
 </feed>
