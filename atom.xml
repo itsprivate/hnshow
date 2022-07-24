@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-24T02:41:07.648Z</updated>
+    <updated>2022-07-24T03:56:21.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[分布式交易链接的完整跟踪
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32209961</id>
+        <link href="https://news.ycombinator.com/item?id=32209961"/>
+        <updated>2022-07-24T03:10:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Complete trace of the link of a distributed transaction]]></summary>
+        <author>
+            <name>dksl</name>
+            <uri>https://news.ycombinator.com/user?id=dksl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PlotGrid.app 像JK罗琳一样写作
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>memorable</name>
             <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(计算机视觉的（测试）自动化
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31904820</id>
-        <link href="https://news.ycombinator.com/item?id=31904820"/>
-        <updated>2022-06-28T06:40:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: (Test-)Automation with Computer Vision]]></summary>
-        <author>
-            <name>grolle</name>
-            <uri>https://news.ycombinator.com/user?id=grolle</uri>
         </author>
     </entry>
 </feed>
