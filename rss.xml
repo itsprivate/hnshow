@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 24 Jul 2022 17:41:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 17:59:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Doublind，一个论文审查平台（ML）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32215768</link>
+            <guid>https://news.ycombinator.com/item?id=32215768</guid>
+            <pubDate>Sun, 24 Jul 2022 17:41:14 GMT</pubDate>
+            <description><![CDATA[Show HN: Doublind, a paper review platform (ML)]]></description>
+        </item>
         <item>
             <title><![CDATA[货架、文件存储使用云存储供应商
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31907549</guid>
             <pubDate>Tue, 28 Jun 2022 13:42:06 GMT</pubDate>
             <description><![CDATA[Show HN: web alternative to Splitwise, no ads, no account]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Soda Core现在是GA - 像测试你的代码一样测试数据
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31907195</link>
-            <guid>https://news.ycombinator.com/item?id=31907195</guid>
-            <pubDate>Tue, 28 Jun 2022 13:08:43 GMT</pubDate>
-            <description><![CDATA[Show HN: Soda Core is now GA – Test data like you would test your code]]></description>
         </item>
     </channel>
 </rss>
