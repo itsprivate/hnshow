@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-24T21:28:03.441Z</updated>
+    <updated>2022-07-24T23:48:33.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[來自文本的AI藝術--用圖像表達自己
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32218867</id>
+        <link href="https://news.ycombinator.com/item?id=32218867"/>
+        <updated>2022-07-24T23:29:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: AI art from text – Express yourself with images]]></summary>
+        <author>
+            <name>srelbo</name>
+            <uri>https://news.ycombinator.com/user?id=srelbo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用一個公式重定向點擊
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>huntzhan</name>
             <uri>https://news.ycombinator.com/user?id=huntzhan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免費二維碼生成器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31908089</id>
-        <link href="https://news.ycombinator.com/item?id=31908089"/>
-        <updated>2022-06-28T14:25:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Free QR Code Generator]]></summary>
-        <author>
-            <name>bquaresma</name>
-            <uri>https://news.ycombinator.com/user?id=bquaresma</uri>
         </author>
     </entry>
 </feed>
