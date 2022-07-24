@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-24T14:27:54.044Z</updated>
+    <updated>2022-07-24T15:31:05.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[香蕉郵報
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32214343</id>
+        <link href="https://news.ycombinator.com/item?id=32214343"/>
+        <updated>2022-07-24T15:22:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Banana Post]]></summary>
+        <author>
+            <name>tomandjerry27</name>
+            <uri>https://news.ycombinator.com/user?id=tomandjerry27</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將HTML表格數據輸入電子表格
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32214278</id>
+        <link href="https://news.ycombinator.com/item?id=32214278"/>
+        <updated>2022-07-24T15:16:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: HTML Forms Data into Spreadsheet]]></summary>
+        <author>
+            <name>mddanishyusuf</name>
+            <uri>https://news.ycombinator.com/user?id=mddanishyusuf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SkillPress - 通過間隔性重複和主動回憶學習JavaScript
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>BruceHN</name>
             <uri>https://news.ycombinator.com/user?id=BruceHN</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社區建設者的自動化工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31906888</id>
-        <link href="https://news.ycombinator.com/item?id=31906888"/>
-        <updated>2022-06-28T12:41:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Automation Tools for Community Builders]]></summary>
-        <author>
-            <name>drewdil</name>
-            <uri>https://news.ycombinator.com/user?id=drewdil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Picspanel - 最簡單的圖釘創建者
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31906878</id>
-        <link href="https://news.ycombinator.com/item?id=31906878"/>
-        <updated>2022-06-28T12:40:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Picspanel – Simplest Pin Creator]]></summary>
-        <author>
-            <name>paritoshmehta</name>
-            <uri>https://news.ycombinator.com/user?id=paritoshmehta</uri>
         </author>
     </entry>
 </feed>
