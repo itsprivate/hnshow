@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-24T19:27:08.383Z</updated>
+    <updated>2022-07-24T21:28:03.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用一個公式重定向點擊
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32217718</id>
+        <link href="https://news.ycombinator.com/item?id=32217718"/>
+        <updated>2022-07-24T21:05:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Redirect clicks using a formula]]></summary>
+        <author>
+            <name>matt413</name>
+            <uri>https://news.ycombinator.com/user?id=matt413</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNS3中的Python-自動輕量級BGP實驗室
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32217690</id>
+        <link href="https://news.ycombinator.com/item?id=32217690"/>
+        <updated>2022-07-24T21:02:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Python-automated lightweight BGP lab in GNS3]]></summary>
+        <author>
+            <name>GSGBen</name>
+            <uri>https://news.ycombinator.com/user?id=GSGBen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[雨果主題--永恆
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>bquaresma</name>
             <uri>https://news.ycombinator.com/user?id=bquaresma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quaterion--相似性學習模型的微調速度提高了100倍
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31907802</id>
-        <link href="https://news.ycombinator.com/item?id=31907802"/>
-        <updated>2022-06-28T14:03:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Quaterion – x100 faster fine-tuning of similarity learning models]]></summary>
-        <author>
-            <name>generall</name>
-            <uri>https://news.ycombinator.com/user?id=generall</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[虛擬製造商 - 在瀏覽器中製作3D/VR場景
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31907771</id>
-        <link href="https://news.ycombinator.com/item?id=31907771"/>
-        <updated>2022-06-28T14:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Virtual Maker – Make 3D/VR scenes in the browser]]></summary>
-        <author>
-            <name>afarchy</name>
-            <uri>https://news.ycombinator.com/user?id=afarchy</uri>
         </author>
     </entry>
 </feed>
