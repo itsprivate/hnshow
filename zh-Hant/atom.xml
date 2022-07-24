@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-24T17:59:09.186Z</updated>
+    <updated>2022-07-24T18:36:11.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[約1.2KLOC的靜態博客生成器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32215935</id>
+        <link href="https://news.ycombinator.com/item?id=32215935"/>
+        <updated>2022-07-24T17:58:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Static blog generator in about 1.2KLOC]]></summary>
+        <author>
+            <name>jjjbokma</name>
+            <uri>https://news.ycombinator.com/user?id=jjjbokma</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Doublind，一個論文審查平臺（ML）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>YesBox</name>
             <uri>https://news.ycombinator.com/user?id=YesBox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Splitwise的網絡替代品，沒有廣告，沒有賬戶
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31907549</id>
-        <link href="https://news.ycombinator.com/item?id=31907549"/>
-        <updated>2022-06-28T13:42:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: web alternative to Splitwise, no ads, no account]]></summary>
-        <author>
-            <name>scastiel</name>
-            <uri>https://news.ycombinator.com/user?id=scastiel</uri>
         </author>
     </entry>
 </feed>
