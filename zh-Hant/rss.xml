@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 25 Jul 2022 17:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 17:58:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[免費替代Zoom, Google meet, Teams的視頻會議
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32228214</link>
+            <guid>https://news.ycombinator.com/item?id=32228214</guid>
+            <pubDate>Mon, 25 Jul 2022 17:50:09 GMT</pubDate>
+            <description><![CDATA[Show HN: Free alternative video conference to Zoom, Google meet, Teams]]></description>
+        </item>
         <item>
             <title><![CDATA[我用rustface得到了一個Twitter機器人的最佳面孔
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31910762</guid>
             <pubDate>Tue, 28 Jun 2022 17:49:12 GMT</pubDate>
             <description><![CDATA[Show HN: Inngest – an open-source event-driven queue]]></description>
-        </item>
-        <item>
-            <title><![CDATA[開源管理的Python裝飾器crons
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31910678</link>
-            <guid>https://news.ycombinator.com/item?id=31910678</guid>
-            <pubDate>Tue, 28 Jun 2022 17:41:35 GMT</pubDate>
-            <description><![CDATA[Show HN: Open-Source managed Python decorator crons]]></description>
         </item>
     </channel>
 </rss>
