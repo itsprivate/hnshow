@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 25 Jul 2022 14:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 14:33:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用变形金刚和Python笔记本搜索PDF
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32224542</link>
+            <guid>https://news.ycombinator.com/item?id=32224542</guid>
+            <pubDate>Mon, 25 Jul 2022 14:11:13 GMT</pubDate>
+            <description><![CDATA[Show HN: Search PDFs with Transformers and Python Notebook]]></description>
+        </item>
         <item>
             <title><![CDATA[星球大战》"无月 "场景下的角色液晶显示器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31910209</guid>
             <pubDate>Tue, 28 Jun 2022 17:00:09 GMT</pubDate>
             <description><![CDATA[Show HN: NLP API for text segmentation and per-segment title generation]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用dstack运行AI应用程序和开发环境
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31910112</link>
-            <guid>https://news.ycombinator.com/item?id=31910112</guid>
-            <pubDate>Tue, 28 Jun 2022 16:52:31 GMT</pubDate>
-            <description><![CDATA[Show HN: Run AI apps and dev environments with dstack]]></description>
         </item>
     </channel>
 </rss>
