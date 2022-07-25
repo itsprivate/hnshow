@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-25T18:39:25.776Z</updated>
+    <updated>2022-07-25T19:07:01.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一個為獨立黑客和獨行俠製作的電子郵件營銷工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32229278</id>
+        <link href="https://news.ycombinator.com/item?id=32229278"/>
+        <updated>2022-07-25T18:58:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built an email marketing tool made for indie hackers and solopreneurs]]></summary>
+        <author>
+            <name>driaug</name>
+            <uri>https://news.ycombinator.com/user?id=driaug</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[客戶端和服務器的單一程序中的單一類型環境
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>chiscript</name>
             <uri>https://news.ycombinator.com/user?id=chiscript</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們為播客製作了一個快速音頻編輯器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31905554</id>
-        <link href="https://news.ycombinator.com/item?id=31905554"/>
-        <updated>2022-06-28T08:44:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We made a fast audio editor for podcasting]]></summary>
-        <author>
-            <name>xiaoxing</name>
-            <uri>https://news.ycombinator.com/user?id=xiaoxing</uri>
         </author>
     </entry>
 </feed>
