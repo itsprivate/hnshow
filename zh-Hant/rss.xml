@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 25 Jul 2022 16:44:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 17:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我用rustface得到了一個Twitter機器人的最佳面孔
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32227456</link>
+            <guid>https://news.ycombinator.com/item?id=32227456</guid>
+            <pubDate>Mon, 25 Jul 2022 17:07:13 GMT</pubDate>
+            <description><![CDATA[Show HN: I used rustface to get a Twitter bot's best faces]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用GPT-3不再有會議記錄
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32227455</link>
+            <guid>https://news.ycombinator.com/item?id=32227455</guid>
+            <pubDate>Mon, 25 Jul 2022 17:07:13 GMT</pubDate>
+            <description><![CDATA[Show HN: No more meeting minutes with GPT-3]]></description>
+        </item>
         <item>
             <title><![CDATA[Lurk - 用Rust編寫的strace的一個漂亮（簡單）的替代品
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31910678</guid>
             <pubDate>Tue, 28 Jun 2022 17:41:35 GMT</pubDate>
             <description><![CDATA[Show HN: Open-Source managed Python decorator crons]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我按速度對新聞網站進行排名
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31910622</link>
-            <guid>https://news.ycombinator.com/item?id=31910622</guid>
-            <pubDate>Tue, 28 Jun 2022 17:35:18 GMT</pubDate>
-            <description><![CDATA[Show HN: I ranked news websites by speed]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用圍棋在一個週末內完成光線追蹤
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31910585</link>
-            <guid>https://news.ycombinator.com/item?id=31910585</guid>
-            <pubDate>Tue, 28 Jun 2022 17:32:19 GMT</pubDate>
-            <description><![CDATA[Show HN: Ray Tracing in One Weekend in Go]]></description>
         </item>
     </channel>
 </rss>

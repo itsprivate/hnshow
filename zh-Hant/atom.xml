@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-25T16:44:35.683Z</updated>
+    <updated>2022-07-25T17:22:31.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我用rustface得到了一個Twitter機器人的最佳面孔
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32227456</id>
+        <link href="https://news.ycombinator.com/item?id=32227456"/>
+        <updated>2022-07-25T17:07:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I used rustface to get a Twitter bot's best faces]]></summary>
+        <author>
+            <name>amsterdorn</name>
+            <uri>https://news.ycombinator.com/user?id=amsterdorn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用GPT-3不再有會議記錄
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32227455</id>
+        <link href="https://news.ycombinator.com/item?id=32227455"/>
+        <updated>2022-07-25T17:07:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: No more meeting minutes with GPT-3]]></summary>
+        <author>
+            <name>Erazal</name>
+            <uri>https://news.ycombinator.com/user?id=Erazal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lurk - 用Rust編寫的strace的一個漂亮（簡單）的替代品
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>jzone3</name>
             <uri>https://news.ycombinator.com/user?id=jzone3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我按速度對新聞網站進行排名
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31910622</id>
-        <link href="https://news.ycombinator.com/item?id=31910622"/>
-        <updated>2022-06-28T17:35:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I ranked news websites by speed]]></summary>
-        <author>
-            <name>bradgessler</name>
-            <uri>https://news.ycombinator.com/user?id=bradgessler</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用圍棋在一個週末內完成光線追蹤
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31910585</id>
-        <link href="https://news.ycombinator.com/item?id=31910585"/>
-        <updated>2022-06-28T17:32:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ray Tracing in One Weekend in Go]]></summary>
-        <author>
-            <name>iforgetlogins01</name>
-            <uri>https://news.ycombinator.com/user?id=iforgetlogins01</uri>
         </author>
     </entry>
 </feed>
