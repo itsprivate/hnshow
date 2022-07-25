@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-25T19:24:55.017Z</updated>
+    <updated>2022-07-25T20:31:50.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PickCode - 繼Scratch之後為學生提供的一個教育性編碼環境
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32230329</id>
+        <link href="https://news.ycombinator.com/item?id=32230329"/>
+        <updated>2022-07-25T20:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PickCode – An educational coding environment for students after Scratch]]></summary>
+        <author>
+            <name>csmeyer</name>
+            <uri>https://news.ycombinator.com/user?id=csmeyer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPT-3對你的創業項目進行即時反饋
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bndr</name>
             <uri>https://news.ycombinator.com/user?id=bndr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於高性能網站的最快的滑塊庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31912432</id>
-        <link href="https://news.ycombinator.com/item?id=31912432"/>
-        <updated>2022-06-28T20:12:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The Fastest Slider library for high performance websites]]></summary>
-        <author>
-            <name>MNNTNK</name>
-            <uri>https://news.ycombinator.com/user?id=MNNTNK</uri>
         </author>
     </entry>
 </feed>
