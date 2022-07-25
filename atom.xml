@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-25T11:28:38.320Z</updated>
+    <updated>2022-07-25T14:04:25.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[星球大战》"无月 "场景下的角色液晶显示器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32223667</id>
+        <link href="https://news.ycombinator.com/item?id=32223667"/>
+        <updated>2022-07-25T13:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Star Wars “No Moon” Scene on Character LCD]]></summary>
+        <author>
+            <name>IanWard1</name>
+            <uri>https://news.ycombinator.com/user?id=IanWard1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用TypeScript类型的脑筋急转弯解释器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>peterschmidt</name>
             <uri>https://news.ycombinator.com/user?id=peterschmidt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在1-5分的范围内快速给项目打分
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31909587</id>
-        <link href="https://news.ycombinator.com/item?id=31909587"/>
-        <updated>2022-06-28T16:12:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Quickly score items on a scale of 1-5]]></summary>
-        <author>
-            <name>leobg</name>
-            <uri>https://news.ycombinator.com/user?id=leobg</uri>
         </author>
     </entry>
 </feed>
