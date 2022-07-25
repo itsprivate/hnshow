@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 25 Jul 2022 05:04:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 10:38:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[锅炉模板生成器 Node.js, Express, TypeScript/JavaScript项目
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32222596</link>
+            <guid>https://news.ycombinator.com/item?id=32222596</guid>
+            <pubDate>Mon, 25 Jul 2022 10:27:58 GMT</pubDate>
+            <description><![CDATA[Show HN: Boilerplate Generator Node.js, Express, TypeScript/JavaScript Projects]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用Svelte、TailwindCSS和Firebase的CrossFit计时器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32222323</link>
+            <guid>https://news.ycombinator.com/item?id=32222323</guid>
+            <pubDate>Mon, 25 Jul 2022 09:42:12 GMT</pubDate>
+            <description><![CDATA[Show HN: CrossFit Timers with Svelte, TailwindCSS and Firebase]]></description>
+        </item>
+        <item>
+            <title><![CDATA[六边形网格上的管道拼图（又称网）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32216436</link>
+            <guid>https://news.ycombinator.com/item?id=32216436</guid>
+            <pubDate>Sun, 24 Jul 2022 18:50:58 GMT</pubDate>
+            <description><![CDATA[Show HN: Pipes puzzle (a.k.a. Net) on a hexagonal grid]]></description>
+        </item>
         <item>
             <title><![CDATA[Preact二进制服务器应用程序
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31909532</guid>
             <pubDate>Tue, 28 Jun 2022 16:09:02 GMT</pubDate>
             <description><![CDATA[Show HN: 90k Computer Vision Datasets and 7k Pre-Trained Models]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Msgspec - Python的快速JSON模式库
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31908647</link>
-            <guid>https://news.ycombinator.com/item?id=31908647</guid>
-            <pubDate>Tue, 28 Jun 2022 15:03:10 GMT</pubDate>
-            <description><![CDATA[Show HN: Msgspec – a fast JSON schema library for Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[还钱。提醒你的朋友和家人偿还他们的债务
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31908319</link>
-            <guid>https://news.ycombinator.com/item?id=31908319</guid>
-            <pubDate>Tue, 28 Jun 2022 14:42:34 GMT</pubDate>
-            <description><![CDATA[Show HN: Payback: Remind your friends and family to pay their debts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用WASM FFMPEG将YouTube视频转换为GIF文件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31908397</link>
-            <guid>https://news.ycombinator.com/item?id=31908397</guid>
-            <pubDate>Tue, 28 Jun 2022 14:47:43 GMT</pubDate>
-            <description><![CDATA[Show HN: Convert YouTube videos to GIFs using WASM FFMPEG]]></description>
         </item>
     </channel>
 </rss>
