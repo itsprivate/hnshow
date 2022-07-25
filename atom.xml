@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-25T14:33:32.531Z</updated>
+    <updated>2022-07-25T15:56:53.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Blueboat - 一体化、多租户的无服务器JavaScript运行时间
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32226075</id>
+        <link href="https://news.ycombinator.com/item?id=32226075"/>
+        <updated>2022-07-25T15:48:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Blueboat – All-in-one, multi-tenant serverless JavaScript runtime]]></summary>
+        <author>
+            <name>losfair</name>
+            <uri>https://news.ycombinator.com/user?id=losfair</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个更好的CLI工具来生成Golang结构的构造函数代码
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32225886</id>
+        <link href="https://news.ycombinator.com/item?id=32225886"/>
+        <updated>2022-07-25T15:37:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A better CLI tool to generate Golang constructor code for a struct]]></summary>
+        <author>
+            <name>bennhuang</name>
+            <uri>https://news.ycombinator.com/user?id=bennhuang</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用变形金刚和Python笔记本搜索PDF
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>dvykhopen</name>
             <uri>https://news.ycombinator.com/user?id=dvykhopen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hasura GraphQL数据连接器SDK，将GraphQL API添加到任何数据源中
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31910358</id>
-        <link href="https://news.ycombinator.com/item?id=31910358"/>
-        <updated>2022-06-28T17:13:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hasura GraphQL Data Connector SDK to add GraphQL API to any data source]]></summary>
-        <author>
-            <name>praveenweb</name>
-            <uri>https://news.ycombinator.com/user?id=praveenweb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于文本分割和每段标题生成的NLP API
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31910209</id>
-        <link href="https://news.ycombinator.com/item?id=31910209"/>
-        <updated>2022-06-28T17:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: NLP API for text segmentation and per-segment title generation]]></summary>
-        <author>
-            <name>mojojojo24</name>
-            <uri>https://news.ycombinator.com/user?id=mojojojo24</uri>
         </author>
     </entry>
 </feed>
