@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-25T15:56:53.388Z</updated>
+    <updated>2022-07-25T16:44:35.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lurk - 用Rust編寫的strace的一個漂亮（簡單）的替代品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32226256</id>
+        <link href="https://news.ycombinator.com/item?id=32226256"/>
+        <updated>2022-07-25T15:58:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lurk – A pretty (simple) alternative to strace written in Rust]]></summary>
+        <author>
+            <name>JAKWAI</name>
+            <uri>https://news.ycombinator.com/user?id=JAKWAI</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blueboat - 一體化、多租戶的無服務器JavaScript運行時間
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>iforgetlogins01</name>
             <uri>https://news.ycombinator.com/user?id=iforgetlogins01</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們利用投資者工具找到了最適合工作的初創企業
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31910519</id>
-        <link href="https://news.ycombinator.com/item?id=31910519"/>
-        <updated>2022-06-28T17:27:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We used investor tools to find the best startups to work at]]></summary>
-        <author>
-            <name>dvykhopen</name>
-            <uri>https://news.ycombinator.com/user?id=dvykhopen</uri>
         </author>
     </entry>
 </feed>

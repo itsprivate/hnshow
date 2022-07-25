@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 25 Jul 2022 15:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 16:44:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Lurk - 用Rust編寫的strace的一個漂亮（簡單）的替代品
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32226256</link>
+            <guid>https://news.ycombinator.com/item?id=32226256</guid>
+            <pubDate>Mon, 25 Jul 2022 15:58:03 GMT</pubDate>
+            <description><![CDATA[Show HN: Lurk – A pretty (simple) alternative to strace written in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[Blueboat - 一體化、多租戶的無服務器JavaScript運行時間
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31910585</guid>
             <pubDate>Tue, 28 Jun 2022 17:32:19 GMT</pubDate>
             <description><![CDATA[Show HN: Ray Tracing in One Weekend in Go]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們利用投資者工具找到了最適合工作的初創企業
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31910519</link>
-            <guid>https://news.ycombinator.com/item?id=31910519</guid>
-            <pubDate>Tue, 28 Jun 2022 17:27:51 GMT</pubDate>
-            <description><![CDATA[Show HN: We used investor tools to find the best startups to work at]]></description>
         </item>
     </channel>
 </rss>
