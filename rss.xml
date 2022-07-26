@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 26 Jul 2022 08:35:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 08:53:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在Notion中嵌入了一个图书搜索
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32235801</link>
+            <guid>https://news.ycombinator.com/item?id=32235801</guid>
+            <pubDate>Tue, 26 Jul 2022 08:38:48 GMT</pubDate>
+            <description><![CDATA[Show HN: I embedded a book search into Notion]]></description>
+        </item>
+        <item>
+            <title><![CDATA[类似--在Unix管道中扣除类似的行数
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32235765</link>
+            <guid>https://news.ycombinator.com/item?id=32235765</guid>
+            <pubDate>Tue, 26 Jul 2022 08:32:58 GMT</pubDate>
+            <description><![CDATA[Show HN: Similar – dedup similar lines in Unix pipelines]]></description>
+        </item>
         <item>
             <title><![CDATA[Only-Python工作网站
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31920047</guid>
             <pubDate>Wed, 29 Jun 2022 13:48:15 GMT</pubDate>
             <description><![CDATA[Show HN: I wrote a book on how to hire and manage remote teams]]></description>
-        </item>
-        <item>
-            <title><![CDATA[创建拉动请求的分步演练
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31919904</link>
-            <guid>https://news.ycombinator.com/item?id=31919904</guid>
-            <pubDate>Wed, 29 Jun 2022 13:36:10 GMT</pubDate>
-            <description><![CDATA[Show HN: Create a Step-by-Step Walkthrough of a Pull Request]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个更难的Wordle版本
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31919706</link>
-            <guid>https://news.ycombinator.com/item?id=31919706</guid>
-            <pubDate>Wed, 29 Jun 2022 13:20:43 GMT</pubDate>
-            <description><![CDATA[Show HN: A Harder Version of Wordle]]></description>
         </item>
     </channel>
 </rss>
