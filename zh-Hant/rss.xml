@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 26 Jul 2022 20:32:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 21:02:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Airdash - 發送文件到任何設備
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32243865</link>
+            <guid>https://news.ycombinator.com/item?id=32243865</guid>
+            <pubDate>Tue, 26 Jul 2022 20:54:31 GMT</pubDate>
+            <description><![CDATA[Show HN: Airdash – Send files to any device]]></description>
+        </item>
+        <item>
+            <title><![CDATA[個人儀表板工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32243826</link>
+            <guid>https://news.ycombinator.com/item?id=32243826</guid>
+            <pubDate>Tue, 26 Jul 2022 20:51:40 GMT</pubDate>
+            <description><![CDATA[Show HN: Personal Dashboard Tool]]></description>
+        </item>
         <item>
             <title><![CDATA[黑客是誰？- 用問號替換HN的用戶名
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31929511</guid>
             <pubDate>Thu, 30 Jun 2022 07:08:13 GMT</pubDate>
             <description><![CDATA[Show HN: Monitoring CDK Constructs (Library)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[djkube在AWS EKS上快速啟動你的Django項目
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31929071</link>
-            <guid>https://news.ycombinator.com/item?id=31929071</guid>
-            <pubDate>Thu, 30 Jun 2022 05:55:26 GMT</pubDate>
-            <description><![CDATA[Show HN: djkube launch your Django project on AWS EKS in no time]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用Fastly Compute-at-Edge的WebSocket演示
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31929058</link>
-            <guid>https://news.ycombinator.com/item?id=31929058</guid>
-            <pubDate>Thu, 30 Jun 2022 05:52:29 GMT</pubDate>
-            <description><![CDATA[Show HN: WebSocket demo using Fastly Compute-at-Edge]]></description>
         </item>
     </channel>
 </rss>

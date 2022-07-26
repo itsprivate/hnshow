@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-26T20:32:54.218Z</updated>
+    <updated>2022-07-26T21:02:29.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Airdash - 發送文件到任何設備
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32243865</id>
+        <link href="https://news.ycombinator.com/item?id=32243865"/>
+        <updated>2022-07-26T20:54:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Airdash – Send files to any device]]></summary>
+        <author>
+            <name>simongbe</name>
+            <uri>https://news.ycombinator.com/user?id=simongbe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[個人儀表板工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32243826</id>
+        <link href="https://news.ycombinator.com/item?id=32243826"/>
+        <updated>2022-07-26T20:51:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Personal Dashboard Tool]]></summary>
+        <author>
+            <name>jtewright</name>
+            <uri>https://news.ycombinator.com/user?id=jtewright</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黑客是誰？- 用問號替換HN的用戶名
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>vojtah</name>
             <uri>https://news.ycombinator.com/user?id=vojtah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[djkube在AWS EKS上快速啟動你的Django項目
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31929071</id>
-        <link href="https://news.ycombinator.com/item?id=31929071"/>
-        <updated>2022-06-30T05:55:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: djkube launch your Django project on AWS EKS in no time]]></summary>
-        <author>
-            <name>ranjanprj</name>
-            <uri>https://news.ycombinator.com/user?id=ranjanprj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Fastly Compute-at-Edge的WebSocket演示
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31929058</id>
-        <link href="https://news.ycombinator.com/item?id=31929058"/>
-        <updated>2022-06-30T05:52:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WebSocket demo using Fastly Compute-at-Edge]]></summary>
-        <author>
-            <name>harmony7</name>
-            <uri>https://news.ycombinator.com/user?id=harmony7</uri>
         </author>
     </entry>
 </feed>
