@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 26 Jul 2022 14:39:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 14:49:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我的算法（現在適用於火狐）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32238860</link>
+            <guid>https://news.ycombinator.com/item?id=32238860</guid>
+            <pubDate>Tue, 26 Jul 2022 14:36:19 GMT</pubDate>
+            <description><![CDATA[Show HN: MyAlgorithm (Now for Firefox)]]></description>
+        </item>
         <item>
             <title><![CDATA[ESP32智能太陽能充電器 - 開放式太陽能項目
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31925712</guid>
             <pubDate>Wed, 29 Jun 2022 21:06:48 GMT</pubDate>
             <description><![CDATA[Show HN: Sudopad – Private link sharing board for friends]]></description>
-        </item>
-        <item>
-            <title><![CDATA[D'Ehre - 用巴伐利亞語說你好
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31925214</link>
-            <guid>https://news.ycombinator.com/item?id=31925214</guid>
-            <pubDate>Wed, 29 Jun 2022 20:18:13 GMT</pubDate>
-            <description><![CDATA[Show HN: D'Ehre – Say Hello in Bavarian]]></description>
         </item>
     </channel>
 </rss>

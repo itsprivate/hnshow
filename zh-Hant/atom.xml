@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-26T14:39:22.747Z</updated>
+    <updated>2022-07-26T14:49:18.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的算法（現在適用於火狐）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32238860</id>
+        <link href="https://news.ycombinator.com/item?id=32238860"/>
+        <updated>2022-07-26T14:36:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MyAlgorithm (Now for Firefox)]]></summary>
+        <author>
+            <name>jawerty</name>
+            <uri>https://news.ycombinator.com/user?id=jawerty</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ESP32智能太陽能充電器 - 開放式太陽能項目
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ishanr</name>
             <uri>https://news.ycombinator.com/user?id=ishanr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D'Ehre - 用巴伐利亞語說你好
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31925214</id>
-        <link href="https://news.ycombinator.com/item?id=31925214"/>
-        <updated>2022-06-29T20:18:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: D'Ehre – Say Hello in Bavarian]]></summary>
-        <author>
-            <name>midzer</name>
-            <uri>https://news.ycombinator.com/user?id=midzer</uri>
         </author>
     </entry>
 </feed>
