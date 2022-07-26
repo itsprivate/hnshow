@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 26 Jul 2022 05:36:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 07:29:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Z-run - 脚本库的轻量级工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32235380</link>
+            <guid>https://news.ycombinator.com/item?id=32235380</guid>
+            <pubDate>Tue, 26 Jul 2022 07:25:37 GMT</pubDate>
+            <description><![CDATA[Show HN: Z-run – scripting library lightweight tool]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Virtink - Kubernetes的轻量级虚拟化插件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32235231</link>
+            <guid>https://news.ycombinator.com/item?id=32235231</guid>
+            <pubDate>Tue, 26 Jul 2022 06:59:44 GMT</pubDate>
+            <description><![CDATA[Show HN: Virtink – Lightweight Virtualization Add-On for Kubernetes]]></description>
+        </item>
         <item>
             <title><![CDATA[Komokana - 用Rust编写的自动应用程序感知的键盘层切换器
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31919471</guid>
             <pubDate>Wed, 29 Jun 2022 12:54:36 GMT</pubDate>
             <description><![CDATA[Show HN: Created super-fast PWA app using reactpwa.com]]></description>
-        </item>
-        <item>
-            <title><![CDATA[私人拥有或共同使用DialMe电话号码，在网上接收短信
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31919334</link>
-            <guid>https://news.ycombinator.com/item?id=31919334</guid>
-            <pubDate>Wed, 29 Jun 2022 12:41:19 GMT</pubDate>
-            <description><![CDATA[Show HN: Privately own or co-use DialMe phone numbers to receive SMS on web]]></description>
-        </item>
-        <item>
-            <title><![CDATA[动画天气仪表板
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31919278</link>
-            <guid>https://news.ycombinator.com/item?id=31919278</guid>
-            <pubDate>Wed, 29 Jun 2022 12:34:59 GMT</pubDate>
-            <description><![CDATA[Show HN: Animated Weather Dashboard]]></description>
         </item>
     </channel>
 </rss>
