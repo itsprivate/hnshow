@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-26T21:02:29.515Z</updated>
+    <updated>2022-07-26T23:47:47.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[教育--展示你所知道的，我們會找到你能解決的問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32245413</id>
+        <link href="https://news.ycombinator.com/item?id=32245413"/>
+        <updated>2022-07-26T23:42:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Edify – show what you know and we’ll find problems you can solve]]></summary>
+        <author>
+            <name>iedufy</name>
+            <uri>https://news.ycombinator.com/user?id=iedufy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Airdash - 發送文件到任何設備
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mp85</name>
             <uri>https://news.ycombinator.com/user?id=mp85</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[監測CDK結構（圖書館）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31929511</id>
-        <link href="https://news.ycombinator.com/item?id=31929511"/>
-        <updated>2022-06-30T07:08:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Monitoring CDK Constructs (Library)]]></summary>
-        <author>
-            <name>vojtah</name>
-            <uri>https://news.ycombinator.com/user?id=vojtah</uri>
         </author>
     </entry>
 </feed>
