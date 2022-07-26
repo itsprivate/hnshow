@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 26 Jul 2022 16:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 17:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[輕鬆註釋和分享ArXiv論文 - Smort.io
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32240810</link>
+            <guid>https://news.ycombinator.com/item?id=32240810</guid>
+            <pubDate>Tue, 26 Jul 2022 16:55:23 GMT</pubDate>
+            <description><![CDATA[Show HN: Easily annotate and share ArXiv papers – Smort.io]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Scroll stdout
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32240784</link>
+            <guid>https://news.ycombinator.com/item?id=32240784</guid>
+            <pubDate>Tue, 26 Jul 2022 16:53:22 GMT</pubDate>
+            <description><![CDATA[Show HN: Scroll stdout]]></description>
+        </item>
         <item>
             <title><![CDATA[Blueboat是一個一體化的、多租戶的無服務器JavaScript運行時間。
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31927584</guid>
             <pubDate>Thu, 30 Jun 2022 01:01:29 GMT</pubDate>
             <description><![CDATA[Show HN: AWS Auto Cleanup – Automatically cleanup your AWS account]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Redpanda中使用Flink
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31927235</link>
-            <guid>https://news.ycombinator.com/item?id=31927235</guid>
-            <pubDate>Thu, 30 Jun 2022 00:01:43 GMT</pubDate>
-            <description><![CDATA[Show HN: Using Flink with Redpanda]]></description>
-        </item>
-        <item>
-            <title><![CDATA[國際食品相關協議研究所
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31926452</link>
-            <guid>https://news.ycombinator.com/item?id=31926452</guid>
-            <pubDate>Wed, 29 Jun 2022 22:27:16 GMT</pubDate>
-            <description><![CDATA[Show HN: The International Institute of Food-Related Protocols]]></description>
         </item>
     </channel>
 </rss>
