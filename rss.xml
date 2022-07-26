@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 26 Jul 2022 19:45:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 20:32:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[黑客是谁？- 用问号替换HN的用户名
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32243157</link>
+            <guid>https://news.ycombinator.com/item?id=32243157</guid>
+            <pubDate>Tue, 26 Jul 2022 19:56:44 GMT</pubDate>
+            <description><![CDATA[Show HN: Hacker Who’s? – Replace HN usernames with question marks]]></description>
+        </item>
         <item>
             <title><![CDATA[Skeleton--Svelte和Tailwind的开源UI组件库
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31929058</guid>
             <pubDate>Thu, 30 Jun 2022 05:52:29 GMT</pubDate>
             <description><![CDATA[Show HN: WebSocket demo using Fastly Compute-at-Edge]]></description>
-        </item>
-        <item>
-            <title><![CDATA[JoinBase - 为物联网时代创造了一个前所未有的数据库
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31928694</link>
-            <guid>https://news.ycombinator.com/item?id=31928694</guid>
-            <pubDate>Thu, 30 Jun 2022 04:20:44 GMT</pubDate>
-            <description><![CDATA[Show HN: JoinBase – Creates an Unprecedented Database for IoT Era]]></description>
         </item>
     </channel>
 </rss>
