@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-26T04:33:42.585Z</updated>
+    <updated>2022-07-26T05:36:51.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Komokana - 用Rust编写的自动应用程序感知的键盘层切换器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32234545</id>
+        <link href="https://news.ycombinator.com/item?id=32234545"/>
+        <updated>2022-07-26T05:20:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Komokana – Automatic app-aware keyboard layer switcher written in Rust]]></summary>
+        <author>
+            <name>bsnnkv</name>
+            <uri>https://news.ycombinator.com/user?id=bsnnkv</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pathvector - 安全和开源的BGP路由平台
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32234344</id>
+        <link href="https://news.ycombinator.com/item?id=32234344"/>
+        <updated>2022-07-26T04:47:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pathvector – Secure and open-source BGP routing platform]]></summary>
+        <author>
+            <name>natesales</name>
+            <uri>https://news.ycombinator.com/user?id=natesales</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maroofy - 通过30年代的歌曲剪辑，发现你会喜欢的音乐
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>drag00n</name>
             <uri>https://news.ycombinator.com/user?id=drag00n</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safari的扩展
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31918687</id>
-        <link href="https://news.ycombinator.com/item?id=31918687"/>
-        <updated>2022-06-29T11:22:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Safari Extensions]]></summary>
-        <author>
-            <name>willswire</name>
-            <uri>https://news.ycombinator.com/user?id=willswire</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebReducer：在几秒钟内建立具有状态的独立HTTP端点
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31918616</id>
-        <link href="https://news.ycombinator.com/item?id=31918616"/>
-        <updated>2022-06-29T11:10:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WebReducer: build self-contained HTTP endpoints with state in seconds]]></summary>
-        <author>
-            <name>zekenie</name>
-            <uri>https://news.ycombinator.com/user?id=zekenie</uri>
         </author>
     </entry>
 </feed>
