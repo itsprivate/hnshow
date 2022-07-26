@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-26T13:54:42.643Z</updated>
+    <updated>2022-07-26T14:08:39.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Multy - 開源工具，可以部署到任何雲並隨時切換
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32238362</id>
+        <link href="https://news.ycombinator.com/item?id=32238362"/>
+        <updated>2022-07-26T13:59:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Multy – open-source tool to deploy to any cloud and switch at any time]]></summary>
+        <author>
+            <name>danvdb18</name>
+            <uri>https://news.ycombinator.com/user?id=danvdb18</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Semdle - 一個新穎的人工智能/NLP驅動的、基於語義的文字遊戲
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Siecje</name>
             <uri>https://news.ycombinator.com/user?id=Siecje</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對抗式2048
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31922891</id>
-        <link href="https://news.ycombinator.com/item?id=31922891"/>
-        <updated>2022-06-29T17:05:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Adversarial 2048]]></summary>
-        <author>
-            <name>PlasmaVortex</name>
-            <uri>https://news.ycombinator.com/user?id=PlasmaVortex</uri>
         </author>
     </entry>
 </feed>
