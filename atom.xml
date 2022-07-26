@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-26T14:49:18.445Z</updated>
+    <updated>2022-07-26T16:46:53.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Blueboat是一个一体化的、多租户的无服务器JavaScript运行时间。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32240511</id>
+        <link href="https://news.ycombinator.com/item?id=32240511"/>
+        <updated>2022-07-26T16:33:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Blueboat is an all-in-one, multi-tenant serverless JavaScript runtime]]></summary>
+        <author>
+            <name>losfair</name>
+            <uri>https://news.ycombinator.com/user?id=losfair</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于文本的用户界面（TUI），用于Slack客户端（模拟）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32240501</id>
+        <link href="https://news.ycombinator.com/item?id=32240501"/>
+        <updated>2022-07-26T16:33:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Text-based UI (TUI) for a Slack client (mock)]]></summary>
+        <author>
+            <name>ggerganov</name>
+            <uri>https://news.ycombinator.com/user?id=ggerganov</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeCommerce - Web3的分散式电子商务平台
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32240260</id>
+        <link href="https://news.ycombinator.com/item?id=32240260"/>
+        <updated>2022-07-26T16:16:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: DeCommerce – Decentralized ecommerce platform for Web3]]></summary>
+        <author>
+            <name>jopin</name>
+            <uri>https://news.ycombinator.com/user?id=jopin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的算法（现在适用于火狐）。
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>sonicrocketman</name>
             <uri>https://news.ycombinator.com/user?id=sonicrocketman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's Gym，这个应用程序可以让你找到附近的健身伙伴。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31926342</id>
-        <link href="https://news.ycombinator.com/item?id=31926342"/>
-        <updated>2022-06-29T22:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Let’s Gym, the app that lets you find a nearby Gym Partner]]></summary>
-        <author>
-            <name>belalkamara</name>
-            <uri>https://news.ycombinator.com/user?id=belalkamara</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国个人所得税的计算器，从1970年到现在
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31925871</id>
-        <link href="https://news.ycombinator.com/item?id=31925871"/>
-        <updated>2022-06-29T21:22:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Calculator for US Individual Income tax, from 1970-present]]></summary>
-        <author>
-            <name>tmm1</name>
-            <uri>https://news.ycombinator.com/user?id=tmm1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sudopad - 朋友们的私人链接分享板
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31925712</id>
-        <link href="https://news.ycombinator.com/item?id=31925712"/>
-        <updated>2022-06-29T21:06:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Sudopad – Private link sharing board for friends]]></summary>
-        <author>
-            <name>ishanr</name>
-            <uri>https://news.ycombinator.com/user?id=ishanr</uri>
         </author>
     </entry>
 </feed>
