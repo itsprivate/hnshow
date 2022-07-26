@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-26T08:53:58.594Z</updated>
+    <updated>2022-07-26T09:51:59.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[以GitHub为源头运行你的通讯
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32236022</id>
+        <link href="https://news.ycombinator.com/item?id=32236022"/>
+        <updated>2022-07-26T09:17:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Run your newsletter with GitHub as source]]></summary>
+        <author>
+            <name>notyeast</name>
+            <uri>https://news.ycombinator.com/user?id=notyeast</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marple - 为工程师提供交互式时间序列可视化服务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32235975</id>
+        <link href="https://news.ycombinator.com/item?id=32235975"/>
+        <updated>2022-07-26T09:10:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Marple – Interactive time series visualization for engineers]]></summary>
+        <author>
+            <name>NeroVanbierv</name>
+            <uri>https://news.ycombinator.com/user?id=NeroVanbierv</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在Notion中嵌入了一个图书搜索
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Unit520</name>
             <uri>https://news.ycombinator.com/user?id=Unit520</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SubReply CSS - 我正在研究的一种无类的CSS样式。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31920615</id>
-        <link href="https://news.ycombinator.com/item?id=31920615"/>
-        <updated>2022-06-29T14:28:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: SubReply CSS – An exprimental classless CSS style that I am working on]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我写了一本关于如何雇用和管理远程团队的书
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31920047</id>
-        <link href="https://news.ycombinator.com/item?id=31920047"/>
-        <updated>2022-06-29T13:48:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I wrote a book on how to hire and manage remote teams]]></summary>
-        <author>
-            <name>pupeno</name>
-            <uri>https://news.ycombinator.com/user?id=pupeno</uri>
         </author>
     </entry>
 </feed>
