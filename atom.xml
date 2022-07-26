@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-26T07:29:14.718Z</updated>
+    <updated>2022-07-26T08:35:11.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Only-Python工作网站
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32235598</id>
+        <link href="https://news.ycombinator.com/item?id=32235598"/>
+        <updated>2022-07-26T08:04:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Only-Python Jobs Website]]></summary>
+        <author>
+            <name>iamKenn</name>
+            <uri>https://news.ycombinator.com/user?id=iamKenn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Z-run - 脚本库的轻量级工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>danieltait</name>
             <uri>https://news.ycombinator.com/user?id=danieltait</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用reactpwa.com创建了超快的PWA应用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31919471</id>
-        <link href="https://news.ycombinator.com/item?id=31919471"/>
-        <updated>2022-06-29T12:54:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Created super-fast PWA app using reactpwa.com]]></summary>
-        <author>
-            <name>avkpatel</name>
-            <uri>https://news.ycombinator.com/user?id=avkpatel</uri>
         </author>
     </entry>
 </feed>
