@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 26 Jul 2022 10:36:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 11:28:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[具有完全類型推理的TypeScript查詢生成器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32236620</link>
+            <guid>https://news.ycombinator.com/item?id=32236620</guid>
+            <pubDate>Tue, 26 Jul 2022 10:54:43 GMT</pubDate>
+            <description><![CDATA[Show HN: TypeScript query builder with full type inference]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用Tailwindcss製作的預發佈模板
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32236609</link>
+            <guid>https://news.ycombinator.com/item?id=32236609</guid>
+            <pubDate>Tue, 26 Jul 2022 10:53:12 GMT</pubDate>
+            <description><![CDATA[Show HN: Prelaunch Templates Built with Tailwindcss]]></description>
+        </item>
         <item>
             <title><![CDATA[最終的C++14枚舉庫
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31921313</guid>
             <pubDate>Wed, 29 Jun 2022 15:12:24 GMT</pubDate>
             <description><![CDATA[Show HN: Infracost (YC W21): Cloud Costs for Terraform in VSCode]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Ploomber雲（YC W22）--無需基礎設施即可大規模運行筆記本
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31921191</link>
-            <guid>https://news.ycombinator.com/item?id=31921191</guid>
-            <pubDate>Wed, 29 Jun 2022 15:04:47 GMT</pubDate>
-            <description><![CDATA[Show HN: Ploomber Cloud (YC W22) – run notebooks at scale without infrastructure]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如果你今天沒有練習西班牙語，請拒絕Git-push
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31920976</link>
-            <guid>https://news.ycombinator.com/item?id=31920976</guid>
-            <pubDate>Wed, 29 Jun 2022 14:51:55 GMT</pubDate>
-            <description><![CDATA[Show HN: Reject Git-push if you haven't practiced your Spanish today]]></description>
         </item>
     </channel>
 </rss>
