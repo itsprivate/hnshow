@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-27T20:32:49.229Z</updated>
+    <updated>2022-07-27T20:49:34.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Inflint - 掃描和驗證文件名慣例
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32256649</id>
+        <link href="https://news.ycombinator.com/item?id=32256649"/>
+        <updated>2022-07-27T20:43:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Inflint – Scan and verify file name conventions]]></summary>
+        <author>
+            <name>talrofe</name>
+            <uri>https://news.ycombinator.com/user?id=talrofe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSON-安全Lisp語言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32256568</id>
+        <link href="https://news.ycombinator.com/item?id=32256568"/>
+        <updated>2022-07-27T20:38:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: JSON-Safe Lisp Language]]></summary>
+        <author>
+            <name>methodical</name>
+            <uri>https://news.ycombinator.com/user?id=methodical</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用網絡瀏覽器將你的屏幕分享到投影儀/電視上
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>edianorh</name>
             <uri>https://news.ycombinator.com/user?id=edianorh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSVFiddle - 在瀏覽器中用DuckDB查詢CSV文件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31946039</id>
-        <link href="https://news.ycombinator.com/item?id=31946039"/>
-        <updated>2022-07-01T13:27:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CSVFiddle – Query CSV files with DuckDB in the browser]]></summary>
-        <author>
-            <name>shbhrsaha</name>
-            <uri>https://news.ycombinator.com/user?id=shbhrsaha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免費的Calendly替代方案（以及建立該方案1年來的經驗教訓）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31945742</id>
-        <link href="https://news.ycombinator.com/item?id=31945742"/>
-        <updated>2022-07-01T12:57:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Free Calendly alternative (and lessons learned from 1 year building it)]]></summary>
-        <author>
-            <name>octocodeio</name>
-            <uri>https://news.ycombinator.com/user?id=octocodeio</uri>
         </author>
     </entry>
 </feed>
