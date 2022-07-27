@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-27T13:04:19.178Z</updated>
+    <updated>2022-07-27T14:01:56.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Crew for Exchange 2.0, Stack Exchange的本地iOS应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32250057</id>
+        <link href="https://news.ycombinator.com/item?id=32250057"/>
+        <updated>2022-07-27T13:19:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Crew for Exchange 2.0, native iOS application for Stack Exchange]]></summary>
+        <author>
+            <name>danieljamess</name>
+            <uri>https://news.ycombinator.com/user?id=danieljamess</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[每天发现和讨论一幅画
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>elbayla</name>
             <uri>https://news.ycombinator.com/user?id=elbayla</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unbreach, a Haveibeenpwned for Businesses
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31934302</id>
-        <link href="https://news.ycombinator.com/item?id=31934302"/>
-        <updated>2022-06-30T15:53:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Unbreach, a Haveibeenpwned for Businesses]]></summary>
-        <author>
-            <name>pupeno</name>
-            <uri>https://news.ycombinator.com/user?id=pupeno</uri>
         </author>
     </entry>
 </feed>
