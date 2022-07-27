@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 27 Jul 2022 17:50:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 18:01:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Vi-pipe，在shell管道中編輯和回放文本變化
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32253962</link>
+            <guid>https://news.ycombinator.com/item?id=32253962</guid>
+            <pubDate>Wed, 27 Jul 2022 17:56:11 GMT</pubDate>
+            <description><![CDATA[Show HN: Vi-pipe, edit and replay text changes in the middle of a shell pipeline]]></description>
+        </item>
         <item>
             <title><![CDATA[Mvsqlite - 在FoundationDB上運行的分佈式、MVCC SQLite
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31940185</guid>
             <pubDate>Thu, 30 Jun 2022 23:41:25 GMT</pubDate>
             <description><![CDATA[Show HN: Layoff Support]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我寫了一個關於GPT-3的故事 寫了一個關於我寫GPT3的故事
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31940115</link>
-            <guid>https://news.ycombinator.com/item?id=31940115</guid>
-            <pubDate>Thu, 30 Jun 2022 23:33:25 GMT</pubDate>
-            <description><![CDATA[Show HN: I wrote a story about GPT-3 writing a story about me writing about GPT3]]></description>
         </item>
     </channel>
 </rss>

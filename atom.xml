@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-27T17:50:50.425Z</updated>
+    <updated>2022-07-27T18:01:50.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vi-pipe，在shell管道中编辑和回放文本变化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32253962</id>
+        <link href="https://news.ycombinator.com/item?id=32253962"/>
+        <updated>2022-07-27T17:56:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Vi-pipe, edit and replay text changes in the middle of a shell pipeline]]></summary>
+        <author>
+            <name>commotionfever</name>
+            <uri>https://news.ycombinator.com/user?id=commotionfever</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mvsqlite - 在FoundationDB上运行的分布式、MVCC SQLite
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jacob_rezi</name>
             <uri>https://news.ycombinator.com/user?id=jacob_rezi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我写了一个关于GPT-3的故事 写了一个关于我写GPT3的故事
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31940115</id>
-        <link href="https://news.ycombinator.com/item?id=31940115"/>
-        <updated>2022-06-30T23:33:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I wrote a story about GPT-3 writing a story about me writing about GPT3]]></summary>
-        <author>
-            <name>whatrocks</name>
-            <uri>https://news.ycombinator.com/user?id=whatrocks</uri>
         </author>
     </entry>
 </feed>
