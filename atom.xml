@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-27T19:31:06.991Z</updated>
+    <updated>2022-07-27T19:51:17.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[分散你对大科技的接触
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32255657</id>
+        <link href="https://news.ycombinator.com/item?id=32255657"/>
+        <updated>2022-07-27T19:36:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fragmenting Your Exposure to Big Tech]]></summary>
+        <author>
+            <name>apeconmyth</name>
+            <uri>https://news.ycombinator.com/user?id=apeconmyth</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chord Genius--吉他卡拉OK应用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32255513</id>
+        <link href="https://news.ycombinator.com/item?id=32255513"/>
+        <updated>2022-07-27T19:28:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Chord Genius – karaoke for guitar app]]></summary>
+        <author>
+            <name>florianhidayat</name>
+            <uri>https://news.ycombinator.com/user?id=florianhidayat</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IPFS的去中心化电子商务
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>petesamrogers</name>
             <uri>https://news.ycombinator.com/user?id=petesamrogers</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meantime.me - 我会打电话给你，检查你是否已经完成任务
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31945080</id>
-        <link href="https://news.ycombinator.com/item?id=31945080"/>
-        <updated>2022-07-01T11:49:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Meantime.me – I'll call you to check that you have done your tasks]]></summary>
-        <author>
-            <name>cosbgn</name>
-            <uri>https://news.ycombinator.com/user?id=cosbgn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过GitHub数据寻找开发者
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31944448</id>
-        <link href="https://news.ycombinator.com/item?id=31944448"/>
-        <updated>2022-07-01T10:15:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Find Developers via GitHub Data]]></summary>
-        <author>
-            <name>visox</name>
-            <uri>https://news.ycombinator.com/user?id=visox</uri>
         </author>
     </entry>
 </feed>
