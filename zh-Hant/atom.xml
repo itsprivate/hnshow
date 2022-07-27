@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-27T09:29:02.479Z</updated>
+    <updated>2022-07-27T10:01:34.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用準備好的面試候選人填補你的招聘管道
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32248580</id>
+        <link href="https://news.ycombinator.com/item?id=32248580"/>
+        <updated>2022-07-27T09:55:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fill your hiring pipelines with ready-to-interview candidates]]></summary>
+        <author>
+            <name>annienxli</name>
+            <uri>https://news.ycombinator.com/user?id=annienxli</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用pytask創建可重複的數據分析工作流程
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>CrisPerdue</name>
             <uri>https://news.ycombinator.com/user?id=CrisPerdue</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[提高編碼水平 - 使用GitHub Copilot飛行
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31932751</id>
-        <link href="https://news.ycombinator.com/item?id=31932751"/>
-        <updated>2022-06-30T14:27:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Level Up Coding – Flying with GitHub Copilot]]></summary>
-        <author>
-            <name>dtagames</name>
-            <uri>https://news.ycombinator.com/user?id=dtagames</uri>
         </author>
     </entry>
 </feed>
