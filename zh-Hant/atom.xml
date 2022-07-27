@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-27T21:01:00.607Z</updated>
+    <updated>2022-07-27T21:28:32.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Vim的火山編輯模式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32257139</id>
+        <link href="https://news.ycombinator.com/item?id=32257139"/>
+        <updated>2022-07-27T21:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Volcano Editing Mode for Vim]]></summary>
+        <author>
+            <name>meken</name>
+            <uri>https://news.ycombinator.com/user?id=meken</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clyde，預建應用程序的軟件包管理器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32256866</id>
+        <link href="https://news.ycombinator.com/item?id=32256866"/>
+        <updated>2022-07-27T20:58:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Clyde, package manager for prebuilt applications]]></summary>
+        <author>
+            <name>agateau</name>
+            <uri>https://news.ycombinator.com/user?id=agateau</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[快速光標--安卓的單手模式。新的邊緣動作功能
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>scastiel</name>
             <uri>https://news.ycombinator.com/user?id=scastiel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[路障--不再建立認證
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31946594</id>
-        <link href="https://news.ycombinator.com/item?id=31946594"/>
-        <updated>2022-07-01T14:07:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Barricade – Never build authentication again]]></summary>
-        <author>
-            <name>ianpurton</name>
-            <uri>https://news.ycombinator.com/user?id=ianpurton</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[簡單的API性能測試工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31946592</id>
-        <link href="https://news.ycombinator.com/item?id=31946592"/>
-        <updated>2022-07-01T14:07:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Simple API Performance Testing Tool]]></summary>
-        <author>
-            <name>fatihbaltaci</name>
-            <uri>https://news.ycombinator.com/user?id=fatihbaltaci</uri>
         </author>
     </entry>
 </feed>
