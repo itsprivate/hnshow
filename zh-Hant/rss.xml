@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 27 Jul 2022 14:37:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 14:49:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Jupyter筆記本的數據顯示框
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32250900</link>
+            <guid>https://news.ycombinator.com/item?id=32250900</guid>
+            <pubDate>Wed, 27 Jul 2022 14:37:17 GMT</pubDate>
+            <description><![CDATA[Show HN: Data display boxes for Jupyter Notebook]]></description>
+        </item>
         <item>
             <title><![CDATA[Disgo - 在Go中創建一個Discord機器人
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31935353</guid>
             <pubDate>Thu, 30 Jun 2022 16:59:08 GMT</pubDate>
             <description><![CDATA[Show HN: Python Live GUI 1.0.0]]></description>
-        </item>
-        <item>
-            <title><![CDATA[發送或接收包裹，不需要分享家庭地址
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31935267</link>
-            <guid>https://news.ycombinator.com/item?id=31935267</guid>
-            <pubDate>Thu, 30 Jun 2022 16:53:12 GMT</pubDate>
-            <description><![CDATA[Show HN: Send or Receive parcel packages w/o sharing home address]]></description>
         </item>
     </channel>
 </rss>

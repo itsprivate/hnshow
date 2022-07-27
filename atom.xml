@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-27T14:37:20.764Z</updated>
+    <updated>2022-07-27T14:49:23.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Jupyter笔记本的数据显示框
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32250900</id>
+        <link href="https://news.ycombinator.com/item?id=32250900"/>
+        <updated>2022-07-27T14:37:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Data display boxes for Jupyter Notebook]]></summary>
+        <author>
+            <name>pplonski86</name>
+            <uri>https://news.ycombinator.com/user?id=pplonski86</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Disgo - 在Go中创建一个Discord机器人
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>RupertWiser</name>
             <uri>https://news.ycombinator.com/user?id=RupertWiser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发送或接收包裹，不需要分享家庭地址
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31935267</id>
-        <link href="https://news.ycombinator.com/item?id=31935267"/>
-        <updated>2022-06-30T16:53:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Send or Receive parcel packages w/o sharing home address]]></summary>
-        <author>
-            <name>thesecretceo</name>
-            <uri>https://news.ycombinator.com/user?id=thesecretceo</uri>
         </author>
     </entry>
 </feed>
