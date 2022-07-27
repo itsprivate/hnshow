@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-27T21:47:00.080Z</updated>
+    <updated>2022-07-27T23:31:55.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從TypeScript類型生成結構化表單的TypeScript編輯器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32258329</id>
+        <link href="https://news.ycombinator.com/item?id=32258329"/>
+        <updated>2022-07-27T23:17:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: TypeScript Editor that generates structured forms from TypeScript types]]></summary>
+        <author>
+            <name>fwouts</name>
+            <uri>https://news.ycombinator.com/user?id=fwouts</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Svelte的開關案例語法
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>roknovosel</name>
             <uri>https://news.ycombinator.com/user?id=roknovosel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sliceform - 從頭開始學習3D打印的CAD
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31947828</id>
-        <link href="https://news.ycombinator.com/item?id=31947828"/>
-        <updated>2022-07-01T15:31:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Sliceform – Learn CAD for 3D printing from scratch]]></summary>
-        <author>
-            <name>sliceform</name>
-            <uri>https://news.ycombinator.com/user?id=sliceform</uri>
         </author>
     </entry>
 </feed>
