@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 27 Jul 2022 15:55:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 16:49:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[開始條件，一個開放的項目來回答 "誰先走？"
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32252672</link>
+            <guid>https://news.ycombinator.com/item?id=32252672</guid>
+            <pubDate>Wed, 27 Jul 2022 16:35:41 GMT</pubDate>
+            <description><![CDATA[Show HN: Starting Condition, an open project to answer “Who goes first?”]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Rust中的在線統計
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32252440</link>
+            <guid>https://news.ycombinator.com/item?id=32252440</guid>
+            <pubDate>Wed, 27 Jul 2022 16:20:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Online Statistics in Rust]]></description>
+        </item>
         <item>
             <title><![CDATA[化學和電子鼻實驗裝置
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31938565</guid>
             <pubDate>Thu, 30 Jun 2022 21:01:43 GMT</pubDate>
             <description><![CDATA[Show HN: Audio, video, text feedback on documents, websites, images]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bentoctl - 一個用於ML的開源Terraform部署工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31937775</link>
-            <guid>https://news.ycombinator.com/item?id=31937775</guid>
-            <pubDate>Thu, 30 Jun 2022 19:58:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Bentoctl – An open-source Terraform deployment tool for ML]]></description>
-        </item>
-        <item>
-            <title><![CDATA[網絡組件和Lit的入門
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31936938</link>
-            <guid>https://news.ycombinator.com/item?id=31936938</guid>
-            <pubDate>Thu, 30 Jun 2022 18:57:36 GMT</pubDate>
-            <description><![CDATA[Show HN: Getting Started with Web Components and Lit]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-27T15:55:53.650Z</updated>
+    <updated>2022-07-27T16:49:03.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開始條件，一個開放的項目來回答 "誰先走？"
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32252672</id>
+        <link href="https://news.ycombinator.com/item?id=32252672"/>
+        <updated>2022-07-27T16:35:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Starting Condition, an open project to answer “Who goes first?”]]></summary>
+        <author>
+            <name>higgins</name>
+            <uri>https://news.ycombinator.com/user?id=higgins</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust中的在線統計
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32252440</id>
+        <link href="https://news.ycombinator.com/item?id=32252440"/>
+        <updated>2022-07-27T16:20:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Online Statistics in Rust]]></summary>
+        <author>
+            <name>AdilZtn</name>
+            <uri>https://news.ycombinator.com/user?id=AdilZtn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[化學和電子鼻實驗裝置
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>samiezkay</name>
             <uri>https://news.ycombinator.com/user?id=samiezkay</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bentoctl - 一個用於ML的開源Terraform部署工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31937775</id>
-        <link href="https://news.ycombinator.com/item?id=31937775"/>
-        <updated>2022-06-30T19:58:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bentoctl – An open-source Terraform deployment tool for ML]]></summary>
-        <author>
-            <name>yubozhao</name>
-            <uri>https://news.ycombinator.com/user?id=yubozhao</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[網絡組件和Lit的入門
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31936938</id>
-        <link href="https://news.ycombinator.com/item?id=31936938"/>
-        <updated>2022-06-30T18:57:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Getting Started with Web Components and Lit]]></summary>
-        <author>
-            <name>dtagames</name>
-            <uri>https://news.ycombinator.com/user?id=dtagames</uri>
         </author>
     </entry>
 </feed>
