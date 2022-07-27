@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-27T16:49:03.149Z</updated>
+    <updated>2022-07-27T17:21:43.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[建議網站播客的Chrome擴展
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32252841</id>
+        <link href="https://news.ycombinator.com/item?id=32252841"/>
+        <updated>2022-07-27T16:47:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Chrome extension to suggest podcasts of a website]]></summary>
+        <author>
+            <name>wenbin</name>
+            <uri>https://news.ycombinator.com/user?id=wenbin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[開始條件，一個開放的項目來回答 "誰先走？"
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>candiddevmike</name>
             <uri>https://news.ycombinator.com/user?id=candiddevmike</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對文件、網站、圖像的音頻、視頻、文本反饋
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31938565</id>
-        <link href="https://news.ycombinator.com/item?id=31938565"/>
-        <updated>2022-06-30T21:01:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Audio, video, text feedback on documents, websites, images]]></summary>
-        <author>
-            <name>samiezkay</name>
-            <uri>https://news.ycombinator.com/user?id=samiezkay</uri>
         </author>
     </entry>
 </feed>
