@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-26T23:47:47.659Z</updated>
+    <updated>2022-07-27T02:46:53.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用AI自動組織你的Twitter書籤
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32246305</id>
+        <link href="https://news.ycombinator.com/item?id=32246305"/>
+        <updated>2022-07-27T02:28:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Automatically organize your Twitter bookmarks with AI]]></summary>
+        <author>
+            <name>okozzie</name>
+            <uri>https://news.ycombinator.com/user?id=okozzie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我為獨立黑客建立了一個可以執行Python的筆記工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32245596</id>
+        <link href="https://news.ycombinator.com/item?id=32245596"/>
+        <updated>2022-07-27T00:12:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a note taking tool that executes Python for indie hackers]]></summary>
+        <author>
+            <name>0b01</name>
+            <uri>https://news.ycombinator.com/user?id=0b01</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[教育--展示你所知道的，我們會找到你能解決的問題
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>vinodbollini</name>
             <uri>https://news.ycombinator.com/user?id=vinodbollini</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何自建MiroTalk - WebRTC SFU
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31929665</id>
-        <link href="https://news.ycombinator.com/item?id=31929665"/>
-        <updated>2022-06-30T07:32:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: How to Self-Hosting MiroTalk – WebRTC SFU]]></summary>
-        <author>
-            <name>mp85</name>
-            <uri>https://news.ycombinator.com/user?id=mp85</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何自建MiroTalk - WebRTC P2P
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31929661</id>
-        <link href="https://news.ycombinator.com/item?id=31929661"/>
-        <updated>2022-06-30T07:31:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: How to Self-Hosting MiroTalk – WebRTC P2P]]></summary>
-        <author>
-            <name>mp85</name>
-            <uri>https://news.ycombinator.com/user?id=mp85</uri>
         </author>
     </entry>
 </feed>
