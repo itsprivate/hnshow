@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-27T19:51:17.212Z</updated>
+    <updated>2022-07-27T20:32:49.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用网络浏览器将你的屏幕分享到投影仪/电视上
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32256322</id>
+        <link href="https://news.ycombinator.com/item?id=32256322"/>
+        <updated>2022-07-27T20:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Share your screen to a projector/TV with a web-browser]]></summary>
+        <author>
+            <name>Evidlo</name>
+            <uri>https://news.ycombinator.com/user?id=Evidlo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shomon - TheHive的Shodan监控集成
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32256184</id>
+        <link href="https://news.ycombinator.com/item?id=32256184"/>
+        <updated>2022-07-27T20:11:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Shomon – Shodan Monitoring Integration for TheHive]]></summary>
+        <author>
+            <name>razielk</name>
+            <uri>https://news.ycombinator.com/user?id=razielk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于TypeScript/JavaScript的轻量级Maybe库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32256050</id>
+        <link href="https://news.ycombinator.com/item?id=32256050"/>
+        <updated>2022-07-27T20:02:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lightweight Maybe Library for TypeScript / JavaScript]]></summary>
+        <author>
+            <name>Jamesbarford</name>
+            <uri>https://news.ycombinator.com/user?id=Jamesbarford</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用LocalXpose从互联网上访问你的本地主机服务器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32255996</id>
+        <link href="https://news.ycombinator.com/item?id=32255996"/>
+        <updated>2022-07-27T19:58:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Reach your localhost server from the internet with LocalXpose]]></summary>
+        <author>
+            <name>ahmedxfn</name>
+            <uri>https://news.ycombinator.com/user?id=ahmedxfn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分散你对大科技的接触
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>octocodeio</name>
             <uri>https://news.ycombinator.com/user?id=octocodeio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simple-Ops - 一个GitOps存储库管理工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31945440</id>
-        <link href="https://news.ycombinator.com/item?id=31945440"/>
-        <updated>2022-07-01T12:23:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Simple-Ops – A GitOps Repository Management Tool]]></summary>
-        <author>
-            <name>richardjennings</name>
-            <uri>https://news.ycombinator.com/user?id=richardjennings</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zeus 5.1.5中的类型化GQL
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31945364</id>
-        <link href="https://news.ycombinator.com/item?id=31945364"/>
-        <updated>2022-07-01T12:15:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Typed GQL in Zeus 5.1.5]]></summary>
-        <author>
-            <name>aexol</name>
-            <uri>https://news.ycombinator.com/user?id=aexol</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的平衡箱--一个公开分享我的感受的心情追踪器，现场
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31945353</id>
-        <link href="https://news.ycombinator.com/item?id=31945353"/>
-        <updated>2022-07-01T12:14:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: My Balance Box – A mood tracker that publicly shares how I feel, live]]></summary>
-        <author>
-            <name>StevenWaterman</name>
-            <uri>https://news.ycombinator.com/user?id=StevenWaterman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instant.gallery - 在几秒钟内设置一个数字画廊。手机、PC和VR
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31945205</id>
-        <link href="https://news.ycombinator.com/item?id=31945205"/>
-        <updated>2022-07-01T12:01:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Instant.gallery – Setup a digital gallery in seconds. Mobile, PC and VR]]></summary>
-        <author>
-            <name>petesamrogers</name>
-            <uri>https://news.ycombinator.com/user?id=petesamrogers</uri>
         </author>
     </entry>
 </feed>
