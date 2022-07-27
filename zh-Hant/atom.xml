@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-27T10:01:34.075Z</updated>
+    <updated>2022-07-27T10:54:06.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Emacs的Clockodo集成
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32248787</id>
+        <link href="https://news.ycombinator.com/item?id=32248787"/>
+        <updated>2022-07-27T10:32:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Clockodo Integration for Emacs]]></summary>
+        <author>
+            <name>ratzeputz</name>
+            <uri>https://news.ycombinator.com/user?id=ratzeputz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用準備好的面試候選人填補你的招聘管道
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>zacchj</name>
             <uri>https://news.ycombinator.com/user?id=zacchj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[嵌入演繹工具的數學邏輯/推理自我教育
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31933622</id>
-        <link href="https://news.ycombinator.com/item?id=31933622"/>
-        <updated>2022-06-30T15:18:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Math logic/reasoning self-education with embedded deductive tool]]></summary>
-        <author>
-            <name>CrisPerdue</name>
-            <uri>https://news.ycombinator.com/user?id=CrisPerdue</uri>
         </author>
     </entry>
 </feed>
