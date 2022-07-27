@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-27T18:41:21.651Z</updated>
+    <updated>2022-07-27T19:31:06.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[IPFS的去中心化电子商务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32254891</id>
+        <link href="https://news.ycombinator.com/item?id=32254891"/>
+        <updated>2022-07-27T18:52:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Decentralized Ecommerce for IPFS]]></summary>
+        <author>
+            <name>jopin</name>
+            <uri>https://news.ycombinator.com/user?id=jopin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[经验丰富的创始人透露他们如何获得最早的牵引力
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>visox</name>
             <uri>https://news.ycombinator.com/user?id=visox</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Logseq管理代码片段
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31944182</id>
-        <link href="https://news.ycombinator.com/item?id=31944182"/>
-        <updated>2022-07-01T09:34:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Managing Code Snippets Using Logseq]]></summary>
-        <author>
-            <name>gbro3n</name>
-            <uri>https://news.ycombinator.com/user?id=gbro3n</uri>
         </author>
     </entry>
 </feed>
