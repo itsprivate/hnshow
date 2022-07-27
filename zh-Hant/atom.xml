@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-27T10:54:06.928Z</updated>
+    <updated>2022-07-27T13:04:19.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[每天發現和討論一幅畫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32249586</id>
+        <link href="https://news.ycombinator.com/item?id=32249586"/>
+        <updated>2022-07-27T12:22:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Discover and discuss one painting a day]]></summary>
+        <author>
+            <name>afkqs</name>
+            <uri>https://news.ycombinator.com/user?id=afkqs</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Birdy - Twitter簡介A/B測試
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32249392</id>
+        <link href="https://news.ycombinator.com/item?id=32249392"/>
+        <updated>2022-07-27T11:57:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Birdy – Twitter Profile A/B Testing]]></summary>
+        <author>
+            <name>maximedupre</name>
+            <uri>https://news.ycombinator.com/user?id=maximedupre</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Emacs的Clockodo集成
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>pupeno</name>
             <uri>https://news.ycombinator.com/user?id=pupeno</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NativeBird - 與Bluebird兼容的超輕承諾擴展
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31934231</id>
-        <link href="https://news.ycombinator.com/item?id=31934231"/>
-        <updated>2022-06-30T15:49:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: NativeBird – Ultralight promise extension compatible with Bluebird]]></summary>
-        <author>
-            <name>doodlewind</name>
-            <uri>https://news.ycombinator.com/user?id=doodlewind</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[採用完全同態加密的加密數據的預測性ML模型
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31933995</id>
-        <link href="https://news.ycombinator.com/item?id=31933995"/>
-        <updated>2022-06-30T15:37:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Predictive ML model on encrypted data with Fully Homomorphic Encryption]]></summary>
-        <author>
-            <name>zacchj</name>
-            <uri>https://news.ycombinator.com/user?id=zacchj</uri>
         </author>
     </entry>
 </feed>
