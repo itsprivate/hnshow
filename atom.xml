@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-28T09:01:03.022Z</updated>
+    <updated>2022-07-28T09:29:29.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Marple - 为工程师提供交互式时间序列可视化服务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32262036</id>
+        <link href="https://news.ycombinator.com/item?id=32262036"/>
+        <updated>2022-07-28T09:13:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Marple – Interactive time series visualization for engineers]]></summary>
+        <author>
+            <name>NeroVanbierv</name>
+            <uri>https://news.ycombinator.com/user?id=NeroVanbierv</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SDWM - Windows的简单动态窗口管理器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>alexrustic</name>
             <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baghchal.net，一个实时的双人棋盘游戏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31950375</id>
-        <link href="https://news.ycombinator.com/item?id=31950375"/>
-        <updated>2022-07-01T18:09:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Baghchal.net, a real-time two player board game]]></summary>
-        <author>
-            <name>bhu1st</name>
-            <uri>https://news.ycombinator.com/user?id=bhu1st</uri>
         </author>
     </entry>
 </feed>
