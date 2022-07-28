@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-28T09:29:29.621Z</updated>
+    <updated>2022-07-28T10:01:27.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WunderGraph - 声明性地编排和整合API
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32262367</id>
+        <link href="https://news.ycombinator.com/item?id=32262367"/>
+        <updated>2022-07-28T09:54:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WunderGraph – declaratively compose and integrate APIs]]></summary>
+        <author>
+            <name>jensneuse</name>
+            <uri>https://news.ycombinator.com/user?id=jensneuse</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marple - 为工程师提供交互式时间序列可视化服务
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>orliesaurus</name>
             <uri>https://news.ycombinator.com/user?id=orliesaurus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[共享--数据交换和持久化的三要素
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31950844</id>
-        <link href="https://news.ycombinator.com/item?id=31950844"/>
-        <updated>2022-07-01T18:39:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Shared – Triptych for data exchange and persistence]]></summary>
-        <author>
-            <name>alexrustic</name>
-            <uri>https://news.ycombinator.com/user?id=alexrustic</uri>
         </author>
     </entry>
 </feed>

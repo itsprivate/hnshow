@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 28 Jul 2022 09:29:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 10:01:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[WunderGraph - 声明性地编排和整合API
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32262367</link>
+            <guid>https://news.ycombinator.com/item?id=32262367</guid>
+            <pubDate>Thu, 28 Jul 2022 09:54:45 GMT</pubDate>
+            <description><![CDATA[Show HN: WunderGraph – declaratively compose and integrate APIs]]></description>
+        </item>
         <item>
             <title><![CDATA[Marple - 为工程师提供交互式时间序列可视化服务
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31951167</guid>
             <pubDate>Fri, 01 Jul 2022 19:04:14 GMT</pubDate>
             <description><![CDATA[Show HN: Quickly see trending HN posts with this browser extension]]></description>
-        </item>
-        <item>
-            <title><![CDATA[共享--数据交换和持久化的三要素
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31950844</link>
-            <guid>https://news.ycombinator.com/item?id=31950844</guid>
-            <pubDate>Fri, 01 Jul 2022 18:39:24 GMT</pubDate>
-            <description><![CDATA[Show HN: Shared – Triptych for data exchange and persistence]]></description>
         </item>
     </channel>
 </rss>
