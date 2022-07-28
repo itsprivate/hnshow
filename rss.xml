@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 28 Jul 2022 04:55:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 05:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我的网站现在有一个CRT过滤器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32260398</link>
+            <guid>https://news.ycombinator.com/item?id=32260398</guid>
+            <pubDate>Thu, 28 Jul 2022 04:10:22 GMT</pubDate>
+            <description><![CDATA[Show HN: My website now has a CRT filter]]></description>
+        </item>
         <item>
             <title><![CDATA[黑客资源清单
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31949894</guid>
             <pubDate>Fri, 01 Jul 2022 17:36:55 GMT</pubDate>
             <description><![CDATA[Show HN: Pathfind]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Taddy的API建立下一个伟大的内容应用程序
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31949768</link>
-            <guid>https://news.ycombinator.com/item?id=31949768</guid>
-            <pubDate>Fri, 01 Jul 2022 17:28:35 GMT</pubDate>
-            <description><![CDATA[Show HN: Build the next great content app with Taddy’s API]]></description>
         </item>
     </channel>
 </rss>
