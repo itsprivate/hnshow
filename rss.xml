@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 28 Jul 2022 02:35:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 04:55:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[黑客资源清单
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32260345</link>
+            <guid>https://news.ycombinator.com/item?id=32260345</guid>
+            <pubDate>Thu, 28 Jul 2022 04:01:53 GMT</pubDate>
+            <description><![CDATA[Show HN: List of Hacking Resources]]></description>
+        </item>
         <item>
             <title><![CDATA[Vessal--航运的目的性很强
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31949768</guid>
             <pubDate>Fri, 01 Jul 2022 17:28:35 GMT</pubDate>
             <description><![CDATA[Show HN: Build the next great content app with Taddy’s API]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们正在公开我们的地理定位映射API
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31949765</link>
-            <guid>https://news.ycombinator.com/item?id=31949765</guid>
-            <pubDate>Fri, 01 Jul 2022 17:28:26 GMT</pubDate>
-            <description><![CDATA[Show HN: We're making our geolocation mapping API public]]></description>
         </item>
     </channel>
 </rss>

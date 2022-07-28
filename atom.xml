@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-28T02:35:26.494Z</updated>
+    <updated>2022-07-28T04:55:17.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑客资源清单
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32260345</id>
+        <link href="https://news.ycombinator.com/item?id=32260345"/>
+        <updated>2022-07-28T04:01:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: List of Hacking Resources]]></summary>
+        <author>
+            <name>IndigoIncognito</name>
+            <uri>https://news.ycombinator.com/user?id=IndigoIncognito</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vessal--航运的目的性很强
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dannylmathews</name>
             <uri>https://news.ycombinator.com/user?id=dannylmathews</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们正在公开我们的地理定位映射API
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31949765</id>
-        <link href="https://news.ycombinator.com/item?id=31949765"/>
-        <updated>2022-07-01T17:28:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We're making our geolocation mapping API public]]></summary>
-        <author>
-            <name>tlhunter</name>
-            <uri>https://news.ycombinator.com/user?id=tlhunter</uri>
         </author>
     </entry>
 </feed>
