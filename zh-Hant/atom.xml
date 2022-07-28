@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-28T05:41:24.067Z</updated>
+    <updated>2022-07-28T07:44:38.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[自定義的AVR位控軟件UART
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32261492</id>
+        <link href="https://news.ycombinator.com/item?id=32261492"/>
+        <updated>2022-07-28T07:41:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Custom AVR bit-banged software UART]]></summary>
+        <author>
+            <name>mihaigalos</name>
+            <uri>https://news.ycombinator.com/user?id=mihaigalos</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的網站現在有一個CRT過濾器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pradeepb28</name>
             <uri>https://news.ycombinator.com/user?id=pradeepb28</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尋路者
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31949894</id>
-        <link href="https://news.ycombinator.com/item?id=31949894"/>
-        <updated>2022-07-01T17:36:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pathfind]]></summary>
-        <author>
-            <name>atum47</name>
-            <uri>https://news.ycombinator.com/user?id=atum47</uri>
         </author>
     </entry>
 </feed>

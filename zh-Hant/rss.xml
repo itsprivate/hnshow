@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 28 Jul 2022 05:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 07:44:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[自定義的AVR位控軟件UART
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32261492</link>
+            <guid>https://news.ycombinator.com/item?id=32261492</guid>
+            <pubDate>Thu, 28 Jul 2022 07:41:41 GMT</pubDate>
+            <description><![CDATA[Show HN: Custom AVR bit-banged software UART]]></description>
+        </item>
         <item>
             <title><![CDATA[我的網站現在有一個CRT過濾器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31950049</guid>
             <pubDate>Fri, 01 Jul 2022 17:48:35 GMT</pubDate>
             <description><![CDATA[Show HN: Spaces for macOS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[尋路者
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31949894</link>
-            <guid>https://news.ycombinator.com/item?id=31949894</guid>
-            <pubDate>Fri, 01 Jul 2022 17:36:55 GMT</pubDate>
-            <description><![CDATA[Show HN: Pathfind]]></description>
         </item>
     </channel>
 </rss>
