@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 28 Jul 2022 10:01:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 14:01:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Gum，一个用于华丽的shell脚本的工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32263827</link>
+            <guid>https://news.ycombinator.com/item?id=32263827</guid>
+            <pubDate>Thu, 28 Jul 2022 13:14:37 GMT</pubDate>
+            <description><![CDATA[Show HN: Gum, a tool for glamorous shell scripts]]></description>
+        </item>
         <item>
             <title><![CDATA[WunderGraph - 声明性地编排和整合API
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31952100</guid>
             <pubDate>Fri, 01 Jul 2022 20:09:15 GMT</pubDate>
             <description><![CDATA[Show HN: Getting Started with Web Components and Lit, Part II]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用这个浏览器扩展快速查看HN的趋势帖子
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31951167</link>
-            <guid>https://news.ycombinator.com/item?id=31951167</guid>
-            <pubDate>Fri, 01 Jul 2022 19:04:14 GMT</pubDate>
-            <description><![CDATA[Show HN: Quickly see trending HN posts with this browser extension]]></description>
         </item>
     </channel>
 </rss>
