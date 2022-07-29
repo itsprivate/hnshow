@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-29T16:43:41.939Z</updated>
+    <updated>2022-07-29T17:44:29.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[黑客的工作--為你的作品建立的微博
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32279631</id>
+        <link href="https://news.ycombinator.com/item?id=32279631"/>
+        <updated>2022-07-29T17:24:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hacker's Work – A microblog for your works]]></summary>
+        <author>
+            <name>egcodes</name>
+            <uri>https://news.ycombinator.com/user?id=egcodes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kurynt - 你最後需要的管理第三方代碼的工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pj747</name>
             <uri>https://news.ycombinator.com/user?id=pj747</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VS代碼擴展，將文檔與代碼連接起來
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31970484</id>
-        <link href="https://news.ycombinator.com/item?id=31970484"/>
-        <updated>2022-07-03T19:54:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: VS Code extenstion that connects documentation to code]]></summary>
-        <author>
-            <name>hahnbee</name>
-            <uri>https://news.ycombinator.com/user?id=hahnbee</uri>
         </author>
     </entry>
 </feed>
