@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 29 Jul 2022 14:47:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 15:00:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[OxideDB - 教會PostgreSQL數據庫如何說MongoDB線協議
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32272304</link>
+            <guid>https://news.ycombinator.com/item?id=32272304</guid>
+            <pubDate>Fri, 29 Jul 2022 01:55:15 GMT</pubDate>
+            <description><![CDATA[Show HN: OxideDB – Teach PostgreSQL Database How to Speak MongoDB Wire Protocol]]></description>
+        </item>
         <item>
             <title><![CDATA[Graphman - 為任何GraphQL API快速搭建一個postman集合的支架
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31967535</guid>
             <pubDate>Sun, 03 Jul 2022 13:24:01 GMT</pubDate>
             <description><![CDATA[Show HN: Shotstack – Twilio for Video Editing & Programmatic Media]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用DALL-E mini生成網頁摘要圖像
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31967141</link>
-            <guid>https://news.ycombinator.com/item?id=31967141</guid>
-            <pubDate>Sun, 03 Jul 2022 12:18:24 GMT</pubDate>
-            <description><![CDATA[Show HN: Generate webpage summary images with DALL-E mini]]></description>
         </item>
     </channel>
 </rss>
