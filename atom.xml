@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-29T15:39:55.856Z</updated>
+    <updated>2022-07-29T15:59:19.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[全屏的GitHub网络图与可搜索的提交列表
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32278496</id>
+        <link href="https://news.ycombinator.com/item?id=32278496"/>
+        <updated>2022-07-29T15:49:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GitHub network graph in fullscreen with a searchable commit list]]></summary>
+        <author>
+            <name>nzd</name>
+            <uri>https://news.ycombinator.com/user?id=nzd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学习构建40多个SwiftUI应用程序、游戏和概念
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32278290</id>
+        <link href="https://news.ycombinator.com/item?id=32278290"/>
+        <updated>2022-07-29T15:35:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Learn to Build over 40 SwiftUI Apps, Games, and Concepts]]></summary>
+        <author>
+            <name>anupamchugh</name>
+            <uri>https://news.ycombinator.com/user?id=anupamchugh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在MacOS上模仿Ubuntu的键盘快捷键
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>kinoro</name>
             <uri>https://news.ycombinator.com/user?id=kinoro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go 1.18的通用利用类型
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31967869</id>
-        <link href="https://news.ycombinator.com/item?id=31967869"/>
-        <updated>2022-07-03T14:20:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Generic util types for Go 1.18]]></summary>
-        <author>
-            <name>jilleJr</name>
-            <uri>https://news.ycombinator.com/user?id=jilleJr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bebo - 在Deno上运行Clojure脚本
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31967618</id>
-        <link href="https://news.ycombinator.com/item?id=31967618"/>
-        <updated>2022-07-03T13:39:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bebo – run Clojure scripts on Deno]]></summary>
-        <author>
-            <name>Borkdude</name>
-            <uri>https://news.ycombinator.com/user?id=Borkdude</uri>
         </author>
     </entry>
 </feed>

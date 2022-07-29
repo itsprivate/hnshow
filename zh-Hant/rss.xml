@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 29 Jul 2022 15:39:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 15:59:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[全屏的GitHub網絡圖與可搜索的提交列表
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32278496</link>
+            <guid>https://news.ycombinator.com/item?id=32278496</guid>
+            <pubDate>Fri, 29 Jul 2022 15:49:52 GMT</pubDate>
+            <description><![CDATA[Show HN: GitHub network graph in fullscreen with a searchable commit list]]></description>
+        </item>
+        <item>
+            <title><![CDATA[學習構建40多個SwiftUI應用程序、遊戲和概念
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32278290</link>
+            <guid>https://news.ycombinator.com/item?id=32278290</guid>
+            <pubDate>Fri, 29 Jul 2022 15:35:27 GMT</pubDate>
+            <description><![CDATA[Show HN: Learn to Build over 40 SwiftUI Apps, Games, and Concepts]]></description>
+        </item>
         <item>
             <title><![CDATA[在MacOS上模仿Ubuntu的鍵盤快捷鍵
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31968204</guid>
             <pubDate>Sun, 03 Jul 2022 15:00:20 GMT</pubDate>
             <description><![CDATA[Show HN: API 2 KPI – a simple KPI dashboard solution for Startups/Side projects]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Go 1.18的通用利用類型
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31967869</link>
-            <guid>https://news.ycombinator.com/item?id=31967869</guid>
-            <pubDate>Sun, 03 Jul 2022 14:20:02 GMT</pubDate>
-            <description><![CDATA[Show HN: Generic util types for Go 1.18]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bebo - 在Deno上運行Clojure腳本
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31967618</link>
-            <guid>https://news.ycombinator.com/item?id=31967618</guid>
-            <pubDate>Sun, 03 Jul 2022 13:39:27 GMT</pubDate>
-            <description><![CDATA[Show HN: Bebo – run Clojure scripts on Deno]]></description>
         </item>
     </channel>
 </rss>
