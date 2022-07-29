@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 29 Jul 2022 08:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 08:37:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[FoundationDB上的分布式SQLite
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32269287</link>
+            <guid>https://news.ycombinator.com/item?id=32269287</guid>
+            <pubDate>Thu, 28 Jul 2022 19:49:05 GMT</pubDate>
+            <description><![CDATA[Show HN: Distributed SQLite on FoundationDB]]></description>
+        </item>
         <item>
             <title><![CDATA[TensorDock核心GPU云 - GPU服务器0.29美元/小时起
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31956846</guid>
             <pubDate>Sat, 02 Jul 2022 06:56:47 GMT</pubDate>
             <description><![CDATA[Show HN: HTML Journal]]></description>
-        </item>
-        <item>
-            <title><![CDATA[避免穿越的声音是怎样的？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31956787</link>
-            <guid>https://news.ycombinator.com/item?id=31956787</guid>
-            <pubDate>Sat, 02 Jul 2022 06:40:09 GMT</pubDate>
-            <description><![CDATA[Show HN: What do avoided crossings sound like?]]></description>
         </item>
     </channel>
 </rss>
