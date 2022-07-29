@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-29T14:00:15.754Z</updated>
+    <updated>2022-07-29T14:33:25.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个工具，使纸张规划更容易。开源和服务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32277287</id>
+        <link href="https://news.ycombinator.com/item?id=32277287"/>
+        <updated>2022-07-29T14:21:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a tool to make paper planning easier. Open-source and a service]]></summary>
+        <author>
+            <name>symkat</name>
+            <uri>https://news.ycombinator.com/user?id=symkat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ListFollowers.com - 列出Twitter的关注者，搜索、排序和导出
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32277043</id>
+        <link href="https://news.ycombinator.com/item?id=32277043"/>
+        <updated>2022-07-29T14:04:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ListFollowers.com – list Twitter follow(er)s, search, sort, and export]]></summary>
+        <author>
+            <name>mechanical_monk</name>
+            <uri>https://news.ycombinator.com/user?id=mechanical_monk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个API，用于网页抓取、PDF生成和屏幕截图
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32276909</id>
+        <link href="https://news.ycombinator.com/item?id=32276909"/>
+        <updated>2022-07-29T13:55:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an API for web scraping, PDF generation and screenshots]]></summary>
+        <author>
+            <name>0x142857</name>
+            <uri>https://news.ycombinator.com/user?id=0x142857</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在你的Docusaurus文档中为代码添加解释性的视频
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>snehesht</name>
             <uri>https://news.ycombinator.com/user?id=snehesht</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用ThreeJS从你的GitHub贡献中创建一个城市
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31965847</id>
-        <link href="https://news.ycombinator.com/item?id=31965847"/>
-        <updated>2022-07-03T07:34:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Using ThreeJS to create a city from Your GitHub contributions]]></summary>
-        <author>
-            <name>honzaaap</name>
-            <uri>https://news.ycombinator.com/user?id=honzaaap</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于分布式交易、读写分割、存储的DatabaseMesh
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31964301</id>
-        <link href="https://news.ycombinator.com/item?id=31964301"/>
-        <updated>2022-07-03T01:45:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: DatabaseMesh for distributed transaction、read write splitting、sharding]]></summary>
-        <author>
-            <name>dksl</name>
-            <uri>https://news.ycombinator.com/user?id=dksl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebReducer - 微量事件采购云功能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31961121</id>
-        <link href="https://news.ycombinator.com/item?id=31961121"/>
-        <updated>2022-07-02T18:17:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WebReducer – micro event sourcing cloud function]]></summary>
-        <author>
-            <name>zekenie</name>
-            <uri>https://news.ycombinator.com/user?id=zekenie</uri>
         </author>
     </entry>
 </feed>
