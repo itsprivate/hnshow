@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-29T17:44:29.268Z</updated>
+    <updated>2022-07-29T18:00:09.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[繞色--你需要用相機在你周圍找到一種顏色。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32279880</id>
+        <link href="https://news.ycombinator.com/item?id=32279880"/>
+        <updated>2022-07-29T17:49:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ColorAround – where you need to find a color around u using the camera]]></summary>
+        <author>
+            <name>spotus</name>
+            <uri>https://news.ycombinator.com/user?id=spotus</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TapeMeasure - Swift類，用於在用戶界面中創建分段的、有標籤的線條。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32279795</id>
+        <link href="https://news.ycombinator.com/item?id=32279795"/>
+        <updated>2022-07-29T17:39:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: TapeMeasure – Swift class for creating segmented, labeled lines in UI]]></summary>
+        <author>
+            <name>geoffsdavis</name>
+            <uri>https://news.ycombinator.com/user?id=geoffsdavis</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黑客的工作--為你的作品建立的微博
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>zhangruinan</name>
             <uri>https://news.ycombinator.com/user?id=zhangruinan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在短短12秒內運行整個React測試套件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31971300</id>
-        <link href="https://news.ycombinator.com/item?id=31971300"/>
-        <updated>2022-07-03T21:47:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Running the entire React test suite in just 12 seconds]]></summary>
-        <author>
-            <name>reillyse</name>
-            <uri>https://news.ycombinator.com/user?id=reillyse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Desklamp - 在PDF文件上進行便捷的協作式記事
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31966914</id>
-        <link href="https://news.ycombinator.com/item?id=31966914"/>
-        <updated>2022-07-03T11:35:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Desklamp – convenient and collaborative notemaking on PDFs]]></summary>
-        <author>
-            <name>pj747</name>
-            <uri>https://news.ycombinator.com/user?id=pj747</uri>
         </author>
     </entry>
 </feed>
