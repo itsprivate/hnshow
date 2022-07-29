@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 29 Jul 2022 14:33:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 14:47:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Graphman - 为任何GraphQL API快速搭建一个postman集合的支架
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32277484</link>
+            <guid>https://news.ycombinator.com/item?id=32277484</guid>
+            <pubDate>Fri, 29 Jul 2022 14:37:26 GMT</pubDate>
+            <description><![CDATA[Show HN: Graphman – Quickly scaffold a postman collection for any GraphQL API]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一个工具，使纸张规划更容易。开源和服务
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31967141</guid>
             <pubDate>Sun, 03 Jul 2022 12:18:24 GMT</pubDate>
             <description><![CDATA[Show HN: Generate webpage summary images with DALL-E mini]]></description>
-        </item>
-        <item>
-            <title><![CDATA[将TailwindCSS注入到HTML模板中
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31966248</link>
-            <guid>https://news.ycombinator.com/item?id=31966248</guid>
-            <pubDate>Sun, 03 Jul 2022 09:01:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Inject TailwindCSS into HTML Templates]]></description>
         </item>
     </channel>
 </rss>
