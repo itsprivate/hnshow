@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 29 Jul 2022 11:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 13:01:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Rust编写的一个简单、漂亮的strace替代品
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32275902</link>
+            <guid>https://news.ycombinator.com/item?id=32275902</guid>
+            <pubDate>Fri, 29 Jul 2022 12:09:52 GMT</pubDate>
+            <description><![CDATA[Show HN: A simple, pretty alternative to strace written in Rust]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Chunk - 后端开发人员的代码沙箱
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32267862</link>
+            <guid>https://news.ycombinator.com/item?id=32267862</guid>
+            <pubDate>Thu, 28 Jul 2022 17:49:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Chunk – Code sandbox for back-end devs]]></description>
+        </item>
         <item>
             <title><![CDATA[用Python对水下镜头进行色彩校正
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31956657</guid>
             <pubDate>Sat, 02 Jul 2022 06:04:07 GMT</pubDate>
             <description><![CDATA[Show HN: SpaceVim Release v2.0.0]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为你的项目提供一个围棋框架
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31958823</link>
-            <guid>https://news.ycombinator.com/item?id=31958823</guid>
-            <pubDate>Sat, 02 Jul 2022 13:30:47 GMT</pubDate>
-            <description><![CDATA[Show HN: A Go framework for your projects]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用Jekyll、GitHub Pages和GitHub Codespaces维护博客
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31958724</link>
-            <guid>https://news.ycombinator.com/item?id=31958724</guid>
-            <pubDate>Sat, 02 Jul 2022 13:15:36 GMT</pubDate>
-            <description><![CDATA[Show HN: Maintaining a Blog with Jekyll, GitHub Pages and GitHub Codespaces]]></description>
         </item>
     </channel>
 </rss>
