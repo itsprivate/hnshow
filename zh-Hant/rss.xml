@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 29 Jul 2022 13:01:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 14:00:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在你的Docusaurus文檔中為代碼添加解釋性的視頻
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32276639</link>
+            <guid>https://news.ycombinator.com/item?id=32276639</guid>
+            <pubDate>Fri, 29 Jul 2022 13:32:54 GMT</pubDate>
+            <description><![CDATA[Show HN: Add explanatory videos to code in your Docusaurus docs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[同步和搜索你所有的Twitter喜歡和書籤
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32276602</link>
+            <guid>https://news.ycombinator.com/item?id=32276602</guid>
+            <pubDate>Fri, 29 Jul 2022 13:30:39 GMT</pubDate>
+            <description><![CDATA[Show HN: Sync and search all your Twitter likes and bookmarks]]></description>
+        </item>
         <item>
             <title><![CDATA[用Rust編寫的一個簡單、漂亮的strace替代品
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31961121</guid>
             <pubDate>Sat, 02 Jul 2022 18:17:24 GMT</pubDate>
             <description><![CDATA[Show HN: WebReducer – micro event sourcing cloud function]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Shufflz 一個在Svelte和Tailwind CSS中的15個益智遊戲
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31960530</link>
-            <guid>https://news.ycombinator.com/item?id=31960530</guid>
-            <pubDate>Sat, 02 Jul 2022 16:47:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Shufflz a 15 puzzle game in Svelte and Tailwind CSS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SpaceVim 發佈 v2.0.0
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31956657</link>
-            <guid>https://news.ycombinator.com/item?id=31956657</guid>
-            <pubDate>Sat, 02 Jul 2022 06:04:07 GMT</pubDate>
-            <description><![CDATA[Show HN: SpaceVim Release v2.0.0]]></description>
         </item>
     </channel>
 </rss>
