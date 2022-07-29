@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-29T18:38:30.473Z</updated>
+    <updated>2022-07-29T22:30:49.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在任何地方進行設計 - 尋找你的下一份遠程設計工作
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32282268</id>
+        <link href="https://news.ycombinator.com/item?id=32282268"/>
+        <updated>2022-07-29T22:03:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Design from anywhere – Find your next remote design job]]></summary>
+        <author>
+            <name>sidelist</name>
+            <uri>https://news.ycombinator.com/user?id=sidelist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[利基社區 - 簡單地創建利基在線社區
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>karrysodhi</name>
             <uri>https://news.ycombinator.com/user?id=karrysodhi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitNex - 用於Gitea、Codeberg和自我託管實例的Android應用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31974027</id>
-        <link href="https://news.ycombinator.com/item?id=31974027"/>
-        <updated>2022-07-04T06:21:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GitNex – Android app for Gitea, Codeberg and self hosted instances]]></summary>
-        <author>
-            <name>mianarif</name>
-            <uri>https://news.ycombinator.com/user?id=mianarif</uri>
         </author>
     </entry>
 </feed>
