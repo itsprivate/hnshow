@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-29T15:00:21.808Z</updated>
+    <updated>2022-07-29T15:39:55.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在MacOS上模仿Ubuntu的键盘快捷键
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32278221</id>
+        <link href="https://news.ycombinator.com/item?id=32278221"/>
+        <updated>2022-07-29T15:29:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mimic Ubuntu keyboard shortcuts on macOS]]></summary>
+        <author>
+            <name>jeswin</name>
+            <uri>https://news.ycombinator.com/user?id=jeswin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[桁架--在任何地方为任何ML模型服务，无需模板代码
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32277894</id>
+        <link href="https://news.ycombinator.com/item?id=32277894"/>
+        <updated>2022-07-29T15:06:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Truss – serve any ML model, anywhere, without boilerplate code]]></summary>
+        <author>
+            <name>philipkiely</name>
+            <uri>https://news.ycombinator.com/user?id=philipkiely</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OxideDB - 教会PostgreSQL数据库如何说MongoDB线协议
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Borkdude</name>
             <uri>https://news.ycombinator.com/user?id=Borkdude</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我已经为Flutter项目建立了一个代码库
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31967569</id>
-        <link href="https://news.ycombinator.com/item?id=31967569"/>
-        <updated>2022-07-03T13:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I have built a code library for Flutter projects]]></summary>
-        <author>
-            <name>hnnngwdlch</name>
-            <uri>https://news.ycombinator.com/user?id=hnnngwdlch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shotstack - 用于视频编辑和程序化媒体的Twilio
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31967535</id>
-        <link href="https://news.ycombinator.com/item?id=31967535"/>
-        <updated>2022-07-03T13:24:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Shotstack – Twilio for Video Editing & Programmatic Media]]></summary>
-        <author>
-            <name>KMag070</name>
-            <uri>https://news.ycombinator.com/user?id=KMag070</uri>
         </author>
     </entry>
 </feed>

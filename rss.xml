@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 29 Jul 2022 15:00:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 15:39:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在MacOS上模仿Ubuntu的键盘快捷键
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32278221</link>
+            <guid>https://news.ycombinator.com/item?id=32278221</guid>
+            <pubDate>Fri, 29 Jul 2022 15:29:43 GMT</pubDate>
+            <description><![CDATA[Show HN: Mimic Ubuntu keyboard shortcuts on macOS]]></description>
+        </item>
+        <item>
+            <title><![CDATA[桁架--在任何地方为任何ML模型服务，无需模板代码
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32277894</link>
+            <guid>https://news.ycombinator.com/item?id=32277894</guid>
+            <pubDate>Fri, 29 Jul 2022 15:06:35 GMT</pubDate>
+            <description><![CDATA[Show HN: Truss – serve any ML model, anywhere, without boilerplate code]]></description>
+        </item>
         <item>
             <title><![CDATA[OxideDB - 教会PostgreSQL数据库如何说MongoDB线协议
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31967618</guid>
             <pubDate>Sun, 03 Jul 2022 13:39:27 GMT</pubDate>
             <description><![CDATA[Show HN: Bebo – run Clojure scripts on Deno]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我已经为Flutter项目建立了一个代码库
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31967569</link>
-            <guid>https://news.ycombinator.com/item?id=31967569</guid>
-            <pubDate>Sun, 03 Jul 2022 13:30:12 GMT</pubDate>
-            <description><![CDATA[Show HN: I have built a code library for Flutter projects]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Shotstack - 用于视频编辑和程序化媒体的Twilio
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31967535</link>
-            <guid>https://news.ycombinator.com/item?id=31967535</guid>
-            <pubDate>Sun, 03 Jul 2022 13:24:01 GMT</pubDate>
-            <description><![CDATA[Show HN: Shotstack – Twilio for Video Editing & Programmatic Media]]></description>
         </item>
     </channel>
 </rss>
