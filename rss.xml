@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 29 Jul 2022 10:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 11:47:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Python对水下镜头进行色彩校正
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32275621</link>
+            <guid>https://news.ycombinator.com/item?id=32275621</guid>
+            <pubDate>Fri, 29 Jul 2022 11:31:19 GMT</pubDate>
+            <description><![CDATA[Show HN: Color correct underwater footage with Python]]></description>
+        </item>
+        <item>
+            <title><![CDATA[懒人的耸肩表情符号网站
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32275597</link>
+            <guid>https://news.ycombinator.com/item?id=32275597</guid>
+            <pubDate>Fri, 29 Jul 2022 11:27:37 GMT</pubDate>
+            <description><![CDATA[Show HN: Shrug Emoji site for lazy people]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Movicorn - 一键迁移到AWS
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32275474</link>
+            <guid>https://news.ycombinator.com/item?id=32275474</guid>
+            <pubDate>Fri, 29 Jul 2022 11:09:54 GMT</pubDate>
+            <description><![CDATA[Show HN: Movicorn – move to AWS in one click]]></description>
+        </item>
         <item>
             <title><![CDATA[WordBreak - 每天都有的字谜游戏
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31958724</guid>
             <pubDate>Sat, 02 Jul 2022 13:15:36 GMT</pubDate>
             <description><![CDATA[Show HN: Maintaining a Blog with Jekyll, GitHub Pages and GitHub Codespaces]]></description>
-        </item>
-        <item>
-            <title><![CDATA[野兽 - 构建系统
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31957976</link>
-            <guid>https://news.ycombinator.com/item?id=31957976</guid>
-            <pubDate>Sat, 02 Jul 2022 11:04:12 GMT</pubDate>
-            <description><![CDATA[Show HN: Beast – The Build System]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个在Golang中的简单Tcl解释器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31957580</link>
-            <guid>https://news.ycombinator.com/item?id=31957580</guid>
-            <pubDate>Sat, 02 Jul 2022 09:46:24 GMT</pubDate>
-            <description><![CDATA[Show HN: A simple Tcl interpreter in Golang]]></description>
-        </item>
-        <item>
-            <title><![CDATA[咖啡屋，与随机的HN用户进行一对一的语音聊天
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31957389</link>
-            <guid>https://news.ycombinator.com/item?id=31957389</guid>
-            <pubDate>Sat, 02 Jul 2022 09:02:07 GMT</pubDate>
-            <description><![CDATA[Show HN: Coffeehouse, one-on-one voicechat with random HN users]]></description>
         </item>
     </channel>
 </rss>

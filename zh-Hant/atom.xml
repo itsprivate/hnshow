@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-29T10:36:25.857Z</updated>
+    <updated>2022-07-29T11:47:51.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Python對水下鏡頭進行色彩校正
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32275621</id>
+        <link href="https://news.ycombinator.com/item?id=32275621"/>
+        <updated>2022-07-29T11:31:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Color correct underwater footage with Python]]></summary>
+        <author>
+            <name>hbornfree</name>
+            <uri>https://news.ycombinator.com/user?id=hbornfree</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[懶人的聳肩表情符號網站
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32275597</id>
+        <link href="https://news.ycombinator.com/item?id=32275597"/>
+        <updated>2022-07-29T11:27:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Shrug Emoji site for lazy people]]></summary>
+        <author>
+            <name>yucelfaruksahan</name>
+            <uri>https://news.ycombinator.com/user?id=yucelfaruksahan</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Movicorn - 一鍵遷移到AWS
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32275474</id>
+        <link href="https://news.ycombinator.com/item?id=32275474"/>
+        <updated>2022-07-29T11:09:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Movicorn – move to AWS in one click]]></summary>
+        <author>
+            <name>igorzij</name>
+            <uri>https://news.ycombinator.com/user?id=igorzij</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordBreak - 每天都有的字謎遊戲
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>gbro3n</name>
             <uri>https://news.ycombinator.com/user?id=gbro3n</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[野獸 - 構建系統
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31957976</id>
-        <link href="https://news.ycombinator.com/item?id=31957976"/>
-        <updated>2022-07-02T11:04:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Beast – The Build System]]></summary>
-        <author>
-            <name>gaurav1804</name>
-            <uri>https://news.ycombinator.com/user?id=gaurav1804</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個在Golang中的簡單Tcl解釋器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31957580</id>
-        <link href="https://news.ycombinator.com/item?id=31957580"/>
-        <updated>2022-07-02T09:46:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A simple Tcl interpreter in Golang]]></summary>
-        <author>
-            <name>stevekemp</name>
-            <uri>https://news.ycombinator.com/user?id=stevekemp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[咖啡屋，與隨機的HN用戶進行一對一的語音聊天
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31957389</id>
-        <link href="https://news.ycombinator.com/item?id=31957389"/>
-        <updated>2022-07-02T09:02:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Coffeehouse, one-on-one voicechat with random HN users]]></summary>
-        <author>
-            <name>amadeuspagel</name>
-            <uri>https://news.ycombinator.com/user?id=amadeuspagel</uri>
         </author>
     </entry>
 </feed>
