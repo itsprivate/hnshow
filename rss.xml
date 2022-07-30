@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 30 Jul 2022 13:58:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 14:27:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[语义分割数据集
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32286927</link>
+            <guid>https://news.ycombinator.com/item?id=32286927</guid>
+            <pubDate>Sat, 30 Jul 2022 14:09:17 GMT</pubDate>
+            <description><![CDATA[Show HN: Semantic Segmentation Datasets]]></description>
+        </item>
+        <item>
+            <title><![CDATA[普罗索尔。在一个数据库中记录所有的3D打印机活动，在浏览器中查看所有的活动。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32286910</link>
+            <guid>https://news.ycombinator.com/item?id=32286910</guid>
+            <pubDate>Sat, 30 Jul 2022 14:05:23 GMT</pubDate>
+            <description><![CDATA[Show HN: Prosur: Logs all 3D printer activity in a DB, view it all in a browser]]></description>
+        </item>
         <item>
             <title><![CDATA[使用GPT3从单行本的想法中生成推介文件
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31981851</guid>
             <pubDate>Mon, 04 Jul 2022 21:13:36 GMT</pubDate>
             <description><![CDATA[Show HN: Tersho, AI-powered formula generator and explainer for Google Sheets]]></description>
-        </item>
-        <item>
-            <title><![CDATA[漫游，一个为HashiCorp Nomad提供的终端应用
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31981831</link>
-            <guid>https://news.ycombinator.com/item?id=31981831</guid>
-            <pubDate>Mon, 04 Jul 2022 21:11:37 GMT</pubDate>
-            <description><![CDATA[Show HN: Wander, a terminal app for HashiCorp Nomad]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我在上周末建立的一个简短的二元论游戏
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31980980</link>
-            <guid>https://news.ycombinator.com/item?id=31980980</guid>
-            <pubDate>Mon, 04 Jul 2022 19:43:56 GMT</pubDate>
-            <description><![CDATA[Show HN: A short dystopian game I build last weekend]]></description>
         </item>
     </channel>
 </rss>

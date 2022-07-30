@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-30T13:58:43.536Z</updated>
+    <updated>2022-07-30T14:27:12.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[语义分割数据集
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32286927</id>
+        <link href="https://news.ycombinator.com/item?id=32286927"/>
+        <updated>2022-07-30T14:09:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Semantic Segmentation Datasets]]></summary>
+        <author>
+            <name>pavlovskyi</name>
+            <uri>https://news.ycombinator.com/user?id=pavlovskyi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[普罗索尔。在一个数据库中记录所有的3D打印机活动，在浏览器中查看所有的活动。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32286910</id>
+        <link href="https://news.ycombinator.com/item?id=32286910"/>
+        <updated>2022-07-30T14:05:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Prosur: Logs all 3D printer activity in a DB, view it all in a browser]]></summary>
+        <author>
+            <name>edg5000</name>
+            <uri>https://news.ycombinator.com/user?id=edg5000</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用GPT3从单行本的想法中生成推介文件
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>apugoneappu</name>
             <uri>https://news.ycombinator.com/user?id=apugoneappu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[漫游，一个为HashiCorp Nomad提供的终端应用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31981831</id>
-        <link href="https://news.ycombinator.com/item?id=31981831"/>
-        <updated>2022-07-04T21:11:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Wander, a terminal app for HashiCorp Nomad]]></summary>
-        <author>
-            <name>lrobinovitch</name>
-            <uri>https://news.ycombinator.com/user?id=lrobinovitch</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在上周末建立的一个简短的二元论游戏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31980980</id>
-        <link href="https://news.ycombinator.com/item?id=31980980"/>
-        <updated>2022-07-04T19:43:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A short dystopian game I build last weekend]]></summary>
-        <author>
-            <name>drcode</name>
-            <uri>https://news.ycombinator.com/user?id=drcode</uri>
         </author>
     </entry>
 </feed>
