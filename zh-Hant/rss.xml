@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 30 Jul 2022 02:40:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 05:38:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[住房可負擔性計算器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32284492</link>
+            <guid>https://news.ycombinator.com/item?id=32284492</guid>
+            <pubDate>Sat, 30 Jul 2022 05:28:24 GMT</pubDate>
+            <description><![CDATA[Show HN: Housing Affordability Calculator]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Outserv - 帶有GraphQL APIs的區塊鏈搜索引擎
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32284438</link>
+            <guid>https://news.ycombinator.com/item?id=32284438</guid>
+            <pubDate>Sat, 30 Jul 2022 05:13:02 GMT</pubDate>
+            <description><![CDATA[Show HN: Outserv – Blockchain Search Engine with GraphQL APIs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[關於語義搜索的PyTorch教程
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32284382</link>
+            <guid>https://news.ycombinator.com/item?id=32284382</guid>
+            <pubDate>Sat, 30 Jul 2022 04:53:42 GMT</pubDate>
+            <description><![CDATA[Show HN: PyTorch Tutorials on Semantic Search]]></description>
+        </item>
         <item>
             <title><![CDATA[Bluetuith - 一個基於控制檯TUI的藍牙管理器
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31977895</guid>
             <pubDate>Mon, 04 Jul 2022 15:12:05 GMT</pubDate>
             <description><![CDATA[Show HN: BlablaBlock – A Decentralized Mutual Fund]]></description>
-        </item>
-        <item>
-            <title><![CDATA[只需分享一次加密的秘密
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31977505</link>
-            <guid>https://news.ycombinator.com/item?id=31977505</guid>
-            <pubDate>Mon, 04 Jul 2022 14:37:14 GMT</pubDate>
-            <description><![CDATA[Show HN: Share encrypted secrets just one time]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Phrag - 從RDBMS連接中自動創建的用於CRUD的GraphQL API
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31977126</link>
-            <guid>https://news.ycombinator.com/item?id=31977126</guid>
-            <pubDate>Mon, 04 Jul 2022 14:01:26 GMT</pubDate>
-            <description><![CDATA[Show HN: Phrag – GraphQL API for CRUD auto-created from an RDBMS connection]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pinferencia，用漂亮的UI和REST API部署你的AI模型
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31976791</link>
-            <guid>https://news.ycombinator.com/item?id=31976791</guid>
-            <pubDate>Mon, 04 Jul 2022 13:27:46 GMT</pubDate>
-            <description><![CDATA[Show HN: Pinferencia, Deploy Your AI Models with Pretty UI and REST API]]></description>
         </item>
     </channel>
 </rss>

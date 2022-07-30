@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-30T02:40:11.779Z</updated>
+    <updated>2022-07-30T05:38:05.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[住房可负担性计算器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32284492</id>
+        <link href="https://news.ycombinator.com/item?id=32284492"/>
+        <updated>2022-07-30T05:28:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Housing Affordability Calculator]]></summary>
+        <author>
+            <name>bobblywobbles</name>
+            <uri>https://news.ycombinator.com/user?id=bobblywobbles</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outserv - 带有GraphQL APIs的区块链搜索引擎
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32284438</id>
+        <link href="https://news.ycombinator.com/item?id=32284438"/>
+        <updated>2022-07-30T05:13:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Outserv – Blockchain Search Engine with GraphQL APIs]]></summary>
+        <author>
+            <name>mrjn</name>
+            <uri>https://news.ycombinator.com/user?id=mrjn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于语义搜索的PyTorch教程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32284382</id>
+        <link href="https://news.ycombinator.com/item?id=32284382"/>
+        <updated>2022-07-30T04:53:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PyTorch Tutorials on Semantic Search]]></summary>
+        <author>
+            <name>krumboy</name>
+            <uri>https://news.ycombinator.com/user?id=krumboy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bluetuith - 一个基于控制台TUI的蓝牙管理器
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>weiyu1203</name>
             <uri>https://news.ycombinator.com/user?id=weiyu1203</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只需分享一次加密的秘密
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31977505</id>
-        <link href="https://news.ycombinator.com/item?id=31977505"/>
-        <updated>2022-07-04T14:37:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Share encrypted secrets just one time]]></summary>
-        <author>
-            <name>bquaresma</name>
-            <uri>https://news.ycombinator.com/user?id=bquaresma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phrag - 从RDBMS连接中自动创建的用于CRUD的GraphQL API
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31977126</id>
-        <link href="https://news.ycombinator.com/item?id=31977126"/>
-        <updated>2022-07-04T14:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Phrag – GraphQL API for CRUD auto-created from an RDBMS connection]]></summary>
-        <author>
-            <name>yo_ohei</name>
-            <uri>https://news.ycombinator.com/user?id=yo_ohei</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinferencia，用漂亮的UI和REST API部署你的AI模型
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31976791</id>
-        <link href="https://news.ycombinator.com/item?id=31976791"/>
-        <updated>2022-07-04T13:27:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pinferencia, Deploy Your AI Models with Pretty UI and REST API]]></summary>
-        <author>
-            <name>wjiuhe</name>
-            <uri>https://news.ycombinator.com/user?id=wjiuhe</uri>
         </author>
     </entry>
 </feed>
