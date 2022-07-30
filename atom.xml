@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-30T10:32:52.799Z</updated>
+    <updated>2022-07-30T11:26:06.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Inventa - 一个用于服务注册和Redis上的RPC的Go-Python库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32285921</id>
+        <link href="https://news.ycombinator.com/item?id=32285921"/>
+        <updated>2022-07-30T11:17:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Inventa – A Go-Python library for service registry and RPC over Redis]]></summary>
+        <author>
+            <name>adalkiran</name>
+            <uri>https://news.ycombinator.com/user?id=adalkiran</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[诗歌角 - 一个阅读公共领域诗歌的React Native应用
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Swarup_Tripathy</name>
             <uri>https://news.ycombinator.com/user?id=Swarup_Tripathy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特尼，一个学习复杂技能的自动化系统
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31980069</id>
-        <link href="https://news.ycombinator.com/item?id=31980069"/>
-        <updated>2022-07-04T18:04:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Trane, an automated system for learning complex skills]]></summary>
-        <author>
-            <name>trane_project</name>
-            <uri>https://news.ycombinator.com/user?id=trane_project</uri>
         </author>
     </entry>
 </feed>
