@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-30T17:42:42.548Z</updated>
+    <updated>2022-07-30T18:32:51.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Bunny REST Proxy - 一个建立在RabbitMQ之上的HTTP消息代理机构
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32289082</id>
+        <link href="https://news.ycombinator.com/item?id=32289082"/>
+        <updated>2022-07-30T18:24:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bunny REST Proxy – a HTTP message broker built on top of RabbitMQ]]></summary>
+        <author>
+            <name>kffl</name>
+            <uri>https://news.ycombinator.com/user?id=kffl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automatdeck - 简单的轻量级IT自动化工具，适合你的部署
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pbackup12345</name>
             <uri>https://news.ycombinator.com/user?id=pbackup12345</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[owo - OneNote转普通文本
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31982768</id>
-        <link href="https://news.ycombinator.com/item?id=31982768"/>
-        <updated>2022-07-04T23:31:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: owo – OneNote to Plain Text]]></summary>
-        <author>
-            <name>antonlopezr</name>
-            <uri>https://news.ycombinator.com/user?id=antonlopezr</uri>
         </author>
     </entry>
 </feed>

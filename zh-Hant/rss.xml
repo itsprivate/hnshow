@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 30 Jul 2022 17:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 18:32:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Bunny REST Proxy - 一個建立在RabbitMQ之上的HTTP消息代理機構
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32289082</link>
+            <guid>https://news.ycombinator.com/item?id=32289082</guid>
+            <pubDate>Sat, 30 Jul 2022 18:24:39 GMT</pubDate>
+            <description><![CDATA[Show HN: Bunny REST Proxy – a HTTP message broker built on top of RabbitMQ]]></description>
+        </item>
         <item>
             <title><![CDATA[Automatdeck - 簡單的輕量級IT自動化工具，適合你的部署
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31983926</guid>
             <pubDate>Tue, 05 Jul 2022 03:15:26 GMT</pubDate>
             <description><![CDATA[Show HN: IniShare – integrated digital publishing app]]></description>
-        </item>
-        <item>
-            <title><![CDATA[owo - OneNote轉普通文本
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31982768</link>
-            <guid>https://news.ycombinator.com/item?id=31982768</guid>
-            <pubDate>Mon, 04 Jul 2022 23:31:19 GMT</pubDate>
-            <description><![CDATA[Show HN: owo – OneNote to Plain Text]]></description>
         </item>
     </channel>
 </rss>
