@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-30T15:50:03.988Z</updated>
+    <updated>2022-07-30T16:41:20.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Exacto - 用於快速創建媒體帖子的開源Figma插件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32287921</id>
+        <link href="https://news.ycombinator.com/item?id=32287921"/>
+        <updated>2022-07-30T16:15:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Exacto – An Open Source Figma Plugin for creating media posts rapidly]]></summary>
+        <author>
+            <name>rafunderscore</name>
+            <uri>https://news.ycombinator.com/user?id=rafunderscore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gowitness - 一個使用Chrome Headless的Golang、網頁截圖工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>edublancas</name>
             <uri>https://news.ycombinator.com/user?id=edublancas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不變的備份如此簡單，以至於無法工作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31982049</id>
-        <link href="https://news.ycombinator.com/item?id=31982049"/>
-        <updated>2022-07-04T21:42:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Immutable backups so simple that unborkable]]></summary>
-        <author>
-            <name>nathants</name>
-            <uri>https://news.ycombinator.com/user?id=nathants</uri>
         </author>
     </entry>
 </feed>
