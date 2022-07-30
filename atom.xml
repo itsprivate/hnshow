@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-30T21:25:41.489Z</updated>
+    <updated>2022-07-30T21:58:34.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ImThemes - 一个亲爱的ImGui主题浏览器和编辑器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32290700</id>
+        <link href="https://news.ycombinator.com/item?id=32290700"/>
+        <updated>2022-07-30T21:49:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ImThemes – a Dear ImGui theme browser and editor]]></summary>
+        <author>
+            <name>Patitotective</name>
+            <uri>https://news.ycombinator.com/user?id=Patitotective</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clang_format_all - 用YAML配置clang-format
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Oras</name>
             <uri>https://news.ycombinator.com/user?id=Oras</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daspoll - 调查和表格生成器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31986162</id>
-        <link href="https://news.ycombinator.com/item?id=31986162"/>
-        <updated>2022-07-05T09:32:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Daspoll – Survey and Form Builder]]></summary>
-        <author>
-            <name>wayoverthecloud</name>
-            <uri>https://news.ycombinator.com/user?id=wayoverthecloud</uri>
         </author>
     </entry>
 </feed>
