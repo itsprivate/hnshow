@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-30T05:38:05.422Z</updated>
+    <updated>2022-07-30T06:33:46.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[NestJS - 一个渐进式的Node.js框架
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32284695</id>
+        <link href="https://news.ycombinator.com/item?id=32284695"/>
+        <updated>2022-07-30T06:13:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: NestJS – A Progressive Node.js Framework]]></summary>
+        <author>
+            <name>navaneethpk</name>
+            <uri>https://news.ycombinator.com/user?id=navaneethpk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[住房可负担性计算器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Dm_Linov</name>
             <uri>https://news.ycombinator.com/user?id=Dm_Linov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlablaBlock - 一个去中心化的共同基金
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31977895</id>
-        <link href="https://news.ycombinator.com/item?id=31977895"/>
-        <updated>2022-07-04T15:12:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: BlablaBlock – A Decentralized Mutual Fund]]></summary>
-        <author>
-            <name>weiyu1203</name>
-            <uri>https://news.ycombinator.com/user?id=weiyu1203</uri>
         </author>
     </entry>
 </feed>
