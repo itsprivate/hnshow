@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-30T19:44:45.380Z</updated>
+    <updated>2022-07-30T20:46:58.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们来玩数独
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32289965</id>
+        <link href="https://news.ycombinator.com/item?id=32289965"/>
+        <updated>2022-07-30T20:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Let's Play Sudoku]]></summary>
+        <author>
+            <name>dnnsthnnr</name>
+            <uri>https://news.ycombinator.com/user?id=dnnsthnnr</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于人工智能的生成工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>binaryapparatus</name>
             <uri>https://news.ycombinator.com/user?id=binaryapparatus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malibu for VSCode复古主题的灵感来自于Malibu海滩的冲浪日子。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31985877</id>
-        <link href="https://news.ycombinator.com/item?id=31985877"/>
-        <updated>2022-07-05T08:46:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Malibu for VSCode retro theme inspired by surfing days in Malibu Beach]]></summary>
-        <author>
-            <name>Mike_Andreuzza</name>
-            <uri>https://news.ycombinator.com/user?id=Mike_Andreuzza</uri>
         </author>
     </entry>
 </feed>
