@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-30T09:46:21.460Z</updated>
+    <updated>2022-07-30T10:32:52.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[詩歌角 - 一個閱讀公共領域詩歌的React Native應用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32285593</id>
+        <link href="https://news.ycombinator.com/item?id=32285593"/>
+        <updated>2022-07-30T10:11:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Poetry Corner – A React Native app to read public domain poems]]></summary>
+        <author>
+            <name>archiepeach</name>
+            <uri>https://news.ycombinator.com/user?id=archiepeach</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用肌電圖傳感器實現非接觸式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32285572</id>
+        <link href="https://news.ycombinator.com/item?id=32285572"/>
+        <updated>2022-07-30T10:05:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Going Contactless with Electromyography Sensor]]></summary>
+        <author>
+            <name>Swarup_Tripathy</name>
+            <uri>https://news.ycombinator.com/user?id=Swarup_Tripathy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMList - 大型預訓練模型的列表（GPT-3、DALL-E2...）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32285365</id>
+        <link href="https://news.ycombinator.com/item?id=32285365"/>
+        <updated>2022-07-30T09:04:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: BMList - A list of big pre-trained models (GPT-3, DALL-E2...)]]></summary>
+        <author>
+            <name>fishingboy</name>
+            <uri>https://news.ycombinator.com/user?id=fishingboy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SSHScript - 類似shell腳本的Python腳本
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>trane_project</name>
             <uri>https://news.ycombinator.com/user?id=trane_project</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每天都有來自Substack的熱門通訊
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31979984</id>
-        <link href="https://news.ycombinator.com/item?id=31979984"/>
-        <updated>2022-07-04T17:57:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Top trending newsletter each day from Substack]]></summary>
-        <author>
-            <name>quinto_quarto</name>
-            <uri>https://news.ycombinator.com/user?id=quinto_quarto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graphsignal - 加速訓練和推理的ML分析器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31975952</id>
-        <link href="https://news.ycombinator.com/item?id=31975952"/>
-        <updated>2022-07-04T11:40:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Graphsignal – ML profiler to speed up training and inference]]></summary>
-        <author>
-            <name>dmitrim</name>
-            <uri>https://news.ycombinator.com/user?id=dmitrim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過歌詞與拼音和翻譯學習中文
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31979375</id>
-        <link href="https://news.ycombinator.com/item?id=31979375"/>
-        <updated>2022-07-04T17:09:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Learn Chinese through lyrics with pinyin and translation]]></summary>
-        <author>
-            <name>hao1300</name>
-            <uri>https://news.ycombinator.com/user?id=hao1300</uri>
         </author>
     </entry>
 </feed>

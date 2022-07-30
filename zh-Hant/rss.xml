@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 30 Jul 2022 09:46:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 10:32:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[詩歌角 - 一個閱讀公共領域詩歌的React Native應用
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32285593</link>
+            <guid>https://news.ycombinator.com/item?id=32285593</guid>
+            <pubDate>Sat, 30 Jul 2022 10:11:22 GMT</pubDate>
+            <description><![CDATA[Show HN: The Poetry Corner – A React Native app to read public domain poems]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用肌電圖傳感器實現非接觸式
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32285572</link>
+            <guid>https://news.ycombinator.com/item?id=32285572</guid>
+            <pubDate>Sat, 30 Jul 2022 10:05:21 GMT</pubDate>
+            <description><![CDATA[Show HN: Going Contactless with Electromyography Sensor]]></description>
+        </item>
+        <item>
+            <title><![CDATA[BMList - 大型預訓練模型的列表（GPT-3、DALL-E2...）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32285365</link>
+            <guid>https://news.ycombinator.com/item?id=32285365</guid>
+            <pubDate>Sat, 30 Jul 2022 09:04:59 GMT</pubDate>
+            <description><![CDATA[Show HN: BMList - A list of big pre-trained models (GPT-3, DALL-E2...)]]></description>
+        </item>
         <item>
             <title><![CDATA[SSHScript - 類似shell腳本的Python腳本
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31980069</guid>
             <pubDate>Mon, 04 Jul 2022 18:04:26 GMT</pubDate>
             <description><![CDATA[Show HN: Trane, an automated system for learning complex skills]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每天都有來自Substack的熱門通訊
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31979984</link>
-            <guid>https://news.ycombinator.com/item?id=31979984</guid>
-            <pubDate>Mon, 04 Jul 2022 17:57:36 GMT</pubDate>
-            <description><![CDATA[Show HN: Top trending newsletter each day from Substack]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Graphsignal - 加速訓練和推理的ML分析器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31975952</link>
-            <guid>https://news.ycombinator.com/item?id=31975952</guid>
-            <pubDate>Mon, 04 Jul 2022 11:40:45 GMT</pubDate>
-            <description><![CDATA[Show HN: Graphsignal – ML profiler to speed up training and inference]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通過歌詞與拼音和翻譯學習中文
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31979375</link>
-            <guid>https://news.ycombinator.com/item?id=31979375</guid>
-            <pubDate>Mon, 04 Jul 2022 17:09:44 GMT</pubDate>
-            <description><![CDATA[Show HN: Learn Chinese through lyrics with pinyin and translation]]></description>
         </item>
     </channel>
 </rss>
