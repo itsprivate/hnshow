@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-30T14:46:45.959Z</updated>
+    <updated>2022-07-30T15:50:03.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Gowitness - 一个使用Chrome Headless的Golang、网页截图工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32287622</id>
+        <link href="https://news.ycombinator.com/item?id=32287622"/>
+        <updated>2022-07-30T15:38:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Gowitness – a Golang, web screenshot utility using Chrome Headless]]></summary>
+        <author>
+            <name>leonjza</name>
+            <uri>https://news.ycombinator.com/user?id=leonjza</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clp，一个更快的蝙蝠替代品
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nathants</name>
             <uri>https://news.ycombinator.com/user?id=nathants</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASort - 用于对__所有__列表进行排序的Python工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31981946</id>
-        <link href="https://news.ycombinator.com/item?id=31981946"/>
-        <updated>2022-07-04T21:27:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ASort – Python Utility For Sorting __all__ lists]]></summary>
-        <author>
-            <name>cpendery</name>
-            <uri>https://news.ycombinator.com/user?id=cpendery</uri>
         </author>
     </entry>
 </feed>
