@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-30T18:32:51.820Z</updated>
+    <updated>2022-07-30T19:44:45.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基於人工智能的生成工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32289632</id>
+        <link href="https://news.ycombinator.com/item?id=32289632"/>
+        <updated>2022-07-30T19:39:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: AI-Based Generation Tool]]></summary>
+        <author>
+            <name>Malazath</name>
+            <uri>https://news.ycombinator.com/user?id=Malazath</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Mkdocs-plugin] 自動生成代碼樣本以進行API調用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32289576</id>
+        <link href="https://news.ycombinator.com/item?id=32289576"/>
+        <updated>2022-07-30T19:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: [Mkdocs-plugin] Auto-generate code samples to make API calls]]></summary>
+        <author>
+            <name>asiffer</name>
+            <uri>https://news.ycombinator.com/user?id=asiffer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bunny REST Proxy - 一個建立在RabbitMQ之上的HTTP消息代理機構
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Mike_Andreuzza</name>
             <uri>https://news.ycombinator.com/user?id=Mike_Andreuzza</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feathr - 一個開源的、企業級的虛擬功能商店
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31984354</id>
-        <link href="https://news.ycombinator.com/item?id=31984354"/>
-        <updated>2022-07-05T04:35:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Feathr – An Open-Source, Enterprise-Grade Virtual Feature Store]]></summary>
-        <author>
-            <name>zxzxy1988</name>
-            <uri>https://news.ycombinator.com/user?id=zxzxy1988</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IniShare - 綜合數字出版應用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31983926</id>
-        <link href="https://news.ycombinator.com/item?id=31983926"/>
-        <updated>2022-07-05T03:15:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: IniShare – integrated digital publishing app]]></summary>
-        <author>
-            <name>pbackup12345</name>
-            <uri>https://news.ycombinator.com/user?id=pbackup12345</uri>
         </author>
     </entry>
 </feed>
