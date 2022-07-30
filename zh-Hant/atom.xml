@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-30T20:46:58.913Z</updated>
+    <updated>2022-07-30T21:25:41.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Clang_format_all - 用YAML配置clang-format
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32290455</id>
+        <link href="https://news.ycombinator.com/item?id=32290455"/>
+        <updated>2022-07-30T21:20:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Clang_format_all – Configure clang-format with YAML]]></summary>
+        <author>
+            <name>creativeCak3</name>
+            <uri>https://news.ycombinator.com/user?id=creativeCak3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們來玩數獨
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>wayoverthecloud</name>
             <uri>https://news.ycombinator.com/user?id=wayoverthecloud</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個體面的安卓電視網絡瀏覽器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31986121</id>
-        <link href="https://news.ycombinator.com/item?id=31986121"/>
-        <updated>2022-07-05T09:24:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I Made a Decent Android TV Web Browser]]></summary>
-        <author>
-            <name>binaryapparatus</name>
-            <uri>https://news.ycombinator.com/user?id=binaryapparatus</uri>
         </author>
     </entry>
 </feed>
