@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 30 Jul 2022 16:41:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 17:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Automatdeck - 简单的轻量级IT自动化工具，适合你的部署
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32288540</link>
+            <guid>https://news.ycombinator.com/item?id=32288540</guid>
+            <pubDate>Sat, 30 Jul 2022 17:25:18 GMT</pubDate>
+            <description><![CDATA[Show HN: Automatdeck – simple lightweight IT automation tool for your deployment]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Redis-rope，一种用于大字符串的本地数据类型
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32288345</link>
+            <guid>https://news.ycombinator.com/item?id=32288345</guid>
+            <pubDate>Sat, 30 Jul 2022 17:03:42 GMT</pubDate>
+            <description><![CDATA[Show HN: Redis-rope, a native data type for large strings]]></description>
+        </item>
         <item>
             <title><![CDATA[Exacto - 用于快速创建媒体帖子的开源Figma插件
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31982768</guid>
             <pubDate>Mon, 04 Jul 2022 23:31:19 GMT</pubDate>
             <description><![CDATA[Show HN: owo – OneNote to Plain Text]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为Chrome扩展提供类型化的React useStorage钩子
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31982491</link>
-            <guid>https://news.ycombinator.com/item?id=31982491</guid>
-            <pubDate>Mon, 04 Jul 2022 22:47:55 GMT</pubDate>
-            <description><![CDATA[Show HN: Typed React useStorage hook for Chrome extensions]]></description>
-        </item>
-        <item>
-            <title><![CDATA[nbsnapshot - Jupyter笔记本的快照测试
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31982124</link>
-            <guid>https://news.ycombinator.com/item?id=31982124</guid>
-            <pubDate>Mon, 04 Jul 2022 21:53:58 GMT</pubDate>
-            <description><![CDATA[Show HN: nbsnapshot – Snapshot testing for Jupyter notebooks]]></description>
         </item>
     </channel>
 </rss>
