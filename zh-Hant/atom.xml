@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-31T17:08:13.640Z</updated>
+    <updated>2022-07-31T17:41:54.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[普通拼圖，一個免費的拼圖遊戲，靈感來自於畢加索和數獨。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32297097</id>
+        <link href="https://news.ycombinator.com/item?id=32297097"/>
+        <updated>2022-07-31T17:31:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Ordinary Puzzles, a free puzzle game inspired by Picross and Sudoku]]></summary>
+        <author>
+            <name>mmazzarolo</name>
+            <uri>https://news.ycombinator.com/user?id=mmazzarolo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Isla - 任務管理的Calendly
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32297005</id>
+        <link href="https://news.ycombinator.com/item?id=32297005"/>
+        <updated>2022-07-31T17:15:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Isla – Calendly for Task Management]]></summary>
+        <author>
+            <name>rbellon</name>
+            <uri>https://news.ycombinator.com/user?id=rbellon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevRaven - 開發人員的監控
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Retr0id</name>
             <uri>https://news.ycombinator.com/user?id=Retr0id</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(幾乎)Twitter上的每張dalle-mini圖片
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31991331</id>
-        <link href="https://news.ycombinator.com/item?id=31991331"/>
-        <updated>2022-07-05T17:43:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: (Almost) Every dalle-mini image on Twitter]]></summary>
-        <author>
-            <name>theahura</name>
-            <uri>https://news.ycombinator.com/user?id=theahura</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我製造了Zigpoll - 現場調查和表格工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31990522</id>
-        <link href="https://news.ycombinator.com/item?id=31990522"/>
-        <updated>2022-07-05T16:43:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I Made Zigpoll – On-Site Survey and Form Tool]]></summary>
-        <author>
-            <name>jason_zig</name>
-            <uri>https://news.ycombinator.com/user?id=jason_zig</uri>
         </author>
     </entry>
 </feed>
