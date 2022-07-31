@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-31T16:02:20.216Z</updated>
+    <updated>2022-07-31T17:08:13.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DevRaven - 開發人員的監控
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32296783</id>
+        <link href="https://news.ycombinator.com/item?id=32296783"/>
+        <updated>2022-07-31T16:46:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: DevRaven – Monitoring for Developers]]></summary>
+        <author>
+            <name>kc10</name>
+            <uri>https://news.ycombinator.com/user?id=kc10</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[推特上的機器人集體名單，歡迎參加
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jason_zig</name>
             <uri>https://news.ycombinator.com/user?id=jason_zig</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prose.sh - 一個黑客的博客平臺
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31989997</id>
-        <link href="https://news.ycombinator.com/item?id=31989997"/>
-        <updated>2022-07-05T16:07:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Prose.sh – A Blog Platform for Hackers]]></summary>
-        <author>
-            <name>qudat</name>
-            <uri>https://news.ycombinator.com/user?id=qudat</uri>
         </author>
     </entry>
 </feed>
