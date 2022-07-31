@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 31 Jul 2022 12:49:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 13:46:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一个GH repo来策划那些不要求地点的远程工作。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32295386</link>
+            <guid>https://news.ycombinator.com/item?id=32295386</guid>
+            <pubDate>Sun, 31 Jul 2022 13:37:56 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a GH repo to curate remote jobs that don't ask for a location]]></description>
+        </item>
         <item>
             <title><![CDATA[客户端JavaScript中的PHP后端代码
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31988886</guid>
             <pubDate>Tue, 05 Jul 2022 14:51:15 GMT</pubDate>
             <description><![CDATA[Show HN: Marvel Order – Open-Source Timeline of Marvel Movies, Updated Daily]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用eBPF的Linux的凭证转储器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31988820</link>
-            <guid>https://news.ycombinator.com/item?id=31988820</guid>
-            <pubDate>Tue, 05 Jul 2022 14:44:55 GMT</pubDate>
-            <description><![CDATA[Show HN: Credentials dumper for Linux using eBPF]]></description>
         </item>
     </channel>
 </rss>

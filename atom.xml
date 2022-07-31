@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-31T12:49:48.419Z</updated>
+    <updated>2022-07-31T13:46:13.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个GH repo来策划那些不要求地点的远程工作。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32295386</id>
+        <link href="https://news.ycombinator.com/item?id=32295386"/>
+        <updated>2022-07-31T13:37:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a GH repo to curate remote jobs that don't ask for a location]]></summary>
+        <author>
+            <name>saasxyz</name>
+            <uri>https://news.ycombinator.com/user?id=saasxyz</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[客户端JavaScript中的PHP后端代码
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ThatGuySam</name>
             <uri>https://news.ycombinator.com/user?id=ThatGuySam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用eBPF的Linux的凭证转储器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31988820</id>
-        <link href="https://news.ycombinator.com/item?id=31988820"/>
-        <updated>2022-07-05T14:44:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Credentials dumper for Linux using eBPF]]></summary>
-        <author>
-            <name>citronneur</name>
-            <uri>https://news.ycombinator.com/user?id=citronneur</uri>
         </author>
     </entry>
 </feed>
