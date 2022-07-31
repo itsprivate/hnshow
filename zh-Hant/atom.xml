@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-31T21:59:31.651Z</updated>
+    <updated>2022-07-31T22:46:56.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Tock Timer - 簡單的基於網絡的定時器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32299509</id>
+        <link href="https://news.ycombinator.com/item?id=32299509"/>
+        <updated>2022-07-31T22:35:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tock Timer – Simple web-based timer]]></summary>
+        <author>
+            <name>jfoster</name>
+            <uri>https://news.ycombinator.com/user?id=jfoster</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面向大數據的Reduct存儲系列數據庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32299469</id>
+        <link href="https://news.ycombinator.com/item?id=32299469"/>
+        <updated>2022-07-31T22:28:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Reduct Storage-series database for big data]]></summary>
+        <author>
+            <name>flipback</name>
+            <uri>https://news.ycombinator.com/user?id=flipback</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Polygonle - 以形狀的形式提供額外線索的Wordle
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>klapeye</name>
             <uri>https://news.ycombinator.com/user?id=klapeye</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zsh配置（文件的作用，它們的位置，如何運行它們）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31993450</id>
-        <link href="https://news.ycombinator.com/item?id=31993450"/>
-        <updated>2022-07-05T20:43:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Zsh config (what the files do, where they go, how to run them)]]></summary>
-        <author>
-            <name>jph</name>
-            <uri>https://news.ycombinator.com/user?id=jph</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本地化和翻譯應該是代碼，而不是數據
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31993131</id>
-        <link href="https://news.ycombinator.com/item?id=31993131"/>
-        <updated>2022-07-05T20:15:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Localization and translations should be code, not data]]></summary>
-        <author>
-            <name>LeviticusMB</name>
-            <uri>https://news.ycombinator.com/user?id=LeviticusMB</uri>
         </author>
     </entry>
 </feed>
