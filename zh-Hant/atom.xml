@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-31T17:41:54.727Z</updated>
+    <updated>2022-07-31T18:32:55.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Presbot，用聊天機器人創造30%以上的線索
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32297491</id>
+        <link href="https://news.ycombinator.com/item?id=32297491"/>
+        <updated>2022-07-31T18:22:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Presbot, generate 30% more leads with a chatbot]]></summary>
+        <author>
+            <name>tumidpandora</name>
+            <uri>https://news.ycombinator.com/user?id=tumidpandora</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個所見即所得的Markdown編輯器和網絡上的頭腦風暴工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32297437</id>
+        <link href="https://news.ycombinator.com/item?id=32297437"/>
+        <updated>2022-07-31T18:18:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A WYSIWYM Markdown editor and brainstorming tool on the web]]></summary>
+        <author>
+            <name>tkvishal</name>
+            <uri>https://news.ycombinator.com/user?id=tkvishal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logto Next.js SDK--用寒冰構建用戶認證
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32297355</id>
+        <link href="https://news.ycombinator.com/item?id=32297355"/>
+        <updated>2022-07-31T18:09:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Logto Next.js SDK – Build user auth with chill]]></summary>
+        <author>
+            <name>pseudopuppet</name>
+            <uri>https://news.ycombinator.com/user?id=pseudopuppet</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我獨自做了6年的JavaScript沙盒
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32293178</id>
+        <link href="https://news.ycombinator.com/item?id=32293178"/>
+        <updated>2022-07-31T04:27:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I've been making JavaScript sandbox alone for 6 years]]></summary>
+        <author>
+            <name>ianberdin</name>
+            <uri>https://news.ycombinator.com/user?id=ianberdin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[普通拼圖，一個免費的拼圖遊戲，靈感來自於畢加索和數獨。
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>arwong09</name>
             <uri>https://news.ycombinator.com/user?id=arwong09</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Tailwind和Flowbite製作的著陸頁模板 [MIT授權]
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31992063</id>
-        <link href="https://news.ycombinator.com/item?id=31992063"/>
-        <updated>2022-07-05T18:40:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Landing Page Template Built with Tailwind and Flowbite [MIT License]]]></summary>
-        <author>
-            <name>elwingo1</name>
-            <uri>https://news.ycombinator.com/user?id=elwingo1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將無代碼應用程序轉換為Native應用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31991523</id>
-        <link href="https://news.ycombinator.com/item?id=31991523"/>
-        <updated>2022-07-05T17:56:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Convert no code apps into Native apps]]></summary>
-        <author>
-            <name>kith</name>
-            <uri>https://news.ycombinator.com/user?id=kith</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讓人工智能博客寫手取代我的鬼才寫手
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31991368</id>
-        <link href="https://news.ycombinator.com/item?id=31991368"/>
-        <updated>2022-07-05T17:45:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Made an AI Blog Writer to Replace My Ghostwriter]]></summary>
-        <author>
-            <name>tommydriscoll</name>
-            <uri>https://news.ycombinator.com/user?id=tommydriscoll</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[純粹的Python中，一個不合理的高效的生命遊戲
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31991359</id>
-        <link href="https://news.ycombinator.com/item?id=31991359"/>
-        <updated>2022-07-05T17:45:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: An unreasonably efficient Game of Life, in pure Python]]></summary>
-        <author>
-            <name>Retr0id</name>
-            <uri>https://news.ycombinator.com/user?id=Retr0id</uri>
         </author>
     </entry>
 </feed>
