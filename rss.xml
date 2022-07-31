@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 31 Jul 2022 18:32:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 18:53:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用GPT3从1行的想法中生成Pitch decks
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32297559</link>
+            <guid>https://news.ycombinator.com/item?id=32297559</guid>
+            <pubDate>Sun, 31 Jul 2022 18:30:20 GMT</pubDate>
+            <description><![CDATA[Show HN: Generate pitch decks using GPT3 from 1-line ideas]]></description>
+        </item>
         <item>
             <title><![CDATA[Presbot，用聊天机器人创造30%以上的线索
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31992585</guid>
             <pubDate>Tue, 05 Jul 2022 19:25:38 GMT</pubDate>
             <description><![CDATA[Show HN: React library to give every button of yours its own toast notification]]></description>
-        </item>
-        <item>
-            <title><![CDATA[免费的二维码菜单生成器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31992581</link>
-            <guid>https://news.ycombinator.com/item?id=31992581</guid>
-            <pubDate>Tue, 05 Jul 2022 19:25:12 GMT</pubDate>
-            <description><![CDATA[Show HN: Free QR code menu generator]]></description>
         </item>
     </channel>
 </rss>
