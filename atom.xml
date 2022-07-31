@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-31T15:28:55.685Z</updated>
+    <updated>2022-07-31T16:02:20.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[推特上的机器人集体名单，欢迎参加
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32296423</id>
+        <link href="https://news.ycombinator.com/item?id=32296423"/>
+        <updated>2022-07-31T15:57:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Collective list of bots on Twitter, feel free to participate]]></summary>
+        <author>
+            <name>orsifrancesco</name>
+            <uri>https://news.ycombinator.com/user?id=orsifrancesco</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[带有GraphQL APIs的区块链搜索引擎
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>qudat</name>
             <uri>https://news.ycombinator.com/user?id=qudat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Async-rdma: 一个用于编写高吞吐量网络应用的库
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31989550</id>
-        <link href="https://news.ycombinator.com/item?id=31989550"/>
-        <updated>2022-07-05T15:40:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Async-rdma: A lib for writing high-throughput networking Apps]]></summary>
-        <author>
-            <name>withy</name>
-            <uri>https://news.ycombinator.com/user?id=withy</uri>
         </author>
     </entry>
 </feed>

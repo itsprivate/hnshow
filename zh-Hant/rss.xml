@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 31 Jul 2022 15:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 16:02:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[推特上的機器人集體名單，歡迎參加
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32296423</link>
+            <guid>https://news.ycombinator.com/item?id=32296423</guid>
+            <pubDate>Sun, 31 Jul 2022 15:57:48 GMT</pubDate>
+            <description><![CDATA[Show HN: Collective list of bots on Twitter, feel free to participate]]></description>
+        </item>
         <item>
             <title><![CDATA[帶有GraphQL APIs的區塊鏈搜索引擎
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31989997</guid>
             <pubDate>Tue, 05 Jul 2022 16:07:48 GMT</pubDate>
             <description><![CDATA[Show HN: Prose.sh – A Blog Platform for Hackers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Async-rdma: 一個用於編寫高吞吐量網絡應用的庫
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31989550</link>
-            <guid>https://news.ycombinator.com/item?id=31989550</guid>
-            <pubDate>Tue, 05 Jul 2022 15:40:48 GMT</pubDate>
-            <description><![CDATA[Show HN: Async-rdma: A lib for writing high-throughput networking Apps]]></description>
         </item>
     </channel>
 </rss>
