@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-31T13:46:13.319Z</updated>
+    <updated>2022-07-31T14:28:17.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Snipthat.io - 保存你在浏览时发现的有趣文本片段
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32295594</id>
+        <link href="https://news.ycombinator.com/item?id=32295594"/>
+        <updated>2022-07-31T14:11:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Snipthat.io – save interesting text snippets you find whilst browsing]]></summary>
+        <author>
+            <name>mark_mcnally_je</name>
+            <uri>https://news.ycombinator.com/user?id=mark_mcnally_je</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个GH repo来策划那些不要求地点的远程工作。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jaha</name>
             <uri>https://news.ycombinator.com/user?id=jaha</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvel Order - 开源的Marvel电影时间表，每日更新
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31988886</id>
-        <link href="https://news.ycombinator.com/item?id=31988886"/>
-        <updated>2022-07-05T14:51:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Marvel Order – Open-Source Timeline of Marvel Movies, Updated Daily]]></summary>
-        <author>
-            <name>ThatGuySam</name>
-            <uri>https://news.ycombinator.com/user?id=ThatGuySam</uri>
         </author>
     </entry>
 </feed>
