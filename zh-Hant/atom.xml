@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-31T18:53:19.649Z</updated>
+    <updated>2022-07-31T19:25:51.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[測試你的技術知識
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32297763</id>
+        <link href="https://news.ycombinator.com/item?id=32297763"/>
+        <updated>2022-07-31T18:52:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Test Your Tech Knowledge]]></summary>
+        <author>
+            <name>moochee</name>
+            <uri>https://news.ycombinator.com/user?id=moochee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用GPT3從1行的想法中生成Pitch decks
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pleinairist</name>
             <uri>https://news.ycombinator.com/user?id=pleinairist</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讓你的每個按鈕都有自己的敬酒通知的React庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31992585</id>
-        <link href="https://news.ycombinator.com/item?id=31992585"/>
-        <updated>2022-07-05T19:25:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: React library to give every button of yours its own toast notification]]></summary>
-        <author>
-            <name>OlegWock</name>
-            <uri>https://news.ycombinator.com/user?id=OlegWock</uri>
         </author>
     </entry>
 </feed>
