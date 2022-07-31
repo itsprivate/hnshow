@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-07-31T09:26:00.914Z</updated>
+    <updated>2022-07-31T11:24:52.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[路徑 - 為應用程序尋找快捷方式的開放源碼擴展
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32294767</id>
+        <link href="https://news.ycombinator.com/item?id=32294767"/>
+        <updated>2022-07-31T11:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Paths – An Open Source Extension for finding shortcuts for applications]]></summary>
+        <author>
+            <name>rafunderscore</name>
+            <uri>https://news.ycombinator.com/user?id=rafunderscore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於AWS S3/GCS/Azure Blobs的Jeager插件
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kasper_kerem</name>
             <uri>https://news.ycombinator.com/user?id=kasper_kerem</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Nocode構建多模態AI搜索
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31987963</id>
-        <link href="https://news.ycombinator.com/item?id=31987963"/>
-        <updated>2022-07-05T13:27:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Build Multimodal AI Search Using Nocode]]></summary>
-        <author>
-            <name>alexcg1</name>
-            <uri>https://news.ycombinator.com/user?id=alexcg1</uri>
         </author>
     </entry>
 </feed>
