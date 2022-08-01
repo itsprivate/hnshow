@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-01T21:30:54.846Z</updated>
+    <updated>2022-08-01T21:51:58.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[適合忙碌人士的個人生產力工作區
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32312413</id>
+        <link href="https://news.ycombinator.com/item?id=32312413"/>
+        <updated>2022-08-01T21:42:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Personal productivity workspace for busy people]]></summary>
+        <author>
+            <name>chernobai</name>
+            <uri>https://news.ycombinator.com/user?id=chernobai</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nocode功能已滿一年
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>edankwan</name>
             <uri>https://news.ycombinator.com/user?id=edankwan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個基於Go 1.18泛型的依賴注入庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32012205</id>
-        <link href="https://news.ycombinator.com/item?id=32012205"/>
-        <updated>2022-07-07T10:31:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A dependency injection library based on Go 1.18 Generics]]></summary>
-        <author>
-            <name>samber</name>
-            <uri>https://news.ycombinator.com/user?id=samber</uri>
         </author>
     </entry>
 </feed>
