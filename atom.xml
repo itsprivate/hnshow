@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-01T13:00:33.706Z</updated>
+    <updated>2022-08-01T13:59:08.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Isla - 任务管理的通用接口
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32305042</id>
+        <link href="https://news.ycombinator.com/item?id=32305042"/>
+        <updated>2022-08-01T12:30:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Isla – Universal Interface for Task Management]]></summary>
+        <author>
+            <name>rbellon</name>
+            <uri>https://news.ycombinator.com/user?id=rbellon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[欧洲的技术补偿
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>moochee</name>
             <uri>https://news.ycombinator.com/user?id=moochee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约市餐厅菜单中的即时搜索
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32002143</id>
-        <link href="https://news.ycombinator.com/item?id=32002143"/>
-        <updated>2022-07-06T15:10:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Instant Search in NYC Restaurant Menus]]></summary>
-        <author>
-            <name>casta</name>
-            <uri>https://news.ycombinator.com/user?id=casta</uri>
         </author>
     </entry>
 </feed>
