@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 01 Aug 2022 23:34:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 23:51:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[通過快速的API端點將電子表格、Airtable或CSV變成JSON
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32313509</link>
+            <guid>https://news.ycombinator.com/item?id=32313509</guid>
+            <pubDate>Mon, 01 Aug 2022 23:35:47 GMT</pubDate>
+            <description><![CDATA[Show HN: Turn Spreadsheets, Airtable, or CSV to JSON through quick API endpoint]]></description>
+        </item>
         <item>
             <title><![CDATA[GhostLabel - 食品和飲料製造的B2B市場
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32013330</guid>
             <pubDate>Thu, 07 Jul 2022 12:45:11 GMT</pubDate>
             <description><![CDATA[Show HN: PocketBase – open-source realtime back end in 1 file]]></description>
-        </item>
-        <item>
-            <title><![CDATA[StackBricks - 從一個預製的堆棧開始。之後再進行定製，就像樂高一樣。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32012987</link>
-            <guid>https://news.ycombinator.com/item?id=32012987</guid>
-            <pubDate>Thu, 07 Jul 2022 12:11:46 GMT</pubDate>
-            <description><![CDATA[Show HN: StackBricks – Start with a pre-made stack. Customise later, like Lego.]]></description>
         </item>
     </channel>
 </rss>

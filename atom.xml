@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-01T23:34:31.477Z</updated>
+    <updated>2022-08-01T23:51:58.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通过快速的API端点将电子表格、Airtable或CSV变成JSON
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32313509</id>
+        <link href="https://news.ycombinator.com/item?id=32313509"/>
+        <updated>2022-08-01T23:35:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Turn Spreadsheets, Airtable, or CSV to JSON through quick API endpoint]]></summary>
+        <author>
+            <name>yelmahallawy</name>
+            <uri>https://news.ycombinator.com/user?id=yelmahallawy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GhostLabel - 食品和饮料制造的B2B市场
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>randomwebdev</name>
             <uri>https://news.ycombinator.com/user?id=randomwebdev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StackBricks - 从一个预制的堆栈开始。之后再进行定制，就像乐高一样。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32012987</id>
-        <link href="https://news.ycombinator.com/item?id=32012987"/>
-        <updated>2022-07-07T12:11:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: StackBricks – Start with a pre-made stack. Customise later, like Lego.]]></summary>
-        <author>
-            <name>igorzij</name>
-            <uri>https://news.ycombinator.com/user?id=igorzij</uri>
         </author>
     </entry>
 </feed>
