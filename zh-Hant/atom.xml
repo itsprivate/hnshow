@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-01T02:50:36.779Z</updated>
+    <updated>2022-08-01T04:34:42.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[國際法律詞典
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32301534</id>
+        <link href="https://news.ycombinator.com/item?id=32301534"/>
+        <updated>2022-08-01T03:11:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: International Legal Dictionary]]></summary>
+        <author>
+            <name>dogweather</name>
+            <uri>https://news.ycombinator.com/user?id=dogweather</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在Python中製作了Lazy Copy工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32301334</id>
+        <link href="https://news.ycombinator.com/item?id=32301334"/>
+        <updated>2022-08-01T02:41:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I've made Lazy Copy tool in Python]]></summary>
+        <author>
+            <name>tor10</name>
+            <uri>https://news.ycombinator.com/user?id=tor10</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為程序員和網頁設計師提供的方便的顏色選擇器
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>shubham_saboo</name>
             <uri>https://news.ycombinator.com/user?id=shubham_saboo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Una - 基於人工智能的旅遊應用和折扣會員制
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31995891</id>
-        <link href="https://news.ycombinator.com/item?id=31995891"/>
-        <updated>2022-07-06T01:49:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Una – AI based travel app and discounts membership]]></summary>
-        <author>
-            <name>coffeephoenix</name>
-            <uri>https://news.ycombinator.com/user?id=coffeephoenix</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visage Collage - 從自拍中生成混搭照片
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31994905</id>
-        <link href="https://news.ycombinator.com/item?id=31994905"/>
-        <updated>2022-07-05T23:13:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Visage Collage – generate mashups from selfies]]></summary>
-        <author>
-            <name>maweibezahn</name>
-            <uri>https://news.ycombinator.com/user?id=maweibezahn</uri>
         </author>
     </entry>
 </feed>
