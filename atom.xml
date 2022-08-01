@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-01T19:47:21.915Z</updated>
+    <updated>2022-08-01T20:36:27.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个Telegram机器人来获取Raspberry Pi的 "进货 "通知
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32311361</id>
+        <link href="https://news.ycombinator.com/item?id=32311361"/>
+        <updated>2022-08-01T20:03:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a Telegram bot to get Raspberry Pi “in-stock” notification]]></summary>
+        <author>
+            <name>sschueller</name>
+            <uri>https://news.ycombinator.com/user?id=sschueller</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WebDefense - 使用基于AI/ML的检测阻止恶意网站
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32311327</id>
+        <link href="https://news.ycombinator.com/item?id=32311327"/>
+        <updated>2022-08-01T20:00:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WebDefense – Block malicious websites using AI/ML-based detection]]></summary>
+        <author>
+            <name>vineetrf</name>
+            <uri>https://news.ycombinator.com/user?id=vineetrf</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RateYourBoss - 向你的经理提供匿名的反馈意见
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>erhosen</name>
             <uri>https://news.ycombinator.com/user?id=erhosen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arttime获得了一个进度条，简单的安装程序，可以暂停/不暂停的能力
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32010171</id>
-        <link href="https://news.ycombinator.com/item?id=32010171"/>
-        <updated>2022-07-07T05:16:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Arttime gets a progress bar, simple installer, ability to pause/unpause]]></summary>
-        <author>
-            <name>reportaman</name>
-            <uri>https://news.ycombinator.com/user?id=reportaman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用React构建的iCal风格的UI库，99%为无头组件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32008958</id>
-        <link href="https://news.ycombinator.com/item?id=32008958"/>
-        <updated>2022-07-07T01:27:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: iCal style UI library built with React, 99% headless components]]></summary>
-        <author>
-            <name>trevorme91</name>
-            <uri>https://news.ycombinator.com/user?id=trevorme91</uri>
         </author>
     </entry>
 </feed>
