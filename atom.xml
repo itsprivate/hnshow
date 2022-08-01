@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-01T18:42:26.695Z</updated>
+    <updated>2022-08-01T19:06:05.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用你的预算进行机器学习
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32310621</id>
+        <link href="https://news.ycombinator.com/item?id=32310621"/>
+        <updated>2022-08-01T18:59:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Machine learning using your budget]]></summary>
+        <author>
+            <name>athomasg</name>
+            <uri>https://news.ycombinator.com/user?id=athomasg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ImpactPharm //获得药剂师+医生的团队咨询!
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32310429</id>
+        <link href="https://news.ycombinator.com/item?id=32310429"/>
+        <updated>2022-08-01T18:44:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ImpactPharm //Get a team consultation with a pharmacist + a physician!]]></summary>
+        <author>
+            <name>ImpactPharm</name>
+            <uri>https://news.ycombinator.com/user?id=ImpactPharm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为许多基于CLI的在线媒体下载器提供基于Qt的图形用户界面
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>madou</name>
             <uri>https://news.ycombinator.com/user?id=madou</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Barfi - 基于Python流程的GUI编程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32006756</id>
-        <link href="https://news.ycombinator.com/item?id=32006756"/>
-        <updated>2022-07-06T21:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Barfi – Python flow based programming with GUI]]></summary>
-        <author>
-            <name>krishadi</name>
-            <uri>https://news.ycombinator.com/user?id=krishadi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们为团队创建了一个密码和数据管理器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32006725</id>
-        <link href="https://news.ycombinator.com/item?id=32006725"/>
-        <updated>2022-07-06T20:57:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We created a password and data manager for teams]]></summary>
-        <author>
-            <name>glenn_vc</name>
-            <uri>https://news.ycombinator.com/user?id=glenn_vc</uri>
         </author>
     </entry>
 </feed>
