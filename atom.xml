@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-01T17:21:40.912Z</updated>
+    <updated>2022-08-01T17:47:40.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Litoshow - 内容创作者的代码回放
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32309172</id>
+        <link href="https://news.ycombinator.com/item?id=32309172"/>
+        <updated>2022-08-01T17:15:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Litoshow – Code playback for content creators]]></summary>
+        <author>
+            <name>fernandops26</name>
+            <uri>https://news.ycombinator.com/user?id=fernandops26</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DeSci - 研究的未来
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>vdizzle</name>
             <uri>https://news.ycombinator.com/user?id=vdizzle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与你的Twitter粉丝互动，建立有意义的关系
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32003754</id>
-        <link href="https://news.ycombinator.com/item?id=32003754"/>
-        <updated>2022-07-06T17:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Engage with your Twitter followers to build meaningful relationships]]></summary>
-        <author>
-            <name>Abishek_Muthian</name>
-            <uri>https://news.ycombinator.com/user?id=Abishek_Muthian</uri>
         </author>
     </entry>
 </feed>
