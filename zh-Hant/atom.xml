@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-01T17:47:40.270Z</updated>
+    <updated>2022-08-01T18:42:26.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[為許多基於CLI的在線媒體下載器提供基於Qt的圖形用戶界面
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32310273</id>
+        <link href="https://news.ycombinator.com/item?id=32310273"/>
+        <updated>2022-08-01T18:33:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Qt based GUI for many CLI based online media downloaders]]></summary>
+        <author>
+            <name>mhogomchungu</name>
+            <uri>https://news.ycombinator.com/user?id=mhogomchungu</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EchoRecipes - 一個烹飪的虛擬助手
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32310115</id>
+        <link href="https://news.ycombinator.com/item?id=32310115"/>
+        <updated>2022-08-01T18:20:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: EchoRecipes – A Virtual Assistant for Cooking]]></summary>
+        <author>
+            <name>bmease</name>
+            <uri>https://news.ycombinator.com/user?id=bmease</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打印年齡加密的小秘密，以便離線恢復
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32310101</id>
+        <link href="https://news.ycombinator.com/item?id=32310101"/>
+        <updated>2022-08-01T18:19:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Print age encrypted small secrets for offline recovery]]></summary>
+        <author>
+            <name>betareducer</name>
+            <uri>https://news.ycombinator.com/user?id=betareducer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用漢密爾頓和潘德拉進行輕量級數據質量檢查
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32309905</id>
+        <link href="https://news.ycombinator.com/item?id=32309905"/>
+        <updated>2022-08-01T18:06:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lightweight Data Quality checks with Hamilton & Pandera]]></summary>
+        <author>
+            <name>krawczstef</name>
+            <uri>https://news.ycombinator.com/user?id=krawczstef</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Litoshow - 內容創作者的代碼回放
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>glenn_vc</name>
             <uri>https://news.ycombinator.com/user?id=glenn_vc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C3 - 看起來像C的C的替代品（2022年更新）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32005678</id>
-        <link href="https://news.ycombinator.com/item?id=32005678"/>
-        <updated>2022-07-06T19:31:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: C3 – The C alternative that looks like C (2022 update)]]></summary>
-        <author>
-            <name>lerno</name>
-            <uri>https://news.ycombinator.com/user?id=lerno</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gpucsl - 使用GPU進行因果結構學習的Python庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32004802</id>
-        <link href="https://news.ycombinator.com/item?id=32004802"/>
-        <updated>2022-07-06T18:23:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Gpucsl – Python library for causal structure learning using GPUs]]></summary>
-        <author>
-            <name>tombraun</name>
-            <uri>https://news.ycombinator.com/user?id=tombraun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[構建簡單而強大的開源語義應用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32004799</id>
-        <link href="https://news.ycombinator.com/item?id=32004799"/>
-        <updated>2022-07-06T18:23:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Build simple yet powerful open-source semantic applications]]></summary>
-        <author>
-            <name>txtai</name>
-            <uri>https://news.ycombinator.com/user?id=txtai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[群聊3D網站，建立在低代碼的基礎上
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32004717</id>
-        <link href="https://news.ycombinator.com/item?id=32004717"/>
-        <updated>2022-07-06T18:15:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Group chat 3D website, built on low-code]]></summary>
-        <author>
-            <name>vdizzle</name>
-            <uri>https://news.ycombinator.com/user?id=vdizzle</uri>
         </author>
     </entry>
 </feed>
