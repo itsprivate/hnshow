@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-01T20:54:25.842Z</updated>
+    <updated>2022-08-01T21:30:54.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Nocode功能已滿一年
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32312135</id>
+        <link href="https://news.ycombinator.com/item?id=32312135"/>
+        <updated>2022-08-01T21:16:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Nocode functions is one year old]]></summary>
+        <author>
+            <name>seinecle</name>
+            <uri>https://news.ycombinator.com/user?id=seinecle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我正在製作Codelime，以創建漂亮的代碼片段截圖
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>samber</name>
             <uri>https://news.ycombinator.com/user?id=samber</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個基於早期DOS遊戲的小型開源邏輯遊戲
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32011739</id>
-        <link href="https://news.ycombinator.com/item?id=32011739"/>
-        <updated>2022-07-07T09:33:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A small open-source logic game based on an a early DOS game]]></summary>
-        <author>
-            <name>peterfication</name>
-            <uri>https://news.ycombinator.com/user?id=peterfication</uri>
         </author>
     </entry>
 </feed>

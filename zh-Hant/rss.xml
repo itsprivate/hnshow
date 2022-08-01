@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 01 Aug 2022 20:54:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 21:30:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Nocode功能已滿一年
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32312135</link>
+            <guid>https://news.ycombinator.com/item?id=32312135</guid>
+            <pubDate>Mon, 01 Aug 2022 21:16:38 GMT</pubDate>
+            <description><![CDATA[Show HN: Nocode functions is one year old]]></description>
+        </item>
         <item>
             <title><![CDATA[我正在製作Codelime，以創建漂亮的代碼片段截圖
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32012205</guid>
             <pubDate>Thu, 07 Jul 2022 10:31:31 GMT</pubDate>
             <description><![CDATA[Show HN: A dependency injection library based on Go 1.18 Generics]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個基於早期DOS遊戲的小型開源邏輯遊戲
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32011739</link>
-            <guid>https://news.ycombinator.com/item?id=32011739</guid>
-            <pubDate>Thu, 07 Jul 2022 09:33:50 GMT</pubDate>
-            <description><![CDATA[Show HN: A small open-source logic game based on an a early DOS game]]></description>
         </item>
     </channel>
 </rss>
