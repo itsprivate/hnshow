@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-01T05:52:58.938Z</updated>
+    <updated>2022-08-01T06:25:01.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[免費的自定義光標庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32302672</id>
+        <link href="https://news.ycombinator.com/item?id=32302672"/>
+        <updated>2022-08-01T06:15:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Free Custom Cursor Library]]></summary>
+        <author>
+            <name>taylonchan</name>
+            <uri>https://news.ycombinator.com/user?id=taylonchan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個網站，眾籌最佳副業的想法
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kamban</name>
             <uri>https://news.ycombinator.com/user?id=kamban</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NeoPOP在開放源代碼中說 "你好，世界"。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31997539</id>
-        <link href="https://news.ycombinator.com/item?id=31997539"/>
-        <updated>2022-07-06T06:38:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: NeoPOP says “hello world” in open source]]></summary>
-        <author>
-            <name>bigint</name>
-            <uri>https://news.ycombinator.com/user?id=bigint</uri>
         </author>
     </entry>
 </feed>
