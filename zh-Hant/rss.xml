@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 01 Aug 2022 20:36:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 20:54:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我正在製作Codelime，以創建漂亮的代碼片段截圖
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32311739</link>
+            <guid>https://news.ycombinator.com/item?id=32311739</guid>
+            <pubDate>Mon, 01 Aug 2022 20:38:10 GMT</pubDate>
+            <description><![CDATA[Show HN: I'm making Codelime to create beautiful code snippet screenshot]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一個Telegram機器人來獲取Raspberry Pi的 "進貨 "通知
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32011739</guid>
             <pubDate>Thu, 07 Jul 2022 09:33:50 GMT</pubDate>
             <description><![CDATA[Show HN: A small open-source logic game based on an a early DOS game]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pythogen - OpenAPI客戶端生成器（基於pydantic和httpx）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32010702</link>
-            <guid>https://news.ycombinator.com/item?id=32010702</guid>
-            <pubDate>Thu, 07 Jul 2022 06:52:16 GMT</pubDate>
-            <description><![CDATA[Show HN: Pythogen – OpenAPI clients generator (based on pydantic and httpx)]]></description>
         </item>
     </channel>
 </rss>

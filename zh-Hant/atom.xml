@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-01T20:36:27.925Z</updated>
+    <updated>2022-08-01T20:54:25.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我正在製作Codelime，以創建漂亮的代碼片段截圖
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32311739</id>
+        <link href="https://news.ycombinator.com/item?id=32311739"/>
+        <updated>2022-08-01T20:38:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I'm making Codelime to create beautiful code snippet screenshot]]></summary>
+        <author>
+            <name>onmyway133</name>
+            <uri>https://news.ycombinator.com/user?id=onmyway133</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個Telegram機器人來獲取Raspberry Pi的 "進貨 "通知
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>peterfication</name>
             <uri>https://news.ycombinator.com/user?id=peterfication</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pythogen - OpenAPI客戶端生成器（基於pydantic和httpx）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32010702</id>
-        <link href="https://news.ycombinator.com/item?id=32010702"/>
-        <updated>2022-07-07T06:52:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pythogen – OpenAPI clients generator (based on pydantic and httpx)]]></summary>
-        <author>
-            <name>erhosen</name>
-            <uri>https://news.ycombinator.com/user?id=erhosen</uri>
         </author>
     </entry>
 </feed>
