@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 01 Aug 2022 08:36:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 09:50:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[通過透明壓縮將SQLite數據庫的大小減少到80%。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32303762</link>
+            <guid>https://news.ycombinator.com/item?id=32303762</guid>
+            <pubDate>Mon, 01 Aug 2022 09:36:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Reduce SQLite database size by up to 80% with transparent compression]]></description>
+        </item>
         <item>
             <title><![CDATA[白色標籤的任何網頁
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31999357</guid>
             <pubDate>Wed, 06 Jul 2022 11:21:02 GMT</pubDate>
             <description><![CDATA[Show HN: StoneDB – A real-time HTAP database built on MySQL]]></description>
-        </item>
-        <item>
-            <title><![CDATA[收藏一篇文章，以後在自己的播客頻道上收聽
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31998941</link>
-            <guid>https://news.ycombinator.com/item?id=31998941</guid>
-            <pubDate>Wed, 06 Jul 2022 10:19:50 GMT</pubDate>
-            <description><![CDATA[Show HN: Bookmark an article, listen to it later on your own podcast feed]]></description>
         </item>
     </channel>
 </rss>

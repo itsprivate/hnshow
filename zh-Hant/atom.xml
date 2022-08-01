@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-01T08:36:48.052Z</updated>
+    <updated>2022-08-01T09:50:33.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通過透明壓縮將SQLite數據庫的大小減少到80%。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32303762</id>
+        <link href="https://news.ycombinator.com/item?id=32303762"/>
+        <updated>2022-08-01T09:36:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Reduce SQLite database size by up to 80% with transparent compression]]></summary>
+        <author>
+            <name>phiresky</name>
+            <uri>https://news.ycombinator.com/user?id=phiresky</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[白色標籤的任何網頁
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>YangWilly</name>
             <uri>https://news.ycombinator.com/user?id=YangWilly</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[收藏一篇文章，以後在自己的播客頻道上收聽
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31998941</id>
-        <link href="https://news.ycombinator.com/item?id=31998941"/>
-        <updated>2022-07-06T10:19:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bookmark an article, listen to it later on your own podcast feed]]></summary>
-        <author>
-            <name>tuanmanhcao</name>
-            <uri>https://news.ycombinator.com/user?id=tuanmanhcao</uri>
         </author>
     </entry>
 </feed>

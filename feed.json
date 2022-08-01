@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32303762",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32303762",
+            "title": "通过透明压缩将SQLite数据库的大小减少到80%。\n",
+            "summary": "Show HN: Reduce SQLite database size by up to 80% with transparent compression",
+            "date_modified": "2022-08-01T09:36:16.000Z",
+            "author": {
+                "name": "phiresky",
+                "url": "https://news.ycombinator.com/user?id=phiresky"
+            },
+            "_original_headline": "Show HN: Reduce SQLite database size by up to 80% with transparent compression",
+            "_original_url": "https://github.com/phiresky/sqlite-zstd",
+            "_sensitive": false,
+            "_score": 2
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32303337",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32303337",
@@ -9591,22 +9607,6 @@
             },
             "_original_headline": "Show HN: StoneDB – A real-time HTAP database built on MySQL",
             "_original_url": "https://github.com/stoneatom/stonedb",
-            "_sensitive": false,
-            "_score": 1
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=31998941",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=31998941",
-            "title": "收藏一篇文章，以后在自己的播客频道上收听\n",
-            "summary": "Show HN: Bookmark an article, listen to it later on your own podcast feed",
-            "date_modified": "2022-07-06T10:19:50.000Z",
-            "author": {
-                "name": "tuanmanhcao",
-                "url": "https://news.ycombinator.com/user?id=tuanmanhcao"
-            },
-            "_original_headline": "Show HN: Bookmark an article, listen to it later on your own podcast feed",
-            "_original_url": "https://sendtopod.com/",
             "_sensitive": false,
             "_score": 1
         }
