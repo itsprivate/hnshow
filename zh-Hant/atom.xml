@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-01T07:44:02.876Z</updated>
+    <updated>2022-08-01T08:36:48.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[白色標籤的任何網頁
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32303337</id>
+        <link href="https://news.ycombinator.com/item?id=32303337"/>
+        <updated>2022-08-01T08:12:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: White Label Any Webpage]]></summary>
+        <author>
+            <name>motyar</name>
+            <uri>https://news.ycombinator.com/user?id=motyar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[支持SQL的API網關，用Go編寫
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tuanmanhcao</name>
             <uri>https://news.ycombinator.com/user?id=tuanmanhcao</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朋友評論--為時刻評分，為你的友誼打分
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31998887</id>
-        <link href="https://news.ycombinator.com/item?id=31998887"/>
-        <updated>2022-07-06T10:11:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Friend Review – Rate Moments, Scale Your Friendships]]></summary>
-        <author>
-            <name>3dwafflee</name>
-            <uri>https://news.ycombinator.com/user?id=3dwafflee</uri>
         </author>
     </entry>
 </feed>

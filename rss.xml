@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 01 Aug 2022 07:44:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 08:36:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[白色标签的任何网页
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32303337</link>
+            <guid>https://news.ycombinator.com/item?id=32303337</guid>
+            <pubDate>Mon, 01 Aug 2022 08:12:40 GMT</pubDate>
+            <description><![CDATA[Show HN: White Label Any Webpage]]></description>
+        </item>
         <item>
             <title><![CDATA[支持SQL的API网关，用Go编写
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=31998941</guid>
             <pubDate>Wed, 06 Jul 2022 10:19:50 GMT</pubDate>
             <description><![CDATA[Show HN: Bookmark an article, listen to it later on your own podcast feed]]></description>
-        </item>
-        <item>
-            <title><![CDATA[朋友评论--为时刻评分，为你的友谊打分
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31998887</link>
-            <guid>https://news.ycombinator.com/item?id=31998887</guid>
-            <pubDate>Wed, 06 Jul 2022 10:11:34 GMT</pubDate>
-            <description><![CDATA[Show HN: Friend Review – Rate Moments, Scale Your Friendships]]></description>
         </item>
     </channel>
 </rss>
