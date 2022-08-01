@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 01 Aug 2022 19:06:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 19:47:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[RateYourBoss - 向你的经理提供匿名的反馈意见
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32310947</link>
+            <guid>https://news.ycombinator.com/item?id=32310947</guid>
+            <pubDate>Mon, 01 Aug 2022 19:28:08 GMT</pubDate>
+            <description><![CDATA[Show HN: RateYourBoss – give anonymous feedback to your managers]]></description>
+        </item>
         <item>
             <title><![CDATA[使用你的预算进行机器学习
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32008958</guid>
             <pubDate>Thu, 07 Jul 2022 01:27:57 GMT</pubDate>
             <description><![CDATA[Show HN: iCal style UI library built with React, 99% headless components]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Topler - 实时在线一起玩笔和纸的桌面RPG游戏
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32007646</link>
-            <guid>https://news.ycombinator.com/item?id=32007646</guid>
-            <pubDate>Wed, 06 Jul 2022 22:26:23 GMT</pubDate>
-            <description><![CDATA[Show HN: Topler – Play pen and paper tabletop RPGs together online in real time]]></description>
         </item>
     </channel>
 </rss>
