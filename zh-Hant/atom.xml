@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-01T09:50:33.665Z</updated>
+    <updated>2022-08-01T10:39:36.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年7月HN的熱門職位
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32304086</id>
+        <link href="https://news.ycombinator.com/item?id=32304086"/>
+        <updated>2022-08-01T10:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Top HN Posts July 2022]]></summary>
+        <author>
+            <name>santiagobasulto</name>
+            <uri>https://news.ycombinator.com/user?id=santiagobasulto</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[輕量級但功能強大的IT自動化工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32304043</id>
+        <link href="https://news.ycombinator.com/item?id=32304043"/>
+        <updated>2022-08-01T10:24:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lightweight yet powerful IT automation tool]]></summary>
+        <author>
+            <name>automatdeck</name>
+            <uri>https://news.ycombinator.com/user?id=automatdeck</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[開源的Typeform替代品（測試版）--snoopForms直播
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32303986</id>
+        <link href="https://news.ycombinator.com/item?id=32303986"/>
+        <updated>2022-08-01T10:16:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-source Typeform Alternative (beta) – snoopForms live]]></summary>
+        <author>
+            <name>beanclap</name>
+            <uri>https://news.ycombinator.com/user?id=beanclap</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goose - Clojure的後臺作業處理庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32303863</id>
+        <link href="https://news.ycombinator.com/item?id=32303863"/>
+        <updated>2022-08-01T09:56:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Goose – A Background Job Processing Library for Clojure]]></summary>
+        <author>
+            <name>olttwa</name>
+            <uri>https://news.ycombinator.com/user?id=olttwa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通過透明壓縮將SQLite數據庫的大小減少到80%。
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>bquaresma</name>
             <uri>https://news.ycombinator.com/user?id=bquaresma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consuma - 使用人工智能來做你的研究
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31999748</id>
-        <link href="https://news.ycombinator.com/item?id=31999748"/>
-        <updated>2022-07-06T12:18:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Consuma – Use AI to do your Research]]></summary>
-        <author>
-            <name>abhilashmdb</name>
-            <uri>https://news.ycombinator.com/user?id=abhilashmdb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於動態代碼完成的PHPStorm插件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31999604</id>
-        <link href="https://news.ycombinator.com/item?id=31999604"/>
-        <updated>2022-07-06T11:58:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PHPStorm Plugin for dynamic code completion]]></summary>
-        <author>
-            <name>dmeybohm</name>
-            <uri>https://news.ycombinator.com/user?id=dmeybohm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[批量自動填寫PDF表格 [Excel, CSV, SQL Server, Access, XML或JSON] 。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31999358</id>
-        <link href="https://news.ycombinator.com/item?id=31999358"/>
-        <updated>2022-07-06T11:21:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Batch Auto Fill PDF Forms [Excel, CSV, SQL Server, Access, XML or JSON]]]></summary>
-        <author>
-            <name>Tadelsucht</name>
-            <uri>https://news.ycombinator.com/user?id=Tadelsucht</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StoneDB - 一個建立在MySQL基礎上的實時HTAP數據庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31999357</id>
-        <link href="https://news.ycombinator.com/item?id=31999357"/>
-        <updated>2022-07-06T11:21:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: StoneDB – A real-time HTAP database built on MySQL]]></summary>
-        <author>
-            <name>YangWilly</name>
-            <uri>https://news.ycombinator.com/user?id=YangWilly</uri>
         </author>
     </entry>
 </feed>

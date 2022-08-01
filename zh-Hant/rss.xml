@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 01 Aug 2022 09:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 10:39:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,38 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[2022年7月HN的熱門職位
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32304086</link>
+            <guid>https://news.ycombinator.com/item?id=32304086</guid>
+            <pubDate>Mon, 01 Aug 2022 10:30:08 GMT</pubDate>
+            <description><![CDATA[Show HN: Top HN Posts July 2022]]></description>
+        </item>
+        <item>
+            <title><![CDATA[輕量級但功能強大的IT自動化工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32304043</link>
+            <guid>https://news.ycombinator.com/item?id=32304043</guid>
+            <pubDate>Mon, 01 Aug 2022 10:24:41 GMT</pubDate>
+            <description><![CDATA[Show HN: Lightweight yet powerful IT automation tool]]></description>
+        </item>
+        <item>
+            <title><![CDATA[開源的Typeform替代品（測試版）--snoopForms直播
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32303986</link>
+            <guid>https://news.ycombinator.com/item?id=32303986</guid>
+            <pubDate>Mon, 01 Aug 2022 10:16:14 GMT</pubDate>
+            <description><![CDATA[Show HN: Open-source Typeform Alternative (beta) – snoopForms live]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Goose - Clojure的後臺作業處理庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32303863</link>
+            <guid>https://news.ycombinator.com/item?id=32303863</guid>
+            <pubDate>Mon, 01 Aug 2022 09:56:28 GMT</pubDate>
+            <description><![CDATA[Show HN: Goose – A Background Job Processing Library for Clojure]]></description>
+        </item>
         <item>
             <title><![CDATA[通過透明壓縮將SQLite數據庫的大小減少到80%。
 ]]></title>
@@ -4781,38 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32000561</guid>
             <pubDate>Wed, 06 Jul 2022 13:29:30 GMT</pubDate>
             <description><![CDATA[Show HN: Dashboardify – OSS project to create shareable dashboards using JSON]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Consuma - 使用人工智能來做你的研究
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31999748</link>
-            <guid>https://news.ycombinator.com/item?id=31999748</guid>
-            <pubDate>Wed, 06 Jul 2022 12:18:29 GMT</pubDate>
-            <description><![CDATA[Show HN: Consuma – Use AI to do your Research]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用於動態代碼完成的PHPStorm插件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31999604</link>
-            <guid>https://news.ycombinator.com/item?id=31999604</guid>
-            <pubDate>Wed, 06 Jul 2022 11:58:40 GMT</pubDate>
-            <description><![CDATA[Show HN: PHPStorm Plugin for dynamic code completion]]></description>
-        </item>
-        <item>
-            <title><![CDATA[批量自動填寫PDF表格 [Excel, CSV, SQL Server, Access, XML或JSON] 。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31999358</link>
-            <guid>https://news.ycombinator.com/item?id=31999358</guid>
-            <pubDate>Wed, 06 Jul 2022 11:21:20 GMT</pubDate>
-            <description><![CDATA[Show HN: Batch Auto Fill PDF Forms [Excel, CSV, SQL Server, Access, XML or JSON]]]></description>
-        </item>
-        <item>
-            <title><![CDATA[StoneDB - 一個建立在MySQL基礎上的實時HTAP數據庫
-]]></title>
-            <link>https://news.ycombinator.com/item?id=31999357</link>
-            <guid>https://news.ycombinator.com/item?id=31999357</guid>
-            <pubDate>Wed, 06 Jul 2022 11:21:02 GMT</pubDate>
-            <description><![CDATA[Show HN: StoneDB – A real-time HTAP database built on MySQL]]></description>
         </item>
     </channel>
 </rss>
