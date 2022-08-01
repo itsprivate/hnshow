@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-01T04:34:42.556Z</updated>
+    <updated>2022-08-01T05:52:58.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个网站，众筹最佳副业的想法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32302428</id>
+        <link href="https://news.ycombinator.com/item?id=32302428"/>
+        <updated>2022-08-01T05:34:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a site that crowdsources best side project ideas]]></summary>
+        <author>
+            <name>rutikwankhade</name>
+            <uri>https://news.ycombinator.com/user?id=rutikwankhade</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Outserv - GraphQL搜索引擎
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32302368</id>
+        <link href="https://news.ycombinator.com/item?id=32302368"/>
+        <updated>2022-08-01T05:24:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Outserv – GraphQL Search Engine]]></summary>
+        <author>
+            <name>mrjn</name>
+            <uri>https://news.ycombinator.com/user?id=mrjn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国际法律词典
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>bigint</name>
             <uri>https://news.ycombinator.com/user?id=bigint</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用C语言编写的一个简单的意大利语到英语的翻译器（Hello World笑话）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31997061</id>
-        <link href="https://news.ycombinator.com/item?id=31997061"/>
-        <updated>2022-07-06T05:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A simple Italian to English translator written in C (Hello World joke)]]></summary>
-        <author>
-            <name>jpegqs</name>
-            <uri>https://news.ycombinator.com/user?id=jpegqs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用神经搜索的IT威胁检测
-]]></title>
-        <id>https://news.ycombinator.com/item?id=31996914</id>
-        <link href="https://news.ycombinator.com/item?id=31996914"/>
-        <updated>2022-07-06T05:03:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: IT Threat Detection Using Neural Search]]></summary>
-        <author>
-            <name>shubham_saboo</name>
-            <uri>https://news.ycombinator.com/user?id=shubham_saboo</uri>
         </author>
     </entry>
 </feed>
