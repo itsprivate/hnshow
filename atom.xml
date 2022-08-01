@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-01T10:39:36.268Z</updated>
+    <updated>2022-08-01T10:54:29.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[RandomGeo.City - 浏览随机Geocities网站
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32304150</id>
+        <link href="https://news.ycombinator.com/item?id=32304150"/>
+        <updated>2022-08-01T10:40:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: RandomGeo.City – Browse Random Geocities Websites]]></summary>
+        <author>
+            <name>emeth</name>
+            <uri>https://news.ycombinator.com/user?id=emeth</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年7月HN的热门职位
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tejas3732</name>
             <uri>https://news.ycombinator.com/user?id=tejas3732</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dashboardify - 使用JSON创建可共享仪表盘的开放源码项目
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32000561</id>
-        <link href="https://news.ycombinator.com/item?id=32000561"/>
-        <updated>2022-07-06T13:29:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dashboardify – OSS project to create shareable dashboards using JSON]]></summary>
-        <author>
-            <name>bquaresma</name>
-            <uri>https://news.ycombinator.com/user?id=bquaresma</uri>
         </author>
     </entry>
 </feed>
