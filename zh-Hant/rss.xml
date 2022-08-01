@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 01 Aug 2022 16:48:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 17:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[DeSci - 研究的未來
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32308865</link>
+            <guid>https://news.ycombinator.com/item?id=32308865</guid>
+            <pubDate>Mon, 01 Aug 2022 16:53:20 GMT</pubDate>
+            <description><![CDATA[Show HN: DeSci – The Future of Research]]></description>
+        </item>
+        <item>
+            <title><![CDATA[人工智能的故事，用GPT-3編寫的小說，用DALL-E 2繪製的插圖
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32308859</link>
+            <guid>https://news.ycombinator.com/item?id=32308859</guid>
+            <pubDate>Mon, 01 Aug 2022 16:52:55 GMT</pubDate>
+            <description><![CDATA[Show HN: Stories by AI, fiction written with GPT-3 and illustrated with DALL-E 2]]></description>
+        </item>
         <item>
             <title><![CDATA[PyFreeLeh - 一個簡單的谷歌表格的DB接口
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32003754</guid>
             <pubDate>Wed, 06 Jul 2022 17:01:29 GMT</pubDate>
             <description><![CDATA[Show HN: Engage with your Twitter followers to build meaningful relationships]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何在Node中解析一個參數化的HTTP頭
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32003753</link>
-            <guid>https://news.ycombinator.com/item?id=32003753</guid>
-            <pubDate>Wed, 06 Jul 2022 17:01:21 GMT</pubDate>
-            <description><![CDATA[Show HN: How to parse a parameterized HTTP header in Node]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TripleCross - 一個帶有C2系統的Linux eBPF rootkit和更多信息
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32003561</link>
-            <guid>https://news.ycombinator.com/item?id=32003561</guid>
-            <pubDate>Wed, 06 Jul 2022 16:49:30 GMT</pubDate>
-            <description><![CDATA[Show HN: TripleCross – A Linux eBPF rootkit with a C2 system and more]]></description>
         </item>
     </channel>
 </rss>
