@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 02 Aug 2022 20:00:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 22:32:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[妈妈，我们可以在家里吃（Haskell风味的）后现代C++吗？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32324987</link>
+            <guid>https://news.ycombinator.com/item?id=32324987</guid>
+            <pubDate>Tue, 02 Aug 2022 22:18:57 GMT</pubDate>
+            <description><![CDATA[Show HN: Mom, can we have (Haskell flavored) post-modern C++ at home?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[论语》公布聊天内容
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32324827</link>
+            <guid>https://news.ycombinator.com/item?id=32324827</guid>
+            <pubDate>Tue, 02 Aug 2022 22:01:40 GMT</pubDate>
+            <description><![CDATA[Show HN: Discourse Announces Chat]]></description>
+        </item>
         <item>
             <title><![CDATA[保护你的智能家居免受网络威胁的一个简单方法
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32033824</guid>
             <pubDate>Sat, 09 Jul 2022 10:58:11 GMT</pubDate>
             <description><![CDATA[Show HN: Fauna Admin – The Admin UI for FaunaDB]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用tview在Go中实现的7guis TUI
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32033187</link>
-            <guid>https://news.ycombinator.com/item?id=32033187</guid>
-            <pubDate>Sat, 09 Jul 2022 08:51:58 GMT</pubDate>
-            <description><![CDATA[Show HN: 7guis TUI implemented in Go using tview]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我创建了ESLint插件，发现JSX中无效的HTML嵌套
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32032314</link>
-            <guid>https://news.ycombinator.com/item?id=32032314</guid>
-            <pubDate>Sat, 09 Jul 2022 06:07:21 GMT</pubDate>
-            <description><![CDATA[Show HN: I Created ESLint Plugin That Finds Invalid HTML Nestings in JSX]]></description>
         </item>
     </channel>
 </rss>
