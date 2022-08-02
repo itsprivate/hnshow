@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-02T14:08:10.804Z</updated>
+    <updated>2022-08-02T14:59:38.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Simplenote - 支持发布的笔记（托管，Markdown）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32319202</id>
+        <link href="https://news.ycombinator.com/item?id=32319202"/>
+        <updated>2022-08-02T14:47:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Simplenote – Notes with support for publishing (hosted, Markdown)]]></summary>
+        <author>
+            <name>qzx_pierri</name>
+            <uri>https://news.ycombinator.com/user?id=qzx_pierri</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[低成本便携式色谱仪的建立
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ransom1538</name>
             <uri>https://news.ycombinator.com/user?id=ransom1538</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Packetmaker - 在Go中生成数据包的低分配、轻量级方式
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32024785</id>
-        <link href="https://news.ycombinator.com/item?id=32024785"/>
-        <updated>2022-07-08T09:28:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Packetmaker – A low alloc, lightweight way to generate packets in Go]]></summary>
-        <author>
-            <name>JakeMakesStuff</name>
-            <uri>https://news.ycombinator.com/user?id=JakeMakesStuff</uri>
         </author>
     </entry>
 </feed>
