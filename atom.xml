@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-02T11:44:43.348Z</updated>
+    <updated>2022-08-02T13:05:26.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用户界面排版学 - 在线图书
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32317596</id>
+        <link href="https://news.ycombinator.com/item?id=32317596"/>
+        <updated>2022-08-02T12:18:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: User Interface Typography – online book]]></summary>
+        <author>
+            <name>lessio</name>
+            <uri>https://news.ycombinator.com/user?id=lessio</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bustinger - 自动拦截YouTube的垃圾评论
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32317486</id>
+        <link href="https://news.ycombinator.com/item?id=32317486"/>
+        <updated>2022-08-02T11:55:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bustinger – Bust YouTube spam comments automatically]]></summary>
+        <author>
+            <name>jsdevtom</name>
+            <uri>https://news.ycombinator.com/user?id=jsdevtom</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eattsy - 重新想象世界与烹饪和食物的关系
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32313879</id>
+        <link href="https://news.ycombinator.com/item?id=32313879"/>
+        <updated>2022-08-02T00:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Eattsy – Reimagining the world’s relationship with cooking and food]]></summary>
+        <author>
+            <name>nathanfromny</name>
+            <uri>https://news.ycombinator.com/user?id=nathanfromny</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[谵妄之门--生命的游戏和Spotify视觉化
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>shubham_saboo</name>
             <uri>https://news.ycombinator.com/user?id=shubham_saboo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个应用程序，帮助失眠症患者学习如何重新入睡
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32022312</id>
-        <link href="https://news.ycombinator.com/item?id=32022312"/>
-        <updated>2022-07-08T02:23:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made an app to help insomniacs learn how to sleep again]]></summary>
-        <author>
-            <name>dredev</name>
-            <uri>https://news.ycombinator.com/user?id=dredev</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RemoteFriendly - 一个受HN启发的远程招聘网站
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32019598</id>
-        <link href="https://news.ycombinator.com/item?id=32019598"/>
-        <updated>2022-07-07T21:20:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: RemoteFriendly – A remote job board inspired by HN]]></summary>
-        <author>
-            <name>1xdevloper</name>
-            <uri>https://news.ycombinator.com/user?id=1xdevloper</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ReadHN，一个具有一些不错的小功能的Hacker News阅读器：)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32017947</id>
-        <link href="https://news.ycombinator.com/item?id=32017947"/>
-        <updated>2022-07-07T19:05:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ReadHN, A Hacker News reader with some nice little functionalities:)]]></summary>
-        <author>
-            <name>ingav</name>
-            <uri>https://news.ycombinator.com/user?id=ingav</uri>
         </author>
     </entry>
 </feed>
