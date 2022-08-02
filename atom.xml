@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-02T15:37:30.227Z</updated>
+    <updated>2022-08-02T15:54:01.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[`pls`是一个更漂亮和强大的`ls`，适合专业人士使用。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32319859</id>
+        <link href="https://news.ycombinator.com/item?id=32319859"/>
+        <updated>2022-08-02T15:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: `pls` is a prettier and powerful `ls` for the pros]]></summary>
+        <author>
+            <name>dhruvkb</name>
+            <uri>https://news.ycombinator.com/user?id=dhruvkb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pulter - 网络应用、SaaS或系统的CSV、电子表格导入按钮
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>wibyweb</name>
             <uri>https://news.ycombinator.com/user?id=wibyweb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个小型的太空射击游戏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32026997</id>
-        <link href="https://news.ycombinator.com/item?id=32026997"/>
-        <updated>2022-07-08T20:58:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a small Space Shooter]]></summary>
-        <author>
-            <name>linkdd</name>
-            <uri>https://news.ycombinator.com/user?id=linkdd</uri>
         </author>
     </entry>
 </feed>
