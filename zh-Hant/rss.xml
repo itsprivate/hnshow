@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 02 Aug 2022 07:59:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 09:06:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[子版塊國家列表
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32316451</link>
+            <guid>https://news.ycombinator.com/item?id=32316451</guid>
+            <pubDate>Tue, 02 Aug 2022 08:47:23 GMT</pubDate>
+            <description><![CDATA[Show HN: Subreddits Countries List]]></description>
+        </item>
+        <item>
+            <title><![CDATA[OneDev - 一個輕量級的Gitlab替代品
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32316251</link>
+            <guid>https://news.ycombinator.com/item?id=32316251</guid>
+            <pubDate>Tue, 02 Aug 2022 08:12:56 GMT</pubDate>
+            <description><![CDATA[Show HN: OneDev – A Lightweight Gitlab Alternative]]></description>
+        </item>
         <item>
             <title><![CDATA[一個簡單的、漂亮的、交互式的curl包裝器
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32016097</guid>
             <pubDate>Thu, 07 Jul 2022 16:31:14 GMT</pubDate>
             <description><![CDATA[Show HN: PATR- A simple,powerful alternative to Heroku that scales AFFORDABLY]]></description>
-        </item>
-        <item>
-            <title><![CDATA[組合式搜索--使網頁瀏覽更容易
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32015853</link>
-            <guid>https://news.ycombinator.com/item?id=32015853</guid>
-            <pubDate>Thu, 07 Jul 2022 16:12:50 GMT</pubDate>
-            <description><![CDATA[Show HN: Combined Search – make web browsing much easier]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Dynamesa - 一個簡單的DynamoDB客戶端
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32015744</link>
-            <guid>https://news.ycombinator.com/item?id=32015744</guid>
-            <pubDate>Thu, 07 Jul 2022 16:03:55 GMT</pubDate>
-            <description><![CDATA[Show HN: Dynamesa – A Simple DynamoDB Client]]></description>
         </item>
     </channel>
 </rss>

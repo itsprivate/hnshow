@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-02T07:59:08.758Z</updated>
+    <updated>2022-08-02T09:06:46.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[子版塊國家列表
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32316451</id>
+        <link href="https://news.ycombinator.com/item?id=32316451"/>
+        <updated>2022-08-02T08:47:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Subreddits Countries List]]></summary>
+        <author>
+            <name>naeemnur</name>
+            <uri>https://news.ycombinator.com/user?id=naeemnur</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneDev - 一個輕量級的Gitlab替代品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32316251</id>
+        <link href="https://news.ycombinator.com/item?id=32316251"/>
+        <updated>2022-08-02T08:12:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: OneDev – A Lightweight Gitlab Alternative]]></summary>
+        <author>
+            <name>steveluo9</name>
+            <uri>https://news.ycombinator.com/user?id=steveluo9</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個簡單的、漂亮的、交互式的curl包裝器
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>adarshw</name>
             <uri>https://news.ycombinator.com/user?id=adarshw</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[組合式搜索--使網頁瀏覽更容易
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32015853</id>
-        <link href="https://news.ycombinator.com/item?id=32015853"/>
-        <updated>2022-07-07T16:12:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Combined Search – make web browsing much easier]]></summary>
-        <author>
-            <name>weekendvampire</name>
-            <uri>https://news.ycombinator.com/user?id=weekendvampire</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dynamesa - 一個簡單的DynamoDB客戶端
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32015744</id>
-        <link href="https://news.ycombinator.com/item?id=32015744"/>
-        <updated>2022-07-07T16:03:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dynamesa – A Simple DynamoDB Client]]></summary>
-        <author>
-            <name>jiaaro</name>
-            <uri>https://news.ycombinator.com/user?id=jiaaro</uri>
         </author>
     </entry>
 </feed>
