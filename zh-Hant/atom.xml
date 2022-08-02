@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-02T09:30:23.943Z</updated>
+    <updated>2022-08-02T10:59:50.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[僅限CSS的沃爾芬斯坦
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32312322</id>
+        <link href="https://news.ycombinator.com/item?id=32312322"/>
+        <updated>2022-08-01T21:34:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: CSS-Only Wolfenstein]]></summary>
+        <author>
+            <name>coolwanglu</name>
+            <uri>https://news.ycombinator.com/user?id=coolwanglu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個極簡的時間封鎖應用程序
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>luqasn</name>
             <uri>https://news.ycombinator.com/user?id=luqasn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five/Three/One--5/3/1的鍛鍊應用--現已登陸安卓系統
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32016675</id>
-        <link href="https://news.ycombinator.com/item?id=32016675"/>
-        <updated>2022-07-07T17:16:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Five/Three/One – A workout app for 5/3/1 – is now available on Android]]></summary>
-        <author>
-            <name>strongpigeon</name>
-            <uri>https://news.ycombinator.com/user?id=strongpigeon</uri>
         </author>
     </entry>
 </feed>
