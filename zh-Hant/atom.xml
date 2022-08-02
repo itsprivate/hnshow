@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-02T09:06:46.956Z</updated>
+    <updated>2022-08-02T09:30:23.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個極簡的時間封鎖應用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32316671</id>
+        <link href="https://news.ycombinator.com/item?id=32316671"/>
+        <updated>2022-08-02T09:26:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a minimalist time blocking app]]></summary>
+        <author>
+            <name>corneliusventi</name>
+            <uri>https://news.ycombinator.com/user?id=corneliusventi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為項目經理精心挑選的資源
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32316639</id>
+        <link href="https://news.ycombinator.com/item?id=32316639"/>
+        <updated>2022-08-02T09:21:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Handpicked Resource for Project Managers]]></summary>
+        <author>
+            <name>askintml</name>
+            <uri>https://news.ycombinator.com/user?id=askintml</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[子版塊國家列表
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>strongpigeon</name>
             <uri>https://news.ycombinator.com/user?id=strongpigeon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毫無意義的Chrome擴展程序，如果它與regex匹配，會使Twitter圖片旋轉
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32016367</id>
-        <link href="https://news.ycombinator.com/item?id=32016367"/>
-        <updated>2022-07-07T16:51:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pointless Chrome ext that makes Twitter pic spin if it matches regex]]></summary>
-        <author>
-            <name>kinoro</name>
-            <uri>https://news.ycombinator.com/user?id=kinoro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PATR--一個簡單、強大的Heroku替代方案，可以很好地擴展。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32016097</id>
-        <link href="https://news.ycombinator.com/item?id=32016097"/>
-        <updated>2022-07-07T16:31:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PATR- A simple,powerful alternative to Heroku that scales AFFORDABLY]]></summary>
-        <author>
-            <name>adarshw</name>
-            <uri>https://news.ycombinator.com/user?id=adarshw</uri>
         </author>
     </entry>
 </feed>
