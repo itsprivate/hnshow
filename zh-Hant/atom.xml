@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-02T18:57:33.801Z</updated>
+    <updated>2022-08-02T20:00:45.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[保護你的智能家居免受網絡威脅的一個簡單方法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32323495</id>
+        <link href="https://news.ycombinator.com/item?id=32323495"/>
+        <updated>2022-08-02T19:55:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A simple way to secure your smart home from cyber threats]]></summary>
+        <author>
+            <name>tobywilmington</name>
+            <uri>https://news.ycombinator.com/user?id=tobywilmington</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[向未來的自己發送信息（iOS版免費）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>MNNTNK</name>
             <uri>https://news.ycombinator.com/user?id=MNNTNK</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Obj-C的異步框架：並行處理、通知等
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32032093</id>
-        <link href="https://news.ycombinator.com/item?id=32032093"/>
-        <updated>2022-07-09T05:34:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Async Framework for Obj-C: parallel processing, notifications and more]]></summary>
-        <author>
-            <name>gerevnator</name>
-            <uri>https://news.ycombinator.com/user?id=gerevnator</uri>
         </author>
     </entry>
 </feed>

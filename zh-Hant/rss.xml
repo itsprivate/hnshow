@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 02 Aug 2022 18:57:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 20:00:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[保護你的智能家居免受網絡威脅的一個簡單方法
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32323495</link>
+            <guid>https://news.ycombinator.com/item?id=32323495</guid>
+            <pubDate>Tue, 02 Aug 2022 19:55:34 GMT</pubDate>
+            <description><![CDATA[Show HN: A simple way to secure your smart home from cyber threats]]></description>
+        </item>
         <item>
             <title><![CDATA[向未來的自己發送信息（iOS版免費）。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32032314</guid>
             <pubDate>Sat, 09 Jul 2022 06:07:21 GMT</pubDate>
             <description><![CDATA[Show HN: I Created ESLint Plugin That Finds Invalid HTML Nestings in JSX]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Obj-C的異步框架：並行處理、通知等
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32032093</link>
-            <guid>https://news.ycombinator.com/item?id=32032093</guid>
-            <pubDate>Sat, 09 Jul 2022 05:34:54 GMT</pubDate>
-            <description><![CDATA[Show HN: Async Framework for Obj-C: parallel processing, notifications and more]]></description>
         </item>
     </channel>
 </rss>
