@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-02T07:30:32.881Z</updated>
+    <updated>2022-08-02T07:59:08.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個簡單的、漂亮的、交互式的curl包裝器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32316108</id>
+        <link href="https://news.ycombinator.com/item?id=32316108"/>
+        <updated>2022-08-02T07:44:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A simple, beautiful and interactive wrapper of curl]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[學習環 - 一個個性化的學習發現平臺
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jiaaro</name>
             <uri>https://news.ycombinator.com/user?id=jiaaro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tlogistry.dev：使用Sigstore的Rekor的透明的不可變標籤
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32014843</id>
-        <link href="https://news.ycombinator.com/item?id=32014843"/>
-        <updated>2022-07-07T14:51:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: tlogistry.dev: Transparently Immutable Tags Using Sigstore's Rekor]]></summary>
-        <author>
-            <name>ImJasonH</name>
-            <uri>https://news.ycombinator.com/user?id=ImJasonH</uri>
         </author>
     </entry>
 </feed>
