@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-02T18:39:44.185Z</updated>
+    <updated>2022-08-02T18:57:33.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[向未來的自己發送信息（iOS版免費）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32322559</id>
+        <link href="https://news.ycombinator.com/item?id=32322559"/>
+        <updated>2022-08-02T18:32:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Send Messages to Your Future Self (Free on iOS)]]></summary>
+        <author>
+            <name>dbecks</name>
+            <uri>https://news.ycombinator.com/user?id=dbecks</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peloton的個性化建議
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gerevnator</name>
             <uri>https://news.ycombinator.com/user?id=gerevnator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logto, OSS在幾分鐘內建立簽到體驗和用戶身份
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32031649</id>
-        <link href="https://news.ycombinator.com/item?id=32031649"/>
-        <updated>2022-07-09T04:24:06.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Logto, OSS to build sign-in experience and user identity within minutes]]></summary>
-        <author>
-            <name>pseudopuppet</name>
-            <uri>https://news.ycombinator.com/user?id=pseudopuppet</uri>
         </author>
     </entry>
 </feed>
