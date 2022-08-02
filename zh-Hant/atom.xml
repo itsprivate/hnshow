@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-02T16:48:34.192Z</updated>
+    <updated>2022-08-02T17:22:20.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[卡夫勒
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32321278</id>
+        <link href="https://news.ycombinator.com/item?id=32321278"/>
+        <updated>2022-08-02T16:59:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Craftle]]></summary>
+        <author>
+            <name>athomasg</name>
+            <uri>https://news.ycombinator.com/user?id=athomasg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go中的RESTful API模板
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32321224</id>
+        <link href="https://news.ycombinator.com/item?id=32321224"/>
+        <updated>2022-08-02T16:56:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A RESTful API Template in Go]]></summary>
+        <author>
+            <name>ndimares</name>
+            <uri>https://news.ycombinator.com/user?id=ndimares</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我們做了一個用React建立、測試和發送郵件的工具
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>richarlidad</name>
             <uri>https://news.ycombinator.com/user?id=richarlidad</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三重支付 - 通過分享鏈接向任何人索取加密貨幣
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32028972</id>
-        <link href="https://news.ycombinator.com/item?id=32028972"/>
-        <updated>2022-07-08T23:05:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Triple Payments – Request crypto from anyone by sharing a link]]></summary>
-        <author>
-            <name>kji</name>
-            <uri>https://news.ycombinator.com/user?id=kji</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nasefa - 發送自己的文件（通過自我託管的NATS）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32027970</id>
-        <link href="https://news.ycombinator.com/item?id=32027970"/>
-        <updated>2022-07-08T22:01:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Nasefa – Sending myself files (via self-hosted NATS)]]></summary>
-        <author>
-            <name>mprime1</name>
-            <uri>https://news.ycombinator.com/user?id=mprime1</uri>
         </author>
     </entry>
 </feed>
