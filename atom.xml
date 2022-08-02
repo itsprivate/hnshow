@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-02T10:59:50.014Z</updated>
+    <updated>2022-08-02T11:44:43.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[谵妄之门--生命的游戏和Spotify视觉化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32317301</id>
+        <link href="https://news.ycombinator.com/item?id=32317301"/>
+        <updated>2022-08-02T11:27:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Doors of Delirium – Game of Life and Spotify Visualisation]]></summary>
+        <author>
+            <name>jsomau</name>
+            <uri>https://news.ycombinator.com/user?id=jsomau</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[仅限CSS的沃尔芬斯坦
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ingav</name>
             <uri>https://news.ycombinator.com/user?id=ingav</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于集成测试你不控制的东西的PostgreSQL代理
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32017724</id>
-        <link href="https://news.ycombinator.com/item?id=32017724"/>
-        <updated>2022-07-07T18:42:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PostgreSQL proxy for integration testing things you don't control]]></summary>
-        <author>
-            <name>luqasn</name>
-            <uri>https://news.ycombinator.com/user?id=luqasn</uri>
         </author>
     </entry>
 </feed>

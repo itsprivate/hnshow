@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 02 Aug 2022 10:59:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 11:44:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[譫妄之門--生命的遊戲和Spotify視覺化
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32317301</link>
+            <guid>https://news.ycombinator.com/item?id=32317301</guid>
+            <pubDate>Tue, 02 Aug 2022 11:27:48 GMT</pubDate>
+            <description><![CDATA[Show HN: Doors of Delirium – Game of Life and Spotify Visualisation]]></description>
+        </item>
         <item>
             <title><![CDATA[僅限CSS的沃爾芬斯坦
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32017947</guid>
             <pubDate>Thu, 07 Jul 2022 19:05:15 GMT</pubDate>
             <description><![CDATA[Show HN: ReadHN, A Hacker News reader with some nice little functionalities:)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用於集成測試你不控制的東西的PostgreSQL代理
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32017724</link>
-            <guid>https://news.ycombinator.com/item?id=32017724</guid>
-            <pubDate>Thu, 07 Jul 2022 18:42:22 GMT</pubDate>
-            <description><![CDATA[Show HN: PostgreSQL proxy for integration testing things you don't control]]></description>
         </item>
     </channel>
 </rss>
