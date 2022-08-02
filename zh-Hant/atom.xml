@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-02T02:52:05.600Z</updated>
+    <updated>2022-08-02T06:46:42.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不要被頭銜和現狀所欺騙
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32315095</id>
+        <link href="https://news.ycombinator.com/item?id=32315095"/>
+        <updated>2022-08-02T04:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Don't be tricked by titles and status quo]]></summary>
+        <author>
+            <name>asdlkj178</name>
+            <uri>https://news.ycombinator.com/user?id=asdlkj178</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從CSV文件生成漂亮的CLI表格
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>platanos</name>
             <uri>https://news.ycombinator.com/user?id=platanos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[構建自己的源代碼的PoC人工智能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32013807</id>
-        <link href="https://news.ycombinator.com/item?id=32013807"/>
-        <updated>2022-07-07T13:27:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PoC AI that builds its own source code]]></summary>
-        <author>
-            <name>nunodonato</name>
-            <uri>https://news.ycombinator.com/user?id=nunodonato</uri>
         </author>
     </entry>
 </feed>
