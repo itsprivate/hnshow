@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-01T23:51:58.358Z</updated>
+    <updated>2022-08-02T02:52:05.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从CSV文件生成漂亮的CLI表格
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32314185</id>
+        <link href="https://news.ycombinator.com/item?id=32314185"/>
+        <updated>2022-08-02T01:22:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Generate beautiful CLI tables from CSV files]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通过快速的API端点将电子表格、Airtable或CSV变成JSON
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nunodonato</name>
             <uri>https://news.ycombinator.com/user?id=nunodonato</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PocketBase - 开源的实时后端，只有一个文件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32013330</id>
-        <link href="https://news.ycombinator.com/item?id=32013330"/>
-        <updated>2022-07-07T12:45:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PocketBase – open-source realtime back end in 1 file]]></summary>
-        <author>
-            <name>randomwebdev</name>
-            <uri>https://news.ycombinator.com/user?id=randomwebdev</uri>
         </author>
     </entry>
 </feed>

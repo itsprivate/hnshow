@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 01 Aug 2022 23:51:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 02:52:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[从CSV文件生成漂亮的CLI表格
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32314185</link>
+            <guid>https://news.ycombinator.com/item?id=32314185</guid>
+            <pubDate>Tue, 02 Aug 2022 01:22:52 GMT</pubDate>
+            <description><![CDATA[Show HN: Generate beautiful CLI tables from CSV files]]></description>
+        </item>
         <item>
             <title><![CDATA[通过快速的API端点将电子表格、Airtable或CSV变成JSON
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32013807</guid>
             <pubDate>Thu, 07 Jul 2022 13:27:50 GMT</pubDate>
             <description><![CDATA[Show HN: PoC AI that builds its own source code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PocketBase - 开源的实时后端，只有一个文件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32013330</link>
-            <guid>https://news.ycombinator.com/item?id=32013330</guid>
-            <pubDate>Thu, 07 Jul 2022 12:45:11 GMT</pubDate>
-            <description><![CDATA[Show HN: PocketBase – open-source realtime back end in 1 file]]></description>
         </item>
     </channel>
 </rss>
