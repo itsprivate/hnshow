@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-02T13:58:11.747Z</updated>
+    <updated>2022-08-02T14:08:10.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[低成本便携式色谱仪的建立
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32318470</id>
+        <link href="https://news.ycombinator.com/item?id=32318470"/>
+        <updated>2022-08-02T13:53:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Low cost portable chromatograph build]]></summary>
+        <author>
+            <name>adomasm3</name>
+            <uri>https://news.ycombinator.com/user?id=adomasm3</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当您的公司/项目在HN上被提及时，获得Slack通知
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>JakeMakesStuff</name>
             <uri>https://news.ycombinator.com/user?id=JakeMakesStuff</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在浏览Zillow/Trulia时，即时计算抵押贷款的还款。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32024246</id>
-        <link href="https://news.ycombinator.com/item?id=32024246"/>
-        <updated>2022-07-08T08:15:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Calculate mortgage repayments on the fly while browsing Zillow/Trulia]]></summary>
-        <author>
-            <name>rdm_blackhole</name>
-            <uri>https://news.ycombinator.com/user?id=rdm_blackhole</uri>
         </author>
     </entry>
 </feed>
