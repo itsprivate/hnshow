@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 02 Aug 2022 22:51:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 23:32:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[從Zillow收集的房產趨勢
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32325428</link>
+            <guid>https://news.ycombinator.com/item?id=32325428</guid>
+            <pubDate>Tue, 02 Aug 2022 23:03:37 GMT</pubDate>
+            <description><![CDATA[Show HN: Property Trends Scraped from Zillow]]></description>
+        </item>
         <item>
             <title><![CDATA[PSEdex - 發現新興的新成立的印度尼西亞初創企業
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32034625</guid>
             <pubDate>Sat, 09 Jul 2022 12:54:23 GMT</pubDate>
             <description><![CDATA[Show HN: I built an interactive course that helps you learn Vim faster]]></description>
-        </item>
-        <item>
-            <title><![CDATA[鐵威，用最先進的ML實現穩定的生產力
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32034278</link>
-            <guid>https://news.ycombinator.com/item?id=32034278</guid>
-            <pubDate>Sat, 09 Jul 2022 12:08:04 GMT</pubDate>
-            <description><![CDATA[Show HN: Ironwill, consistent productivity with cutting-edge ML]]></description>
         </item>
     </channel>
 </rss>

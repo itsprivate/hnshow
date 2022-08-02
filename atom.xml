@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-02T22:51:52.526Z</updated>
+    <updated>2022-08-02T23:32:06.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从Zillow收集的房产趋势
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32325428</id>
+        <link href="https://news.ycombinator.com/item?id=32325428"/>
+        <updated>2022-08-02T23:03:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Property Trends Scraped from Zillow]]></summary>
+        <author>
+            <name>tndibona</name>
+            <uri>https://news.ycombinator.com/user?id=tndibona</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PSEdex - 发现新兴的新成立的印度尼西亚初创企业
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Silica6149</name>
             <uri>https://news.ycombinator.com/user?id=Silica6149</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[铁威，用最先进的ML实现稳定的生产力
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32034278</id>
-        <link href="https://news.ycombinator.com/item?id=32034278"/>
-        <updated>2022-07-09T12:08:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ironwill, consistent productivity with cutting-edge ML]]></summary>
-        <author>
-            <name>kouh</name>
-            <uri>https://news.ycombinator.com/user?id=kouh</uri>
         </author>
     </entry>
 </feed>
