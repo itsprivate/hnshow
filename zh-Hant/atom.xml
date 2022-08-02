@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-02T22:32:14.736Z</updated>
+    <updated>2022-08-02T22:51:52.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PSEdex - 發現新興的新成立的印度尼西亞初創企業
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32325255</id>
+        <link href="https://news.ycombinator.com/item?id=32325255"/>
+        <updated>2022-08-02T22:47:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PSEdex – Discover emerging newly established Indonesian startups]]></summary>
+        <author>
+            <name>altilunium</name>
+            <uri>https://news.ycombinator.com/user?id=altilunium</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利用網絡測試分析發現更多錯誤
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32325227</id>
+        <link href="https://news.ycombinator.com/item?id=32325227"/>
+        <updated>2022-08-02T22:43:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Find more bugs with Web Test Analytics]]></summary>
+        <author>
+            <name>vax425</name>
+            <uri>https://news.ycombinator.com/user?id=vax425</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[媽媽，我們可以在家裡吃（Haskell風味的）後現代C++嗎？
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>kouh</name>
             <uri>https://news.ycombinator.com/user?id=kouh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贈送我的Notion品牌指南模板
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32034215</id>
-        <link href="https://news.ycombinator.com/item?id=32034215"/>
-        <updated>2022-07-09T12:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Giving away my Notion brand guidelines template]]></summary>
-        <author>
-            <name>fredrikaurdal</name>
-            <uri>https://news.ycombinator.com/user?id=fredrikaurdal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fauna Admin - FaunaDB的管理界面
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32033824</id>
-        <link href="https://news.ycombinator.com/item?id=32033824"/>
-        <updated>2022-07-09T10:58:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fauna Admin – The Admin UI for FaunaDB]]></summary>
-        <author>
-            <name>bquaresma</name>
-            <uri>https://news.ycombinator.com/user?id=bquaresma</uri>
         </author>
     </entry>
 </feed>
