@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-03T15:02:38.061Z</updated>
+    <updated>2022-08-03T16:48:34.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個由GPT-3驅動的文本到SQL的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32333894</id>
+        <link href="https://news.ycombinator.com/item?id=32333894"/>
+        <updated>2022-08-03T16:34:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A GPT-3-Powered Text-to-SQL Tool]]></summary>
+        <author>
+            <name>jrdzha</name>
+            <uri>https://news.ycombinator.com/user?id=jrdzha</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KPI Crunch--對任何競爭格局的即時洞察力
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32333785</id>
+        <link href="https://news.ycombinator.com/item?id=32333785"/>
+        <updated>2022-08-03T16:26:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: KPI Crunch – instant insights into any competitive landscape]]></summary>
+        <author>
+            <name>astonfred</name>
+            <uri>https://news.ycombinator.com/user?id=astonfred</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尋找類似的播客
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>kvergins</name>
             <uri>https://news.ycombinator.com/user?id=kvergins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享美麗的截圖
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32054643</id>
-        <link href="https://news.ycombinator.com/item?id=32054643"/>
-        <updated>2022-07-11T11:20:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Share Beautiful Screenshots]]></summary>
-        <author>
-            <name>dipen_dedania_</name>
-            <uri>https://news.ycombinator.com/user?id=dipen_dedania_</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lldap，一個簡化的LDAP服務器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32053961</id>
-        <link href="https://news.ycombinator.com/item?id=32053961"/>
-        <updated>2022-07-11T09:29:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lldap, a Simplified LDAP Server]]></summary>
-        <author>
-            <name>nitnelave</name>
-            <uri>https://news.ycombinator.com/user?id=nitnelave</uri>
         </author>
     </entry>
 </feed>
