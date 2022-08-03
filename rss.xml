@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 03 Aug 2022 06:56:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 07:45:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[针对SaaS的一键式数据录入解决方案
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32328729</link>
+            <guid>https://news.ycombinator.com/item?id=32328729</guid>
+            <pubDate>Wed, 03 Aug 2022 07:38:55 GMT</pubDate>
+            <description><![CDATA[Show HN: 1-click data onboarding solution for SaaS]]></description>
+        </item>
+        <item>
+            <title><![CDATA[FlowGraph - 一个可视化概念间关系的工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32328715</link>
+            <guid>https://news.ycombinator.com/item?id=32328715</guid>
+            <pubDate>Wed, 03 Aug 2022 07:36:43 GMT</pubDate>
+            <description><![CDATA[Show HN: FlowGraph – A tool for visualizing relationships between concepts]]></description>
+        </item>
         <item>
             <title><![CDATA[Web3 AWS Lambda
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32038181</guid>
             <pubDate>Sat, 09 Jul 2022 18:56:03 GMT</pubDate>
             <description><![CDATA[Show HN: Train your own Object Detection AI in 1 day without any prior knowledge]]></description>
-        </item>
-        <item>
-            <title><![CDATA[从任何网站复制React代码
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32037740</link>
-            <guid>https://news.ycombinator.com/item?id=32037740</guid>
-            <pubDate>Sat, 09 Jul 2022 18:06:56 GMT</pubDate>
-            <description><![CDATA[Show HN: Copy React code from any site]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用谷歌翻译自动翻译po、CSV文件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32036936</link>
-            <guid>https://news.ycombinator.com/item?id=32036936</guid>
-            <pubDate>Sat, 09 Jul 2022 16:51:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Auto translate po, CSV files with Google translate]]></description>
         </item>
     </channel>
 </rss>
