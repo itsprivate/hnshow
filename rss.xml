@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 03 Aug 2022 10:35:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 10:50:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Multy - 用于部署到任何云并随时切换的开源工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32329898</link>
+            <guid>https://news.ycombinator.com/item?id=32329898</guid>
+            <pubDate>Wed, 03 Aug 2022 10:34:10 GMT</pubDate>
+            <description><![CDATA[Show HN: Multy – open-source tool to deploy to any cloud and switch at any time]]></description>
+        </item>
         <item>
             <title><![CDATA[57个CSS形状的例子，点击复制。三角形、箭形、阴阳形等
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32041517</guid>
             <pubDate>Sun, 10 Jul 2022 03:11:15 GMT</pubDate>
             <description><![CDATA[Show HN: I Made 3D Color Picker with Chakra-UI and Next.js]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Evryca - 分形思维工具，用于头脑风暴和组织思维
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32033394</link>
-            <guid>https://news.ycombinator.com/item?id=32033394</guid>
-            <pubDate>Sat, 09 Jul 2022 09:33:39 GMT</pubDate>
-            <description><![CDATA[Show HN: Evryca – fractal thinking tool to brainstorm and organize thoughts]]></description>
         </item>
     </channel>
 </rss>

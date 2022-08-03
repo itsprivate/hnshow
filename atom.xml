@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-03T10:35:31.020Z</updated>
+    <updated>2022-08-03T10:50:30.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Multy - 用于部署到任何云并随时切换的开源工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32329898</id>
+        <link href="https://news.ycombinator.com/item?id=32329898"/>
+        <updated>2022-08-03T10:34:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Multy – open-source tool to deploy to any cloud and switch at any time]]></summary>
+        <author>
+            <name>goncalo-r</name>
+            <uri>https://news.ycombinator.com/user?id=goncalo-r</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[57个CSS形状的例子，点击复制。三角形、箭形、阴阳形等
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>IttaFuanashi</name>
             <uri>https://news.ycombinator.com/user?id=IttaFuanashi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evryca - 分形思维工具，用于头脑风暴和组织思维
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32033394</id>
-        <link href="https://news.ycombinator.com/item?id=32033394"/>
-        <updated>2022-07-09T09:33:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Evryca – fractal thinking tool to brainstorm and organize thoughts]]></summary>
-        <author>
-            <name>efojs</name>
-            <uri>https://news.ycombinator.com/user?id=efojs</uri>
         </author>
     </entry>
 </feed>
