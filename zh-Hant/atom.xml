@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-03T09:03:03.861Z</updated>
+    <updated>2022-08-03T10:01:46.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個將所有利潤捐給慈善機構的亞馬遜
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32329655</id>
+        <link href="https://news.ycombinator.com/item?id=32329655"/>
+        <updated>2022-08-03T09:53:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An Amazon Donating All Profits to Charities]]></summary>
+        <author>
+            <name>VincentoVici</name>
+            <uri>https://news.ycombinator.com/user?id=VincentoVici</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[混響 - 為你的下一個項目生成美麗的調色板
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pkstn</name>
             <uri>https://news.ycombinator.com/user?id=pkstn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[技術書籍/框架的辦公時間
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32038780</id>
-        <link href="https://news.ycombinator.com/item?id=32038780"/>
-        <updated>2022-07-09T20:04:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Office hours for technical books/frameworks]]></summary>
-        <author>
-            <name>gentooguy</name>
-            <uri>https://news.ycombinator.com/user?id=gentooguy</uri>
         </author>
     </entry>
 </feed>
