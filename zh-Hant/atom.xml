@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-03T08:40:14.598Z</updated>
+    <updated>2022-08-03T09:03:03.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[混響 - 為你的下一個項目生成美麗的調色板
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32329274</id>
+        <link href="https://news.ycombinator.com/item?id=32329274"/>
+        <updated>2022-08-03T08:55:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Reverb – Generate beautiful color palettes for your next project]]></summary>
+        <author>
+            <name>okozzie</name>
+            <uri>https://news.ycombinator.com/user?id=okozzie</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[async - Golang中的異步/等待 Lib
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32329257</id>
+        <link href="https://news.ycombinator.com/item?id=32329257"/>
+        <updated>2022-08-03T08:52:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: async – Async/Await Lib in Golang]]></summary>
+        <author>
+            <name>sun0day</name>
+            <uri>https://news.ycombinator.com/user?id=sun0day</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個使用Go泛型的SQL數據映射器
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>gentooguy</name>
             <uri>https://news.ycombinator.com/user?id=gentooguy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Native Elements v4
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32038567</id>
-        <link href="https://news.ycombinator.com/item?id=32038567"/>
-        <updated>2022-07-09T19:42:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: React Native Elements v4]]></summary>
-        <author>
-            <name>Arpitbhalla</name>
-            <uri>https://news.ycombinator.com/user?id=Arpitbhalla</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lumigo - 為AWS lambdas提供免費跟蹤服務
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32038541</id>
-        <link href="https://news.ycombinator.com/item?id=32038541"/>
-        <updated>2022-07-09T19:39:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lumigo – free tracing for AWS lambdas]]></summary>
-        <author>
-            <name>shlosky</name>
-            <uri>https://news.ycombinator.com/user?id=shlosky</uri>
         </author>
     </entry>
 </feed>

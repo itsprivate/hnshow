@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 03 Aug 2022 08:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 09:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[混響 - 為你的下一個項目生成美麗的調色板
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32329274</link>
+            <guid>https://news.ycombinator.com/item?id=32329274</guid>
+            <pubDate>Wed, 03 Aug 2022 08:55:01 GMT</pubDate>
+            <description><![CDATA[Show HN: Reverb – Generate beautiful color palettes for your next project]]></description>
+        </item>
+        <item>
+            <title><![CDATA[async - Golang中的異步/等待 Lib
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32329257</link>
+            <guid>https://news.ycombinator.com/item?id=32329257</guid>
+            <pubDate>Wed, 03 Aug 2022 08:52:45 GMT</pubDate>
+            <description><![CDATA[Show HN: async – Async/Await Lib in Golang]]></description>
+        </item>
         <item>
             <title><![CDATA[一個使用Go泛型的SQL數據映射器
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32038780</guid>
             <pubDate>Sat, 09 Jul 2022 20:04:30 GMT</pubDate>
             <description><![CDATA[Show HN: Office hours for technical books/frameworks]]></description>
-        </item>
-        <item>
-            <title><![CDATA[React Native Elements v4
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32038567</link>
-            <guid>https://news.ycombinator.com/item?id=32038567</guid>
-            <pubDate>Sat, 09 Jul 2022 19:42:05 GMT</pubDate>
-            <description><![CDATA[Show HN: React Native Elements v4]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lumigo - 為AWS lambdas提供免費跟蹤服務
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32038541</link>
-            <guid>https://news.ycombinator.com/item?id=32038541</guid>
-            <pubDate>Sat, 09 Jul 2022 19:39:15 GMT</pubDate>
-            <description><![CDATA[Show HN: Lumigo – free tracing for AWS lambdas]]></description>
         </item>
     </channel>
 </rss>
