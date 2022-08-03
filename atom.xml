@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-03T11:59:09.533Z</updated>
+    <updated>2022-08-03T13:03:39.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GraphQL Armor - 一个使GraphQL比REST更安全的中间件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32330952</id>
+        <link href="https://news.ycombinator.com/item?id=32330952"/>
+        <updated>2022-08-03T12:45:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GraphQL Armor – A middleware to make GraphQL more secure than REST]]></summary>
+        <author>
+            <name>glimow</name>
+            <uri>https://news.ycombinator.com/user?id=glimow</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[游牧者地图集。来自你朋友的旅行建议
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32330814</id>
+        <link href="https://news.ycombinator.com/item?id=32330814"/>
+        <updated>2022-08-03T12:31:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Nomad Atlas: Curated travel advice from your friends]]></summary>
+        <author>
+            <name>cr_huber</name>
+            <uri>https://news.ycombinator.com/user?id=cr_huber</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[类似PS1的微小渲染器只有500行
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32328617</id>
+        <link href="https://news.ycombinator.com/item?id=32328617"/>
+        <updated>2022-08-03T07:21:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tiny PS1-like Renderer in 500 lines]]></summary>
+        <author>
+            <name>nkanaev</name>
+            <uri>https://news.ycombinator.com/user?id=nkanaev</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于Zalter-签名的用户认证和授权
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>bigEnotation</name>
             <uri>https://news.ycombinator.com/user?id=bigEnotation</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yearlydiary - 我创建的日记，用于试驾无服务器的Postgres。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32044069</id>
-        <link href="https://news.ycombinator.com/item?id=32044069"/>
-        <updated>2022-07-10T12:26:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Yearlydiary – A diary I created to test drive neon serverless Postgres]]></summary>
-        <author>
-            <name>peterjuras</name>
-            <uri>https://news.ycombinator.com/user?id=peterjuras</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从Stackoverflow中查找VSCode的摘录
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32043556</id>
-        <link href="https://news.ycombinator.com/item?id=32043556"/>
-        <updated>2022-07-10T10:56:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Find Snippets from Stackoverflow for VSCode]]></summary>
-        <author>
-            <name>hieu229</name>
-            <uri>https://news.ycombinator.com/user?id=hieu229</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蚂蚁沙箱--蚂蚁模拟器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32043229</id>
-        <link href="https://news.ycombinator.com/item?id=32043229"/>
-        <updated>2022-07-10T09:48:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ants Sandbox - an ants simulator]]></summary>
-        <author>
-            <name>tulustul</name>
-            <uri>https://news.ycombinator.com/user?id=tulustul</uri>
         </author>
     </entry>
 </feed>

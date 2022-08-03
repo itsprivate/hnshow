@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 03 Aug 2022 11:59:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 13:03:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GraphQL Armor - 一個使GraphQL比REST更安全的中間件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32330952</link>
+            <guid>https://news.ycombinator.com/item?id=32330952</guid>
+            <pubDate>Wed, 03 Aug 2022 12:45:37 GMT</pubDate>
+            <description><![CDATA[Show HN: GraphQL Armor – A middleware to make GraphQL more secure than REST]]></description>
+        </item>
+        <item>
+            <title><![CDATA[遊牧者地圖集。來自你朋友的旅行建議
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32330814</link>
+            <guid>https://news.ycombinator.com/item?id=32330814</guid>
+            <pubDate>Wed, 03 Aug 2022 12:31:26 GMT</pubDate>
+            <description><![CDATA[Show HN: Nomad Atlas: Curated travel advice from your friends]]></description>
+        </item>
+        <item>
+            <title><![CDATA[類似PS1的微小渲染器只有500行
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32328617</link>
+            <guid>https://news.ycombinator.com/item?id=32328617</guid>
+            <pubDate>Wed, 03 Aug 2022 07:21:24 GMT</pubDate>
+            <description><![CDATA[Show HN: Tiny PS1-like Renderer in 500 lines]]></description>
+        </item>
         <item>
             <title><![CDATA[基於Zalter-簽名的用戶認證和授權
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32045851</guid>
             <pubDate>Sun, 10 Jul 2022 15:56:51 GMT</pubDate>
             <description><![CDATA[Show HN: WIP – Machine Learning .ipynb boilerplate]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Yearlydiary - 我創建的日記，用於試駕無服務器的Postgres。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32044069</link>
-            <guid>https://news.ycombinator.com/item?id=32044069</guid>
-            <pubDate>Sun, 10 Jul 2022 12:26:07 GMT</pubDate>
-            <description><![CDATA[Show HN: Yearlydiary – A diary I created to test drive neon serverless Postgres]]></description>
-        </item>
-        <item>
-            <title><![CDATA[從Stackoverflow中查找VSCode的摘錄
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32043556</link>
-            <guid>https://news.ycombinator.com/item?id=32043556</guid>
-            <pubDate>Sun, 10 Jul 2022 10:56:18 GMT</pubDate>
-            <description><![CDATA[Show HN: Find Snippets from Stackoverflow for VSCode]]></description>
-        </item>
-        <item>
-            <title><![CDATA[螞蟻沙箱--螞蟻模擬器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32043229</link>
-            <guid>https://news.ycombinator.com/item?id=32043229</guid>
-            <pubDate>Sun, 10 Jul 2022 09:48:30 GMT</pubDate>
-            <description><![CDATA[Show HN: Ants Sandbox - an ants simulator]]></description>
         </item>
     </channel>
 </rss>
