@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 03 Aug 2022 11:46:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 11:59:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[基於Zalter-簽名的用戶認證和授權
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32330390</link>
+            <guid>https://news.ycombinator.com/item?id=32330390</guid>
+            <pubDate>Wed, 03 Aug 2022 11:44:19 GMT</pubDate>
+            <description><![CDATA[Show HN: Zalter-Signature-based user authentication and authorization]]></description>
+        </item>
         <item>
             <title><![CDATA[在任何Mac應用程序中查看鍵盤快捷方式
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32043229</guid>
             <pubDate>Sun, 10 Jul 2022 09:48:30 GMT</pubDate>
             <description><![CDATA[Show HN: Ants Sandbox - an ants simulator]]></description>
-        </item>
-        <item>
-            <title><![CDATA[mbtiles-s3-server - 直接從S3上的mbtiles提供矢量地圖磚的服務
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32043112</link>
-            <guid>https://news.ycombinator.com/item?id=32043112</guid>
-            <pubDate>Sun, 10 Jul 2022 09:24:33 GMT</pubDate>
-            <description><![CDATA[Show HN: mbtiles-s3-server – serve vector map tiles directly from mbtiles on S3]]></description>
         </item>
     </channel>
 </rss>

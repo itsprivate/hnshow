@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-03T11:46:09.848Z</updated>
+    <updated>2022-08-03T11:59:09.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基於Zalter-簽名的用戶認證和授權
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32330390</id>
+        <link href="https://news.ycombinator.com/item?id=32330390"/>
+        <updated>2022-08-03T11:44:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Zalter-Signature-based user authentication and authorization]]></summary>
+        <author>
+            <name>adrianshp</name>
+            <uri>https://news.ycombinator.com/user?id=adrianshp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在任何Mac應用程序中查看鍵盤快捷方式
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tulustul</name>
             <uri>https://news.ycombinator.com/user?id=tulustul</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mbtiles-s3-server - 直接從S3上的mbtiles提供矢量地圖磚的服務
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32043112</id>
-        <link href="https://news.ycombinator.com/item?id=32043112"/>
-        <updated>2022-07-10T09:24:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: mbtiles-s3-server – serve vector map tiles directly from mbtiles on S3]]></summary>
-        <author>
-            <name>michalc</name>
-            <uri>https://news.ycombinator.com/user?id=michalc</uri>
         </author>
     </entry>
 </feed>
