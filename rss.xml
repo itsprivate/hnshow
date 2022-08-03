@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 03 Aug 2022 10:50:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 11:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[机器学习中概念的交互式技能树
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32330130</link>
+            <guid>https://news.ycombinator.com/item?id=32330130</guid>
+            <pubDate>Wed, 03 Aug 2022 11:08:33 GMT</pubDate>
+            <description><![CDATA[Show HN: Interactive skill tree for concepts in machine learning]]></description>
+        </item>
         <item>
             <title><![CDATA[Multy - 用于部署到任何云并随时切换的开源工具
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32042947</guid>
             <pubDate>Sun, 10 Jul 2022 08:56:01 GMT</pubDate>
             <description><![CDATA[Show HN: I built neat and free interactive JavaScript courses]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我用Chakra-UI和Next.js做了3D选色器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32041517</link>
-            <guid>https://news.ycombinator.com/item?id=32041517</guid>
-            <pubDate>Sun, 10 Jul 2022 03:11:15 GMT</pubDate>
-            <description><![CDATA[Show HN: I Made 3D Color Picker with Chakra-UI and Next.js]]></description>
         </item>
     </channel>
 </rss>

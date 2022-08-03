@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-03T10:50:30.808Z</updated>
+    <updated>2022-08-03T11:26:00.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[機器學習中概念的交互式技能樹
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32330130</id>
+        <link href="https://news.ycombinator.com/item?id=32330130"/>
+        <updated>2022-08-03T11:08:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Interactive skill tree for concepts in machine learning]]></summary>
+        <author>
+            <name>phillipsmg</name>
+            <uri>https://news.ycombinator.com/user?id=phillipsmg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multy - 用於部署到任何雲並隨時切換的開源工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ianberdin</name>
             <uri>https://news.ycombinator.com/user?id=ianberdin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我用Chakra-UI和Next.js做了3D選色器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32041517</id>
-        <link href="https://news.ycombinator.com/item?id=32041517"/>
-        <updated>2022-07-10T03:11:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I Made 3D Color Picker with Chakra-UI and Next.js]]></summary>
-        <author>
-            <name>IttaFuanashi</name>
-            <uri>https://news.ycombinator.com/user?id=IttaFuanashi</uri>
         </author>
     </entry>
 </feed>
