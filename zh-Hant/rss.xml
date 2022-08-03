@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 03 Aug 2022 13:58:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 14:41:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個帶有摘要的開源安卓黑客新聞客戶端
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32332106</link>
+            <guid>https://news.ycombinator.com/item?id=32332106</guid>
+            <pubDate>Wed, 03 Aug 2022 14:25:01 GMT</pubDate>
+            <description><![CDATA[Show HN: A open source Android Hacker News client with summaries]]></description>
+        </item>
+        <item>
+            <title><![CDATA[人類聊天機器人
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32332072</link>
+            <guid>https://news.ycombinator.com/item?id=32332072</guid>
+            <pubDate>Wed, 03 Aug 2022 14:23:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Human Chatbot]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Sheetmailer，一個用於模板化電子郵件發送的工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32332024</link>
+            <guid>https://news.ycombinator.com/item?id=32332024</guid>
+            <pubDate>Wed, 03 Aug 2022 14:19:20 GMT</pubDate>
+            <description><![CDATA[Show HN: Sheetmailer, a tool for templated email delivery]]></description>
+        </item>
         <item>
             <title><![CDATA[Gamen - Go中的窗口處理庫
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32053856</guid>
             <pubDate>Mon, 11 Jul 2022 09:13:15 GMT</pubDate>
             <description><![CDATA[Show HN: Get badass feedback on your designs with visual annotations]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Colorvote.io - 按受歡迎程度對所有16,777,216種sRGB網絡顏色進行排名
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32053816</link>
-            <guid>https://news.ycombinator.com/item?id=32053816</guid>
-            <pubDate>Mon, 11 Jul 2022 09:05:44 GMT</pubDate>
-            <description><![CDATA[Show HN: Colorvote.io – ranking all 16,777,216 sRGB web colors by popularity]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CANDL，YAML的替代品
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32052908</link>
-            <guid>https://news.ycombinator.com/item?id=32052908</guid>
-            <pubDate>Mon, 11 Jul 2022 06:32:28 GMT</pubDate>
-            <description><![CDATA[Show HN: CANDL, a Replacement for YAML]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個簡單的envoy配置可視化工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32052268</link>
-            <guid>https://news.ycombinator.com/item?id=32052268</guid>
-            <pubDate>Mon, 11 Jul 2022 04:38:42 GMT</pubDate>
-            <description><![CDATA[Show HN: A simple envoy configuration visualization tool]]></description>
         </item>
     </channel>
 </rss>

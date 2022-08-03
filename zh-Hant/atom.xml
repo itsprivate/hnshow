@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-03T13:58:08.307Z</updated>
+    <updated>2022-08-03T14:41:04.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個帶有摘要的開源安卓黑客新聞客戶端
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32332106</id>
+        <link href="https://news.ycombinator.com/item?id=32332106"/>
+        <updated>2022-08-03T14:25:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A open source Android Hacker News client with summaries]]></summary>
+        <author>
+            <name>kamalkishor1991</name>
+            <uri>https://news.ycombinator.com/user?id=kamalkishor1991</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人類聊天機器人
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32332072</id>
+        <link href="https://news.ycombinator.com/item?id=32332072"/>
+        <updated>2022-08-03T14:23:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Human Chatbot]]></summary>
+        <author>
+            <name>txt-me</name>
+            <uri>https://news.ycombinator.com/user?id=txt-me</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sheetmailer，一個用於模板化電子郵件發送的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32332024</id>
+        <link href="https://news.ycombinator.com/item?id=32332024"/>
+        <updated>2022-08-03T14:19:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sheetmailer, a tool for templated email delivery]]></summary>
+        <author>
+            <name>Lukas_Skywalker</name>
+            <uri>https://news.ycombinator.com/user?id=Lukas_Skywalker</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gamen - Go中的窗口處理庫
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>aswin_kp</name>
             <uri>https://news.ycombinator.com/user?id=aswin_kp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Colorvote.io - 按受歡迎程度對所有16,777,216種sRGB網絡顏色進行排名
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32053816</id>
-        <link href="https://news.ycombinator.com/item?id=32053816"/>
-        <updated>2022-07-11T09:05:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Colorvote.io – ranking all 16,777,216 sRGB web colors by popularity]]></summary>
-        <author>
-            <name>gcuth</name>
-            <uri>https://news.ycombinator.com/user?id=gcuth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CANDL，YAML的替代品
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32052908</id>
-        <link href="https://news.ycombinator.com/item?id=32052908"/>
-        <updated>2022-07-11T06:32:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CANDL, a Replacement for YAML]]></summary>
-        <author>
-            <name>djhaskin987</name>
-            <uri>https://news.ycombinator.com/user?id=djhaskin987</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個簡單的envoy配置可視化工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32052268</id>
-        <link href="https://news.ycombinator.com/item?id=32052268"/>
-        <updated>2022-07-11T04:38:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A simple envoy configuration visualization tool]]></summary>
-        <author>
-            <name>saltbo</name>
-            <uri>https://news.ycombinator.com/user?id=saltbo</uri>
         </author>
     </entry>
 </feed>
