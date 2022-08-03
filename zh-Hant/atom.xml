@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-03T16:48:34.606Z</updated>
+    <updated>2022-08-03T17:11:16.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Canva和機器學習
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32334210</id>
+        <link href="https://news.ycombinator.com/item?id=32334210"/>
+        <updated>2022-08-03T16:59:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Canva and Machine Learning]]></summary>
+        <author>
+            <name>athomasg</name>
+            <uri>https://news.ycombinator.com/user?id=athomasg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我最喜歡的Web3數據庫：Xata
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32334192</id>
+        <link href="https://news.ycombinator.com/item?id=32334192"/>
+        <updated>2022-08-03T16:58:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My favourite database for Web3: Xata]]></summary>
+        <author>
+            <name>guibibeau</name>
+            <uri>https://news.ycombinator.com/user?id=guibibeau</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MutableAI (YC W22) - VS代碼的CoPilot替代品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32334052</id>
+        <link href="https://news.ycombinator.com/item?id=32334052"/>
+        <updated>2022-08-03T16:48:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MutableAI (YC W22) – CoPilot Alternative for VS Code]]></summary>
+        <author>
+            <name>oshams</name>
+            <uri>https://news.ycombinator.com/user?id=oshams</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[市場高嗎？- 11個部門和149個行業的股市圖表
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32333939</id>
+        <link href="https://news.ycombinator.com/item?id=32333939"/>
+        <updated>2022-08-03T16:38:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Is Market High? – Stock market charts for 11 sectors and 149 industries]]></summary>
+        <author>
+            <name>krychu</name>
+            <uri>https://news.ycombinator.com/user?id=krychu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個由GPT-3驅動的文本到SQL的工具
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>andrewfromx</name>
             <uri>https://news.ycombinator.com/user?id=andrewfromx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我創建了一個符合GDPR標準的即時聊天工具，可與Slack一起使用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32055815</id>
-        <link href="https://news.ycombinator.com/item?id=32055815"/>
-        <updated>2022-07-11T13:25:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I Created a GDPR-Compliant Live Chat That Works with Slack]]></summary>
-        <author>
-            <name>that_guy_iain</name>
-            <uri>https://news.ycombinator.com/user?id=that_guy_iain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利用子版塊修改搜索引擎排名
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32055731</id>
-        <link href="https://news.ycombinator.com/item?id=32055731"/>
-        <updated>2022-07-11T13:16:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Modify search engine ranking using subreddits]]></summary>
-        <author>
-            <name>alxjsn</name>
-            <uri>https://news.ycombinator.com/user?id=alxjsn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CursorWalk，一個關於鼠標光標的隨機行走實現。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32054999</id>
-        <link href="https://news.ycombinator.com/item?id=32054999"/>
-        <updated>2022-07-11T12:04:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CursorWalk, a random walk implementation on the mouse cursor]]></summary>
-        <author>
-            <name>theden</name>
-            <uri>https://news.ycombinator.com/user?id=theden</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[干預--在不浪費員工空閒時間的情況下實現遠程工作場所的社交化
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32054780</id>
-        <link href="https://news.ycombinator.com/item?id=32054780"/>
-        <updated>2022-07-11T11:40:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Intervy- Socialize remote workplace without wasting employees free time]]></summary>
-        <author>
-            <name>kvergins</name>
-            <uri>https://news.ycombinator.com/user?id=kvergins</uri>
         </author>
     </entry>
 </feed>
