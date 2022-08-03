@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-03T11:26:00.921Z</updated>
+    <updated>2022-08-03T11:46:09.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在任何Mac应用程序中查看键盘快捷方式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32330333</id>
+        <link href="https://news.ycombinator.com/item?id=32330333"/>
+        <updated>2022-08-03T11:36:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: View keyboard shortcuts in any Mac app]]></summary>
+        <author>
+            <name>onmyway133</name>
+            <uri>https://news.ycombinator.com/user?id=onmyway133</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[机器学习中概念的交互式技能树
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>michalc</name>
             <uri>https://news.ycombinator.com/user?id=michalc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了整洁和免费的互动JavaScript课程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32042947</id>
-        <link href="https://news.ycombinator.com/item?id=32042947"/>
-        <updated>2022-07-10T08:56:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built neat and free interactive JavaScript courses]]></summary>
-        <author>
-            <name>ianberdin</name>
-            <uri>https://news.ycombinator.com/user?id=ianberdin</uri>
         </author>
     </entry>
 </feed>
