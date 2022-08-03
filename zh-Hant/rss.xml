@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 03 Aug 2022 07:45:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 08:40:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個使用Go泛型的SQL數據映射器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32328914</link>
+            <guid>https://news.ycombinator.com/item?id=32328914</guid>
+            <pubDate>Wed, 03 Aug 2022 08:04:27 GMT</pubDate>
+            <description><![CDATA[Show HN: An SQL data mapper using Go generics]]></description>
+        </item>
         <item>
             <title><![CDATA[針對SaaS的一鍵式數據錄入解決方案
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32038541</guid>
             <pubDate>Sat, 09 Jul 2022 19:39:15 GMT</pubDate>
             <description><![CDATA[Show HN: Lumigo – free tracing for AWS lambdas]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在1天內訓練你自己的物體檢測AI，而不需要任何預先的知識
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32038181</link>
-            <guid>https://news.ycombinator.com/item?id=32038181</guid>
-            <pubDate>Sat, 09 Jul 2022 18:56:03 GMT</pubDate>
-            <description><![CDATA[Show HN: Train your own Object Detection AI in 1 day without any prior knowledge]]></description>
         </item>
     </channel>
 </rss>

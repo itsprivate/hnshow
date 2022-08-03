@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-03T07:45:26.090Z</updated>
+    <updated>2022-08-03T08:40:14.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個使用Go泛型的SQL數據映射器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32328914</id>
+        <link href="https://news.ycombinator.com/item?id=32328914"/>
+        <updated>2022-08-03T08:04:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An SQL data mapper using Go generics]]></summary>
+        <author>
+            <name>bokwoon</name>
+            <uri>https://news.ycombinator.com/user?id=bokwoon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[針對SaaS的一鍵式數據錄入解決方案
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>shlosky</name>
             <uri>https://news.ycombinator.com/user?id=shlosky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在1天內訓練你自己的物體檢測AI，而不需要任何預先的知識
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32038181</id>
-        <link href="https://news.ycombinator.com/item?id=32038181"/>
-        <updated>2022-07-09T18:56:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Train your own Object Detection AI in 1 day without any prior knowledge]]></summary>
-        <author>
-            <name>ramacastro</name>
-            <uri>https://news.ycombinator.com/user?id=ramacastro</uri>
         </author>
     </entry>
 </feed>
