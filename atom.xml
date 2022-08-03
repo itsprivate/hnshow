@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-03T06:36:12.463Z</updated>
+    <updated>2022-08-03T06:56:54.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Web3 AWS Lambda
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32328380</id>
+        <link href="https://news.ycombinator.com/item?id=32328380"/>
+        <updated>2022-08-03T06:41:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Web3 AWS Lambda]]></summary>
+        <author>
+            <name>fearlessboii</name>
+            <uri>https://news.ycombinator.com/user?id=fearlessboii</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于Chrome的类似bash的新标签页
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>natzar</name>
             <uri>https://news.ycombinator.com/user?id=natzar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[压缩文件的速度是7-Zip的4倍，有一个用JavaScript编写的演示
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32036881</id>
-        <link href="https://news.ycombinator.com/item?id=32036881"/>
-        <updated>2022-07-09T16:46:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Zip files 4 times faster than 7-Zip with a demo written in JavaScript]]></summary>
-        <author>
-            <name>gildas</name>
-            <uri>https://news.ycombinator.com/user?id=gildas</uri>
         </author>
     </entry>
 </feed>
