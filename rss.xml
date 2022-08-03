@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 03 Aug 2022 14:41:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 15:02:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[寻找类似的播客
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32332607</link>
+            <guid>https://news.ycombinator.com/item?id=32332607</guid>
+            <pubDate>Wed, 03 Aug 2022 14:55:28 GMT</pubDate>
+            <description><![CDATA[Show HN: Find Similar Podcasts]]></description>
+        </item>
         <item>
             <title><![CDATA[一个带有摘要的开源安卓黑客新闻客户端
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32053961</guid>
             <pubDate>Mon, 11 Jul 2022 09:29:18 GMT</pubDate>
             <description><![CDATA[Show HN: Lldap, a Simplified LDAP Server]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通过视觉注释获得对你的设计的糟糕反馈
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32053856</link>
-            <guid>https://news.ycombinator.com/item?id=32053856</guid>
-            <pubDate>Mon, 11 Jul 2022 09:13:15 GMT</pubDate>
-            <description><![CDATA[Show HN: Get badass feedback on your designs with visual annotations]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-03T14:41:04.923Z</updated>
+    <updated>2022-08-03T15:02:37.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[寻找类似的播客
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32332607</id>
+        <link href="https://news.ycombinator.com/item?id=32332607"/>
+        <updated>2022-08-03T14:55:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Find Similar Podcasts]]></summary>
+        <author>
+            <name>wenbin</name>
+            <uri>https://news.ycombinator.com/user?id=wenbin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个带有摘要的开源安卓黑客新闻客户端
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nitnelave</name>
             <uri>https://news.ycombinator.com/user?id=nitnelave</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过视觉注释获得对你的设计的糟糕反馈
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32053856</id>
-        <link href="https://news.ycombinator.com/item?id=32053856"/>
-        <updated>2022-07-11T09:13:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Get badass feedback on your designs with visual annotations]]></summary>
-        <author>
-            <name>aswin_kp</name>
-            <uri>https://news.ycombinator.com/user?id=aswin_kp</uri>
         </author>
     </entry>
 </feed>
