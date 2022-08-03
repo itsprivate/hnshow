@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-03T17:11:15.948Z</updated>
+    <updated>2022-08-03T19:47:39.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[如何评估合成数据集的质量
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32335871</id>
+        <link href="https://news.ycombinator.com/item?id=32335871"/>
+        <updated>2022-08-03T19:35:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How to evaluate the quality of synthetic datasets]]></summary>
+        <author>
+            <name>repeat_or</name>
+            <uri>https://news.ycombinator.com/user?id=repeat_or</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[目前可用的35毫米、110和中画幅胶片概览
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32335510</id>
+        <link href="https://news.ycombinator.com/item?id=32335510"/>
+        <updated>2022-08-03T18:58:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Overview of currently available 35mm, 110 and medium format film stocks]]></summary>
+        <author>
+            <name>sebastianlay</name>
+            <uri>https://news.ycombinator.com/user?id=sebastianlay</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adadot--为更好、更快乐的开发者提供分析服务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32330422</id>
+        <link href="https://news.ycombinator.com/item?id=32330422"/>
+        <updated>2022-08-03T11:48:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Adadot – analytics for better, happier developers]]></summary>
+        <author>
+            <name>alexadadot</name>
+            <uri>https://news.ycombinator.com/user?id=alexadadot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Canva和机器学习
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>yen789</name>
             <uri>https://news.ycombinator.com/user?id=yen789</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于开发和测试的Kubernetes-in-Kubernetes
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32056625</id>
-        <link href="https://news.ycombinator.com/item?id=32056625"/>
-        <updated>2022-07-11T14:27:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Kubernetes-in-Kubernetes for development and testing]]></summary>
-        <author>
-            <name>schille</name>
-            <uri>https://news.ycombinator.com/user?id=schille</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于Kobo Sage电子读物的HN客户端
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32056229</id>
-        <link href="https://news.ycombinator.com/item?id=32056229"/>
-        <updated>2022-07-11T13:59:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: HN client for Kobo Sage e-readers]]></summary>
-        <author>
-            <name>graypegg</name>
-            <uri>https://news.ycombinator.com/user?id=graypegg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[没有照片的粘性新闻头条
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32056130</id>
-        <link href="https://news.ycombinator.com/item?id=32056130"/>
-        <updated>2022-07-11T13:52:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Sticky News Headlines Without Photos]]></summary>
-        <author>
-            <name>andrewfromx</name>
-            <uri>https://news.ycombinator.com/user?id=andrewfromx</uri>
         </author>
     </entry>
 </feed>
