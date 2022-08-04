@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-04T05:53:45.005Z</updated>
+    <updated>2022-08-04T06:38:44.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[轻松为你的博客文章添加拍手和反应
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32339701</id>
+        <link href="https://news.ycombinator.com/item?id=32339701"/>
+        <updated>2022-08-04T06:07:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Add clap and reactions to your blog posts easily]]></summary>
+        <author>
+            <name>rajasimon</name>
+            <uri>https://news.ycombinator.com/user?id=rajasimon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可扩展的开放源码软件重构替代方案
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Meixam</name>
             <uri>https://news.ycombinator.com/user?id=Meixam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于FPGA的语音控制机器人
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32058785</id>
-        <link href="https://news.ycombinator.com/item?id=32058785"/>
-        <updated>2022-07-11T17:08:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Speech Controlled Robot on FPGA]]></summary>
-        <author>
-            <name>petrohi</name>
-            <uri>https://news.ycombinator.com/user?id=petrohi</uri>
         </author>
     </entry>
 </feed>

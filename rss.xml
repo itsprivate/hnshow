@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 04 Aug 2022 05:53:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 06:38:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[轻松为你的博客文章添加拍手和反应
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32339701</link>
+            <guid>https://news.ycombinator.com/item?id=32339701</guid>
+            <pubDate>Thu, 04 Aug 2022 06:07:02 GMT</pubDate>
+            <description><![CDATA[Show HN: Add clap and reactions to your blog posts easily]]></description>
+        </item>
         <item>
             <title><![CDATA[可扩展的开放源码软件重构替代方案
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32058950</guid>
             <pubDate>Mon, 11 Jul 2022 17:21:55 GMT</pubDate>
             <description><![CDATA[Show HN: Terminalyst – A job board without GUI]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基于FPGA的语音控制机器人
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32058785</link>
-            <guid>https://news.ycombinator.com/item?id=32058785</guid>
-            <pubDate>Mon, 11 Jul 2022 17:08:10 GMT</pubDate>
-            <description><![CDATA[Show HN: Speech Controlled Robot on FPGA]]></description>
         </item>
     </channel>
 </rss>
