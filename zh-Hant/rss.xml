@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 04 Aug 2022 10:35:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 11:46:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Deluge腳本語言
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32341533</link>
+            <guid>https://news.ycombinator.com/item?id=32341533</guid>
+            <pubDate>Thu, 04 Aug 2022 11:25:03 GMT</pubDate>
+            <description><![CDATA[Show HN: Deluge Scripting Language]]></description>
+        </item>
+        <item>
+            <title><![CDATA[自動總結的HN（含GPT-3）
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32341525</link>
+            <guid>https://news.ycombinator.com/item?id=32341525</guid>
+            <pubDate>Thu, 04 Aug 2022 11:23:20 GMT</pubDate>
+            <description><![CDATA[Show HN: Autosummarized HN (With GPT-3)]]></description>
+        </item>
         <item>
             <title><![CDATA[一個具有GraphQL的Firebase的開源替代方案。Rocketgraph
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32062347</guid>
             <pubDate>Mon, 11 Jul 2022 21:44:21 GMT</pubDate>
             <description><![CDATA[Show HN: Run transformers model inference in C/C++ and even assembly]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在Windows上一鍵開發數據庫
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32062015</link>
-            <guid>https://news.ycombinator.com/item?id=32062015</guid>
-            <pubDate>Mon, 11 Jul 2022 21:18:33 GMT</pubDate>
-            <description><![CDATA[Show HN: Dev databases on Windows in one click]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Namecheap AI企業名稱生成器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32060830</link>
-            <guid>https://news.ycombinator.com/item?id=32060830</guid>
-            <pubDate>Mon, 11 Jul 2022 19:45:17 GMT</pubDate>
-            <description><![CDATA[Show HN: Namecheap AI business name generator]]></description>
         </item>
     </channel>
 </rss>

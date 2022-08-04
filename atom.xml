@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-04T10:35:25.817Z</updated>
+    <updated>2022-08-04T11:46:44.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Deluge脚本语言
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32341533</id>
+        <link href="https://news.ycombinator.com/item?id=32341533"/>
+        <updated>2022-08-04T11:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Deluge Scripting Language]]></summary>
+        <author>
+            <name>gits1225</name>
+            <uri>https://news.ycombinator.com/user?id=gits1225</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自动总结的HN（含GPT-3）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32341525</id>
+        <link href="https://news.ycombinator.com/item?id=32341525"/>
+        <updated>2022-08-04T11:23:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Autosummarized HN (With GPT-3)]]></summary>
+        <author>
+            <name>nathell</name>
+            <uri>https://news.ycombinator.com/user?id=nathell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个具有GraphQL的Firebase的开源替代方案。Rocketgraph
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>txtai</name>
             <uri>https://news.ycombinator.com/user?id=txtai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Windows上一键开发数据库
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32062015</id>
-        <link href="https://news.ycombinator.com/item?id=32062015"/>
-        <updated>2022-07-11T21:18:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Dev databases on Windows in one click]]></summary>
-        <author>
-            <name>rathboma</name>
-            <uri>https://news.ycombinator.com/user?id=rathboma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Namecheap AI企业名称生成器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32060830</id>
-        <link href="https://news.ycombinator.com/item?id=32060830"/>
-        <updated>2022-07-11T19:45:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Namecheap AI business name generator]]></summary>
-        <author>
-            <name>cameronrohani</name>
-            <uri>https://news.ycombinator.com/user?id=cameronrohani</uri>
         </author>
     </entry>
 </feed>
