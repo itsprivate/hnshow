@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-04T19:28:03.292Z</updated>
+    <updated>2022-08-04T20:00:06.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Release-notifier.com - 從GitHub倉庫獲得新版本通知
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32347448</id>
+        <link href="https://news.ycombinator.com/item?id=32347448"/>
+        <updated>2022-08-04T19:49:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Release-notifier.com – Get notified of new releases from GitHub repos]]></summary>
+        <author>
+            <name>preezer</name>
+            <uri>https://news.ycombinator.com/user?id=preezer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[臀部移動器 - 臀部觸發的生產力和健康改善遊戲
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pimterry</name>
             <uri>https://news.ycombinator.com/user?id=pimterry</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Package Manager，一個解決Xkcd #1654問題的CLI。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32070459</id>
-        <link href="https://news.ycombinator.com/item?id=32070459"/>
-        <updated>2022-07-12T14:26:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Meta Package Manager, a CLI that solves Xkcd #1654]]></summary>
-        <author>
-            <name>kdeldycke</name>
-            <uri>https://news.ycombinator.com/user?id=kdeldycke</uri>
         </author>
     </entry>
 </feed>

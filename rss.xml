@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 04 Aug 2022 19:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 20:00:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Release-notifier.com - 从GitHub仓库获得新版本通知
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32347448</link>
+            <guid>https://news.ycombinator.com/item?id=32347448</guid>
+            <pubDate>Thu, 04 Aug 2022 19:49:11 GMT</pubDate>
+            <description><![CDATA[Show HN: Release-notifier.com – Get notified of new releases from GitHub repos]]></description>
+        </item>
         <item>
             <title><![CDATA[臀部移动器 - 臀部触发的生产力和健康改善游戏
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32070831</guid>
             <pubDate>Tue, 12 Jul 2022 14:51:04 GMT</pubDate>
             <description><![CDATA[Show HN: MockIPFS – a mock node and MitM proxy for IPFS testing and debugging]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Meta Package Manager，一个解决Xkcd #1654问题的CLI。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32070459</link>
-            <guid>https://news.ycombinator.com/item?id=32070459</guid>
-            <pubDate>Tue, 12 Jul 2022 14:26:45 GMT</pubDate>
-            <description><![CDATA[Show HN: Meta Package Manager, a CLI that solves Xkcd #1654]]></description>
         </item>
     </channel>
 </rss>
