@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-04T14:59:48.084Z</updated>
+    <updated>2022-08-04T15:41:48.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[單一文件靜態微博生成器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32343993</id>
+        <link href="https://news.ycombinator.com/item?id=32343993"/>
+        <updated>2022-08-04T15:13:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Single file static microblog generator]]></summary>
+        <author>
+            <name>jjjbokma</name>
+            <uri>https://news.ycombinator.com/user?id=jjjbokma</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飛毯iOS，文件傳輸到Windows和Linux，不需要互聯網。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32343936</id>
+        <link href="https://news.ycombinator.com/item?id=32343936"/>
+        <updated>2022-08-04T15:10:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Flying Carpet iOS, file transfer to Windows and Linux, no internet reqd]]></summary>
+        <author>
+            <name>spieglt</name>
+            <uri>https://news.ycombinator.com/user?id=spieglt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個網站，根據你的日常情緒向你推薦音樂。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>fgribreau</name>
             <uri>https://news.ycombinator.com/user?id=fgribreau</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[克雷亞，一個郵遞員的替代品
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32066569</id>
-        <link href="https://news.ycombinator.com/item?id=32066569"/>
-        <updated>2022-07-12T07:05:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Kreya, a Postman Alternative]]></summary>
-        <author>
-            <name>CommonGuy</name>
-            <uri>https://news.ycombinator.com/user?id=CommonGuy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[對那些病毒性圖片進行事實核查，立即進行
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32066217</id>
-        <link href="https://news.ycombinator.com/item?id=32066217"/>
-        <updated>2022-07-12T06:06:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fact-check those viral pictures, instantly]]></summary>
-        <author>
-            <name>iamnnk</name>
-            <uri>https://news.ycombinator.com/user?id=iamnnk</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 04 Aug 2022 14:59:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 15:41:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[單一文件靜態微博生成器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32343993</link>
+            <guid>https://news.ycombinator.com/item?id=32343993</guid>
+            <pubDate>Thu, 04 Aug 2022 15:13:48 GMT</pubDate>
+            <description><![CDATA[Show HN: Single file static microblog generator]]></description>
+        </item>
+        <item>
+            <title><![CDATA[飛毯iOS，文件傳輸到Windows和Linux，不需要互聯網。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32343936</link>
+            <guid>https://news.ycombinator.com/item?id=32343936</guid>
+            <pubDate>Thu, 04 Aug 2022 15:10:36 GMT</pubDate>
+            <description><![CDATA[Show HN: Flying Carpet iOS, file transfer to Windows and Linux, no internet reqd]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一個網站，根據你的日常情緒向你推薦音樂。
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32067755</guid>
             <pubDate>Tue, 12 Jul 2022 10:06:48 GMT</pubDate>
             <description><![CDATA[Show HN: Cloud-Runner, up to 40% faster Gitlab-ci pipelines]]></description>
-        </item>
-        <item>
-            <title><![CDATA[克雷亞，一個郵遞員的替代品
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32066569</link>
-            <guid>https://news.ycombinator.com/item?id=32066569</guid>
-            <pubDate>Tue, 12 Jul 2022 07:05:27 GMT</pubDate>
-            <description><![CDATA[Show HN: Kreya, a Postman Alternative]]></description>
-        </item>
-        <item>
-            <title><![CDATA[對那些病毒性圖片進行事實核查，立即進行
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32066217</link>
-            <guid>https://news.ycombinator.com/item?id=32066217</guid>
-            <pubDate>Tue, 12 Jul 2022 06:06:49 GMT</pubDate>
-            <description><![CDATA[Show HN: Fact-check those viral pictures, instantly]]></description>
         </item>
     </channel>
 </rss>
