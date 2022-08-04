@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-04T02:31:45.497Z</updated>
+    <updated>2022-08-04T03:51:16.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用仿製藥的RxGo
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32338885</id>
+        <link href="https://news.ycombinator.com/item?id=32338885"/>
+        <updated>2022-08-04T03:04:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: RxGo with Generics]]></summary>
+        <author>
+            <name>pyxde</name>
+            <uri>https://news.ycombinator.com/user?id=pyxde</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fuhpy.com 匹配圖片中的姿勢
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>karlewr</name>
             <uri>https://news.ycombinator.com/user?id=karlewr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[輸入Slack風格的表情符號別名
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32057689</id>
-        <link href="https://news.ycombinator.com/item?id=32057689"/>
-        <updated>2022-07-11T15:47:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Type Slack style emoji alias]]></summary>
-        <author>
-            <name>onmyway133</name>
-            <uri>https://news.ycombinator.com/user?id=onmyway133</uri>
         </author>
     </entry>
 </feed>
