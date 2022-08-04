@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-04T04:35:04.691Z</updated>
+    <updated>2022-08-04T05:53:45.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[可擴展的開放源碼軟件重構替代方案
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32339641</id>
+        <link href="https://news.ycombinator.com/item?id=32339641"/>
+        <updated>2022-08-04T05:24:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Extensible OSS Retool Alternative]]></summary>
+        <author>
+            <name>navaneethpk</name>
+            <uri>https://news.ycombinator.com/user?id=navaneethpk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[邁向編程語言的三小步
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>petrohi</name>
             <uri>https://news.ycombinator.com/user?id=petrohi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[值得商榷 - 有結果的Reddit
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32058224</id>
-        <link href="https://news.ycombinator.com/item?id=32058224"/>
-        <updated>2022-07-11T16:24:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Debatable – Reddit with Results]]></summary>
-        <author>
-            <name>robcorn</name>
-            <uri>https://news.ycombinator.com/user?id=robcorn</uri>
         </author>
     </entry>
 </feed>
