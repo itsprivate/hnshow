@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-04T13:04:28.873Z</updated>
+    <updated>2022-08-04T13:55:58.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在二维码中存储金钱
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32342718</id>
+        <link href="https://news.ycombinator.com/item?id=32342718"/>
+        <updated>2022-08-04T13:37:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Store Money in a QR Code]]></summary>
+        <author>
+            <name>jacobpedd</name>
+            <uri>https://news.ycombinator.com/user?id=jacobpedd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[随机Rijks - 查看阿姆斯特丹Rijksmuseum的随机艺术作品
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nassimsoftware</name>
             <uri>https://news.ycombinator.com/user?id=nassimsoftware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go中的安全远程密码库
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32063223</id>
-        <link href="https://news.ycombinator.com/item?id=32063223"/>
-        <updated>2022-07-11T22:55:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Secure Remote Password Library in Go]]></summary>
-        <author>
-            <name>mohamedattahri</name>
-            <uri>https://news.ycombinator.com/user?id=mohamedattahri</uri>
         </author>
     </entry>
 </feed>
