@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-04T09:48:30.065Z</updated>
+    <updated>2022-08-04T10:35:25.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個具有GraphQL的Firebase的開源替代方案。Rocketgraph
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32341122</id>
+        <link href="https://news.ycombinator.com/item?id=32341122"/>
+        <updated>2022-08-04T10:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An open-source alternative to Firebase with GraphQL: Rocketgraph]]></summary>
+        <author>
+            <name>kaushik_v</name>
+            <uri>https://news.ycombinator.com/user?id=kaushik_v</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphQL Armor - GraphQL的開源安全層
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32341100</id>
+        <link href="https://news.ycombinator.com/item?id=32341100"/>
+        <updated>2022-08-04T10:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GraphQL Armor – An open source security layer for GraphQL]]></summary>
+        <author>
+            <name>glimow</name>
+            <uri>https://news.ycombinator.com/user?id=glimow</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一本公開、快速、簡潔的書，讓你瞭解去中心化的金融
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>cameronrohani</name>
             <uri>https://news.ycombinator.com/user?id=cameronrohani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金薩納，DAO的信用卡
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32060772</id>
-        <link href="https://news.ycombinator.com/item?id=32060772"/>
-        <updated>2022-07-11T19:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Kinzana, Credit Cards for DAOs]]></summary>
-        <author>
-            <name>chessboxer</name>
-            <uri>https://news.ycombinator.com/user?id=chessboxer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[簡單的Python結構格式-字符串解釋器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32059865</id>
-        <link href="https://news.ycombinator.com/item?id=32059865"/>
-        <updated>2022-07-11T18:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Simple Python struct format-string explainer]]></summary>
-        <author>
-            <name>superpolynomial</name>
-            <uri>https://news.ycombinator.com/user?id=superpolynomial</uri>
         </author>
     </entry>
 </feed>
