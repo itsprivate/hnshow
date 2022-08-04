@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-04T15:41:48.917Z</updated>
+    <updated>2022-08-04T15:57:47.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GP日历 - 一款原生的Mac应用程序，用于F1日历
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32344375</id>
+        <link href="https://news.ycombinator.com/item?id=32344375"/>
+        <updated>2022-08-04T15:42:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GP Calendar – A native Mac app for Formula 1 Calendar]]></summary>
+        <author>
+            <name>slamingzone</name>
+            <uri>https://news.ycombinator.com/user?id=slamingzone</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[单一文件静态微博生成器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>3xa</name>
             <uri>https://news.ycombinator.com/user?id=3xa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud-Runner，Gitlab-ci管道的速度最高可达40%。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32067755</id>
-        <link href="https://news.ycombinator.com/item?id=32067755"/>
-        <updated>2022-07-12T10:06:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cloud-Runner, up to 40% faster Gitlab-ci pipelines]]></summary>
-        <author>
-            <name>fgribreau</name>
-            <uri>https://news.ycombinator.com/user?id=fgribreau</uri>
         </author>
     </entry>
 </feed>

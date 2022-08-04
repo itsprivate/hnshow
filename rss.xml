@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 04 Aug 2022 15:41:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 15:57:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GP日历 - 一款原生的Mac应用程序，用于F1日历
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32344375</link>
+            <guid>https://news.ycombinator.com/item?id=32344375</guid>
+            <pubDate>Thu, 04 Aug 2022 15:42:14 GMT</pubDate>
+            <description><![CDATA[Show HN: GP Calendar – A native Mac app for Formula 1 Calendar]]></description>
+        </item>
         <item>
             <title><![CDATA[单一文件静态微博生成器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32067831</guid>
             <pubDate>Tue, 12 Jul 2022 10:18:24 GMT</pubDate>
             <description><![CDATA[Show HN: Raspberry Pi Bitcoin Full Node. Truly Decentralized and Dockerized]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Cloud-Runner，Gitlab-ci管道的速度最高可达40%。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32067755</link>
-            <guid>https://news.ycombinator.com/item?id=32067755</guid>
-            <pubDate>Tue, 12 Jul 2022 10:06:48 GMT</pubDate>
-            <description><![CDATA[Show HN: Cloud-Runner, up to 40% faster Gitlab-ci pipelines]]></description>
         </item>
     </channel>
 </rss>
