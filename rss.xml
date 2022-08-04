@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 04 Aug 2022 20:00:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 21:30:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Penumbra，一个基于自然光的感知优化调色板
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32348461</link>
+            <guid>https://news.ycombinator.com/item?id=32348461</guid>
+            <pubDate>Thu, 04 Aug 2022 21:23:07 GMT</pubDate>
+            <description><![CDATA[Show HN: Penumbra, a perceptually optimized color palette based on natural light]]></description>
+        </item>
         <item>
             <title><![CDATA[Release-notifier.com - 从GitHub仓库获得新版本通知
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32071555</guid>
             <pubDate>Tue, 12 Jul 2022 15:42:03 GMT</pubDate>
             <description><![CDATA[Show HN: Druthers, Multiplayer Decision-Making]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MockIPFS - 一个用于IPFS测试和调试的模拟节点和MitM代理
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32070831</link>
-            <guid>https://news.ycombinator.com/item?id=32070831</guid>
-            <pubDate>Tue, 12 Jul 2022 14:51:04 GMT</pubDate>
-            <description><![CDATA[Show HN: MockIPFS – a mock node and MitM proxy for IPFS testing and debugging]]></description>
         </item>
     </channel>
 </rss>

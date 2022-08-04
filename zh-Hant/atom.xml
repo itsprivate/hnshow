@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-04T20:00:06.291Z</updated>
+    <updated>2022-08-04T21:30:48.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Penumbra，一個基於自然光的感知優化調色板
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32348461</id>
+        <link href="https://news.ycombinator.com/item?id=32348461"/>
+        <updated>2022-08-04T21:23:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Penumbra, a perceptually optimized color palette based on natural light]]></summary>
+        <author>
+            <name>solasluaith</name>
+            <uri>https://news.ycombinator.com/user?id=solasluaith</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Release-notifier.com - 從GitHub倉庫獲得新版本通知
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gavmor</name>
             <uri>https://news.ycombinator.com/user?id=gavmor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MockIPFS - 一個用於IPFS測試和調試的模擬節點和MitM代理
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32070831</id>
-        <link href="https://news.ycombinator.com/item?id=32070831"/>
-        <updated>2022-07-12T14:51:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: MockIPFS – a mock node and MitM proxy for IPFS testing and debugging]]></summary>
-        <author>
-            <name>pimterry</name>
-            <uri>https://news.ycombinator.com/user?id=pimterry</uri>
         </author>
     </entry>
 </feed>
