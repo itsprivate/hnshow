@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-04T00:00:47.459Z</updated>
+    <updated>2022-08-04T02:31:45.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fuhpy.com 匹配图片中的姿势
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32337986</id>
+        <link href="https://news.ycombinator.com/item?id=32337986"/>
+        <updated>2022-08-04T00:26:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fuhpy.com Match the Pose in the Picture]]></summary>
+        <author>
+            <name>aaron5</name>
+            <uri>https://news.ycombinator.com/user?id=aaron5</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MekaBytes - 社会图像标签
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>onmyway133</name>
             <uri>https://news.ycombinator.com/user?id=onmyway133</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特灵-锈迹斑斑，与特灵和锈迹斑斑的人一起学习锈迹。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32057505</id>
-        <link href="https://news.ycombinator.com/item?id=32057505"/>
-        <updated>2022-07-11T15:35:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Trane-rustlings, learn Rust with Trane and rustligns]]></summary>
-        <author>
-            <name>trane_project</name>
-            <uri>https://news.ycombinator.com/user?id=trane_project</uri>
         </author>
     </entry>
 </feed>
