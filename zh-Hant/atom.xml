@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-04T13:55:58.120Z</updated>
+    <updated>2022-08-04T14:05:51.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[殺手字謎：一個沒有線索的字謎變體
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32342820</id>
+        <link href="https://news.ycombinator.com/item?id=32342820"/>
+        <updated>2022-08-04T13:45:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Killer Crossword: A crossword puzzle variation with no clues]]></summary>
+        <author>
+            <name>danieltait</name>
+            <uri>https://news.ycombinator.com/user?id=danieltait</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在二維碼中存儲金錢
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pndpo</name>
             <uri>https://news.ycombinator.com/user?id=pndpo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個簡單的令人上癮的網頁遊戲
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32063653</id>
-        <link href="https://news.ycombinator.com/item?id=32063653"/>
-        <updated>2022-07-11T23:40:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a simple addictive web game]]></summary>
-        <author>
-            <name>nassimsoftware</name>
-            <uri>https://news.ycombinator.com/user?id=nassimsoftware</uri>
         </author>
     </entry>
 </feed>
