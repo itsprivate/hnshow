@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 04 Aug 2022 15:57:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 16:50:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用React的无服务器概念博客
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32344944</link>
+            <guid>https://news.ycombinator.com/item?id=32344944</guid>
+            <pubDate>Thu, 04 Aug 2022 16:22:56 GMT</pubDate>
+            <description><![CDATA[Show HN: Serverless Notion Blog using React]]></description>
+        </item>
+        <item>
+            <title><![CDATA[亮点 - 利用回放功能调试面向客户的问题
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32344768</link>
+            <guid>https://news.ycombinator.com/item?id=32344768</guid>
+            <pubDate>Thu, 04 Aug 2022 16:10:42 GMT</pubDate>
+            <description><![CDATA[Show HN: Highlight – Debug customer-facing issues with replay]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Superblocks - 内部应用、API和Cron工作的IDE
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32344671</link>
+            <guid>https://news.ycombinator.com/item?id=32344671</guid>
+            <pubDate>Thu, 04 Aug 2022 16:03:51 GMT</pubDate>
+            <description><![CDATA[Show HN: Superblocks – IDE for Internal Apps, APIs and Cron Jobs]]></description>
+        </item>
         <item>
             <title><![CDATA[GP日历 - 一款原生的Mac应用程序，用于F1日历
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32068182</guid>
             <pubDate>Tue, 12 Jul 2022 11:09:14 GMT</pubDate>
             <description><![CDATA[Show HN: The Algolia for ASR – UI components for speech to text]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GitHub即代码 - 用Terraform管理GitHub
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32067984</link>
-            <guid>https://news.ycombinator.com/item?id=32067984</guid>
-            <pubDate>Tue, 12 Jul 2022 10:44:16 GMT</pubDate>
-            <description><![CDATA[Show HN: GitHub as Code – Manage GitHub with Terraform]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CostGuard - 即时的AWS帐单提醒
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32067980</link>
-            <guid>https://news.ycombinator.com/item?id=32067980</guid>
-            <pubDate>Tue, 12 Jul 2022 10:43:40 GMT</pubDate>
-            <description><![CDATA[Show HN: CostGuard – instant AWS billing alerts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[树莓派比特币全节点。真正的去中心化和Docker化
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32067831</link>
-            <guid>https://news.ycombinator.com/item?id=32067831</guid>
-            <pubDate>Tue, 12 Jul 2022 10:18:24 GMT</pubDate>
-            <description><![CDATA[Show HN: Raspberry Pi Bitcoin Full Node. Truly Decentralized and Dockerized]]></description>
         </item>
     </channel>
 </rss>

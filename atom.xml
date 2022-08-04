@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-04T15:57:47.062Z</updated>
+    <updated>2022-08-04T16:50:41.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用React的无服务器概念博客
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32344944</id>
+        <link href="https://news.ycombinator.com/item?id=32344944"/>
+        <updated>2022-08-04T16:22:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Serverless Notion Blog using React]]></summary>
+        <author>
+            <name>tr1ll10nb1ll</name>
+            <uri>https://news.ycombinator.com/user?id=tr1ll10nb1ll</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[亮点 - 利用回放功能调试面向客户的问题
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32344768</id>
+        <link href="https://news.ycombinator.com/item?id=32344768"/>
+        <updated>2022-08-04T16:10:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Highlight – Debug customer-facing issues with replay]]></summary>
+        <author>
+            <name>podoman</name>
+            <uri>https://news.ycombinator.com/user?id=podoman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superblocks - 内部应用、API和Cron工作的IDE
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32344671</id>
+        <link href="https://news.ycombinator.com/item?id=32344671"/>
+        <updated>2022-08-04T16:03:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Superblocks – IDE for Internal Apps, APIs and Cron Jobs]]></summary>
+        <author>
+            <name>bradmenezes</name>
+            <uri>https://news.ycombinator.com/user?id=bradmenezes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GP日历 - 一款原生的Mac应用程序，用于F1日历
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>bgnm2000</name>
             <uri>https://news.ycombinator.com/user?id=bgnm2000</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub即代码 - 用Terraform管理GitHub
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32067984</id>
-        <link href="https://news.ycombinator.com/item?id=32067984"/>
-        <updated>2022-07-12T10:44:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GitHub as Code – Manage GitHub with Terraform]]></summary>
-        <author>
-            <name>sorenmartius</name>
-            <uri>https://news.ycombinator.com/user?id=sorenmartius</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CostGuard - 即时的AWS帐单提醒
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32067980</id>
-        <link href="https://news.ycombinator.com/item?id=32067980"/>
-        <updated>2022-07-12T10:43:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CostGuard – instant AWS billing alerts]]></summary>
-        <author>
-            <name>igorzij</name>
-            <uri>https://news.ycombinator.com/user?id=igorzij</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[树莓派比特币全节点。真正的去中心化和Docker化
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32067831</id>
-        <link href="https://news.ycombinator.com/item?id=32067831"/>
-        <updated>2022-07-12T10:18:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Raspberry Pi Bitcoin Full Node. Truly Decentralized and Dockerized]]></summary>
-        <author>
-            <name>3xa</name>
-            <uri>https://news.ycombinator.com/user?id=3xa</uri>
         </author>
     </entry>
 </feed>
