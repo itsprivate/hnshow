@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 04 Aug 2022 09:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 09:48:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一本公开、快速、简洁的书，让你了解去中心化的金融
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32340954</link>
+            <guid>https://news.ycombinator.com/item?id=32340954</guid>
+            <pubDate>Thu, 04 Aug 2022 09:40:16 GMT</pubDate>
+            <description><![CDATA[Show HN: An open, quick and crisp book to learn about Decentralized Finance]]></description>
+        </item>
         <item>
             <title><![CDATA[Next.js和Playwright以及GitHub Actions模板
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32059865</guid>
             <pubDate>Mon, 11 Jul 2022 18:30:27 GMT</pubDate>
             <description><![CDATA[Show HN: Simple Python struct format-string explainer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用于Redis的DNS反向/缓存代理
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32059542</link>
-            <guid>https://news.ycombinator.com/item?id=32059542</guid>
-            <pubDate>Mon, 11 Jul 2022 18:06:03 GMT</pubDate>
-            <description><![CDATA[Show HN: DNS Reverse / Caching Proxy for Redis]]></description>
         </item>
     </channel>
 </rss>
