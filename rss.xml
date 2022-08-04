@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 04 Aug 2022 16:50:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 17:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[利用机器学习和你的预算来挑选家具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32345422</link>
+            <guid>https://news.ycombinator.com/item?id=32345422</guid>
+            <pubDate>Thu, 04 Aug 2022 16:58:45 GMT</pubDate>
+            <description><![CDATA[Show HN: Using machine learning and your budget to pick furniture]]></description>
+        </item>
         <item>
             <title><![CDATA[使用React的无服务器概念博客
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32068447</guid>
             <pubDate>Tue, 12 Jul 2022 11:43:35 GMT</pubDate>
             <description><![CDATA[Show HN: A design-by-contract Python package in ~100 lines]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用于ASR的Algolia - 语音转文字的UI组件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32068182</link>
-            <guid>https://news.ycombinator.com/item?id=32068182</guid>
-            <pubDate>Tue, 12 Jul 2022 11:09:14 GMT</pubDate>
-            <description><![CDATA[Show HN: The Algolia for ASR – UI components for speech to text]]></description>
         </item>
     </channel>
 </rss>
