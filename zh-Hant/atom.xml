@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-04T17:21:06.135Z</updated>
+    <updated>2022-08-04T18:38:50.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通過每月一次的訂閱，支持一個龐大的藝術家社區
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32346497</id>
+        <link href="https://news.ycombinator.com/item?id=32346497"/>
+        <updated>2022-08-04T18:24:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Support a large community of artists with one monthly subscription]]></summary>
+        <author>
+            <name>kbeqiri14</name>
+            <uri>https://news.ycombinator.com/user?id=kbeqiri14</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每個網頁上的分散的P2P評論，開放源代碼
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32346460</id>
+        <link href="https://news.ycombinator.com/item?id=32346460"/>
+        <updated>2022-08-04T18:21:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Decentralized P2P comments on every webpage, opensource]]></summary>
+        <author>
+            <name>modinfo</name>
+            <uri>https://news.ycombinator.com/user?id=modinfo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[創建互動圖像的免費在線工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32346346</id>
+        <link href="https://news.ycombinator.com/item?id=32346346"/>
+        <updated>2022-08-04T18:13:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Free online tool to create interactive image]]></summary>
+        <author>
+            <name>ihndan</name>
+            <uri>https://news.ycombinator.com/user?id=ihndan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[利用機器學習和你的預算來挑選傢俱
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>yllek</name>
             <uri>https://news.ycombinator.com/user?id=yllek</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們正在努力（最終）將尾部調用納入WebAssembly標準中
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32069418</id>
-        <link href="https://news.ycombinator.com/item?id=32069418"/>
-        <updated>2022-07-12T13:14:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We are trying to (finally) get tail-calls into the WebAssembly standard]]></summary>
-        <author>
-            <name>apignotti</name>
-            <uri>https://news.ycombinator.com/user?id=apignotti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fastify DX，一個基於Fastify和Vite的全棧框架
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32068579</id>
-        <link href="https://news.ycombinator.com/item?id=32068579"/>
-        <updated>2022-07-12T11:59:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Fastify DX, a full stack framework based on Fastify and Vite]]></summary>
-        <author>
-            <name>jgalvez</name>
-            <uri>https://news.ycombinator.com/user?id=jgalvez</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個按合同設計的Python包，大約有100行
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32068447</id>
-        <link href="https://news.ycombinator.com/item?id=32068447"/>
-        <updated>2022-07-12T11:43:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A design-by-contract Python package in ~100 lines]]></summary>
-        <author>
-            <name>stefanka</name>
-            <uri>https://news.ycombinator.com/user?id=stefanka</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 04 Aug 2022 17:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 18:38:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[通過每月一次的訂閱，支持一個龐大的藝術家社區
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32346497</link>
+            <guid>https://news.ycombinator.com/item?id=32346497</guid>
+            <pubDate>Thu, 04 Aug 2022 18:24:48 GMT</pubDate>
+            <description><![CDATA[Show HN: Support a large community of artists with one monthly subscription]]></description>
+        </item>
+        <item>
+            <title><![CDATA[每個網頁上的分散的P2P評論，開放源代碼
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32346460</link>
+            <guid>https://news.ycombinator.com/item?id=32346460</guid>
+            <pubDate>Thu, 04 Aug 2022 18:21:37 GMT</pubDate>
+            <description><![CDATA[Show HN: Decentralized P2P comments on every webpage, opensource]]></description>
+        </item>
+        <item>
+            <title><![CDATA[創建互動圖像的免費在線工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32346346</link>
+            <guid>https://news.ycombinator.com/item?id=32346346</guid>
+            <pubDate>Thu, 04 Aug 2022 18:13:22 GMT</pubDate>
+            <description><![CDATA[Show HN: Free online tool to create interactive image]]></description>
+        </item>
         <item>
             <title><![CDATA[利用機器學習和你的預算來挑選傢俱
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32070194</guid>
             <pubDate>Tue, 12 Jul 2022 14:09:32 GMT</pubDate>
             <description><![CDATA[Show HN: Botkube – ChatOps for Kubernetes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們正在努力（最終）將尾部調用納入WebAssembly標準中
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32069418</link>
-            <guid>https://news.ycombinator.com/item?id=32069418</guid>
-            <pubDate>Tue, 12 Jul 2022 13:14:23 GMT</pubDate>
-            <description><![CDATA[Show HN: We are trying to (finally) get tail-calls into the WebAssembly standard]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Fastify DX，一個基於Fastify和Vite的全棧框架
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32068579</link>
-            <guid>https://news.ycombinator.com/item?id=32068579</guid>
-            <pubDate>Tue, 12 Jul 2022 11:59:26 GMT</pubDate>
-            <description><![CDATA[Show HN: Fastify DX, a full stack framework based on Fastify and Vite]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一個按合同設計的Python包，大約有100行
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32068447</link>
-            <guid>https://news.ycombinator.com/item?id=32068447</guid>
-            <pubDate>Tue, 12 Jul 2022 11:43:35 GMT</pubDate>
-            <description><![CDATA[Show HN: A design-by-contract Python package in ~100 lines]]></description>
         </item>
     </channel>
 </rss>
