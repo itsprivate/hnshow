@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 04 Aug 2022 11:46:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 13:04:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[随机Rijks - 查看阿姆斯特丹Rijksmuseum的随机艺术作品
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32341845</link>
+            <guid>https://news.ycombinator.com/item?id=32341845</guid>
+            <pubDate>Thu, 04 Aug 2022 12:15:31 GMT</pubDate>
+            <description><![CDATA[Show HN: Random Rijks – See a Random Artwork from the Amsterdam Rijksmuseum]]></description>
+        </item>
+        <item>
+            <title><![CDATA[学习圈 - 发现创始人推荐的资源
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32341765</link>
+            <guid>https://news.ycombinator.com/item?id=32341765</guid>
+            <pubDate>Thu, 04 Aug 2022 12:04:21 GMT</pubDate>
+            <description><![CDATA[Show HN: Learning Loop – Discover resources recommended by the founders]]></description>
+        </item>
         <item>
             <title><![CDATA[Deluge脚本语言
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32063223</guid>
             <pubDate>Mon, 11 Jul 2022 22:55:57 GMT</pubDate>
             <description><![CDATA[Show HN: Secure Remote Password Library in Go]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rubbrband，一个简单的高速缓存监控服务
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32063145</link>
-            <guid>https://news.ycombinator.com/item?id=32063145</guid>
-            <pubDate>Mon, 11 Jul 2022 22:47:54 GMT</pubDate>
-            <description><![CDATA[Show HN: Rubbrband, a simple cache monitoring service]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在C/C++甚至汇编中运行变换器模型推理
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32062347</link>
-            <guid>https://news.ycombinator.com/item?id=32062347</guid>
-            <pubDate>Mon, 11 Jul 2022 21:44:21 GMT</pubDate>
-            <description><![CDATA[Show HN: Run transformers model inference in C/C++ and even assembly]]></description>
         </item>
     </channel>
 </rss>

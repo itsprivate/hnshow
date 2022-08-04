@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-04T11:46:44.008Z</updated>
+    <updated>2022-08-04T13:04:28.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[随机Rijks - 查看阿姆斯特丹Rijksmuseum的随机艺术作品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32341845</id>
+        <link href="https://news.ycombinator.com/item?id=32341845"/>
+        <updated>2022-08-04T12:15:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Random Rijks – See a Random Artwork from the Amsterdam Rijksmuseum]]></summary>
+        <author>
+            <name>stefanvdw1</name>
+            <uri>https://news.ycombinator.com/user?id=stefanvdw1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学习圈 - 发现创始人推荐的资源
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32341765</id>
+        <link href="https://news.ycombinator.com/item?id=32341765"/>
+        <updated>2022-08-04T12:04:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Learning Loop – Discover resources recommended by the founders]]></summary>
+        <author>
+            <name>ikant</name>
+            <uri>https://news.ycombinator.com/user?id=ikant</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deluge脚本语言
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mohamedattahri</name>
             <uri>https://news.ycombinator.com/user?id=mohamedattahri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rubbrband，一个简单的高速缓存监控服务
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32063145</id>
-        <link href="https://news.ycombinator.com/item?id=32063145"/>
-        <updated>2022-07-11T22:47:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rubbrband, a simple cache monitoring service]]></summary>
-        <author>
-            <name>oaknutspiano</name>
-            <uri>https://news.ycombinator.com/user?id=oaknutspiano</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在C/C++甚至汇编中运行变换器模型推理
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32062347</id>
-        <link href="https://news.ycombinator.com/item?id=32062347"/>
-        <updated>2022-07-11T21:44:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Run transformers model inference in C/C++ and even assembly]]></summary>
-        <author>
-            <name>txtai</name>
-            <uri>https://news.ycombinator.com/user?id=txtai</uri>
         </author>
     </entry>
 </feed>
