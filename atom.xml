@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-04T06:38:44.256Z</updated>
+    <updated>2022-08-04T09:04:59.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Birdle - 一个基于病毒性推文的振奋人心的Wordle衍生品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32340662</id>
+        <link href="https://news.ycombinator.com/item?id=32340662"/>
+        <updated>2022-08-04T08:46:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Birdle – an uplifting Wordle derivative based on viral tweets]]></summary>
+        <author>
+            <name>mox111</name>
+            <uri>https://news.ycombinator.com/user?id=mox111</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松为你的博客文章添加拍手和反应
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>barteo</name>
             <uri>https://news.ycombinator.com/user?id=barteo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terminalyst - 一个没有GUI的招聘网站
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32058950</id>
-        <link href="https://news.ycombinator.com/item?id=32058950"/>
-        <updated>2022-07-11T17:21:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Terminalyst – A job board without GUI]]></summary>
-        <author>
-            <name>Meixam</name>
-            <uri>https://news.ycombinator.com/user?id=Meixam</uri>
         </author>
     </entry>
 </feed>
