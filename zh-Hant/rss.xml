@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 05 Aug 2022 13:04:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 14:35:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[節點緩存管理器的SQLite存儲
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32356238</link>
+            <guid>https://news.ycombinator.com/item?id=32356238</guid>
+            <pubDate>Fri, 05 Aug 2022 14:03:55 GMT</pubDate>
+            <description><![CDATA[Show HN: SQLite store for node cache manager]]></description>
+        </item>
         <item>
             <title><![CDATA[Genie Builder，用於構建數據應用的無代碼UI插件
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32080245</guid>
             <pubDate>Wed, 13 Jul 2022 08:31:34 GMT</pubDate>
             <description><![CDATA[Show HN: Face IO – Facial Authentication for the Web]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用PyTroch在GPU上對點雲進行快速去噪
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32079985</link>
-            <guid>https://news.ycombinator.com/item?id=32079985</guid>
-            <pubDate>Wed, 13 Jul 2022 07:44:23 GMT</pubDate>
-            <description><![CDATA[Show HN: Fast denoising of pointclouds on GPU using PyTroch]]></description>
         </item>
     </channel>
 </rss>
