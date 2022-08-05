@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-05T17:52:49.642Z</updated>
+    <updated>2022-08-05T18:42:06.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用CSS以编程方式制作视频和图片
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32359651</id>
+        <link href="https://news.ycombinator.com/item?id=32359651"/>
+        <updated>2022-08-05T18:02:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Make videos and images programmatically with CSS]]></summary>
+        <author>
+            <name>sebnun</name>
+            <uri>https://news.ycombinator.com/user?id=sebnun</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[元宝球
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jgehrcke</name>
             <uri>https://news.ycombinator.com/user?id=jgehrcke</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atorable，一个针对高需求内容的点对点解决方案
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32081438</id>
-        <link href="https://news.ycombinator.com/item?id=32081438"/>
-        <updated>2022-07-13T11:56:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Atorable, a peer-to-peer solution for high demand content]]></summary>
-        <author>
-            <name>sergethompson</name>
-            <uri>https://news.ycombinator.com/user?id=sergethompson</uri>
         </author>
     </entry>
 </feed>

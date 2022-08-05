@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 05 Aug 2022 17:52:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 18:42:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用CSS以编程方式制作视频和图片
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32359651</link>
+            <guid>https://news.ycombinator.com/item?id=32359651</guid>
+            <pubDate>Fri, 05 Aug 2022 18:02:47 GMT</pubDate>
+            <description><![CDATA[Show HN: Make videos and images programmatically with CSS]]></description>
+        </item>
         <item>
             <title><![CDATA[元宝球
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32081661</guid>
             <pubDate>Wed, 13 Jul 2022 12:23:53 GMT</pubDate>
             <description><![CDATA[Show HN: GitHub Action for repository traffic reporting]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Atorable，一个针对高需求内容的点对点解决方案
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32081438</link>
-            <guid>https://news.ycombinator.com/item?id=32081438</guid>
-            <pubDate>Wed, 13 Jul 2022 11:56:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Atorable, a peer-to-peer solution for high demand content]]></description>
         </item>
     </channel>
 </rss>
