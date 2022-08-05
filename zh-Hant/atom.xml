@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-05T18:42:06.338Z</updated>
+    <updated>2022-08-05T19:02:41.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我創建了一個瀏覽器自動化工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32352291</id>
+        <link href="https://news.ycombinator.com/item?id=32352291"/>
+        <updated>2022-08-05T05:58:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I created a browser automation tool]]></summary>
+        <author>
+            <name>iamandras</name>
+            <uri>https://news.ycombinator.com/user?id=iamandras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用CSS以編程方式製作視頻和圖片
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>techcofounder</name>
             <uri>https://news.ycombinator.com/user?id=techcofounder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[倉庫流量報告的GitHub行動
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32081661</id>
-        <link href="https://news.ycombinator.com/item?id=32081661"/>
-        <updated>2022-07-13T12:23:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GitHub Action for repository traffic reporting]]></summary>
-        <author>
-            <name>jgehrcke</name>
-            <uri>https://news.ycombinator.com/user?id=jgehrcke</uri>
         </author>
     </entry>
 </feed>

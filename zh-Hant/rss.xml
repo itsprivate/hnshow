@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 05 Aug 2022 18:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 19:02:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我創建了一個瀏覽器自動化工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32352291</link>
+            <guid>https://news.ycombinator.com/item?id=32352291</guid>
+            <pubDate>Fri, 05 Aug 2022 05:58:03 GMT</pubDate>
+            <description><![CDATA[Show HN: I created a browser automation tool]]></description>
+        </item>
         <item>
             <title><![CDATA[用CSS以編程方式製作視頻和圖片
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32081749</guid>
             <pubDate>Wed, 13 Jul 2022 12:34:03 GMT</pubDate>
             <description><![CDATA[Show HN: Simple cloud deployments with CD as-a-Service]]></description>
-        </item>
-        <item>
-            <title><![CDATA[倉庫流量報告的GitHub行動
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32081661</link>
-            <guid>https://news.ycombinator.com/item?id=32081661</guid>
-            <pubDate>Wed, 13 Jul 2022 12:23:53 GMT</pubDate>
-            <description><![CDATA[Show HN: GitHub Action for repository traffic reporting]]></description>
         </item>
     </channel>
 </rss>
