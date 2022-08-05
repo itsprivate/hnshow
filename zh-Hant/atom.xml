@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-05T15:33:45.964Z</updated>
+    <updated>2022-08-05T16:47:06.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[年度日記--閱讀你多年來對每日問題的回答
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32358204</id>
+        <link href="https://news.ycombinator.com/item?id=32358204"/>
+        <updated>2022-08-05T16:14:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Yearlydiary – Read your answers to daily questions over the years]]></summary>
+        <author>
+            <name>peterjuras</name>
+            <uri>https://news.ycombinator.com/user?id=peterjuras</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一個簡單的博客平臺
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>LovetheFrogs</name>
             <uri>https://news.ycombinator.com/user?id=LovetheFrogs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只需拖動方框就能刪除照片中不需要的物體
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32080469</id>
-        <link href="https://news.ycombinator.com/item?id=32080469"/>
-        <updated>2022-07-13T09:19:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Remove unwanted objects in photos simply by dragging boxes]]></summary>
-        <author>
-            <name>gc0119</name>
-            <uri>https://news.ycombinator.com/user?id=gc0119</uri>
         </author>
     </entry>
 </feed>
