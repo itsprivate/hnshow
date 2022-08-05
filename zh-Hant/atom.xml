@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-05T14:35:04.722Z</updated>
+    <updated>2022-08-05T15:03:00.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[retronews - 一個用於閱讀HN討論的TUI，就像Usenet小組一樣。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32357009</id>
+        <link href="https://news.ycombinator.com/item?id=32357009"/>
+        <updated>2022-08-05T14:54:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: retronews – a TUI for reading HN discussions like a Usenet group]]></summary>
+        <author>
+            <name>luke8086</name>
+            <uri>https://news.ycombinator.com/user?id=luke8086</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[節點緩存管理器的SQLite存儲
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>FPurchess</name>
             <uri>https://news.ycombinator.com/user?id=FPurchess</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Face IO - 網絡的面部認證
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32080245</id>
-        <link href="https://news.ycombinator.com/item?id=32080245"/>
-        <updated>2022-07-13T08:31:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Face IO – Facial Authentication for the Web]]></summary>
-        <author>
-            <name>symisc_devel</name>
-            <uri>https://news.ycombinator.com/user?id=symisc_devel</uri>
         </author>
     </entry>
 </feed>
