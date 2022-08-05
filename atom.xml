@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-05T22:47:42.298Z</updated>
+    <updated>2022-08-05T23:30:29.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[加密文本到表情符号
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32363007</id>
+        <link href="https://news.ycombinator.com/item?id=32363007"/>
+        <updated>2022-08-05T23:13:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Encrypt Text to Emojis]]></summary>
+        <author>
+            <name>daffinity</name>
+            <uri>https://news.ycombinator.com/user?id=daffinity</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helix-Vim - Helix的类似Vim的配置
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32362909</id>
+        <link href="https://news.ycombinator.com/item?id=32362909"/>
+        <updated>2022-08-05T23:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Helix-Vim – A Vim-like configuration for Helix]]></summary>
+        <author>
+            <name>bsnnkv</name>
+            <uri>https://news.ycombinator.com/user?id=bsnnkv</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sysmon，一个简单的DWM状态栏
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>moochee</name>
             <uri>https://news.ycombinator.com/user?id=moochee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哦，我的博客--一个马克顿的博客模板
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32083263</id>
-        <link href="https://news.ycombinator.com/item?id=32083263"/>
-        <updated>2022-07-13T14:29:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Oh My Blog – A Markdown Blog Template]]></summary>
-        <author>
-            <name>Swarup_Tripathy</name>
-            <uri>https://news.ycombinator.com/user?id=Swarup_Tripathy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于Pandoc的VS Code的Markdown预览
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32082876</id>
-        <link href="https://news.ycombinator.com/item?id=32082876"/>
-        <updated>2022-07-13T14:04:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pandoc-based Markdown preview for VS Code]]></summary>
-        <author>
-            <name>gpoore</name>
-            <uri>https://news.ycombinator.com/user?id=gpoore</uri>
         </author>
     </entry>
 </feed>
