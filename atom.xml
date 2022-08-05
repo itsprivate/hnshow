@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-05T22:28:52.544Z</updated>
+    <updated>2022-08-05T22:47:42.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Sysmon，一个简单的DWM状态栏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32362708</id>
+        <link href="https://news.ycombinator.com/item?id=32362708"/>
+        <updated>2022-08-05T22:28:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sysmon, a simple DWM status bar]]></summary>
+        <author>
+            <name>blmayer</name>
+            <uri>https://news.ycombinator.com/user?id=blmayer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ukrainian.fyi - 查找约200万个乌克兰语单词的重音位置
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gpoore</name>
             <uri>https://news.ycombinator.com/user?id=gpoore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JWST/Hubble深视场在可缩放/可转印地图界面上的比较
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32082809</id>
-        <link href="https://news.ycombinator.com/item?id=32082809"/>
-        <updated>2022-07-13T13:59:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A JWST/Hubble deepfield comparison on a zoomable/pannable map interface]]></summary>
-        <author>
-            <name>outputchannel</name>
-            <uri>https://news.ycombinator.com/user?id=outputchannel</uri>
         </author>
     </entry>
 </feed>

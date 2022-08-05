@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 05 Aug 2022 22:28:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 22:47:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Sysmon，一个简单的DWM状态栏
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32362708</link>
+            <guid>https://news.ycombinator.com/item?id=32362708</guid>
+            <pubDate>Fri, 05 Aug 2022 22:28:32 GMT</pubDate>
+            <description><![CDATA[Show HN: Sysmon, a simple DWM status bar]]></description>
+        </item>
         <item>
             <title><![CDATA[Ukrainian.fyi - 查找约200万个乌克兰语单词的重音位置
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32082876</guid>
             <pubDate>Wed, 13 Jul 2022 14:04:18 GMT</pubDate>
             <description><![CDATA[Show HN: Pandoc-based Markdown preview for VS Code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[JWST/Hubble深视场在可缩放/可转印地图界面上的比较
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32082809</link>
-            <guid>https://news.ycombinator.com/item?id=32082809</guid>
-            <pubDate>Wed, 13 Jul 2022 13:59:28 GMT</pubDate>
-            <description><![CDATA[Show HN: A JWST/Hubble deepfield comparison on a zoomable/pannable map interface]]></description>
         </item>
     </channel>
 </rss>
