@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-05T09:34:24.168Z</updated>
+    <updated>2022-08-05T10:34:36.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[带有API的公共公司标志数据库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32354093</id>
+        <link href="https://news.ycombinator.com/item?id=32354093"/>
+        <updated>2022-08-05T10:27:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Public Company Logo Database with an API]]></summary>
+        <author>
+            <name>janmo</name>
+            <uri>https://news.ycombinator.com/user?id=janmo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pdf-diff 可视化两个PDF之间的任何差异
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>xxyzz</name>
             <uri>https://news.ycombinator.com/user?id=xxyzz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[稳定的 扔掉你的新员工检查表
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32078436</id>
-        <link href="https://news.ycombinator.com/item?id=32078436"/>
-        <updated>2022-07-13T02:36:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Stable Throw away your new hire checklist]]></summary>
-        <author>
-            <name>hemantv</name>
-            <uri>https://news.ycombinator.com/user?id=hemantv</uri>
         </author>
     </entry>
 </feed>
