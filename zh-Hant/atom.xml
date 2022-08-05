@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-05T06:34:36.992Z</updated>
+    <updated>2022-08-05T08:53:27.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[來自很酷的科技品牌的免費可打印彩頁
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32353404</id>
+        <link href="https://news.ycombinator.com/item?id=32353404"/>
+        <updated>2022-08-05T08:49:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Free printable coloring pages from cool tech brands]]></summary>
+        <author>
+            <name>kattrisen</name>
+            <uri>https://news.ycombinator.com/user?id=kattrisen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weightless - 一個用於靜態網站的簡約通訊工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>perilunar</name>
             <uri>https://news.ycombinator.com/user?id=perilunar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博客上的CTF挑戰
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32076101</id>
-        <link href="https://news.ycombinator.com/item?id=32076101"/>
-        <updated>2022-07-12T21:47:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CTF challenge on a blog]]></summary>
-        <author>
-            <name>garritfra</name>
-            <uri>https://news.ycombinator.com/user?id=garritfra</uri>
         </author>
     </entry>
 </feed>
