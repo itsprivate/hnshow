@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-04T21:53:00.957Z</updated>
+    <updated>2022-08-05T02:34:53.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[您的GPS軌跡的3D地形圖
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32350601</id>
+        <link href="https://news.ycombinator.com/item?id=32350601"/>
+        <updated>2022-08-05T01:57:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: 3D Topography of Your GPS Track]]></summary>
+        <author>
+            <name>folli</name>
+            <uri>https://news.ycombinator.com/user?id=folli</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nomadic，一個節點Postgres遷移工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32350423</id>
+        <link href="https://news.ycombinator.com/item?id=32350423"/>
+        <updated>2022-08-05T01:32:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Nomadic, a node Postgres migration tool]]></summary>
+        <author>
+            <name>cellis</name>
+            <uri>https://news.ycombinator.com/user?id=cellis</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Score In URL，一個樂譜編輯器，把所有東西都儲存在URL中。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32350349</id>
+        <link href="https://news.ycombinator.com/item?id=32350349"/>
+        <updated>2022-08-05T01:19:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Score In URL, a sheet music editor that store everything in URL]]></summary>
+        <author>
+            <name>powersnail</name>
+            <uri>https://news.ycombinator.com/user?id=powersnail</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[閱讀夥伴--將科學方法應用於快速閱讀中
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32349997</id>
+        <link href="https://news.ycombinator.com/item?id=32349997"/>
+        <updated>2022-08-05T00:17:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Reading Buddy – applies scientific methodologies into speed reading]]></summary>
+        <author>
+            <name>stoic_citium</name>
+            <uri>https://news.ycombinator.com/user?id=stoic_citium</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港大學推出全球首個元數據校園
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>timmccarty</name>
             <uri>https://news.ycombinator.com/user?id=timmccarty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SimpleX Chat v3.0 - 具有iOS通知和e2e加密通話功能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32074799</id>
-        <link href="https://news.ycombinator.com/item?id=32074799"/>
-        <updated>2022-07-12T19:49:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: SimpleX Chat v3.0 – with iOS notifications and e2e encrypted calls]]></summary>
-        <author>
-            <name>epoberezkin</name>
-            <uri>https://news.ycombinator.com/user?id=epoberezkin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easy Docs - (HTML, JSON and Markdown) Doc Generator. 用於GitHub頁面
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32073733</id>
-        <link href="https://news.ycombinator.com/item?id=32073733"/>
-        <updated>2022-07-12T18:13:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Easy Docs – (HTML, JSON and Markdown) Doc Generator. For GitHub Pages]]></summary>
-        <author>
-            <name>usernamebias</name>
-            <uri>https://news.ycombinator.com/user?id=usernamebias</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MPL繪圖儀--出版質量的圖畫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32073552</id>
-        <link href="https://news.ycombinator.com/item?id=32073552"/>
-        <updated>2022-07-12T17:58:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: MPL Plotter – Publication Quality Plots]]></summary>
-        <author>
-            <name>antonlopezr</name>
-            <uri>https://news.ycombinator.com/user?id=antonlopezr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個簡單的用於鏈接音調指標的小網站
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32072057</id>
-        <link href="https://news.ycombinator.com/item?id=32072057"/>
-        <updated>2022-07-12T16:14:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A simple little site for linking to tone indicators]]></summary>
-        <author>
-            <name>TheresNoTime</name>
-            <uri>https://news.ycombinator.com/user?id=TheresNoTime</uri>
         </author>
     </entry>
 </feed>
