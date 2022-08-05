@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-05T19:02:41.613Z</updated>
+    <updated>2022-08-05T21:47:43.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最小的静态网站生成器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32362154</id>
+        <link href="https://news.ycombinator.com/item?id=32362154"/>
+        <updated>2022-08-05T21:25:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Minimal Static Site Generator]]></summary>
+        <author>
+            <name>not_skynet</name>
+            <uri>https://news.ycombinator.com/user?id=not_skynet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我创建了一个浏览器自动化工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>compumike</name>
             <uri>https://news.ycombinator.com/user?id=compumike</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用CD即服务的简单云部署
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32081749</id>
-        <link href="https://news.ycombinator.com/item?id=32081749"/>
-        <updated>2022-07-13T12:34:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Simple cloud deployments with CD as-a-Service]]></summary>
-        <author>
-            <name>techcofounder</name>
-            <uri>https://news.ycombinator.com/user?id=techcofounder</uri>
         </author>
     </entry>
 </feed>
