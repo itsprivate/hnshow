@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-05T17:24:34.691Z</updated>
+    <updated>2022-08-05T17:52:49.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[元宝球
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32359211</id>
+        <link href="https://news.ycombinator.com/item?id=32359211"/>
+        <updated>2022-08-05T17:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Metaballs]]></summary>
+        <author>
+            <name>atum47</name>
+            <uri>https://news.ycombinator.com/user?id=atum47</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一个文字游戏，将一个神秘的短语嵌入到病毒性的推文中
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sergethompson</name>
             <uri>https://news.ycombinator.com/user?id=sergethompson</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[流动 - 用于集中注意力的环境音乐生成器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32081338</id>
-        <link href="https://news.ycombinator.com/item?id=32081338"/>
-        <updated>2022-07-13T11:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Flowful – Ambient music generators for focus and concentration]]></summary>
-        <author>
-            <name>printscreen</name>
-            <uri>https://news.ycombinator.com/user?id=printscreen</uri>
         </author>
     </entry>
 </feed>
