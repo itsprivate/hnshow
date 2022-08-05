@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-05T21:47:43.557Z</updated>
+    <updated>2022-08-05T22:28:52.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Ukrainian.fyi - 查找約200萬個烏克蘭語單詞的重音位置
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32362629</id>
+        <link href="https://news.ycombinator.com/item?id=32362629"/>
+        <updated>2022-08-05T22:19:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Ukrainian.fyi – Find the location of stress in ~2m Ukrainian words]]></summary>
+        <author>
+            <name>opnac</name>
+            <uri>https://news.ycombinator.com/user?id=opnac</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[最小的靜態網站生成器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>outputchannel</name>
             <uri>https://news.ycombinator.com/user?id=outputchannel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通貨膨脹調整後的股票圖表--實際總回報率
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32081943</id>
-        <link href="https://news.ycombinator.com/item?id=32081943"/>
-        <updated>2022-07-13T12:55:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Inflation-adjusted stock charts – Total Real Returns]]></summary>
-        <author>
-            <name>compumike</name>
-            <uri>https://news.ycombinator.com/user?id=compumike</uri>
         </author>
     </entry>
 </feed>
