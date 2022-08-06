@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 06 Aug 2022 13:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 14:28:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我创建了一个个人广播平台，提供新闻、播客、音乐等服务。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32366642</link>
+            <guid>https://news.ycombinator.com/item?id=32366642</guid>
+            <pubDate>Sat, 06 Aug 2022 10:03:17 GMT</pubDate>
+            <description><![CDATA[Show HN: I Created a personal radio platform that delivers news, podcasts, music]]></description>
+        </item>
         <item>
             <title><![CDATA[由Rust + Apache Iceberg驱动的开源无服务器安全湖
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32087619</guid>
             <pubDate>Wed, 13 Jul 2022 19:25:12 GMT</pubDate>
             <description><![CDATA[Show HN: TreasuryViewer – Scraping TreasuryDirect.gov]]></description>
-        </item>
-        <item>
-            <title><![CDATA[分析2万个Web3职位，寻找高薪技能、公司和更多的工作
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32087071</link>
-            <guid>https://news.ycombinator.com/item?id=32087071</guid>
-            <pubDate>Wed, 13 Jul 2022 18:46:25 GMT</pubDate>
-            <description><![CDATA[Show HN: Analysis 20k Web3 jobs to find high paying Skills, Companies and more]]></description>
         </item>
     </channel>
 </rss>
