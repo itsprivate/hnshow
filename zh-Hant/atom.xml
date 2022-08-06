@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-06T03:40:59.690Z</updated>
+    <updated>2022-08-06T04:49:58.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在節點測試運行器中建立的斷言計劃
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32364857</id>
+        <link href="https://news.ycombinator.com/item?id=32364857"/>
+        <updated>2022-08-06T04:33:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Assert plan for build in node test runner]]></summary>
+        <author>
+            <name>turblety</name>
+            <uri>https://news.ycombinator.com/user?id=turblety</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[免費午餐Bash腳本；命令歷史管理器來優化它
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>alexray</name>
             <uri>https://news.ycombinator.com/user?id=alexray</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stdg - 通用二維圖形
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32085342</id>
-        <link href="https://news.ycombinator.com/item?id=32085342"/>
-        <updated>2022-07-13T16:51:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Stdg – Universal 2D Graphics]]></summary>
-        <author>
-            <name>calebwinston</name>
-            <uri>https://news.ycombinator.com/user?id=calebwinston</uri>
         </author>
     </entry>
 </feed>
