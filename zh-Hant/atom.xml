@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-06T02:28:29.628Z</updated>
+    <updated>2022-08-06T03:40:59.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[免費午餐Bash腳本；命令歷史管理器來優化它
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32364313</id>
+        <link href="https://news.ycombinator.com/item?id=32364313"/>
+        <updated>2022-08-06T02:41:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Free lunch Bash script; command history manager to optimize it]]></summary>
+        <author>
+            <name>mardiyah</name>
+            <uri>https://news.ycombinator.com/user?id=mardiyah</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[思邁特 - 將普通英語轉換為結構化數據
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32364193</id>
+        <link href="https://news.ycombinator.com/item?id=32364193"/>
+        <updated>2022-08-06T02:18:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sematic – Convert plain English to structured data]]></summary>
+        <author>
+            <name>brochington</name>
+            <uri>https://news.ycombinator.com/user?id=brochington</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小分隊--培養原子習慣的團體責任夥伴
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>calebwinston</name>
             <uri>https://news.ycombinator.com/user?id=calebwinston</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分析性數據庫的基準（Snowflake、Druid、Redshift）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32084571</id>
-        <link href="https://news.ycombinator.com/item?id=32084571"/>
-        <updated>2022-07-13T16:03:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A benchmark for analytical databases (Snowflake, Druid, Redshift)]]></summary>
-        <author>
-            <name>zX41ZdbW</name>
-            <uri>https://news.ycombinator.com/user?id=zX41ZdbW</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MemScroll - 簡單的程序內存可視化工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32084496</id>
-        <link href="https://news.ycombinator.com/item?id=32084496"/>
-        <updated>2022-07-13T15:57:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: MemScroll – Simple program memory visualizer]]></summary>
-        <author>
-            <name>cauefcr</name>
-            <uri>https://news.ycombinator.com/user?id=cauefcr</uri>
         </author>
     </entry>
 </feed>
