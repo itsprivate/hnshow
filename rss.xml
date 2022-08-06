@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 06 Aug 2022 15:50:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 16:42:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在家从CSV文件中打印邀请函的信封
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32369462</link>
+            <guid>https://news.ycombinator.com/item?id=32369462</guid>
+            <pubDate>Sat, 06 Aug 2022 16:28:08 GMT</pubDate>
+            <description><![CDATA[Show HN: Print invitation envelopes at home from a CSV file]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一个简单、高速的加密货币价格投注平台
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32369230</link>
+            <guid>https://news.ycombinator.com/item?id=32369230</guid>
+            <pubDate>Sat, 06 Aug 2022 16:03:59 GMT</pubDate>
+            <description><![CDATA[Show HN: A simple, high-speed price betting platform on crypto]]></description>
+        </item>
         <item>
             <title><![CDATA[开源的可观察性控制平面
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32089363</guid>
             <pubDate>Wed, 13 Jul 2022 22:09:41 GMT</pubDate>
             <description><![CDATA[Show HN: Japanese Kana Learning Flashcards]]></description>
-        </item>
-        <item>
-            <title><![CDATA[如何从GitHub Actions运行中获得对coredumps的访问权
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32089211</link>
-            <guid>https://news.ycombinator.com/item?id=32089211</guid>
-            <pubDate>Wed, 13 Jul 2022 21:51:49 GMT</pubDate>
-            <description><![CDATA[Show HN: How to get access to coredumps from GitHub Actions runs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BentoML进入1.0阶段--以更快的方式将您的模型运送到生产部门
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32088537</link>
-            <guid>https://news.ycombinator.com/item?id=32088537</guid>
-            <pubDate>Wed, 13 Jul 2022 20:46:18 GMT</pubDate>
-            <description><![CDATA[Show HN: BentoML goes 1.0 – A faster way to ship your models to production]]></description>
         </item>
     </channel>
 </rss>
