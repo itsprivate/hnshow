@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-06T12:50:25.642Z</updated>
+    <updated>2022-08-06T13:45:29.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[由Rust + Apache Iceberg驱动的开源无服务器安全湖
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32367923</id>
+        <link href="https://news.ycombinator.com/item?id=32367923"/>
+        <updated>2022-08-06T13:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-source serverless security lake powered by Rust + Apache Iceberg]]></summary>
+        <author>
+            <name>shaeqahmed</name>
+            <uri>https://news.ycombinator.com/user?id=shaeqahmed</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在Python代码中快速添加日志语句的VS Code扩展
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nikhil_twf</name>
             <uri>https://news.ycombinator.com/user?id=nikhil_twf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[头灯--跟着点点找虫子
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32087021</id>
-        <link href="https://news.ycombinator.com/item?id=32087021"/>
-        <updated>2022-07-13T18:42:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Headlamp – Follow the dots to find bugs]]></summary>
-        <author>
-            <name>vax425</name>
-            <uri>https://news.ycombinator.com/user?id=vax425</uri>
         </author>
     </entry>
 </feed>
