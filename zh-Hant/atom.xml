@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-06T11:25:40.667Z</updated>
+    <updated>2022-08-06T12:50:25.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Python代碼中快速添加日誌語句的VS Code擴展
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32367553</id>
+        <link href="https://news.ycombinator.com/item?id=32367553"/>
+        <updated>2022-08-06T12:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A VS Code extension to quickly add log statements in Python code]]></summary>
+        <author>
+            <name>nvinayvarma189</name>
+            <uri>https://news.ycombinator.com/user?id=nvinayvarma189</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[文本到ASCII藝術生成器（TAAG）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32367371</id>
+        <link href="https://news.ycombinator.com/item?id=32367371"/>
+        <updated>2022-08-06T12:06:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Text to ASCII Art Generator (TAAG)]]></summary>
+        <author>
+            <name>ivanjermakov</name>
+            <uri>https://news.ycombinator.com/user?id=ivanjermakov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[線程並行解壓和隨機訪問Gzip文件(Pragzip)
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>vax425</name>
             <uri>https://news.ycombinator.com/user?id=vax425</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工作時能感受到對方存在的Lofi咖啡館
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32086901</id>
-        <link href="https://news.ycombinator.com/item?id=32086901"/>
-        <updated>2022-07-13T18:33:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lofi cafe where you feel each other’s presence while working]]></summary>
-        <author>
-            <name>rickyyean</name>
-            <uri>https://news.ycombinator.com/user?id=rickyyean</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[錯誤信息遊戲--一個社會媒體研究工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32086528</id>
-        <link href="https://news.ycombinator.com/item?id=32086528"/>
-        <updated>2022-07-13T18:08:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The Misinformation Game – A social media research tool]]></summary>
-        <author>
-            <name>sothatsit</name>
-            <uri>https://news.ycombinator.com/user?id=sothatsit</uri>
         </author>
     </entry>
 </feed>

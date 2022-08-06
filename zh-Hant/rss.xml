@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 06 Aug 2022 11:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 12:50:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在Python代碼中快速添加日誌語句的VS Code擴展
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32367553</link>
+            <guid>https://news.ycombinator.com/item?id=32367553</guid>
+            <pubDate>Sat, 06 Aug 2022 12:40:00 GMT</pubDate>
+            <description><![CDATA[Show HN: A VS Code extension to quickly add log statements in Python code]]></description>
+        </item>
+        <item>
+            <title><![CDATA[文本到ASCII藝術生成器（TAAG）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32367371</link>
+            <guid>https://news.ycombinator.com/item?id=32367371</guid>
+            <pubDate>Sat, 06 Aug 2022 12:06:43 GMT</pubDate>
+            <description><![CDATA[Show HN: Text to ASCII Art Generator (TAAG)]]></description>
+        </item>
         <item>
             <title><![CDATA[線程並行解壓和隨機訪問Gzip文件(Pragzip)
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32087021</guid>
             <pubDate>Wed, 13 Jul 2022 18:42:50 GMT</pubDate>
             <description><![CDATA[Show HN: Headlamp – Follow the dots to find bugs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[工作時能感受到對方存在的Lofi咖啡館
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32086901</link>
-            <guid>https://news.ycombinator.com/item?id=32086901</guid>
-            <pubDate>Wed, 13 Jul 2022 18:33:29 GMT</pubDate>
-            <description><![CDATA[Show HN: Lofi cafe where you feel each other’s presence while working]]></description>
-        </item>
-        <item>
-            <title><![CDATA[錯誤信息遊戲--一個社會媒體研究工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32086528</link>
-            <guid>https://news.ycombinator.com/item?id=32086528</guid>
-            <pubDate>Wed, 13 Jul 2022 18:08:16 GMT</pubDate>
-            <description><![CDATA[Show HN: The Misinformation Game – A social media research tool]]></description>
         </item>
     </channel>
 </rss>
