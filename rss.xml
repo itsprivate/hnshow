@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 06 Aug 2022 04:49:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 11:25:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[线程并行解压和随机访问Gzip文件(Pragzip)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32366959</link>
+            <guid>https://news.ycombinator.com/item?id=32366959</guid>
+            <pubDate>Sat, 06 Aug 2022 11:02:12 GMT</pubDate>
+            <description><![CDATA[Show HN: Thread-Parallel Decompression and Random Access to Gzip Files (Pragzip)]]></description>
+        </item>
         <item>
             <title><![CDATA[在节点测试运行器中建立的断言计划
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32086528</guid>
             <pubDate>Wed, 13 Jul 2022 18:08:16 GMT</pubDate>
             <description><![CDATA[Show HN: The Misinformation Game – A social media research tool]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sweetfont - 按 "气质 "搜索字体
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32085893</link>
-            <guid>https://news.ycombinator.com/item?id=32085893</guid>
-            <pubDate>Wed, 13 Jul 2022 17:26:24 GMT</pubDate>
-            <description><![CDATA[Show HN: Sweetfont – Search for Fonts by ‘Vibe’]]></description>
         </item>
     </channel>
 </rss>
