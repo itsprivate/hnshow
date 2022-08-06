@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 06 Aug 2022 14:28:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 15:50:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[開源的可觀察性控制平面
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32368988</link>
+            <guid>https://news.ycombinator.com/item?id=32368988</guid>
+            <pubDate>Sat, 06 Aug 2022 15:34:07 GMT</pubDate>
+            <description><![CDATA[Show HN: Open-Source Observability Control Plane]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用GPT3從單行本的想法中生成投遞文件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32368931</link>
+            <guid>https://news.ycombinator.com/item?id=32368931</guid>
+            <pubDate>Sat, 06 Aug 2022 15:26:39 GMT</pubDate>
+            <description><![CDATA[Show HN: Generate pitch decks using GPT3 from 1-liner ideas]]></description>
+        </item>
         <item>
             <title><![CDATA[我創建了一個個人廣播平臺，提供新聞、播客、音樂等服務。
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32088537</guid>
             <pubDate>Wed, 13 Jul 2022 20:46:18 GMT</pubDate>
             <description><![CDATA[Show HN: BentoML goes 1.0 – A faster way to ship your models to production]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Qrscan - 使用系統攝像頭或給定的圖像掃描終端中的QR碼
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32088150</link>
-            <guid>https://news.ycombinator.com/item?id=32088150</guid>
-            <pubDate>Wed, 13 Jul 2022 20:09:52 GMT</pubDate>
-            <description><![CDATA[Show HN: Qrscan – Scan a QR code in terminal using system camera or given image]]></description>
-        </item>
-        <item>
-            <title><![CDATA[TreasuryViewer - 刮擦TreasuryDirect.gov
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32087619</link>
-            <guid>https://news.ycombinator.com/item?id=32087619</guid>
-            <pubDate>Wed, 13 Jul 2022 19:25:12 GMT</pubDate>
-            <description><![CDATA[Show HN: TreasuryViewer – Scraping TreasuryDirect.gov]]></description>
         </item>
     </channel>
 </rss>

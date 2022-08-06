@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-06T14:28:51.874Z</updated>
+    <updated>2022-08-06T15:50:47.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開源的可觀察性控制平面
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32368988</id>
+        <link href="https://news.ycombinator.com/item?id=32368988"/>
+        <updated>2022-08-06T15:34:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-Source Observability Control Plane]]></summary>
+        <author>
+            <name>edenfed</name>
+            <uri>https://news.ycombinator.com/user?id=edenfed</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用GPT3從單行本的想法中生成投遞文件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32368931</id>
+        <link href="https://news.ycombinator.com/item?id=32368931"/>
+        <updated>2022-08-06T15:26:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Generate pitch decks using GPT3 from 1-liner ideas]]></summary>
+        <author>
+            <name>diwank</name>
+            <uri>https://news.ycombinator.com/user?id=diwank</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我創建了一個個人廣播平臺，提供新聞、播客、音樂等服務。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>yubozhao</name>
             <uri>https://news.ycombinator.com/user?id=yubozhao</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qrscan - 使用系統攝像頭或給定的圖像掃描終端中的QR碼
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32088150</id>
-        <link href="https://news.ycombinator.com/item?id=32088150"/>
-        <updated>2022-07-13T20:09:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Qrscan – Scan a QR code in terminal using system camera or given image]]></summary>
-        <author>
-            <name>sayanarijit</name>
-            <uri>https://news.ycombinator.com/user?id=sayanarijit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TreasuryViewer - 刮擦TreasuryDirect.gov
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32087619</id>
-        <link href="https://news.ycombinator.com/item?id=32087619"/>
-        <updated>2022-07-13T19:25:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: TreasuryViewer – Scraping TreasuryDirect.gov]]></summary>
-        <author>
-            <name>marcelluscat</name>
-            <uri>https://news.ycombinator.com/user?id=marcelluscat</uri>
         </author>
     </entry>
 </feed>
