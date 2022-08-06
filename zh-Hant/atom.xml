@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-06T16:42:23.823Z</updated>
+    <updated>2022-08-06T18:34:41.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[菲爾哈特羅尼亞樂團
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32370336</id>
+        <link href="https://news.ycombinator.com/item?id=32370336"/>
+        <updated>2022-08-06T18:15:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Philhartronia Orchestra]]></summary>
+        <author>
+            <name>ohiovr</name>
+            <uri>https://news.ycombinator.com/user?id=ohiovr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JWST圖像幻燈片
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32370211</id>
+        <link href="https://news.ycombinator.com/item?id=32370211"/>
+        <updated>2022-08-06T18:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: JWST Image Slideshow]]></summary>
+        <author>
+            <name>kamiyo</name>
+            <uri>https://news.ycombinator.com/user?id=kamiyo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在家從CSV文件中打印邀請函的信封
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>upwardbound</name>
             <uri>https://news.ycombinator.com/user?id=upwardbound</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於計算機視覺和逆向渲染AI的Blender Python 3D模擬器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32091581</id>
-        <link href="https://news.ycombinator.com/item?id=32091581"/>
-        <updated>2022-07-14T03:17:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Blender Python 3D simulator for computer vision and inverse render AI]]></summary>
-        <author>
-            <name>legel</name>
-            <uri>https://news.ycombinator.com/user?id=legel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日語假名學習閃卡
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32089363</id>
-        <link href="https://news.ycombinator.com/item?id=32089363"/>
-        <updated>2022-07-13T22:09:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Japanese Kana Learning Flashcards]]></summary>
-        <author>
-            <name>ratchetclank</name>
-            <uri>https://news.ycombinator.com/user?id=ratchetclank</uri>
         </author>
     </entry>
 </feed>
