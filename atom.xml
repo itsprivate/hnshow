@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-06T20:49:26.752Z</updated>
+    <updated>2022-08-06T20:59:58.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用维基百科页面探索随机选择的书籍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32371477</id>
+        <link href="https://news.ycombinator.com/item?id=32371477"/>
+        <updated>2022-08-06T20:48:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Explore random selections of books with Wikipedia pages]]></summary>
+        <author>
+            <name>westcort</name>
+            <uri>https://news.ycombinator.com/user?id=westcort</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个HTML文件中的高斯-赛德尔求解器的可视化
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pkacprzak</name>
             <uri>https://news.ycombinator.com/user?id=pkacprzak</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[令人信服和可理解的语言沉浸式媒体的目录
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32095373</id>
-        <link href="https://news.ycombinator.com/item?id=32095373"/>
-        <updated>2022-07-14T12:49:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A catalog for compelling and comprehensible language immersion media]]></summary>
-        <author>
-            <name>pizza_pleb</name>
-            <uri>https://news.ycombinator.com/user?id=pizza_pleb</uri>
         </author>
     </entry>
 </feed>
