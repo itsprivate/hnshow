@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-06T20:59:58.649Z</updated>
+    <updated>2022-08-06T21:26:34.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個具有圖像和PDF生成功能的TailwindCSS遊樂場
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32371570</id>
+        <link href="https://news.ycombinator.com/item?id=32371570"/>
+        <updated>2022-08-06T21:03:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A TailwindCSS Playground with Image and PDF Generation]]></summary>
+        <author>
+            <name>Dolios</name>
+            <uri>https://news.ycombinator.com/user?id=Dolios</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用維基百科頁面探索隨機選擇的書籍
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>interleave</name>
             <uri>https://news.ycombinator.com/user?id=interleave</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[推特機器人從推文中分析國際象棋圖譜
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32095349</id>
-        <link href="https://news.ycombinator.com/item?id=32095349"/>
-        <updated>2022-07-14T12:47:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Twitter bot analyzes chess diagrams from tweets]]></summary>
-        <author>
-            <name>pkacprzak</name>
-            <uri>https://news.ycombinator.com/user?id=pkacprzak</uri>
         </author>
     </entry>
 </feed>

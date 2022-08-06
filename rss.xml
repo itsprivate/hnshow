@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 06 Aug 2022 20:59:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 21:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一个具有图像和PDF生成功能的TailwindCSS游乐场
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32371570</link>
+            <guid>https://news.ycombinator.com/item?id=32371570</guid>
+            <pubDate>Sat, 06 Aug 2022 21:03:05 GMT</pubDate>
+            <description><![CDATA[Show HN: A TailwindCSS Playground with Image and PDF Generation]]></description>
+        </item>
         <item>
             <title><![CDATA[用维基百科页面探索随机选择的书籍
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32095592</guid>
             <pubDate>Thu, 14 Jul 2022 13:09:10 GMT</pubDate>
             <description><![CDATA[Show HN: I built an app for when I talk too much in online meetings]]></description>
-        </item>
-        <item>
-            <title><![CDATA[推特机器人从推文中分析国际象棋图谱
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32095349</link>
-            <guid>https://news.ycombinator.com/item?id=32095349</guid>
-            <pubDate>Thu, 14 Jul 2022 12:47:14 GMT</pubDate>
-            <description><![CDATA[Show HN: Twitter bot analyzes chess diagrams from tweets]]></description>
         </item>
     </channel>
 </rss>
