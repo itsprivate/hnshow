@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-07T07:43:57.534Z</updated>
+    <updated>2022-08-07T08:32:16.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[众多维基中的一个
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32374872</id>
+        <link href="https://news.ycombinator.com/item?id=32374872"/>
+        <updated>2022-08-07T08:28:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Wiki Among Many]]></summary>
+        <author>
+            <name>martyalain</name>
+            <uri>https://news.ycombinator.com/user?id=martyalain</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YouTube的高级搜索
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rikroots</name>
             <uri>https://news.ycombinator.com/user?id=rikroots</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将工作从LinkedIn和Indeed保存到Sheet的Chrome扩展程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32099008</id>
-        <link href="https://news.ycombinator.com/item?id=32099008"/>
-        <updated>2022-07-14T17:27:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Chrome extension to save jobs from LinkedIn and Indeed to Sheets]]></summary>
-        <author>
-            <name>dandiferr</name>
-            <uri>https://news.ycombinator.com/user?id=dandiferr</uri>
         </author>
     </entry>
 </feed>
