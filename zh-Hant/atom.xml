@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-07T09:47:02.992Z</updated>
+    <updated>2022-08-07T10:33:37.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用於JSON:API服務器的類似ORM的客戶端
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32375291</id>
+        <link href="https://news.ycombinator.com/item?id=32375291"/>
+        <updated>2022-08-07T10:10:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ORM like client for JSON:API servers]]></summary>
+        <author>
+            <name>dpimonov</name>
+            <uri>https://news.ycombinator.com/user?id=dpimonov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[幫助你選擇最佳住宅方案的工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nibnalin</name>
             <uri>https://news.ycombinator.com/user?id=nibnalin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[做好崗位銷售開源電子商務多租戶SaaS
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32099329</id>
-        <link href="https://news.ycombinator.com/item?id=32099329"/>
-        <updated>2022-07-14T17:52:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Make Post Sell Open Source Ecommerce Multi-Tenant SaaS]]></summary>
-        <author>
-            <name>foxhop</name>
-            <uri>https://news.ycombinator.com/user?id=foxhop</uri>
         </author>
     </entry>
 </feed>
