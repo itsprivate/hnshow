@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 06 Aug 2022 21:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 02:37:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一個跨平臺的命令行音樂播放器，叫maestro
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32372782</link>
+            <guid>https://news.ycombinator.com/item?id=32372782</guid>
+            <pubDate>Sun, 07 Aug 2022 00:24:23 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a cross-platform command-line music player called maestro]]></description>
+        </item>
         <item>
             <title><![CDATA[一個具有圖像和PDF生成功能的TailwindCSS遊樂場
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32095910</guid>
             <pubDate>Thu, 14 Jul 2022 13:34:12 GMT</pubDate>
             <description><![CDATA[Show HN: Last Friday I sent 25 emails for music updates 1 week after release]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我為自己在網上會議中說得太多的時候做了一個應用程序
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32095592</link>
-            <guid>https://news.ycombinator.com/item?id=32095592</guid>
-            <pubDate>Thu, 14 Jul 2022 13:09:10 GMT</pubDate>
-            <description><![CDATA[Show HN: I built an app for when I talk too much in online meetings]]></description>
         </item>
     </channel>
 </rss>
