@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-07T04:49:03.992Z</updated>
+    <updated>2022-08-07T05:46:59.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[地下城與名片
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32374137</id>
+        <link href="https://news.ycombinator.com/item?id=32374137"/>
+        <updated>2022-08-07T05:31:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dungeons and Business Cards]]></summary>
+        <author>
+            <name>arispen</name>
+            <uri>https://news.ycombinator.com/user?id=arispen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cronit - 在線Cronjobs
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amin</name>
             <uri>https://news.ycombinator.com/user?id=amin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雲簡歷的挑戰
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32098161</id>
-        <link href="https://news.ycombinator.com/item?id=32098161"/>
-        <updated>2022-07-14T16:28:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The Cloud Resume Challenge]]></summary>
-        <author>
-            <name>forrestbrazeal</name>
-            <uri>https://news.ycombinator.com/user?id=forrestbrazeal</uri>
         </author>
     </entry>
 </feed>
