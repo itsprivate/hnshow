@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-07T06:56:40.890Z</updated>
+    <updated>2022-08-07T07:43:57.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[YouTube的高級搜索
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32374668</id>
+        <link href="https://news.ycombinator.com/item?id=32374668"/>
+        <updated>2022-08-07T07:38:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Advanced Search for YouTube]]></summary>
+        <author>
+            <name>nevernothing</name>
+            <uri>https://news.ycombinator.com/user?id=nevernothing</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[嘿，谷歌，今天是什麼日子？"
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dandiferr</name>
             <uri>https://news.ycombinator.com/user?id=dandiferr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ec2instances.info推出EC2和RDS的詳細頁面
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32098438</id>
-        <link href="https://news.ycombinator.com/item?id=32098438"/>
-        <updated>2022-07-14T16:46:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ec2instances.info Launches Detail Pages for EC2 and RDS]]></summary>
-        <author>
-            <name>StratusBen</name>
-            <uri>https://news.ycombinator.com/user?id=StratusBen</uri>
         </author>
     </entry>
 </feed>
