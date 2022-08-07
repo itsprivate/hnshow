@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-07T02:37:40.196Z</updated>
+    <updated>2022-08-07T03:44:06.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[避免通货膨胀和经济衰退的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32373560</id>
+        <link href="https://news.ycombinator.com/item?id=32373560"/>
+        <updated>2022-08-07T03:14:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tool to Avoid Inflation and Recessions]]></summary>
+        <author>
+            <name>dan_meiers</name>
+            <uri>https://news.ycombinator.com/user?id=dan_meiers</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为你的每周任务设定优先次序的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32373503</id>
+        <link href="https://news.ycombinator.com/item?id=32373503"/>
+        <updated>2022-08-07T03:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tool to set priorities for your weekly tasks]]></summary>
+        <author>
+            <name>thePrioritizer</name>
+            <uri>https://news.ycombinator.com/user?id=thePrioritizer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[帮助你选择适合你公司的最佳办公室方案的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32373500</id>
+        <link href="https://news.ycombinator.com/item?id=32373500"/>
+        <updated>2022-08-07T03:02:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tool to help you choose the best office option for your company]]></summary>
+        <author>
+            <name>thePrioritizer</name>
+            <uri>https://news.ycombinator.com/user?id=thePrioritizer</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metaballs (No GLSL)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32373498</id>
+        <link href="https://news.ycombinator.com/item?id=32373498"/>
+        <updated>2022-08-07T03:01:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Metaballs (No GLSL)]]></summary>
+        <author>
+            <name>atum47</name>
+            <uri>https://news.ycombinator.com/user?id=atum47</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一个跨平台的命令行音乐播放器，叫maestro
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>jart</name>
             <uri>https://news.ycombinator.com/user?id=jart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lexy - 带有自定义DSL的C++分析器组合器库
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32096697</id>
-        <link href="https://news.ycombinator.com/item?id=32096697"/>
-        <updated>2022-07-14T14:44:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lexy – C++ parser combinator library with custom DSL]]></summary>
-        <author>
-            <name>foonathan</name>
-            <uri>https://news.ycombinator.com/user?id=foonathan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于Google-Zanzibar的开源授权服务
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32096610</id>
-        <link href="https://news.ycombinator.com/item?id=32096610"/>
-        <updated>2022-07-14T14:38:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open-source authorization service based on Google-Zanzibar]]></summary>
-        <author>
-            <name>freddgn</name>
-            <uri>https://news.ycombinator.com/user?id=freddgn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[预览你的网站在Twitter上的样子
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32096031</id>
-        <link href="https://news.ycombinator.com/item?id=32096031"/>
-        <updated>2022-07-14T13:45:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Preview how your website looks like on Twitter]]></summary>
-        <author>
-            <name>bquaresma</name>
-            <uri>https://news.ycombinator.com/user?id=bquaresma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上周五我发了25封邮件，要求在发行后1周内更新音乐
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32095910</id>
-        <link href="https://news.ycombinator.com/item?id=32095910"/>
-        <updated>2022-07-14T13:34:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Last Friday I sent 25 emails for music updates 1 week after release]]></summary>
-        <author>
-            <name>difradev</name>
-            <uri>https://news.ycombinator.com/user?id=difradev</uri>
         </author>
     </entry>
 </feed>
