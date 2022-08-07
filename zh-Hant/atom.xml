@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-07T14:25:53.008Z</updated>
+    <updated>2022-08-07T14:46:08.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Fciv.net三維版重新設計
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32376537</id>
+        <link href="https://news.ycombinator.com/item?id=32376537"/>
+        <updated>2022-08-07T14:01:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fciv.net 3D Version Redesigned]]></summary>
+        <author>
+            <name>roschdal</name>
+            <uri>https://news.ycombinator.com/user?id=roschdal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大科技/VC的微型SaaS替代品
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>davmar</name>
             <uri>https://news.ycombinator.com/user?id=davmar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cargo-semver-checks，一個快速的CI友好的基於查詢的Rust semver linter。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32099667</id>
-        <link href="https://news.ycombinator.com/item?id=32099667"/>
-        <updated>2022-07-14T18:21:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cargo-semver-checks, a fast CI-friendly query-based Rust semver linter]]></summary>
-        <author>
-            <name>obi1kenobi</name>
-            <uri>https://news.ycombinator.com/user?id=obi1kenobi</uri>
         </author>
     </entry>
 </feed>
