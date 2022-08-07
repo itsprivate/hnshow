@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-07T13:49:23.369Z</updated>
+    <updated>2022-08-07T14:25:52.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大科技/VC的微型SaaS替代品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32376672</id>
+        <link href="https://news.ycombinator.com/item?id=32376672"/>
+        <updated>2022-08-07T14:19:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Micro-SaaS Alternatives to BigTech/VC]]></summary>
+        <author>
+            <name>raunometsa</name>
+            <uri>https://news.ycombinator.com/user?id=raunometsa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一种小型的、串联式的爱好编程语言。用C99实现
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32376669</id>
+        <link href="https://news.ycombinator.com/item?id=32376669"/>
+        <updated>2022-08-07T14:19:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A small, concatenative hobby programming language. Implemented in C99]]></summary>
+        <author>
+            <name>memorable</name>
+            <uri>https://news.ycombinator.com/user?id=memorable</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过三角测量的可操纵图像表示法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32376662</id>
+        <link href="https://news.ycombinator.com/item?id=32376662"/>
+        <updated>2022-08-07T14:18:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Manipulable Image Representation via Triangulation]]></summary>
+        <author>
+            <name>trigonoptician</name>
+            <uri>https://news.ycombinator.com/user?id=trigonoptician</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[图是一个日常逻辑谜题游戏
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>obi1kenobi</name>
             <uri>https://news.ycombinator.com/user?id=obi1kenobi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旧新闻--越不读越有味道的新闻
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32099618</id>
-        <link href="https://news.ycombinator.com/item?id=32099618"/>
-        <updated>2022-07-14T18:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Old News – News that gets better the *less* you read it]]></summary>
-        <author>
-            <name>mcrowe</name>
-            <uri>https://news.ycombinator.com/user?id=mcrowe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蓬勃发展--表里如一的音乐展示台
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32099426</id>
-        <link href="https://news.ycombinator.com/item?id=32099426"/>
-        <updated>2022-07-14T18:01:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Flourish – An Epicyclic Music Visualiser]]></summary>
-        <author>
-            <name>sgentle</name>
-            <uri>https://news.ycombinator.com/user?id=sgentle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bytewax - 及时数据流的Python有状态流处理
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32099382</id>
-        <link href="https://news.ycombinator.com/item?id=32099382"/>
-        <updated>2022-07-14T17:57:33.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bytewax – Python Stateful Stream Processing on Timely Dataflow]]></summary>
-        <author>
-            <name>amath</name>
-            <uri>https://news.ycombinator.com/user?id=amath</uri>
         </author>
     </entry>
 </feed>

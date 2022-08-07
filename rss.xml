@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 07 Aug 2022 13:49:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 14:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[大科技/VC的微型SaaS替代品
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32376672</link>
+            <guid>https://news.ycombinator.com/item?id=32376672</guid>
+            <pubDate>Sun, 07 Aug 2022 14:19:41 GMT</pubDate>
+            <description><![CDATA[Show HN: Micro-SaaS Alternatives to BigTech/VC]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一种小型的、串联式的爱好编程语言。用C99实现
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32376669</link>
+            <guid>https://news.ycombinator.com/item?id=32376669</guid>
+            <pubDate>Sun, 07 Aug 2022 14:19:17 GMT</pubDate>
+            <description><![CDATA[Show HN: A small, concatenative hobby programming language. Implemented in C99]]></description>
+        </item>
+        <item>
+            <title><![CDATA[通过三角测量的可操纵图像表示法
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32376662</link>
+            <guid>https://news.ycombinator.com/item?id=32376662</guid>
+            <pubDate>Sun, 07 Aug 2022 14:18:27 GMT</pubDate>
+            <description><![CDATA[Show HN: Manipulable Image Representation via Triangulation]]></description>
+        </item>
         <item>
             <title><![CDATA[图是一个日常逻辑谜题游戏
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32099667</guid>
             <pubDate>Thu, 14 Jul 2022 18:21:07 GMT</pubDate>
             <description><![CDATA[Show HN: Cargo-semver-checks, a fast CI-friendly query-based Rust semver linter]]></description>
-        </item>
-        <item>
-            <title><![CDATA[旧新闻--越不读越有味道的新闻
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32099618</link>
-            <guid>https://news.ycombinator.com/item?id=32099618</guid>
-            <pubDate>Thu, 14 Jul 2022 18:18:00 GMT</pubDate>
-            <description><![CDATA[Show HN: Old News – News that gets better the *less* you read it]]></description>
-        </item>
-        <item>
-            <title><![CDATA[蓬勃发展--表里如一的音乐展示台
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32099426</link>
-            <guid>https://news.ycombinator.com/item?id=32099426</guid>
-            <pubDate>Thu, 14 Jul 2022 18:01:37 GMT</pubDate>
-            <description><![CDATA[Show HN: Flourish – An Epicyclic Music Visualiser]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bytewax - 及时数据流的Python有状态流处理
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32099382</link>
-            <guid>https://news.ycombinator.com/item?id=32099382</guid>
-            <pubDate>Thu, 14 Jul 2022 17:57:33 GMT</pubDate>
-            <description><![CDATA[Show HN: Bytewax – Python Stateful Stream Processing on Timely Dataflow]]></description>
         </item>
     </channel>
 </rss>
