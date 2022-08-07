@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-07T05:46:59.495Z</updated>
+    <updated>2022-08-07T06:56:40.836Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[嘿，谷歌，今天是什么日子？"
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32374409</id>
+        <link href="https://news.ycombinator.com/item?id=32374409"/>
+        <updated>2022-08-07T06:43:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hey Google, what day is today?”]]></summary>
+        <author>
+            <name>SPDurkee</name>
+            <uri>https://news.ycombinator.com/user?id=SPDurkee</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地下城与名片
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>StratusBen</name>
             <uri>https://news.ycombinator.com/user?id=StratusBen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一个小小的平台，在那里你可以说任何你想说的话
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32098203</id>
-        <link href="https://news.ycombinator.com/item?id=32098203"/>
-        <updated>2022-07-14T16:31:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a tiny platform where you can say anything you want]]></summary>
-        <author>
-            <name>amin</name>
-            <uri>https://news.ycombinator.com/user?id=amin</uri>
         </author>
     </entry>
 </feed>
