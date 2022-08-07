@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-07T03:44:06.329Z</updated>
+    <updated>2022-08-07T04:15:19.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[卡通鏡頭--將臉部圖像轉換成卡通風格
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32373843</id>
+        <link href="https://news.ycombinator.com/item?id=32373843"/>
+        <updated>2022-08-07T04:11:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Toon Lens – transform face images into cartoon style]]></summary>
+        <author>
+            <name>kennyhitcher</name>
+            <uri>https://news.ycombinator.com/user?id=kennyhitcher</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[避免通貨膨脹和經濟衰退的工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>toricalea</name>
             <uri>https://news.ycombinator.com/user?id=toricalea</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[將OpenBSD Pledge()移植到Linux上
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32096801</id>
-        <link href="https://news.ycombinator.com/item?id=32096801"/>
-        <updated>2022-07-14T14:52:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Porting OpenBSD Pledge() to Linux]]></summary>
-        <author>
-            <name>jart</name>
-            <uri>https://news.ycombinator.com/user?id=jart</uri>
         </author>
     </entry>
 </feed>
