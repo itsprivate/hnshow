@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-07T19:25:04.499Z</updated>
+    <updated>2022-08-07T21:24:58.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[提取圖像和二維碼中的文本
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32379826</id>
+        <link href="https://news.ycombinator.com/item?id=32379826"/>
+        <updated>2022-08-07T20:58:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Extract text in images and QR codes]]></summary>
+        <author>
+            <name>onmyway133</name>
+            <uri>https://news.ycombinator.com/user?id=onmyway133</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[根據API自動填充PDF模板
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jajoosam</name>
             <uri>https://news.ycombinator.com/user?id=jajoosam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[淘寶網
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32104656</id>
-        <link href="https://news.ycombinator.com/item?id=32104656"/>
-        <updated>2022-07-15T04:37:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GitHop]]></summary>
-        <author>
-            <name>Sujeto</name>
-            <uri>https://news.ycombinator.com/user?id=Sujeto</uri>
         </author>
     </entry>
 </feed>
