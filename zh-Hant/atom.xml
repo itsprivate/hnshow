@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-07T16:40:49.861Z</updated>
+    <updated>2022-08-07T18:06:43.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Apprise v1.0.0 - 一個輕量級的一體化通知解決方案
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32377826</id>
+        <link href="https://news.ycombinator.com/item?id=32377826"/>
+        <updated>2022-08-07T16:51:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Apprise v1.0.0 – A lightweight all-in-one notification solution]]></summary>
+        <author>
+            <name>l2g</name>
+            <uri>https://news.ycombinator.com/user?id=l2g</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript中通用類型的管道函數
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>memorable</name>
             <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[送鳥人 - 每週一次在您的收件箱中發送Twitter書籤
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32101657</id>
-        <link href="https://news.ycombinator.com/item?id=32101657"/>
-        <updated>2022-07-14T21:27:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Birdfeeder - Twitter bookmarks in your inbox, once a week]]></summary>
-        <author>
-            <name>dewey</name>
-            <uri>https://news.ycombinator.com/user?id=dewey</uri>
         </author>
     </entry>
 </feed>
