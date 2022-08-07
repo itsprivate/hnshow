@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-07T22:29:12.408Z</updated>
+    <updated>2022-08-07T23:29:57.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用THREEJS着色器实现实时光谱图的3D可视化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32380797</id>
+        <link href="https://news.ycombinator.com/item?id=32380797"/>
+        <updated>2022-08-07T23:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Realtime Spectrogram 3D visualization with THREEJS Shaders]]></summary>
+        <author>
+            <name>yzdbgd</name>
+            <uri>https://news.ycombinator.com/user?id=yzdbgd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vlly - 一个简单的API来实现强大的3D/VR/AR交付
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mgunyho</name>
             <uri>https://news.ycombinator.com/user?id=mgunyho</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[伪装成羔羊的数据窃贼
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32105774</id>
-        <link href="https://news.ycombinator.com/item?id=32105774"/>
-        <updated>2022-07-15T07:49:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A data thief in the guise of a lamb]]></summary>
-        <author>
-            <name>itsJovierose</name>
-            <uri>https://news.ycombinator.com/user?id=itsJovierose</uri>
         </author>
     </entry>
 </feed>
