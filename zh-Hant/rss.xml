@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 07 Aug 2022 10:33:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 13:49:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[圖是一個日常邏輯謎題遊戲
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32376154</link>
+            <guid>https://news.ycombinator.com/item?id=32376154</guid>
+            <pubDate>Sun, 07 Aug 2022 13:01:29 GMT</pubDate>
+            <description><![CDATA[Show HN: Figure is a daily logic puzzle game]]></description>
+        </item>
         <item>
             <title><![CDATA[用於JSON:API服務器的類似ORM的客戶端
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32099382</guid>
             <pubDate>Thu, 14 Jul 2022 17:57:33 GMT</pubDate>
             <description><![CDATA[Show HN: Bytewax – Python Stateful Stream Processing on Timely Dataflow]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Zordle - Wordle，但有零知識證明
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32099342</link>
-            <guid>https://news.ycombinator.com/item?id=32099342</guid>
-            <pubDate>Thu, 14 Jul 2022 17:54:08 GMT</pubDate>
-            <description><![CDATA[Show HN: Zordle – Wordle but with zero-knowledge proofs]]></description>
         </item>
     </channel>
 </rss>

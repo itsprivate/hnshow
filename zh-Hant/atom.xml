@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-07T10:33:37.697Z</updated>
+    <updated>2022-08-07T13:49:23.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[圖是一個日常邏輯謎題遊戲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32376154</id>
+        <link href="https://news.ycombinator.com/item?id=32376154"/>
+        <updated>2022-08-07T13:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Figure is a daily logic puzzle game]]></summary>
+        <author>
+            <name>sumul</name>
+            <uri>https://news.ycombinator.com/user?id=sumul</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於JSON:API服務器的類似ORM的客戶端
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amath</name>
             <uri>https://news.ycombinator.com/user?id=amath</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zordle - Wordle，但有零知識證明
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32099342</id>
-        <link href="https://news.ycombinator.com/item?id=32099342"/>
-        <updated>2022-07-14T17:54:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Zordle – Wordle but with zero-knowledge proofs]]></summary>
-        <author>
-            <name>nibnalin</name>
-            <uri>https://news.ycombinator.com/user?id=nibnalin</uri>
         </author>
     </entry>
 </feed>
