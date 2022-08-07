@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-07T16:03:01.282Z</updated>
+    <updated>2022-08-07T16:40:49.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[TypeScript中通用类型的管道函数
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32377646</id>
+        <link href="https://news.ycombinator.com/item?id=32377646"/>
+        <updated>2022-08-07T16:24:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A generically typed pipe function in TypeScript]]></summary>
+        <author>
+            <name>upzylon</name>
+            <uri>https://news.ycombinator.com/user?id=upzylon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Better-SQL - 从GraphQL和EdgeDB等语法生成sql查询。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dewey</name>
             <uri>https://news.ycombinator.com/user?id=dewey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tweedle - 一个针对Twitter上的个人资料和推文的Wordle游戏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32101638</id>
-        <link href="https://news.ycombinator.com/item?id=32101638"/>
-        <updated>2022-07-14T21:24:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tweedle – A Wordle game for profiles and tweets on Twitter]]></summary>
-        <author>
-            <name>cgrunewald</name>
-            <uri>https://news.ycombinator.com/user?id=cgrunewald</uri>
         </author>
     </entry>
 </feed>
