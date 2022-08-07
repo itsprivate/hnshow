@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-07T15:33:40.127Z</updated>
+    <updated>2022-08-07T16:03:01.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Better-SQL - 从GraphQL和EdgeDB等语法生成sql查询。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32377419</id>
+        <link href="https://news.ycombinator.com/item?id=32377419"/>
+        <updated>2022-08-07T15:56:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Better-SQL - Generate sql query from syntax like GraphQL and EdgeDB]]></summary>
+        <author>
+            <name>aabbcc1241</name>
+            <uri>https://news.ycombinator.com/user?id=aabbcc1241</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻松浏览来自阿尔及利亚的美丽风景
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32377359</id>
+        <link href="https://news.ycombinator.com/item?id=32377359"/>
+        <updated>2022-08-07T15:48:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Easily browse beautiful landscapes from Algeria]]></summary>
+        <author>
+            <name>nassimsoftware</name>
+            <uri>https://news.ycombinator.com/user?id=nassimsoftware</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Mamba来管理AWS Lambda上的R依赖项
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>cgrunewald</name>
             <uri>https://news.ycombinator.com/user?id=cgrunewald</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superlines - 虚拟谷歌广告营销人员
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32100853</id>
-        <link href="https://news.ycombinator.com/item?id=32100853"/>
-        <updated>2022-07-14T20:05:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Superlines – virtual Google Ads marketer]]></summary>
-        <author>
-            <name>ihmissuti</name>
-            <uri>https://news.ycombinator.com/user?id=ihmissuti</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个美国进化模拟器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32100487</id>
-        <link href="https://news.ycombinator.com/item?id=32100487"/>
-        <updated>2022-07-14T19:27:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A US Evolution Simulator]]></summary>
-        <author>
-            <name>ag8</name>
-            <uri>https://news.ycombinator.com/user?id=ag8</uri>
         </author>
     </entry>
 </feed>
