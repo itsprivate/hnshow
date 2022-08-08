@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-08T10:52:14.500Z</updated>
+    <updated>2022-08-08T11:45:19.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[精心策劃的數百個招聘網站列表
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32380009</id>
+        <link href="https://news.ycombinator.com/item?id=32380009"/>
+        <updated>2022-08-07T21:18:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A curated list of hundreds of job boards]]></summary>
+        <author>
+            <name>rrmdp</name>
+            <uri>https://news.ycombinator.com/user?id=rrmdp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Splink 3 - 規模化的多後端模糊記錄鏈接（FOSS/Python）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>caldarons</name>
             <uri>https://news.ycombinator.com/user?id=caldarons</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[觀念文件的會員管理
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32108105</id>
-        <link href="https://news.ycombinator.com/item?id=32108105"/>
-        <updated>2022-07-15T13:43:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Membership Management for Notion Docs]]></summary>
-        <author>
-            <name>BruceHN</name>
-            <uri>https://news.ycombinator.com/user?id=BruceHN</uri>
         </author>
     </entry>
 </feed>
