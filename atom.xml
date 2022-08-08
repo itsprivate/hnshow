@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-08T21:59:50.407Z</updated>
+    <updated>2022-08-08T23:49:01.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一个为软件工程师寻找工作的网站
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32392088</id>
+        <link href="https://news.ycombinator.com/item?id=32392088"/>
+        <updated>2022-08-08T22:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A website for software engineers to find jobs]]></summary>
+        <author>
+            <name>arch8</name>
+            <uri>https://news.ycombinator.com/user?id=arch8</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的未来是如此可怕，我必须戴上墨镜
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pseudopuppet</name>
             <uri>https://news.ycombinator.com/user?id=pseudopuppet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由WebAssembly提供的Text-Diff
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32118904</id>
-        <link href="https://news.ycombinator.com/item?id=32118904"/>
-        <updated>2022-07-16T15:12:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Text-Diff Powered by WebAssembly]]></summary>
-        <author>
-            <name>tcper</name>
-            <uri>https://news.ycombinator.com/user?id=tcper</uri>
         </author>
     </entry>
 </feed>
