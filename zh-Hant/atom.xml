@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-08T11:45:19.252Z</updated>
+    <updated>2022-08-08T11:59:25.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[復古風格的教育視頻遊戲(數學)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32384444</id>
+        <link href="https://news.ycombinator.com/item?id=32384444"/>
+        <updated>2022-08-08T11:54:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Retro style educational video game (maths)]]></summary>
+        <author>
+            <name>havercosine</name>
+            <uri>https://news.ycombinator.com/user?id=havercosine</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[精心策劃的數百個招聘網站列表
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kkajla</name>
             <uri>https://news.ycombinator.com/user?id=kkajla</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的第一個流光溢彩的應用程序可以分析WhatsApp聊天記錄
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32108157</id>
-        <link href="https://news.ycombinator.com/item?id=32108157"/>
-        <updated>2022-07-15T13:48:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: My First Streamlit App Can Analyze WhatsApp Chats]]></summary>
-        <author>
-            <name>caldarons</name>
-            <uri>https://news.ycombinator.com/user?id=caldarons</uri>
         </author>
     </entry>
 </feed>
