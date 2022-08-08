@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-08T06:38:31.576Z</updated>
+    <updated>2022-08-08T08:39:27.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Instagram搜刮, 无证书, Node.js (NPM) 或 PHP
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32383290</id>
+        <link href="https://news.ycombinator.com/item?id=32383290"/>
+        <updated>2022-08-08T08:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Instagram Scraping, No Credentials, Node.js (NPM) or PHP]]></summary>
+        <author>
+            <name>orsifrancesco</name>
+            <uri>https://news.ycombinator.com/user?id=orsifrancesco</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Altilunium Darkhall v2 - 匿名聊天室
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sayanarijit</name>
             <uri>https://news.ycombinator.com/user?id=sayanarijit</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用kodyfire-CLI从HTML模板生成PDF文档
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32107270</id>
-        <link href="https://news.ycombinator.com/item?id=32107270"/>
-        <updated>2022-07-15T12:11:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Generate PDF docs from HTML templates using kodyfire-CLI]]></summary>
-        <author>
-            <name>noqta</name>
-            <uri>https://news.ycombinator.com/user?id=noqta</uri>
         </author>
     </entry>
 </feed>
