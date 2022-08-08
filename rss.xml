@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 08 Aug 2022 14:36:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 14:48:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[SaveSlack - 从你的Slack社区创建可搜索的知识库
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32385856</link>
+            <guid>https://news.ycombinator.com/item?id=32385856</guid>
+            <pubDate>Mon, 08 Aug 2022 14:32:20 GMT</pubDate>
+            <description><![CDATA[Show HN: SaveSlack – create searchable knowledgebase from your Slack community]]></description>
+        </item>
         <item>
             <title><![CDATA[用Tailrender将TailwindCSS转换为图像和PDF文件
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32112553</guid>
             <pubDate>Fri, 15 Jul 2022 20:39:35 GMT</pubDate>
             <description><![CDATA[Show HN: I made a site to collect every HN Mod]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Agit CMS - 一个基于Hugo/Jekyll的桌面无头CMS。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32111822</link>
-            <guid>https://news.ycombinator.com/item?id=32111822</guid>
-            <pubDate>Fri, 15 Jul 2022 19:22:39 GMT</pubDate>
-            <description><![CDATA[Show HN: Agit CMS – A desktop based headless CMS for Hugo/Jekyll]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-08T14:36:27.700Z</updated>
+    <updated>2022-08-08T14:48:54.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SaveSlack - 從你的Slack社區創建可搜索的知識庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32385856</id>
+        <link href="https://news.ycombinator.com/item?id=32385856"/>
+        <updated>2022-08-08T14:32:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SaveSlack – create searchable knowledgebase from your Slack community]]></summary>
+        <author>
+            <name>sixhobbits</name>
+            <uri>https://news.ycombinator.com/user?id=sixhobbits</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Tailrender將TailwindCSS轉換為圖像和PDF文件
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jarrenae</name>
             <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agit CMS - 一個基於Hugo/Jekyll的桌面無頭CMS。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32111822</id>
-        <link href="https://news.ycombinator.com/item?id=32111822"/>
-        <updated>2022-07-15T19:22:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Agit CMS – A desktop based headless CMS for Hugo/Jekyll]]></summary>
-        <author>
-            <name>0xsuk</name>
-            <uri>https://news.ycombinator.com/user?id=0xsuk</uri>
         </author>
     </entry>
 </feed>
