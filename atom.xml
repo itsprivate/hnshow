@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-08T15:00:44.516Z</updated>
+    <updated>2022-08-08T15:38:31.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[工作空间 - 来自创意人士的工作空间集合
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32386226</id>
+        <link href="https://news.ycombinator.com/item?id=32386226"/>
+        <updated>2022-08-08T14:58:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Workspaces – A collection of workspaces from creative individuals]]></summary>
+        <author>
+            <name>ryangilbert</name>
+            <uri>https://news.ycombinator.com/user?id=ryangilbert</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[约1.2KLOC的静态博客生成器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>theden</name>
             <uri>https://news.ycombinator.com/user?id=theden</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于Thompson算法的Regex-to-Golang编译器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32112616</id>
-        <link href="https://news.ycombinator.com/item?id=32112616"/>
-        <updated>2022-07-15T20:45:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Regex-to-Golang compiler based on Thompson's algorithm]]></summary>
-        <author>
-            <name>thegenius2000</name>
-            <uri>https://news.ycombinator.com/user?id=thegenius2000</uri>
         </author>
     </entry>
 </feed>
