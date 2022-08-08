@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-08T20:34:55.426Z</updated>
+    <updated>2022-08-08T21:48:08.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[倒带4，一个为书签囤积者准备的Chrome扩展程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32391377</id>
+        <link href="https://news.ycombinator.com/item?id=32391377"/>
+        <updated>2022-08-08T21:38:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Rewind 4, a Chrome extension for bookmark hoarders]]></summary>
+        <author>
+            <name>bouiboui</name>
+            <uri>https://news.ycombinator.com/user?id=bouiboui</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用THREEJS着色器实现3D频谱图的实时可视化
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>justinluther</name>
             <uri>https://news.ycombinator.com/user?id=justinluther</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[变得更快乐的初学者指南》（The Beginner's Guide to be a little bit Happier）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32118779</id>
-        <link href="https://news.ycombinator.com/item?id=32118779"/>
-        <updated>2022-07-16T14:59:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The Beginner's Guide to being a little bit Happier]]></summary>
-        <author>
-            <name>SuDa2103</name>
-            <uri>https://news.ycombinator.com/user?id=SuDa2103</uri>
         </author>
     </entry>
 </feed>
