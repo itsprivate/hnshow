@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-08T18:37:45.152Z</updated>
+    <updated>2022-08-08T19:46:20.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[帶有寫作助手的ATS友好型簡歷製作工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32389831</id>
+        <link href="https://news.ycombinator.com/item?id=32389831"/>
+        <updated>2022-08-08T19:23:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ATS-Friendly Resume Maker with Writing Assistant]]></summary>
+        <author>
+            <name>fer_momento</name>
+            <uri>https://news.ycombinator.com/user?id=fer_momento</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的創業公司在沒有時間做營銷的情況下發展到100.000名訪客/m
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32389813</id>
+        <link href="https://news.ycombinator.com/item?id=32389813"/>
+        <updated>2022-08-08T19:21:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I grew my startup to 100.000 visitors /m with no time for marketing]]></summary>
+        <author>
+            <name>fer_momento</name>
+            <uri>https://news.ycombinator.com/user?id=fer_momento</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[腳步--替代Torch.save(params, "weightsTues12noaug.tch")。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>andrewnc</name>
             <uri>https://news.ycombinator.com/user?id=andrewnc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解析用戶輸入的5kb小函數
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32118523</id>
-        <link href="https://news.ycombinator.com/item?id=32118523"/>
-        <updated>2022-07-16T14:32:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tiny 5kb function who parse user input]]></summary>
-        <author>
-            <name>Luctst</name>
-            <uri>https://news.ycombinator.com/user?id=Luctst</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[威廉姆林斯服務器邀請函
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32118403</id>
-        <link href="https://news.ycombinator.com/item?id=32118403"/>
-        <updated>2022-07-16T14:21:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Minecraft Server Invites]]></summary>
-        <author>
-            <name>gmemstr</name>
-            <uri>https://news.ycombinator.com/user?id=gmemstr</uri>
         </author>
     </entry>
 </feed>
