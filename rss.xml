@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 08 Aug 2022 08:39:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 09:30:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一个应用程序来跟踪与朋友的习惯--在飞机上的24小时内
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32383596</link>
+            <guid>https://news.ycombinator.com/item?id=32383596</guid>
+            <pubDate>Mon, 08 Aug 2022 09:08:40 GMT</pubDate>
+            <description><![CDATA[Show HN: I made an app to track habits with friends–in 24 hours on a plane]]></description>
+        </item>
         <item>
             <title><![CDATA[Instagram搜刮, 无证书, Node.js (NPM) 或 PHP
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32107586</guid>
             <pubDate>Fri, 15 Jul 2022 12:51:27 GMT</pubDate>
             <description><![CDATA[Show HN: Chrome extension for reviewing news articles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Qrscan - 外壳和相机 = 命令行二维码扫描器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32107532</link>
-            <guid>https://news.ycombinator.com/item?id=32107532</guid>
-            <pubDate>Fri, 15 Jul 2022 12:45:10 GMT</pubDate>
-            <description><![CDATA[Show HN: Qrscan – Shell and Camera = Commandline QR Code Scanner]]></description>
         </item>
     </channel>
 </rss>
