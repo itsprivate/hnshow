@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-08T17:47:30.618Z</updated>
+    <updated>2022-08-08T17:59:56.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用漢密爾頓創建數據流的好處
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32388653</id>
+        <link href="https://news.ycombinator.com/item?id=32388653"/>
+        <updated>2022-08-08T17:45:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The perks of creating dataflows with Hamilton]]></summary>
+        <author>
+            <name>elijahbenizzy</name>
+            <uri>https://news.ycombinator.com/user?id=elijahbenizzy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reciped.io解決晚餐吃什麼的問題？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nullfish</name>
             <uri>https://news.ycombinator.com/user?id=nullfish</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個標籤組 - 一個比onetab更好的替代品
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32118171</id>
-        <link href="https://news.ycombinator.com/item?id=32118171"/>
-        <updated>2022-07-16T14:01:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: One Tab Group – A better alternative to the onetab]]></summary>
-        <author>
-            <name>malanore</name>
-            <uri>https://news.ycombinator.com/user?id=malanore</uri>
         </author>
     </entry>
 </feed>
