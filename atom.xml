@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-08T17:59:56.602Z</updated>
+    <updated>2022-08-08T18:37:45.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[脚步--替代Torch.save(params, "weightsTues12noaug.tch")。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32389108</id>
+        <link href="https://news.ycombinator.com/item?id=32389108"/>
+        <updated>2022-08-08T18:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Footsteps – alternative to torch.save(params, “weightsTues12noaug.tch”)]]></summary>
+        <author>
+            <name>QuadmasterXLII</name>
+            <uri>https://news.ycombinator.com/user?id=QuadmasterXLII</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用汉密尔顿创建数据流的好处
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gmemstr</name>
             <uri>https://news.ycombinator.com/user?id=gmemstr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于桌面角色扮演游戏的3D骰子
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32118259</id>
-        <link href="https://news.ycombinator.com/item?id=32118259"/>
-        <updated>2022-07-16T14:07:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: 3D dice for tabletop roleplaying games]]></summary>
-        <author>
-            <name>nullfish</name>
-            <uri>https://news.ycombinator.com/user?id=nullfish</uri>
         </author>
     </entry>
 </feed>

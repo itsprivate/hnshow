@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 08 Aug 2022 17:59:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 18:37:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[脚步--替代Torch.save(params, "weightsTues12noaug.tch")。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32389108</link>
+            <guid>https://news.ycombinator.com/item?id=32389108</guid>
+            <pubDate>Mon, 08 Aug 2022 18:25:00 GMT</pubDate>
+            <description><![CDATA[Show HN: Footsteps – alternative to torch.save(params, “weightsTues12noaug.tch”)]]></description>
+        </item>
         <item>
             <title><![CDATA[用汉密尔顿创建数据流的好处
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32118403</guid>
             <pubDate>Sat, 16 Jul 2022 14:21:03 GMT</pubDate>
             <description><![CDATA[Show HN: Minecraft Server Invites]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用于桌面角色扮演游戏的3D骰子
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32118259</link>
-            <guid>https://news.ycombinator.com/item?id=32118259</guid>
-            <pubDate>Sat, 16 Jul 2022 14:07:50 GMT</pubDate>
-            <description><![CDATA[Show HN: 3D dice for tabletop roleplaying games]]></description>
         </item>
     </channel>
 </rss>
