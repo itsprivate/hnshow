@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-08T19:46:19.955Z</updated>
+    <updated>2022-08-08T20:34:55.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用THREEJS着色器实现3D频谱图的实时可视化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32390409</id>
+        <link href="https://news.ycombinator.com/item?id=32390409"/>
+        <updated>2022-08-08T20:08:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Realtime visualization of 3D spectrogram with THREEJS shaders]]></summary>
+        <author>
+            <name>yzdbgd</name>
+            <uri>https://news.ycombinator.com/user?id=yzdbgd</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[带有写作助手的ATS友好型简历制作工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>SuDa2103</name>
             <uri>https://news.ycombinator.com/user?id=SuDa2103</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于 "日常 "数据科学的互动课程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32118530</id>
-        <link href="https://news.ycombinator.com/item?id=32118530"/>
-        <updated>2022-07-16T14:32:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Interactive course about “everyday” data science]]></summary>
-        <author>
-            <name>andrewnc</name>
-            <uri>https://news.ycombinator.com/user?id=andrewnc</uri>
         </author>
     </entry>
 </feed>
