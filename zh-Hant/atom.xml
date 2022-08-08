@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-08T14:48:54.626Z</updated>
+    <updated>2022-08-08T15:00:44.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[約1.2KLOC的靜態博客生成器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32386043</id>
+        <link href="https://news.ycombinator.com/item?id=32386043"/>
+        <updated>2022-08-08T14:47:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Static blog generator in about 1.2KLOC]]></summary>
+        <author>
+            <name>jjjbokma</name>
+            <uri>https://news.ycombinator.com/user?id=jjjbokma</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SaveSlack - 從你的Slack社區創建可搜索的知識庫
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>thegenius2000</name>
             <uri>https://news.ycombinator.com/user?id=thegenius2000</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個網站來收集每個HN模式
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32112553</id>
-        <link href="https://news.ycombinator.com/item?id=32112553"/>
-        <updated>2022-07-15T20:39:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a site to collect every HN Mod]]></summary>
-        <author>
-            <name>jarrenae</name>
-            <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
         </author>
     </entry>
 </feed>
