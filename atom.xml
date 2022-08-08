@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-08T11:59:25.103Z</updated>
+    <updated>2022-08-08T13:04:11.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一个应用程序，用于帮助其他单独的创始人完成他们的项目
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32384822</id>
+        <link href="https://news.ycombinator.com/item?id=32384822"/>
+        <updated>2022-08-08T12:52:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built an app for helping other solo founders with their project]]></summary>
+        <author>
+            <name>whatinside</name>
+            <uri>https://news.ycombinator.com/user?id=whatinside</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用threejs着色器的实时3D谱图可视化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32384673</id>
+        <link href="https://news.ycombinator.com/item?id=32384673"/>
+        <updated>2022-08-08T12:28:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Realtime 3D spectrogram visualization using threejs shaders]]></summary>
+        <author>
+            <name>yzdbgd</name>
+            <uri>https://news.ycombinator.com/user?id=yzdbgd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用相同的代码为任何云构建
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32384662</id>
+        <link href="https://news.ycombinator.com/item?id=32384662"/>
+        <updated>2022-08-08T12:27:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build for any cloud with the same code]]></summary>
+        <author>
+            <name>goncalo-r</name>
+            <uri>https://news.ycombinator.com/user?id=goncalo-r</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[复古风格的教育视频游戏(数学)
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>cheerioty</name>
             <uri>https://news.ycombinator.com/user?id=cheerioty</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每日加密货币投资游戏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32109589</id>
-        <link href="https://news.ycombinator.com/item?id=32109589"/>
-        <updated>2022-07-15T16:09:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Daily Crypto Investment Game]]></summary>
-        <author>
-            <name>nerfed</name>
-            <uri>https://news.ycombinator.com/user?id=nerfed</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[堆栈溢出的神经搜索
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32109476</id>
-        <link href="https://news.ycombinator.com/item?id=32109476"/>
-        <updated>2022-07-15T15:59:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Neural Search for Stack Overflow]]></summary>
-        <author>
-            <name>alexcg1</name>
-            <uri>https://news.ycombinator.com/user?id=alexcg1</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于低延迟分布式授权的开源边缘代理
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32108473</id>
-        <link href="https://news.ycombinator.com/item?id=32108473"/>
-        <updated>2022-07-15T14:20:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open Source Edge Proxy for Low Latency Distributed Authorization]]></summary>
-        <author>
-            <name>kkajla</name>
-            <uri>https://news.ycombinator.com/user?id=kkajla</uri>
         </author>
     </entry>
 </feed>
