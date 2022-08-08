@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-08T09:30:03.712Z</updated>
+    <updated>2022-08-08T10:52:14.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Splink 3 - 規模化的多後端模糊記錄鏈接（FOSS/Python）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32384031</id>
+        <link href="https://news.ycombinator.com/item?id=32384031"/>
+        <updated>2022-08-08T10:40:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Splink 3 – multi-back end fuzzy record linkage at scale (FOSS/Python)]]></summary>
+        <author>
+            <name>RobinL</name>
+            <uri>https://news.ycombinator.com/user?id=RobinL</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個應用程序來跟蹤與朋友的習慣--在飛機上的24小時內
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>BruceHN</name>
             <uri>https://news.ycombinator.com/user?id=BruceHN</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用於審查新聞文章的Chrome擴展
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32107586</id>
-        <link href="https://news.ycombinator.com/item?id=32107586"/>
-        <updated>2022-07-15T12:51:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Chrome extension for reviewing news articles]]></summary>
-        <author>
-            <name>jawerty</name>
-            <uri>https://news.ycombinator.com/user?id=jawerty</uri>
         </author>
     </entry>
 </feed>
