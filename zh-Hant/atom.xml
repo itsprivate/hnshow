@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-09T20:33:44.463Z</updated>
+    <updated>2022-08-09T21:03:23.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[繼續游泳--我在引導SaaS產品時學到的教訓
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32404200</id>
+        <link href="https://news.ycombinator.com/item?id=32404200"/>
+        <updated>2022-08-09T20:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Keep Swimming – lessons I learned while bootstrapping a SaaS product]]></summary>
+        <author>
+            <name>alokepillai</name>
+            <uri>https://news.ycombinator.com/user?id=alokepillai</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WeExpire - 只有在你死後才能閱讀的筆記
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sgoto</name>
             <uri>https://news.ycombinator.com/user?id=sgoto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[構建應用程序，並使您的谷歌表格自動化。不需要代碼
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32133323</id>
-        <link href="https://news.ycombinator.com/item?id=32133323"/>
-        <updated>2022-07-18T01:02:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Build apps and automate your Google Sheets. No-code required]]></summary>
-        <author>
-            <name>bl0ssom</name>
-            <uri>https://news.ycombinator.com/user?id=bl0ssom</uri>
         </author>
     </entry>
 </feed>
