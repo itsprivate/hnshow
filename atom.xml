@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-09T17:44:36.315Z</updated>
+    <updated>2022-08-09T18:40:36.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Metaballs (GLSL)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32401490</id>
+        <link href="https://news.ycombinator.com/item?id=32401490"/>
+        <updated>2022-08-09T18:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Metaballs (GLSL)]]></summary>
+        <author>
+            <name>atum47</name>
+            <uri>https://news.ycombinator.com/user?id=atum47</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MOS，一个帮助你部署数学优化模型的应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32401413</id>
+        <link href="https://news.ycombinator.com/item?id=32401413"/>
+        <updated>2022-08-09T17:58:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MOS, an application to help you deploy mathematical optimization models]]></summary>
+        <author>
+            <name>jmerrick</name>
+            <uri>https://news.ycombinator.com/user?id=jmerrick</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们为数据工程师建立了Vercel
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>attero</name>
             <uri>https://news.ycombinator.com/user?id=attero</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文本-图像网络应用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32131259</id>
-        <link href="https://news.ycombinator.com/item?id=32131259"/>
-        <updated>2022-07-17T21:04:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Text-to-Image Web App]]></summary>
-        <author>
-            <name>denniswarfield</name>
-            <uri>https://news.ycombinator.com/user?id=denniswarfield</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[编码的Uber
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32129089</id>
-        <link href="https://news.ycombinator.com/item?id=32129089"/>
-        <updated>2022-07-17T17:42:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Uber for Coding]]></summary>
-        <author>
-            <name>zcesur</name>
-            <uri>https://news.ycombinator.com/user?id=zcesur</uri>
         </author>
     </entry>
 </feed>
