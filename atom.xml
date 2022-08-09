@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-09T10:36:53.610Z</updated>
+    <updated>2022-08-09T11:57:31.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Robotika - 一个管理的TensorFlow扩展（TFX）解决方案
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32396600</id>
+        <link href="https://news.ycombinator.com/item?id=32396600"/>
+        <updated>2022-08-09T11:50:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Robotika – A Managed TensorFlow Extended (TFX) Solution]]></summary>
+        <author>
+            <name>gorjan_robotika</name>
+            <uri>https://news.ycombinator.com/user?id=gorjan_robotika</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通过与语言模型对话来学习任何语言
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>BrennanWoodruff</name>
             <uri>https://news.ycombinator.com/user?id=BrennanWoodruff</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社会福利机构的防爆平台
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32121370</id>
-        <link href="https://news.ycombinator.com/item?id=32121370"/>
-        <updated>2022-07-16T19:54:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ex Platform for SWEs]]></summary>
-        <author>
-            <name>wassimkha</name>
-            <uri>https://news.ycombinator.com/user?id=wassimkha</uri>
         </author>
     </entry>
 </feed>
