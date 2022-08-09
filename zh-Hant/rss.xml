@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 09 Aug 2022 09:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 10:36:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[通過與語言模型對話來學習任何語言
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32396023</link>
+            <guid>https://news.ycombinator.com/item?id=32396023</guid>
+            <pubDate>Tue, 09 Aug 2022 10:19:49 GMT</pubDate>
+            <description><![CDATA[Show HN: Learn any language by speaking to a Language Model]]></description>
+        </item>
         <item>
             <title><![CDATA[Cherry - 實驗性的ClojureScript轉ES6模塊編譯器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32121370</guid>
             <pubDate>Sat, 16 Jul 2022 19:54:26 GMT</pubDate>
             <description><![CDATA[Show HN: Ex Platform for SWEs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[跳樓遊戲，你可以接近地面而不接觸它
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32120978</link>
-            <guid>https://news.ycombinator.com/item?id=32120978</guid>
-            <pubDate>Sat, 16 Jul 2022 19:10:03 GMT</pubDate>
-            <description><![CDATA[Show HN: Jumper game where you get close to the ground without touching it]]></description>
         </item>
     </channel>
 </rss>
