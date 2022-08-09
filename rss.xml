@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 09 Aug 2022 14:04:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 14:50:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[将tsfresh函数作为PostgreSQL的C扩展来实现
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32398509</link>
+            <guid>https://news.ycombinator.com/item?id=32398509</guid>
+            <pubDate>Tue, 09 Aug 2022 14:30:08 GMT</pubDate>
+            <description><![CDATA[Show HN: Implementation of tsfresh functions as a PostgreSQL C extension]]></description>
+        </item>
         <item>
             <title><![CDATA[Pyroscope-rs，一个用Rust构建的多语言分析器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32121846</guid>
             <pubDate>Sat, 16 Jul 2022 20:51:48 GMT</pubDate>
             <description><![CDATA[Show HN: A compiler and VM for a simple language, in 150 lines of code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Scratch密码学库
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32122382</link>
-            <guid>https://news.ycombinator.com/item?id=32122382</guid>
-            <pubDate>Sat, 16 Jul 2022 22:05:37 GMT</pubDate>
-            <description><![CDATA[Show HN: Scratch Cryptography Library]]></description>
         </item>
     </channel>
 </rss>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-09T14:04:12.426Z</updated>
+    <updated>2022-08-09T14:50:09.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[將tsfresh函數作為PostgreSQL的C擴展來實現
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32398509</id>
+        <link href="https://news.ycombinator.com/item?id=32398509"/>
+        <updated>2022-08-09T14:30:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Implementation of tsfresh functions as a PostgreSQL C extension]]></summary>
+        <author>
+            <name>engelAnalytics</name>
+            <uri>https://news.ycombinator.com/user?id=engelAnalytics</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pyroscope-rs，一個用Rust構建的多語言分析器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>p4bl0</name>
             <uri>https://news.ycombinator.com/user?id=p4bl0</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scratch密碼學庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32122382</id>
-        <link href="https://news.ycombinator.com/item?id=32122382"/>
-        <updated>2022-07-16T22:05:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Scratch Cryptography Library]]></summary>
-        <author>
-            <name>Retr0id</name>
-            <uri>https://news.ycombinator.com/user?id=Retr0id</uri>
         </author>
     </entry>
 </feed>
