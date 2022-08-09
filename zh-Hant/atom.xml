@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-09T07:03:00.980Z</updated>
+    <updated>2022-08-09T09:31:32.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Cherry - 實驗性的ClojureScript轉ES6模塊編譯器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32395717</id>
+        <link href="https://news.ycombinator.com/item?id=32395717"/>
+        <updated>2022-08-09T09:16:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Cherry – experimental ClojureScript to ES6 module compiler]]></summary>
+        <author>
+            <name>Borkdude</name>
+            <uri>https://news.ycombinator.com/user?id=Borkdude</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yare 2 - 可編程RTS遊戲
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nassimsoftware</name>
             <uri>https://news.ycombinator.com/user?id=nassimsoftware</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Kodyfire CLI從HTML中生成用於社交分享的動態圖像
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32119959</id>
-        <link href="https://news.ycombinator.com/item?id=32119959"/>
-        <updated>2022-07-16T17:11:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Generate dynamic images for social sharing from HTML using Kodyfire CLI]]></summary>
-        <author>
-            <name>marrouchi</name>
-            <uri>https://news.ycombinator.com/user?id=marrouchi</uri>
         </author>
     </entry>
 </feed>

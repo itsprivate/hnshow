@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 09 Aug 2022 07:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 09:31:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Cherry - 實驗性的ClojureScript轉ES6模塊編譯器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32395717</link>
+            <guid>https://news.ycombinator.com/item?id=32395717</guid>
+            <pubDate>Tue, 09 Aug 2022 09:16:11 GMT</pubDate>
+            <description><![CDATA[Show HN: Cherry – experimental ClojureScript to ES6 module compiler]]></description>
+        </item>
         <item>
             <title><![CDATA[Yare 2 - 可編程RTS遊戲
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32120978</guid>
             <pubDate>Sat, 16 Jul 2022 19:10:03 GMT</pubDate>
             <description><![CDATA[Show HN: Jumper game where you get close to the ground without touching it]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用Kodyfire CLI從HTML中生成用於社交分享的動態圖像
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32119959</link>
-            <guid>https://news.ycombinator.com/item?id=32119959</guid>
-            <pubDate>Sat, 16 Jul 2022 17:11:44 GMT</pubDate>
-            <description><![CDATA[Show HN: Generate dynamic images for social sharing from HTML using Kodyfire CLI]]></description>
         </item>
     </channel>
 </rss>
