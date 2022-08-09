@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 09 Aug 2022 05:34:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 06:39:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[rfilerunner：一个简单的命令运行器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32394849</link>
+            <guid>https://news.ycombinator.com/item?id=32394849</guid>
+            <pubDate>Tue, 09 Aug 2022 06:31:11 GMT</pubDate>
+            <description><![CDATA[Show HN: rfilerunner: a simple command runner]]></description>
+        </item>
         <item>
             <title><![CDATA[循环，在循环中运行一个命令，其他什么都不做
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32119858</guid>
             <pubDate>Sat, 16 Jul 2022 17:00:10 GMT</pubDate>
             <description><![CDATA[Show HN: MyHearty, a simple charity website (Next.js and Rails API)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[rest.quest - 一个微小的、本地优先的、与S3同步的todo网络应用程序
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32119771</link>
-            <guid>https://news.ycombinator.com/item?id=32119771</guid>
-            <pubDate>Sat, 16 Jul 2022 16:49:43 GMT</pubDate>
-            <description><![CDATA[Show HN: rest.quest – A tiny, local-first todo webapp with S3 sync]]></description>
         </item>
     </channel>
 </rss>

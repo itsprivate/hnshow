@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-09T05:34:04.328Z</updated>
+    <updated>2022-08-09T06:39:28.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[rfilerunner：一个简单的命令运行器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32394849</id>
+        <link href="https://news.ycombinator.com/item?id=32394849"/>
+        <updated>2022-08-09T06:31:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: rfilerunner: a simple command runner]]></summary>
+        <author>
+            <name>goatmobile</name>
+            <uri>https://news.ycombinator.com/user?id=goatmobile</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[循环，在循环中运行一个命令，其他什么都不做
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hackernews-bie</name>
             <uri>https://news.ycombinator.com/user?id=hackernews-bie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rest.quest - 一个微小的、本地优先的、与S3同步的todo网络应用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32119771</id>
-        <link href="https://news.ycombinator.com/item?id=32119771"/>
-        <updated>2022-07-16T16:49:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: rest.quest – A tiny, local-first todo webapp with S3 sync]]></summary>
-        <author>
-            <name>beingflo</name>
-            <uri>https://news.ycombinator.com/user?id=beingflo</uri>
         </author>
     </entry>
 </feed>
