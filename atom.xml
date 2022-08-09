@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-09T11:57:31.917Z</updated>
+    <updated>2022-08-09T13:03:41.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GitHub建议扩展
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32397020</id>
+        <link href="https://news.ycombinator.com/item?id=32397020"/>
+        <updated>2022-08-09T12:40:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GitHub Recommendations Extension]]></summary>
+        <author>
+            <name>ovyan</name>
+            <uri>https://news.ycombinator.com/user?id=ovyan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Robotika - 一个管理的TensorFlow扩展（TFX）解决方案
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>sandreas</name>
             <uri>https://news.ycombinator.com/user?id=sandreas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[查理--一只写着可爱内容的人工智能小狗
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32121687</id>
-        <link href="https://news.ycombinator.com/item?id=32121687"/>
-        <updated>2022-07-16T20:31:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Charlie – A AI Puppy That Writes Pawesome Content]]></summary>
-        <author>
-            <name>BrennanWoodruff</name>
-            <uri>https://news.ycombinator.com/user?id=BrennanWoodruff</uri>
         </author>
     </entry>
 </feed>
