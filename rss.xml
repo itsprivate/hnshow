@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 09 Aug 2022 06:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 07:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Yare 2 - 可编程RTS游戏
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32394902</link>
+            <guid>https://news.ycombinator.com/item?id=32394902</guid>
+            <pubDate>Tue, 09 Aug 2022 06:40:20 GMT</pubDate>
+            <description><![CDATA[Show HN: Yare 2 – Programmable RTS game]]></description>
+        </item>
         <item>
             <title><![CDATA[rfilerunner：一个简单的命令运行器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32119959</guid>
             <pubDate>Sat, 16 Jul 2022 17:11:44 GMT</pubDate>
             <description><![CDATA[Show HN: Generate dynamic images for social sharing from HTML using Kodyfire CLI]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MyHearty，一个简单的慈善网站（Next.js和Rails API）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32119858</link>
-            <guid>https://news.ycombinator.com/item?id=32119858</guid>
-            <pubDate>Sat, 16 Jul 2022 17:00:10 GMT</pubDate>
-            <description><![CDATA[Show HN: MyHearty, a simple charity website (Next.js and Rails API)]]></description>
         </item>
     </channel>
 </rss>

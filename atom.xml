@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-09T06:39:28.900Z</updated>
+    <updated>2022-08-09T07:03:00.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Yare 2 - 可编程RTS游戏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32394902</id>
+        <link href="https://news.ycombinator.com/item?id=32394902"/>
+        <updated>2022-08-09T06:40:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Yare 2 – Programmable RTS game]]></summary>
+        <author>
+            <name>levmiseri</name>
+            <uri>https://news.ycombinator.com/user?id=levmiseri</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[rfilerunner：一个简单的命令运行器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>marrouchi</name>
             <uri>https://news.ycombinator.com/user?id=marrouchi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MyHearty，一个简单的慈善网站（Next.js和Rails API）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32119858</id>
-        <link href="https://news.ycombinator.com/item?id=32119858"/>
-        <updated>2022-07-16T17:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: MyHearty, a simple charity website (Next.js and Rails API)]]></summary>
-        <author>
-            <name>hackernews-bie</name>
-            <uri>https://news.ycombinator.com/user?id=hackernews-bie</uri>
         </author>
     </entry>
 </feed>
