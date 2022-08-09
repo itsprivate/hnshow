@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-09T15:57:04.988Z</updated>
+    <updated>2022-08-09T16:48:12.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Recode - 免费、开源、社区驱动的Codespaces替代品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32399752</id>
+        <link href="https://news.ycombinator.com/item?id=32399752"/>
+        <updated>2022-08-09T16:03:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Recode – Free, open-source, community-driven Codespaces alternative]]></summary>
+        <author>
+            <name>jeremylevy</name>
+            <uri>https://news.ycombinator.com/user?id=jeremylevy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freshenv-一个提高开发人员生产力的工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32399651</id>
+        <link href="https://news.ycombinator.com/item?id=32399651"/>
+        <updated>2022-08-09T15:57:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Freshenv-A Tool for Developer Productivity]]></summary>
+        <author>
+            <name>RaiyanYahya</name>
+            <uri>https://news.ycombinator.com/user?id=RaiyanYahya</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gsummarize - 一个总结谷歌云存储桶的CLI
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>HugoDz</name>
             <uri>https://news.ycombinator.com/user?id=HugoDz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snordle - Wordle，但输入是一个蛇的游戏
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32127786</id>
-        <link href="https://news.ycombinator.com/item?id=32127786"/>
-        <updated>2022-07-17T15:42:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Snordle – Wordle, but input is a game of snake]]></summary>
-        <author>
-            <name>ivankuz</name>
-            <uri>https://news.ycombinator.com/user?id=ivankuz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于下载DALL-E 2图像及其提示的Chrome扩展程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32126368</id>
-        <link href="https://news.ycombinator.com/item?id=32126368"/>
-        <updated>2022-07-17T12:59:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Chrome extension for downloading DALL·E 2 images with their prompts]]></summary>
-        <author>
-            <name>arrow7000</name>
-            <uri>https://news.ycombinator.com/user?id=arrow7000</uri>
         </author>
     </entry>
 </feed>
