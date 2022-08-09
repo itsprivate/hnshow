@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 08 Aug 2022 23:49:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 05:34:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[循環，在循環中運行一個命令，其他什麼都不做
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32394458</link>
+            <guid>https://news.ycombinator.com/item?id=32394458</guid>
+            <pubDate>Tue, 09 Aug 2022 05:26:40 GMT</pubDate>
+            <description><![CDATA[Show HN: Loop, run a command in loop and nothing else]]></description>
+        </item>
         <item>
             <title><![CDATA[一個為軟件工程師尋找工作的網站
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32119771</guid>
             <pubDate>Sat, 16 Jul 2022 16:49:43 GMT</pubDate>
             <description><![CDATA[Show HN: rest.quest – A tiny, local-first todo webapp with S3 sync]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Logto公開測試版--輕鬆構建簽到、認證和身份認證
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32118950</link>
-            <guid>https://news.ycombinator.com/item?id=32118950</guid>
-            <pubDate>Sat, 16 Jul 2022 15:17:05 GMT</pubDate>
-            <description><![CDATA[Show HN: Logto public beta – build sign-in, auth, and identity with ease]]></description>
         </item>
     </channel>
 </rss>

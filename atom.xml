@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-08T23:49:01.453Z</updated>
+    <updated>2022-08-09T05:34:04.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[循环，在循环中运行一个命令，其他什么都不做
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32394458</id>
+        <link href="https://news.ycombinator.com/item?id=32394458"/>
+        <updated>2022-08-09T05:26:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Loop, run a command in loop and nothing else]]></summary>
+        <author>
+            <name>jicea</name>
+            <uri>https://news.ycombinator.com/user?id=jicea</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个为软件工程师寻找工作的网站
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>beingflo</name>
             <uri>https://news.ycombinator.com/user?id=beingflo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logto公开测试版--轻松构建签到、认证和身份认证
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32118950</id>
-        <link href="https://news.ycombinator.com/item?id=32118950"/>
-        <updated>2022-07-16T15:17:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Logto public beta – build sign-in, auth, and identity with ease]]></summary>
-        <author>
-            <name>pseudopuppet</name>
-            <uri>https://news.ycombinator.com/user?id=pseudopuppet</uri>
         </author>
     </entry>
 </feed>
