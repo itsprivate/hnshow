@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-09T14:50:09.561Z</updated>
+    <updated>2022-08-09T15:38:14.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[又是一个艺术化的文本到图像生成器，但有多种语言。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32399309</id>
+        <link href="https://news.ycombinator.com/item?id=32399309"/>
+        <updated>2022-08-09T15:28:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Yet another artsy text to image generator but in multiple languages]]></summary>
+        <author>
+            <name>srelbo</name>
+            <uri>https://news.ycombinator.com/user?id=srelbo</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ploomber Convert - 将Jupyter笔记本转换为PDF，无需设置
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32399217</id>
+        <link href="https://news.ycombinator.com/item?id=32399217"/>
+        <updated>2022-08-09T15:21:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Ploomber Convert – Convert Jupyter notebooks to PDF, no setup required]]></summary>
+        <author>
+            <name>idomi</name>
+            <uri>https://news.ycombinator.com/user?id=idomi</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用PyNeuraLogic直接在数据库中评估深度学习模型
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32399024</id>
+        <link href="https://news.ycombinator.com/item?id=32399024"/>
+        <updated>2022-08-09T15:05:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Evaluate Deep Learning models directly in a database with PyNeuraLogic]]></summary>
+        <author>
+            <name>LukasZahradnik</name>
+            <uri>https://news.ycombinator.com/user?id=LukasZahradnik</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mellow - 将你的库存电子表格与你的销售渠道连接起来
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32398922</id>
+        <link href="https://news.ycombinator.com/item?id=32398922"/>
+        <updated>2022-08-09T14:57:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mellow – Connect your inventory spreadsheet to your sales channels]]></summary>
+        <author>
+            <name>talhof8</name>
+            <uri>https://news.ycombinator.com/user?id=talhof8</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[将tsfresh函数作为PostgreSQL的C扩展来实现
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>pzrsa</name>
             <uri>https://news.ycombinator.com/user?id=pzrsa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOK - 用于检测网络钓鱼工具包的开放规则集和DSL
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32125661</id>
-        <link href="https://news.ycombinator.com/item?id=32125661"/>
-        <updated>2022-07-17T10:21:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: IOK – an open ruleset and DSL for detecting phishing kits]]></summary>
-        <author>
-            <name>bradleyjkemp</name>
-            <uri>https://news.ycombinator.com/user?id=bradleyjkemp</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一个Redis源代码的演练
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32124156</id>
-        <link href="https://news.ycombinator.com/item?id=32124156"/>
-        <updated>2022-07-17T03:12:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a walkthrough of Redis's source code]]></summary>
-        <author>
-            <name>rohitpaulk</name>
-            <uri>https://news.ycombinator.com/user?id=rohitpaulk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dpScreenOCR - 一个识别屏幕上文字的程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32123437</id>
-        <link href="https://news.ycombinator.com/item?id=32123437"/>
-        <updated>2022-07-17T01:05:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: dpScreenOCR – a program to recognize text on the screen]]></summary>
-        <author>
-            <name>danpla</name>
-            <uri>https://news.ycombinator.com/user?id=danpla</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个简单语言的编译器和虚拟机，只有150行代码
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32121846</id>
-        <link href="https://news.ycombinator.com/item?id=32121846"/>
-        <updated>2022-07-16T20:51:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A compiler and VM for a simple language, in 150 lines of code]]></summary>
-        <author>
-            <name>p4bl0</name>
-            <uri>https://news.ycombinator.com/user?id=p4bl0</uri>
         </author>
     </entry>
 </feed>
