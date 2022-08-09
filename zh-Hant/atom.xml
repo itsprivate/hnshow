@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-09T16:48:12.239Z</updated>
+    <updated>2022-08-09T17:44:36.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們為數據工程師建立了Vercel
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32400961</id>
+        <link href="https://news.ycombinator.com/item?id=32400961"/>
+        <updated>2022-08-09T17:27:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We Built Vercel for Data Engineers]]></summary>
+        <author>
+            <name>peterhunt</name>
+            <uri>https://news.ycombinator.com/user?id=peterhunt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recode - 免費、開源、社區驅動的Codespaces替代品
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>zcesur</name>
             <uri>https://news.ycombinator.com/user?id=zcesur</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個在你的Google Drive上託管圖片和媒體的小工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32127795</id>
-        <link href="https://news.ycombinator.com/item?id=32127795"/>
-        <updated>2022-07-17T15:43:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A little tool to host images and media on your Google Drive]]></summary>
-        <author>
-            <name>HugoDz</name>
-            <uri>https://news.ycombinator.com/user?id=HugoDz</uri>
         </author>
     </entry>
 </feed>
