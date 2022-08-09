@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-09T19:49:01.004Z</updated>
+    <updated>2022-08-09T20:33:44.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[WeExpire - 只有在你死後才能閱讀的筆記
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32403604</id>
+        <link href="https://news.ycombinator.com/item?id=32403604"/>
+        <updated>2022-08-09T20:13:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WeExpire – Notes readable only after your death]]></summary>
+        <author>
+            <name>ciccionamente</name>
+            <uri>https://news.ycombinator.com/user?id=ciccionamente</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[創建定製的、永遠在線的、虛擬的協同工作室（稱為咖啡館）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bl0ssom</name>
             <uri>https://news.ycombinator.com/user?id=bl0ssom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[讀懂特朗普在推特上的 "真相"，為支持者和討厭者服務
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32132092</id>
-        <link href="https://news.ycombinator.com/item?id=32132092"/>
-        <updated>2022-07-17T22:26:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Read Trump's “truth” on Twitter, for supporters and haters]]></summary>
-        <author>
-            <name>bmmcar</name>
-            <uri>https://news.ycombinator.com/user?id=bmmcar</uri>
         </author>
     </entry>
 </feed>
