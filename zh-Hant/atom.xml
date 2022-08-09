@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-09T21:03:23.378Z</updated>
+    <updated>2022-08-09T21:30:29.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通過一個簡單的API調用將電子商務產品頁面轉換為JSON格式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32404526</id>
+        <link href="https://news.ycombinator.com/item?id=32404526"/>
+        <updated>2022-08-09T21:24:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Convert eCommerce product pages to JSON with a simple API Call]]></summary>
+        <author>
+            <name>krstce</name>
+            <uri>https://news.ycombinator.com/user?id=krstce</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tone v0.0.8 - 可入侵的控制檯音頻標記器 - 為新版本提供反饋？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32404220</id>
+        <link href="https://news.ycombinator.com/item?id=32404220"/>
+        <updated>2022-08-09T20:59:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tone v0.0.8 – hackable console audio tagger – feedback for new version?]]></summary>
+        <author>
+            <name>sandreas</name>
+            <uri>https://news.ycombinator.com/user?id=sandreas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[繼續游泳--我在引導SaaS產品時學到的教訓
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>deepaksshah</name>
             <uri>https://news.ycombinator.com/user?id=deepaksshah</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個只是另一個Cron的替代品，但有更多的功能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32134011</id>
-        <link href="https://news.ycombinator.com/item?id=32134011"/>
-        <updated>2022-07-18T02:46:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A just another Cron alternative but with much more capabilities]]></summary>
-        <author>
-            <name>yohamta</name>
-            <uri>https://news.ycombinator.com/user?id=yohamta</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typograms，類似Markdown的ASCII圖的渲染器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32133345</id>
-        <link href="https://news.ycombinator.com/item?id=32133345"/>
-        <updated>2022-07-18T01:05:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Typograms, Markdown-like renderer for ASCII diagrams]]></summary>
-        <author>
-            <name>sgoto</name>
-            <uri>https://news.ycombinator.com/user?id=sgoto</uri>
         </author>
     </entry>
 </feed>
