@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-10T20:33:32.250Z</updated>
+    <updated>2022-08-10T20:48:42.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[基於A16Z的初創企業估值的計算器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32418029</id>
+        <link href="https://news.ycombinator.com/item?id=32418029"/>
+        <updated>2022-08-10T20:34:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A calculator for startup valuations based on A16Z]]></summary>
+        <author>
+            <name>vu0tran</name>
+            <uri>https://news.ycombinator.com/user?id=vu0tran</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Releese - 音樂業務管理軟件
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ellis0n</name>
             <uri>https://news.ycombinator.com/user?id=ellis0n</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[恐怖的視野。程序員的占星術
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32181081</id>
-        <link href="https://news.ycombinator.com/item?id=32181081"/>
-        <updated>2022-07-21T16:06:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: HorrorScope: Astrology for Programmers]]></summary>
-        <author>
-            <name>shantnutiwari</name>
-            <uri>https://news.ycombinator.com/user?id=shantnutiwari</uri>
         </author>
     </entry>
 </feed>
