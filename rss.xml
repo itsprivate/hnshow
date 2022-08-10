@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 10 Aug 2022 10:51:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 12:55:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在几分钟内为您的网站提供常见问题
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32410556</link>
+            <guid>https://news.ycombinator.com/item?id=32410556</guid>
+            <pubDate>Wed, 10 Aug 2022 12:07:17 GMT</pubDate>
+            <description><![CDATA[Show HN: FAQs for Your Website in Minutes]]></description>
+        </item>
         <item>
             <title><![CDATA[用284行C++语言实现最先进的德语语音识别
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32177264</guid>
             <pubDate>Thu, 21 Jul 2022 09:21:51 GMT</pubDate>
             <description><![CDATA[Show HN: Compress images to any size using WebAssembly]]></description>
-        </item>
-        <item>
-            <title><![CDATA[冻土码头
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32177065</link>
-            <guid>https://news.ycombinator.com/item?id=32177065</guid>
-            <pubDate>Thu, 21 Jul 2022 08:42:18 GMT</pubDate>
-            <description><![CDATA[Show HN: Frozenfork Terminal]]></description>
         </item>
     </channel>
 </rss>

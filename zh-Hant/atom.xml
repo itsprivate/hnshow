@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-10T10:51:03.995Z</updated>
+    <updated>2022-08-10T12:55:55.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在幾分鐘內為您的網站提供常見問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32410556</id>
+        <link href="https://news.ycombinator.com/item?id=32410556"/>
+        <updated>2022-08-10T12:07:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: FAQs for Your Website in Minutes]]></summary>
+        <author>
+            <name>primalscreamer</name>
+            <uri>https://news.ycombinator.com/user?id=primalscreamer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用284行C++語言實現最先進的德語語音識別
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>akmittal</name>
             <uri>https://news.ycombinator.com/user?id=akmittal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凍土碼頭
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32177065</id>
-        <link href="https://news.ycombinator.com/item?id=32177065"/>
-        <updated>2022-07-21T08:42:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Frozenfork Terminal]]></summary>
-        <author>
-            <name>michaelsjoeberg</name>
-            <uri>https://news.ycombinator.com/user?id=michaelsjoeberg</uri>
         </author>
     </entry>
 </feed>
