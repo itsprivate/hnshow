@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 10 Aug 2022 10:32:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 10:51:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用284行C++語言實現最先進的德語語音識別
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32409966</link>
+            <guid>https://news.ycombinator.com/item?id=32409966</guid>
+            <pubDate>Wed, 10 Aug 2022 10:45:41 GMT</pubDate>
+            <description><![CDATA[Show HN: State-of-the-Art German Speech Recognition in 284 lines of C++]]></description>
+        </item>
         <item>
             <title><![CDATA[Exabox - 開發人員的基本工具 (macOS/Windows)
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32177065</guid>
             <pubDate>Thu, 21 Jul 2022 08:42:18 GMT</pubDate>
             <description><![CDATA[Show HN: Frozenfork Terminal]]></description>
-        </item>
-        <item>
-            <title><![CDATA[將電子表格變成網站設計
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32177051</link>
-            <guid>https://news.ycombinator.com/item?id=32177051</guid>
-            <pubDate>Thu, 21 Jul 2022 08:38:31 GMT</pubDate>
-            <description><![CDATA[Show HN: Turn spreadsheets into website designs]]></description>
         </item>
     </channel>
 </rss>
