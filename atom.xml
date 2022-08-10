@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-10T17:59:12.827Z</updated>
+    <updated>2022-08-10T19:26:28.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Thentic - NFT-commerce的API
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32416906</id>
+        <link href="https://news.ycombinator.com/item?id=32416906"/>
+        <updated>2022-08-10T19:02:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Thentic – API for NFT-commerce]]></summary>
+        <author>
+            <name>egorbasov</name>
+            <uri>https://news.ycombinator.com/user?id=egorbasov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Insquad. 雇用适合创业公司的高级远程开发人员
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>siruva07</name>
             <uri>https://news.ycombinator.com/user?id=siruva07</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个可视化的测试跟踪器来发现更多的bug
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32180652</id>
-        <link href="https://news.ycombinator.com/item?id=32180652"/>
-        <updated>2022-07-21T15:36:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a visual test tracker to find more bugs]]></summary>
-        <author>
-            <name>vax425</name>
-            <uri>https://news.ycombinator.com/user?id=vax425</uri>
         </author>
     </entry>
 </feed>
