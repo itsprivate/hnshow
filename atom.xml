@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-10T02:14:19.769Z</updated>
+    <updated>2022-08-10T03:58:45.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[功能丰富的语法高亮 - Zi
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32407406</id>
+        <link href="https://news.ycombinator.com/item?id=32407406"/>
+        <updated>2022-08-10T02:54:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Feature-rich syntax highlighting – Zi]]></summary>
+        <author>
+            <name>z-shell</name>
+            <uri>https://news.ycombinator.com/user?id=z-shell</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Neoeedit: 一个没有评级的文本编辑器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>popcalc</name>
             <uri>https://news.ycombinator.com/user?id=popcalc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果VS Code有一个以数据为中心的IDE兄弟姐妹，那会是什么样子？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32136121</id>
-        <link href="https://news.ycombinator.com/item?id=32136121"/>
-        <updated>2022-07-18T09:09:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: If VS Code had a data-centric IDE sibling, what would that look like?]]></summary>
-        <author>
-            <name>jonathan_re</name>
-            <uri>https://news.ycombinator.com/user?id=jonathan_re</uri>
         </author>
     </entry>
 </feed>
