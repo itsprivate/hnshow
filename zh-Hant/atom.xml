@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-10T03:58:45.306Z</updated>
+    <updated>2022-08-10T06:38:02.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[騙子的骰子AI
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32408399</id>
+        <link href="https://news.ycombinator.com/item?id=32408399"/>
+        <updated>2022-08-10T06:28:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Liar's Dice AI]]></summary>
+        <author>
+            <name>thomasahle</name>
+            <uri>https://news.ycombinator.com/user?id=thomasahle</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[功能豐富的語法高亮 - Zi
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>vpj</name>
             <uri>https://news.ycombinator.com/user?id=vpj</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PubKey--在匿名的公共空間進行私密交流
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32136202</id>
-        <link href="https://news.ycombinator.com/item?id=32136202"/>
-        <updated>2022-07-18T09:23:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PubKey – Communicate Privately in Anonymous Public Spaces]]></summary>
-        <author>
-            <name>popcalc</name>
-            <uri>https://news.ycombinator.com/user?id=popcalc</uri>
         </author>
     </entry>
 </feed>
