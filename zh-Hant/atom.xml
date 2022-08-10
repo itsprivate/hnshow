@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-10T12:55:55.146Z</updated>
+    <updated>2022-08-10T14:02:48.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Hackertosh.css - 讓Hacker News看起來像macOS 8
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32411979</id>
+        <link href="https://news.ycombinator.com/item?id=32411979"/>
+        <updated>2022-08-10T13:54:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hackertosh.css – Make Hacker News look like macOS 8]]></summary>
+        <author>
+            <name>anthonyhn</name>
+            <uri>https://news.ycombinator.com/user?id=anthonyhn</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[現場訪問一個XR和基於屏幕的安裝系列
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32411814</id>
+        <link href="https://news.ycombinator.com/item?id=32411814"/>
+        <updated>2022-08-10T13:45:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Site Visits an XR and screen-based installation series]]></summary>
+        <author>
+            <name>boriskourt</name>
+            <uri>https://news.ycombinator.com/user?id=boriskourt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在幾分鐘內為您的網站提供常見問題
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>huangyz0918</name>
             <uri>https://news.ycombinator.com/user?id=huangyz0918</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notepin - 極簡主義的匿名博客平臺
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32177406</id>
-        <link href="https://news.ycombinator.com/item?id=32177406"/>
-        <updated>2022-07-21T09:51:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Notepin – Minimalist, anonymous blogging platform]]></summary>
-        <author>
-            <name>okozzie</name>
-            <uri>https://news.ycombinator.com/user?id=okozzie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用WebAssembly將圖像壓縮到任何大小
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32177264</id>
-        <link href="https://news.ycombinator.com/item?id=32177264"/>
-        <updated>2022-07-21T09:21:51.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Compress images to any size using WebAssembly]]></summary>
-        <author>
-            <name>akmittal</name>
-            <uri>https://news.ycombinator.com/user?id=akmittal</uri>
         </author>
     </entry>
 </feed>
