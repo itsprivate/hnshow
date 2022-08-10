@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-09T22:48:35.259Z</updated>
+    <updated>2022-08-10T00:02:44.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[周二分诊，每周互联网的精华部分
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32406258</id>
+        <link href="https://news.ycombinator.com/item?id=32406258"/>
+        <updated>2022-08-09T23:56:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tuesday Triage, weekly crème de la crème of the Internet]]></summary>
+        <author>
+            <name>valzevul</name>
+            <uri>https://news.ycombinator.com/user?id=valzevul</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1024，一个2048的益智游戏
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jhoetter</name>
             <uri>https://news.ycombinator.com/user?id=jhoetter</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qwikdraft。为你的画作发声
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32135720</id>
-        <link href="https://news.ycombinator.com/item?id=32135720"/>
-        <updated>2022-07-18T07:50:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Qwikdraft: Voicefy Your Drawings]]></summary>
-        <author>
-            <name>gayathrin_99</name>
-            <uri>https://news.ycombinator.com/user?id=gayathrin_99</uri>
         </author>
     </entry>
 </feed>
