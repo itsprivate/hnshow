@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-10T17:45:26.539Z</updated>
+    <updated>2022-08-10T17:59:12.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Insquad. 雇用适合创业公司的高级远程开发人员
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32415852</id>
+        <link href="https://news.ycombinator.com/item?id=32415852"/>
+        <updated>2022-08-10T17:46:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Insquad. Hire startup-ready senior remote developers]]></summary>
+        <author>
+            <name>insquadguys</name>
+            <uri>https://news.ycombinator.com/user?id=insquadguys</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于将OMML方程式添加到.docx文件的Python库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32415816</id>
+        <link href="https://news.ycombinator.com/item?id=32415816"/>
+        <updated>2022-08-10T17:43:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A Python library for OMML equations to be added to .docx files]]></summary>
+        <author>
+            <name>charlieyu1</name>
+            <uri>https://news.ycombinator.com/user?id=charlieyu1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我正在使用Midjourney为我的文字游戏Xordle创建奖励图像。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>vax425</name>
             <uri>https://news.ycombinator.com/user?id=vax425</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pg_jsonschema - 一个用于JSON验证的Postgres扩展。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32179856</id>
-        <link href="https://news.ycombinator.com/item?id=32179856"/>
-        <updated>2022-07-21T14:31:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pg_jsonschema – A Postgres extension for JSON validation]]></summary>
-        <author>
-            <name>oliverrice</name>
-            <uri>https://news.ycombinator.com/user?id=oliverrice</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looria - 一个烂番茄式的产品平台
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32179797</id>
-        <link href="https://news.ycombinator.com/item?id=32179797"/>
-        <updated>2022-07-21T14:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Looria – A Rotten Tomatoes-style platform for products]]></summary>
-        <author>
-            <name>hubraumhugo</name>
-            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
         </author>
     </entry>
 </feed>
