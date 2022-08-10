@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-10T17:21:42.232Z</updated>
+    <updated>2022-08-10T17:45:26.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我正在使用Midjourney为我的文字游戏Xordle创建奖励图像。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32415736</id>
+        <link href="https://news.ycombinator.com/item?id=32415736"/>
+        <updated>2022-08-10T17:37:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I'm using Midjourney to create reward images for my word game Xordle]]></summary>
+        <author>
+            <name>furyofantares</name>
+            <uri>https://news.ycombinator.com/user?id=furyofantares</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[罐装反应的目录。如果你缺乏灵感
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hubraumhugo</name>
             <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[视觉化的最重要的物理学家
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32179728</id>
-        <link href="https://news.ycombinator.com/item?id=32179728"/>
-        <updated>2022-07-21T14:19:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Visualizing the Most Important Physicists]]></summary>
-        <author>
-            <name>camjohnson26</name>
-            <uri>https://news.ycombinator.com/user?id=camjohnson26</uri>
         </author>
     </entry>
 </feed>
