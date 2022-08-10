@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-10T19:45:14.668Z</updated>
+    <updated>2022-08-10T20:33:32.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Releese - 音樂業務管理軟件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32417817</id>
+        <link href="https://news.ycombinator.com/item?id=32417817"/>
+        <updated>2022-08-10T20:17:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Releese – Music business management software]]></summary>
+        <author>
+            <name>midsplit</name>
+            <uri>https://news.ycombinator.com/user?id=midsplit</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[編碼器 - 用Terraform提供的遠程開發環境
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>shantnutiwari</name>
             <uri>https://news.ycombinator.com/user?id=shantnutiwari</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我使用WebAssembly為Awk、Sed、Grep建立了交互式遊樂場。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32181011</id>
-        <link href="https://news.ycombinator.com/item?id=32181011"/>
-        <updated>2022-07-21T16:02:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built interactive playgrounds for Awk, Sed, Grep using WebAssembly]]></summary>
-        <author>
-            <name>raboukhalil</name>
-            <uri>https://news.ycombinator.com/user?id=raboukhalil</uri>
         </author>
     </entry>
 </feed>

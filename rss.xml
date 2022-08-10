@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 10 Aug 2022 19:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 20:33:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Releese - 音乐业务管理软件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32417817</link>
+            <guid>https://news.ycombinator.com/item?id=32417817</guid>
+            <pubDate>Wed, 10 Aug 2022 20:17:11 GMT</pubDate>
+            <description><![CDATA[Show HN: Releese – Music business management software]]></description>
+        </item>
         <item>
             <title><![CDATA[编码器 - 用Terraform提供的远程开发环境
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32181081</guid>
             <pubDate>Thu, 21 Jul 2022 16:06:40 GMT</pubDate>
             <description><![CDATA[Show HN: HorrorScope: Astrology for Programmers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我使用WebAssembly为Awk、Sed、Grep建立了交互式游乐场。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32181011</link>
-            <guid>https://news.ycombinator.com/item?id=32181011</guid>
-            <pubDate>Thu, 21 Jul 2022 16:02:28 GMT</pubDate>
-            <description><![CDATA[Show HN: I built interactive playgrounds for Awk, Sed, Grep using WebAssembly]]></description>
         </item>
     </channel>
 </rss>
