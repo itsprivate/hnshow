@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-10T19:26:28.072Z</updated>
+    <updated>2022-08-10T19:45:14.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[编码器 - 用Terraform提供的远程开发环境
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32417258</id>
+        <link href="https://news.ycombinator.com/item?id=32417258"/>
+        <updated>2022-08-10T19:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Coder – Remote development environments provisioned with Terraform]]></summary>
+        <author>
+            <name>kylecarbs</name>
+            <uri>https://news.ycombinator.com/user?id=kylecarbs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thentic - NFT-commerce的API
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>raboukhalil</name>
             <uri>https://news.ycombinator.com/user?id=raboukhalil</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PodSnacks (CliffsNotes for Podcasts)
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32181000</id>
-        <link href="https://news.ycombinator.com/item?id=32181000"/>
-        <updated>2022-07-21T16:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PodSnacks (CliffsNotes for Podcasts)]]></summary>
-        <author>
-            <name>siruva07</name>
-            <uri>https://news.ycombinator.com/user?id=siruva07</uri>
         </author>
     </entry>
 </feed>
