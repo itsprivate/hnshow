@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-10T14:29:52.881Z</updated>
+    <updated>2022-08-10T15:35:19.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lumina辦公桌 - 健康和生產力的數字辦公桌
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32413348</id>
+        <link href="https://news.ycombinator.com/item?id=32413348"/>
+        <updated>2022-08-10T15:14:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lumina Desk – digital desk for health and productivity]]></summary>
+        <author>
+            <name>rlei</name>
+            <uri>https://news.ycombinator.com/user?id=rlei</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JuiceFS 1.0, 一個符合POSIX、HDFS和S3的雲文件系統
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pyeargin</name>
             <uri>https://news.ycombinator.com/user?id=pyeargin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們已經為K8s建立了免費的雲計算成本監控模塊
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32177934</id>
-        <link href="https://news.ycombinator.com/item?id=32177934"/>
-        <updated>2022-07-21T11:07:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We've built FREE cloud cost monitoring module for K8s]]></summary>
-        <author>
-            <name>BlackPlot</name>
-            <uri>https://news.ycombinator.com/user?id=BlackPlot</uri>
         </author>
     </entry>
 </feed>

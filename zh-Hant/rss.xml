@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 10 Aug 2022 14:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 15:35:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Lumina辦公桌 - 健康和生產力的數字辦公桌
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32413348</link>
+            <guid>https://news.ycombinator.com/item?id=32413348</guid>
+            <pubDate>Wed, 10 Aug 2022 15:14:40 GMT</pubDate>
+            <description><![CDATA[Show HN: Lumina Desk – digital desk for health and productivity]]></description>
+        </item>
         <item>
             <title><![CDATA[JuiceFS 1.0, 一個符合POSIX、HDFS和S3的雲文件系統
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32178039</guid>
             <pubDate>Thu, 21 Jul 2022 11:22:00 GMT</pubDate>
             <description><![CDATA[Show HN: An SEO Solution for Startups]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我們已經為K8s建立了免費的雲計算成本監控模塊
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32177934</link>
-            <guid>https://news.ycombinator.com/item?id=32177934</guid>
-            <pubDate>Thu, 21 Jul 2022 11:07:56 GMT</pubDate>
-            <description><![CDATA[Show HN: We've built FREE cloud cost monitoring module for K8s]]></description>
         </item>
     </channel>
 </rss>
