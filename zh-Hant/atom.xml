@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-11T11:27:56.765Z</updated>
+    <updated>2022-08-11T13:00:21.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[大修了我的博客--請提供反饋意見
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32424588</id>
+        <link href="https://news.ycombinator.com/item?id=32424588"/>
+        <updated>2022-08-11T12:19:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Overhauled my blog – please give feedback]]></summary>
+        <author>
+            <name>erikthiart</name>
+            <uri>https://news.ycombinator.com/user?id=erikthiart</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reddit Playlists - 來自100個音樂子版塊的每週Spotify播放列表
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Etesam</name>
             <uri>https://news.ycombinator.com/user?id=Etesam</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為數字產品和內容建立一個SaaS市場
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32186804</id>
-        <link href="https://news.ycombinator.com/item?id=32186804"/>
-        <updated>2022-07-21T23:58:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Building a SaaS Marketplace for Digital Products and Content]]></summary>
-        <author>
-            <name>kb2014</name>
-            <uri>https://news.ycombinator.com/user?id=kb2014</uri>
         </author>
     </entry>
 </feed>
