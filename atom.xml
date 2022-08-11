@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-11T13:59:22.874Z</updated>
+    <updated>2022-08-11T15:35:43.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Web3的开源Zapier替代品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32425915</id>
+        <link href="https://news.ycombinator.com/item?id=32425915"/>
+        <updated>2022-08-11T14:14:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open Source Zapier Alternative for Web3]]></summary>
+        <author>
+            <name>HenryHengZJ</name>
+            <uri>https://news.ycombinator.com/user?id=HenryHengZJ</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[InnerSense - 基于科学的日常心理护理
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>inspired_prgmr</name>
             <uri>https://news.ycombinator.com/user?id=inspired_prgmr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[时区同步小工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32190071</id>
-        <link href="https://news.ycombinator.com/item?id=32190071"/>
-        <updated>2022-07-22T09:08:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Timezone Sync Widget]]></summary>
-        <author>
-            <name>chenlevy</name>
-            <uri>https://news.ycombinator.com/user?id=chenlevy</uri>
         </author>
     </entry>
 </feed>
