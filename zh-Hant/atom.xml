@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-11T17:41:05.941Z</updated>
+    <updated>2022-08-11T18:38:11.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我利用GPT-3和DALL-E為我兒子創作了一個睡前故事
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32429721</id>
+        <link href="https://news.ycombinator.com/item?id=32429721"/>
+        <updated>2022-08-11T18:17:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I created a bedtime story for my son using GPT-3 and DALL-E]]></summary>
+        <author>
+            <name>laktek</name>
+            <uri>https://news.ycombinator.com/user?id=laktek</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[到你周圍的隨機地點、公園和餐館去看看
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>radhakrsna</name>
             <uri>https://news.ycombinator.com/user?id=radhakrsna</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[humble-cli - 一個下載Humble Bundle購買的CLI工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32190600</id>
-        <link href="https://news.ycombinator.com/item?id=32190600"/>
-        <updated>2022-07-22T10:52:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: humble-cli – A CLI tool to download Humble Bundle purchases]]></summary>
-        <author>
-            <name>smbl64</name>
-            <uri>https://news.ycombinator.com/user?id=smbl64</uri>
         </author>
     </entry>
 </feed>
