@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 11 Aug 2022 17:13:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 17:41:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[到你周圍的隨機地點、公園和餐館去看看
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32428530</link>
+            <guid>https://news.ycombinator.com/item?id=32428530</guid>
+            <pubDate>Thu, 11 Aug 2022 16:50:51 GMT</pubDate>
+            <description><![CDATA[Show HN: Go to random locations, parks and restaurants around you]]></description>
+        </item>
         <item>
             <title><![CDATA[語言學的反模式
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32190600</guid>
             <pubDate>Fri, 22 Jul 2022 10:52:58 GMT</pubDate>
             <description><![CDATA[Show HN: humble-cli – A CLI tool to download Humble Bundle purchases]]></description>
-        </item>
-        <item>
-            <title><![CDATA[浮橋，一對一的會議追蹤器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32190504</link>
-            <guid>https://news.ycombinator.com/item?id=32190504</guid>
-            <pubDate>Fri, 22 Jul 2022 10:34:57 GMT</pubDate>
-            <description><![CDATA[Show HN: Pontoon, one to one meeting tracker]]></description>
         </item>
     </channel>
 </rss>

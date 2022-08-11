@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-11T17:13:35.774Z</updated>
+    <updated>2022-08-11T17:41:05.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[到你周围的随机地点、公园和餐馆去看看
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32428530</id>
+        <link href="https://news.ycombinator.com/item?id=32428530"/>
+        <updated>2022-08-11T16:50:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Go to random locations, parks and restaurants around you]]></summary>
+        <author>
+            <name>Zakuzaa</name>
+            <uri>https://news.ycombinator.com/user?id=Zakuzaa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[语言学的反模式
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>smbl64</name>
             <uri>https://news.ycombinator.com/user?id=smbl64</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浮桥，一对一的会议追踪器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32190504</id>
-        <link href="https://news.ycombinator.com/item?id=32190504"/>
-        <updated>2022-07-22T10:34:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pontoon, one to one meeting tracker]]></summary>
-        <author>
-            <name>Rhysjc</name>
-            <uri>https://news.ycombinator.com/user?id=Rhysjc</uri>
         </author>
     </entry>
 </feed>
