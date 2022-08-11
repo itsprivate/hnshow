@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-11T16:43:08.932Z</updated>
+    <updated>2022-08-11T17:13:35.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[语言学的反模式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32428525</id>
+        <link href="https://news.ycombinator.com/item?id=32428525"/>
+        <updated>2022-08-11T16:50:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Linguistic Antipatterns]]></summary>
+        <author>
+            <name>Darmani</name>
+            <uri>https://news.ycombinator.com/user?id=Darmani</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[地图之友。发现、订阅和创建互动地图
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Rhysjc</name>
             <uri>https://news.ycombinator.com/user?id=Rhysjc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js，Prisma，可以重复使用的Docker Boilerplate
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32190336</id>
-        <link href="https://news.ycombinator.com/item?id=32190336"/>
-        <updated>2022-07-22T10:02:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Next.js, Prisma, Docker Boilerplate that you can reuse]]></summary>
-        <author>
-            <name>acczasearchapi</name>
-            <uri>https://news.ycombinator.com/user?id=acczasearchapi</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 11 Aug 2022 16:43:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 17:13:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[語言學的反模式
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32428525</link>
+            <guid>https://news.ycombinator.com/item?id=32428525</guid>
+            <pubDate>Thu, 11 Aug 2022 16:50:31 GMT</pubDate>
+            <description><![CDATA[Show HN: Linguistic Antipatterns]]></description>
+        </item>
         <item>
             <title><![CDATA[地圖之友。發現、訂閱和創建互動地圖
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32190504</guid>
             <pubDate>Fri, 22 Jul 2022 10:34:57 GMT</pubDate>
             <description><![CDATA[Show HN: Pontoon, one to one meeting tracker]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Next.js，Prisma，可以重複使用的Docker Boilerplate
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32190336</link>
-            <guid>https://news.ycombinator.com/item?id=32190336</guid>
-            <pubDate>Fri, 22 Jul 2022 10:02:10 GMT</pubDate>
-            <description><![CDATA[Show HN: Next.js, Prisma, Docker Boilerplate that you can reuse]]></description>
         </item>
     </channel>
 </rss>
