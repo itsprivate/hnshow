@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-11T15:35:43.139Z</updated>
+    <updated>2022-08-11T16:43:08.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[地圖之友。發現、訂閱和創建互動地圖
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32428219</id>
+        <link href="https://news.ycombinator.com/item?id=32428219"/>
+        <updated>2022-08-11T16:33:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Map Buddy: Discover, subscribe, and create interactive maps]]></summary>
+        <author>
+            <name>tlhunter</name>
+            <uri>https://news.ycombinator.com/user?id=tlhunter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web3的開源Zapier替代品
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>acczasearchapi</name>
             <uri>https://news.ycombinator.com/user?id=acczasearchapi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了你會喜歡的社交媒體管理平臺
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32190137</id>
-        <link href="https://news.ycombinator.com/item?id=32190137"/>
-        <updated>2022-07-22T09:21:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built the social media management platform you'll love]]></summary>
-        <author>
-            <name>inspired_prgmr</name>
-            <uri>https://news.ycombinator.com/user?id=inspired_prgmr</uri>
         </author>
     </entry>
 </feed>
