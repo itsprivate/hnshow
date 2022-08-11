@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-11T07:30:57.323Z</updated>
+    <updated>2022-08-11T08:34:28.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[通讯市场--为你的通讯寻找交叉推广伙伴
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32422997</id>
+        <link href="https://news.ycombinator.com/item?id=32422997"/>
+        <updated>2022-08-11T08:29:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Newsletter Market – find cross-promotion partners for your newsletter]]></summary>
+        <author>
+            <name>jakobgreenfeld</name>
+            <uri>https://news.ycombinator.com/user?id=jakobgreenfeld</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SharinGAN - 用GANs生成火影忍者的分享者
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>votick</name>
             <uri>https://news.ycombinator.com/user?id=votick</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JAMSTACK内的浏览器分析功能
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32182674</id>
-        <link href="https://news.ycombinator.com/item?id=32182674"/>
-        <updated>2022-07-21T18:05:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: In-browser analytics within JAMSTACK]]></summary>
-        <author>
-            <name>dirslashls</name>
-            <uri>https://news.ycombinator.com/user?id=dirslashls</uri>
         </author>
     </entry>
 </feed>
