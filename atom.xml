@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-11T10:37:11.823Z</updated>
+    <updated>2022-08-11T11:27:56.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Reddit Playlists - 来自100个音乐子版块的每周Spotify播放列表
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32423987</id>
+        <link href="https://news.ycombinator.com/item?id=32423987"/>
+        <updated>2022-08-11T11:08:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Reddit Playlists – weekly Spotify playlists from 100 music subreddits]]></summary>
+        <author>
+            <name>lawlorino</name>
+            <uri>https://news.ycombinator.com/user?id=lawlorino</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[流行的Gits--来自*你*的观点的最佳Githubs
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32423955</id>
+        <link href="https://news.ycombinator.com/item?id=32423955"/>
+        <updated>2022-08-11T11:02:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Popular Gits – best Githubs from *your* POV]]></summary>
+        <author>
+            <name>tradrich</name>
+            <uri>https://news.ycombinator.com/user?id=tradrich</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YepCode Recipes。用开发者的Zapier连接服务和API
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>kb2014</name>
             <uri>https://news.ycombinator.com/user?id=kb2014</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scribe，一个用于编写、运行和生成CI管道的Go库
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32185728</id>
-        <link href="https://news.ycombinator.com/item?id=32185728"/>
-        <updated>2022-07-21T21:58:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Scribe, a Go library for writing, running, and generating CI pipelines]]></summary>
-        <author>
-            <name>kminehart</name>
-            <uri>https://news.ycombinator.com/user?id=kminehart</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧拉项目离线
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32184514</id>
-        <link href="https://news.ycombinator.com/item?id=32184514"/>
-        <updated>2022-07-21T20:24:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Project Euler Offline]]></summary>
-        <author>
-            <name>pveierland</name>
-            <uri>https://news.ycombinator.com/user?id=pveierland</uri>
         </author>
     </entry>
 </feed>
