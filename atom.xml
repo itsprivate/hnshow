@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-11T02:17:44.484Z</updated>
+    <updated>2022-08-11T07:30:57.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[SharinGAN - 用GANs生成火影忍者的分享者
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32422556</id>
+        <link href="https://news.ycombinator.com/item?id=32422556"/>
+        <updated>2022-08-11T07:24:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SharinGAN - Generating Naruto Sharingans with GANs]]></summary>
+        <author>
+            <name>leonardtang</name>
+            <uri>https://news.ycombinator.com/user?id=leonardtang</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mailisk - 用代码接收电子邮件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32422532</id>
+        <link href="https://news.ycombinator.com/item?id=32422532"/>
+        <updated>2022-08-11T07:21:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mailisk – Receive Emails with Code]]></summary>
+        <author>
+            <name>waffleweb</name>
+            <uri>https://news.ycombinator.com/user?id=waffleweb</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于员工沟通和表彰的GPT3小工具
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>dirslashls</name>
             <uri>https://news.ycombinator.com/user?id=dirslashls</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sudopad V2 - 现在您可以保存您的垫子并创建私人板块
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32182190</id>
-        <link href="https://news.ycombinator.com/item?id=32182190"/>
-        <updated>2022-07-21T17:27:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Sudopad V2 – Now you can save your pads and create private boards]]></summary>
-        <author>
-            <name>ishanr</name>
-            <uri>https://news.ycombinator.com/user?id=ishanr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call4U - 为您处理预约
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32181269</id>
-        <link href="https://news.ycombinator.com/item?id=32181269"/>
-        <updated>2022-07-21T16:23:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Call4U – Handling Appointments for You]]></summary>
-        <author>
-            <name>Gelubt</name>
-            <uri>https://news.ycombinator.com/user?id=Gelubt</uri>
         </author>
     </entry>
 </feed>
