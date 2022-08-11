@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-10T20:48:42.134Z</updated>
+    <updated>2022-08-11T02:17:44.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于员工沟通和表彰的GPT3小工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32420607</id>
+        <link href="https://news.ycombinator.com/item?id=32420607"/>
+        <updated>2022-08-11T01:35:21.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GPT3 Widget for Employee Communications and Recognition]]></summary>
+        <author>
+            <name>mvpreneur</name>
+            <uri>https://news.ycombinator.com/user?id=mvpreneur</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于A16Z的初创企业估值的计算器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Gelubt</name>
             <uri>https://news.ycombinator.com/user?id=Gelubt</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果公司的动画CPU编程平台
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32181251</id>
-        <link href="https://news.ycombinator.com/item?id=32181251"/>
-        <updated>2022-07-21T16:21:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Animation CPU programming platform for Apple]]></summary>
-        <author>
-            <name>ellis0n</name>
-            <uri>https://news.ycombinator.com/user?id=ellis0n</uri>
         </author>
     </entry>
 </feed>
