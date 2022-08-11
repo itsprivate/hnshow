@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 11 Aug 2022 09:49:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 10:37:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[YepCode Recipes。用开发者的Zapier连接服务和API
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32423672</link>
+            <guid>https://news.ycombinator.com/item?id=32423672</guid>
+            <pubDate>Thu, 11 Aug 2022 10:19:30 GMT</pubDate>
+            <description><![CDATA[Show HN: YepCode Recipes. Connect Services and APIs with a Zapier for Developers]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一个用于现场演示的CLI自动驾驶仪，带有演示者视图
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32423655</link>
+            <guid>https://news.ycombinator.com/item?id=32423655</guid>
+            <pubDate>Thu, 11 Aug 2022 10:16:11 GMT</pubDate>
+            <description><![CDATA[Show HN: A CLI autopilot for live demos, with presenter view]]></description>
+        </item>
         <item>
             <title><![CDATA[Proxy.py
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32184514</guid>
             <pubDate>Thu, 21 Jul 2022 20:24:08 GMT</pubDate>
             <description><![CDATA[Show HN: Project Euler Offline]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我的书中关于ALS研究的一个样本章节
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32183677</link>
-            <guid>https://news.ycombinator.com/item?id=32183677</guid>
-            <pubDate>Thu, 21 Jul 2022 19:21:12 GMT</pubDate>
-            <description><![CDATA[Show HN: A sample chapter of my book about ALS research]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用一个命令在浏览器中打开当前的拉动请求
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32183613</link>
-            <guid>https://news.ycombinator.com/item?id=32183613</guid>
-            <pubDate>Thu, 21 Jul 2022 19:16:50 GMT</pubDate>
-            <description><![CDATA[Show HN: Open current Pull Request in browser with a single command]]></description>
         </item>
     </channel>
 </rss>

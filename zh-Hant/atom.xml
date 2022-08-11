@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-11T09:49:12.048Z</updated>
+    <updated>2022-08-11T10:37:11.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[YepCode Recipes。用開發者的Zapier連接服務和API
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32423672</id>
+        <link href="https://news.ycombinator.com/item?id=32423672"/>
+        <updated>2022-08-11T10:19:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: YepCode Recipes. Connect Services and APIs with a Zapier for Developers]]></summary>
+        <author>
+            <name>mmuino</name>
+            <uri>https://news.ycombinator.com/user?id=mmuino</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個用於現場演示的CLI自動駕駛儀，帶有演示者視圖
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32423655</id>
+        <link href="https://news.ycombinator.com/item?id=32423655"/>
+        <updated>2022-08-11T10:16:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A CLI autopilot for live demos, with presenter view]]></summary>
+        <author>
+            <name>stavros</name>
+            <uri>https://news.ycombinator.com/user?id=stavros</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proxy.py
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>pveierland</name>
             <uri>https://news.ycombinator.com/user?id=pveierland</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的書中關於ALS研究的一個樣本章節
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32183677</id>
-        <link href="https://news.ycombinator.com/item?id=32183677"/>
-        <updated>2022-07-21T19:21:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A sample chapter of my book about ALS research]]></summary>
-        <author>
-            <name>JPLeRouzic</name>
-            <uri>https://news.ycombinator.com/user?id=JPLeRouzic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用一個命令在瀏覽器中打開當前的拉動請求
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32183613</id>
-        <link href="https://news.ycombinator.com/item?id=32183613"/>
-        <updated>2022-07-21T19:16:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open current Pull Request in browser with a single command]]></summary>
-        <author>
-            <name>pankarol</name>
-            <uri>https://news.ycombinator.com/user?id=pankarol</uri>
         </author>
     </entry>
 </feed>
