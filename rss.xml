@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 11 Aug 2022 08:34:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 08:54:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Java工作委员会 - 远程和现场
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32423019</link>
+            <guid>https://news.ycombinator.com/item?id=32423019</guid>
+            <pubDate>Thu, 11 Aug 2022 08:32:29 GMT</pubDate>
+            <description><![CDATA[Show HN: Java Jobs Board – Remote and OnSite]]></description>
+        </item>
         <item>
             <title><![CDATA[通讯市场--为你的通讯寻找交叉推广伙伴
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32182774</guid>
             <pubDate>Thu, 21 Jul 2022 18:15:48 GMT</pubDate>
             <description><![CDATA[Show HN: Image to CRT]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Banana.dev用于机器学习推理的无服务器GPU
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32182767</link>
-            <guid>https://news.ycombinator.com/item?id=32182767</guid>
-            <pubDate>Thu, 21 Jul 2022 18:15:05 GMT</pubDate>
-            <description><![CDATA[Show HN: Banana.dev Serverless GPUs for Machine Learning Inference]]></description>
         </item>
     </channel>
 </rss>

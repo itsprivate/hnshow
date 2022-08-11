@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-11T08:34:28.392Z</updated>
+    <updated>2022-08-11T08:54:51.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Java工作委员会 - 远程和现场
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32423019</id>
+        <link href="https://news.ycombinator.com/item?id=32423019"/>
+        <updated>2022-08-11T08:32:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Java Jobs Board – Remote and OnSite]]></summary>
+        <author>
+            <name>fullstackjob</name>
+            <uri>https://news.ycombinator.com/user?id=fullstackjob</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通讯市场--为你的通讯寻找交叉推广伙伴
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>atum47</name>
             <uri>https://news.ycombinator.com/user?id=atum47</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Banana.dev用于机器学习推理的无服务器GPU
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32182767</id>
-        <link href="https://news.ycombinator.com/item?id=32182767"/>
-        <updated>2022-07-21T18:15:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Banana.dev Serverless GPUs for Machine Learning Inference]]></summary>
-        <author>
-            <name>votick</name>
-            <uri>https://news.ycombinator.com/user?id=votick</uri>
         </author>
     </entry>
 </feed>
