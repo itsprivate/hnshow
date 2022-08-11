@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-11T20:35:22.733Z</updated>
+    <updated>2022-08-11T20:50:43.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Wordle但用于推文
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32431368</id>
+        <link href="https://news.ycombinator.com/item?id=32431368"/>
+        <updated>2022-08-11T20:34:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Wordle but for Tweets]]></summary>
+        <author>
+            <name>mox111</name>
+            <uri>https://news.ycombinator.com/user?id=mox111</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vocoder - 源代码听写和语音控制
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32431337</id>
+        <link href="https://news.ycombinator.com/item?id=32431337"/>
+        <updated>2022-08-11T20:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Vocoder – source code dictation and voice control]]></summary>
+        <author>
+            <name>ricky0123</name>
+            <uri>https://news.ycombinator.com/user?id=ricky0123</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[测试人员的 "增强现实"
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>pcbje</name>
             <uri>https://news.ycombinator.com/user?id=pcbje</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[向那些抱怨维基百科不可靠的人发送的网站
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32191749</id>
-        <link href="https://news.ycombinator.com/item?id=32191749"/>
-        <updated>2022-07-22T13:38:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A site to send to people who whine about how unreliable Wikipedia is]]></summary>
-        <author>
-            <name>TheresNoTime</name>
-            <uri>https://news.ycombinator.com/user?id=TheresNoTime</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用WebRTC从浏览器向AWS的IVS（Twitch）进行广播
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32191455</id>
-        <link href="https://news.ycombinator.com/item?id=32191455"/>
-        <updated>2022-07-22T13:02:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Broadcast to AWS' IVS (Twitch) from the Browser Using WebRTC]]></summary>
-        <author>
-            <name>Sean-Der</name>
-            <uri>https://news.ycombinator.com/user?id=Sean-Der</uri>
         </author>
     </entry>
 </feed>
