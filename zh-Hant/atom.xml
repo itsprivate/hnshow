@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-12T14:58:29.056Z</updated>
+    <updated>2022-08-12T15:40:11.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[從手繪的動漫人物中渲染舞蹈視頻
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32438415</id>
+        <link href="https://news.ycombinator.com/item?id=32438415"/>
+        <updated>2022-08-12T13:35:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Render dancing videos from hand-drawn anime characters]]></summary>
+        <author>
+            <name>hzwer</name>
+            <uri>https://news.ycombinator.com/user?id=hzwer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[元氣革命 數字雙胞胎如何改造企業
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rbanffy</name>
             <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過GitHub行動進行開放API和GraphQL模糊測試
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32193967</id>
-        <link href="https://news.ycombinator.com/item?id=32193967"/>
-        <updated>2022-07-22T16:37:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open API and GraphQL Fuzzing via GitHub Actions]]></summary>
-        <author>
-            <name>dmitry_dygalo</name>
-            <uri>https://news.ycombinator.com/user?id=dmitry_dygalo</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 12 Aug 2022 14:58:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 15:40:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[从手绘的动漫人物中渲染舞蹈视频
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32438415</link>
+            <guid>https://news.ycombinator.com/item?id=32438415</guid>
+            <pubDate>Fri, 12 Aug 2022 13:35:56 GMT</pubDate>
+            <description><![CDATA[Show HN: Render dancing videos from hand-drawn anime characters]]></description>
+        </item>
         <item>
             <title><![CDATA[元气革命 数字双胞胎如何改造企业
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32194087</guid>
             <pubDate>Fri, 22 Jul 2022 16:44:39 GMT</pubDate>
             <description><![CDATA[Show HN: Windows Terminal Screen Noise]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通过GitHub行动进行开放API和GraphQL模糊测试
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32193967</link>
-            <guid>https://news.ycombinator.com/item?id=32193967</guid>
-            <pubDate>Fri, 22 Jul 2022 16:37:01 GMT</pubDate>
-            <description><![CDATA[Show HN: Open API and GraphQL Fuzzing via GitHub Actions]]></description>
         </item>
     </channel>
 </rss>
