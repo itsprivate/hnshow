@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-12T19:26:06.783Z</updated>
+    <updated>2022-08-12T22:02:31.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DAW JSON鏈接
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32444375</id>
+        <link href="https://news.ycombinator.com/item?id=32444375"/>
+        <updated>2022-08-12T21:54:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: DAW JSON Link]]></summary>
+        <author>
+            <name>beached_whale</name>
+            <uri>https://news.ycombinator.com/user?id=beached_whale</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FOSS本地首創的跨平臺手寫記事本應用
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>xookeee</name>
             <uri>https://news.ycombinator.com/user?id=xookeee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個更好的版本控制IAC的方法
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32198459</id>
-        <link href="https://news.ycombinator.com/item?id=32198459"/>
-        <updated>2022-07-22T23:38:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A better way of version controlling IAC]]></summary>
-        <author>
-            <name>movedx</name>
-            <uri>https://news.ycombinator.com/user?id=movedx</uri>
         </author>
     </entry>
 </feed>

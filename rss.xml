@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 12 Aug 2022 19:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 22:02:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[DAW JSON链接
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32444375</link>
+            <guid>https://news.ycombinator.com/item?id=32444375</guid>
+            <pubDate>Fri, 12 Aug 2022 21:54:08 GMT</pubDate>
+            <description><![CDATA[Show HN: DAW JSON Link]]></description>
+        </item>
         <item>
             <title><![CDATA[FOSS本地首创的跨平台手写记事本应用
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32199993</guid>
             <pubDate>Sat, 23 Jul 2022 03:17:38 GMT</pubDate>
             <description><![CDATA[Show HN: Cryptosaving a tool crypto DCA calculator]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个更好的版本控制IAC的方法
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32198459</link>
-            <guid>https://news.ycombinator.com/item?id=32198459</guid>
-            <pubDate>Fri, 22 Jul 2022 23:38:56 GMT</pubDate>
-            <description><![CDATA[Show HN: A better way of version controlling IAC]]></description>
         </item>
     </channel>
 </rss>
