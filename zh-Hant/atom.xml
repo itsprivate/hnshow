@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-12T07:28:40.026Z</updated>
+    <updated>2022-08-12T13:00:50.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Busy - 一個精簡的、靜態類型的構建系統，用於GCC Clang MSVC
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32437717</id>
+        <link href="https://news.ycombinator.com/item?id=32437717"/>
+        <updated>2022-08-12T12:49:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Busy – a lean, statically typed build system for GCC Clang MSVC]]></summary>
+        <author>
+            <name>Rochus</name>
+            <uri>https://news.ycombinator.com/user?id=Rochus</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[軟件工程經理的副手
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rgbrgb</name>
             <uri>https://news.ycombinator.com/user?id=rgbrgb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普羅維登斯，為React提供更好的狀態管理
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32193361</id>
-        <link href="https://news.ycombinator.com/item?id=32193361"/>
-        <updated>2022-07-22T15:54:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Providence, Better State Management for React]]></summary>
-        <author>
-            <name>FoxyFoxie</name>
-            <uri>https://news.ycombinator.com/user?id=FoxyFoxie</uri>
         </author>
     </entry>
 </feed>

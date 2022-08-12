@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 12 Aug 2022 07:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 13:00:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Busy - 一個精簡的、靜態類型的構建系統，用於GCC Clang MSVC
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32437717</link>
+            <guid>https://news.ycombinator.com/item?id=32437717</guid>
+            <pubDate>Fri, 12 Aug 2022 12:49:09 GMT</pubDate>
+            <description><![CDATA[Show HN: Busy – a lean, statically typed build system for GCC Clang MSVC]]></description>
+        </item>
         <item>
             <title><![CDATA[軟件工程經理的副手
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32193506</guid>
             <pubDate>Fri, 22 Jul 2022 16:01:57 GMT</pubDate>
             <description><![CDATA[Show HN: Mailing, send emails with TypeScript and React]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普羅維登斯，為React提供更好的狀態管理
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32193361</link>
-            <guid>https://news.ycombinator.com/item?id=32193361</guid>
-            <pubDate>Fri, 22 Jul 2022 15:54:46 GMT</pubDate>
-            <description><![CDATA[Show HN: Providence, Better State Management for React]]></description>
         </item>
     </channel>
 </rss>
