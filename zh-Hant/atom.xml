@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-12T18:39:20.568Z</updated>
+    <updated>2022-08-12T18:57:14.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[只聽。聽隨機的播客集
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32442420</id>
+        <link href="https://news.ycombinator.com/item?id=32442420"/>
+        <updated>2022-08-12T18:43:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Just Listen: Listen to random podcast episodes]]></summary>
+        <author>
+            <name>wenbin</name>
+            <uri>https://news.ycombinator.com/user?id=wenbin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[將舊的Nvidia Shield電視變成Ubuntu Linux盒子
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kinoro</name>
             <uri>https://news.ycombinator.com/user?id=kinoro</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacolyte - 一個用NextJS構建的Hacker News閱讀器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32196476</id>
-        <link href="https://news.ycombinator.com/item?id=32196476"/>
-        <updated>2022-07-22T20:03:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hacolyte – a Hacker News reader built with NextJS]]></summary>
-        <author>
-            <name>iamdan</name>
-            <uri>https://news.ycombinator.com/user?id=iamdan</uri>
         </author>
     </entry>
 </feed>
