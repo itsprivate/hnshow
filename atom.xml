@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-12T16:49:19.935Z</updated>
+    <updated>2022-08-12T17:18:58.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Merle，一个用Go编写的物联网框架
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32441264</id>
+        <link href="https://news.ycombinator.com/item?id=32441264"/>
+        <updated>2022-08-12T17:03:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Merle, an IoT framework written in Go]]></summary>
+        <author>
+            <name>sfeldma</name>
+            <uri>https://news.ycombinator.com/user?id=sfeldma</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个简单的加密货币价格投注平台
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>hidelooktropic</name>
             <uri>https://news.ycombinator.com/user?id=hidelooktropic</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奎因承诺
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32194845</id>
-        <link href="https://news.ycombinator.com/item?id=32194845"/>
-        <updated>2022-07-22T17:42:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Quine Commit]]></summary>
-        <author>
-            <name>broothie</name>
-            <uri>https://news.ycombinator.com/user?id=broothie</uri>
         </author>
     </entry>
 </feed>
