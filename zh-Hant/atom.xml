@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-12T18:57:14.012Z</updated>
+    <updated>2022-08-12T19:26:06.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FOSS本地首創的跨平臺手寫記事本應用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32442792</id>
+        <link href="https://news.ycombinator.com/item?id=32442792"/>
+        <updated>2022-08-12T19:14:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: FOSS local-first cross-platform note-taking app with handwriting]]></summary>
+        <author>
+            <name>codedoctor</name>
+            <uri>https://news.ycombinator.com/user?id=codedoctor</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[inca.fm - 通過結合照片、語音和文字創建一個短視頻
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32442778</id>
+        <link href="https://news.ycombinator.com/item?id=32442778"/>
+        <updated>2022-08-12T19:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: inca.fm - Create a short video by combining a photo, voice, and text]]></summary>
+        <author>
+            <name>wenbin</name>
+            <uri>https://news.ycombinator.com/user?id=wenbin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美國所有食品店的菜單項目列表（按郵政編碼）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32442707</id>
+        <link href="https://news.ycombinator.com/item?id=32442707"/>
+        <updated>2022-08-12T19:07:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: List of Menu Items for all Food stores in USA (zipcode wise)]]></summary>
+        <author>
+            <name>MenumyApp</name>
+            <uri>https://news.ycombinator.com/user?id=MenumyApp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[只聽。聽隨機的播客集
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>movedx</name>
             <uri>https://news.ycombinator.com/user?id=movedx</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[像CRT顯示器一樣顯示一個圖像
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32198455</id>
-        <link href="https://news.ycombinator.com/item?id=32198455"/>
-        <updated>2022-07-22T23:38:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Display an image like a CRT monitor]]></summary>
-        <author>
-            <name>atum47</name>
-            <uri>https://news.ycombinator.com/user?id=atum47</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js CLI的隱私保護遙測技術
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32197261</id>
-        <link href="https://news.ycombinator.com/item?id=32197261"/>
-        <updated>2022-07-22T21:21:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Privacy-preserving telemetry for Node.js CLIs]]></summary>
-        <author>
-            <name>matt_the_cat</name>
-            <uri>https://news.ycombinator.com/user?id=matt_the_cat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我為Megadash做了一個原型--輕鬆實現可視化分享你的指標
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32196516</id>
-        <link href="https://news.ycombinator.com/item?id=32196516"/>
-        <updated>2022-07-22T20:06:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a prototype for Megadash – easily share your metrics visually]]></summary>
-        <author>
-            <name>kinoro</name>
-            <uri>https://news.ycombinator.com/user?id=kinoro</uri>
         </author>
     </entry>
 </feed>
