@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-12T15:40:11.426Z</updated>
+    <updated>2022-08-12T15:55:07.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[以非常不像機構的價格提供機構質量的設計和開發
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32440171</id>
+        <link href="https://news.ycombinator.com/item?id=32440171"/>
+        <updated>2022-08-12T15:39:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Agency quality design and development for a very un-agency like price]]></summary>
+        <author>
+            <name>oldstrangers</name>
+            <uri>https://news.ycombinator.com/user?id=oldstrangers</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[從手繪的動漫人物中渲染舞蹈視頻
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Ro_Khameshra</name>
             <uri>https://news.ycombinator.com/user?id=Ro_Khameshra</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows終端的屏幕噪音
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32194087</id>
-        <link href="https://news.ycombinator.com/item?id=32194087"/>
-        <updated>2022-07-22T16:44:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Windows Terminal Screen Noise]]></summary>
-        <author>
-            <name>rbanffy</name>
-            <uri>https://news.ycombinator.com/user?id=rbanffy</uri>
         </author>
     </entry>
 </feed>
