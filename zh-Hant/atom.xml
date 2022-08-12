@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-12T15:55:07.612Z</updated>
+    <updated>2022-08-12T16:49:19.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個簡單的加密貨幣價格投注平臺
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32440757</id>
+        <link href="https://news.ycombinator.com/item?id=32440757"/>
+        <updated>2022-08-12T16:23:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A simple price betting platform on crypto]]></summary>
+        <author>
+            <name>popcreator</name>
+            <uri>https://news.ycombinator.com/user?id=popcreator</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蘋果公司GAUDI細分
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32440539</id>
+        <link href="https://news.ycombinator.com/item?id=32440539"/>
+        <updated>2022-08-12T16:05:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Apple GAUDI Breakdown]]></summary>
+        <author>
+            <name>Simorgh</name>
+            <uri>https://news.ycombinator.com/user?id=Simorgh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以非常不像機構的價格提供機構質量的設計和開發
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>broothie</name>
             <uri>https://news.ycombinator.com/user?id=broothie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zazow - 生成藝術玩具（分形圖、螺旋圖、Satori，等等）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32194482</id>
-        <link href="https://news.ycombinator.com/item?id=32194482"/>
-        <updated>2022-07-22T17:14:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Zazow – Generative Art Toy (fractals, spirograph, satori, etc.)]]></summary>
-        <author>
-            <name>offsky</name>
-            <uri>https://news.ycombinator.com/user?id=offsky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Datazip - 重整數據基礎設施
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32194253</id>
-        <link href="https://news.ycombinator.com/item?id=32194253"/>
-        <updated>2022-07-22T16:56:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Datazip – Retool for Data Infrastructure]]></summary>
-        <author>
-            <name>Ro_Khameshra</name>
-            <uri>https://news.ycombinator.com/user?id=Ro_Khameshra</uri>
         </author>
     </entry>
 </feed>
