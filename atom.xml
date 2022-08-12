@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-12T22:02:31.072Z</updated>
+    <updated>2022-08-12T22:30:08.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Makerverse - 一个教授编码和发明的3D游戏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32444660</id>
+        <link href="https://news.ycombinator.com/item?id=32444660"/>
+        <updated>2022-08-12T22:21:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Makerverse – a 3D game that teaches coding and invention]]></summary>
+        <author>
+            <name>jturly</name>
+            <uri>https://news.ycombinator.com/user?id=jturly</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DAW JSON链接
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>EsportToys</name>
             <uri>https://news.ycombinator.com/user?id=EsportToys</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密保存一个工具加密DCA计算器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32199993</id>
-        <link href="https://news.ycombinator.com/item?id=32199993"/>
-        <updated>2022-07-23T03:17:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Cryptosaving a tool crypto DCA calculator]]></summary>
-        <author>
-            <name>xookeee</name>
-            <uri>https://news.ycombinator.com/user?id=xookeee</uri>
         </author>
     </entry>
 </feed>
