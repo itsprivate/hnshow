@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-12T06:37:37.558Z</updated>
+    <updated>2022-08-12T07:28:39.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[软件工程经理的副手
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32435475</id>
+        <link href="https://news.ycombinator.com/item?id=32435475"/>
+        <updated>2022-08-12T07:15:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Software Engineering Manager's Sidekick]]></summary>
+        <author>
+            <name>dhruvagga</name>
+            <uri>https://news.ycombinator.com/user?id=dhruvagga</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[结构良好且经过测试的数据科学项目模板
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>FoxyFoxie</name>
             <uri>https://news.ycombinator.com/user?id=FoxyFoxie</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[远程工作就像朝九晚五
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32192787</id>
-        <link href="https://news.ycombinator.com/item?id=32192787"/>
-        <updated>2022-07-22T15:12:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Remote Jobs are like 9-5]]></summary>
-        <author>
-            <name>UIH</name>
-            <uri>https://news.ycombinator.com/user?id=UIH</uri>
         </author>
     </entry>
 </feed>
