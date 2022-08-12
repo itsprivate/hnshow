@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 12 Aug 2022 17:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 18:39:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[将旧的Nvidia Shield电视变成Ubuntu Linux盒子
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32442072</link>
+            <guid>https://news.ycombinator.com/item?id=32442072</guid>
+            <pubDate>Fri, 12 Aug 2022 18:13:54 GMT</pubDate>
+            <description><![CDATA[Show HN: Turn an Old Nvidia Shield TV into a Ubuntu Linux Box]]></description>
+        </item>
         <item>
             <title><![CDATA[Merle，一个用Go编写的物联网框架
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32196476</guid>
             <pubDate>Fri, 22 Jul 2022 20:03:20 GMT</pubDate>
             <description><![CDATA[Show HN: Hacolyte – a Hacker News reader built with NextJS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[SimPer在重新加载时保存你的CSS类别
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32195247</link>
-            <guid>https://news.ycombinator.com/item?id=32195247</guid>
-            <pubDate>Fri, 22 Jul 2022 18:10:13 GMT</pubDate>
-            <description><![CDATA[Show HN: SimPer saves your CSS classes on reload]]></description>
         </item>
     </channel>
 </rss>
