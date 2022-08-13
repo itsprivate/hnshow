@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 13 Aug 2022 13:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 14:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個用於eInk設備的VNC瀏覽器，在書寫文本時能夠達到30FPS
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32449857</link>
+            <guid>https://news.ycombinator.com/item?id=32449857</guid>
+            <pubDate>Sat, 13 Aug 2022 13:49:21 GMT</pubDate>
+            <description><![CDATA[Show HN: A VNC viewer for eInk devices capable of 30 FPS when writing text]]></description>
+        </item>
         <item>
             <title><![CDATA[隱性貨幣的新手指南
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32203117</guid>
             <pubDate>Sat, 23 Jul 2022 13:24:37 GMT</pubDate>
             <description><![CDATA[Show HN: My Weight over 18 Months]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Catp - 打印一個運行中的進程的輸出（可能是/dev/null）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32202957</link>
-            <guid>https://news.ycombinator.com/item?id=32202957</guid>
-            <pubDate>Sat, 23 Jul 2022 13:07:48 GMT</pubDate>
-            <description><![CDATA[Show HN: Catp – print the output of a running process (which may be /dev/null)]]></description>
         </item>
     </channel>
 </rss>
