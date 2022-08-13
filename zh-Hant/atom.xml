@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-13T17:05:31.996Z</updated>
+    <updated>2022-08-13T17:37:01.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[書。銷售文案/產品信息傳遞（簡短而實用）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32451840</id>
+        <link href="https://news.ycombinator.com/item?id=32451840"/>
+        <updated>2022-08-13T17:17:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Book: Sales copy/product messaging (Short and Practical)]]></summary>
+        <author>
+            <name>PaulMontreal</name>
+            <uri>https://news.ycombinator.com/user?id=PaulMontreal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沼澤狼人的文字遊戲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32451797</id>
+        <link href="https://news.ycombinator.com/item?id=32451797"/>
+        <updated>2022-08-13T17:11:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bog Gobbler Word Game]]></summary>
+        <author>
+            <name>wdumaresq</name>
+            <uri>https://news.ycombinator.com/user?id=wdumaresq</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Altilunium MD - 基於Markdown的在線文本處理軟件
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>umangsh</name>
             <uri>https://news.ycombinator.com/user?id=umangsh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skłable - 一個用Scala和Scala.js創建的類似於拼字的遊戲
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32204400</id>
-        <link href="https://news.ycombinator.com/item?id=32204400"/>
-        <updated>2022-07-23T15:47:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Skłable – a scrabble-like game created with Scala and Scala.js]]></summary>
-        <author>
-            <name>masterito16</name>
-            <uri>https://news.ycombinator.com/user?id=masterito16</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用WebRTC和WebSockets的互動會議演示
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32204244</id>
-        <link href="https://news.ycombinator.com/item?id=32204244"/>
-        <updated>2022-07-23T15:32:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Interactive meeting demo with WebRTC and WebSockets]]></summary>
-        <author>
-            <name>Rhysjc</name>
-            <uri>https://news.ycombinator.com/user?id=Rhysjc</uri>
         </author>
     </entry>
 </feed>
