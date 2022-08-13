@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-13T19:25:42.151Z</updated>
+    <updated>2022-08-13T20:29:48.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个基于GPU的鸟鸣小波谱工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32453419</id>
+        <link href="https://news.ycombinator.com/item?id=32453419"/>
+        <updated>2022-08-13T20:21:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I've made a GPU-based wavelet spectrogram tool for birdsongs]]></summary>
+        <author>
+            <name>gbh444g</name>
+            <uri>https://news.ycombinator.com/user?id=gbh444g</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[火箭无人机，一个月球登陆器类型的网络游戏
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tsuriyathep</name>
             <uri>https://news.ycombinator.com/user?id=tsuriyathep</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个（天真的）安全的俘虏式门户。有什么想法？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32208258</id>
-        <link href="https://news.ycombinator.com/item?id=32208258"/>
-        <updated>2022-07-23T22:38:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A (Naive) Secure Captive Portal. Thoughts?]]></summary>
-        <author>
-            <name>somishere</name>
-            <uri>https://news.ycombinator.com/user?id=somishere</uri>
         </author>
     </entry>
 </feed>

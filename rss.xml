@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 13 Aug 2022 19:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 20:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一个基于GPU的鸟鸣小波谱工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32453419</link>
+            <guid>https://news.ycombinator.com/item?id=32453419</guid>
+            <pubDate>Sat, 13 Aug 2022 20:21:01 GMT</pubDate>
+            <description><![CDATA[Show HN: I've made a GPU-based wavelet spectrogram tool for birdsongs]]></description>
+        </item>
         <item>
             <title><![CDATA[火箭无人机，一个月球登陆器类型的网络游戏
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32209009</guid>
             <pubDate>Sun, 24 Jul 2022 00:33:29 GMT</pubDate>
             <description><![CDATA[Show HN: PlotGrid.app Write Like JK Rowling]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个（天真的）安全的俘虏式门户。有什么想法？
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32208258</link>
-            <guid>https://news.ycombinator.com/item?id=32208258</guid>
-            <pubDate>Sat, 23 Jul 2022 22:38:23 GMT</pubDate>
-            <description><![CDATA[Show HN: A (Naive) Secure Captive Portal. Thoughts?]]></description>
         </item>
     </channel>
 </rss>
