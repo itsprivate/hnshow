@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-13T16:42:45.272Z</updated>
+    <updated>2022-08-13T17:05:31.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Altilunium MD - 基於Markdown的在線文本處理軟件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32451578</id>
+        <link href="https://news.ycombinator.com/item?id=32451578"/>
+        <updated>2022-08-13T16:50:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Altilunium MD – Online Markdown-Based Text Processing Software]]></summary>
+        <author>
+            <name>altilunium</name>
+            <uri>https://news.ycombinator.com/user?id=altilunium</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[內容營銷的AI作家
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Rhysjc</name>
             <uri>https://news.ycombinator.com/user?id=Rhysjc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在瀏覽器中用CycleGAN將圖像點燃
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32203571</id>
-        <link href="https://news.ycombinator.com/item?id=32203571"/>
-        <updated>2022-07-23T14:18:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Set images on fire with CycleGAN in the browser]]></summary>
-        <author>
-            <name>jasmaa</name>
-            <uri>https://news.ycombinator.com/user?id=jasmaa</uri>
         </author>
     </entry>
 </feed>
