@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 13 Aug 2022 03:39:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 04:51:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我現在將把這個發給初級程序員
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32446882</link>
+            <guid>https://news.ycombinator.com/item?id=32446882</guid>
+            <pubDate>Sat, 13 Aug 2022 04:24:02 GMT</pubDate>
+            <description><![CDATA[Show HN: I will now send this to beginner programmers]]></description>
+        </item>
         <item>
             <title><![CDATA[不要昏昏欲睡 計算機視覺和Twilio
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32200506</guid>
             <pubDate>Sat, 23 Jul 2022 04:54:31 GMT</pubDate>
             <description><![CDATA[Show HN: TheSillyHome machine learning for smart homes devices]]></description>
-        </item>
-        <item>
-            <title><![CDATA[數據驅動的路由、反向路由和ExpressJS的OpenApi庫
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32200432</link>
-            <guid>https://news.ycombinator.com/item?id=32200432</guid>
-            <pubDate>Sat, 23 Jul 2022 04:40:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Data-driven routing, reverse-routing, and OpenApi library for ExpressJS]]></description>
         </item>
     </channel>
 </rss>

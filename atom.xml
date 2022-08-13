@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-13T03:39:31.216Z</updated>
+    <updated>2022-08-13T04:51:33.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我现在将把这个发给初级程序员
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32446882</id>
+        <link href="https://news.ycombinator.com/item?id=32446882"/>
+        <updated>2022-08-13T04:24:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I will now send this to beginner programmers]]></summary>
+        <author>
+            <name>headline</name>
+            <uri>https://news.ycombinator.com/user?id=headline</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不要昏昏欲睡 计算机视觉和Twilio
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lcmchris</name>
             <uri>https://news.ycombinator.com/user?id=lcmchris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据驱动的路由、反向路由和ExpressJS的OpenApi库
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32200432</id>
-        <link href="https://news.ycombinator.com/item?id=32200432"/>
-        <updated>2022-07-23T04:40:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Data-driven routing, reverse-routing, and OpenApi library for ExpressJS]]></summary>
-        <author>
-            <name>yoaquim</name>
-            <uri>https://news.ycombinator.com/user?id=yoaquim</uri>
         </author>
     </entry>
 </feed>
