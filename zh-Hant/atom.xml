@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-12T22:30:08.403Z</updated>
+    <updated>2022-08-13T03:39:31.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不要昏昏欲睡 計算機視覺和Twilio
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32446475</id>
+        <link href="https://news.ycombinator.com/item?id=32446475"/>
+        <updated>2022-08-13T02:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Don't be drowsy Computer Vision and Twilio]]></summary>
+        <author>
+            <name>Swarup_Tripathy</name>
+            <uri>https://news.ycombinator.com/user?id=Swarup_Tripathy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Makerverse - 一個教授編碼和發明的3D遊戲
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>yoaquim</name>
             <uri>https://news.ycombinator.com/user?id=yoaquim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RawInputViewer - 檢查遊戲如何接收來自Windows的輸入。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32200218</id>
-        <link href="https://news.ycombinator.com/item?id=32200218"/>
-        <updated>2022-07-23T03:59:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: RawInputViewer – examine how games receive inputs from Windows]]></summary>
-        <author>
-            <name>EsportToys</name>
-            <uri>https://news.ycombinator.com/user?id=EsportToys</uri>
         </author>
     </entry>
 </feed>
