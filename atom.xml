@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-13T22:47:48.550Z</updated>
+    <updated>2022-08-14T03:49:42.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[为 "坏 "艺术和深思熟虑的主体性提供的创客空间
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32455892</id>
+        <link href="https://news.ycombinator.com/item?id=32455892"/>
+        <updated>2022-08-14T02:48:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Makerspace for “bad” art and thoughtful subjectivity]]></summary>
+        <author>
+            <name>zuluana</name>
+            <uri>https://news.ycombinator.com/user?id=zuluana</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[`pdf2searchablepdf`命令行工具，使PDF具有可搜索的文本
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>maxmunzel</name>
             <uri>https://news.ycombinator.com/user?id=maxmunzel</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[神圣的尾巴--加密货币游戏的前沿是不断变化的
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32211726</id>
-        <link href="https://news.ycombinator.com/item?id=32211726"/>
-        <updated>2022-07-24T09:23:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Sacred Tails – The Frontier of Crypto Gaming Is Ever-Evolving]]></summary>
-        <author>
-            <name>kaizoku111</name>
-            <uri>https://news.ycombinator.com/user?id=kaizoku111</uri>
         </author>
     </entry>
 </feed>
