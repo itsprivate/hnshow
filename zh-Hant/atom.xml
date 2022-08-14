@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-14T17:08:49.758Z</updated>
+    <updated>2022-08-14T17:40:05.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Belua, 美妙地組織聯繫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32460955</id>
+        <link href="https://news.ycombinator.com/item?id=32460955"/>
+        <updated>2022-08-14T17:14:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Belua, Beautifully Organised Contacts]]></summary>
+        <author>
+            <name>kugutsumen</name>
+            <uri>https://news.ycombinator.com/user?id=kugutsumen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黑客新聞的預測
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>jjjbokma</name>
             <uri>https://news.ycombinator.com/user?id=jjjbokma</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doublind，一個論文審查平臺（ML）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32215768</id>
-        <link href="https://news.ycombinator.com/item?id=32215768"/>
-        <updated>2022-07-24T17:41:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Doublind, a paper review platform (ML)]]></summary>
-        <author>
-            <name>dbld</name>
-            <uri>https://news.ycombinator.com/user?id=dbld</uri>
         </author>
     </entry>
 </feed>
