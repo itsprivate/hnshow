@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-14T22:28:19.091Z</updated>
+    <updated>2022-08-14T23:28:23.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Octarchive - 将GitHub账户上的所有仓库备份到本地
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32464064</id>
+        <link href="https://news.ycombinator.com/item?id=32464064"/>
+        <updated>2022-08-14T23:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Octarchive – Back up all repos on a GitHub account locally]]></summary>
+        <author>
+            <name>pojntfx</name>
+            <uri>https://news.ycombinator.com/user?id=pojntfx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从NthLink转储Shadowsocks凭证
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32464031</id>
+        <link href="https://news.ycombinator.com/item?id=32464031"/>
+        <updated>2022-08-14T23:11:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dump Shadowsocks Credentials from NthLink]]></summary>
+        <author>
+            <name>Snawoot</name>
+            <uri>https://news.ycombinator.com/user?id=Snawoot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[现场访问 一个基于VR和屏幕的装置系列
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>robocoder</name>
             <uri>https://news.ycombinator.com/user?id=robocoder</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[六边形网格上的管道拼图（又称网）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32216436</id>
-        <link href="https://news.ycombinator.com/item?id=32216436"/>
-        <updated>2022-07-24T18:50:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pipes puzzle (a.k.a. Net) on a hexagonal grid]]></summary>
-        <author>
-            <name>gereleth</name>
-            <uri>https://news.ycombinator.com/user?id=gereleth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preact二进制服务器应用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32220430</id>
-        <link href="https://news.ycombinator.com/item?id=32220430"/>
-        <updated>2022-07-25T04:15:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Preact Binary Server Apps]]></summary>
-        <author>
-            <name>debdut</name>
-            <uri>https://news.ycombinator.com/user?id=debdut</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 14 Aug 2022 22:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 23:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Octarchive - 将GitHub账户上的所有仓库备份到本地
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32464064</link>
+            <guid>https://news.ycombinator.com/item?id=32464064</guid>
+            <pubDate>Sun, 14 Aug 2022 23:15:32 GMT</pubDate>
+            <description><![CDATA[Show HN: Octarchive – Back up all repos on a GitHub account locally]]></description>
+        </item>
+        <item>
+            <title><![CDATA[从NthLink转储Shadowsocks凭证
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32464031</link>
+            <guid>https://news.ycombinator.com/item?id=32464031</guid>
+            <pubDate>Sun, 14 Aug 2022 23:11:03 GMT</pubDate>
+            <description><![CDATA[Show HN: Dump Shadowsocks Credentials from NthLink]]></description>
+        </item>
         <item>
             <title><![CDATA[现场访问 一个基于VR和屏幕的装置系列
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32222323</guid>
             <pubDate>Mon, 25 Jul 2022 09:42:12 GMT</pubDate>
             <description><![CDATA[Show HN: CrossFit Timers with Svelte, TailwindCSS and Firebase]]></description>
-        </item>
-        <item>
-            <title><![CDATA[六边形网格上的管道拼图（又称网）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32216436</link>
-            <guid>https://news.ycombinator.com/item?id=32216436</guid>
-            <pubDate>Sun, 24 Jul 2022 18:50:58 GMT</pubDate>
-            <description><![CDATA[Show HN: Pipes puzzle (a.k.a. Net) on a hexagonal grid]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Preact二进制服务器应用程序
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32220430</link>
-            <guid>https://news.ycombinator.com/item?id=32220430</guid>
-            <pubDate>Mon, 25 Jul 2022 04:15:16 GMT</pubDate>
-            <description><![CDATA[Show HN: Preact Binary Server Apps]]></description>
         </item>
     </channel>
 </rss>
