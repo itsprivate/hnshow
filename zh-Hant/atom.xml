@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-14T11:43:49.913Z</updated>
+    <updated>2022-08-14T13:25:52.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[開源的網絡體素引擎
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32458833</id>
+        <link href="https://news.ycombinator.com/item?id=32458833"/>
+        <updated>2022-08-14T12:50:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-source web voxel engine]]></summary>
+        <author>
+            <name>skishore</name>
+            <uri>https://news.ycombinator.com/user?id=skishore</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用於Web Worker和Iframe的類型安全和承諾的API
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>nthh</name>
             <uri>https://news.ycombinator.com/user?id=nthh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香蕉郵報
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32214343</id>
-        <link href="https://news.ycombinator.com/item?id=32214343"/>
-        <updated>2022-07-24T15:22:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: The Banana Post]]></summary>
-        <author>
-            <name>tomandjerry27</name>
-            <uri>https://news.ycombinator.com/user?id=tomandjerry27</uri>
         </author>
     </entry>
 </feed>
