@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-14T18:35:35.077Z</updated>
+    <updated>2022-08-14T18:53:36.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[简易命令 - 使用YAML文件轻松地快速运行一组命令
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32461779</id>
+        <link href="https://news.ycombinator.com/item?id=32461779"/>
+        <updated>2022-08-14T18:47:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Shortcommand – Easily run a set of commands quickly using a YAML file]]></summary>
+        <author>
+            <name>kermire</name>
+            <uri>https://news.ycombinator.com/user?id=kermire</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YoLinks，一个为团队提供的人类可读的URL缩短器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>matt413</name>
             <uri>https://news.ycombinator.com/user?id=matt413</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNS3中的Python-自动轻量级BGP实验室
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32217690</id>
-        <link href="https://news.ycombinator.com/item?id=32217690"/>
-        <updated>2022-07-24T21:02:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Python-automated lightweight BGP lab in GNS3]]></summary>
-        <author>
-            <name>GSGBen</name>
-            <uri>https://news.ycombinator.com/user?id=GSGBen</uri>
         </author>
     </entry>
 </feed>
