@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-14T03:49:42.672Z</updated>
+    <updated>2022-08-14T06:34:00.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[四元数。实用指南
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32456848</id>
+        <link href="https://news.ycombinator.com/item?id=32456848"/>
+        <updated>2022-08-14T06:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Quaternions: A Practical Guide]]></summary>
+        <author>
+            <name>the__alchemist</name>
+            <uri>https://news.ycombinator.com/user?id=the__alchemist</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为 "坏 "艺术和深思熟虑的主体性提供的创客空间
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>RupertWiser</name>
             <uri>https://news.ycombinator.com/user?id=RupertWiser</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kvass，一个个人键值存储器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32212235</id>
-        <link href="https://news.ycombinator.com/item?id=32212235"/>
-        <updated>2022-07-24T11:05:49.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Kvass, a personal key-value store]]></summary>
-        <author>
-            <name>maxmunzel</name>
-            <uri>https://news.ycombinator.com/user?id=maxmunzel</uri>
         </author>
     </entry>
 </feed>
