@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-14T17:40:05.667Z</updated>
+    <updated>2022-08-14T18:35:35.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[YoLinks，一个为团队提供的人类可读的URL缩短器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32461523</id>
+        <link href="https://news.ycombinator.com/item?id=32461523"/>
+        <updated>2022-08-14T18:16:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: YoLinks, a human-readable URL shortener for teams]]></summary>
+        <author>
+            <name>aryann</name>
+            <uri>https://news.ycombinator.com/user?id=aryann</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pasticcio - 我的公共墙的粘贴库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32461364</id>
+        <link href="https://news.ycombinator.com/item?id=32461364"/>
+        <updated>2022-08-14T17:57:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pasticcio – my pastebin with public walls]]></summary>
+        <author>
+            <name>camuffo</name>
+            <uri>https://news.ycombinator.com/user?id=camuffo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Belua, 美妙地组织联系
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>GSGBen</name>
             <uri>https://news.ycombinator.com/user?id=GSGBen</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雨果主题--永恒
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32216548</id>
-        <link href="https://news.ycombinator.com/item?id=32216548"/>
-        <updated>2022-07-24T19:04:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Hugo Theme – Eternity]]></summary>
-        <author>
-            <name>boratanrikulu</name>
-            <uri>https://news.ycombinator.com/user?id=boratanrikulu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[约1.2KLOC的静态博客生成器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32215935</id>
-        <link href="https://news.ycombinator.com/item?id=32215935"/>
-        <updated>2022-07-24T17:58:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Static blog generator in about 1.2KLOC]]></summary>
-        <author>
-            <name>jjjbokma</name>
-            <uri>https://news.ycombinator.com/user?id=jjjbokma</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 14 Aug 2022 17:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 18:35:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[YoLinks，一個為團隊提供的人類可讀的URL縮短器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32461523</link>
+            <guid>https://news.ycombinator.com/item?id=32461523</guid>
+            <pubDate>Sun, 14 Aug 2022 18:16:50 GMT</pubDate>
+            <description><![CDATA[Show HN: YoLinks, a human-readable URL shortener for teams]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Pasticcio - 我的公共牆的粘貼庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32461364</link>
+            <guid>https://news.ycombinator.com/item?id=32461364</guid>
+            <pubDate>Sun, 14 Aug 2022 17:57:46 GMT</pubDate>
+            <description><![CDATA[Show HN: Pasticcio – my pastebin with public walls]]></description>
+        </item>
         <item>
             <title><![CDATA[Belua, 美妙地組織聯繫
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32217690</guid>
             <pubDate>Sun, 24 Jul 2022 21:02:53 GMT</pubDate>
             <description><![CDATA[Show HN: Python-automated lightweight BGP lab in GNS3]]></description>
-        </item>
-        <item>
-            <title><![CDATA[雨果主題--永恆
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32216548</link>
-            <guid>https://news.ycombinator.com/item?id=32216548</guid>
-            <pubDate>Sun, 24 Jul 2022 19:04:23 GMT</pubDate>
-            <description><![CDATA[Show HN: A Hugo Theme – Eternity]]></description>
-        </item>
-        <item>
-            <title><![CDATA[約1.2KLOC的靜態博客生成器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32215935</link>
-            <guid>https://news.ycombinator.com/item?id=32215935</guid>
-            <pubDate>Sun, 24 Jul 2022 17:58:15 GMT</pubDate>
-            <description><![CDATA[Show HN: Static blog generator in about 1.2KLOC]]></description>
         </item>
     </channel>
 </rss>
