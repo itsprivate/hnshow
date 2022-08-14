@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 14 Aug 2022 18:53:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 20:29:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[測試你對黑猩猩Ayumu的記憶力
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32462611</link>
+            <guid>https://news.ycombinator.com/item?id=32462611</guid>
+            <pubDate>Sun, 14 Aug 2022 20:25:04 GMT</pubDate>
+            <description><![CDATA[Show HN: Test your memory against Ayumu, chimpanzee]]></description>
+        </item>
+        <item>
+            <title><![CDATA[鏈接預覽測試儀
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32462529</link>
+            <guid>https://news.ycombinator.com/item?id=32462529</guid>
+            <pubDate>Sun, 14 Aug 2022 20:15:30 GMT</pubDate>
+            <description><![CDATA[Show HN: Link Preview Tester]]></description>
+        </item>
         <item>
             <title><![CDATA[簡易命令 - 使用YAML文件輕鬆地快速運行一組命令
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32219784</guid>
             <pubDate>Mon, 25 Jul 2022 01:57:21 GMT</pubDate>
             <description><![CDATA[Show HN: Platform Subscription Version of Patreon and Gumroad]]></description>
-        </item>
-        <item>
-            <title><![CDATA[來自文本的AI藝術--用圖像表達自己
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32218867</link>
-            <guid>https://news.ycombinator.com/item?id=32218867</guid>
-            <pubDate>Sun, 24 Jul 2022 23:29:41 GMT</pubDate>
-            <description><![CDATA[Show HN: AI art from text – Express yourself with images]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用一個公式重定向點擊
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32217718</link>
-            <guid>https://news.ycombinator.com/item?id=32217718</guid>
-            <pubDate>Sun, 24 Jul 2022 21:05:26 GMT</pubDate>
-            <description><![CDATA[Show HN: Redirect clicks using a formula]]></description>
         </item>
     </channel>
 </rss>

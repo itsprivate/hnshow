@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-14T18:53:36.960Z</updated>
+    <updated>2022-08-14T20:29:43.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[測試你對黑猩猩Ayumu的記憶力
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32462611</id>
+        <link href="https://news.ycombinator.com/item?id=32462611"/>
+        <updated>2022-08-14T20:25:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Test your memory against Ayumu, chimpanzee]]></summary>
+        <author>
+            <name>Grustaf</name>
+            <uri>https://news.ycombinator.com/user?id=Grustaf</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鏈接預覽測試儀
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32462529</id>
+        <link href="https://news.ycombinator.com/item?id=32462529"/>
+        <updated>2022-08-14T20:15:30.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Link Preview Tester]]></summary>
+        <author>
+            <name>DitheringIdiot</name>
+            <uri>https://news.ycombinator.com/user?id=DitheringIdiot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[簡易命令 - 使用YAML文件輕鬆地快速運行一組命令
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>kb2014</name>
             <uri>https://news.ycombinator.com/user?id=kb2014</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[來自文本的AI藝術--用圖像表達自己
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32218867</id>
-        <link href="https://news.ycombinator.com/item?id=32218867"/>
-        <updated>2022-07-24T23:29:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: AI art from text – Express yourself with images]]></summary>
-        <author>
-            <name>srelbo</name>
-            <uri>https://news.ycombinator.com/user?id=srelbo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用一個公式重定向點擊
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32217718</id>
-        <link href="https://news.ycombinator.com/item?id=32217718"/>
-        <updated>2022-07-24T21:05:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Redirect clicks using a formula]]></summary>
-        <author>
-            <name>matt413</name>
-            <uri>https://news.ycombinator.com/user?id=matt413</uri>
         </author>
     </entry>
 </feed>
