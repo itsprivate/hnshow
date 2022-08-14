@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 14 Aug 2022 13:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 17:08:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[黑客新聞的預測
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32460733</link>
+            <guid>https://news.ycombinator.com/item?id=32460733</guid>
+            <pubDate>Sun, 14 Aug 2022 16:50:42 GMT</pubDate>
+            <description><![CDATA[Show HN: Hacker News Predictions]]></description>
+        </item>
         <item>
             <title><![CDATA[開源的網絡體素引擎
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32215768</guid>
             <pubDate>Sun, 24 Jul 2022 17:41:14 GMT</pubDate>
             <description><![CDATA[Show HN: Doublind, a paper review platform (ML)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[貨架、文件存儲使用雲存儲供應商
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32215448</link>
-            <guid>https://news.ycombinator.com/item?id=32215448</guid>
-            <pubDate>Sun, 24 Jul 2022 17:09:48 GMT</pubDate>
-            <description><![CDATA[Show HN: Shelver, document store using cloud storage providers]]></description>
         </item>
     </channel>
 </rss>
