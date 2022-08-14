@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-14T09:27:54.347Z</updated>
+    <updated>2022-08-14T10:50:35.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[在Jupyter笔记本中建立、展示和分享动画数据故事
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32458170</id>
+        <link href="https://news.ycombinator.com/item?id=32458170"/>
+        <updated>2022-08-14T10:42:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build, present and share animated data stories in Jupyter Notebook]]></summary>
+        <author>
+            <name>vidipeti</name>
+            <uri>https://news.ycombinator.com/user?id=vidipeti</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PureInfo - 屏蔽Twitter中的所有内容，让纯文本保留。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mddanishyusuf</name>
             <uri>https://news.ycombinator.com/user?id=mddanishyusuf</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SkillPress - 通过间隔性重复和主动回忆学习JavaScript
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32213729</id>
-        <link href="https://news.ycombinator.com/item?id=32213729"/>
-        <updated>2022-07-24T14:18:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: SkillPress – Learn JavaScript via spaced repetition and active recall]]></summary>
-        <author>
-            <name>delabroj</name>
-            <uri>https://news.ycombinator.com/user?id=delabroj</uri>
         </author>
     </entry>
 </feed>
