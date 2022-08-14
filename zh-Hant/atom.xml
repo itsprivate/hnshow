@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-14T20:29:43.779Z</updated>
+    <updated>2022-08-14T22:28:19.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[現場訪問 一個基於VR和屏幕的裝置系列
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32463403</id>
+        <link href="https://news.ycombinator.com/item?id=32463403"/>
+        <updated>2022-08-14T22:02:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Site Visits a VR and screen-based installation series]]></summary>
+        <author>
+            <name>boriskourt</name>
+            <uri>https://news.ycombinator.com/user?id=boriskourt</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[測試你對黑猩猩Ayumu的記憶力
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>debdut</name>
             <uri>https://news.ycombinator.com/user?id=debdut</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patreon和Gumroad的平臺訂閱版
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32219784</id>
-        <link href="https://news.ycombinator.com/item?id=32219784"/>
-        <updated>2022-07-25T01:57:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Platform Subscription Version of Patreon and Gumroad]]></summary>
-        <author>
-            <name>kb2014</name>
-            <uri>https://news.ycombinator.com/user?id=kb2014</uri>
         </author>
     </entry>
 </feed>
