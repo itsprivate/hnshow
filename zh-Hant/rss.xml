@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 15 Aug 2022 07:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 07:45:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Imagor v1 - Go和libvips中的快速圖像處理服務器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32466839</link>
+            <guid>https://news.ycombinator.com/item?id=32466839</guid>
+            <pubDate>Mon, 15 Aug 2022 07:30:03 GMT</pubDate>
+            <description><![CDATA[Show HN: Imagor v1 – fast image processing server in Go and libvips]]></description>
+        </item>
         <item>
             <title><![CDATA[Active Hashcash - 保護表格免受機器人攻擊的Ruby gem
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32227456</guid>
             <pubDate>Mon, 25 Jul 2022 17:07:13 GMT</pubDate>
             <description><![CDATA[Show HN: I used rustface to get a Twitter bot's best faces]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用GPT-3不再有會議記錄
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32227455</link>
-            <guid>https://news.ycombinator.com/item?id=32227455</guid>
-            <pubDate>Mon, 25 Jul 2022 17:07:13 GMT</pubDate>
-            <description><![CDATA[Show HN: No more meeting minutes with GPT-3]]></description>
         </item>
     </channel>
 </rss>

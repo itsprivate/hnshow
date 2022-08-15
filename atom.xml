@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-15T07:29:15.287Z</updated>
+    <updated>2022-08-15T07:45:29.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Imagor v1 - Go和libvips中的快速图像处理服务器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32466839</id>
+        <link href="https://news.ycombinator.com/item?id=32466839"/>
+        <updated>2022-08-15T07:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Imagor v1 – fast image processing server in Go and libvips]]></summary>
+        <author>
+            <name>cshum</name>
+            <uri>https://news.ycombinator.com/user?id=cshum</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Active Hashcash - 保护表格免受机器人攻击的Ruby gem
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>amsterdorn</name>
             <uri>https://news.ycombinator.com/user?id=amsterdorn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用GPT-3不再有会议记录
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32227455</id>
-        <link href="https://news.ycombinator.com/item?id=32227455"/>
-        <updated>2022-07-25T17:07:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: No more meeting minutes with GPT-3]]></summary>
-        <author>
-            <name>Erazal</name>
-            <uri>https://news.ycombinator.com/user?id=Erazal</uri>
         </author>
     </entry>
 </feed>
