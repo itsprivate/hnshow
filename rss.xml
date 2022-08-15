@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 15 Aug 2022 07:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 07:29:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Active Hashcash - 保护表格免受机器人攻击的Ruby gem
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32466799</link>
+            <guid>https://news.ycombinator.com/item?id=32466799</guid>
+            <pubDate>Mon, 15 Aug 2022 07:23:06 GMT</pubDate>
+            <description><![CDATA[Show HN: Active Hashcash – Ruby gem to protect forms against bots]]></description>
+        </item>
         <item>
             <title><![CDATA[Teapodo（轻量级音频编辑器）现在支持VST/AU插件
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32227455</guid>
             <pubDate>Mon, 25 Jul 2022 17:07:13 GMT</pubDate>
             <description><![CDATA[Show HN: No more meeting minutes with GPT-3]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Lurk - 用Rust编写的strace的一个漂亮（简单）的替代品
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32226256</link>
-            <guid>https://news.ycombinator.com/item?id=32226256</guid>
-            <pubDate>Mon, 25 Jul 2022 15:58:03 GMT</pubDate>
-            <description><![CDATA[Show HN: Lurk – A pretty (simple) alternative to strace written in Rust]]></description>
         </item>
     </channel>
 </rss>
