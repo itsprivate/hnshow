@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-15T07:45:29.858Z</updated>
+    <updated>2022-08-15T09:30:06.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一個競爭者跟蹤自動化SaaS工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32467376</id>
+        <link href="https://news.ycombinator.com/item?id=32467376"/>
+        <updated>2022-08-15T09:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a competitor tracking automation SaaS tool]]></summary>
+        <author>
+            <name>leroman</name>
+            <uri>https://news.ycombinator.com/user?id=leroman</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Imagor v1 - Go和libvips中的快速圖像處理服務器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mp85</name>
             <uri>https://news.ycombinator.com/user?id=mp85</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我用rustface得到了一個Twitter機器人的最佳面孔
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32227456</id>
-        <link href="https://news.ycombinator.com/item?id=32227456"/>
-        <updated>2022-07-25T17:07:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I used rustface to get a Twitter bot's best faces]]></summary>
-        <author>
-            <name>amsterdorn</name>
-            <uri>https://news.ycombinator.com/user?id=amsterdorn</uri>
         </author>
     </entry>
 </feed>

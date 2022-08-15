@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 15 Aug 2022 07:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 09:30:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我建立了一个竞争者跟踪自动化SaaS工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32467376</link>
+            <guid>https://news.ycombinator.com/item?id=32467376</guid>
+            <pubDate>Mon, 15 Aug 2022 09:00:46 GMT</pubDate>
+            <description><![CDATA[Show HN: I built a competitor tracking automation SaaS tool]]></description>
+        </item>
         <item>
             <title><![CDATA[Imagor v1 - Go和libvips中的快速图像处理服务器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32228214</guid>
             <pubDate>Mon, 25 Jul 2022 17:50:09 GMT</pubDate>
             <description><![CDATA[Show HN: Free alternative video conference to Zoom, Google meet, Teams]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我用rustface得到了一个Twitter机器人的最佳面孔
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32227456</link>
-            <guid>https://news.ycombinator.com/item?id=32227456</guid>
-            <pubDate>Mon, 25 Jul 2022 17:07:13 GMT</pubDate>
-            <description><![CDATA[Show HN: I used rustface to get a Twitter bot's best faces]]></description>
         </item>
     </channel>
 </rss>
