@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 15 Aug 2022 20:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 20:49:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在Windows关机时关闭所有支持DDC/CI的显示器的电源
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32475055</link>
+            <guid>https://news.ycombinator.com/item?id=32475055</guid>
+            <pubDate>Mon, 15 Aug 2022 20:39:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Power off all DDC/CI capable displays on Windows shutdown]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一个工具来隐藏HN的用户名并减少偏见
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32235765</guid>
             <pubDate>Tue, 26 Jul 2022 08:32:58 GMT</pubDate>
             <description><![CDATA[Show HN: Similar – dedup similar lines in Unix pipelines]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Only-Python工作网站
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32235598</link>
-            <guid>https://news.ycombinator.com/item?id=32235598</guid>
-            <pubDate>Tue, 26 Jul 2022 08:04:14 GMT</pubDate>
-            <description><![CDATA[Show HN: Only-Python Jobs Website]]></description>
         </item>
     </channel>
 </rss>
