@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-15T19:04:11.317Z</updated>
+    <updated>2022-08-15T19:45:52.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[XaaS定价 - 在一个地方跟踪25k+ SaaS公司的定价策略
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32474205</id>
+        <link href="https://news.ycombinator.com/item?id=32474205"/>
+        <updated>2022-08-15T19:31:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: XaaS Pricing – track 25k+ SaaS company pricing strategies in one place]]></summary>
+        <author>
+            <name>bbelXP</name>
+            <uri>https://news.ycombinator.com/user?id=bbelXP</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[对Snouters的反馈？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>ciprian_craciun</name>
             <uri>https://news.ycombinator.com/user?id=ciprian_craciun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtink - Kubernetes的轻量级虚拟化插件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32235231</id>
-        <link href="https://news.ycombinator.com/item?id=32235231"/>
-        <updated>2022-07-26T06:59:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Virtink – Lightweight Virtualization Add-On for Kubernetes]]></summary>
-        <author>
-            <name>fengye87</name>
-            <uri>https://news.ycombinator.com/user?id=fengye87</uri>
         </author>
     </entry>
 </feed>
