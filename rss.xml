@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 15 Aug 2022 02:41:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 04:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[可以在Unity游戏开发中使用的Excel、Gsheet、JSON转换器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32465304</link>
+            <guid>https://news.ycombinator.com/item?id=32465304</guid>
+            <pubDate>Mon, 15 Aug 2022 02:42:49 GMT</pubDate>
+            <description><![CDATA[Show HN: Excel, Gsheet, JSON converter you can use in Unity Game Development]]></description>
+        </item>
         <item>
             <title><![CDATA[Xklb - 当你的媒体大到无法思考的时候，组织你的媒体
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32225886</guid>
             <pubDate>Mon, 25 Jul 2022 15:37:39 GMT</pubDate>
             <description><![CDATA[Show HN: A better CLI tool to generate Golang constructor code for a struct]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用变形金刚和Python笔记本搜索PDF
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32224542</link>
-            <guid>https://news.ycombinator.com/item?id=32224542</guid>
-            <pubDate>Mon, 25 Jul 2022 14:11:13 GMT</pubDate>
-            <description><![CDATA[Show HN: Search PDFs with Transformers and Python Notebook]]></description>
         </item>
     </channel>
 </rss>

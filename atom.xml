@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-15T02:41:28.575Z</updated>
+    <updated>2022-08-15T04:17:41.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[可以在Unity游戏开发中使用的Excel、Gsheet、JSON转换器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32465304</id>
+        <link href="https://news.ycombinator.com/item?id=32465304"/>
+        <updated>2022-08-15T02:42:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Excel, Gsheet, JSON converter you can use in Unity Game Development]]></summary>
+        <author>
+            <name>coffcook</name>
+            <uri>https://news.ycombinator.com/user?id=coffcook</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xklb - 当你的媒体大到无法思考的时候，组织你的媒体
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bennhuang</name>
             <uri>https://news.ycombinator.com/user?id=bennhuang</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用变形金刚和Python笔记本搜索PDF
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32224542</id>
-        <link href="https://news.ycombinator.com/item?id=32224542"/>
-        <updated>2022-07-25T14:11:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Search PDFs with Transformers and Python Notebook]]></summary>
-        <author>
-            <name>alexcg1</name>
-            <uri>https://news.ycombinator.com/user?id=alexcg1</uri>
         </author>
     </entry>
 </feed>
