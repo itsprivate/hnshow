@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 15 Aug 2022 05:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 07:03:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Teapodo（轻量级音频编辑器）现在支持VST/AU插件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32466535</link>
+            <guid>https://news.ycombinator.com/item?id=32466535</guid>
+            <pubDate>Mon, 15 Aug 2022 06:38:50 GMT</pubDate>
+            <description><![CDATA[Show HN: Teapodo (Lightweight Audio Editor) Now Supports VST/AU Plugins]]></description>
+        </item>
         <item>
             <title><![CDATA[销售 - 为您的Stripe账户提供一个实时收银机
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32226256</guid>
             <pubDate>Mon, 25 Jul 2022 15:58:03 GMT</pubDate>
             <description><![CDATA[Show HN: Lurk – A pretty (simple) alternative to strace written in Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Blueboat - 一体化、多租户的无服务器JavaScript运行时间
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32226075</link>
-            <guid>https://news.ycombinator.com/item?id=32226075</guid>
-            <pubDate>Mon, 25 Jul 2022 15:48:03 GMT</pubDate>
-            <description><![CDATA[Show HN: Blueboat – All-in-one, multi-tenant serverless JavaScript runtime]]></description>
         </item>
     </channel>
 </rss>

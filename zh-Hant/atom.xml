@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-15T05:24:51.804Z</updated>
+    <updated>2022-08-15T07:03:35.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Teapodo（輕量級音頻編輯器）現在支持VST/AU插件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32466535</id>
+        <link href="https://news.ycombinator.com/item?id=32466535"/>
+        <updated>2022-08-15T06:38:50.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Teapodo (Lightweight Audio Editor) Now Supports VST/AU Plugins]]></summary>
+        <author>
+            <name>xiaoxing</name>
+            <uri>https://news.ycombinator.com/user?id=xiaoxing</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[銷售 - 為您的Stripe賬戶提供一個實時收銀機
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>JAKWAI</name>
             <uri>https://news.ycombinator.com/user?id=JAKWAI</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blueboat - 一體化、多租戶的無服務器JavaScript運行時間
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32226075</id>
-        <link href="https://news.ycombinator.com/item?id=32226075"/>
-        <updated>2022-07-25T15:48:03.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Blueboat – All-in-one, multi-tenant serverless JavaScript runtime]]></summary>
-        <author>
-            <name>losfair</name>
-            <uri>https://news.ycombinator.com/user?id=losfair</uri>
         </author>
     </entry>
 </feed>
