@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-15T15:56:35.205Z</updated>
+    <updated>2022-08-15T16:48:13.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[搜索和探索医学术语
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32471600</id>
+        <link href="https://news.ycombinator.com/item?id=32471600"/>
+        <updated>2022-08-15T16:18:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Search and Explore Medical Terminologies]]></summary>
+        <author>
+            <name>gmarx</name>
+            <uri>https://news.ycombinator.com/user?id=gmarx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可视化作为一种服务
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mikeluby</name>
             <uri>https://news.ycombinator.com/user?id=mikeluby</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源关键词研究工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32233253</id>
-        <link href="https://news.ycombinator.com/item?id=32233253"/>
-        <updated>2022-07-26T01:34:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open Source Keyword Research Tool]]></summary>
-        <author>
-            <name>pablorosales</name>
-            <uri>https://news.ycombinator.com/user?id=pablorosales</uri>
         </author>
     </entry>
 </feed>
