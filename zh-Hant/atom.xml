@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-15T04:17:41.949Z</updated>
+    <updated>2022-08-15T05:24:51.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[銷售 - 為您的Stripe賬戶提供一個實時收銀機
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32465806</id>
+        <link href="https://news.ycombinator.com/item?id=32465806"/>
+        <updated>2022-08-15T04:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sale – A live cash register for your Stripe account]]></summary>
+        <author>
+            <name>rfelix2121</name>
+            <uri>https://news.ycombinator.com/user?id=rfelix2121</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[可以在Unity遊戲開發中使用的Excel、Gsheet、JSON轉換器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>losfair</name>
             <uri>https://news.ycombinator.com/user?id=losfair</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個更好的CLI工具來生成Golang結構的構造函數代碼
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32225886</id>
-        <link href="https://news.ycombinator.com/item?id=32225886"/>
-        <updated>2022-07-25T15:37:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A better CLI tool to generate Golang constructor code for a struct]]></summary>
-        <author>
-            <name>bennhuang</name>
-            <uri>https://news.ycombinator.com/user?id=bennhuang</uri>
         </author>
     </entry>
 </feed>
