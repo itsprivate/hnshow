@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-15T13:58:04.819Z</updated>
+    <updated>2022-08-15T14:50:32.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[FSearch 0.2發佈（一個圖形化的文件搜索應用程序）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32470150</id>
+        <link href="https://news.ycombinator.com/item?id=32470150"/>
+        <updated>2022-08-15T14:31:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: FSearch 0.2 released (A graphical file search application)]]></summary>
+        <author>
+            <name>wander_homer</name>
+            <uri>https://news.ycombinator.com/user?id=wander_homer</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日文全書》第1冊發佈
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>czzarr</name>
             <uri>https://news.ycombinator.com/user?id=czzarr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[適用於LinkedIn和Twitter的Snapmap（等待名單）
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32231062</id>
-        <link href="https://news.ycombinator.com/item?id=32231062"/>
-        <updated>2022-07-25T21:18:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Snapmap for LinkedIn and Twitter (Waitlist)]]></summary>
-        <author>
-            <name>adawg4</name>
-            <uri>https://news.ycombinator.com/user?id=adawg4</uri>
         </author>
     </entry>
 </feed>
