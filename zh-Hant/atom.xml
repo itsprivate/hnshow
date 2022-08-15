@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-15T16:48:14.006Z</updated>
+    <updated>2022-08-15T17:18:05.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用於GitHub、Gitlab和Jira的開源工程指標
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32472137</id>
+        <link href="https://news.ycombinator.com/item?id=32472137"/>
+        <updated>2022-08-15T16:52:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-Source Engineering Metrics for GitHub, Gitlab and Jira]]></summary>
+        <author>
+            <name>matthewtovbin</name>
+            <uri>https://news.ycombinator.com/user?id=matthewtovbin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[設施維護團隊的增強現實知識管理
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32472006</id>
+        <link href="https://news.ycombinator.com/item?id=32472006"/>
+        <updated>2022-08-15T16:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Augmented Reality Knowledge Management for Facility Maintenance Teams]]></summary>
+        <author>
+            <name>sech8420</name>
+            <uri>https://news.ycombinator.com/user?id=sech8420</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[搜索和探索醫學術語
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>subtech</name>
             <uri>https://news.ycombinator.com/user?id=subtech</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們做了一種方法，通過打開你的電腦來賺取訂閱費用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32233926</id>
-        <link href="https://news.ycombinator.com/item?id=32233926"/>
-        <updated>2022-07-26T03:30:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We made a way to earn subscriptions by having your computer turned on]]></summary>
-        <author>
-            <name>tannerg</name>
-            <uri>https://news.ycombinator.com/user?id=tannerg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[和諧計劃--協作式旅行規劃工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32233586</id>
-        <link href="https://news.ycombinator.com/item?id=32233586"/>
-        <updated>2022-07-26T02:31:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Plan Harmony – Collaborative Trip Planning Tool]]></summary>
-        <author>
-            <name>mikeluby</name>
-            <uri>https://news.ycombinator.com/user?id=mikeluby</uri>
         </author>
     </entry>
 </feed>
