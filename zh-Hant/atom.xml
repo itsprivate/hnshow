@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-15T19:45:52.197Z</updated>
+    <updated>2022-08-15T20:33:49.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個工具來隱藏HN的用戶名並減少偏見
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32474562</id>
+        <link href="https://news.ycombinator.com/item?id=32474562"/>
+        <updated>2022-08-15T19:55:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a tool to hide HN usernames and reduce bias]]></summary>
+        <author>
+            <name>jarrenae</name>
+            <uri>https://news.ycombinator.com/user?id=jarrenae</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XaaS定價 - 在一個地方跟蹤25k+ SaaS公司的定價策略
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>iamKenn</name>
             <uri>https://news.ycombinator.com/user?id=iamKenn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z-run - 腳本庫的輕量級工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32235380</id>
-        <link href="https://news.ycombinator.com/item?id=32235380"/>
-        <updated>2022-07-26T07:25:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Z-run – scripting library lightweight tool]]></summary>
-        <author>
-            <name>ciprian_craciun</name>
-            <uri>https://news.ycombinator.com/user?id=ciprian_craciun</uri>
         </author>
     </entry>
 </feed>

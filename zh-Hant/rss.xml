@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 15 Aug 2022 19:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 20:33:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一個工具來隱藏HN的用戶名並減少偏見
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32474562</link>
+            <guid>https://news.ycombinator.com/item?id=32474562</guid>
+            <pubDate>Mon, 15 Aug 2022 19:55:28 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a tool to hide HN usernames and reduce bias]]></description>
+        </item>
         <item>
             <title><![CDATA[XaaS定價 - 在一個地方跟蹤25k+ SaaS公司的定價策略
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32235598</guid>
             <pubDate>Tue, 26 Jul 2022 08:04:14 GMT</pubDate>
             <description><![CDATA[Show HN: Only-Python Jobs Website]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Z-run - 腳本庫的輕量級工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32235380</link>
-            <guid>https://news.ycombinator.com/item?id=32235380</guid>
-            <pubDate>Tue, 26 Jul 2022 07:25:37 GMT</pubDate>
-            <description><![CDATA[Show HN: Z-run – scripting library lightweight tool]]></description>
         </item>
     </channel>
 </rss>
