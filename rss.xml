@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 15 Aug 2022 20:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 21:29:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[JavaScript V8引擎演练
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32475356</link>
+            <guid>https://news.ycombinator.com/item?id=32475356</guid>
+            <pubDate>Mon, 15 Aug 2022 21:04:14 GMT</pubDate>
+            <description><![CDATA[Show HN: A JavaScript V8 engine walkthrough]]></description>
+        </item>
         <item>
             <title><![CDATA[在Windows关机时关闭所有支持DDC/CI的显示器的电源
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32235801</guid>
             <pubDate>Tue, 26 Jul 2022 08:38:48 GMT</pubDate>
             <description><![CDATA[Show HN: I embedded a book search into Notion]]></description>
-        </item>
-        <item>
-            <title><![CDATA[类似--在Unix管道中扣除类似的行数
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32235765</link>
-            <guid>https://news.ycombinator.com/item?id=32235765</guid>
-            <pubDate>Tue, 26 Jul 2022 08:32:58 GMT</pubDate>
-            <description><![CDATA[Show HN: Similar – dedup similar lines in Unix pipelines]]></description>
         </item>
     </channel>
 </rss>
