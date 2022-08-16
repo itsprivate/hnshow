@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-16T13:55:34.171Z</updated>
+    <updated>2022-08-16T14:29:25.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[不上學的人通過分析YouTube預測未來的職業
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32482716</id>
+        <link href="https://news.ycombinator.com/item?id=32482716"/>
+        <updated>2022-08-16T13:51:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Unschooler predicts future career by analyzing YouTube]]></summary>
+        <author>
+            <name>doraby</name>
+            <uri>https://news.ycombinator.com/user?id=doraby</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Integrate.ai - 對難以獲取的數據進行機器學習和分析
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mikesabat</name>
             <uri>https://news.ycombinator.com/user?id=mikesabat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[電機管理Rails - 低代碼管理面板寶石
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32237488</id>
-        <link href="https://news.ycombinator.com/item?id=32237488"/>
-        <updated>2022-07-26T12:42:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Motor Admin Rails – Low-Code Admin Panel Gem]]></summary>
-        <author>
-            <name>petems</name>
-            <uri>https://news.ycombinator.com/user?id=petems</uri>
         </author>
     </entry>
 </feed>
