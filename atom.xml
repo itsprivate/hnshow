@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-16T19:59:06.938Z</updated>
+    <updated>2022-08-16T20:31:29.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[安装GitHub项目版本的脚本（在Linux上）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32488341</id>
+        <link href="https://news.ycombinator.com/item?id=32488341"/>
+        <updated>2022-08-16T20:22:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Script to install releases of GitHub projects (on Linux)]]></summary>
+        <author>
+            <name>MaxGyver83</name>
+            <uri>https://news.ycombinator.com/user?id=MaxGyver83</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[调试的模板
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lordmunjal007</name>
             <uri>https://news.ycombinator.com/user?id=lordmunjal007</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[画布、浏览器、记事本，一个应用就能统治一切
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32246580</id>
-        <link href="https://news.ycombinator.com/item?id=32246580"/>
-        <updated>2022-07-27T03:26:30.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Canvas, Browser, Note Taking, One app to rule them all]]></summary>
-        <author>
-            <name>zhangruinan</name>
-            <uri>https://news.ycombinator.com/user?id=zhangruinan</uri>
         </author>
     </entry>
 </feed>
