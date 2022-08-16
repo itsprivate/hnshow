@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-16T12:51:56.586Z</updated>
+    <updated>2022-08-16T13:30:29.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Ruby编写的一个安静的快速搜索引擎
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32482148</id>
+        <link href="https://news.ycombinator.com/item?id=32482148"/>
+        <updated>2022-08-16T12:54:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A quiet faster search engine written in Ruby]]></summary>
+        <author>
+            <name>daviducolo</name>
+            <uri>https://news.ycombinator.com/user?id=daviducolo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lazytrivy - 懒人的Docker镜像扫描
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>piotrkarczmarz</name>
             <uri>https://news.ycombinator.com/user?id=piotrkarczmarz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[具有完全类型推理的TypeScript查询生成器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32236620</id>
-        <link href="https://news.ycombinator.com/item?id=32236620"/>
-        <updated>2022-07-26T10:54:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: TypeScript query builder with full type inference]]></summary>
-        <author>
-            <name>colinmcd</name>
-            <uri>https://news.ycombinator.com/user?id=colinmcd</uri>
         </author>
     </entry>
 </feed>

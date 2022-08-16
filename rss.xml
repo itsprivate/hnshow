@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 16 Aug 2022 12:51:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 13:30:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Ruby编写的一个安静的快速搜索引擎
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32482148</link>
+            <guid>https://news.ycombinator.com/item?id=32482148</guid>
+            <pubDate>Tue, 16 Aug 2022 12:54:54 GMT</pubDate>
+            <description><![CDATA[Show HN: A quiet faster search engine written in Ruby]]></description>
+        </item>
         <item>
             <title><![CDATA[Lazytrivy - 懒人的Docker镜像扫描
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32237133</guid>
             <pubDate>Tue, 26 Jul 2022 12:04:24 GMT</pubDate>
             <description><![CDATA[Show HN: Painless branch switching in Visual Studio by restoring last open files]]></description>
-        </item>
-        <item>
-            <title><![CDATA[具有完全类型推理的TypeScript查询生成器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32236620</link>
-            <guid>https://news.ycombinator.com/item?id=32236620</guid>
-            <pubDate>Tue, 26 Jul 2022 10:54:43 GMT</pubDate>
-            <description><![CDATA[Show HN: TypeScript query builder with full type inference]]></description>
         </item>
     </channel>
 </rss>
