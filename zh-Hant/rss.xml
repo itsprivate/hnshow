@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 16 Aug 2022 05:29:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 09:46:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用Pathview的無庫克爾轉換歸因法
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32480811</link>
+            <guid>https://news.ycombinator.com/item?id=32480811</guid>
+            <pubDate>Tue, 16 Aug 2022 09:31:06 GMT</pubDate>
+            <description><![CDATA[Show HN: Cookieless Conversion Attribution with Pathview]]></description>
+        </item>
         <item>
             <title><![CDATA[ML團隊的Wiki - 識別和使用相關的特徵和技術
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32236447</guid>
             <pubDate>Tue, 26 Jul 2022 10:24:43 GMT</pubDate>
             <description><![CDATA[Show HN: The Ultimate C++14 Enum Library]]></description>
-        </item>
-        <item>
-            <title><![CDATA[以GitHub為源頭運行你的通訊
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32236022</link>
-            <guid>https://news.ycombinator.com/item?id=32236022</guid>
-            <pubDate>Tue, 26 Jul 2022 09:17:20 GMT</pubDate>
-            <description><![CDATA[Show HN: Run your newsletter with GitHub as source]]></description>
         </item>
     </channel>
 </rss>

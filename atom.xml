@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-16T05:29:32.400Z</updated>
+    <updated>2022-08-16T09:46:35.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Pathview的无库克尔转换归因法
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32480811</id>
+        <link href="https://news.ycombinator.com/item?id=32480811"/>
+        <updated>2022-08-16T09:31:06.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Cookieless Conversion Attribution with Pathview]]></summary>
+        <author>
+            <name>shanebellone</name>
+            <uri>https://news.ycombinator.com/user?id=shanebellone</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ML团队的Wiki - 识别和使用相关的特征和技术
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mehrdadn</name>
             <uri>https://news.ycombinator.com/user?id=mehrdadn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[以GitHub为源头运行你的通讯
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32236022</id>
-        <link href="https://news.ycombinator.com/item?id=32236022"/>
-        <updated>2022-07-26T09:17:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Run your newsletter with GitHub as source]]></summary>
-        <author>
-            <name>notyeast</name>
-            <uri>https://news.ycombinator.com/user?id=notyeast</uri>
         </author>
     </entry>
 </feed>
