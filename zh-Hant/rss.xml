@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 16 Aug 2022 15:40:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 15:56:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[一個NextJS和Ethereum的啟動程序庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32484393</link>
+            <guid>https://news.ycombinator.com/item?id=32484393</guid>
+            <pubDate>Tue, 16 Aug 2022 15:47:02 GMT</pubDate>
+            <description><![CDATA[Show HN: A NextJS and Ethereum starter repo]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我用GPT-3做了一個人工智能驅動的論文寫作工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32484329</link>
+            <guid>https://news.ycombinator.com/item?id=32484329</guid>
+            <pubDate>Tue, 16 Aug 2022 15:43:00 GMT</pubDate>
+            <description><![CDATA[Show HN: I made an AI-powered essay writing tool using GPT-3]]></description>
+        </item>
+        <item>
+            <title><![CDATA[用ZeroBrane Studio對Redbean網絡服務器進行調試
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32484206</link>
+            <guid>https://news.ycombinator.com/item?id=32484206</guid>
+            <pubDate>Tue, 16 Aug 2022 15:35:19 GMT</pubDate>
+            <description><![CDATA[Show HN: Redbean web server debugging with ZeroBrane Studio]]></description>
+        </item>
         <item>
             <title><![CDATA[我為AWS Lambda做了一個本地開發、調試和熱重載工具
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32240511</guid>
             <pubDate>Tue, 26 Jul 2022 16:33:55 GMT</pubDate>
             <description><![CDATA[Show HN: Blueboat is an all-in-one, multi-tenant serverless JavaScript runtime]]></description>
-        </item>
-        <item>
-            <title><![CDATA[基於文本的用戶界面（TUI），用於Slack客戶端（模擬）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32240501</link>
-            <guid>https://news.ycombinator.com/item?id=32240501</guid>
-            <pubDate>Tue, 26 Jul 2022 16:33:12 GMT</pubDate>
-            <description><![CDATA[Show HN: Text-based UI (TUI) for a Slack client (mock)]]></description>
-        </item>
-        <item>
-            <title><![CDATA[DeCommerce - Web3的分散式電子商務平臺
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32240260</link>
-            <guid>https://news.ycombinator.com/item?id=32240260</guid>
-            <pubDate>Tue, 26 Jul 2022 16:16:48 GMT</pubDate>
-            <description><![CDATA[Show HN: DeCommerce – Decentralized ecommerce platform for Web3]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我的算法（現在適用於火狐）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32238860</link>
-            <guid>https://news.ycombinator.com/item?id=32238860</guid>
-            <pubDate>Tue, 26 Jul 2022 14:36:19 GMT</pubDate>
-            <description><![CDATA[Show HN: MyAlgorithm (Now for Firefox)]]></description>
         </item>
     </channel>
 </rss>

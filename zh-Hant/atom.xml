@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-16T15:40:07.597Z</updated>
+    <updated>2022-08-16T15:56:21.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個NextJS和Ethereum的啟動程序庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32484393</id>
+        <link href="https://news.ycombinator.com/item?id=32484393"/>
+        <updated>2022-08-16T15:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A NextJS and Ethereum starter repo]]></summary>
+        <author>
+            <name>rpatni</name>
+            <uri>https://news.ycombinator.com/user?id=rpatni</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我用GPT-3做了一個人工智能驅動的論文寫作工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32484329</id>
+        <link href="https://news.ycombinator.com/item?id=32484329"/>
+        <updated>2022-08-16T15:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an AI-powered essay writing tool using GPT-3]]></summary>
+        <author>
+            <name>tylertaewook</name>
+            <uri>https://news.ycombinator.com/user?id=tylertaewook</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用ZeroBrane Studio對Redbean網絡服務器進行調試
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32484206</id>
+        <link href="https://news.ycombinator.com/item?id=32484206"/>
+        <updated>2022-08-16T15:35:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Redbean web server debugging with ZeroBrane Studio]]></summary>
+        <author>
+            <name>paulclinger</name>
+            <uri>https://news.ycombinator.com/user?id=paulclinger</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我為AWS Lambda做了一個本地開發、調試和熱重載工具
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>losfair</name>
             <uri>https://news.ycombinator.com/user?id=losfair</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於文本的用戶界面（TUI），用於Slack客戶端（模擬）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32240501</id>
-        <link href="https://news.ycombinator.com/item?id=32240501"/>
-        <updated>2022-07-26T16:33:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Text-based UI (TUI) for a Slack client (mock)]]></summary>
-        <author>
-            <name>ggerganov</name>
-            <uri>https://news.ycombinator.com/user?id=ggerganov</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeCommerce - Web3的分散式電子商務平臺
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32240260</id>
-        <link href="https://news.ycombinator.com/item?id=32240260"/>
-        <updated>2022-07-26T16:16:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: DeCommerce – Decentralized ecommerce platform for Web3]]></summary>
-        <author>
-            <name>jopin</name>
-            <uri>https://news.ycombinator.com/user?id=jopin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的算法（現在適用於火狐）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32238860</id>
-        <link href="https://news.ycombinator.com/item?id=32238860"/>
-        <updated>2022-07-26T14:36:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: MyAlgorithm (Now for Firefox)]]></summary>
-        <author>
-            <name>jawerty</name>
-            <uri>https://news.ycombinator.com/user?id=jawerty</uri>
         </author>
     </entry>
 </feed>
