@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-16T16:51:14.029Z</updated>
+    <updated>2022-08-16T17:14:32.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Mov.to - 将MOV文件转换为任何文件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32485531</id>
+        <link href="https://news.ycombinator.com/item?id=32485531"/>
+        <updated>2022-08-16T16:54:12.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Mov.to – Convert MOV files to anything]]></summary>
+        <author>
+            <name>nadermx</name>
+            <uri>https://news.ycombinator.com/user?id=nadermx</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SolidInbox - 在Twitter上寻找新客户
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32485244</id>
+        <link href="https://news.ycombinator.com/item?id=32485244"/>
+        <updated>2022-08-16T16:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SolidInbox – Find new customers on Twitter]]></summary>
+        <author>
+            <name>sameehsn</name>
+            <uri>https://news.ycombinator.com/user?id=sameehsn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[数据科学家的数据管道（新的开源笔记本）。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>simongbe</name>
             <uri>https://news.ycombinator.com/user?id=simongbe</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[个人仪表板工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32243826</id>
-        <link href="https://news.ycombinator.com/item?id=32243826"/>
-        <updated>2022-07-26T20:51:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Personal Dashboard Tool]]></summary>
-        <author>
-            <name>jtewright</name>
-            <uri>https://news.ycombinator.com/user?id=jtewright</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客是谁？- 用问号替换HN的用户名
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32243157</id>
-        <link href="https://news.ycombinator.com/item?id=32243157"/>
-        <updated>2022-07-26T19:56:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hacker Who’s? – Replace HN usernames with question marks]]></summary>
-        <author>
-            <name>evancoop</name>
-            <uri>https://news.ycombinator.com/user?id=evancoop</uri>
         </author>
     </entry>
 </feed>
