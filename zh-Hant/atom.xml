@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-15T21:29:02.073Z</updated>
+    <updated>2022-08-16T04:06:19.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[流動分塊的AEAD密碼學[pdf]
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32478728</id>
+        <link href="https://news.ycombinator.com/item?id=32478728"/>
+        <updated>2022-08-16T02:56:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Streaming chunked AEAD cryptography [pdf]]]></summary>
+        <author>
+            <name>sdrapkin</name>
+            <uri>https://news.ycombinator.com/user?id=sdrapkin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JavaScript V8引擎演練
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>NeroVanbierv</name>
             <uri>https://news.ycombinator.com/user?id=NeroVanbierv</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在Notion中嵌入了一個圖書搜索
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32235801</id>
-        <link href="https://news.ycombinator.com/item?id=32235801"/>
-        <updated>2022-07-26T08:38:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I embedded a book search into Notion]]></summary>
-        <author>
-            <name>RBouschery</name>
-            <uri>https://news.ycombinator.com/user?id=RBouschery</uri>
         </author>
     </entry>
 </feed>
