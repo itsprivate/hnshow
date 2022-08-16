@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-16T15:56:21.400Z</updated>
+    <updated>2022-08-16T16:51:14.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,66 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[数据科学家的数据管道（新的开源笔记本）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32485066</id>
+        <link href="https://news.ycombinator.com/item?id=32485066"/>
+        <updated>2022-08-16T16:27:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Data pipelines for data scientists (new open-source notebook)]]></summary>
+        <author>
+            <name>tchungry</name>
+            <uri>https://news.ycombinator.com/user?id=tchungry</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写了一本用Dalle2插图的科幻诗集（评论中的摘录）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32484982</id>
+        <link href="https://news.ycombinator.com/item?id=32484982"/>
+        <updated>2022-08-16T16:22:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Wrote a scifi poetry book illustrated with Dalle2 (excerpt in comments)]]></summary>
+        <author>
+            <name>MicolashKyoka</name>
+            <uri>https://news.ycombinator.com/user?id=MicolashKyoka</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个对开发者友好的（网络）漫画格式
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32484800</id>
+        <link href="https://news.ycombinator.com/item?id=32484800"/>
+        <updated>2022-08-16T16:10:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A developper friendly (web) comic format]]></summary>
+        <author>
+            <name>toto444</name>
+            <uri>https://news.ycombinator.com/user?id=toto444</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[快速的JavaScript事件，占用空间小
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32484564</id>
+        <link href="https://news.ycombinator.com/item?id=32484564"/>
+        <updated>2022-08-16T15:56:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Blazing-Fast JavaScript events with a tiny footprint]]></summary>
+        <author>
+            <name>Elijah-Bodden</name>
+            <uri>https://news.ycombinator.com/user?id=Elijah-Bodden</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cdr.fyi - 消除二氧化碳的实时仪表板
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32484479</id>
+        <link href="https://news.ycombinator.com/item?id=32484479"/>
+        <updated>2022-08-16T15:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Cdr.fyi – a realtime dashboard for carbon dioxide removal]]></summary>
+        <author>
+            <name>n2parko</name>
+            <uri>https://news.ycombinator.com/user?id=n2parko</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个NextJS和Ethereum的启动程序库
 ]]></title>
@@ -7153,66 +7213,6 @@
         <author>
             <name>evancoop</name>
             <uri>https://news.ycombinator.com/user?id=evancoop</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skeleton--Svelte和Tailwind的开源UI组件库
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32242781</id>
-        <link href="https://news.ycombinator.com/item?id=32242781"/>
-        <updated>2022-07-26T19:27:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Skeleton – an open source UI component library for Svelte and Tailwind]]></summary>
-        <author>
-            <name>engido9740</name>
-            <uri>https://news.ycombinator.com/user?id=engido9740</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looria - 一个用NLP总结评论的产品（再）搜索引擎
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32241467</id>
-        <link href="https://news.ycombinator.com/item?id=32241467"/>
-        <updated>2022-07-26T17:52:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Looria – A product (re)search engine that summarizes reviews with NLP]]></summary>
-        <author>
-            <name>hubraumhugo</name>
-            <uri>https://news.ycombinator.com/user?id=hubraumhugo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松注释和分享ArXiv论文 - Smort.io
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32240810</id>
-        <link href="https://news.ycombinator.com/item?id=32240810"/>
-        <updated>2022-07-26T16:55:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Easily annotate and share ArXiv papers – Smort.io]]></summary>
-        <author>
-            <name>sabr</name>
-            <uri>https://news.ycombinator.com/user?id=sabr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scroll stdout
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32240784</id>
-        <link href="https://news.ycombinator.com/item?id=32240784"/>
-        <updated>2022-07-26T16:53:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Scroll stdout]]></summary>
-        <author>
-            <name>autorun</name>
-            <uri>https://news.ycombinator.com/user?id=autorun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blueboat是一个一体化的、多租户的无服务器JavaScript运行时间。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32240511</id>
-        <link href="https://news.ycombinator.com/item?id=32240511"/>
-        <updated>2022-07-26T16:33:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Blueboat is an all-in-one, multi-tenant serverless JavaScript runtime]]></summary>
-        <author>
-            <name>losfair</name>
-            <uri>https://news.ycombinator.com/user?id=losfair</uri>
         </author>
     </entry>
 </feed>
