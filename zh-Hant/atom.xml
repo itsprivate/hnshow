@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-16T10:33:42.465Z</updated>
+    <updated>2022-08-16T12:51:56.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Lazytrivy - 懶人的Docker鏡像掃描
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32481665</id>
+        <link href="https://news.ycombinator.com/item?id=32481665"/>
+        <updated>2022-08-16T11:58:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Lazytrivy – Docker image scanning for lazy people]]></summary>
+        <author>
+            <name>rumno0</name>
+            <uri>https://news.ycombinator.com/user?id=rumno0</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Synology C2 Object Storage - 免除數據傳輸費用
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>colinmcd</name>
             <uri>https://news.ycombinator.com/user?id=colinmcd</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Tailwindcss製作的預發佈模板
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32236609</id>
-        <link href="https://news.ycombinator.com/item?id=32236609"/>
-        <updated>2022-07-26T10:53:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Prelaunch Templates Built with Tailwindcss]]></summary>
-        <author>
-            <name>krxhna</name>
-            <uri>https://news.ycombinator.com/user?id=krxhna</uri>
         </author>
     </entry>
 </feed>
