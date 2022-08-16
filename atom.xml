@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-16T04:06:19.900Z</updated>
+    <updated>2022-08-16T05:29:32.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ML团队的Wiki - 识别和使用相关的特征和技术
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32479381</id>
+        <link href="https://news.ycombinator.com/item?id=32479381"/>
+        <updated>2022-08-16T05:02:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ML Team’s Wiki – Identify and use relevant features and techniques]]></summary>
+        <author>
+            <name>priyankanath</name>
+            <uri>https://news.ycombinator.com/user?id=priyankanath</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[流动分块的AEAD密码学[pdf]
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>notyeast</name>
             <uri>https://news.ycombinator.com/user?id=notyeast</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marple - 为工程师提供交互式时间序列可视化服务
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32235975</id>
-        <link href="https://news.ycombinator.com/item?id=32235975"/>
-        <updated>2022-07-26T09:10:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Marple – Interactive time series visualization for engineers]]></summary>
-        <author>
-            <name>NeroVanbierv</name>
-            <uri>https://news.ycombinator.com/user?id=NeroVanbierv</uri>
         </author>
     </entry>
 </feed>
