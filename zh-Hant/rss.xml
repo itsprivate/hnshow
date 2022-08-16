@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 16 Aug 2022 13:30:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 13:55:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Integrate.ai - 對難以獲取的數據進行機器學習和分析
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32482623</link>
+            <guid>https://news.ycombinator.com/item?id=32482623</guid>
+            <pubDate>Tue, 16 Aug 2022 13:45:09 GMT</pubDate>
+            <description><![CDATA[Show HN: Integrate.ai – Machine learning and analytics on hard-to-access data]]></description>
+        </item>
+        <item>
+            <title><![CDATA[靈感來自Celeste的精準平臺遊戲
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32482396</link>
+            <guid>https://news.ycombinator.com/item?id=32482396</guid>
+            <pubDate>Tue, 16 Aug 2022 13:24:58 GMT</pubDate>
+            <description><![CDATA[Show HN: A precision platformer game inspired by Celeste]]></description>
+        </item>
         <item>
             <title><![CDATA[用Ruby編寫的一個安靜的快速搜索引擎
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32237488</guid>
             <pubDate>Tue, 26 Jul 2022 12:42:17 GMT</pubDate>
             <description><![CDATA[Show HN: Motor Admin Rails – Low-Code Admin Panel Gem]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在VSCode上使用宏來回放你的代碼
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32237391</link>
-            <guid>https://news.ycombinator.com/item?id=32237391</guid>
-            <pubDate>Tue, 26 Jul 2022 12:30:54 GMT</pubDate>
-            <description><![CDATA[Show HN: Playback your code using macros on VSCode]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通過恢復最後打開的文件在Visual Studio中無痛切換分支
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32237133</link>
-            <guid>https://news.ycombinator.com/item?id=32237133</guid>
-            <pubDate>Tue, 26 Jul 2022 12:04:24 GMT</pubDate>
-            <description><![CDATA[Show HN: Painless branch switching in Visual Studio by restoring last open files]]></description>
         </item>
     </channel>
 </rss>

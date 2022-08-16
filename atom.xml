@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-16T13:30:29.250Z</updated>
+    <updated>2022-08-16T13:55:34.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Integrate.ai - 对难以获取的数据进行机器学习和分析
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32482623</id>
+        <link href="https://news.ycombinator.com/item?id=32482623"/>
+        <updated>2022-08-16T13:45:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Integrate.ai – Machine learning and analytics on hard-to-access data]]></summary>
+        <author>
+            <name>iaisteve</name>
+            <uri>https://news.ycombinator.com/user?id=iaisteve</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[灵感来自Celeste的精准平台游戏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32482396</id>
+        <link href="https://news.ycombinator.com/item?id=32482396"/>
+        <updated>2022-08-16T13:24:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A precision platformer game inspired by Celeste]]></summary>
+        <author>
+            <name>quintussss</name>
+            <uri>https://news.ycombinator.com/user?id=quintussss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Ruby编写的一个安静的快速搜索引擎
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>petems</name>
             <uri>https://news.ycombinator.com/user?id=petems</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在VSCode上使用宏来回放你的代码
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32237391</id>
-        <link href="https://news.ycombinator.com/item?id=32237391"/>
-        <updated>2022-07-26T12:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Playback your code using macros on VSCode]]></summary>
-        <author>
-            <name>fernandops26</name>
-            <uri>https://news.ycombinator.com/user?id=fernandops26</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过恢复最后打开的文件在Visual Studio中无痛切换分支
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32237133</id>
-        <link href="https://news.ycombinator.com/item?id=32237133"/>
-        <updated>2022-07-26T12:04:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Painless branch switching in Visual Studio by restoring last open files]]></summary>
-        <author>
-            <name>piotrkarczmarz</name>
-            <uri>https://news.ycombinator.com/user?id=piotrkarczmarz</uri>
         </author>
     </entry>
 </feed>
