@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-16T20:31:29.597Z</updated>
+    <updated>2022-08-16T20:50:51.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Squid代理為GitHub行動的本地運行器進行內容緩存
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32488671</id>
+        <link href="https://news.ycombinator.com/item?id=32488671"/>
+        <updated>2022-08-16T20:45:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Content caching for GitHub actions local runner with Squid Proxy]]></summary>
+        <author>
+            <name>osy</name>
+            <uri>https://news.ycombinator.com/user?id=osy</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為買不起健康保險的美國人建立的網絡
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32488615</id>
+        <link href="https://news.ycombinator.com/item?id=32488615"/>
+        <updated>2022-08-16T20:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A network for Americans who can't afford health insurance]]></summary>
+        <author>
+            <name>pocketero-dan</name>
+            <uri>https://news.ycombinator.com/user?id=pocketero-dan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[安裝GitHub項目版本的腳本（在Linux上）。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>samanator</name>
             <uri>https://news.ycombinator.com/user?id=samanator</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pulter - 網絡應用、SaaS或系統的CSV、電子表格導入按鈕
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32247365</id>
-        <link href="https://news.ycombinator.com/item?id=32247365"/>
-        <updated>2022-07-27T06:09:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Pulter – CSV, Spreadsheet import button for a web app, SaaS or system]]></summary>
-        <author>
-            <name>ezehuche</name>
-            <uri>https://news.ycombinator.com/user?id=ezehuche</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盛大--現在你可以在5分鐘內籌集到大量的資金。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32246626</id>
-        <link href="https://news.ycombinator.com/item?id=32246626"/>
-        <updated>2022-07-27T03:36:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Grand- Now You can raise boatlaods of $s in 5 mins]]></summary>
-        <author>
-            <name>lordmunjal007</name>
-            <uri>https://news.ycombinator.com/user?id=lordmunjal007</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 16 Aug 2022 20:31:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 20:50:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Squid代理为GitHub行动的本地运行器进行内容缓存
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32488671</link>
+            <guid>https://news.ycombinator.com/item?id=32488671</guid>
+            <pubDate>Tue, 16 Aug 2022 20:45:25 GMT</pubDate>
+            <description><![CDATA[Show HN: Content caching for GitHub actions local runner with Squid Proxy]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为买不起健康保险的美国人建立的网络
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32488615</link>
+            <guid>https://news.ycombinator.com/item?id=32488615</guid>
+            <pubDate>Tue, 16 Aug 2022 20:41:00 GMT</pubDate>
+            <description><![CDATA[Show HN: A network for Americans who can't afford health insurance]]></description>
+        </item>
         <item>
             <title><![CDATA[安装GitHub项目版本的脚本（在Linux上）。
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32248151</guid>
             <pubDate>Wed, 27 Jul 2022 08:32:52 GMT</pubDate>
             <description><![CDATA[Show HN: A Printf Debugging Tool in Golang]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Pulter - 网络应用、SaaS或系统的CSV、电子表格导入按钮
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32247365</link>
-            <guid>https://news.ycombinator.com/item?id=32247365</guid>
-            <pubDate>Wed, 27 Jul 2022 06:09:45 GMT</pubDate>
-            <description><![CDATA[Show HN: Pulter – CSV, Spreadsheet import button for a web app, SaaS or system]]></description>
-        </item>
-        <item>
-            <title><![CDATA[盛大--现在你可以在5分钟内筹集到大量的资金。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32246626</link>
-            <guid>https://news.ycombinator.com/item?id=32246626</guid>
-            <pubDate>Wed, 27 Jul 2022 03:36:27 GMT</pubDate>
-            <description><![CDATA[Show HN: Grand- Now You can raise boatlaods of $s in 5 mins]]></description>
         </item>
     </channel>
 </rss>
