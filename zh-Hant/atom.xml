@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-16T17:57:41.302Z</updated>
+    <updated>2022-08-16T18:43:02.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[聘請流行的SaaS/無代碼工具的專家
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32486702</id>
+        <link href="https://news.ycombinator.com/item?id=32486702"/>
+        <updated>2022-08-16T18:22:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Hire experts in popular SaaS/no-code tools]]></summary>
+        <author>
+            <name>xq2r7</name>
+            <uri>https://news.ycombinator.com/user?id=xq2r7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通過打字學習外語中的單詞
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>0b01</name>
             <uri>https://news.ycombinator.com/user?id=0b01</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[教育--展示你所知道的，我們會找到你能解決的問題
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32245413</id>
-        <link href="https://news.ycombinator.com/item?id=32245413"/>
-        <updated>2022-07-26T23:42:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Edify – show what you know and we’ll find problems you can solve]]></summary>
-        <author>
-            <name>iedufy</name>
-            <uri>https://news.ycombinator.com/user?id=iedufy</uri>
         </author>
     </entry>
 </feed>
