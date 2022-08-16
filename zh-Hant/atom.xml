@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-16T20:50:51.915Z</updated>
+    <updated>2022-08-16T22:00:23.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[tezos鏈上所有智能合約的Xtz代幣統計數據
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32489409</id>
+        <link href="https://news.ycombinator.com/item?id=32489409"/>
+        <updated>2022-08-16T21:47:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Xtz token statistics for all smart contracts on the tezos chain]]></summary>
+        <author>
+            <name>erwinh</name>
+            <uri>https://news.ycombinator.com/user?id=erwinh</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[情感驅動發展，重新思考項目管理
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32483026</id>
+        <link href="https://news.ycombinator.com/item?id=32483026"/>
+        <updated>2022-08-16T14:15:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Emotion Driven Development, rethinking project management]]></summary>
+        <author>
+            <name>onomojo</name>
+            <uri>https://news.ycombinator.com/user?id=onomojo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Squid代理為GitHub行動的本地運行器進行內容緩存
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>annienxli</name>
             <uri>https://news.ycombinator.com/user?id=annienxli</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用pytask創建可重複的數據分析工作流程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32248353</id>
-        <link href="https://news.ycombinator.com/item?id=32248353"/>
-        <updated>2022-07-27T09:06:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Create reproducible data analysis workflows with pytask]]></summary>
-        <author>
-            <name>robbitobbi</name>
-            <uri>https://news.ycombinator.com/user?id=robbitobbi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golang中的Printf調試工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32248151</id>
-        <link href="https://news.ycombinator.com/item?id=32248151"/>
-        <updated>2022-07-27T08:32:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Printf Debugging Tool in Golang]]></summary>
-        <author>
-            <name>samanator</name>
-            <uri>https://news.ycombinator.com/user?id=samanator</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 16 Aug 2022 20:50:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 22:00:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[tezos鏈上所有智能合約的Xtz代幣統計數據
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32489409</link>
+            <guid>https://news.ycombinator.com/item?id=32489409</guid>
+            <pubDate>Tue, 16 Aug 2022 21:47:24 GMT</pubDate>
+            <description><![CDATA[Show HN: Xtz token statistics for all smart contracts on the tezos chain]]></description>
+        </item>
+        <item>
+            <title><![CDATA[情感驅動發展，重新思考項目管理
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32483026</link>
+            <guid>https://news.ycombinator.com/item?id=32483026</guid>
+            <pubDate>Tue, 16 Aug 2022 14:15:05 GMT</pubDate>
+            <description><![CDATA[Show HN: Emotion Driven Development, rethinking project management]]></description>
+        </item>
         <item>
             <title><![CDATA[用Squid代理為GitHub行動的本地運行器進行內容緩存
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32248580</guid>
             <pubDate>Wed, 27 Jul 2022 09:55:05 GMT</pubDate>
             <description><![CDATA[Show HN: Fill your hiring pipelines with ready-to-interview candidates]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用pytask創建可重複的數據分析工作流程
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32248353</link>
-            <guid>https://news.ycombinator.com/item?id=32248353</guid>
-            <pubDate>Wed, 27 Jul 2022 09:06:37 GMT</pubDate>
-            <description><![CDATA[Show HN: Create reproducible data analysis workflows with pytask]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Golang中的Printf調試工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32248151</link>
-            <guid>https://news.ycombinator.com/item?id=32248151</guid>
-            <pubDate>Wed, 27 Jul 2022 08:32:52 GMT</pubDate>
-            <description><![CDATA[Show HN: A Printf Debugging Tool in Golang]]></description>
         </item>
     </channel>
 </rss>
