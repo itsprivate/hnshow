@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-17T18:38:54.733Z</updated>
+    <updated>2022-08-17T18:59:57.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[EthicalCheck.dev (自動API安全測試)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32500255</id>
+        <link href="https://news.ycombinator.com/item?id=32500255"/>
+        <updated>2022-08-17T18:55:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: EthicalCheck.dev (Automated API Security Testing)]]></summary>
+        <author>
+            <name>intesar</name>
+            <uri>https://news.ycombinator.com/user?id=intesar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一路走來的螃蟹--在邏輯門上運行的鏽蝕
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>florianhidayat</name>
             <uri>https://news.ycombinator.com/user?id=florianhidayat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IPFS的去中心化電子商務
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32254891</id>
-        <link href="https://news.ycombinator.com/item?id=32254891"/>
-        <updated>2022-07-27T18:52:27.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Decentralized Ecommerce for IPFS]]></summary>
-        <author>
-            <name>jopin</name>
-            <uri>https://news.ycombinator.com/user?id=jopin</uri>
         </author>
     </entry>
 </feed>
