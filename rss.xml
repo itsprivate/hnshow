@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 17 Aug 2022 10:52:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 11:27:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[轻松创建强大、轻量级、基于浏览器的P2P网络
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32494697</link>
+            <guid>https://news.ycombinator.com/item?id=32494697</guid>
+            <pubDate>Wed, 17 Aug 2022 11:14:02 GMT</pubDate>
+            <description><![CDATA[Show HN: Easily create robust, lightweight, browser-based P2P networks]]></description>
+        </item>
         <item>
             <title><![CDATA[200多个用No-Code制作的成功产品
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32250701</guid>
             <pubDate>Wed, 27 Jul 2022 14:20:12 GMT</pubDate>
             <description><![CDATA[Show HN: Disgo – Create a Discord Bot in Go]]></description>
-        </item>
-        <item>
-            <title><![CDATA[摄取、存储和可视化，一个工具可以为你的所有数据做所有事情
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32250609</link>
-            <guid>https://news.ycombinator.com/item?id=32250609</guid>
-            <pubDate>Wed, 27 Jul 2022 14:12:44 GMT</pubDate>
-            <description><![CDATA[Show HN: Ingest, Store and Visualise, 1 tool that does it all for all your data]]></description>
         </item>
     </channel>
 </rss>
