@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-17T21:02:40.941Z</updated>
+    <updated>2022-08-17T21:50:05.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[由于privnote似乎已经死了，我将向你展示我的OSS私人笔记应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32502021</id>
+        <link href="https://news.ycombinator.com/item?id=32502021"/>
+        <updated>2022-08-17T21:35:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: As privnote seems to be dead I'll show you my OSS private notes app]]></summary>
+        <author>
+            <name>gigamick</name>
+            <uri>https://news.ycombinator.com/user?id=gigamick</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[写下我一年的创业历程
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Evidlo</name>
             <uri>https://news.ycombinator.com/user?id=Evidlo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shomon - TheHive的Shodan监控集成
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32256184</id>
-        <link href="https://news.ycombinator.com/item?id=32256184"/>
-        <updated>2022-07-27T20:11:05.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Shomon – Shodan Monitoring Integration for TheHive]]></summary>
-        <author>
-            <name>razielk</name>
-            <uri>https://news.ycombinator.com/user?id=razielk</uri>
         </author>
     </entry>
 </feed>
