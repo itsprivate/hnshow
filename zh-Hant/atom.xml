@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-17T15:37:50.134Z</updated>
+    <updated>2022-08-17T15:57:26.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Kotlin咖啡廳。沒有招聘人員和明確工資的Kotlin招聘會
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32497893</id>
+        <link href="https://news.ycombinator.com/item?id=32497893"/>
+        <updated>2022-08-17T15:46:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Kotlin Cafe: Kotlin Job Board with no recruiters and clear salaries]]></summary>
+        <author>
+            <name>hankchinaski</name>
+            <uri>https://news.ycombinator.com/user?id=hankchinaski</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在現代Blazor服務器應用程序中使用ASP.Net核心身份認證
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32497879</id>
+        <link href="https://news.ycombinator.com/item?id=32497879"/>
+        <updated>2022-08-17T15:45:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How to use ASP.Net Core Identity in a modern Blazor server app]]></summary>
+        <author>
+            <name>hestefisk</name>
+            <uri>https://news.ycombinator.com/user?id=hestefisk</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[接受商品和服務的無邊界支付的API和SDKs
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mohitsingh</name>
             <uri>https://news.ycombinator.com/user?id=mohitsingh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[建議網站播客的Chrome擴展
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32252841</id>
-        <link href="https://news.ycombinator.com/item?id=32252841"/>
-        <updated>2022-07-27T16:47:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Chrome extension to suggest podcasts of a website]]></summary>
-        <author>
-            <name>wenbin</name>
-            <uri>https://news.ycombinator.com/user?id=wenbin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[開始條件，一個開放的項目來回答 "誰先走？"
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32252672</id>
-        <link href="https://news.ycombinator.com/item?id=32252672"/>
-        <updated>2022-07-27T16:35:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Starting Condition, an open project to answer “Who goes first?”]]></summary>
-        <author>
-            <name>higgins</name>
-            <uri>https://news.ycombinator.com/user?id=higgins</uri>
         </author>
     </entry>
 </feed>

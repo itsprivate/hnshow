@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 17 Aug 2022 15:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 15:57:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Kotlin咖啡廳。沒有招聘人員和明確工資的Kotlin招聘會
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32497893</link>
+            <guid>https://news.ycombinator.com/item?id=32497893</guid>
+            <pubDate>Wed, 17 Aug 2022 15:46:32 GMT</pubDate>
+            <description><![CDATA[Show HN: Kotlin Cafe: Kotlin Job Board with no recruiters and clear salaries]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何在現代Blazor服務器應用程序中使用ASP.Net核心身份認證
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32497879</link>
+            <guid>https://news.ycombinator.com/item?id=32497879</guid>
+            <pubDate>Wed, 17 Aug 2022 15:45:45 GMT</pubDate>
+            <description><![CDATA[Show HN: How to use ASP.Net Core Identity in a modern Blazor server app]]></description>
+        </item>
         <item>
             <title><![CDATA[接受商品和服務的無邊界支付的API和SDKs
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32253362</guid>
             <pubDate>Wed, 27 Jul 2022 17:21:37 GMT</pubDate>
             <description><![CDATA[Show HN: I built a self-hosted and scalable link-shortener]]></description>
-        </item>
-        <item>
-            <title><![CDATA[建議網站播客的Chrome擴展
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32252841</link>
-            <guid>https://news.ycombinator.com/item?id=32252841</guid>
-            <pubDate>Wed, 27 Jul 2022 16:47:55 GMT</pubDate>
-            <description><![CDATA[Show HN: Chrome extension to suggest podcasts of a website]]></description>
-        </item>
-        <item>
-            <title><![CDATA[開始條件，一個開放的項目來回答 "誰先走？"
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32252672</link>
-            <guid>https://news.ycombinator.com/item?id=32252672</guid>
-            <pubDate>Wed, 27 Jul 2022 16:35:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Starting Condition, an open project to answer “Who goes first?”]]></description>
         </item>
     </channel>
 </rss>
