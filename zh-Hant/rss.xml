@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 17 Aug 2022 13:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 14:09:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,38 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Golang的一個簡單的零依賴性內存鍵值存儲器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32496288</link>
+            <guid>https://news.ycombinator.com/item?id=32496288</guid>
+            <pubDate>Wed, 17 Aug 2022 13:45:44 GMT</pubDate>
+            <description><![CDATA[Show HN: A simple zero-dependency in-memory key-value store for Golang]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我想我可能已經發明瞭類似AGI的東西。證明我錯了嗎？
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32496249</link>
+            <guid>https://news.ycombinator.com/item?id=32496249</guid>
+            <pubDate>Wed, 17 Aug 2022 13:43:06 GMT</pubDate>
+            <description><![CDATA[Show HN: I think I might have invented something like AGI. Prove me wrong?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Match(it)。一個有很多好東西的C++17模式匹配庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32496168</link>
+            <guid>https://news.ycombinator.com/item?id=32496168</guid>
+            <pubDate>Wed, 17 Aug 2022 13:36:08 GMT</pubDate>
+            <description><![CDATA[Show HN: Match(it): A C++17 pattern-matching library with lots of good stuffs]]></description>
+        </item>
+        <item>
+            <title><![CDATA[授權者 1.0
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32495745</link>
+            <guid>https://news.ycombinator.com/item?id=32495745</guid>
+            <pubDate>Wed, 17 Aug 2022 13:01:12 GMT</pubDate>
+            <description><![CDATA[Show HN: Authorizer 1.0]]></description>
+        </item>
         <item>
             <title><![CDATA[如何用JSONB更快地查詢PostgreSQL中的JSON數據
 ]]></title>
@@ -4781,38 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32251667</guid>
             <pubDate>Wed, 27 Jul 2022 15:30:21 GMT</pubDate>
             <description><![CDATA[Show HN: MouseTray – on-the-fly speed adjustment for any old office mouse]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OSS Insight - 面向開發者的GitHub儀表板
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32251486</link>
-            <guid>https://news.ycombinator.com/item?id=32251486</guid>
-            <pubDate>Wed, 27 Jul 2022 15:16:25 GMT</pubDate>
-            <description><![CDATA[Show HN: OSS Insight – GitHub dashboard for developers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WindowHandler - 在瀏覽器中運行的無服務器功能
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32251376</link>
-            <guid>https://news.ycombinator.com/item?id=32251376</guid>
-            <pubDate>Wed, 27 Jul 2022 15:07:16 GMT</pubDate>
-            <description><![CDATA[Show HN: WindowHandler – Serverless functions that run in your browser]]></description>
-        </item>
-        <item>
-            <title><![CDATA[回顧您最喜愛的咖啡豆並發現新的咖啡豆
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32251129</link>
-            <guid>https://news.ycombinator.com/item?id=32251129</guid>
-            <pubDate>Wed, 27 Jul 2022 14:52:25 GMT</pubDate>
-            <description><![CDATA[Show HN: Review your favorite coffee beans and discover new ones]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Jupyter筆記本的數據顯示框
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32250900</link>
-            <guid>https://news.ycombinator.com/item?id=32250900</guid>
-            <pubDate>Wed, 27 Jul 2022 14:37:17 GMT</pubDate>
-            <description><![CDATA[Show HN: Data display boxes for Jupyter Notebook]]></description>
         </item>
     </channel>
 </rss>
