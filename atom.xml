@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-17T15:57:26.390Z</updated>
+    <updated>2022-08-17T16:51:01.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GraphJSON - 使用ClickHouse轻松地记录和分析事件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32498134</id>
+        <link href="https://news.ycombinator.com/item?id=32498134"/>
+        <updated>2022-08-17T16:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GraphJSON – Easily log and analyze events using ClickHouse]]></summary>
+        <author>
+            <name>flurly</name>
+            <uri>https://news.ycombinator.com/user?id=flurly</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任务 - 一个任务运行器/Makefile替代品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32498048</id>
+        <link href="https://news.ycombinator.com/item?id=32498048"/>
+        <updated>2022-08-17T15:58:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Task – A task runner / Makefile alternative]]></summary>
+        <author>
+            <name>andreynering</name>
+            <uri>https://news.ycombinator.com/user?id=andreynering</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我创建了一个库来创建产品导览/演练
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32497986</id>
+        <link href="https://news.ycombinator.com/item?id=32497986"/>
+        <updated>2022-08-17T15:53:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I created a library to create product tours / walkthroughs]]></summary>
+        <author>
+            <name>nbhusal</name>
+            <uri>https://news.ycombinator.com/user?id=nbhusal</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kotlin咖啡厅。没有招聘人员和明确工资的Kotlin招聘会
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>commotionfever</name>
             <uri>https://news.ycombinator.com/user?id=commotionfever</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mvsqlite - 在FoundationDB上运行的分布式、MVCC SQLite
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32253406</id>
-        <link href="https://news.ycombinator.com/item?id=32253406"/>
-        <updated>2022-07-27T17:24:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mvsqlite – Distributed, MVCC SQLite That Runs on FoundationDB]]></summary>
-        <author>
-            <name>losfair</name>
-            <uri>https://news.ycombinator.com/user?id=losfair</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smort.io - 注释和分享ArXiv论文和文章
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32253366</id>
-        <link href="https://news.ycombinator.com/item?id=32253366"/>
-        <updated>2022-07-27T17:21:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Smort.io – Annotate and share ArXiv papers and articles]]></summary>
-        <author>
-            <name>sabr</name>
-            <uri>https://news.ycombinator.com/user?id=sabr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我建立了一个自我托管和可扩展的链接缩短器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32253362</id>
-        <link href="https://news.ycombinator.com/item?id=32253362"/>
-        <updated>2022-07-27T17:21:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I built a self-hosted and scalable link-shortener]]></summary>
-        <author>
-            <name>mohitsingh</name>
-            <uri>https://news.ycombinator.com/user?id=mohitsingh</uri>
         </author>
     </entry>
 </feed>

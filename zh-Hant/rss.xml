@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 17 Aug 2022 15:57:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 16:51:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GraphJSON - 使用ClickHouse輕鬆地記錄和分析事件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32498134</link>
+            <guid>https://news.ycombinator.com/item?id=32498134</guid>
+            <pubDate>Wed, 17 Aug 2022 16:04:28 GMT</pubDate>
+            <description><![CDATA[Show HN: GraphJSON – Easily log and analyze events using ClickHouse]]></description>
+        </item>
+        <item>
+            <title><![CDATA[任務 - 一個任務運行器/Makefile替代品
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32498048</link>
+            <guid>https://news.ycombinator.com/item?id=32498048</guid>
+            <pubDate>Wed, 17 Aug 2022 15:58:09 GMT</pubDate>
+            <description><![CDATA[Show HN: Task – A task runner / Makefile alternative]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我創建了一個庫來創建產品導覽/演練
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32497986</link>
+            <guid>https://news.ycombinator.com/item?id=32497986</guid>
+            <pubDate>Wed, 17 Aug 2022 15:53:37 GMT</pubDate>
+            <description><![CDATA[Show HN: I created a library to create product tours / walkthroughs]]></description>
+        </item>
         <item>
             <title><![CDATA[Kotlin咖啡廳。沒有招聘人員和明確工資的Kotlin招聘會
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32253962</guid>
             <pubDate>Wed, 27 Jul 2022 17:56:11 GMT</pubDate>
             <description><![CDATA[Show HN: Vi-pipe, edit and replay text changes in the middle of a shell pipeline]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Mvsqlite - 在FoundationDB上運行的分佈式、MVCC SQLite
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32253406</link>
-            <guid>https://news.ycombinator.com/item?id=32253406</guid>
-            <pubDate>Wed, 27 Jul 2022 17:24:12 GMT</pubDate>
-            <description><![CDATA[Show HN: Mvsqlite – Distributed, MVCC SQLite That Runs on FoundationDB]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Smort.io - 註釋和分享ArXiv論文和文章
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32253366</link>
-            <guid>https://news.ycombinator.com/item?id=32253366</guid>
-            <pubDate>Wed, 27 Jul 2022 17:21:55 GMT</pubDate>
-            <description><![CDATA[Show HN: Smort.io – Annotate and share ArXiv papers and articles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我建立了一個自我託管和可擴展的鏈接縮短器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32253362</link>
-            <guid>https://news.ycombinator.com/item?id=32253362</guid>
-            <pubDate>Wed, 27 Jul 2022 17:21:37 GMT</pubDate>
-            <description><![CDATA[Show HN: I built a self-hosted and scalable link-shortener]]></description>
         </item>
     </channel>
 </rss>
