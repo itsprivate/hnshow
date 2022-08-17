@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 17 Aug 2022 17:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 17:59:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一個在Pharo中建立徽章的工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32499466</link>
+            <guid>https://news.ycombinator.com/item?id=32499466</guid>
+            <pubDate>Wed, 17 Aug 2022 17:43:10 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a tool to build badges in Pharo]]></description>
+        </item>
         <item>
             <title><![CDATA[Flatland - 用於程序合成的玩具環境
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32254303</guid>
             <pubDate>Wed, 27 Jul 2022 18:16:04 GMT</pubDate>
             <description><![CDATA[Show HN: Experienced founders reveal how they got their earliest traction]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我用文字轉圖像的AI製作了這幅網絡漫畫
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32254283</link>
-            <guid>https://news.ycombinator.com/item?id=32254283</guid>
-            <pubDate>Wed, 27 Jul 2022 18:14:42 GMT</pubDate>
-            <description><![CDATA[Show HN: I made this webcomic with text-to-image AI]]></description>
         </item>
     </channel>
 </rss>
