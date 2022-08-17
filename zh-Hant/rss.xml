@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 17 Aug 2022 14:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 14:36:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我們做了一個搜索引擎來尋找任何東西的精華
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32496848</link>
+            <guid>https://news.ycombinator.com/item?id=32496848</guid>
+            <pubDate>Wed, 17 Aug 2022 14:25:33 GMT</pubDate>
+            <description><![CDATA[Show HN: We made a search engine for finding the best of anything]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Cleanlab Vizzy - 自動查找標籤錯誤和不良數據
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32496807</link>
+            <guid>https://news.ycombinator.com/item?id=32496807</guid>
+            <pubDate>Wed, 17 Aug 2022 14:23:17 GMT</pubDate>
+            <description><![CDATA[Show HN: Cleanlab Vizzy – automatically find label errors and bad data]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Nap - 一個關於自動機和對稱性的遊戲
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32496341</link>
+            <guid>https://news.ycombinator.com/item?id=32496341</guid>
+            <pubDate>Wed, 17 Aug 2022 13:49:16 GMT</pubDate>
+            <description><![CDATA[Show HN: Nap – a game about automorphisms and symmetry]]></description>
+        </item>
         <item>
             <title><![CDATA[Golang的一個簡單的零依賴性內存鍵值存儲器
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32252440</guid>
             <pubDate>Wed, 27 Jul 2022 16:20:16 GMT</pubDate>
             <description><![CDATA[Show HN: Online Statistics in Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[化學和電子鼻實驗裝置
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32251690</link>
-            <guid>https://news.ycombinator.com/item?id=32251690</guid>
-            <pubDate>Wed, 27 Jul 2022 15:31:45 GMT</pubDate>
-            <description><![CDATA[Show HN: Chemical and electronic nose experiment device]]></description>
-        </item>
-        <item>
-            <title><![CDATA[互動式儀表板。渴望吃麥當勞？這可能會改變你的想法
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32251678</link>
-            <guid>https://news.ycombinator.com/item?id=32251678</guid>
-            <pubDate>Wed, 27 Jul 2022 15:30:47 GMT</pubDate>
-            <description><![CDATA[Show HN: Interactive dashboard: Craving McDonalds? This may change your mind]]></description>
-        </item>
-        <item>
-            <title><![CDATA[鼠標托盤--為任何舊的辦公鼠標進行即時速度調整
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32251667</link>
-            <guid>https://news.ycombinator.com/item?id=32251667</guid>
-            <pubDate>Wed, 27 Jul 2022 15:30:21 GMT</pubDate>
-            <description><![CDATA[Show HN: MouseTray – on-the-fly speed adjustment for any old office mouse]]></description>
         </item>
     </channel>
 </rss>

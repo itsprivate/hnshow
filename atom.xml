@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-17T14:09:15.175Z</updated>
+    <updated>2022-08-17T14:36:17.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们做了一个搜索引擎来寻找任何东西的精华
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32496848</id>
+        <link href="https://news.ycombinator.com/item?id=32496848"/>
+        <updated>2022-08-17T14:25:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We made a search engine for finding the best of anything]]></summary>
+        <author>
+            <name>switchstance</name>
+            <uri>https://news.ycombinator.com/user?id=switchstance</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cleanlab Vizzy - 自动查找标签错误和不良数据
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32496807</id>
+        <link href="https://news.ycombinator.com/item?id=32496807"/>
+        <updated>2022-08-17T14:23:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Cleanlab Vizzy – automatically find label errors and bad data]]></summary>
+        <author>
+            <name>calebchiam</name>
+            <uri>https://news.ycombinator.com/user?id=calebchiam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nap - 一个关于自动机和对称性的游戏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32496341</id>
+        <link href="https://news.ycombinator.com/item?id=32496341"/>
+        <updated>2022-08-17T13:49:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Nap – a game about automorphisms and symmetry]]></summary>
+        <author>
+            <name>beanway</name>
+            <uri>https://news.ycombinator.com/user?id=beanway</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Golang的一个简单的零依赖性内存键值存储器
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>AdilZtn</name>
             <uri>https://news.ycombinator.com/user?id=AdilZtn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[化学和电子鼻实验装置
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251690</id>
-        <link href="https://news.ycombinator.com/item?id=32251690"/>
-        <updated>2022-07-27T15:31:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Chemical and electronic nose experiment device]]></summary>
-        <author>
-            <name>adomasm3</name>
-            <uri>https://news.ycombinator.com/user?id=adomasm3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互动式仪表板。渴望吃麦当劳？这可能会改变你的想法
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251678</id>
-        <link href="https://news.ycombinator.com/item?id=32251678"/>
-        <updated>2022-07-27T15:30:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Interactive dashboard: Craving McDonalds? This may change your mind]]></summary>
-        <author>
-            <name>margotli</name>
-            <uri>https://news.ycombinator.com/user?id=margotli</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[鼠标托盘--为任何旧的办公鼠标进行即时速度调整
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32251667</id>
-        <link href="https://news.ycombinator.com/item?id=32251667"/>
-        <updated>2022-07-27T15:30:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: MouseTray – on-the-fly speed adjustment for any old office mouse]]></summary>
-        <author>
-            <name>EsportToys</name>
-            <uri>https://news.ycombinator.com/user?id=EsportToys</uri>
         </author>
     </entry>
 </feed>
