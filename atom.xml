@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-17T18:59:57.038Z</updated>
+    <updated>2022-08-17T19:47:04.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Exp. 平滑化的准确性比神经先知高32%，速度快100倍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32500725</id>
+        <link href="https://news.ycombinator.com/item?id=32500725"/>
+        <updated>2022-08-17T19:33:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Exp. Smoothing is 32% more accurate and 100x faster than Neural-Prophet]]></summary>
+        <author>
+            <name>maxmc</name>
+            <uri>https://news.ycombinator.com/user?id=maxmc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EthicalCheck.dev (自动API安全测试)
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>apeconmyth</name>
             <uri>https://news.ycombinator.com/user?id=apeconmyth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chord Genius--吉他卡拉OK应用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32255513</id>
-        <link href="https://news.ycombinator.com/item?id=32255513"/>
-        <updated>2022-07-27T19:28:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Chord Genius – karaoke for guitar app]]></summary>
-        <author>
-            <name>florianhidayat</name>
-            <uri>https://news.ycombinator.com/user?id=florianhidayat</uri>
         </author>
     </entry>
 </feed>
