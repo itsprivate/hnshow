@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 17 Aug 2022 16:51:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 17:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Flatland - 用于程序合成的玩具环境
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32499032</link>
+            <guid>https://news.ycombinator.com/item?id=32499032</guid>
+            <pubDate>Wed, 17 Aug 2022 17:12:29 GMT</pubDate>
+            <description><![CDATA[Show HN: Flatland – Toy environment for program synthesis]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Txtai 4.6发布--构建语义搜索应用
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32498917</link>
+            <guid>https://news.ycombinator.com/item?id=32498917</guid>
+            <pubDate>Wed, 17 Aug 2022 17:02:52 GMT</pubDate>
+            <description><![CDATA[Show HN: Txtai 4.6 released – build semantic search applications]]></description>
+        </item>
         <item>
             <title><![CDATA[GraphJSON - 使用ClickHouse轻松地记录和分析事件
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32254283</guid>
             <pubDate>Wed, 27 Jul 2022 18:14:42 GMT</pubDate>
             <description><![CDATA[Show HN: I made this webcomic with text-to-image AI]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用汉密尔顿验证你的数据
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32254242</link>
-            <guid>https://news.ycombinator.com/item?id=32254242</guid>
-            <pubDate>Wed, 27 Jul 2022 18:12:04 GMT</pubDate>
-            <description><![CDATA[Show HN: Validating Your Data with Hamilton]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Vi-pipe，在shell管道中编辑和回放文本变化
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32253962</link>
-            <guid>https://news.ycombinator.com/item?id=32253962</guid>
-            <pubDate>Wed, 27 Jul 2022 17:56:11 GMT</pubDate>
-            <description><![CDATA[Show HN: Vi-pipe, edit and replay text changes in the middle of a shell pipeline]]></description>
         </item>
     </channel>
 </rss>

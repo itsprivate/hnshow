@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-17T16:51:01.752Z</updated>
+    <updated>2022-08-17T17:20:52.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Flatland - 用于程序合成的玩具环境
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32499032</id>
+        <link href="https://news.ycombinator.com/item?id=32499032"/>
+        <updated>2022-08-17T17:12:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Flatland – Toy environment for program synthesis]]></summary>
+        <author>
+            <name>sibeshk96</name>
+            <uri>https://news.ycombinator.com/user?id=sibeshk96</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Txtai 4.6发布--构建语义搜索应用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32498917</id>
+        <link href="https://news.ycombinator.com/item?id=32498917"/>
+        <updated>2022-08-17T17:02:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Txtai 4.6 released – build semantic search applications]]></summary>
+        <author>
+            <name>txtai</name>
+            <uri>https://news.ycombinator.com/user?id=txtai</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GraphJSON - 使用ClickHouse轻松地记录和分析事件
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ratio11</name>
             <uri>https://news.ycombinator.com/user?id=ratio11</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用汉密尔顿验证你的数据
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32254242</id>
-        <link href="https://news.ycombinator.com/item?id=32254242"/>
-        <updated>2022-07-27T18:12:04.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Validating Your Data with Hamilton]]></summary>
-        <author>
-            <name>elijahbenizzy</name>
-            <uri>https://news.ycombinator.com/user?id=elijahbenizzy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vi-pipe，在shell管道中编辑和回放文本变化
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32253962</id>
-        <link href="https://news.ycombinator.com/item?id=32253962"/>
-        <updated>2022-07-27T17:56:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Vi-pipe, edit and replay text changes in the middle of a shell pipeline]]></summary>
-        <author>
-            <name>commotionfever</name>
-            <uri>https://news.ycombinator.com/user?id=commotionfever</uri>
         </author>
     </entry>
 </feed>
