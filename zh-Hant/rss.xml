@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 17 Aug 2022 21:50:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 22:04:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[無代碼數據分析
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32502135</link>
+            <guid>https://news.ycombinator.com/item?id=32502135</guid>
+            <pubDate>Wed, 17 Aug 2022 21:46:12 GMT</pubDate>
+            <description><![CDATA[Show HN: No-code data analysis]]></description>
+        </item>
         <item>
             <title><![CDATA[由於privnote似乎已經死了，我將向你展示我的OSS私人筆記應用程序
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32256568</guid>
             <pubDate>Wed, 27 Jul 2022 20:38:12 GMT</pubDate>
             <description><![CDATA[Show HN: JSON-Safe Lisp Language]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用網絡瀏覽器將你的屏幕分享到投影儀/電視上
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32256322</link>
-            <guid>https://news.ycombinator.com/item?id=32256322</guid>
-            <pubDate>Wed, 27 Jul 2022 20:19:57 GMT</pubDate>
-            <description><![CDATA[Show HN: Share your screen to a projector/TV with a web-browser]]></description>
         </item>
     </channel>
 </rss>
