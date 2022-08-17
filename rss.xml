@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 17 Aug 2022 08:37:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 09:33:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一个基于网络的记事本，里面有一个内置的单位计算器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32493946</link>
+            <guid>https://news.ycombinator.com/item?id=32493946</guid>
+            <pubDate>Wed, 17 Aug 2022 09:01:42 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a web-based notepad with a built in unit calculator]]></description>
+        </item>
         <item>
             <title><![CDATA[MorselDB，一个由Clarisights建立的HTAP式数据库。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32250057</guid>
             <pubDate>Wed, 27 Jul 2022 13:19:24 GMT</pubDate>
             <description><![CDATA[Show HN: Crew for Exchange 2.0, native iOS application for Stack Exchange]]></description>
-        </item>
-        <item>
-            <title><![CDATA[每天发现和讨论一幅画
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32249586</link>
-            <guid>https://news.ycombinator.com/item?id=32249586</guid>
-            <pubDate>Wed, 27 Jul 2022 12:22:43 GMT</pubDate>
-            <description><![CDATA[Show HN: Discover and discuss one painting a day]]></description>
         </item>
     </channel>
 </rss>

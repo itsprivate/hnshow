@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-17T08:37:10.267Z</updated>
+    <updated>2022-08-17T09:33:32.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個基於網絡的記事本，裡面有一個內置的單位計算器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32493946</id>
+        <link href="https://news.ycombinator.com/item?id=32493946"/>
+        <updated>2022-08-17T09:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a web-based notepad with a built in unit calculator]]></summary>
+        <author>
+            <name>tonyonodi</name>
+            <uri>https://news.ycombinator.com/user?id=tonyonodi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MorselDB，一個由Clarisights建立的HTAP式數據庫。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>danieljamess</name>
             <uri>https://news.ycombinator.com/user?id=danieljamess</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[每天發現和討論一幅畫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32249586</id>
-        <link href="https://news.ycombinator.com/item?id=32249586"/>
-        <updated>2022-07-27T12:22:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Discover and discuss one painting a day]]></summary>
-        <author>
-            <name>afkqs</name>
-            <uri>https://news.ycombinator.com/user?id=afkqs</uri>
         </author>
     </entry>
 </feed>
