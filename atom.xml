@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-17T14:36:17.229Z</updated>
+    <updated>2022-08-17T15:37:50.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[接受商品和服务的无边界支付的API和SDKs
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32497181</id>
+        <link href="https://news.ycombinator.com/item?id=32497181"/>
+        <updated>2022-08-17T14:50:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: APIs and SDKs to accept borderless payments for goods and services]]></summary>
+        <author>
+            <name>Tkings</name>
+            <uri>https://news.ycombinator.com/user?id=Tkings</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们做了一个搜索引擎来寻找任何东西的精华
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>higgins</name>
             <uri>https://news.ycombinator.com/user?id=higgins</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust中的在线统计
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32252440</id>
-        <link href="https://news.ycombinator.com/item?id=32252440"/>
-        <updated>2022-07-27T16:20:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Online Statistics in Rust]]></summary>
-        <author>
-            <name>AdilZtn</name>
-            <uri>https://news.ycombinator.com/user?id=AdilZtn</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 17 Aug 2022 14:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 15:37:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[接受商品和服务的无边界支付的API和SDKs
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32497181</link>
+            <guid>https://news.ycombinator.com/item?id=32497181</guid>
+            <pubDate>Wed, 17 Aug 2022 14:50:01 GMT</pubDate>
+            <description><![CDATA[Show HN: APIs and SDKs to accept borderless payments for goods and services]]></description>
+        </item>
         <item>
             <title><![CDATA[我们做了一个搜索引擎来寻找任何东西的精华
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32252672</guid>
             <pubDate>Wed, 27 Jul 2022 16:35:41 GMT</pubDate>
             <description><![CDATA[Show HN: Starting Condition, an open project to answer “Who goes first?”]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rust中的在线统计
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32252440</link>
-            <guid>https://news.ycombinator.com/item?id=32252440</guid>
-            <pubDate>Wed, 27 Jul 2022 16:20:16 GMT</pubDate>
-            <description><![CDATA[Show HN: Online Statistics in Rust]]></description>
         </item>
     </channel>
 </rss>
