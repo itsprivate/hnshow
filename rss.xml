@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 18 Aug 2022 17:56:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 18:39:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我们为传感器建立了一个类似于AirTag的网络，可以与你的服务器对话
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32512867</link>
+            <guid>https://news.ycombinator.com/item?id=32512867</guid>
+            <pubDate>Thu, 18 Aug 2022 17:59:35 GMT</pubDate>
+            <description><![CDATA[Show HN: We built an AirTag-like network for sensors that talk to your servers]]></description>
+        </item>
         <item>
             <title><![CDATA[Pi-hole部署在Fly.io的边缘，并通过TailScale访问。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32267558</guid>
             <pubDate>Thu, 28 Jul 2022 17:27:45 GMT</pubDate>
             <description><![CDATA[Show HN: Equities.fyi – Startup valuations based on public company data]]></description>
-        </item>
-        <item>
-            <title><![CDATA[无限地创建家具情绪板，只问你的预算
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32267064</link>
-            <guid>https://news.ycombinator.com/item?id=32267064</guid>
-            <pubDate>Thu, 28 Jul 2022 17:00:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Infinitely creates furniture moodboards, asks only your budget]]></description>
         </item>
     </channel>
 </rss>

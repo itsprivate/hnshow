@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-18T17:56:47.808Z</updated>
+    <updated>2022-08-18T18:39:23.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我们为传感器建立了一个类似于AirTag的网络，可以与你的服务器对话
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32512867</id>
+        <link href="https://news.ycombinator.com/item?id=32512867"/>
+        <updated>2022-08-18T17:59:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We built an AirTag-like network for sensors that talk to your servers]]></summary>
+        <author>
+            <name>mookstar</name>
+            <uri>https://news.ycombinator.com/user?id=mookstar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pi-hole部署在Fly.io的边缘，并通过TailScale访问。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>vu0tran</name>
             <uri>https://news.ycombinator.com/user?id=vu0tran</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无限地创建家具情绪板，只问你的预算
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32267064</id>
-        <link href="https://news.ycombinator.com/item?id=32267064"/>
-        <updated>2022-07-28T17:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Infinitely creates furniture moodboards, asks only your budget]]></summary>
-        <author>
-            <name>athomasg</name>
-            <uri>https://news.ycombinator.com/user?id=athomasg</uri>
         </author>
     </entry>
 </feed>
