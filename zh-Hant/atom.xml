@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-18T17:25:42.906Z</updated>
+    <updated>2022-08-18T17:56:47.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,54 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Pi-hole部署在Fly.io的邊緣，並通過TailScale訪問。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32512576</id>
+        <link href="https://news.ycombinator.com/item?id=32512576"/>
+        <updated>2022-08-18T17:33:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pi-hole deployed at the edge on Fly.io and accessed via TailScale]]></summary>
+        <author>
+            <name>mtremsal</name>
+            <uri>https://news.ycombinator.com/user?id=mtremsal</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用（虛擬）線程的純Java的生成器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32512562</id>
+        <link href="https://news.ycombinator.com/item?id=32512562"/>
+        <updated>2022-08-18T17:31:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Generators in pure Java using (virtual) threads]]></summary>
+        <author>
+            <name>slaymaker1907</name>
+            <uri>https://news.ycombinator.com/user?id=slaymaker1907</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[快速的CPU比較
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32512520</id>
+        <link href="https://news.ycombinator.com/item?id=32512520"/>
+        <updated>2022-08-18T17:28:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Quick CPU Comparison]]></summary>
+        <author>
+            <name>spapas82</name>
+            <uri>https://news.ycombinator.com/user?id=spapas82</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[身體追蹤WebAR SDK。實時、靈活、易於使用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32512465</id>
+        <link href="https://news.ycombinator.com/item?id=32512465"/>
+        <updated>2022-08-18T17:24:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Body Tracking WebAR SDK. Realtime, Flexible, and Easy-to-Use]]></summary>
+        <author>
+            <name>pesh</name>
+            <uri>https://news.ycombinator.com/user?id=pesh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在1天內用DALL-E 2寫了一本兒童書
 ]]></title>
@@ -7165,54 +7213,6 @@
         <author>
             <name>athomasg</name>
             <uri>https://news.ycombinator.com/user?id=athomasg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[跟蹤和控制賬戶共享的API
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32266941</id>
-        <link href="https://news.ycombinator.com/item?id=32266941"/>
-        <updated>2022-07-28T16:52:13.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: API to track and control account sharing]]></summary>
-        <author>
-            <name>amukbils</name>
-            <uri>https://news.ycombinator.com/user?id=amukbils</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盛大--投資於創造者
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32266791</id>
-        <link href="https://news.ycombinator.com/item?id=32266791"/>
-        <updated>2022-07-28T16:42:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Grand – Invest in Creators]]></summary>
-        <author>
-            <name>avikonduru</name>
-            <uri>https://news.ycombinator.com/user?id=avikonduru</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帶有眾包圖像和字幕的黑客新聞移動應用程序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32266347</id>
-        <link href="https://news.ycombinator.com/item?id=32266347"/>
-        <updated>2022-07-28T16:12:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Hacker News mobile app with crowdsourced images and subtitles]]></summary>
-        <author>
-            <name>MarkMc</name>
-            <uri>https://news.ycombinator.com/user?id=MarkMc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[西洋菜 - "烹飪的Duolingo"
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32266086</id>
-        <link href="https://news.ycombinator.com/item?id=32266086"/>
-        <updated>2022-07-28T15:57:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Parsnip – “Duolingo for Cooking”]]></summary>
-        <author>
-            <name>mizzao</name>
-            <uri>https://news.ycombinator.com/user?id=mizzao</uri>
         </author>
     </entry>
 </feed>

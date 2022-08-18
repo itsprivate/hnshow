@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 18 Aug 2022 17:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 17:56:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,38 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Pi-hole部署在Fly.io的邊緣，並通過TailScale訪問。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32512576</link>
+            <guid>https://news.ycombinator.com/item?id=32512576</guid>
+            <pubDate>Thu, 18 Aug 2022 17:33:19 GMT</pubDate>
+            <description><![CDATA[Show HN: Pi-hole deployed at the edge on Fly.io and accessed via TailScale]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用（虛擬）線程的純Java的生成器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32512562</link>
+            <guid>https://news.ycombinator.com/item?id=32512562</guid>
+            <pubDate>Thu, 18 Aug 2022 17:31:54 GMT</pubDate>
+            <description><![CDATA[Show HN: Generators in pure Java using (virtual) threads]]></description>
+        </item>
+        <item>
+            <title><![CDATA[快速的CPU比較
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32512520</link>
+            <guid>https://news.ycombinator.com/item?id=32512520</guid>
+            <pubDate>Thu, 18 Aug 2022 17:28:58 GMT</pubDate>
+            <description><![CDATA[Show HN: Quick CPU Comparison]]></description>
+        </item>
+        <item>
+            <title><![CDATA[身體追蹤WebAR SDK。實時、靈活、易於使用
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32512465</link>
+            <guid>https://news.ycombinator.com/item?id=32512465</guid>
+            <pubDate>Thu, 18 Aug 2022 17:24:39 GMT</pubDate>
+            <description><![CDATA[Show HN: Body Tracking WebAR SDK. Realtime, Flexible, and Easy-to-Use]]></description>
+        </item>
         <item>
             <title><![CDATA[我在1天內用DALL-E 2寫了一本兒童書
 ]]></title>
@@ -4781,38 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32267064</guid>
             <pubDate>Thu, 28 Jul 2022 17:00:09 GMT</pubDate>
             <description><![CDATA[Show HN: Infinitely creates furniture moodboards, asks only your budget]]></description>
-        </item>
-        <item>
-            <title><![CDATA[跟蹤和控制賬戶共享的API
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32266941</link>
-            <guid>https://news.ycombinator.com/item?id=32266941</guid>
-            <pubDate>Thu, 28 Jul 2022 16:52:13 GMT</pubDate>
-            <description><![CDATA[Show HN: API to track and control account sharing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[盛大--投資於創造者
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32266791</link>
-            <guid>https://news.ycombinator.com/item?id=32266791</guid>
-            <pubDate>Thu, 28 Jul 2022 16:42:23 GMT</pubDate>
-            <description><![CDATA[Show HN: Grand – Invest in Creators]]></description>
-        </item>
-        <item>
-            <title><![CDATA[帶有眾包圖像和字幕的黑客新聞移動應用程序
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32266347</link>
-            <guid>https://news.ycombinator.com/item?id=32266347</guid>
-            <pubDate>Thu, 28 Jul 2022 16:12:57 GMT</pubDate>
-            <description><![CDATA[Show HN: A Hacker News mobile app with crowdsourced images and subtitles]]></description>
-        </item>
-        <item>
-            <title><![CDATA[西洋菜 - "烹飪的Duolingo"
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32266086</link>
-            <guid>https://news.ycombinator.com/item?id=32266086</guid>
-            <pubDate>Thu, 28 Jul 2022 15:57:12 GMT</pubDate>
-            <description><![CDATA[Show HN: Parsnip – “Duolingo for Cooking”]]></description>
         </item>
     </channel>
 </rss>
