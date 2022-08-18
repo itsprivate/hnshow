@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-18T09:31:33.701Z</updated>
+    <updated>2022-08-18T09:50:43.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[来自顶级Shopify专家的最佳Shopify解决方案
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32507273</id>
+        <link href="https://news.ycombinator.com/item?id=32507273"/>
+        <updated>2022-08-18T09:40:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Best Shopify Solutions from Top Shopify Experts]]></summary>
+        <author>
+            <name>harisjsimon</name>
+            <uri>https://news.ycombinator.com/user?id=harisjsimon</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MyNotifier - 简单通知
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32507244</id>
+        <link href="https://news.ycombinator.com/item?id=32507244"/>
+        <updated>2022-08-18T09:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MyNotifier – Simple Notifications]]></summary>
+        <author>
+            <name>therealzenzei</name>
+            <uri>https://news.ycombinator.com/user?id=therealzenzei</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我花了一年时间设计了一个低调的、最小的机械键盘
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>hexomancer</name>
             <uri>https://news.ycombinator.com/user?id=hexomancer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自定义的AVR位控软件UART
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32261492</id>
-        <link href="https://news.ycombinator.com/item?id=32261492"/>
-        <updated>2022-07-28T07:41:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Custom AVR bit-banged software UART]]></summary>
-        <author>
-            <name>mihaigalos</name>
-            <uri>https://news.ycombinator.com/user?id=mihaigalos</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的网站现在有一个CRT过滤器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32260398</id>
-        <link href="https://news.ycombinator.com/item?id=32260398"/>
-        <updated>2022-07-28T04:10:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: My website now has a CRT filter]]></summary>
-        <author>
-            <name>atum47</name>
-            <uri>https://news.ycombinator.com/user?id=atum47</uri>
         </author>
     </entry>
 </feed>
