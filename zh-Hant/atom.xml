@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-18T22:50:28.623Z</updated>
+    <updated>2022-08-18T23:48:24.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[快速轉到經常出現的URL（瀏覽器插件）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32516112</id>
+        <link href="https://news.ycombinator.com/item?id=32516112"/>
+        <updated>2022-08-18T23:41:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Quickly go to frequent URLs (browser addon)]]></summary>
+        <author>
+            <name>Sujeto</name>
+            <uri>https://news.ycombinator.com/user?id=Sujeto</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[尋找你的公共REST API中的漏洞
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>theochampion</name>
             <uri>https://news.ycombinator.com/user?id=theochampion</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用Python對水下鏡頭進行色彩校正
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32275621</id>
-        <link href="https://news.ycombinator.com/item?id=32275621"/>
-        <updated>2022-07-29T11:31:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Color correct underwater footage with Python]]></summary>
-        <author>
-            <name>hbornfree</name>
-            <uri>https://news.ycombinator.com/user?id=hbornfree</uri>
         </author>
     </entry>
 </feed>
