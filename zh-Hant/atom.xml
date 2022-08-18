@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-18T04:25:03.773Z</updated>
+    <updated>2022-08-18T05:51:57.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Allsearch - 使得無縫使用不同的搜索引擎更加容易
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32493089</id>
+        <link href="https://news.ycombinator.com/item?id=32493089"/>
+        <updated>2022-08-17T06:47:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Allsearch – Making it easier to use different search engines seamlessly]]></summary>
+        <author>
+            <name>WiggleGuy</name>
+            <uri>https://news.ycombinator.com/user?id=WiggleGuy</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Real-ESRGAN的Blender的AI升級器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>l-portet</name>
             <uri>https://news.ycombinator.com/user?id=l-portet</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vim的火山編輯模式
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32257139</id>
-        <link href="https://news.ycombinator.com/item?id=32257139"/>
-        <updated>2022-07-27T21:20:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Volcano Editing Mode for Vim]]></summary>
-        <author>
-            <name>meken</name>
-            <uri>https://news.ycombinator.com/user?id=meken</uri>
         </author>
     </entry>
 </feed>
