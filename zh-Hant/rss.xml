@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 18 Aug 2022 05:51:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 06:38:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一個寫作工具，像蘇格拉底一樣提出問題
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32505813</link>
+            <guid>https://news.ycombinator.com/item?id=32505813</guid>
+            <pubDate>Thu, 18 Aug 2022 05:56:29 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a writing tool that asks questions like Socrates]]></description>
+        </item>
+        <item>
+            <title><![CDATA[StoneDB--基於MySQL內核的實時HTAP數據庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32505810</link>
+            <guid>https://news.ycombinator.com/item?id=32505810</guid>
+            <pubDate>Thu, 18 Aug 2022 05:56:04 GMT</pubDate>
+            <description><![CDATA[Show HN: StoneDB—A Real-Time HTAP Database Based on the MySQL Kernel]]></description>
+        </item>
         <item>
             <title><![CDATA[Allsearch - 使得無縫使用不同的搜索引擎更加容易
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32258980</guid>
             <pubDate>Thu, 28 Jul 2022 00:29:39 GMT</pubDate>
             <description><![CDATA[Show HN: A simple tool to easily create complex Midjourney prompts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[從TypeScript類型生成結構化表單的TypeScript編輯器
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32258329</link>
-            <guid>https://news.ycombinator.com/item?id=32258329</guid>
-            <pubDate>Wed, 27 Jul 2022 23:17:05 GMT</pubDate>
-            <description><![CDATA[Show HN: TypeScript Editor that generates structured forms from TypeScript types]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Svelte的開關案例語法
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32257189</link>
-            <guid>https://news.ycombinator.com/item?id=32257189</guid>
-            <pubDate>Wed, 27 Jul 2022 21:23:58 GMT</pubDate>
-            <description><![CDATA[Show HN: A switch case syntax for Svelte]]></description>
         </item>
     </channel>
 </rss>
