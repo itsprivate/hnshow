@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 18 Aug 2022 13:58:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 15:58:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[橡皮擦 - 工程团队的白板
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32511006</link>
+            <guid>https://news.ycombinator.com/item?id=32511006</guid>
+            <pubDate>Thu, 18 Aug 2022 15:28:56 GMT</pubDate>
+            <description><![CDATA[Show HN: Eraser – Whiteboard for Engineering Teams]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我从头开始建立了一个矢量地图
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32510759</link>
+            <guid>https://news.ycombinator.com/item?id=32510759</guid>
+            <pubDate>Thu, 18 Aug 2022 15:10:28 GMT</pubDate>
+            <description><![CDATA[Show HN: I built a vector map from scratch]]></description>
+        </item>
         <item>
             <title><![CDATA[迪亚，一个工作日记CLI，这样你就知道时间都去哪儿了
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32265402</guid>
             <pubDate>Thu, 28 Jul 2022 15:11:00 GMT</pubDate>
             <description><![CDATA[Show HN: Feathery – build powerful, developer-friendly forms]]></description>
-        </item>
-        <item>
-            <title><![CDATA[RFS--谷歌搜索的替代品
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32265377</link>
-            <guid>https://news.ycombinator.com/item?id=32265377</guid>
-            <pubDate>Thu, 28 Jul 2022 15:08:24 GMT</pubDate>
-            <description><![CDATA[Show HN: RFS – Alternative to Google Search]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BestDamnJobs - 每日更新的最该死的工作，并按新空缺职位排序
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32265285</link>
-            <guid>https://news.ycombinator.com/item?id=32265285</guid>
-            <pubDate>Thu, 28 Jul 2022 15:01:25 GMT</pubDate>
-            <description><![CDATA[Show HN: BestDamnJobs – Best damn jobs updated daily and sorted by new openings]]></description>
         </item>
     </channel>
 </rss>

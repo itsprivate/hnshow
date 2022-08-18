@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-18T13:58:49.966Z</updated>
+    <updated>2022-08-18T15:58:17.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[橡皮擦 - 工程團隊的白板
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32511006</id>
+        <link href="https://news.ycombinator.com/item?id=32511006"/>
+        <updated>2022-08-18T15:28:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Eraser – Whiteboard for Engineering Teams]]></summary>
+        <author>
+            <name>shinkim0914</name>
+            <uri>https://news.ycombinator.com/user?id=shinkim0914</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我從頭開始建立了一個矢量地圖
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32510759</id>
+        <link href="https://news.ycombinator.com/item?id=32510759"/>
+        <updated>2022-08-18T15:10:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a vector map from scratch]]></summary>
+        <author>
+            <name>kocheez75</name>
+            <uri>https://news.ycombinator.com/user?id=kocheez75</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迪亞，一個工作日記CLI，這樣你就知道時間都去哪兒了
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>bo-dun</name>
             <uri>https://news.ycombinator.com/user?id=bo-dun</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RFS--谷歌搜索的替代品
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32265377</id>
-        <link href="https://news.ycombinator.com/item?id=32265377"/>
-        <updated>2022-07-28T15:08:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: RFS – Alternative to Google Search]]></summary>
-        <author>
-            <name>bberenberg</name>
-            <uri>https://news.ycombinator.com/user?id=bberenberg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BestDamnJobs - 每日更新的最該死的工作，並按新空缺職位排序
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32265285</id>
-        <link href="https://news.ycombinator.com/item?id=32265285"/>
-        <updated>2022-07-28T15:01:25.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: BestDamnJobs – Best damn jobs updated daily and sorted by new openings]]></summary>
-        <author>
-            <name>parkeragee</name>
-            <uri>https://news.ycombinator.com/user?id=parkeragee</uri>
         </author>
     </entry>
 </feed>
