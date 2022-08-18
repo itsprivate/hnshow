@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 18 Aug 2022 13:02:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 13:58:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[迪亚，一个工作日记CLI，这样你就知道时间都去哪儿了
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32509518</link>
+            <guid>https://news.ycombinator.com/item?id=32509518</guid>
+            <pubDate>Thu, 18 Aug 2022 13:48:03 GMT</pubDate>
+            <description><![CDATA[Show HN: Dia, a work diary CLI so you know where the time went]]></description>
+        </item>
         <item>
             <title><![CDATA[协作性的Pixelart绘画应用
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32265285</guid>
             <pubDate>Thu, 28 Jul 2022 15:01:25 GMT</pubDate>
             <description><![CDATA[Show HN: BestDamnJobs – Best damn jobs updated daily and sorted by new openings]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Rimoto，用WebSockets控制你的电脑
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32265282</link>
-            <guid>https://news.ycombinator.com/item?id=32265282</guid>
-            <pubDate>Thu, 28 Jul 2022 15:01:19 GMT</pubDate>
-            <description><![CDATA[Show HN: Rimoto, control your computer with WebSockets]]></description>
         </item>
     </channel>
 </rss>
