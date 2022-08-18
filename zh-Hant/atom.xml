@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-18T10:36:55.344Z</updated>
+    <updated>2022-08-18T11:29:22.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PKI用戶認證作為一種服務
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32507794</id>
+        <link href="https://news.ycombinator.com/item?id=32507794"/>
+        <updated>2022-08-18T11:00:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PKI User Authentication as a Service]]></summary>
+        <author>
+            <name>adrianshp</name>
+            <uri>https://news.ycombinator.com/user?id=adrianshp</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我在Cloudflare頁面上為GitHub建立了一個第三方狀態頁面
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>kamphey</name>
             <uri>https://news.ycombinator.com/user?id=kamphey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gum，一個用於華麗的shell腳本的工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32263827</id>
-        <link href="https://news.ycombinator.com/item?id=32263827"/>
-        <updated>2022-07-28T13:14:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Gum, a tool for glamorous shell scripts]]></summary>
-        <author>
-            <name>maaslalani</name>
-            <uri>https://news.ycombinator.com/user?id=maaslalani</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 18 Aug 2022 10:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 11:29:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[PKI用户认证作为一种服务
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32507794</link>
+            <guid>https://news.ycombinator.com/item?id=32507794</guid>
+            <pubDate>Thu, 18 Aug 2022 11:00:02 GMT</pubDate>
+            <description><![CDATA[Show HN: PKI User Authentication as a Service]]></description>
+        </item>
         <item>
             <title><![CDATA[我在Cloudflare页面上为GitHub建立了一个第三方状态页面
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32264359</guid>
             <pubDate>Thu, 28 Jul 2022 13:58:08 GMT</pubDate>
             <description><![CDATA[Show HN: Escape Spreadsheet Hell – An escape room game in Google Sheets]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Gum，一个用于华丽的shell脚本的工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32263827</link>
-            <guid>https://news.ycombinator.com/item?id=32263827</guid>
-            <pubDate>Thu, 28 Jul 2022 13:14:37 GMT</pubDate>
-            <description><![CDATA[Show HN: Gum, a tool for glamorous shell scripts]]></description>
         </item>
     </channel>
 </rss>
