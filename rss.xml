@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 18 Aug 2022 10:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 10:36:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我在Cloudflare页面上为GitHub建立了一个第三方状态页面
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32507408</link>
+            <guid>https://news.ycombinator.com/item?id=32507408</guid>
+            <pubDate>Thu, 18 Aug 2022 10:02:04 GMT</pubDate>
+            <description><![CDATA[Show HN: I built a 3rd-party status page for GitHub on Cloudflare Pages]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我正在区块链上建立一个电子邮件服务
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32507395</link>
+            <guid>https://news.ycombinator.com/item?id=32507395</guid>
+            <pubDate>Thu, 18 Aug 2022 10:00:26 GMT</pubDate>
+            <description><![CDATA[Show HN: I'm building an email service on the blockchain]]></description>
+        </item>
         <item>
             <title><![CDATA[我正在区块链上建立一个电子邮件服务
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32263827</guid>
             <pubDate>Thu, 28 Jul 2022 13:14:37 GMT</pubDate>
             <description><![CDATA[Show HN: Gum, a tool for glamorous shell scripts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WunderGraph - 声明性地编排和整合API
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32262367</link>
-            <guid>https://news.ycombinator.com/item?id=32262367</guid>
-            <pubDate>Thu, 28 Jul 2022 09:54:45 GMT</pubDate>
-            <description><![CDATA[Show HN: WunderGraph – declaratively compose and integrate APIs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Marple - 为工程师提供交互式时间序列可视化服务
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32262036</link>
-            <guid>https://news.ycombinator.com/item?id=32262036</guid>
-            <pubDate>Thu, 28 Jul 2022 09:13:28 GMT</pubDate>
-            <description><![CDATA[Show HN: Marple – Interactive time series visualization for engineers]]></description>
         </item>
     </channel>
 </rss>

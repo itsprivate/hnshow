@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-18T10:01:18.327Z</updated>
+    <updated>2022-08-18T10:36:55.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我在Cloudflare页面上为GitHub建立了一个第三方状态页面
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32507408</id>
+        <link href="https://news.ycombinator.com/item?id=32507408"/>
+        <updated>2022-08-18T10:02:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a 3rd-party status page for GitHub on Cloudflare Pages]]></summary>
+        <author>
+            <name>rozenmd</name>
+            <uri>https://news.ycombinator.com/user?id=rozenmd</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我正在区块链上建立一个电子邮件服务
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32507395</id>
+        <link href="https://news.ycombinator.com/item?id=32507395"/>
+        <updated>2022-08-18T10:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I'm building an email service on the blockchain]]></summary>
+        <author>
+            <name>muscache</name>
+            <uri>https://news.ycombinator.com/user?id=muscache</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我正在区块链上建立一个电子邮件服务
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>maaslalani</name>
             <uri>https://news.ycombinator.com/user?id=maaslalani</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WunderGraph - 声明性地编排和整合API
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32262367</id>
-        <link href="https://news.ycombinator.com/item?id=32262367"/>
-        <updated>2022-07-28T09:54:45.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WunderGraph – declaratively compose and integrate APIs]]></summary>
-        <author>
-            <name>jensneuse</name>
-            <uri>https://news.ycombinator.com/user?id=jensneuse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marple - 为工程师提供交互式时间序列可视化服务
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32262036</id>
-        <link href="https://news.ycombinator.com/item?id=32262036"/>
-        <updated>2022-07-28T09:13:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Marple – Interactive time series visualization for engineers]]></summary>
-        <author>
-            <name>NeroVanbierv</name>
-            <uri>https://news.ycombinator.com/user?id=NeroVanbierv</uri>
         </author>
     </entry>
 </feed>
