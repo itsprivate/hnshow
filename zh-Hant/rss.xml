@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 18 Aug 2022 19:49:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 21:29:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[快速重塑 - 我製作的網絡工具可以重塑你的大腦
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32514823</link>
+            <guid>https://news.ycombinator.com/item?id=32514823</guid>
+            <pubDate>Thu, 18 Aug 2022 21:00:13 GMT</pubDate>
+            <description><![CDATA[Show HN: Quick Rewire – I made web tool to rewire your brain]]></description>
+        </item>
         <item>
             <title><![CDATA[HTTPS://gretel.ai/blog/how-to-safely-work-with-another-companys-data
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32271337</guid>
             <pubDate>Thu, 28 Jul 2022 23:31:59 GMT</pubDate>
             <description><![CDATA[Show HN: WordBreak – A daily word puzzle game]]></description>
-        </item>
-        <item>
-            <title><![CDATA[FoundationDB上的分佈式SQLite
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32269287</link>
-            <guid>https://news.ycombinator.com/item?id=32269287</guid>
-            <pubDate>Thu, 28 Jul 2022 19:49:05 GMT</pubDate>
-            <description><![CDATA[Show HN: Distributed SQLite on FoundationDB]]></description>
         </item>
     </channel>
 </rss>
