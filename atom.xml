@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-18T22:32:33.009Z</updated>
+    <updated>2022-08-18T22:50:28.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[寻找你的公共REST API中的漏洞
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32515685</id>
+        <link href="https://news.ycombinator.com/item?id=32515685"/>
+        <updated>2022-08-18T22:40:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Find vulnerabilities in your public REST API]]></summary>
+        <author>
+            <name>intesar</name>
+            <uri>https://news.ycombinator.com/user?id=intesar</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可在手机上使用的拖放式网站建设工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32515406</id>
+        <link href="https://news.ycombinator.com/item?id=32515406"/>
+        <updated>2022-08-18T22:01:10.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Drag and drop site builder that works on mobile]]></summary>
+        <author>
+            <name>okozzie</name>
+            <uri>https://news.ycombinator.com/user?id=okozzie</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[笔记型电脑
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>hbornfree</name>
             <uri>https://news.ycombinator.com/user?id=hbornfree</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[懒人的耸肩表情符号网站
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32275597</id>
-        <link href="https://news.ycombinator.com/item?id=32275597"/>
-        <updated>2022-07-29T11:27:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Shrug Emoji site for lazy people]]></summary>
-        <author>
-            <name>yucelfaruksahan</name>
-            <uri>https://news.ycombinator.com/user?id=yucelfaruksahan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Movicorn - 一键迁移到AWS
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32275474</id>
-        <link href="https://news.ycombinator.com/item?id=32275474"/>
-        <updated>2022-07-29T11:09:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Movicorn – move to AWS in one click]]></summary>
-        <author>
-            <name>igorzij</name>
-            <uri>https://news.ycombinator.com/user?id=igorzij</uri>
         </author>
     </entry>
 </feed>

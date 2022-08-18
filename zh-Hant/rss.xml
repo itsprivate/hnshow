@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 18 Aug 2022 22:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 22:50:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[尋找你的公共REST API中的漏洞
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32515685</link>
+            <guid>https://news.ycombinator.com/item?id=32515685</guid>
+            <pubDate>Thu, 18 Aug 2022 22:40:43 GMT</pubDate>
+            <description><![CDATA[Show HN: Find vulnerabilities in your public REST API]]></description>
+        </item>
+        <item>
+            <title><![CDATA[可在手機上使用的拖放式網站建設工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32515406</link>
+            <guid>https://news.ycombinator.com/item?id=32515406</guid>
+            <pubDate>Thu, 18 Aug 2022 22:01:10 GMT</pubDate>
+            <description><![CDATA[Show HN: Drag and drop site builder that works on mobile]]></description>
+        </item>
         <item>
             <title><![CDATA[筆記型電腦
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32275621</guid>
             <pubDate>Fri, 29 Jul 2022 11:31:19 GMT</pubDate>
             <description><![CDATA[Show HN: Color correct underwater footage with Python]]></description>
-        </item>
-        <item>
-            <title><![CDATA[懶人的聳肩表情符號網站
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32275597</link>
-            <guid>https://news.ycombinator.com/item?id=32275597</guid>
-            <pubDate>Fri, 29 Jul 2022 11:27:37 GMT</pubDate>
-            <description><![CDATA[Show HN: Shrug Emoji site for lazy people]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Movicorn - 一鍵遷移到AWS
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32275474</link>
-            <guid>https://news.ycombinator.com/item?id=32275474</guid>
-            <pubDate>Fri, 29 Jul 2022 11:09:54 GMT</pubDate>
-            <description><![CDATA[Show HN: Movicorn – move to AWS in one click]]></description>
         </item>
     </channel>
 </rss>
