@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-18T02:53:57.465Z</updated>
+    <updated>2022-08-18T04:25:03.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Real-ESRGAN的Blender的AI升级器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32505123</id>
+        <link href="https://news.ycombinator.com/item?id=32505123"/>
+        <updated>2022-08-18T04:04:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: AI Upscaler for Blender Using Real-ESRGAN]]></summary>
+        <author>
+            <name>jarrell_mark</name>
+            <uri>https://news.ycombinator.com/user?id=jarrell_mark</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Playit.gg - 一个在家里托管游戏服务器的网络工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>meken</name>
             <uri>https://news.ycombinator.com/user?id=meken</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clyde，预建应用程序的软件包管理器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32256866</id>
-        <link href="https://news.ycombinator.com/item?id=32256866"/>
-        <updated>2022-07-27T20:58:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Clyde, package manager for prebuilt applications]]></summary>
-        <author>
-            <name>agateau</name>
-            <uri>https://news.ycombinator.com/user?id=agateau</uri>
         </author>
     </entry>
 </feed>
