@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-18T23:48:24.590Z</updated>
+    <updated>2022-08-19T00:00:44.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個簡單的CLI來玩HuggingFace上的BLOOM
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32516201</id>
+        <link href="https://news.ycombinator.com/item?id=32516201"/>
+        <updated>2022-08-18T23:53:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a simple CLI to play with BLOOM on HuggingFace]]></summary>
+        <author>
+            <name>winddude</name>
+            <uri>https://news.ycombinator.com/user?id=winddude</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[快速轉到經常出現的URL（瀏覽器插件）
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>JAKWAI</name>
             <uri>https://news.ycombinator.com/user?id=JAKWAI</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chunk - 後端開發人員的代碼沙箱
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32267862</id>
-        <link href="https://news.ycombinator.com/item?id=32267862"/>
-        <updated>2022-07-28T17:49:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Chunk – Code sandbox for back-end devs]]></summary>
-        <author>
-            <name>theochampion</name>
-            <uri>https://news.ycombinator.com/user?id=theochampion</uri>
         </author>
     </entry>
 </feed>

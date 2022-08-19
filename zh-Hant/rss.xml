@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 18 Aug 2022 23:48:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 00:00:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一個簡單的CLI來玩HuggingFace上的BLOOM
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32516201</link>
+            <guid>https://news.ycombinator.com/item?id=32516201</guid>
+            <pubDate>Thu, 18 Aug 2022 23:53:05 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a simple CLI to play with BLOOM on HuggingFace]]></description>
+        </item>
         <item>
             <title><![CDATA[快速轉到經常出現的URL（瀏覽器插件）
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32275902</guid>
             <pubDate>Fri, 29 Jul 2022 12:09:52 GMT</pubDate>
             <description><![CDATA[Show HN: A simple, pretty alternative to strace written in Rust]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Chunk - 後端開發人員的代碼沙箱
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32267862</link>
-            <guid>https://news.ycombinator.com/item?id=32267862</guid>
-            <pubDate>Thu, 28 Jul 2022 17:49:59 GMT</pubDate>
-            <description><![CDATA[Show HN: Chunk – Code sandbox for back-end devs]]></description>
         </item>
     </channel>
 </rss>
