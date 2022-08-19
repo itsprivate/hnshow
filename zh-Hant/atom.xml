@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-19T17:20:36.852Z</updated>
+    <updated>2022-08-19T17:48:59.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我建立了一個簡單的審查，看看你是否值得加薪
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32523683</id>
+        <link href="https://news.ycombinator.com/item?id=32523683"/>
+        <updated>2022-08-19T17:16:25.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I built a simple review to see if you deserve a raise]]></summary>
+        <author>
+            <name>intesar</name>
+            <uri>https://news.ycombinator.com/user?id=intesar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[劃定一條線能有多難呢？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>zenith035</name>
             <uri>https://news.ycombinator.com/user?id=zenith035</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[繞色--你需要用相機在你周圍找到一種顏色。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32279880</id>
-        <link href="https://news.ycombinator.com/item?id=32279880"/>
-        <updated>2022-07-29T17:49:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ColorAround – where you need to find a color around u using the camera]]></summary>
-        <author>
-            <name>spotus</name>
-            <uri>https://news.ycombinator.com/user?id=spotus</uri>
         </author>
     </entry>
 </feed>
