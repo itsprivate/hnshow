@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 19 Aug 2022 19:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 20:00:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[阿塔卡馬,點對點分佈式的匿名Twitterlike
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32525242</link>
+            <guid>https://news.ycombinator.com/item?id=32525242</guid>
+            <pubDate>Fri, 19 Aug 2022 19:43:54 GMT</pubDate>
+            <description><![CDATA[Show HN: Atacama,peer4peer distributed anon twitterlike]]></description>
+        </item>
         <item>
             <title><![CDATA[LokiList - 去中心化的休閒聚會
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32283094</guid>
             <pubDate>Sat, 30 Jul 2022 00:10:54 GMT</pubDate>
             <description><![CDATA[Show HN: Propoleo Xyz]]></description>
-        </item>
-        <item>
-            <title><![CDATA[P2PCF - 使用Cloudflare工人進行低成本、低投入的WebRTC信號傳輸
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32282954</link>
-            <guid>https://news.ycombinator.com/item?id=32282954</guid>
-            <pubDate>Fri, 29 Jul 2022 23:45:47 GMT</pubDate>
-            <description><![CDATA[Show HN: P2PCF – Low cost, low effort WebRTC signalling using Cloudflare workers]]></description>
         </item>
     </channel>
 </rss>
