@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 19 Aug 2022 15:01:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 15:39:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Hathora制作基于浏览器的多人平台游戏的教程
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32522205</link>
+            <guid>https://news.ycombinator.com/item?id=32522205</guid>
+            <pubDate>Fri, 19 Aug 2022 15:29:03 GMT</pubDate>
+            <description><![CDATA[Show HN: Tutorial for making a browser-based multiplayer platformer with Hathora]]></description>
+        </item>
         <item>
             <title><![CDATA[修改Clang以获得更安全、更明确的C++语言
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32278631</guid>
             <pubDate>Fri, 29 Jul 2022 16:02:47 GMT</pubDate>
             <description><![CDATA[Show HN: Craftle – Furnish room under $2k]]></description>
-        </item>
-        <item>
-            <title><![CDATA[全屏的GitHub网络图与可搜索的提交列表
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32278496</link>
-            <guid>https://news.ycombinator.com/item?id=32278496</guid>
-            <pubDate>Fri, 29 Jul 2022 15:49:52 GMT</pubDate>
-            <description><![CDATA[Show HN: GitHub network graph in fullscreen with a searchable commit list]]></description>
         </item>
     </channel>
 </rss>

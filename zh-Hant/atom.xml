@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-19T15:01:26.361Z</updated>
+    <updated>2022-08-19T15:39:27.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Hathora製作基於瀏覽器的多人平臺遊戲的教程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32522205</id>
+        <link href="https://news.ycombinator.com/item?id=32522205"/>
+        <updated>2022-08-19T15:29:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Tutorial for making a browser-based multiplayer platformer with Hathora]]></summary>
+        <author>
+            <name>hpx7</name>
+            <uri>https://news.ycombinator.com/user?id=hpx7</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[修改Clang以獲得更安全、更明確的C++語言
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>athomasg</name>
             <uri>https://news.ycombinator.com/user?id=athomasg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全屏的GitHub網絡圖與可搜索的提交列表
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32278496</id>
-        <link href="https://news.ycombinator.com/item?id=32278496"/>
-        <updated>2022-07-29T15:49:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: GitHub network graph in fullscreen with a searchable commit list]]></summary>
-        <author>
-            <name>nzd</name>
-            <uri>https://news.ycombinator.com/user?id=nzd</uri>
         </author>
     </entry>
 </feed>
