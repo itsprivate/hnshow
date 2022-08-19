@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-19T12:59:45.489Z</updated>
+    <updated>2022-08-19T13:53:40.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ClavaScript：一个从ClojureScript语法到JavaScript的编译器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32520825</id>
+        <link href="https://news.ycombinator.com/item?id=32520825"/>
+        <updated>2022-08-19T13:42:28.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ClavaScript: a ClojureScript syntax to JavaScript compiler]]></summary>
+        <author>
+            <name>Borkdude</name>
+            <uri>https://news.ycombinator.com/user?id=Borkdude</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们正在为家庭建立一个自动的二氧化碳排放追踪器应用程序
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>fcoury</name>
             <uri>https://news.ycombinator.com/user?id=fcoury</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graphman - 为任何GraphQL API快速搭建一个postman集合的支架
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32277484</id>
-        <link href="https://news.ycombinator.com/item?id=32277484"/>
-        <updated>2022-07-29T14:37:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Graphman – Quickly scaffold a postman collection for any GraphQL API]]></summary>
-        <author>
-            <name>glimow</name>
-            <uri>https://news.ycombinator.com/user?id=glimow</uri>
         </author>
     </entry>
 </feed>
