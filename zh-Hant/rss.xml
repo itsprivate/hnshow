@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 19 Aug 2022 13:53:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 14:07:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用Jina和Python實現的20行代碼的 "縮放"。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32520945</link>
+            <guid>https://news.ycombinator.com/item?id=32520945</guid>
+            <pubDate>Fri, 19 Aug 2022 13:53:11 GMT</pubDate>
+            <description><![CDATA[Show HN: A “Zoom” in 20 lines of code implemented with Jina and Python]]></description>
+        </item>
         <item>
             <title><![CDATA[ClavaScript：一個從ClojureScript語法到JavaScript的編譯器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32277894</guid>
             <pubDate>Fri, 29 Jul 2022 15:06:35 GMT</pubDate>
             <description><![CDATA[Show HN: Truss – serve any ML model, anywhere, without boilerplate code]]></description>
-        </item>
-        <item>
-            <title><![CDATA[OxideDB - 教會PostgreSQL數據庫如何說MongoDB線協議
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32272304</link>
-            <guid>https://news.ycombinator.com/item?id=32272304</guid>
-            <pubDate>Fri, 29 Jul 2022 01:55:15 GMT</pubDate>
-            <description><![CDATA[Show HN: OxideDB – Teach PostgreSQL Database How to Speak MongoDB Wire Protocol]]></description>
         </item>
     </channel>
 </rss>

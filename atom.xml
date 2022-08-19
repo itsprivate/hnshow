@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-19T13:53:40.148Z</updated>
+    <updated>2022-08-19T14:07:10.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Jina和Python实现的20行代码的 "缩放"。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32520945</id>
+        <link href="https://news.ycombinator.com/item?id=32520945"/>
+        <updated>2022-08-19T13:53:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A “Zoom” in 20 lines of code implemented with Jina and Python]]></summary>
+        <author>
+            <name>artex_xh</name>
+            <uri>https://news.ycombinator.com/user?id=artex_xh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ClavaScript：一个从ClojureScript语法到JavaScript的编译器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>philipkiely</name>
             <uri>https://news.ycombinator.com/user?id=philipkiely</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OxideDB - 教会PostgreSQL数据库如何说MongoDB线协议
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32272304</id>
-        <link href="https://news.ycombinator.com/item?id=32272304"/>
-        <updated>2022-07-29T01:55:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: OxideDB – Teach PostgreSQL Database How to Speak MongoDB Wire Protocol]]></summary>
-        <author>
-            <name>fcoury</name>
-            <uri>https://news.ycombinator.com/user?id=fcoury</uri>
         </author>
     </entry>
 </feed>
