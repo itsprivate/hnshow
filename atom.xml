@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-19T15:57:14.568Z</updated>
+    <updated>2022-08-19T16:49:43.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[你最喜欢的支持自定义域名的免费电子邮件提供商是什么？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32522919</id>
+        <link href="https://news.ycombinator.com/item?id=32522919"/>
+        <updated>2022-08-19T16:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: What is your go-to free email provider with custom domain support?]]></summary>
+        <author>
+            <name>punkpeye</name>
+            <uri>https://news.ycombinator.com/user?id=punkpeye</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airbyte本地CLI - 无需Airbyte服务器即可运行连接器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32522801</id>
+        <link href="https://news.ycombinator.com/item?id=32522801"/>
+        <updated>2022-08-19T16:09:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Airbyte Local CLI – run connectors without Airbyte server]]></summary>
+        <author>
+            <name>matthewtovbin</name>
+            <uri>https://news.ycombinator.com/user?id=matthewtovbin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于GitHub、Gitlab和Jira的开源工程指标
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32522782</id>
+        <link href="https://news.ycombinator.com/item?id=32522782"/>
+        <updated>2022-08-19T16:08:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-Source Engineering Metrics for GitHub, Gitlab and Jira]]></summary>
+        <author>
+            <name>matthewtovbin</name>
+            <uri>https://news.ycombinator.com/user?id=matthewtovbin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[从WebAssembly创建本地桌面应用程序
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>geoffsdavis</name>
             <uri>https://news.ycombinator.com/user?id=geoffsdavis</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黑客的工作--为你的作品建立的微博
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32279631</id>
-        <link href="https://news.ycombinator.com/item?id=32279631"/>
-        <updated>2022-07-29T17:24:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Hacker's Work – A microblog for your works]]></summary>
-        <author>
-            <name>egcodes</name>
-            <uri>https://news.ycombinator.com/user?id=egcodes</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kurynt - 你最后需要的管理第三方代码的工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32278967</id>
-        <link href="https://news.ycombinator.com/item?id=32278967"/>
-        <updated>2022-07-29T16:28:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Kurynt – The last tool you will ever need to manage third party code]]></summary>
-        <author>
-            <name>fullstackchris</name>
-            <uri>https://news.ycombinator.com/user?id=fullstackchris</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doxx Me - 看看你的电话号码有多大的可能性
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32278871</id>
-        <link href="https://news.ycombinator.com/item?id=32278871"/>
-        <updated>2022-07-29T16:21:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Doxx Me – See how doxxable your phone number is]]></summary>
-        <author>
-            <name>jimhi</name>
-            <uri>https://news.ycombinator.com/user?id=jimhi</uri>
         </author>
     </entry>
 </feed>
