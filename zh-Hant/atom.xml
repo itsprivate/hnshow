@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-19T11:27:32.526Z</updated>
+    <updated>2022-08-19T11:46:09.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[賣掉你的東西，對個別廣告說再見
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32519719</id>
+        <link href="https://news.ycombinator.com/item?id=32519719"/>
+        <updated>2022-08-19T11:28:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Sell your stuff, Say bye to individual ads]]></summary>
+        <author>
+            <name>kvndevils</name>
+            <uri>https://news.ycombinator.com/user?id=kvndevils</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用Code Hike克隆Tailwind的主頁
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>symkat</name>
             <uri>https://news.ycombinator.com/user?id=symkat</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ListFollowers.com - 列出Twitter的關注者，搜索、排序和導出
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32277043</id>
-        <link href="https://news.ycombinator.com/item?id=32277043"/>
-        <updated>2022-07-29T14:04:29.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ListFollowers.com – list Twitter follow(er)s, search, sort, and export]]></summary>
-        <author>
-            <name>mechanical_monk</name>
-            <uri>https://news.ycombinator.com/user?id=mechanical_monk</uri>
         </author>
     </entry>
 </feed>
