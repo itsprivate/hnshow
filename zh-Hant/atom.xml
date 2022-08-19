@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-19T04:10:43.906Z</updated>
+    <updated>2022-08-19T05:10:25.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個900行以下的HTML無盡運行器，沒有框架或庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32517495</id>
+        <link href="https://news.ycombinator.com/item?id=32517495"/>
+        <updated>2022-08-19T04:12:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An HTML endless runner under 900 lines without frameworks or libraries]]></summary>
+        <author>
+            <name>gtrevorjay</name>
+            <uri>https://news.ycombinator.com/user?id=gtrevorjay</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Metaballs在CPU和GPU中的實現
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>0x142857</name>
             <uri>https://news.ycombinator.com/user?id=0x142857</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在你的Docusaurus文檔中為代碼添加解釋性的視頻
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32276639</id>
-        <link href="https://news.ycombinator.com/item?id=32276639"/>
-        <updated>2022-07-29T13:32:54.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Add explanatory videos to code in your Docusaurus docs]]></summary>
-        <author>
-            <name>mlejva</name>
-            <uri>https://news.ycombinator.com/user?id=mlejva</uri>
         </author>
     </entry>
 </feed>
