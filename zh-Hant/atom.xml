@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-19T20:33:54.368Z</updated>
+    <updated>2022-08-19T20:49:53.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們建立了一個免費的API安全網絡工具--消除了你的PenTest成本
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32525637</id>
+        <link href="https://news.ycombinator.com/item?id=32525637"/>
+        <updated>2022-08-19T20:32:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We Built a Free API Security Web Tool – Eliminates Your PenTest Cost]]></summary>
+        <author>
+            <name>intesar</name>
+            <uri>https://news.ycombinator.com/user?id=intesar</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[對您的藥物或補充劑有疑問嗎？現在就諮詢藥劑師
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>darkhz</name>
             <uri>https://news.ycombinator.com/user?id=darkhz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lb - 觀點媒體圖書館
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32283154</id>
-        <link href="https://news.ycombinator.com/item?id=32283154"/>
-        <updated>2022-07-30T00:20:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lb – Opinionated Media Library]]></summary>
-        <author>
-            <name>xk3</name>
-            <uri>https://news.ycombinator.com/user?id=xk3</uri>
         </author>
     </entry>
 </feed>
