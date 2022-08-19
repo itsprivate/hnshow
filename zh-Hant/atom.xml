@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-19T21:28:48.701Z</updated>
+    <updated>2022-08-19T22:33:30.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ProjectZero - 為你的下一個副業項目尋找合作者
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32526546</id>
+        <link href="https://news.ycombinator.com/item?id=32526546"/>
+        <updated>2022-08-19T22:06:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ProjectZero – Find collaborators for your next side project]]></summary>
+        <author>
+            <name>inishchith</name>
+            <uri>https://news.ycombinator.com/user?id=inishchith</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[丹麥藝術探索者--通過SMK的藝術作品探索丹麥
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mrjn</name>
             <uri>https://news.ycombinator.com/user?id=mrjn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[關於語義搜索的PyTorch教程
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32284382</id>
-        <link href="https://news.ycombinator.com/item?id=32284382"/>
-        <updated>2022-07-30T04:53:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PyTorch Tutorials on Semantic Search]]></summary>
-        <author>
-            <name>krumboy</name>
-            <uri>https://news.ycombinator.com/user?id=krumboy</uri>
         </author>
     </entry>
 </feed>
