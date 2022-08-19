@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-19T20:49:53.187Z</updated>
+    <updated>2022-08-19T21:28:48.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[丹麦艺术探索者--通过SMK的艺术作品探索丹麦
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32526089</id>
+        <link href="https://news.ycombinator.com/item?id=32526089"/>
+        <updated>2022-08-19T21:24:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Denmark Art Explorer – explore Denmark through artworks of the SMK]]></summary>
+        <author>
+            <name>stefanvdw1</name>
+            <uri>https://news.ycombinator.com/user?id=stefanvdw1</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我们建立了一个免费的API安全网络工具--消除了你的PenTest成本
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>krumboy</name>
             <uri>https://news.ycombinator.com/user?id=krumboy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bluetuith - 一个基于控制台TUI的蓝牙管理器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32283249</id>
-        <link href="https://news.ycombinator.com/item?id=32283249"/>
-        <updated>2022-07-30T00:40:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bluetuith – A console TUI-based Bluetooth manager]]></summary>
-        <author>
-            <name>darkhz</name>
-            <uri>https://news.ycombinator.com/user?id=darkhz</uri>
         </author>
     </entry>
 </feed>
