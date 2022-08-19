@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-19T16:49:43.532Z</updated>
+    <updated>2022-08-19T17:20:36.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[劃定一條線能有多難呢？
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32523648</id>
+        <link href="https://news.ycombinator.com/item?id=32523648"/>
+        <updated>2022-08-19T17:13:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: How hard can it be to draw a line?]]></summary>
+        <author>
+            <name>elliottkember</name>
+            <uri>https://news.ycombinator.com/user?id=elliottkember</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[你最喜歡的支持自定義域名的免費電子郵件提供商是什麼？
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>spotus</name>
             <uri>https://news.ycombinator.com/user?id=spotus</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TapeMeasure - Swift類，用於在用戶界面中創建分段的、有標籤的線條。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32279795</id>
-        <link href="https://news.ycombinator.com/item?id=32279795"/>
-        <updated>2022-07-29T17:39:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: TapeMeasure – Swift class for creating segmented, labeled lines in UI]]></summary>
-        <author>
-            <name>geoffsdavis</name>
-            <uri>https://news.ycombinator.com/user?id=geoffsdavis</uri>
         </author>
     </entry>
 </feed>
