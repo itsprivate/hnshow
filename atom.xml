@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-19T15:39:27.383Z</updated>
+    <updated>2022-08-19T15:57:14.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[从WebAssembly创建本地桌面应用程序
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32522466</id>
+        <link href="https://news.ycombinator.com/item?id=32522466"/>
+        <updated>2022-08-19T15:45:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Create Native Desktop Apps from WebAssembly]]></summary>
+        <author>
+            <name>syrusakbary</name>
+            <uri>https://news.ycombinator.com/user?id=syrusakbary</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于GitHub的住宿
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32522404</id>
+        <link href="https://news.ycombinator.com/item?id=32522404"/>
+        <updated>2022-08-19T15:41:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GitHub Based Accommodation]]></summary>
+        <author>
+            <name>vinnyglennon</name>
+            <uri>https://news.ycombinator.com/user?id=vinnyglennon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Hathora制作基于浏览器的多人平台游戏的教程
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>jimhi</name>
             <uri>https://news.ycombinator.com/user?id=jimhi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在几秒钟内创建带有屏幕截图的分步指南
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32278658</id>
-        <link href="https://news.ycombinator.com/item?id=32278658"/>
-        <updated>2022-07-29T16:05:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Create step-by-step guides with screenshots in seconds]]></summary>
-        <author>
-            <name>koushikmarka90</name>
-            <uri>https://news.ycombinator.com/user?id=koushikmarka90</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Craftle - 2千美元以下的房间装修
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32278631</id>
-        <link href="https://news.ycombinator.com/item?id=32278631"/>
-        <updated>2022-07-29T16:02:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Craftle – Furnish room under $2k]]></summary>
-        <author>
-            <name>athomasg</name>
-            <uri>https://news.ycombinator.com/user?id=athomasg</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 19 Aug 2022 15:39:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 15:57:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[从WebAssembly创建本地桌面应用程序
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32522466</link>
+            <guid>https://news.ycombinator.com/item?id=32522466</guid>
+            <pubDate>Fri, 19 Aug 2022 15:45:03 GMT</pubDate>
+            <description><![CDATA[Show HN: Create Native Desktop Apps from WebAssembly]]></description>
+        </item>
+        <item>
+            <title><![CDATA[基于GitHub的住宿
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32522404</link>
+            <guid>https://news.ycombinator.com/item?id=32522404</guid>
+            <pubDate>Fri, 19 Aug 2022 15:41:49 GMT</pubDate>
+            <description><![CDATA[Show HN: GitHub Based Accommodation]]></description>
+        </item>
         <item>
             <title><![CDATA[用Hathora制作基于浏览器的多人平台游戏的教程
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32278871</guid>
             <pubDate>Fri, 29 Jul 2022 16:21:14 GMT</pubDate>
             <description><![CDATA[Show HN: Doxx Me – See how doxxable your phone number is]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在几秒钟内创建带有屏幕截图的分步指南
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32278658</link>
-            <guid>https://news.ycombinator.com/item?id=32278658</guid>
-            <pubDate>Fri, 29 Jul 2022 16:05:57 GMT</pubDate>
-            <description><![CDATA[Show HN: Create step-by-step guides with screenshots in seconds]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Craftle - 2千美元以下的房间装修
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32278631</link>
-            <guid>https://news.ycombinator.com/item?id=32278631</guid>
-            <pubDate>Fri, 29 Jul 2022 16:02:47 GMT</pubDate>
-            <description><![CDATA[Show HN: Craftle – Furnish room under $2k]]></description>
         </item>
     </channel>
 </rss>
