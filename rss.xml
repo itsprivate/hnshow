@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 19 Aug 2022 02:45:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 04:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Metaballs在CPU和GPU中的实现
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32517181</link>
+            <guid>https://news.ycombinator.com/item?id=32517181</guid>
+            <pubDate>Fri, 19 Aug 2022 02:51:20 GMT</pubDate>
+            <description><![CDATA[Show HN: Metaballs Implementation in the CPU and GPU]]></description>
+        </item>
         <item>
             <title><![CDATA[我建立了一个应用程序，以节省时间，用AI来规划你的谷歌日历
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32276639</guid>
             <pubDate>Fri, 29 Jul 2022 13:32:54 GMT</pubDate>
             <description><![CDATA[Show HN: Add explanatory videos to code in your Docusaurus docs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[同步和搜索你所有的Twitter喜欢和书签
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32276602</link>
-            <guid>https://news.ycombinator.com/item?id=32276602</guid>
-            <pubDate>Fri, 29 Jul 2022 13:30:39 GMT</pubDate>
-            <description><![CDATA[Show HN: Sync and search all your Twitter likes and bookmarks]]></description>
         </item>
     </channel>
 </rss>

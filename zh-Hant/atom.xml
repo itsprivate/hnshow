@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-19T02:45:50.301Z</updated>
+    <updated>2022-08-19T04:10:43.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Metaballs在CPU和GPU中的實現
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32517181</id>
+        <link href="https://news.ycombinator.com/item?id=32517181"/>
+        <updated>2022-08-19T02:51:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Metaballs Implementation in the CPU and GPU]]></summary>
+        <author>
+            <name>atum47</name>
+            <uri>https://news.ycombinator.com/user?id=atum47</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我建立了一個應用程序，以節省時間，用AI來規劃你的谷歌日曆
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mlejva</name>
             <uri>https://news.ycombinator.com/user?id=mlejva</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[同步和搜索你所有的Twitter喜歡和書籤
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32276602</id>
-        <link href="https://news.ycombinator.com/item?id=32276602"/>
-        <updated>2022-07-29T13:30:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Sync and search all your Twitter likes and bookmarks]]></summary>
-        <author>
-            <name>nikvdp</name>
-            <uri>https://news.ycombinator.com/user?id=nikvdp</uri>
         </author>
     </entry>
 </feed>
