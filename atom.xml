@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-19T18:00:47.445Z</updated>
+    <updated>2022-08-19T19:07:25.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[LokiList - 去中心化的休闲聚会
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32524604</id>
+        <link href="https://news.ycombinator.com/item?id=32524604"/>
+        <updated>2022-08-19T18:38:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: LokiList – Decentralized Casual Encounters]]></summary>
+        <author>
+            <name>RunSet</name>
+            <uri>https://news.ycombinator.com/user?id=RunSet</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个跨规格版本升级JSON模式定义的工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>gfodor</name>
             <uri>https://news.ycombinator.com/user?id=gfodor</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在任何地方进行设计 - 寻找你的下一份远程设计工作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32282268</id>
-        <link href="https://news.ycombinator.com/item?id=32282268"/>
-        <updated>2022-07-29T22:03:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Design from anywhere – Find your next remote design job]]></summary>
-        <author>
-            <name>sidelist</name>
-            <uri>https://news.ycombinator.com/user?id=sidelist</uri>
         </author>
     </entry>
 </feed>
