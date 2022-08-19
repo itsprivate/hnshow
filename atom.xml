@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-19T05:10:25.609Z</updated>
+    <updated>2022-08-19T11:27:32.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用Code Hike克隆Tailwind的主页
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32519681</id>
+        <link href="https://news.ycombinator.com/item?id=32519681"/>
+        <updated>2022-08-19T11:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A clone of Tailwind's home page using Code Hike]]></summary>
+        <author>
+            <name>pomber</name>
+            <uri>https://news.ycombinator.com/user?id=pomber</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个900行以下的HTML无尽运行器，没有框架或库
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mechanical_monk</name>
             <uri>https://news.ycombinator.com/user?id=mechanical_monk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一个API，用于网页抓取、PDF生成和屏幕截图
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32276909</id>
-        <link href="https://news.ycombinator.com/item?id=32276909"/>
-        <updated>2022-07-29T13:55:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made an API for web scraping, PDF generation and screenshots]]></summary>
-        <author>
-            <name>0x142857</name>
-            <uri>https://news.ycombinator.com/user?id=0x142857</uri>
         </author>
     </entry>
 </feed>

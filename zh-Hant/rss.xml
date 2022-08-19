@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 19 Aug 2022 05:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 11:27:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用Code Hike克隆Tailwind的主頁
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32519681</link>
+            <guid>https://news.ycombinator.com/item?id=32519681</guid>
+            <pubDate>Fri, 19 Aug 2022 11:22:45 GMT</pubDate>
+            <description><![CDATA[Show HN: A clone of Tailwind's home page using Code Hike]]></description>
+        </item>
         <item>
             <title><![CDATA[一個900行以下的HTML無盡運行器，沒有框架或庫
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32277043</guid>
             <pubDate>Fri, 29 Jul 2022 14:04:29 GMT</pubDate>
             <description><![CDATA[Show HN: ListFollowers.com – list Twitter follow(er)s, search, sort, and export]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一個API，用於網頁抓取、PDF生成和屏幕截圖
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32276909</link>
-            <guid>https://news.ycombinator.com/item?id=32276909</guid>
-            <pubDate>Fri, 29 Jul 2022 13:55:23 GMT</pubDate>
-            <description><![CDATA[Show HN: I made an API for web scraping, PDF generation and screenshots]]></description>
         </item>
     </channel>
 </rss>
