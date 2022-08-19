@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 19 Aug 2022 14:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 15:01:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[修改Clang以获得更安全、更明确的C++语言
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32500572</link>
+            <guid>https://news.ycombinator.com/item?id=32500572</guid>
+            <pubDate>Wed, 17 Aug 2022 19:21:33 GMT</pubDate>
+            <description><![CDATA[Show HN: Modifying Clang for a Safer, More Explicit C++]]></description>
+        </item>
         <item>
             <title><![CDATA[我做了一个100秒的冥想网站，探讨斯多葛哲学
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32278496</guid>
             <pubDate>Fri, 29 Jul 2022 15:49:52 GMT</pubDate>
             <description><![CDATA[Show HN: GitHub network graph in fullscreen with a searchable commit list]]></description>
-        </item>
-        <item>
-            <title><![CDATA[学习构建40多个SwiftUI应用程序、游戏和概念
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32278290</link>
-            <guid>https://news.ycombinator.com/item?id=32278290</guid>
-            <pubDate>Fri, 29 Jul 2022 15:35:27 GMT</pubDate>
-            <description><![CDATA[Show HN: Learn to Build over 40 SwiftUI Apps, Games, and Concepts]]></description>
         </item>
     </channel>
 </rss>

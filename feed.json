@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://news.ycombinator.com/item?id=32500572",
+            "content_html": "",
+            "url": "https://news.ycombinator.com/item?id=32500572",
+            "title": "修改Clang以获得更安全、更明确的C++语言\n",
+            "summary": "Show HN: Modifying Clang for a Safer, More Explicit C++",
+            "date_modified": "2022-08-17T19:21:33.000Z",
+            "author": {
+                "name": "compiler-devel",
+                "url": "https://news.ycombinator.com/user?id=compiler-devel"
+            },
+            "_original_headline": "Show HN: Modifying Clang for a Safer, More Explicit C++",
+            "_original_url": "https://github.com/llvm/llvm-project/commit/cfd497fadb8bae4c5428f40ea50cfc760649afa4",
+            "_sensitive": false,
+            "_score": 1
+        },
+        {
             "id": "https://news.ycombinator.com/item?id=32521463",
             "content_html": "",
             "url": "https://news.ycombinator.com/item?id=32521463",
@@ -9593,22 +9609,6 @@
             "_original_url": "https://github.com/maliayas/github-network-ninja",
             "_sensitive": false,
             "_score": 1
-        },
-        {
-            "id": "https://news.ycombinator.com/item?id=32278290",
-            "content_html": "",
-            "url": "https://news.ycombinator.com/item?id=32278290",
-            "title": "学习构建40多个SwiftUI应用程序、游戏和概念\n",
-            "summary": "Show HN: Learn to Build over 40 SwiftUI Apps, Games, and Concepts",
-            "date_modified": "2022-07-29T15:35:27.000Z",
-            "author": {
-                "name": "anupamchugh",
-                "url": "https://news.ycombinator.com/user?id=anupamchugh"
-            },
-            "_original_headline": "Show HN: Learn to Build over 40 SwiftUI Apps, Games, and Concepts",
-            "_original_url": "https://betterprogramming.pub/swiftui-projects-9e1dcba55c0c",
-            "_sensitive": false,
-            "_score": 2
         }
     ]
 }
