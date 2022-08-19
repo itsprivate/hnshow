@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-19T14:07:10.207Z</updated>
+    <updated>2022-08-19T14:41:03.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个100秒的冥想网站，探讨斯多葛哲学
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32521463</id>
+        <link href="https://news.ycombinator.com/item?id=32521463"/>
+        <updated>2022-08-19T14:33:33.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a 100 second meditative website that explores Stoic philosophy]]></summary>
+        <author>
+            <name>shriracha</name>
+            <uri>https://news.ycombinator.com/user?id=shriracha</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SineRider - 一个由青少年建立的关于爱情、数学和绘图的游戏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32521395</id>
+        <link href="https://news.ycombinator.com/item?id=32521395"/>
+        <updated>2022-08-19T14:29:02.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: SineRider - A game about love, math, and graphing built by teenagers]]></summary>
+        <author>
+            <name>ClaireBookworm</name>
+            <uri>https://news.ycombinator.com/user?id=ClaireBookworm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用Jina和Python实现的20行代码的 "缩放"。
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>anupamchugh</name>
             <uri>https://news.ycombinator.com/user?id=anupamchugh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在MacOS上模仿Ubuntu的键盘快捷键
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32278221</id>
-        <link href="https://news.ycombinator.com/item?id=32278221"/>
-        <updated>2022-07-29T15:29:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mimic Ubuntu keyboard shortcuts on macOS]]></summary>
-        <author>
-            <name>jeswin</name>
-            <uri>https://news.ycombinator.com/user?id=jeswin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[桁架--在任何地方为任何ML模型服务，无需模板代码
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32277894</id>
-        <link href="https://news.ycombinator.com/item?id=32277894"/>
-        <updated>2022-07-29T15:06:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Truss – serve any ML model, anywhere, without boilerplate code]]></summary>
-        <author>
-            <name>philipkiely</name>
-            <uri>https://news.ycombinator.com/user?id=philipkiely</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Fri, 19 Aug 2022 14:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 14:41:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一个100秒的冥想网站，探讨斯多葛哲学
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32521463</link>
+            <guid>https://news.ycombinator.com/item?id=32521463</guid>
+            <pubDate>Fri, 19 Aug 2022 14:33:33 GMT</pubDate>
+            <description><![CDATA[Show HN: I made a 100 second meditative website that explores Stoic philosophy]]></description>
+        </item>
+        <item>
+            <title><![CDATA[SineRider - 一个由青少年建立的关于爱情、数学和绘图的游戏
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32521395</link>
+            <guid>https://news.ycombinator.com/item?id=32521395</guid>
+            <pubDate>Fri, 19 Aug 2022 14:29:02 GMT</pubDate>
+            <description><![CDATA[Show HN: SineRider - A game about love, math, and graphing built by teenagers]]></description>
+        </item>
         <item>
             <title><![CDATA[用Jina和Python实现的20行代码的 "缩放"。
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32278290</guid>
             <pubDate>Fri, 29 Jul 2022 15:35:27 GMT</pubDate>
             <description><![CDATA[Show HN: Learn to Build over 40 SwiftUI Apps, Games, and Concepts]]></description>
-        </item>
-        <item>
-            <title><![CDATA[在MacOS上模仿Ubuntu的键盘快捷键
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32278221</link>
-            <guid>https://news.ycombinator.com/item?id=32278221</guid>
-            <pubDate>Fri, 29 Jul 2022 15:29:43 GMT</pubDate>
-            <description><![CDATA[Show HN: Mimic Ubuntu keyboard shortcuts on macOS]]></description>
-        </item>
-        <item>
-            <title><![CDATA[桁架--在任何地方为任何ML模型服务，无需模板代码
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32277894</link>
-            <guid>https://news.ycombinator.com/item?id=32277894</guid>
-            <pubDate>Fri, 29 Jul 2022 15:06:35 GMT</pubDate>
-            <description><![CDATA[Show HN: Truss – serve any ML model, anywhere, without boilerplate code]]></description>
         </item>
     </channel>
 </rss>
