@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-20T17:40:53.900Z</updated>
+    <updated>2022-08-20T17:57:52.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Madepublic - 一個為印第安人提供的公共建築平臺，現已進入測試階段
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32533851</id>
+        <link href="https://news.ycombinator.com/item?id=32533851"/>
+        <updated>2022-08-20T17:49:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Madepublic – a platform for indiemakers building in public now in beta]]></summary>
+        <author>
+            <name>bustylasercanon</name>
+            <uri>https://news.ycombinator.com/user?id=bustylasercanon</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[建立一個SEO鏈接分析器的演練與解決方案
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>pavlovskyi</name>
             <uri>https://news.ycombinator.com/user?id=pavlovskyi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普羅索爾。在一個數據庫中記錄所有的3D打印機活動，在瀏覽器中查看所有的活動。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32286910</id>
-        <link href="https://news.ycombinator.com/item?id=32286910"/>
-        <updated>2022-07-30T14:05:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Prosur: Logs all 3D printer activity in a DB, view it all in a browser]]></summary>
-        <author>
-            <name>edg5000</name>
-            <uri>https://news.ycombinator.com/user?id=edg5000</uri>
         </author>
     </entry>
 </feed>

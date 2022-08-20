@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 20 Aug 2022 17:40:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 17:57:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Madepublic - 一个为印第安人提供的公共建筑平台，现已进入测试阶段
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32533851</link>
+            <guid>https://news.ycombinator.com/item?id=32533851</guid>
+            <pubDate>Sat, 20 Aug 2022 17:49:43 GMT</pubDate>
+            <description><![CDATA[Show HN: Madepublic – a platform for indiemakers building in public now in beta]]></description>
+        </item>
         <item>
             <title><![CDATA[建立一个SEO链接分析器的演练与解决方案
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32286927</guid>
             <pubDate>Sat, 30 Jul 2022 14:09:17 GMT</pubDate>
             <description><![CDATA[Show HN: Semantic Segmentation Datasets]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普罗索尔。在一个数据库中记录所有的3D打印机活动，在浏览器中查看所有的活动。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32286910</link>
-            <guid>https://news.ycombinator.com/item?id=32286910</guid>
-            <pubDate>Sat, 30 Jul 2022 14:05:23 GMT</pubDate>
-            <description><![CDATA[Show HN: Prosur: Logs all 3D printer activity in a DB, view it all in a browser]]></description>
         </item>
     </channel>
 </rss>
