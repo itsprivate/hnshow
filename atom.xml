@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-20T05:57:50.286Z</updated>
+    <updated>2022-08-20T06:36:53.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Euporie Console - 一个用于Jupyter内核的终端控制台
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32529604</id>
+        <link href="https://news.ycombinator.com/item?id=32529604"/>
+        <updated>2022-08-20T06:12:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Euporie Console – a terminal console for Jupyter kernels]]></summary>
+        <author>
+            <name>joouha</name>
+            <uri>https://news.ycombinator.com/user?id=joouha</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[黑客新闻头版的每日快照
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>iapyeh</name>
             <uri>https://news.ycombinator.com/user?id=iapyeh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我第一次尝试做一个编程语言
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32285104</id>
-        <link href="https://news.ycombinator.com/item?id=32285104"/>
-        <updated>2022-07-30T07:53:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: My first attempt to make a programming language]]></summary>
-        <author>
-            <name>nbittich</name>
-            <uri>https://news.ycombinator.com/user?id=nbittich</uri>
         </author>
     </entry>
 </feed>
