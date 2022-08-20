@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 20 Aug 2022 11:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 12:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Bandhiking (非官方Bandcamp电台)
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32531334</link>
+            <guid>https://news.ycombinator.com/item?id=32531334</guid>
+            <pubDate>Sat, 20 Aug 2022 11:55:41 GMT</pubDate>
+            <description><![CDATA[Show HN: Bandhiking (Unofficial Bandcamp Radio)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一个现代化、高性能、实时的OLAP数据库
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32522027</link>
+            <guid>https://news.ycombinator.com/item?id=32522027</guid>
+            <pubDate>Fri, 19 Aug 2022 15:15:31 GMT</pubDate>
+            <description><![CDATA[Show HN: A modern, high-performance, real-time OLAP database]]></description>
+        </item>
         <item>
             <title><![CDATA[试图为2D画布图像制作一个减色板/抖动过滤器
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32285593</guid>
             <pubDate>Sat, 30 Jul 2022 10:11:22 GMT</pubDate>
             <description><![CDATA[Show HN: The Poetry Corner – A React Native app to read public domain poems]]></description>
-        </item>
-        <item>
-            <title><![CDATA[用肌电图传感器实现非接触式
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32285572</link>
-            <guid>https://news.ycombinator.com/item?id=32285572</guid>
-            <pubDate>Sat, 30 Jul 2022 10:05:21 GMT</pubDate>
-            <description><![CDATA[Show HN: Going Contactless with Electromyography Sensor]]></description>
-        </item>
-        <item>
-            <title><![CDATA[BMList - 大型预训练模型的列表（GPT-3、DALL-E2...）。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32285365</link>
-            <guid>https://news.ycombinator.com/item?id=32285365</guid>
-            <pubDate>Sat, 30 Jul 2022 09:04:59 GMT</pubDate>
-            <description><![CDATA[Show HN: BMList - A list of big pre-trained models (GPT-3, DALL-E2...)]]></description>
         </item>
     </channel>
 </rss>

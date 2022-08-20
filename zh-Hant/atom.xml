@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-20T11:45:46.235Z</updated>
+    <updated>2022-08-20T12:47:27.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Bandhiking (非官方Bandcamp電臺)
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32531334</id>
+        <link href="https://news.ycombinator.com/item?id=32531334"/>
+        <updated>2022-08-20T11:55:41.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bandhiking (Unofficial Bandcamp Radio)]]></summary>
+        <author>
+            <name>rendaw</name>
+            <uri>https://news.ycombinator.com/user?id=rendaw</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一個現代化、高性能、實時的OLAP數據庫
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32522027</id>
+        <link href="https://news.ycombinator.com/item?id=32522027"/>
+        <updated>2022-08-19T15:15:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A modern, high-performance, real-time OLAP database]]></summary>
+        <author>
+            <name>dataalive</name>
+            <uri>https://news.ycombinator.com/user?id=dataalive</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[試圖為2D畫布圖像製作一個減色板/抖動過濾器
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>archiepeach</name>
             <uri>https://news.ycombinator.com/user?id=archiepeach</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用肌電圖傳感器實現非接觸式
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32285572</id>
-        <link href="https://news.ycombinator.com/item?id=32285572"/>
-        <updated>2022-07-30T10:05:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Going Contactless with Electromyography Sensor]]></summary>
-        <author>
-            <name>Swarup_Tripathy</name>
-            <uri>https://news.ycombinator.com/user?id=Swarup_Tripathy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BMList - 大型預訓練模型的列表（GPT-3、DALL-E2...）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32285365</id>
-        <link href="https://news.ycombinator.com/item?id=32285365"/>
-        <updated>2022-07-30T09:04:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: BMList - A list of big pre-trained models (GPT-3, DALL-E2...)]]></summary>
-        <author>
-            <name>fishingboy</name>
-            <uri>https://news.ycombinator.com/user?id=fishingboy</uri>
         </author>
     </entry>
 </feed>
