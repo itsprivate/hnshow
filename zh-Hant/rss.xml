@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 20 Aug 2022 12:47:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 14:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Numari - 為數獨愛好者提供的原創數字謎題
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32532120</link>
+            <guid>https://news.ycombinator.com/item?id=32532120</guid>
+            <pubDate>Sat, 20 Aug 2022 14:01:45 GMT</pubDate>
+            <description><![CDATA[Show HN: Numari – an original number puzzle for Sudoku lovers]]></description>
+        </item>
         <item>
             <title><![CDATA[Bandhiking (非官方Bandcamp電臺)
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32285921</guid>
             <pubDate>Sat, 30 Jul 2022 11:17:21 GMT</pubDate>
             <description><![CDATA[Show HN: Inventa – A Go-Python library for service registry and RPC over Redis]]></description>
-        </item>
-        <item>
-            <title><![CDATA[詩歌角 - 一個閱讀公共領域詩歌的React Native應用
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32285593</link>
-            <guid>https://news.ycombinator.com/item?id=32285593</guid>
-            <pubDate>Sat, 30 Jul 2022 10:11:22 GMT</pubDate>
-            <description><![CDATA[Show HN: The Poetry Corner – A React Native app to read public domain poems]]></description>
         </item>
     </channel>
 </rss>
