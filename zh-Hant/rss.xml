@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 20 Aug 2022 18:54:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 21:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[strftime-ruby, no-std, 與Ruby兼容的strftime的Rust實現。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32535210</link>
+            <guid>https://news.ycombinator.com/item?id=32535210</guid>
+            <pubDate>Sat, 20 Aug 2022 21:19:32 GMT</pubDate>
+            <description><![CDATA[Show HN: strftime-ruby, no-std, Ruby-compatible Rust implementation of strftime]]></description>
+        </item>
         <item>
             <title><![CDATA[我建立了vanishdb.com，可以讓你一鍵創建一個沙盒數據庫。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32287622</guid>
             <pubDate>Sat, 30 Jul 2022 15:38:47 GMT</pubDate>
             <description><![CDATA[Show HN: Gowitness – a Golang, web screenshot utility using Chrome Headless]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Clp，一個更快的蝙蝠替代品
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32287137</link>
-            <guid>https://news.ycombinator.com/item?id=32287137</guid>
-            <pubDate>Sat, 30 Jul 2022 14:40:17 GMT</pubDate>
-            <description><![CDATA[Show HN: Clp, a Faster Alternative to Bat]]></description>
         </item>
     </channel>
 </rss>
