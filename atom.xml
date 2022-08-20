@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-20T02:40:34.463Z</updated>
+    <updated>2022-08-20T04:44:40.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[显示垃圾邮件发送者利用人工智能用攻击性的垃圾淹没YouTube短片
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32528893</id>
+        <link href="https://news.ycombinator.com/item?id=32528893"/>
+        <updated>2022-08-20T03:51:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Show hn Spammers are using AI to flood YouTube shorts with offensive garbage]]></summary>
+        <author>
+            <name>unsignednoop</name>
+            <uri>https://news.ycombinator.com/user?id=unsignednoop</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[节点迷宫生成器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>martyalain</name>
             <uri>https://news.ycombinator.com/user?id=martyalain</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NestJS - 一个渐进式的Node.js框架
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32284695</id>
-        <link href="https://news.ycombinator.com/item?id=32284695"/>
-        <updated>2022-07-30T06:13:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: NestJS – A Progressive Node.js Framework]]></summary>
-        <author>
-            <name>navaneethpk</name>
-            <uri>https://news.ycombinator.com/user?id=navaneethpk</uri>
         </author>
     </entry>
 </feed>
