@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 20 Aug 2022 14:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 15:50:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[使用GPT-3生成代码的新方法（和其他一切）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32532875</link>
+            <guid>https://news.ycombinator.com/item?id=32532875</guid>
+            <pubDate>Sat, 20 Aug 2022 15:45:52 GMT</pubDate>
+            <description><![CDATA[Show HN: A new way to use GPT-3 to generate code (and everything else)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Dddice - 在浏览器中掷3D数字骰子
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32532750</link>
+            <guid>https://news.ycombinator.com/item?id=32532750</guid>
+            <pubDate>Sat, 20 Aug 2022 15:30:44 GMT</pubDate>
+            <description><![CDATA[Show HN: Dddice – Roll 3D digital dice in the browser]]></description>
+        </item>
         <item>
             <title><![CDATA[Numari - 为数独爱好者提供的原创数字谜题
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32286313</guid>
             <pubDate>Sat, 30 Jul 2022 12:38:27 GMT</pubDate>
             <description><![CDATA[Show HN: Health Compiler – Plaid but for Healthcare]]></description>
-        </item>
-        <item>
-            <title><![CDATA[CharityStack|Stripe Atlas for charities|formation, fundraising, banking
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32286080</link>
-            <guid>https://news.ycombinator.com/item?id=32286080</guid>
-            <pubDate>Sat, 30 Jul 2022 11:49:44 GMT</pubDate>
-            <description><![CDATA[Show HN: CharityStack|Stripe Atlas for charities|formation, fundraising, banking]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Inventa - 一个用于服务注册和Redis上的RPC的Go-Python库
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32285921</link>
-            <guid>https://news.ycombinator.com/item?id=32285921</guid>
-            <pubDate>Sat, 30 Jul 2022 11:17:21 GMT</pubDate>
-            <description><![CDATA[Show HN: Inventa – A Go-Python library for service registry and RPC over Redis]]></description>
         </item>
     </channel>
 </rss>

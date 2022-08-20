@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-20T14:26:58.018Z</updated>
+    <updated>2022-08-20T15:50:49.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[使用GPT-3生成代码的新方法（和其他一切）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32532875</id>
+        <link href="https://news.ycombinator.com/item?id=32532875"/>
+        <updated>2022-08-20T15:45:52.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A new way to use GPT-3 to generate code (and everything else)]]></summary>
+        <author>
+            <name>goodside</name>
+            <uri>https://news.ycombinator.com/user?id=goodside</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dddice - 在浏览器中掷3D数字骰子
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32532750</id>
+        <link href="https://news.ycombinator.com/item?id=32532750"/>
+        <updated>2022-08-20T15:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Dddice – Roll 3D digital dice in the browser]]></summary>
+        <author>
+            <name>nullfish</name>
+            <uri>https://news.ycombinator.com/user?id=nullfish</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Numari - 为数独爱好者提供的原创数字谜题
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>Mehulagarwal7</name>
             <uri>https://news.ycombinator.com/user?id=Mehulagarwal7</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CharityStack|Stripe Atlas for charities|formation, fundraising, banking
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32286080</id>
-        <link href="https://news.ycombinator.com/item?id=32286080"/>
-        <updated>2022-07-30T11:49:44.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: CharityStack|Stripe Atlas for charities|formation, fundraising, banking]]></summary>
-        <author>
-            <name>mubarratc</name>
-            <uri>https://news.ycombinator.com/user?id=mubarratc</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inventa - 一个用于服务注册和Redis上的RPC的Go-Python库
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32285921</id>
-        <link href="https://news.ycombinator.com/item?id=32285921"/>
-        <updated>2022-07-30T11:17:21.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Inventa – A Go-Python library for service registry and RPC over Redis]]></summary>
-        <author>
-            <name>adalkiran</name>
-            <uri>https://news.ycombinator.com/user?id=adalkiran</uri>
         </author>
     </entry>
 </feed>
