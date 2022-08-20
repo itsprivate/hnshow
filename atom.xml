@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-20T21:29:48.908Z</updated>
+    <updated>2022-08-20T22:48:28.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[琳克丽
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32535686</id>
+        <link href="https://news.ycombinator.com/item?id=32535686"/>
+        <updated>2022-08-20T22:25:09.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Linkly]]></summary>
+        <author>
+            <name>aryann</name>
+            <uri>https://news.ycombinator.com/user?id=aryann</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[strftime-ruby, no-std, 与Ruby兼容的strftime的Rust实现。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rafunderscore</name>
             <uri>https://news.ycombinator.com/user?id=rafunderscore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gowitness - 一个使用Chrome Headless的Golang、网页截图工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32287622</id>
-        <link href="https://news.ycombinator.com/item?id=32287622"/>
-        <updated>2022-07-30T15:38:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Gowitness – a Golang, web screenshot utility using Chrome Headless]]></summary>
-        <author>
-            <name>leonjza</name>
-            <uri>https://news.ycombinator.com/user?id=leonjza</uri>
         </author>
     </entry>
 </feed>
