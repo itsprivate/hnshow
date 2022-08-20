@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-19T22:33:30.121Z</updated>
+    <updated>2022-08-20T02:40:34.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[节点迷宫生成器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32528176</id>
+        <link href="https://news.ycombinator.com/item?id=32528176"/>
+        <updated>2022-08-20T01:33:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Node Maze Generator]]></summary>
+        <author>
+            <name>w4ffl35</name>
+            <uri>https://news.ycombinator.com/user?id=w4ffl35</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实施苹果游戏中心排行榜的简单步骤
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32527913</id>
+        <link href="https://news.ycombinator.com/item?id=32527913"/>
+        <updated>2022-08-20T00:51:24.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Easy Steps to Implement Apple's GameCenter Leaderboard]]></summary>
+        <author>
+            <name>saamerm</name>
+            <uri>https://news.ycombinator.com/user?id=saamerm</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ProjectZero - 为你的下一个副业项目寻找合作者
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>navaneethpk</name>
             <uri>https://news.ycombinator.com/user?id=navaneethpk</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[住房可负担性计算器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32284492</id>
-        <link href="https://news.ycombinator.com/item?id=32284492"/>
-        <updated>2022-07-30T05:28:24.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Housing Affordability Calculator]]></summary>
-        <author>
-            <name>bobblywobbles</name>
-            <uri>https://news.ycombinator.com/user?id=bobblywobbles</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outserv - 带有GraphQL APIs的区块链搜索引擎
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32284438</id>
-        <link href="https://news.ycombinator.com/item?id=32284438"/>
-        <updated>2022-07-30T05:13:02.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Outserv – Blockchain Search Engine with GraphQL APIs]]></summary>
-        <author>
-            <name>mrjn</name>
-            <uri>https://news.ycombinator.com/user?id=mrjn</uri>
         </author>
     </entry>
 </feed>
