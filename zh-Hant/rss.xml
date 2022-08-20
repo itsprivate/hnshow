@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 20 Aug 2022 15:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 17:40:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[建立一個SEO鏈接分析器的演練與解決方案
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32533586</link>
+            <guid>https://news.ycombinator.com/item?id=32533586</guid>
+            <pubDate>Sat, 20 Aug 2022 17:10:26 GMT</pubDate>
+            <description><![CDATA[Show HN: Build an SEO Link Analyzer Walkthrough with Solutions]]></description>
+        </item>
+        <item>
+            <title><![CDATA[sioyek PDF閱讀器的Python擴展
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32533554</link>
+            <guid>https://news.ycombinator.com/item?id=32533554</guid>
+            <pubDate>Sat, 20 Aug 2022 17:06:26 GMT</pubDate>
+            <description><![CDATA[Show HN: Python extensions for sioyek PDF viewer]]></description>
+        </item>
         <item>
             <title><![CDATA[使用GPT-3生成代碼的新方法（和其他一切）。
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32286910</guid>
             <pubDate>Sat, 30 Jul 2022 14:05:23 GMT</pubDate>
             <description><![CDATA[Show HN: Prosur: Logs all 3D printer activity in a DB, view it all in a browser]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用GPT3從單行本的想法中生成推介文件
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32286790</link>
-            <guid>https://news.ycombinator.com/item?id=32286790</guid>
-            <pubDate>Sat, 30 Jul 2022 13:47:32 GMT</pubDate>
-            <description><![CDATA[Show HN: Generate pitch decks using GPT3 from 1-liner ideas]]></description>
-        </item>
-        <item>
-            <title><![CDATA[健康編譯器--格子圖案，但用於醫療衛生
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32286313</link>
-            <guid>https://news.ycombinator.com/item?id=32286313</guid>
-            <pubDate>Sat, 30 Jul 2022 12:38:27 GMT</pubDate>
-            <description><![CDATA[Show HN: Health Compiler – Plaid but for Healthcare]]></description>
         </item>
     </channel>
 </rss>
