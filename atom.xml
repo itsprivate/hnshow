@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-20T06:36:53.495Z</updated>
+    <updated>2022-08-20T11:45:46.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[试图为2D画布图像制作一个减色板/抖动过滤器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32531165</id>
+        <link href="https://news.ycombinator.com/item?id=32531165"/>
+        <updated>2022-08-20T11:25:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An attempt to make a reduce-palette/dither filter for 2d canvas images]]></summary>
+        <author>
+            <name>rikroots</name>
+            <uri>https://news.ycombinator.com/user?id=rikroots</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Euporie Console - 一个用于Jupyter内核的终端控制台
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>fishingboy</name>
             <uri>https://news.ycombinator.com/user?id=fishingboy</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SSHScript - 类似shell脚本的Python脚本
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32285445</id>
-        <link href="https://news.ycombinator.com/item?id=32285445"/>
-        <updated>2022-07-30T09:28:15.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: SSHScript – shell script-like Python script]]></summary>
-        <author>
-            <name>iapyeh</name>
-            <uri>https://news.ycombinator.com/user?id=iapyeh</uri>
         </author>
     </entry>
 </feed>
