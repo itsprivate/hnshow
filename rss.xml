@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sat, 20 Aug 2022 23:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 02:40:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GhostLabel - 食品和饮料的操作系统
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32536802</link>
+            <guid>https://news.ycombinator.com/item?id=32536802</guid>
+            <pubDate>Sun, 21 Aug 2022 02:09:55 GMT</pubDate>
+            <description><![CDATA[Show HN: GhostLabel – The Operating System for Food and Beverage]]></description>
+        </item>
+        <item>
+            <title><![CDATA[随着你的优先事项的变化，你的谷歌日历会被人工智能重新安排。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32536384</link>
+            <guid>https://news.ycombinator.com/item?id=32536384</guid>
+            <pubDate>Sun, 21 Aug 2022 00:40:19 GMT</pubDate>
+            <description><![CDATA[Show HN: As your priorities change, your Google calendar gets rearranged by AI]]></description>
+        </item>
         <item>
             <title><![CDATA[Brew.fm - 让机器人为你发现Spotify上的新音乐
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32289082</guid>
             <pubDate>Sat, 30 Jul 2022 18:24:39 GMT</pubDate>
             <description><![CDATA[Show HN: Bunny REST Proxy – a HTTP message broker built on top of RabbitMQ]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Automatdeck - 简单的轻量级IT自动化工具，适合你的部署
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32288540</link>
-            <guid>https://news.ycombinator.com/item?id=32288540</guid>
-            <pubDate>Sat, 30 Jul 2022 17:25:18 GMT</pubDate>
-            <description><![CDATA[Show HN: Automatdeck – simple lightweight IT automation tool for your deployment]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Redis-rope，一种用于大字符串的本地数据类型
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32288345</link>
-            <guid>https://news.ycombinator.com/item?id=32288345</guid>
-            <pubDate>Sat, 30 Jul 2022 17:03:42 GMT</pubDate>
-            <description><![CDATA[Show HN: Redis-rope, a native data type for large strings]]></description>
         </item>
     </channel>
 </rss>

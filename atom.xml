@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-20T23:46:19.367Z</updated>
+    <updated>2022-08-21T02:40:53.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GhostLabel - 食品和饮料的操作系统
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32536802</id>
+        <link href="https://news.ycombinator.com/item?id=32536802"/>
+        <updated>2022-08-21T02:09:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GhostLabel – The Operating System for Food and Beverage]]></summary>
+        <author>
+            <name>mcasey_gl</name>
+            <uri>https://news.ycombinator.com/user?id=mcasey_gl</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[随着你的优先事项的变化，你的谷歌日历会被人工智能重新安排。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32536384</id>
+        <link href="https://news.ycombinator.com/item?id=32536384"/>
+        <updated>2022-08-21T00:40:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: As your priorities change, your Google calendar gets rearranged by AI]]></summary>
+        <author>
+            <name>rish1_2</name>
+            <uri>https://news.ycombinator.com/user?id=rish1_2</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brew.fm - 让机器人为你发现Spotify上的新音乐
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>kffl</name>
             <uri>https://news.ycombinator.com/user?id=kffl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatdeck - 简单的轻量级IT自动化工具，适合你的部署
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32288540</id>
-        <link href="https://news.ycombinator.com/item?id=32288540"/>
-        <updated>2022-07-30T17:25:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Automatdeck – simple lightweight IT automation tool for your deployment]]></summary>
-        <author>
-            <name>automatdeck</name>
-            <uri>https://news.ycombinator.com/user?id=automatdeck</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redis-rope，一种用于大字符串的本地数据类型
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32288345</id>
-        <link href="https://news.ycombinator.com/item?id=32288345"/>
-        <updated>2022-07-30T17:03:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Redis-rope, a native data type for large strings]]></summary>
-        <author>
-            <name>ekzhang</name>
-            <uri>https://news.ycombinator.com/user?id=ekzhang</uri>
         </author>
     </entry>
 </feed>
