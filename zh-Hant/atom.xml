@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-21T02:40:53.347Z</updated>
+    <updated>2022-08-21T04:43:49.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[HertzBeat - 一個開源的實時監控系統
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32537126</id>
+        <link href="https://news.ycombinator.com/item?id=32537126"/>
+        <updated>2022-08-21T03:21:47.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: HertzBeat – An open-source, real-time monitoring system]]></summary>
+        <author>
+            <name>tomsun28</name>
+            <uri>https://news.ycombinator.com/user?id=tomsun28</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GhostLabel - 食品和飲料的操作系統
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>asiffer</name>
             <uri>https://news.ycombinator.com/user?id=asiffer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bunny REST Proxy - 一個建立在RabbitMQ之上的HTTP消息代理機構
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32289082</id>
-        <link href="https://news.ycombinator.com/item?id=32289082"/>
-        <updated>2022-07-30T18:24:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bunny REST Proxy – a HTTP message broker built on top of RabbitMQ]]></summary>
-        <author>
-            <name>kffl</name>
-            <uri>https://news.ycombinator.com/user?id=kffl</uri>
         </author>
     </entry>
 </feed>

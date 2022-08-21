@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 21 Aug 2022 02:40:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 04:43:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[HertzBeat - 一个开源的实时监控系统
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32537126</link>
+            <guid>https://news.ycombinator.com/item?id=32537126</guid>
+            <pubDate>Sun, 21 Aug 2022 03:21:47 GMT</pubDate>
+            <description><![CDATA[Show HN: HertzBeat – An open-source, real-time monitoring system]]></description>
+        </item>
         <item>
             <title><![CDATA[GhostLabel - 食品和饮料的操作系统
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32289576</guid>
             <pubDate>Sat, 30 Jul 2022 19:31:47 GMT</pubDate>
             <description><![CDATA[Show HN: [Mkdocs-plugin] Auto-generate code samples to make API calls]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Bunny REST Proxy - 一个建立在RabbitMQ之上的HTTP消息代理机构
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32289082</link>
-            <guid>https://news.ycombinator.com/item?id=32289082</guid>
-            <pubDate>Sat, 30 Jul 2022 18:24:39 GMT</pubDate>
-            <description><![CDATA[Show HN: Bunny REST Proxy – a HTTP message broker built on top of RabbitMQ]]></description>
         </item>
     </channel>
 </rss>
