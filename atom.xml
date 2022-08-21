@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-21T13:21:23.867Z</updated>
+    <updated>2022-08-21T16:43:48.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一个网站，可以让你购买和出售达利2的提示信息
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32541641</id>
+        <link href="https://news.ycombinator.com/item?id=32541641"/>
+        <updated>2022-08-21T16:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a site that lets you buy and sell DALL·E 2 prompts]]></summary>
+        <author>
+            <name>0xPersona</name>
+            <uri>https://news.ycombinator.com/user?id=0xPersona</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源体育馆容量预测，我的第一个开源项目
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32541523</id>
+        <link href="https://news.ycombinator.com/item?id=32541523"/>
+        <updated>2022-08-21T16:09:05.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Open-source gym capacity forecasts, my first open-source project]]></summary>
+        <author>
+            <name>hcalium</name>
+            <uri>https://news.ycombinator.com/user?id=hcalium</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[支持和验证早期创业者想法的地方
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>rafunderscore</name>
             <uri>https://news.ycombinator.com/user?id=rafunderscore</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用于AWS S3/GCS/Azure Blobs的Jeager插件
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32294363</id>
-        <link href="https://news.ycombinator.com/item?id=32294363"/>
-        <updated>2022-07-31T09:08:46.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Jeager Plugin for AWS S3/GCS/Azure Blobs]]></summary>
-        <author>
-            <name>muhammadn</name>
-            <uri>https://news.ycombinator.com/user?id=muhammadn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BDC - 符合人体工程学的、小于1KiB的虚拟DOM库
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32293880</id>
-        <link href="https://news.ycombinator.com/item?id=32293880"/>
-        <updated>2022-07-31T07:17:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: BDC – Ergonomic, sub 1KiB virtual DOM library]]></summary>
-        <author>
-            <name>bwhmather</name>
-            <uri>https://news.ycombinator.com/user?id=bwhmather</uri>
         </author>
     </entry>
 </feed>
