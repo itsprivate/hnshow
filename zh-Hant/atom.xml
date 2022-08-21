@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-21T17:59:32.100Z</updated>
+    <updated>2022-08-21T20:48:10.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[查看加拿大的下一個公共假日
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32544083</id>
+        <link href="https://news.ycombinator.com/item?id=32544083"/>
+        <updated>2022-08-21T20:30:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: View next public holiday in Canada]]></summary>
+        <author>
+            <name>offiloas</name>
+            <uri>https://news.ycombinator.com/user?id=offiloas</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Postgres.email - 可讀郵件列表
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>saasxyz</name>
             <uri>https://news.ycombinator.com/user?id=saasxyz</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[客戶端JavaScript中的PHP後端代碼
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32295063</id>
-        <link href="https://news.ycombinator.com/item?id=32295063"/>
-        <updated>2022-07-31T12:30:31.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PHP back end code in client-side JavaScript]]></summary>
-        <author>
-            <name>cyco130</name>
-            <uri>https://news.ycombinator.com/user?id=cyco130</uri>
         </author>
     </entry>
 </feed>
