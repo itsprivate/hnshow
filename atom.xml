@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-21T10:32:15.986Z</updated>
+    <updated>2022-08-21T10:48:59.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[点击图标，将历史记录变成收藏夹
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32538879</id>
+        <link href="https://news.ycombinator.com/item?id=32538879"/>
+        <updated>2022-08-21T10:35:27.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Click the icons to turn history into favorites]]></summary>
+        <author>
+            <name>Sujeto</name>
+            <uri>https://news.ycombinator.com/user?id=Sujeto</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[以俄罗斯方块动画的形式生成QR码
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>emadehsan</name>
             <uri>https://news.ycombinator.com/user?id=emadehsan</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ImThemes - 一个亲爱的ImGui主题浏览器和编辑器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32290700</id>
-        <link href="https://news.ycombinator.com/item?id=32290700"/>
-        <updated>2022-07-30T21:49:11.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ImThemes – a Dear ImGui theme browser and editor]]></summary>
-        <author>
-            <name>Patitotective</name>
-            <uri>https://news.ycombinator.com/user?id=Patitotective</uri>
         </author>
     </entry>
 </feed>
