@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-21T04:43:49.418Z</updated>
+    <updated>2022-08-21T05:37:34.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個免費的獨立創始人成長策略的圓桌會議
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32537658</id>
+        <link href="https://news.ycombinator.com/item?id=32537658"/>
+        <updated>2022-08-21T05:32:15.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a free Airtable of indie founders' growth strategies]]></summary>
+        <author>
+            <name>growthunter</name>
+            <uri>https://news.ycombinator.com/user?id=growthunter</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HertzBeat - 一個開源的實時監控系統
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>Malazath</name>
             <uri>https://news.ycombinator.com/user?id=Malazath</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Mkdocs-plugin] 自動生成代碼樣本以進行API調用
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32289576</id>
-        <link href="https://news.ycombinator.com/item?id=32289576"/>
-        <updated>2022-07-30T19:31:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: [Mkdocs-plugin] Auto-generate code samples to make API calls]]></summary>
-        <author>
-            <name>asiffer</name>
-            <uri>https://news.ycombinator.com/user?id=asiffer</uri>
         </author>
     </entry>
 </feed>
