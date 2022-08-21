@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-21T10:48:59.049Z</updated>
+    <updated>2022-08-21T11:57:05.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[AwesomeCure - 分析和治疗列表
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32539283</id>
+        <link href="https://news.ycombinator.com/item?id=32539283"/>
+        <updated>2022-08-21T11:54:32.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: AwesomeCure – Analyze and Cure Lists]]></summary>
+        <author>
+            <name>protontypes</name>
+            <uri>https://news.ycombinator.com/user?id=protontypes</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[点击图标，将历史记录变成收藏夹
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mdsami</name>
             <uri>https://news.ycombinator.com/user?id=mdsami</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丛林和沙丘中的达利棋
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32290978</id>
-        <link href="https://news.ycombinator.com/item?id=32290978"/>
-        <updated>2022-07-30T22:25:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: DALL-E Chess in Jungle and Dunes]]></summary>
-        <author>
-            <name>emadehsan</name>
-            <uri>https://news.ycombinator.com/user?id=emadehsan</uri>
         </author>
     </entry>
 </feed>
