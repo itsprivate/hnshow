@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-21T05:37:34.189Z</updated>
+    <updated>2022-08-21T06:56:14.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[他們的名字在這裡 - 一個在幾分鐘內創建可打印的位置卡製造商
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32537932</id>
+        <link href="https://news.ycombinator.com/item?id=32537932"/>
+        <updated>2022-08-21T06:42:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Their Name Here – A place card maker to create printables in minutes]]></summary>
+        <author>
+            <name>tf2_pyro</name>
+            <uri>https://news.ycombinator.com/user?id=tf2_pyro</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個免費的獨立創始人成長策略的圓桌會議
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>dnnsthnnr</name>
             <uri>https://news.ycombinator.com/user?id=dnnsthnnr</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基於人工智能的生成工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32289632</id>
-        <link href="https://news.ycombinator.com/item?id=32289632"/>
-        <updated>2022-07-30T19:39:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: AI-Based Generation Tool]]></summary>
-        <author>
-            <name>Malazath</name>
-            <uri>https://news.ycombinator.com/user?id=Malazath</uri>
         </author>
     </entry>
 </feed>
