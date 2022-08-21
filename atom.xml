@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-21T11:57:05.324Z</updated>
+    <updated>2022-08-21T13:21:23.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[支持和验证早期创业者想法的地方
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32539657</id>
+        <link href="https://news.ycombinator.com/item?id=32539657"/>
+        <updated>2022-08-21T12:54:07.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Place to support and validate early startup ideas]]></summary>
+        <author>
+            <name>leobg</name>
+            <uri>https://news.ycombinator.com/user?id=leobg</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AwesomeCure - 分析和治疗列表
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>bwhmather</name>
             <uri>https://news.ycombinator.com/user?id=bwhmather</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[篮球运动员NFT
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32289330</id>
-        <link href="https://news.ycombinator.com/item?id=32289330"/>
-        <updated>2022-07-30T18:58:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Basketball Player NFT]]></summary>
-        <author>
-            <name>mdsami</name>
-            <uri>https://news.ycombinator.com/user?id=mdsami</uri>
         </author>
     </entry>
 </feed>
