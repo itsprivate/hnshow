@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-21T21:27:51.248Z</updated>
+    <updated>2022-08-21T22:48:16.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[甭管是XOR还是深度学习，都有一个 "罪 "的问题
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32545235</id>
+        <link href="https://news.ycombinator.com/item?id=32545235"/>
+        <updated>2022-08-21T22:42:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Nevermind XOR – Deep Learning Has an Issue with Sin]]></summary>
+        <author>
+            <name>lostmsu</name>
+            <uri>https://news.ycombinator.com/user?id=lostmsu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[即时查看即将到来的假期
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>orsifrancesco</name>
             <uri>https://news.ycombinator.com/user?id=orsifrancesco</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[带有GraphQL APIs的区块链搜索引擎
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32295973</id>
-        <link href="https://news.ycombinator.com/item?id=32295973"/>
-        <updated>2022-07-31T15:02:19.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Blockchain Search Engine with GraphQL APIs]]></summary>
-        <author>
-            <name>mrjn</name>
-            <uri>https://news.ycombinator.com/user?id=mrjn</uri>
         </author>
     </entry>
 </feed>
