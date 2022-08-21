@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-21T20:48:10.142Z</updated>
+    <updated>2022-08-21T21:27:51.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[即時查看即將到來的假期
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32544522</id>
+        <link href="https://news.ycombinator.com/item?id=32544522"/>
+        <updated>2022-08-21T21:14:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Check Upcoming Holiday Instantly]]></summary>
+        <author>
+            <name>vaninsto</name>
+            <uri>https://news.ycombinator.com/user?id=vaninsto</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用WebSockets、Postgres通知和rust的多人廢話賓果遊戲
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32544449</id>
+        <link href="https://news.ycombinator.com/item?id=32544449"/>
+        <updated>2022-08-21T21:06:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Multiplayer bullshit bingo using WebSockets, Postgres notify and rust]]></summary>
+        <author>
+            <name>jflessau</name>
+            <uri>https://news.ycombinator.com/user?id=jflessau</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[查看加拿大的下一個公共假日
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>mrjn</name>
             <uri>https://news.ycombinator.com/user?id=mrjn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snipthat.io - 保存你在瀏覽時發現的有趣文本片段
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32295594</id>
-        <link href="https://news.ycombinator.com/item?id=32295594"/>
-        <updated>2022-07-31T14:11:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Snipthat.io – save interesting text snippets you find whilst browsing]]></summary>
-        <author>
-            <name>mark_mcnally_je</name>
-            <uri>https://news.ycombinator.com/user?id=mark_mcnally_je</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個GH repo來策劃那些不要求地點的遠程工作。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32295386</id>
-        <link href="https://news.ycombinator.com/item?id=32295386"/>
-        <updated>2022-07-31T13:37:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a GH repo to curate remote jobs that don't ask for a location]]></summary>
-        <author>
-            <name>saasxyz</name>
-            <uri>https://news.ycombinator.com/user?id=saasxyz</uri>
         </author>
     </entry>
 </feed>

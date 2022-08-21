@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Sun, 21 Aug 2022 20:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 21:27:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[即时查看即将到来的假期
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32544522</link>
+            <guid>https://news.ycombinator.com/item?id=32544522</guid>
+            <pubDate>Sun, 21 Aug 2022 21:14:53 GMT</pubDate>
+            <description><![CDATA[Show HN: Check Upcoming Holiday Instantly]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用WebSockets、Postgres通知和rust的多人废话宾果游戏
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32544449</link>
+            <guid>https://news.ycombinator.com/item?id=32544449</guid>
+            <pubDate>Sun, 21 Aug 2022 21:06:53 GMT</pubDate>
+            <description><![CDATA[Show HN: Multiplayer bullshit bingo using WebSockets, Postgres notify and rust]]></description>
+        </item>
         <item>
             <title><![CDATA[查看加拿大的下一个公共假日
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32295973</guid>
             <pubDate>Sun, 31 Jul 2022 15:02:19 GMT</pubDate>
             <description><![CDATA[Show HN: Blockchain Search Engine with GraphQL APIs]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Snipthat.io - 保存你在浏览时发现的有趣文本片段
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32295594</link>
-            <guid>https://news.ycombinator.com/item?id=32295594</guid>
-            <pubDate>Sun, 31 Jul 2022 14:11:43 GMT</pubDate>
-            <description><![CDATA[Show HN: Snipthat.io – save interesting text snippets you find whilst browsing]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个GH repo来策划那些不要求地点的远程工作。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32295386</link>
-            <guid>https://news.ycombinator.com/item?id=32295386</guid>
-            <pubDate>Sun, 31 Jul 2022 13:37:56 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a GH repo to curate remote jobs that don't ask for a location]]></description>
         </item>
     </channel>
 </rss>
