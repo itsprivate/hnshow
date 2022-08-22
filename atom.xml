@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-22T19:28:55.267Z</updated>
+    <updated>2022-08-22T21:50:10.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于Jupyter的交互式分子绘图工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32557629</id>
+        <link href="https://news.ycombinator.com/item?id=32557629"/>
+        <updated>2022-08-22T21:37:31.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Interactive molecular plotting tools for Jupyter]]></summary>
+        <author>
+            <name>tshimko126</name>
+            <uri>https://news.ycombinator.com/user?id=tshimko126</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Photoshop和DeOldify，用AI给红外图像上色
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32557508</id>
+        <link href="https://news.ycombinator.com/item?id=32557508"/>
+        <updated>2022-08-22T21:27:34.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Colorizing Infrared Images with AI, Using Photoshop and DeOldify]]></summary>
+        <author>
+            <name>buildbot</name>
+            <uri>https://news.ycombinator.com/user?id=buildbot</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[给无聊的人 如何成为有趣的延伸
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>santiagobasulto</name>
             <uri>https://news.ycombinator.com/user?id=santiagobasulto</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻量级但功能强大的IT自动化工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32304043</id>
-        <link href="https://news.ycombinator.com/item?id=32304043"/>
-        <updated>2022-08-01T10:24:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lightweight yet powerful IT automation tool]]></summary>
-        <author>
-            <name>automatdeck</name>
-            <uri>https://news.ycombinator.com/user?id=automatdeck</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[开源的Typeform替代品（测试版）--snoopForms直播
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32303986</id>
-        <link href="https://news.ycombinator.com/item?id=32303986"/>
-        <updated>2022-08-01T10:16:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Open-source Typeform Alternative (beta) – snoopForms live]]></summary>
-        <author>
-            <name>beanclap</name>
-            <uri>https://news.ycombinator.com/user?id=beanclap</uri>
         </author>
     </entry>
 </feed>
