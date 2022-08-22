@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-22T14:46:25.782Z</updated>
+    <updated>2022-08-22T15:37:22.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[把你的用户界面变成一个内容管理系统
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32552632</id>
+        <link href="https://news.ycombinator.com/item?id=32552632"/>
+        <updated>2022-08-22T15:15:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Your UI into a CMS]]></summary>
+        <author>
+            <name>tiramiflex</name>
+            <uri>https://news.ycombinator.com/user?id=tiramiflex</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VSCode工作记忆 - 在一个单一的文本文件中捕获所有内容
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32552616</id>
+        <link href="https://news.ycombinator.com/item?id=32552616"/>
+        <updated>2022-08-22T15:14:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: VSCode Working Memory – Capture everything in a single text file]]></summary>
+        <author>
+            <name>atomashevic</name>
+            <uri>https://news.ycombinator.com/user?id=atomashevic</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个每日棒球预测游戏
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32552410</id>
+        <link href="https://news.ycombinator.com/item?id=32552410"/>
+        <updated>2022-08-22T14:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made a daily baseball prediction game]]></summary>
+        <author>
+            <name>failTide</name>
+            <uri>https://news.ycombinator.com/user?id=failTide</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[增长即服务主管
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>mrjn</name>
             <uri>https://news.ycombinator.com/user?id=mrjn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国际法律词典
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32301534</id>
-        <link href="https://news.ycombinator.com/item?id=32301534"/>
-        <updated>2022-08-01T03:11:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: International Legal Dictionary]]></summary>
-        <author>
-            <name>dogweather</name>
-            <uri>https://news.ycombinator.com/user?id=dogweather</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我在Python中制作了Lazy Copy工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32301334</id>
-        <link href="https://news.ycombinator.com/item?id=32301334"/>
-        <updated>2022-08-01T02:41:14.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I've made Lazy Copy tool in Python]]></summary>
-        <author>
-            <name>tor10</name>
-            <uri>https://news.ycombinator.com/user?id=tor10</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为程序员和网页设计师提供的方便的颜色选择器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32300453</id>
-        <link href="https://news.ycombinator.com/item?id=32300453"/>
-        <updated>2022-08-01T00:45:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A handy color picker for programmers and web designers]]></summary>
-        <author>
-            <name>magicmouse</name>
-            <uri>https://news.ycombinator.com/user?id=magicmouse</uri>
         </author>
     </entry>
 </feed>
