@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-22T18:01:54.267Z</updated>
+    <updated>2022-08-22T19:28:55.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[給無聊的人 如何成為有趣的延伸
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32555636</id>
+        <link href="https://news.ycombinator.com/item?id=32555636"/>
+        <updated>2022-08-22T18:56:49.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: For boring people. How to be funny extension]]></summary>
+        <author>
+            <name>massanishi</name>
+            <uri>https://news.ycombinator.com/user?id=massanishi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[面向個人的彭博終端
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>beanclap</name>
             <uri>https://news.ycombinator.com/user?id=beanclap</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goose - Clojure的後臺作業處理庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32303863</id>
-        <link href="https://news.ycombinator.com/item?id=32303863"/>
-        <updated>2022-08-01T09:56:28.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Goose – A Background Job Processing Library for Clojure]]></summary>
-        <author>
-            <name>olttwa</name>
-            <uri>https://news.ycombinator.com/user?id=olttwa</uri>
         </author>
     </entry>
 </feed>

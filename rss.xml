@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 22 Aug 2022 18:01:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 19:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[给无聊的人 如何成为有趣的延伸
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32555636</link>
+            <guid>https://news.ycombinator.com/item?id=32555636</guid>
+            <pubDate>Mon, 22 Aug 2022 18:56:49 GMT</pubDate>
+            <description><![CDATA[Show HN: For boring people. How to be funny extension]]></description>
+        </item>
         <item>
             <title><![CDATA[面向个人的彭博终端
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32303986</guid>
             <pubDate>Mon, 01 Aug 2022 10:16:14 GMT</pubDate>
             <description><![CDATA[Show HN: Open-source Typeform Alternative (beta) – snoopForms live]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Goose - Clojure的后台作业处理库
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32303863</link>
-            <guid>https://news.ycombinator.com/item?id=32303863</guid>
-            <pubDate>Mon, 01 Aug 2022 09:56:28 GMT</pubDate>
-            <description><![CDATA[Show HN: Goose – A Background Job Processing Library for Clojure]]></description>
         </item>
     </channel>
 </rss>
