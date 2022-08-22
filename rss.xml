@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 22 Aug 2022 17:50:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 18:01:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[面向个人的彭博终端
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32554793</link>
+            <guid>https://news.ycombinator.com/item?id=32554793</guid>
+            <pubDate>Mon, 22 Aug 2022 17:47:40 GMT</pubDate>
+            <description><![CDATA[Show HN: Bloomberg Terminal for Individuals]]></description>
+        </item>
+        <item>
+            <title><![CDATA[询问密码学，一个讨论密码学研究论文的平台
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32554695</link>
+            <guid>https://news.ycombinator.com/item?id=32554695</guid>
+            <pubDate>Mon, 22 Aug 2022 17:39:46 GMT</pubDate>
+            <description><![CDATA[Show HN: Ask Cryptography, a platform to discuss cryptography research papers]]></description>
+        </item>
         <item>
             <title><![CDATA[令人敬畏--《大都会》杂志
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32303863</guid>
             <pubDate>Mon, 01 Aug 2022 09:56:28 GMT</pubDate>
             <description><![CDATA[Show HN: Goose – A Background Job Processing Library for Clojure]]></description>
-        </item>
-        <item>
-            <title><![CDATA[通过透明压缩将SQLite数据库的大小减少到80%。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32303762</link>
-            <guid>https://news.ycombinator.com/item?id=32303762</guid>
-            <pubDate>Mon, 01 Aug 2022 09:36:16 GMT</pubDate>
-            <description><![CDATA[Show HN: Reduce SQLite database size by up to 80% with transparent compression]]></description>
-        </item>
-        <item>
-            <title><![CDATA[白色标签的任何网页
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32303337</link>
-            <guid>https://news.ycombinator.com/item?id=32303337</guid>
-            <pubDate>Mon, 01 Aug 2022 08:12:40 GMT</pubDate>
-            <description><![CDATA[Show HN: White Label Any Webpage]]></description>
         </item>
     </channel>
 </rss>

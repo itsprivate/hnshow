@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-22T17:50:10.521Z</updated>
+    <updated>2022-08-22T18:01:54.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[面向个人的彭博终端
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32554793</id>
+        <link href="https://news.ycombinator.com/item?id=32554793"/>
+        <updated>2022-08-22T17:47:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bloomberg Terminal for Individuals]]></summary>
+        <author>
+            <name>krxhna</name>
+            <uri>https://news.ycombinator.com/user?id=krxhna</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[询问密码学，一个讨论密码学研究论文的平台
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32554695</id>
+        <link href="https://news.ycombinator.com/item?id=32554695"/>
+        <updated>2022-08-22T17:39:46.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Ask Cryptography, a platform to discuss cryptography research papers]]></summary>
+        <author>
+            <name>talayhan_a</name>
+            <uri>https://news.ycombinator.com/user?id=talayhan_a</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[令人敬畏--《大都会》杂志
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>olttwa</name>
             <uri>https://news.ycombinator.com/user?id=olttwa</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过透明压缩将SQLite数据库的大小减少到80%。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32303762</id>
-        <link href="https://news.ycombinator.com/item?id=32303762"/>
-        <updated>2022-08-01T09:36:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Reduce SQLite database size by up to 80% with transparent compression]]></summary>
-        <author>
-            <name>phiresky</name>
-            <uri>https://news.ycombinator.com/user?id=phiresky</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[白色标签的任何网页
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32303337</id>
-        <link href="https://news.ycombinator.com/item?id=32303337"/>
-        <updated>2022-08-01T08:12:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: White Label Any Webpage]]></summary>
-        <author>
-            <name>motyar</name>
-            <uri>https://news.ycombinator.com/user?id=motyar</uri>
         </author>
     </entry>
 </feed>
