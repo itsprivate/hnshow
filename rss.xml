@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 22 Aug 2022 02:41:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 04:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用lxc容器在本地安装Gitlab
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32547070</link>
+            <guid>https://news.ycombinator.com/item?id=32547070</guid>
+            <pubDate>Mon, 22 Aug 2022 03:41:23 GMT</pubDate>
+            <description><![CDATA[Show HN: Install Gitlab locally with lxc container]]></description>
+        </item>
+        <item>
+            <title><![CDATA[什么是Docker（在Docker）^n
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32546943</link>
+            <guid>https://news.ycombinator.com/item?id=32546943</guid>
+            <pubDate>Mon, 22 Aug 2022 03:20:16 GMT</pubDate>
+            <description><![CDATA[Show HN: What is Docker (in Docker)^n]]></description>
+        </item>
         <item>
             <title><![CDATA[VDP - 开源的非结构化可视化数据ETL
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32293178</guid>
             <pubDate>Sun, 31 Jul 2022 04:27:41 GMT</pubDate>
             <description><![CDATA[Show HN: I've been making JavaScript sandbox alone for 6 years]]></description>
-        </item>
-        <item>
-            <title><![CDATA[普通拼图，一个免费的拼图游戏，灵感来自于毕加索和数独。
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32297097</link>
-            <guid>https://news.ycombinator.com/item?id=32297097</guid>
-            <pubDate>Sun, 31 Jul 2022 17:31:36 GMT</pubDate>
-            <description><![CDATA[Show HN: Ordinary Puzzles, a free puzzle game inspired by Picross and Sudoku]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Isla - 任务管理的Calendly
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32297005</link>
-            <guid>https://news.ycombinator.com/item?id=32297005</guid>
-            <pubDate>Sun, 31 Jul 2022 17:15:09 GMT</pubDate>
-            <description><![CDATA[Show HN: Isla – Calendly for Task Management]]></description>
         </item>
     </channel>
 </rss>

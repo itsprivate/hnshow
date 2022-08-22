@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-22T02:41:28.847Z</updated>
+    <updated>2022-08-22T04:22:31.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用lxc容器在本地安装Gitlab
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32547070</id>
+        <link href="https://news.ycombinator.com/item?id=32547070"/>
+        <updated>2022-08-22T03:41:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Install Gitlab locally with lxc container]]></summary>
+        <author>
+            <name>ravish0007</name>
+            <uri>https://news.ycombinator.com/user?id=ravish0007</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是Docker（在Docker）^n
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32546943</id>
+        <link href="https://news.ycombinator.com/item?id=32546943"/>
+        <updated>2022-08-22T03:20:16.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: What is Docker (in Docker)^n]]></summary>
+        <author>
+            <name>SCLeo</name>
+            <uri>https://news.ycombinator.com/user?id=SCLeo</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VDP - 开源的非结构化可视化数据ETL
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>ianberdin</name>
             <uri>https://news.ycombinator.com/user?id=ianberdin</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[普通拼图，一个免费的拼图游戏，灵感来自于毕加索和数独。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32297097</id>
-        <link href="https://news.ycombinator.com/item?id=32297097"/>
-        <updated>2022-07-31T17:31:36.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Ordinary Puzzles, a free puzzle game inspired by Picross and Sudoku]]></summary>
-        <author>
-            <name>mmazzarolo</name>
-            <uri>https://news.ycombinator.com/user?id=mmazzarolo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Isla - 任务管理的Calendly
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32297005</id>
-        <link href="https://news.ycombinator.com/item?id=32297005"/>
-        <updated>2022-07-31T17:15:09.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Isla – Calendly for Task Management]]></summary>
-        <author>
-            <name>rbellon</name>
-            <uri>https://news.ycombinator.com/user?id=rbellon</uri>
         </author>
     </entry>
 </feed>
