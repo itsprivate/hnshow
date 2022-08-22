@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-22T13:01:15.722Z</updated>
+    <updated>2022-08-22T14:01:02.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于生成PDF的C#库得到重新设计的文档（QuestPDF）
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32551058</id>
+        <link href="https://news.ycombinator.com/item?id=32551058"/>
+        <updated>2022-08-22T13:29:40.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: C# library for PDF generation got redesigned documentation (QuestPDF)]]></summary>
+        <author>
+            <name>MarcinZiabek</name>
+            <uri>https://news.ycombinator.com/user?id=MarcinZiabek</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个浏览器扩展，将类似的标签和书签放在一起
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32551014</id>
+        <link href="https://news.ycombinator.com/item?id=32551014"/>
+        <updated>2022-08-22T13:25:57.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A browser extension that places similar tabs and bookmarks together]]></summary>
+        <author>
+            <name>Al_Ptr</name>
+            <uri>https://news.ycombinator.com/user?id=Al_Ptr</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Norns AI - 自动研究和编写个性化的电子邮件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32550667</id>
+        <link href="https://news.ycombinator.com/item?id=32550667"/>
+        <updated>2022-08-22T12:55:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Norns AI – automated research and writing personalized emails]]></summary>
+        <author>
+            <name>holgerine</name>
+            <uri>https://news.ycombinator.com/user?id=holgerine</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MooovR - 将文件复制到多个位置的高性能工具
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>jfoster</name>
             <uri>https://news.ycombinator.com/user?id=jfoster</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面向大数据的Reduct存储系列数据库
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32299469</id>
-        <link href="https://news.ycombinator.com/item?id=32299469"/>
-        <updated>2022-07-31T22:28:50.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Reduct Storage-series database for big data]]></summary>
-        <author>
-            <name>flipback</name>
-            <uri>https://news.ycombinator.com/user?id=flipback</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polygonle - 以形状的形式提供额外线索的Wordle
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32299148</id>
-        <link href="https://news.ycombinator.com/item?id=32299148"/>
-        <updated>2022-07-31T21:43:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Polygonle – Wordle with an extra clue in the form of shapes]]></summary>
-        <author>
-            <name>grantismo</name>
-            <uri>https://news.ycombinator.com/user?id=grantismo</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[测试你的技术知识
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32297763</id>
-        <link href="https://news.ycombinator.com/item?id=32297763"/>
-        <updated>2022-07-31T18:52:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Test Your Tech Knowledge]]></summary>
-        <author>
-            <name>moochee</name>
-            <uri>https://news.ycombinator.com/user?id=moochee</uri>
         </author>
     </entry>
 </feed>

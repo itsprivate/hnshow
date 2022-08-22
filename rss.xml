@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 22 Aug 2022 13:01:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 14:01:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用于生成PDF的C#库得到重新设计的文档（QuestPDF）
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32551058</link>
+            <guid>https://news.ycombinator.com/item?id=32551058</guid>
+            <pubDate>Mon, 22 Aug 2022 13:29:40 GMT</pubDate>
+            <description><![CDATA[Show HN: C# library for PDF generation got redesigned documentation (QuestPDF)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[一个浏览器扩展，将类似的标签和书签放在一起
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32551014</link>
+            <guid>https://news.ycombinator.com/item?id=32551014</guid>
+            <pubDate>Mon, 22 Aug 2022 13:25:57 GMT</pubDate>
+            <description><![CDATA[Show HN: A browser extension that places similar tabs and bookmarks together]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Norns AI - 自动研究和编写个性化的电子邮件
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32550667</link>
+            <guid>https://news.ycombinator.com/item?id=32550667</guid>
+            <pubDate>Mon, 22 Aug 2022 12:55:37 GMT</pubDate>
+            <description><![CDATA[Show HN: Norns AI – automated research and writing personalized emails]]></description>
+        </item>
         <item>
             <title><![CDATA[MooovR - 将文件复制到多个位置的高性能工具
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32299509</guid>
             <pubDate>Sun, 31 Jul 2022 22:35:07 GMT</pubDate>
             <description><![CDATA[Show HN: Tock Timer – Simple web-based timer]]></description>
-        </item>
-        <item>
-            <title><![CDATA[面向大数据的Reduct存储系列数据库
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32299469</link>
-            <guid>https://news.ycombinator.com/item?id=32299469</guid>
-            <pubDate>Sun, 31 Jul 2022 22:28:50 GMT</pubDate>
-            <description><![CDATA[Show HN: Reduct Storage-series database for big data]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Polygonle - 以形状的形式提供额外线索的Wordle
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32299148</link>
-            <guid>https://news.ycombinator.com/item?id=32299148</guid>
-            <pubDate>Sun, 31 Jul 2022 21:43:41 GMT</pubDate>
-            <description><![CDATA[Show HN: Polygonle – Wordle with an extra clue in the form of shapes]]></description>
-        </item>
-        <item>
-            <title><![CDATA[测试你的技术知识
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32297763</link>
-            <guid>https://news.ycombinator.com/item?id=32297763</guid>
-            <pubDate>Sun, 31 Jul 2022 18:52:55 GMT</pubDate>
-            <description><![CDATA[Show HN: Test Your Tech Knowledge]]></description>
         </item>
     </channel>
 </rss>
