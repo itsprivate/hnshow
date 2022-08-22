@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-22T09:48:41.593Z</updated>
+    <updated>2022-08-22T13:01:15.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[MooovR - 將文件複製到多個位置的高性能工具
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32550338</id>
+        <link href="https://news.ycombinator.com/item?id=32550338"/>
+        <updated>2022-08-22T12:23:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MooovR - High Performance Tool to Copy Files to Multiple Locations]]></summary>
+        <author>
+            <name>isuleman</name>
+            <uri>https://news.ycombinator.com/user?id=isuleman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MatchHostFsOwner：解決Docker主機文件系統所有者匹配問題
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32550331</id>
+        <link href="https://news.ycombinator.com/item?id=32550331"/>
+        <updated>2022-08-22T12:21:55.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: MatchHostFsOwner: solves Docker host filesystem owner matching problem]]></summary>
+        <author>
+            <name>FooBarWidget</name>
+            <uri>https://news.ycombinator.com/user?id=FooBarWidget</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inlyne，一個由GPU驅動、無瀏覽器的Markdown預覽器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32550198</id>
+        <link href="https://news.ycombinator.com/item?id=32550198"/>
+        <updated>2022-08-22T12:04:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Inlyne, a GPU powered, browser-less, Markdown previewer]]></summary>
+        <author>
+            <name>trimental</name>
+            <uri>https://news.ycombinator.com/user?id=trimental</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[錄製視頻和整理視頻信息的地方
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>moochee</name>
             <uri>https://news.ycombinator.com/user?id=moochee</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用GPT3從1行的想法中生成Pitch decks
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32297559</id>
-        <link href="https://news.ycombinator.com/item?id=32297559"/>
-        <updated>2022-07-31T18:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Generate pitch decks using GPT3 from 1-line ideas]]></summary>
-        <author>
-            <name>diwank</name>
-            <uri>https://news.ycombinator.com/user?id=diwank</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Presbot，用聊天機器人創造30%以上的線索
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32297491</id>
-        <link href="https://news.ycombinator.com/item?id=32297491"/>
-        <updated>2022-07-31T18:22:42.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Presbot, generate 30% more leads with a chatbot]]></summary>
-        <author>
-            <name>tumidpandora</name>
-            <uri>https://news.ycombinator.com/user?id=tumidpandora</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一個所見即所得的Markdown編輯器和網絡上的頭腦風暴工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32297437</id>
-        <link href="https://news.ycombinator.com/item?id=32297437"/>
-        <updated>2022-07-31T18:18:17.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A WYSIWYM Markdown editor and brainstorming tool on the web]]></summary>
-        <author>
-            <name>tkvishal</name>
-            <uri>https://news.ycombinator.com/user?id=tkvishal</uri>
         </author>
     </entry>
 </feed>

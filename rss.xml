@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Mon, 22 Aug 2022 09:48:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 13:01:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,30 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[MooovR - 将文件复制到多个位置的高性能工具
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32550338</link>
+            <guid>https://news.ycombinator.com/item?id=32550338</guid>
+            <pubDate>Mon, 22 Aug 2022 12:23:08 GMT</pubDate>
+            <description><![CDATA[Show HN: MooovR - High Performance Tool to Copy Files to Multiple Locations]]></description>
+        </item>
+        <item>
+            <title><![CDATA[MatchHostFsOwner：解决Docker主机文件系统所有者匹配问题
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32550331</link>
+            <guid>https://news.ycombinator.com/item?id=32550331</guid>
+            <pubDate>Mon, 22 Aug 2022 12:21:55 GMT</pubDate>
+            <description><![CDATA[Show HN: MatchHostFsOwner: solves Docker host filesystem owner matching problem]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Inlyne，一个由GPU驱动、无浏览器的Markdown预览器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32550198</link>
+            <guid>https://news.ycombinator.com/item?id=32550198</guid>
+            <pubDate>Mon, 22 Aug 2022 12:04:17 GMT</pubDate>
+            <description><![CDATA[Show HN: Inlyne, a GPU powered, browser-less, Markdown previewer]]></description>
+        </item>
         <item>
             <title><![CDATA[录制视频和整理视频信息的地方
 ]]></title>
@@ -4789,30 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32297763</guid>
             <pubDate>Sun, 31 Jul 2022 18:52:55 GMT</pubDate>
             <description><![CDATA[Show HN: Test Your Tech Knowledge]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用GPT3从1行的想法中生成Pitch decks
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32297559</link>
-            <guid>https://news.ycombinator.com/item?id=32297559</guid>
-            <pubDate>Sun, 31 Jul 2022 18:30:20 GMT</pubDate>
-            <description><![CDATA[Show HN: Generate pitch decks using GPT3 from 1-line ideas]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Presbot，用聊天机器人创造30%以上的线索
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32297491</link>
-            <guid>https://news.ycombinator.com/item?id=32297491</guid>
-            <pubDate>Sun, 31 Jul 2022 18:22:42 GMT</pubDate>
-            <description><![CDATA[Show HN: Presbot, generate 30% more leads with a chatbot]]></description>
-        </item>
-        <item>
-            <title><![CDATA[一个所见即所得的Markdown编辑器和网络上的头脑风暴工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32297437</link>
-            <guid>https://news.ycombinator.com/item?id=32297437</guid>
-            <pubDate>Sun, 31 Jul 2022 18:18:17 GMT</pubDate>
-            <description><![CDATA[Show HN: A WYSIWYM Markdown editor and brainstorming tool on the web]]></description>
         </item>
     </channel>
 </rss>
