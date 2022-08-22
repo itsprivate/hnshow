@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-22T16:43:42.802Z</updated>
+    <updated>2022-08-22T17:50:10.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,42 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[令人敬畏--《大都會》雜誌
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32554373</id>
+        <link href="https://news.ycombinator.com/item?id=32554373"/>
+        <updated>2022-08-22T17:16:37.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Awesome-Cosmopolitan]]></summary>
+        <author>
+            <name>grimgrin</name>
+            <uri>https://news.ycombinator.com/user?id=grimgrin</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於低代碼數據管理的在線SQL客戶端
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32553827</id>
+        <link href="https://news.ycombinator.com/item?id=32553827"/>
+        <updated>2022-08-22T16:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Online SQL Client for low code data management]]></summary>
+        <author>
+            <name>pavlo-paska</name>
+            <uri>https://news.ycombinator.com/user?id=pavlo-paska</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用於產品包裝的WebGL光線追蹤（僅限桌面）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32553575</id>
+        <link href="https://news.ycombinator.com/item?id=32553575"/>
+        <updated>2022-08-22T16:18:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: WebGL Ray-Tracing for product packshots (Desktop Only)]]></summary>
+        <author>
+            <name>wsxiaoys</name>
+            <uri>https://news.ycombinator.com/user?id=wsxiaoys</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[為資助我的教育而收集的最大的Pitch deck、視頻和備忘錄
 ]]></title>
@@ -7177,42 +7213,6 @@
         <author>
             <name>motyar</name>
             <uri>https://news.ycombinator.com/user?id=motyar</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支持SQL的API網關，用Go編寫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32302993</id>
-        <link href="https://news.ycombinator.com/item?id=32302993"/>
-        <updated>2022-08-01T07:11:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: API Gateway with SQL support, written in Go]]></summary>
-        <author>
-            <name>muhammadn</name>
-            <uri>https://news.ycombinator.com/user?id=muhammadn</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何測試STUN/TURN服務器是否正常工作
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32302841</id>
-        <link href="https://news.ycombinator.com/item?id=32302841"/>
-        <updated>2022-08-01T06:45:41.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: How to test whether a STUN/TURN server is working properly]]></summary>
-        <author>
-            <name>mp85</name>
-            <uri>https://news.ycombinator.com/user?id=mp85</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免費的自定義光標庫
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32302672</id>
-        <link href="https://news.ycombinator.com/item?id=32302672"/>
-        <updated>2022-08-01T06:15:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Free Custom Cursor Library]]></summary>
-        <author>
-            <name>taylonchan</name>
-            <uri>https://news.ycombinator.com/user?id=taylonchan</uri>
         </author>
     </entry>
 </feed>
