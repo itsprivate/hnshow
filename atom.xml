@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-22T14:01:02.329Z</updated>
+    <updated>2022-08-22T14:46:25.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[增长即服务主管
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32551870</id>
+        <link href="https://news.ycombinator.com/item?id=32551870"/>
+        <updated>2022-08-22T14:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Head of Growth as a Service]]></summary>
+        <author>
+            <name>Biba1989</name>
+            <uri>https://news.ycombinator.com/user?id=Biba1989</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digs.fm - 为热情的音乐探索者而设（类似于Goodreads，但针对音乐）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32551862</id>
+        <link href="https://news.ycombinator.com/item?id=32551862"/>
+        <updated>2022-08-22T14:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Digs.fm – For passionate music explorers (like Goodreads but for music)]]></summary>
+        <author>
+            <name>throwaway874839</name>
+            <uri>https://news.ycombinator.com/user?id=throwaway874839</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于生成PDF的C#库得到重新设计的文档（QuestPDF）
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>magicmouse</name>
             <uri>https://news.ycombinator.com/user?id=magicmouse</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rentaflop - 渲染你的Blender项目而不牺牲质量
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32299674</id>
-        <link href="https://news.ycombinator.com/item?id=32299674"/>
-        <updated>2022-07-31T22:59:26.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Rentaflop – Render your Blender projects without sacrificing quality]]></summary>
-        <author>
-            <name>dasokol112358</name>
-            <uri>https://news.ycombinator.com/user?id=dasokol112358</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tock Timer - 简单的基于网络的定时器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32299509</id>
-        <link href="https://news.ycombinator.com/item?id=32299509"/>
-        <updated>2022-07-31T22:35:07.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tock Timer – Simple web-based timer]]></summary>
-        <author>
-            <name>jfoster</name>
-            <uri>https://news.ycombinator.com/user?id=jfoster</uri>
         </author>
     </entry>
 </feed>
