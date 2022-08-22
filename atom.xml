@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-22T06:02:47.547Z</updated>
+    <updated>2022-08-22T09:48:41.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[录制视频和整理视频信息的地方
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32549275</id>
+        <link href="https://news.ycombinator.com/item?id=32549275"/>
+        <updated>2022-08-22T09:38:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The place to record videos and get video messages organized]]></summary>
+        <author>
+            <name>wenqing-</name>
+            <uri>https://news.ycombinator.com/user?id=wenqing-</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何轻松找到AWS上的Access Key机密数据
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>tkvishal</name>
             <uri>https://news.ycombinator.com/user?id=tkvishal</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logto Next.js SDK--用寒冰构建用户认证
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32297355</id>
-        <link href="https://news.ycombinator.com/item?id=32297355"/>
-        <updated>2022-07-31T18:09:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Logto Next.js SDK – Build user auth with chill]]></summary>
-        <author>
-            <name>pseudopuppet</name>
-            <uri>https://news.ycombinator.com/user?id=pseudopuppet</uri>
         </author>
     </entry>
 </feed>
