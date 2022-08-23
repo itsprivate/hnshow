@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-23T15:35:31.978Z</updated>
+    <updated>2022-08-23T16:49:40.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[ZORP - 面向內部團隊的本地安卓和iOS應用程序構建器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32567389</id>
+        <link href="https://news.ycombinator.com/item?id=32567389"/>
+        <updated>2022-08-23T16:32:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ZORP – Native Android and iOS app builder for internal teams]]></summary>
+        <author>
+            <name>balaselvam</name>
+            <uri>https://news.ycombinator.com/user?id=balaselvam</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從圖像和傳感器看iPhone的方向
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32567210</id>
+        <link href="https://news.ycombinator.com/item?id=32567210"/>
+        <updated>2022-08-23T16:21:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: iPhone Orientation from Images and Sensors]]></summary>
+        <author>
+            <name>azarnyx</name>
+            <uri>https://news.ycombinator.com/user?id=azarnyx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自動PTT - 語音激活的推送式通話
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>onmyway133</name>
             <uri>https://news.ycombinator.com/user?id=onmyway133</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我做了一個Telegram機器人來獲取Raspberry Pi的 "進貨 "通知
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32311361</id>
-        <link href="https://news.ycombinator.com/item?id=32311361"/>
-        <updated>2022-08-01T20:03:56.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I made a Telegram bot to get Raspberry Pi “in-stock” notification]]></summary>
-        <author>
-            <name>sschueller</name>
-            <uri>https://news.ycombinator.com/user?id=sschueller</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WebDefense - 使用基於AI/ML的檢測阻止惡意網站
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32311327</id>
-        <link href="https://news.ycombinator.com/item?id=32311327"/>
-        <updated>2022-08-01T20:00:58.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: WebDefense – Block malicious websites using AI/ML-based detection]]></summary>
-        <author>
-            <name>vineetrf</name>
-            <uri>https://news.ycombinator.com/user?id=vineetrf</uri>
         </author>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 23 Aug 2022 15:35:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 16:49:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[ZORP - 面向内部团队的本地安卓和iOS应用程序构建器
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32567389</link>
+            <guid>https://news.ycombinator.com/item?id=32567389</guid>
+            <pubDate>Tue, 23 Aug 2022 16:32:43 GMT</pubDate>
+            <description><![CDATA[Show HN: ZORP – Native Android and iOS app builder for internal teams]]></description>
+        </item>
+        <item>
+            <title><![CDATA[从图像和传感器看iPhone的方向
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32567210</link>
+            <guid>https://news.ycombinator.com/item?id=32567210</guid>
+            <pubDate>Tue, 23 Aug 2022 16:21:17 GMT</pubDate>
+            <description><![CDATA[Show HN: iPhone Orientation from Images and Sensors]]></description>
+        </item>
         <item>
             <title><![CDATA[自动PTT - 语音激活的推送式通话
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32311739</guid>
             <pubDate>Mon, 01 Aug 2022 20:38:10 GMT</pubDate>
             <description><![CDATA[Show HN: I'm making Codelime to create beautiful code snippet screenshot]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我做了一个Telegram机器人来获取Raspberry Pi的 "进货 "通知
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32311361</link>
-            <guid>https://news.ycombinator.com/item?id=32311361</guid>
-            <pubDate>Mon, 01 Aug 2022 20:03:56 GMT</pubDate>
-            <description><![CDATA[Show HN: I made a Telegram bot to get Raspberry Pi “in-stock” notification]]></description>
-        </item>
-        <item>
-            <title><![CDATA[WebDefense - 使用基于AI/ML的检测阻止恶意网站
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32311327</link>
-            <guid>https://news.ycombinator.com/item?id=32311327</guid>
-            <pubDate>Mon, 01 Aug 2022 20:00:58 GMT</pubDate>
-            <description><![CDATA[Show HN: WebDefense – Block malicious websites using AI/ML-based detection]]></description>
         </item>
     </channel>
 </rss>
