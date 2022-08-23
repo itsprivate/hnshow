@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-23T12:57:41.965Z</updated>
+    <updated>2022-08-23T13:53:46.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Stylemapper - 一种更好的方式来样式React组件
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32564279</id>
+        <link href="https://news.ycombinator.com/item?id=32564279"/>
+        <updated>2022-08-23T13:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Stylemapper – A better way to style React components]]></summary>
+        <author>
+            <name>ivome</name>
+            <uri>https://news.ycombinator.com/user?id=ivome</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[火箭 - 每个人都可以为网站编码（使用网络标准）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mhogomchungu</name>
             <uri>https://news.ycombinator.com/user?id=mhogomchungu</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EchoRecipes - 一个烹饪的虚拟助手
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32310115</id>
-        <link href="https://news.ycombinator.com/item?id=32310115"/>
-        <updated>2022-08-01T18:20:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: EchoRecipes – A Virtual Assistant for Cooking]]></summary>
-        <author>
-            <name>bmease</name>
-            <uri>https://news.ycombinator.com/user?id=bmease</uri>
         </author>
     </entry>
 </feed>
