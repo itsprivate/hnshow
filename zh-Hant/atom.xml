@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-23T16:49:40.746Z</updated>
+    <updated>2022-08-23T17:12:51.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Opensquare的NFT商店生成器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32567688</id>
+        <link href="https://news.ycombinator.com/item?id=32567688"/>
+        <updated>2022-08-23T16:53:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Opensquare's NFT Shop Builder]]></summary>
+        <author>
+            <name>dario-fino</name>
+            <uri>https://news.ycombinator.com/user?id=dario-fino</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZORP - 面向內部團隊的本地安卓和iOS應用程序構建器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>seinecle</name>
             <uri>https://news.ycombinator.com/user?id=seinecle</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我正在製作Codelime，以創建漂亮的代碼片段截圖
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32311739</id>
-        <link href="https://news.ycombinator.com/item?id=32311739"/>
-        <updated>2022-08-01T20:38:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: I'm making Codelime to create beautiful code snippet screenshot]]></summary>
-        <author>
-            <name>onmyway133</name>
-            <uri>https://news.ycombinator.com/user?id=onmyway133</uri>
         </author>
     </entry>
 </feed>
