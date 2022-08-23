@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-23T17:43:51.942Z</updated>
+    <updated>2022-08-23T17:59:07.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[开源的Alt Text Twitter Bot
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32568321</id>
+        <link href="https://news.ycombinator.com/item?id=32568321"/>
+        <updated>2022-08-23T17:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: An Open Source Alt Text Twitter Bot]]></summary>
+        <author>
+            <name>hannah-pdx</name>
+            <uri>https://news.ycombinator.com/user?id=hannah-pdx</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PGenie - Postgres的SQL-to-SDK代码，就像REST的OpenAPI一样。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>erulabs</name>
             <uri>https://news.ycombinator.com/user?id=erulabs</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[适合忙碌人士的个人生产力工作区
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32312413</id>
-        <link href="https://news.ycombinator.com/item?id=32312413"/>
-        <updated>2022-08-01T21:42:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Personal productivity workspace for busy people]]></summary>
-        <author>
-            <name>chernobai</name>
-            <uri>https://news.ycombinator.com/user?id=chernobai</uri>
         </author>
     </entry>
 </feed>

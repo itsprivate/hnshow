@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 23 Aug 2022 17:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 17:59:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[开源的Alt Text Twitter Bot
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32568321</link>
+            <guid>https://news.ycombinator.com/item?id=32568321</guid>
+            <pubDate>Tue, 23 Aug 2022 17:38:23 GMT</pubDate>
+            <description><![CDATA[Show HN: An Open Source Alt Text Twitter Bot]]></description>
+        </item>
         <item>
             <title><![CDATA[PGenie - Postgres的SQL-to-SDK代码，就像REST的OpenAPI一样。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32313242</guid>
             <pubDate>Mon, 01 Aug 2022 23:04:20 GMT</pubDate>
             <description><![CDATA[Show HN: PiBox: a tiny personal server for self-hosting]]></description>
-        </item>
-        <item>
-            <title><![CDATA[适合忙碌人士的个人生产力工作区
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32312413</link>
-            <guid>https://news.ycombinator.com/item?id=32312413</guid>
-            <pubDate>Mon, 01 Aug 2022 21:42:53 GMT</pubDate>
-            <description><![CDATA[Show HN: Personal productivity workspace for busy people]]></description>
         </item>
     </channel>
 </rss>
