@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-23T07:35:38.358Z</updated>
+    <updated>2022-08-23T07:49:52.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于机器学习模型的Docker
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32561701</id>
+        <link href="https://news.ycombinator.com/item?id=32561701"/>
+        <updated>2022-08-23T07:43:03.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Docker for Machine Learning Models]]></summary>
+        <author>
+            <name>gaocegege</name>
+            <uri>https://news.ycombinator.com/user?id=gaocegege</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Treeche，用于JavaScript/TypeScript应用的树形可动摇检查器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>SuDa2103</name>
             <uri>https://news.ycombinator.com/user?id=SuDa2103</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ProxSNI，一个为自营商提供的透明HTTPS隧道
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32307619</id>
-        <link href="https://news.ycombinator.com/item?id=32307619"/>
-        <updated>2022-08-01T15:39:55.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ProxSNI, a transparent HTTPS tunnel for self-hosters]]></summary>
-        <author>
-            <name>TrostN</name>
-            <uri>https://news.ycombinator.com/user?id=TrostN</uri>
         </author>
     </entry>
 </feed>

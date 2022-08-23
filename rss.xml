@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 23 Aug 2022 07:35:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 07:49:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[用于机器学习模型的Docker
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32561701</link>
+            <guid>https://news.ycombinator.com/item?id=32561701</guid>
+            <pubDate>Tue, 23 Aug 2022 07:43:03 GMT</pubDate>
+            <description><![CDATA[Show HN: Docker for Machine Learning Models]]></description>
+        </item>
         <item>
             <title><![CDATA[Treeche，用于JavaScript/TypeScript应用的树形可动摇检查器
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32308065</guid>
             <pubDate>Mon, 01 Aug 2022 16:04:47 GMT</pubDate>
             <description><![CDATA[Show HN: Newbies Crypto – your first steps into Web3]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ProxSNI，一个为自营商提供的透明HTTPS隧道
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32307619</link>
-            <guid>https://news.ycombinator.com/item?id=32307619</guid>
-            <pubDate>Mon, 01 Aug 2022 15:39:55 GMT</pubDate>
-            <description><![CDATA[Show HN: ProxSNI, a transparent HTTPS tunnel for self-hosters]]></description>
         </item>
     </channel>
 </rss>
