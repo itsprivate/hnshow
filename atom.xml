@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-23T11:29:16.812Z</updated>
+    <updated>2022-08-23T11:46:12.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Showcqt-JS - 一个JavaScript音频可视化引擎库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32563311</id>
+        <link href="https://news.ycombinator.com/item?id=32563311"/>
+        <updated>2022-08-23T11:37:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Showcqt-JS – a JavaScript audio visualization engine library]]></summary>
+        <author>
+            <name>mfcc64</name>
+            <uri>https://news.ycombinator.com/user?id=mfcc64</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一键式网站将你绊倒在有用的网站上
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>betareducer</name>
             <uri>https://news.ycombinator.com/user?id=betareducer</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用汉密尔顿和潘德拉进行轻量级数据质量检查
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32309905</id>
-        <link href="https://news.ycombinator.com/item?id=32309905"/>
-        <updated>2022-08-01T18:06:59.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Lightweight Data Quality checks with Hamilton & Pandera]]></summary>
-        <author>
-            <name>krawczstef</name>
-            <uri>https://news.ycombinator.com/user?id=krawczstef</uri>
         </author>
     </entry>
 </feed>
