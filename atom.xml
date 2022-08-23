@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-23T14:34:03.774Z</updated>
+    <updated>2022-08-23T15:00:23.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[GitTrends - 找出你在GitHub上的流行趋势
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32565796</id>
+        <link href="https://news.ycombinator.com/item?id=32565796"/>
+        <updated>2022-08-23T14:54:38.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: GitTrends – Find out when you're trending on GitHub]]></summary>
+        <author>
+            <name>htahir111</name>
+            <uri>https://news.ycombinator.com/user?id=htahir111</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Glue - 作为DAG的Pandas（现在是一个网络应用）。
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rateyourboss</name>
             <uri>https://news.ycombinator.com/user?id=rateyourboss</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用你的预算进行机器学习
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32310621</id>
-        <link href="https://news.ycombinator.com/item?id=32310621"/>
-        <updated>2022-08-01T18:59:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Machine learning using your budget]]></summary>
-        <author>
-            <name>athomasg</name>
-            <uri>https://news.ycombinator.com/user?id=athomasg</uri>
         </author>
     </entry>
 </feed>

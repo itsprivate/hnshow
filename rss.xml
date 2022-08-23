@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 23 Aug 2022 14:34:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 15:00:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[GitTrends - 找出你在GitHub上的流行趋势
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32565796</link>
+            <guid>https://news.ycombinator.com/item?id=32565796</guid>
+            <pubDate>Tue, 23 Aug 2022 14:54:38 GMT</pubDate>
+            <description><![CDATA[Show HN: GitTrends – Find out when you're trending on GitHub]]></description>
+        </item>
         <item>
             <title><![CDATA[Glue - 作为DAG的Pandas（现在是一个网络应用）。
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32310947</guid>
             <pubDate>Mon, 01 Aug 2022 19:28:08 GMT</pubDate>
             <description><![CDATA[Show HN: RateYourBoss – give anonymous feedback to your managers]]></description>
-        </item>
-        <item>
-            <title><![CDATA[使用你的预算进行机器学习
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32310621</link>
-            <guid>https://news.ycombinator.com/item?id=32310621</guid>
-            <pubDate>Mon, 01 Aug 2022 18:59:57 GMT</pubDate>
-            <description><![CDATA[Show HN: Machine learning using your budget]]></description>
         </item>
     </channel>
 </rss>
