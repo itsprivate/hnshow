@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-22T21:50:10.484Z</updated>
+    <updated>2022-08-23T02:53:47.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[另一个Tailscale竞争者
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32558723</id>
+        <link href="https://news.ycombinator.com/item?id=32558723"/>
+        <updated>2022-08-22T23:38:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Another Tailscale Competitor]]></summary>
+        <author>
+            <name>balaa</name>
+            <uri>https://news.ycombinator.com/user?id=balaa</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用于Jupyter的交互式分子绘图工具
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>emeth</name>
             <uri>https://news.ycombinator.com/user?id=emeth</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年7月HN的热门职位
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32304086</id>
-        <link href="https://news.ycombinator.com/item?id=32304086"/>
-        <updated>2022-08-01T10:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Top HN Posts July 2022]]></summary>
-        <author>
-            <name>santiagobasulto</name>
-            <uri>https://news.ycombinator.com/user?id=santiagobasulto</uri>
         </author>
     </entry>
 </feed>
