@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-23T02:53:47.975Z</updated>
+    <updated>2022-08-23T05:50:42.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[一個用於-儀器-功能的CC封裝器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32560487</id>
+        <link href="https://news.ycombinator.com/item?id=32560487"/>
+        <updated>2022-08-23T04:30:56.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: A CC Wrapper for -finstrument-functions]]></summary>
+        <author>
+            <name>hzhou321</name>
+            <uri>https://news.ycombinator.com/user?id=hzhou321</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[另一個Tailscale競爭者
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>DistantCl3ric</name>
             <uri>https://news.ycombinator.com/user?id=DistantCl3ric</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RandomGeo.City - 瀏覽隨機Geocities網站
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32304150</id>
-        <link href="https://news.ycombinator.com/item?id=32304150"/>
-        <updated>2022-08-01T10:40:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: RandomGeo.City – Browse Random Geocities Websites]]></summary>
-        <author>
-            <name>emeth</name>
-            <uri>https://news.ycombinator.com/user?id=emeth</uri>
         </author>
     </entry>
 </feed>
