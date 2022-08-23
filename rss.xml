@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 23 Aug 2022 08:36:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 10:34:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Protohackers: 服务器编程挑战
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32562581</link>
+            <guid>https://news.ycombinator.com/item?id=32562581</guid>
+            <pubDate>Tue, 23 Aug 2022 10:02:59 GMT</pubDate>
+            <description><![CDATA[Show HN: Protohackers: Server Programming Challenge]]></description>
+        </item>
         <item>
             <title><![CDATA[Ddosify Docker扩展
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32308859</guid>
             <pubDate>Mon, 01 Aug 2022 16:52:55 GMT</pubDate>
             <description><![CDATA[Show HN: Stories by AI, fiction written with GPT-3 and illustrated with DALL-E 2]]></description>
-        </item>
-        <item>
-            <title><![CDATA[PyFreeLeh - 一个简单的谷歌表格的DB接口
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32308649</link>
-            <guid>https://news.ycombinator.com/item?id=32308649</guid>
-            <pubDate>Mon, 01 Aug 2022 16:38:01 GMT</pubDate>
-            <description><![CDATA[Show HN: PyFreeLeh – A simple DB interface for Google Sheets]]></description>
         </item>
     </channel>
 </rss>
