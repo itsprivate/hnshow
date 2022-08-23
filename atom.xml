@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-23T17:59:07.473Z</updated>
+    <updated>2022-08-23T19:26:18.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[比特币工作原理的交互式视觉化
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32564070</id>
+        <link href="https://news.ycombinator.com/item?id=32564070"/>
+        <updated>2022-08-23T12:45:20.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Interactive visualization of how Bitcoin works]]></summary>
+        <author>
+            <name>marfl</name>
+            <uri>https://news.ycombinator.com/user?id=marfl</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源的Alt Text Twitter Bot
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>mcasey_gl</name>
             <uri>https://news.ycombinator.com/user?id=mcasey_gl</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PiBox：用于自我托管的微型个人服务器
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32313242</id>
-        <link href="https://news.ycombinator.com/item?id=32313242"/>
-        <updated>2022-08-01T23:04:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: PiBox: a tiny personal server for self-hosting]]></summary>
-        <author>
-            <name>erulabs</name>
-            <uri>https://news.ycombinator.com/user?id=erulabs</uri>
         </author>
     </entry>
 </feed>
