@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 23 Aug 2022 05:50:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 07:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[數據緊縮記號
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32561366</link>
+            <guid>https://news.ycombinator.com/item?id=32561366</guid>
+            <pubDate>Tue, 23 Aug 2022 06:57:11 GMT</pubDate>
+            <description><![CDATA[Show HN: Data Austerity Notation]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Crawlee - Node.js的網絡刮削和瀏覽器自動化庫
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32561127</link>
+            <guid>https://news.ycombinator.com/item?id=32561127</guid>
+            <pubDate>Tue, 23 Aug 2022 06:25:39 GMT</pubDate>
+            <description><![CDATA[Show HN: Crawlee – The web scraping and browser automation library for Node.js]]></description>
+        </item>
         <item>
             <title><![CDATA[一個用於-儀器-功能的CC封裝器
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32305042</guid>
             <pubDate>Mon, 01 Aug 2022 12:30:48 GMT</pubDate>
             <description><![CDATA[Show HN: Isla – Universal Interface for Task Management]]></description>
-        </item>
-        <item>
-            <title><![CDATA[歐洲的技術補償
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32304824</link>
-            <guid>https://news.ycombinator.com/item?id=32304824</guid>
-            <pubDate>Mon, 01 Aug 2022 12:07:18 GMT</pubDate>
-            <description><![CDATA[Show HN: Tech Compensation in Europe]]></description>
-        </item>
-        <item>
-            <title><![CDATA[VALR Pay - 免費的加密貨幣支付
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32304253</link>
-            <guid>https://news.ycombinator.com/item?id=32304253</guid>
-            <pubDate>Mon, 01 Aug 2022 10:54:53 GMT</pubDate>
-            <description><![CDATA[Show HN: VALR Pay – Free Crypto Payments]]></description>
         </item>
     </channel>
 </rss>

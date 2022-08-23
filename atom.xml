@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-23T05:50:42.110Z</updated>
+    <updated>2022-08-23T07:10:06.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[数据紧缩记号
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32561366</id>
+        <link href="https://news.ycombinator.com/item?id=32561366"/>
+        <updated>2022-08-23T06:57:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Data Austerity Notation]]></summary>
+        <author>
+            <name>djhaskin987</name>
+            <uri>https://news.ycombinator.com/user?id=djhaskin987</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crawlee - Node.js的网络刮削和浏览器自动化库
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32561127</id>
+        <link href="https://news.ycombinator.com/item?id=32561127"/>
+        <updated>2022-08-23T06:25:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Crawlee – The web scraping and browser automation library for Node.js]]></summary>
+        <author>
+            <name>jancurn</name>
+            <uri>https://news.ycombinator.com/user?id=jancurn</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一个用于-仪器-功能的CC封装器
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>rbellon</name>
             <uri>https://news.ycombinator.com/user?id=rbellon</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧洲的技术补偿
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32304824</id>
-        <link href="https://news.ycombinator.com/item?id=32304824"/>
-        <updated>2022-08-01T12:07:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tech Compensation in Europe]]></summary>
-        <author>
-            <name>gdaramouskas</name>
-            <uri>https://news.ycombinator.com/user?id=gdaramouskas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VALR Pay - 免费的加密货币支付
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32304253</id>
-        <link href="https://news.ycombinator.com/item?id=32304253"/>
-        <updated>2022-08-01T10:54:53.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: VALR Pay – Free Crypto Payments]]></summary>
-        <author>
-            <name>DistantCl3ric</name>
-            <uri>https://news.ycombinator.com/user?id=DistantCl3ric</uri>
         </author>
     </entry>
 </feed>
