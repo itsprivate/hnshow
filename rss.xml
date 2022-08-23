@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 23 Aug 2022 19:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 21:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[在本地主机上稳定的基于浏览器的Diffusion用户界面
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32571523</link>
+            <guid>https://news.ycombinator.com/item?id=32571523</guid>
+            <pubDate>Tue, 23 Aug 2022 21:07:26 GMT</pubDate>
+            <description><![CDATA[Show HN: Stable Diffusion browser-based UI on localhost]]></description>
+        </item>
         <item>
             <title><![CDATA[比特币工作原理的交互式视觉化
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32313509</guid>
             <pubDate>Mon, 01 Aug 2022 23:35:47 GMT</pubDate>
             <description><![CDATA[Show HN: Turn Spreadsheets, Airtable, or CSV to JSON through quick API endpoint]]></description>
-        </item>
-        <item>
-            <title><![CDATA[GhostLabel - 食品和饮料制造的B2B市场
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32313441</link>
-            <guid>https://news.ycombinator.com/item?id=32313441</guid>
-            <pubDate>Mon, 01 Aug 2022 23:26:35 GMT</pubDate>
-            <description><![CDATA[Show HN: GhostLabel – B2B Marketplace for Food and Beverage Manufacturing]]></description>
         </item>
     </channel>
 </rss>
