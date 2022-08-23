@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 23 Aug 2022 11:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 12:57:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[火箭 - 每个人都可以为网站编码（使用网络标准）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32563604</link>
+            <guid>https://news.ycombinator.com/item?id=32563604</guid>
+            <pubDate>Tue, 23 Aug 2022 12:07:19 GMT</pubDate>
+            <description><![CDATA[Show HN: Rocket – Everyone can code a Website (using web standards)]]></description>
+        </item>
         <item>
             <title><![CDATA[Showcqt-JS - 一个JavaScript音频可视化引擎库
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32310115</guid>
             <pubDate>Mon, 01 Aug 2022 18:20:23 GMT</pubDate>
             <description><![CDATA[Show HN: EchoRecipes – A Virtual Assistant for Cooking]]></description>
-        </item>
-        <item>
-            <title><![CDATA[打印年龄加密的小秘密，以便离线恢复
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32310101</link>
-            <guid>https://news.ycombinator.com/item?id=32310101</guid>
-            <pubDate>Mon, 01 Aug 2022 18:19:22 GMT</pubDate>
-            <description><![CDATA[Show HN: Print age encrypted small secrets for offline recovery]]></description>
         </item>
     </channel>
 </rss>
