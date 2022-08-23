@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-23T21:27:57.590Z</updated>
+    <updated>2022-08-23T23:32:09.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用Mage構建和部署數據管道
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32572839</id>
+        <link href="https://news.ycombinator.com/item?id=32572839"/>
+        <updated>2022-08-23T23:15:22.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Build and deploy data pipelines with Mage]]></summary>
+        <author>
+            <name>tchungry</name>
+            <uri>https://news.ycombinator.com/user?id=tchungry</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pornpen.ai，人工智能生成的色情作品
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32572770</id>
+        <link href="https://news.ycombinator.com/item?id=32572770"/>
+        <updated>2022-08-23T23:06:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Pornpen.ai, AI-Generated Porn]]></summary>
+        <author>
+            <name>dreampen</name>
+            <uri>https://news.ycombinator.com/user?id=dreampen</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[在本地主機上穩定的基於瀏覽器的Diffusion用戶界面
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>asdlkj178</name>
             <uri>https://news.ycombinator.com/user?id=asdlkj178</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[從CSV文件生成漂亮的CLI表格
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32314185</id>
-        <link href="https://news.ycombinator.com/item?id=32314185"/>
-        <updated>2022-08-02T01:22:52.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Generate beautiful CLI tables from CSV files]]></summary>
-        <author>
-            <name>memorable</name>
-            <uri>https://news.ycombinator.com/user?id=memorable</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通過快速的API端點將電子表格、Airtable或CSV變成JSON
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32313509</id>
-        <link href="https://news.ycombinator.com/item?id=32313509"/>
-        <updated>2022-08-01T23:35:47.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Turn Spreadsheets, Airtable, or CSV to JSON through quick API endpoint]]></summary>
-        <author>
-            <name>yelmahallawy</name>
-            <uri>https://news.ycombinator.com/user?id=yelmahallawy</uri>
         </author>
     </entry>
 </feed>
