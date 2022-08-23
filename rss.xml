@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Tue, 23 Aug 2022 13:53:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 14:34:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[Glue - 作为DAG的Pandas（现在是一个网络应用）。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32565365</link>
+            <guid>https://news.ycombinator.com/item?id=32565365</guid>
+            <pubDate>Tue, 23 Aug 2022 14:24:17 GMT</pubDate>
+            <description><![CDATA[Show HN: Glue – Pandas as a DAG (Now a web app)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[通过短信推荐书籍
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32565339</link>
+            <guid>https://news.ycombinator.com/item?id=32565339</guid>
+            <pubDate>Tue, 23 Aug 2022 14:22:45 GMT</pubDate>
+            <description><![CDATA[Show HN: Book Recommendations via SMS]]></description>
+        </item>
         <item>
             <title><![CDATA[Stylemapper - 一种更好的方式来样式React组件
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32310621</guid>
             <pubDate>Mon, 01 Aug 2022 18:59:57 GMT</pubDate>
             <description><![CDATA[Show HN: Machine learning using your budget]]></description>
-        </item>
-        <item>
-            <title><![CDATA[ImpactPharm //获得药剂师+医生的团队咨询!
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32310429</link>
-            <guid>https://news.ycombinator.com/item?id=32310429</guid>
-            <pubDate>Mon, 01 Aug 2022 18:44:39 GMT</pubDate>
-            <description><![CDATA[Show HN: ImpactPharm //Get a team consultation with a pharmacist + a physician!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[为许多基于CLI的在线媒体下载器提供基于Qt的图形用户界面
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32310273</link>
-            <guid>https://news.ycombinator.com/item?id=32310273</guid>
-            <pubDate>Mon, 01 Aug 2022 18:33:22 GMT</pubDate>
-            <description><![CDATA[Show HN: A Qt based GUI for many CLI based online media downloaders]]></description>
         </item>
     </channel>
 </rss>

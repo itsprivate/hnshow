@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-23T13:53:46.974Z</updated>
+    <updated>2022-08-23T14:34:03.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Glue - 作為DAG的Pandas（現在是一個網絡應用）。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32565365</id>
+        <link href="https://news.ycombinator.com/item?id=32565365"/>
+        <updated>2022-08-23T14:24:17.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Glue – Pandas as a DAG (Now a web app)]]></summary>
+        <author>
+            <name>gthompson1</name>
+            <uri>https://news.ycombinator.com/user?id=gthompson1</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通過短信推薦書籍
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32565339</id>
+        <link href="https://news.ycombinator.com/item?id=32565339"/>
+        <updated>2022-08-23T14:22:45.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Book Recommendations via SMS]]></summary>
+        <author>
+            <name>greenrock</name>
+            <uri>https://news.ycombinator.com/user?id=greenrock</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stylemapper - 一種更好的方式來樣式React組件
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>athomasg</name>
             <uri>https://news.ycombinator.com/user?id=athomasg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ImpactPharm //獲得藥劑師+醫生的團隊諮詢!
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32310429</id>
-        <link href="https://news.ycombinator.com/item?id=32310429"/>
-        <updated>2022-08-01T18:44:39.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: ImpactPharm //Get a team consultation with a pharmacist + a physician!]]></summary>
-        <author>
-            <name>ImpactPharm</name>
-            <uri>https://news.ycombinator.com/user?id=ImpactPharm</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為許多基於CLI的在線媒體下載器提供基於Qt的圖形用戶界面
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32310273</id>
-        <link href="https://news.ycombinator.com/item?id=32310273"/>
-        <updated>2022-08-01T18:33:22.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A Qt based GUI for many CLI based online media downloaders]]></summary>
-        <author>
-            <name>mhogomchungu</name>
-            <uri>https://news.ycombinator.com/user?id=mhogomchungu</uri>
         </author>
     </entry>
 </feed>
