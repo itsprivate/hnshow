@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-23T17:12:51.194Z</updated>
+    <updated>2022-08-23T17:43:51.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[PGenie - Postgres的SQL-to-SDK代码，就像REST的OpenAPI一样。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32568033</id>
+        <link href="https://news.ycombinator.com/item?id=32568033"/>
+        <updated>2022-08-23T17:18:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: PGenie – SQL-to-SDK codegen for Postgres, like what OpenAPI is for REST]]></summary>
+        <author>
+            <name>nikita-volkov</name>
+            <uri>https://news.ycombinator.com/user?id=nikita-volkov</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Opensquare的NFT商店生成器
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>chernobai</name>
             <uri>https://news.ycombinator.com/user?id=chernobai</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nocode功能已满一年
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32312135</id>
-        <link href="https://news.ycombinator.com/item?id=32312135"/>
-        <updated>2022-08-01T21:16:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Nocode functions is one year old]]></summary>
-        <author>
-            <name>seinecle</name>
-            <uri>https://news.ycombinator.com/user?id=seinecle</uri>
         </author>
     </entry>
 </feed>
