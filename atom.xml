@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-24T18:47:26.550Z</updated>
+    <updated>2022-08-24T19:34:37.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[DataLemur，一个免费的SQL面试准备平台
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32584550</id>
+        <link href="https://news.ycombinator.com/item?id=32584550"/>
+        <updated>2022-08-24T19:28:48.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: DataLemur, a Free SQL Interview Prep Platform]]></summary>
+        <author>
+            <name>NickSingh</name>
+            <uri>https://news.ycombinator.com/user?id=NickSingh</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ec2instances.info的新用户界面
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>rgbrgb</name>
             <uri>https://news.ycombinator.com/user?id=rgbrgb</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[`pls`是一个更漂亮和强大的`ls`，适合专业人士使用。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32319859</id>
-        <link href="https://news.ycombinator.com/item?id=32319859"/>
-        <updated>2022-08-02T15:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: `pls` is a prettier and powerful `ls` for the pros]]></summary>
-        <author>
-            <name>dhruvkb</name>
-            <uri>https://news.ycombinator.com/user?id=dhruvkb</uri>
         </author>
     </entry>
 </feed>
