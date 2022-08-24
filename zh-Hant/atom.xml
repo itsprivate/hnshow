@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-24T15:01:46.601Z</updated>
+    <updated>2022-08-24T16:45:21.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我的第一個網絡應用
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32581465</id>
+        <link href="https://news.ycombinator.com/item?id=32581465"/>
+        <updated>2022-08-24T16:13:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: My first ever web app]]></summary>
+        <author>
+            <name>mysticdev</name>
+            <uri>https://news.ycombinator.com/user?id=mysticdev</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我們將我們的大學創建為一個口袋妖怪式的地圖
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32581270</id>
+        <link href="https://news.ycombinator.com/item?id=32581270"/>
+        <updated>2022-08-24T16:02:59.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We created our university as a Pokemon-style map]]></summary>
+        <author>
+            <name>groverkss</name>
+            <uri>https://news.ycombinator.com/user?id=groverkss</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[跨平臺圍棋圖形用戶界面
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>qzx_pierri</name>
             <uri>https://news.ycombinator.com/user?id=qzx_pierri</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[低成本便攜式色譜儀的建立
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32318470</id>
-        <link href="https://news.ycombinator.com/item?id=32318470"/>
-        <updated>2022-08-02T13:53:16.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Low cost portable chromatograph build]]></summary>
-        <author>
-            <name>adomasm3</name>
-            <uri>https://news.ycombinator.com/user?id=adomasm3</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[當您的公司/項目在HN上被提及時，獲得Slack通知
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32318144</id>
-        <link href="https://news.ycombinator.com/item?id=32318144"/>
-        <updated>2022-08-02T13:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Get Slack notifications when your company/project is mentioned on HN]]></summary>
-        <author>
-            <name>steventey</name>
-            <uri>https://news.ycombinator.com/user?id=steventey</uri>
         </author>
     </entry>
 </feed>
