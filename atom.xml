@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-24T16:45:21.086Z</updated>
+    <updated>2022-08-24T17:11:36.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[用于OpenFaaS的ImageNet
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32582263</id>
+        <link href="https://news.ycombinator.com/item?id=32582263"/>
+        <updated>2022-08-24T16:55:39.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: ImageNet for OpenFaaS]]></summary>
+        <author>
+            <name>alexellisuk</name>
+            <uri>https://news.ycombinator.com/user?id=alexellisuk</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Browserslist网站--为前端工具配置目标浏览器
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32582163</id>
+        <link href="https://news.ycombinator.com/item?id=32582163"/>
+        <updated>2022-08-24T16:49:44.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Browserslist website – configure target browsers for front-end tools]]></summary>
+        <author>
+            <name>igorlukanin</name>
+            <uri>https://news.ycombinator.com/user?id=igorlukanin</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我的第一个网络应用
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>blaquaman</name>
             <uri>https://news.ycombinator.com/user?id=blaquaman</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tiki.li - 在20分钟内学习编程基础知识
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32319578</id>
-        <link href="https://news.ycombinator.com/item?id=32319578"/>
-        <updated>2022-08-02T15:13:35.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Tiki.li – Learn Programming Basics in 20 Minutes]]></summary>
-        <author>
-            <name>chkas</name>
-            <uri>https://news.ycombinator.com/user?id=chkas</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simplenote - 支持发布的笔记（托管，Markdown）。
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32319202</id>
-        <link href="https://news.ycombinator.com/item?id=32319202"/>
-        <updated>2022-08-02T14:47:38.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Simplenote – Notes with support for publishing (hosted, Markdown)]]></summary>
-        <author>
-            <name>qzx_pierri</name>
-            <uri>https://news.ycombinator.com/user?id=qzx_pierri</uri>
         </author>
     </entry>
 </feed>
