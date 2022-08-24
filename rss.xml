@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 24 Aug 2022 19:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 23:32:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[鲍勃-编辑
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32587242</link>
+            <guid>https://news.ycombinator.com/item?id=32587242</guid>
+            <pubDate>Wed, 24 Aug 2022 23:26:18 GMT</pubDate>
+            <description><![CDATA[Show HN: Bob-Editor]]></description>
+        </item>
+        <item>
+            <title><![CDATA[我建造了 "你是一个过度表演者吗？"
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32587178</link>
+            <guid>https://news.ycombinator.com/item?id=32587178</guid>
+            <pubDate>Wed, 24 Aug 2022 23:19:04 GMT</pubDate>
+            <description><![CDATA[Show HN: I Built “Are You an over Performer?”]]></description>
+        </item>
         <item>
             <title><![CDATA[DataLemur，一个免费的SQL面试准备平台
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32321278</guid>
             <pubDate>Tue, 02 Aug 2022 16:59:18 GMT</pubDate>
             <description><![CDATA[Show HN: Craftle]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Go中的RESTful API模板
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32321224</link>
-            <guid>https://news.ycombinator.com/item?id=32321224</guid>
-            <pubDate>Tue, 02 Aug 2022 16:56:32 GMT</pubDate>
-            <description><![CDATA[Show HN: A RESTful API Template in Go]]></description>
-        </item>
-        <item>
-            <title><![CDATA[我们做了一个用React建立、测试和发送邮件的工具
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32320699</link>
-            <guid>https://news.ycombinator.com/item?id=32320699</guid>
-            <pubDate>Tue, 02 Aug 2022 16:20:43 GMT</pubDate>
-            <description><![CDATA[Show HN: We made a tool to build, test and send emails with React]]></description>
         </item>
     </channel>
 </rss>

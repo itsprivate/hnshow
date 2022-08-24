@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-24T19:34:37.093Z</updated>
+    <updated>2022-08-24T23:32:33.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[鮑勃-編輯
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32587242</id>
+        <link href="https://news.ycombinator.com/item?id=32587242"/>
+        <updated>2022-08-24T23:26:18.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Bob-Editor]]></summary>
+        <author>
+            <name>ivanceras</name>
+            <uri>https://news.ycombinator.com/user?id=ivanceras</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我建造了 "你是一個過度表演者嗎？"
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32587178</id>
+        <link href="https://news.ycombinator.com/item?id=32587178"/>
+        <updated>2022-08-24T23:19:04.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I Built “Are You an over Performer?”]]></summary>
+        <author>
+            <name>kulsumshannan</name>
+            <uri>https://news.ycombinator.com/user?id=kulsumshannan</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DataLemur，一個免費的SQL面試準備平臺
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>athomasg</name>
             <uri>https://news.ycombinator.com/user?id=athomasg</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go中的RESTful API模板
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32321224</id>
-        <link href="https://news.ycombinator.com/item?id=32321224"/>
-        <updated>2022-08-02T16:56:32.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A RESTful API Template in Go]]></summary>
-        <author>
-            <name>ndimares</name>
-            <uri>https://news.ycombinator.com/user?id=ndimares</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我們做了一個用React建立、測試和發送郵件的工具
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32320699</id>
-        <link href="https://news.ycombinator.com/item?id=32320699"/>
-        <updated>2022-08-02T16:20:43.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: We made a tool to build, test and send emails with React]]></summary>
-        <author>
-            <name>rgbrgb</name>
-            <uri>https://news.ycombinator.com/user?id=rgbrgb</uri>
         </author>
     </entry>
 </feed>
