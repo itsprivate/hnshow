@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-24T09:01:23.757Z</updated>
+    <updated>2022-08-24T13:00:47.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年Flask指南与模板
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32578340</id>
+        <link href="https://news.ycombinator.com/item?id=32578340"/>
+        <updated>2022-08-24T12:13:58.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: 2022 Guide to Flask with a Boilerplate]]></summary>
+        <author>
+            <name>nomadrat</name>
+            <uri>https://news.ycombinator.com/user?id=nomadrat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fuzz Map - 一个GUI模糊器，互动演示
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32578311</id>
+        <link href="https://news.ycombinator.com/item?id=32578311"/>
+        <updated>2022-08-24T12:11:42.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Fuzz Map – a GUI fuzzer, interactive demo]]></summary>
+        <author>
+            <name>jonathanyc</name>
+            <uri>https://news.ycombinator.com/user?id=jonathanyc</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MassCode v3 - 开发者的开源代码片段管理器
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>jsdevtom</name>
             <uri>https://news.ycombinator.com/user?id=jsdevtom</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eattsy - 重新想象世界与烹饪和食物的关系
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32313879</id>
-        <link href="https://news.ycombinator.com/item?id=32313879"/>
-        <updated>2022-08-02T00:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Eattsy – Reimagining the world’s relationship with cooking and food]]></summary>
-        <author>
-            <name>nathanfromny</name>
-            <uri>https://news.ycombinator.com/user?id=nathanfromny</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谵妄之门--生命的游戏和Spotify视觉化
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32317301</id>
-        <link href="https://news.ycombinator.com/item?id=32317301"/>
-        <updated>2022-08-02T11:27:48.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Doors of Delirium – Game of Life and Spotify Visualisation]]></summary>
-        <author>
-            <name>jsomau</name>
-            <uri>https://news.ycombinator.com/user?id=jsomau</uri>
         </author>
     </entry>
 </feed>
