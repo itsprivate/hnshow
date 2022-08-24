@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-24T02:52:42.483Z</updated>
+    <updated>2022-08-24T04:29:03.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我們建立了一個自我託管的應用平臺，AMA
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32574887</id>
+        <link href="https://news.ycombinator.com/item?id=32574887"/>
+        <updated>2022-08-24T04:10:29.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: We built a self-hosted application platform, AMA]]></summary>
+        <author>
+            <name>balaa</name>
+            <uri>https://news.ycombinator.com/user?id=balaa</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3card a Decentralised Twitter
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32574675</id>
+        <link href="https://news.ycombinator.com/item?id=32574675"/>
+        <updated>2022-08-24T03:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: 3card a Decentralised Twitter]]></summary>
+        <author>
+            <name>jeff0723</name>
+            <uri>https://news.ycombinator.com/user?id=jeff0723</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[作為副業的數字產品；成功案例清單
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>corneliusventi</name>
             <uri>https://news.ycombinator.com/user?id=corneliusventi</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為項目經理精心挑選的資源
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32316639</id>
-        <link href="https://news.ycombinator.com/item?id=32316639"/>
-        <updated>2022-08-02T09:21:10.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Handpicked Resource for Project Managers]]></summary>
-        <author>
-            <name>askintml</name>
-            <uri>https://news.ycombinator.com/user?id=askintml</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[子版塊國家列表
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32316451</id>
-        <link href="https://news.ycombinator.com/item?id=32316451"/>
-        <updated>2022-08-02T08:47:23.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Subreddits Countries List]]></summary>
-        <author>
-            <name>naeemnur</name>
-            <uri>https://news.ycombinator.com/user?id=naeemnur</uri>
         </author>
     </entry>
 </feed>
