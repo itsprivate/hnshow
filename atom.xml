@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-24T13:00:47.786Z</updated>
+    <updated>2022-08-24T13:52:34.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[处理者。我的八键手持式 "梦想 "键盘
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32578906</id>
+        <link href="https://news.ycombinator.com/item?id=32578906"/>
+        <updated>2022-08-24T13:03:51.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: The Handler: My Eight Key Handheld “Dream” Keyboard]]></summary>
+        <author>
+            <name>gtrevorjay</name>
+            <uri>https://news.ycombinator.com/user?id=gtrevorjay</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年Flask指南与模板
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>lessio</name>
             <uri>https://news.ycombinator.com/user?id=lessio</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bustinger - 自动拦截YouTube的垃圾评论
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32317486</id>
-        <link href="https://news.ycombinator.com/item?id=32317486"/>
-        <updated>2022-08-02T11:55:37.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Bustinger – Bust YouTube spam comments automatically]]></summary>
-        <author>
-            <name>jsdevtom</name>
-            <uri>https://news.ycombinator.com/user?id=jsdevtom</uri>
         </author>
     </entry>
 </feed>
