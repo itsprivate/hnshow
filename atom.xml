@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-24T14:49:17.842Z</updated>
+    <updated>2022-08-24T15:01:46.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[跨平台围棋图形用户界面
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32580223</id>
+        <link href="https://news.ycombinator.com/item?id=32580223"/>
+        <updated>2022-08-24T14:53:11.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Cross Platform Go GUI]]></summary>
+        <author>
+            <name>hurnhu</name>
+            <uri>https://news.ycombinator.com/user?id=hurnhu</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LetsPY - 一个最小的Python编码游乐场
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>steventey</name>
             <uri>https://news.ycombinator.com/user?id=steventey</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python的数学类型
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32318020</id>
-        <link href="https://news.ycombinator.com/item?id=32318020"/>
-        <updated>2022-08-02T13:10:12.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Math Type for Python]]></summary>
-        <author>
-            <name>gamabunta</name>
-            <uri>https://news.ycombinator.com/user?id=gamabunta</uri>
         </author>
     </entry>
 </feed>

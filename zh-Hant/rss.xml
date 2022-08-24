@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Wed, 24 Aug 2022 14:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 15:01:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hant</language>
@@ -14,6 +14,14 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[跨平臺圍棋圖形用戶界面
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32580223</link>
+            <guid>https://news.ycombinator.com/item?id=32580223</guid>
+            <pubDate>Wed, 24 Aug 2022 14:53:11 GMT</pubDate>
+            <description><![CDATA[Show HN: Cross Platform Go GUI]]></description>
+        </item>
         <item>
             <title><![CDATA[LetsPY - 一個最小的Python編碼遊樂場
 ]]></title>
@@ -4805,14 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32318144</guid>
             <pubDate>Tue, 02 Aug 2022 13:22:00 GMT</pubDate>
             <description><![CDATA[Show HN: Get Slack notifications when your company/project is mentioned on HN]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Python的數學類型
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32318020</link>
-            <guid>https://news.ycombinator.com/item?id=32318020</guid>
-            <pubDate>Tue, 02 Aug 2022 13:10:12 GMT</pubDate>
-            <description><![CDATA[Show HN: Math Type for Python]]></description>
         </item>
     </channel>
 </rss>
