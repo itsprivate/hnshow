@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-25T07:43:17.037Z</updated>
+    <updated>2022-08-25T08:37:14.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[最佳的WebRTC項目在一個地方
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32590953</id>
+        <link href="https://news.ycombinator.com/item?id=32590953"/>
+        <updated>2022-08-25T08:08:26.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Best of WebRTC projects in one place]]></summary>
+        <author>
+            <name>webrtcIs</name>
+            <uri>https://news.ycombinator.com/user?id=webrtcIs</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我做了一個在線編輯器，用於使用HTML和TailwindCSS創建圖片
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>vax425</name>
             <uri>https://news.ycombinator.com/user?id=vax425</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[媽媽，我們可以在家裡吃（Haskell風味的）後現代C++嗎？
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32324987</id>
-        <link href="https://news.ycombinator.com/item?id=32324987"/>
-        <updated>2022-08-02T22:18:57.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Mom, can we have (Haskell flavored) post-modern C++ at home?]]></summary>
-        <author>
-            <name>amazing42</name>
-            <uri>https://news.ycombinator.com/user?id=amazing42</uri>
         </author>
     </entry>
 </feed>
