@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-25T07:10:05.268Z</updated>
+    <updated>2022-08-25T07:43:17.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,30 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[我做了一個在線編輯器，用於使用HTML和TailwindCSS創建圖片
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32590751</id>
+        <link href="https://news.ycombinator.com/item?id=32590751"/>
+        <updated>2022-08-25T07:36:08.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: I made an online editor for creating images using HTML and TailwindCSS]]></summary>
+        <author>
+            <name>0x142857</name>
+            <uri>https://news.ycombinator.com/user?id=0x142857</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初學者/專家的hello world編碼實例。C、C++、Python、Bash等。
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32590599</id>
+        <link href="https://news.ycombinator.com/item?id=32590599"/>
+        <updated>2022-08-25T07:15:19.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Beginner/expert hello world coding examples: C, C++, Python, Bash, etc.]]></summary>
+        <author>
+            <name>techie2022</name>
+            <uri>https://news.ycombinator.com/user?id=techie2022</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用TouchID+Secure Enclave保護數據的命令行工具
 ]]></title>
@@ -7189,30 +7213,6 @@
         <author>
             <name>amazing42</name>
             <uri>https://news.ycombinator.com/user?id=amazing42</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[論語》公佈聊天內容
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32324827</id>
-        <link href="https://news.ycombinator.com/item?id=32324827"/>
-        <updated>2022-08-02T22:01:40.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Discourse Announces Chat]]></summary>
-        <author>
-            <name>sams99</name>
-            <uri>https://news.ycombinator.com/user?id=sams99</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保護你的智能家居免受網絡威脅的一個簡單方法
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32323495</id>
-        <link href="https://news.ycombinator.com/item?id=32323495"/>
-        <updated>2022-08-02T19:55:34.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: A simple way to secure your smart home from cyber threats]]></summary>
-        <author>
-            <name>tobywilmington</name>
-            <uri>https://news.ycombinator.com/user?id=tobywilmington</uri>
         </author>
     </entry>
 </feed>

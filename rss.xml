@@ -4,7 +4,7 @@
         <title>👋 Show HN!</title>
         <link>https://showhn.buzzing.cc</link>
         <description>用中文浏览Hacker News Show HN 最新作品</description>
-        <lastBuildDate>Thu, 25 Aug 2022 07:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 07:43:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-Hans</language>
@@ -14,6 +14,22 @@
             <link>https://showhn.buzzing.cc</link>
         </image>
         <copyright>All rights reserved 2022, Owen</copyright>
+        <item>
+            <title><![CDATA[我做了一个在线编辑器，用于使用HTML和TailwindCSS创建图片
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32590751</link>
+            <guid>https://news.ycombinator.com/item?id=32590751</guid>
+            <pubDate>Thu, 25 Aug 2022 07:36:08 GMT</pubDate>
+            <description><![CDATA[Show HN: I made an online editor for creating images using HTML and TailwindCSS]]></description>
+        </item>
+        <item>
+            <title><![CDATA[初学者/专家的hello world编码实例。C、C++、Python、Bash等。
+]]></title>
+            <link>https://news.ycombinator.com/item?id=32590599</link>
+            <guid>https://news.ycombinator.com/item?id=32590599</guid>
+            <pubDate>Thu, 25 Aug 2022 07:15:19 GMT</pubDate>
+            <description><![CDATA[Show HN: Beginner/expert hello world coding examples: C, C++, Python, Bash, etc.]]></description>
+        </item>
         <item>
             <title><![CDATA[使用TouchID+Secure Enclave保护数据的命令行工具
 ]]></title>
@@ -4797,22 +4813,6 @@
             <guid>https://news.ycombinator.com/item?id=32324987</guid>
             <pubDate>Tue, 02 Aug 2022 22:18:57 GMT</pubDate>
             <description><![CDATA[Show HN: Mom, can we have (Haskell flavored) post-modern C++ at home?]]></description>
-        </item>
-        <item>
-            <title><![CDATA[论语》公布聊天内容
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32324827</link>
-            <guid>https://news.ycombinator.com/item?id=32324827</guid>
-            <pubDate>Tue, 02 Aug 2022 22:01:40 GMT</pubDate>
-            <description><![CDATA[Show HN: Discourse Announces Chat]]></description>
-        </item>
-        <item>
-            <title><![CDATA[保护你的智能家居免受网络威胁的一个简单方法
-]]></title>
-            <link>https://news.ycombinator.com/item?id=32323495</link>
-            <guid>https://news.ycombinator.com/item?id=32323495</guid>
-            <pubDate>Tue, 02 Aug 2022 19:55:34 GMT</pubDate>
-            <description><![CDATA[Show HN: A simple way to secure your smart home from cyber threats]]></description>
         </item>
     </channel>
 </rss>
