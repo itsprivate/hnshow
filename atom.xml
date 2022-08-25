@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://showhn.buzzing.cc</id>
     <title>👋 Show HN!</title>
-    <updated>2022-08-24T23:32:33.428Z</updated>
+    <updated>2022-08-25T04:35:41.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Buzzing</name>
@@ -15,6 +15,18 @@
     <logo>http://example.com/image.png</logo>
     <icon>https://showhn.buzzing.cc/favicon.ico</icon>
     <rights>All rights reserved 2022, Owen</rights>
+    <entry>
+        <title type="html"><![CDATA[Eclipse。受Python-fire启发的库，简化了Go中CLI的创建过程
+]]></title>
+        <id>https://news.ycombinator.com/item?id=32589291</id>
+        <link href="https://news.ycombinator.com/item?id=32589291"/>
+        <updated>2022-08-25T03:55:13.000Z</updated>
+        <summary type="html"><![CDATA[Show HN: Eclipse: Python-fire inspired library to simplify creating CLIs in Go]]></summary>
+        <author>
+            <name>avamsi</name>
+            <uri>https://news.ycombinator.com/user?id=avamsi</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[鲍勃-编辑
 ]]></title>
@@ -7201,18 +7213,6 @@
         <author>
             <name>toricalea</name>
             <uri>https://news.ycombinator.com/user?id=toricalea</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卡夫勒
-]]></title>
-        <id>https://news.ycombinator.com/item?id=32321278</id>
-        <link href="https://news.ycombinator.com/item?id=32321278"/>
-        <updated>2022-08-02T16:59:18.000Z</updated>
-        <summary type="html"><![CDATA[Show HN: Craftle]]></summary>
-        <author>
-            <name>athomasg</name>
-            <uri>https://news.ycombinator.com/user?id=athomasg</uri>
         </author>
     </entry>
 </feed>
